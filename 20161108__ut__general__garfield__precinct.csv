@@ -1,0 +1,397 @@
+county,precincts,office,district,party,candidate,votes
+Garfield,Antimony,President,,Democratic,'Rocky' Roque De La,0
+Garfield,Antimony,President,,Green,Jill Stein,0
+Garfield,Antimony,President,,Socialist Workers,Alyson Kennedy,0
+Garfield,Antimony,President,,Libertarian,Gary Johnson,3
+Garfield,Boulder,President,,Democratic,'Rocky' Roque De La,0
+Garfield,Boulder,President,,Green,Jill Stein,9
+Garfield,Boulder,President,,Socialist Workers,Alyson Kennedy,0
+Garfield,Boulder,President,,Libertarian,Gary Johnson,10
+Garfield,Cannonville,President,,Democratic,'Rocky' Roque De La,0
+Garfield,Cannonville,President,,Green,Jill Stein,1
+Garfield,Cannonville,President,,Socialist Workers,Alyson Kennedy,0
+Garfield,Cannonville,President,,Libertarian,Gary Johnson,1
+Garfield,Escalante,President,,Democratic,'Rocky' Roque De La,0
+Garfield,Escalante,President,,Green,Jill Stein,5
+Garfield,Escalante,President,,Socialist Workers,Alyson Kennedy,2
+Garfield,Escalante,President,,Libertarian,Gary Johnson,18
+Garfield,Hatch,President,,Democratic,'Rocky' Roque De La,0
+Garfield,Hatch,President,,Green,Jill Stein,0
+Garfield,Hatch,President,,Socialist Workers,Alyson Kennedy,0
+Garfield,Hatch,President,,Libertarian,Gary Johnson,3
+Garfield,Henrieville,President,,Democratic,'Rocky' Roque De La,0
+Garfield,Henrieville,President,,Green,Jill Stein,0
+Garfield,Henrieville,President,,Socialist Workers,Alyson Kennedy,0
+Garfield,Henrieville,President,,Libertarian,Gary Johnson,2
+Garfield,Pang1,President,,Democratic,'Rocky' Roque De La,0
+Garfield,Pang1,President,,Green,Jill Stein,1
+Garfield,Pang1,President,,Socialist Workers,Alyson Kennedy,0
+Garfield,Pang1,President,,Libertarian,Gary Johnson,11
+Garfield,Pang2,President,,Democratic,'Rocky' Roque De La,0
+Garfield,Pang2,President,,Green,Jill Stein,0
+Garfield,Pang2,President,,Socialist Workers,Alyson Kennedy,0
+Garfield,Pang2,President,,Libertarian,Gary Johnson,7
+Garfield,Ticaboo,President,,Democratic,'Rocky' Roque De La,1
+Garfield,Ticaboo,President,,Green,Jill Stein,0
+Garfield,Ticaboo,President,,Socialist Workers,Alyson Kennedy,0
+Garfield,Ticaboo,President,,Libertarian,Gary Johnson,0
+Garfield,Tropic,President,,Democratic,'Rocky' Roque De La,0
+Garfield,Tropic,President,,Green,Jill Stein,0
+Garfield,Tropic,President,,Socialist Workers,Alyson Kennedy,0
+Garfield,Tropic,President,,Libertarian,Gary Johnson,6
+Garfield,Bryce,President,,Democratic,'Rocky' Roque De La,0
+Garfield,Bryce,President,,Green,Jill Stein,0
+Garfield,Bryce,President,,Socialist Workers,Alyson Kennedy,0
+Garfield,Bryce,President,,Libertarian,Gary Johnson,0
+Garfield,Antimony,President,,Independent,Rocky Giordani,0
+Garfield,Antimony,President,,Republican,Donald J. Trump,55
+Garfield,Antimony,President,,Constitution,Darrell L. Castle,0
+Garfield,Antimony,President,,Democratic,Hillary Rodham Clin,5
+Garfield,Antimony,President,,Workers World,Monica Moorehead,0
+Garfield,Antimony,President,,Independent,Evan McMullin,10
+Garfield,Boulder,President,,Independent,Rocky Giordani,2
+Garfield,Boulder,President,,Republican,Donald J. Trump,65
+Garfield,Boulder,President,,Constitution,Darrell L. Castle,0
+Garfield,Boulder,President,,Democratic,Hillary Rodham Clin,94
+Garfield,Boulder,President,,Workers World,Monica Moorehead,1
+Garfield,Boulder,President,,Independent,Evan McMullin,23
+Garfield,Cannonville,President,,Independent,Rocky Giordani,0
+Garfield,Cannonville,President,,Republican,Donald J. Trump,55
+Garfield,Cannonville,President,,Constitution,Darrell L. Castle,0
+Garfield,Cannonville,President,,Democratic,Hillary Rodham Clin,2
+Garfield,Cannonville,President,,Workers World,Monica Moorehead,0
+Garfield,Cannonville,President,,Independent,Evan McMullin,15
+Garfield,Escalante,President,,Independent,Rocky Giordani,3
+Garfield,Escalante,President,,Republican,Donald J. Trump,306
+Garfield,Escalante,President,,Constitution,Darrell L. Castle,1
+Garfield,Escalante,President,,Democratic,Hillary Rodham Clin,105
+Garfield,Escalante,President,,Workers World,Monica Moorehead,1
+Garfield,Escalante,President,,Independent,Evan McMullin,40
+Garfield,Hatch,President,,Independent,Rocky Giordani,1
+Garfield,Hatch,President,,Republican,Donald J. Trump,120
+Garfield,Hatch,President,,Constitution,Darrell L. Castle,0
+Garfield,Hatch,President,,Democratic,Hillary Rodham Clin,23
+Garfield,Hatch,President,,Workers World,Monica Moorehead,0
+Garfield,Hatch,President,,Independent,Evan McMullin,11
+Garfield,Henrieville,President,,Independent,Rocky Giordani,0
+Garfield,Henrieville,President,,Republican,Donald J. Trump,75
+Garfield,Henrieville,President,,Constitution,Darrell L. Castle,0
+Garfield,Henrieville,President,,Democratic,Hillary Rodham Clin,15
+Garfield,Henrieville,President,,Workers World,Monica Moorehead,0
+Garfield,Henrieville,President,,Independent,Evan McMullin,27
+Garfield,Pang1,President,,Independent,Rocky Giordani,1
+Garfield,Pang1,President,,Republican,Donald J. Trump,391
+Garfield,Pang1,President,,Constitution,Darrell L. Castle,0
+Garfield,Pang1,President,,Democratic,Hillary Rodham Clin,50
+Garfield,Pang1,President,,Workers World,Monica Moorehead,1
+Garfield,Pang1,President,,Independent,Evan McMullin,67
+Garfield,Pang2,President,,Independent,Rocky Giordani,0
+Garfield,Pang2,President,,Republican,Donald J. Trump,302
+Garfield,Pang2,President,,Constitution,Darrell L. Castle,0
+Garfield,Pang2,President,,Democratic,Hillary Rodham Clin,35
+Garfield,Pang2,President,,Workers World,Monica Moorehead,1
+Garfield,Pang2,President,,Independent,Evan McMullin,53
+Garfield,Ticaboo,President,,Independent,Rocky Giordani,0
+Garfield,Ticaboo,President,,Republican,Donald J. Trump,14
+Garfield,Ticaboo,President,,Constitution,Darrell L. Castle,0
+Garfield,Ticaboo,President,,Democratic,Hillary Rodham Clin,3
+Garfield,Ticaboo,President,,Workers World,Monica Moorehead,0
+Garfield,Ticaboo,President,,Independent,Evan McMullin,5
+Garfield,Tropic,President,,Independent,Rocky Giordani,0
+Garfield,Tropic,President,,Republican,Donald J. Trump,199
+Garfield,Tropic,President,,Constitution,Darrell L. Castle,2
+Garfield,Tropic,President,,Democratic,Hillary Rodham Clin,24
+Garfield,Tropic,President,,Workers World,Monica Moorehead,0
+Garfield,Tropic,President,,Independent,Evan McMullin,33
+Garfield,Bryce,President,,Independent,Rocky Giordani,0
+Garfield,Bryce,President,,Republican,Donald J. Trump,24
+Garfield,Bryce,President,,Constitution,Darrell L. Castle,0
+Garfield,Bryce,President,,Democratic,Hillary Rodham Clin,2
+Garfield,Bryce,President,,Workers World,Monica Moorehead,0
+Garfield,Bryce,President,,Independent,Evan McMullin,2
+Garfield,Antimony,President,,,Write-In,0
+Garfield,Boulder,President,,,Write-In,5
+Garfield,Cannonville,President,,,Write-In,0
+Garfield,Escalante,President,,,Write-In,1
+Garfield,Hatch,President,,,Write-In,1
+Garfield,Henrieville,President,,,Write-In,0
+Garfield,Pang1,President,,,Write-In,3
+Garfield,Pang2,President,,,Write-In,3
+Garfield,Ticaboo,President,,,Write-In,1
+Garfield,Tropic,President,,,Write-In,5
+Garfield,Bryce,President,,,Write-In,0
+Garfield,Antimony,U.S. Senate,,Democratic,Misty K Snow,5
+Garfield,Antimony,U.S. Senate,,Independent,Bill Barron,1
+Garfield,Antimony,U.S. Senate,,Independent American,Stoney Fonua,1
+Garfield,Boulder,U.S. Senate,,Democratic,Misty K Snow,90
+Garfield,Boulder,U.S. Senate,,Independent,Bill Barron,22
+Garfield,Boulder,U.S. Senate,,Independent American,Stoney Fonua,4
+Garfield,Cannonville,U.S. Senate,,Democratic,Misty K Snow,4
+Garfield,Cannonville,U.S. Senate,,Independent,Bill Barron,1
+Garfield,Cannonville,U.S. Senate,,Independent American,Stoney Fonua,0
+Garfield,Escalante,U.S. Senate,,Democratic,Misty K Snow,121
+Garfield,Escalante,U.S. Senate,,Independent,Bill Barron,10
+Garfield,Escalante,U.S. Senate,,Independent American,Stoney Fonua,5
+Garfield,Hatch,U.S. Senate,,Democratic,Misty K Snow,19
+Garfield,Hatch,U.S. Senate,,Independent,Bill Barron,5
+Garfield,Hatch,U.S. Senate,,Independent American,Stoney Fonua,1
+Garfield,Henrieville,U.S. Senate,,Democratic,Misty K Snow,13
+Garfield,Henrieville,U.S. Senate,,Independent,Bill Barron,0
+Garfield,Henrieville,U.S. Senate,,Independent American,Stoney Fonua,4
+Garfield,Pang1,U.S. Senate,,Democratic,Misty K Snow,49
+Garfield,Pang1,U.S. Senate,,Independent,Bill Barron,2
+Garfield,Pang1,U.S. Senate,,Independent American,Stoney Fonua,4
+Garfield,Pang2,U.S. Senate,,Democratic,Misty K Snow,31
+Garfield,Pang2,U.S. Senate,,Independent,Bill Barron,1
+Garfield,Pang2,U.S. Senate,,Independent American,Stoney Fonua,5
+Garfield,Ticaboo,U.S. Senate,,Democratic,Misty K Snow,7
+Garfield,Ticaboo,U.S. Senate,,Independent,Bill Barron,2
+Garfield,Ticaboo,U.S. Senate,,Independent American,Stoney Fonua,0
+Garfield,Tropic,U.S. Senate,,Democratic,Misty K Snow,20
+Garfield,Tropic,U.S. Senate,,Independent,Bill Barron,2
+Garfield,Tropic,U.S. Senate,,Independent American,Stoney Fonua,2
+Garfield,Bryce,U.S. Senate,,Democratic,Misty K Snow,2
+Garfield,Bryce,U.S. Senate,,Independent,Bill Barron,0
+Garfield,Bryce,U.S. Senate,,Independent American,Stoney Fonua,0
+Garfield,Antimony,U.S. Senate,,Republican,Mike Lee,66
+Garfield,Boulder,U.S. Senate,,Republican,Mike Lee,92
+Garfield,Cannonville,U.S. Senate,,Republican,Mike Lee,68
+Garfield,Escalante,U.S. Senate,,Republican,Mike Lee,339
+Garfield,Hatch,U.S. Senate,,Republican,Mike Lee,136
+Garfield,Henrieville,U.S. Senate,,Republican,Mike Lee,101
+Garfield,Pang1,U.S. Senate,,Republican,Mike Lee,464
+Garfield,Pang2,U.S. Senate,,Republican,Mike Lee,357
+Garfield,Ticaboo,U.S. Senate,,Republican,Mike Lee,15
+Garfield,Tropic,U.S. Senate,,Republican,Mike Lee,239
+Garfield,Bryce,U.S. Senate,,Republican,Mike Lee,26
+Garfield,Antimony,U.S. House,2,Republican,Chris Stewart,61
+Garfield,Antimony,U.S. House,2,Democratic,Charlene Albarran,5
+Garfield,Antimony,U.S. House,2,Constitution,Paul J. McCollaum Jr,3
+Garfield,Boulder,U.S. House,2,Republican,Chris Stewart,82
+Garfield,Boulder,U.S. House,2,Democratic,Charlene Albarran,108
+Garfield,Boulder,U.S. House,2,Constitution,Paul J. McCollaum Jr,10
+Garfield,Cannonville,U.S. House,2,Republican,Chris Stewart,64
+Garfield,Cannonville,U.S. House,2,Democratic,Charlene Albarran,5
+Garfield,Cannonville,U.S. House,2,Constitution,Paul J. McCollaum Jr,2
+Garfield,Escalante,U.S. House,2,Republican,Chris Stewart,334
+Garfield,Escalante,U.S. House,2,Democratic,Charlene Albarran,120
+Garfield,Escalante,U.S. House,2,Constitution,Paul J. McCollaum Jr,10
+Garfield,Hatch,U.S. House,2,Republican,Chris Stewart,127
+Garfield,Hatch,U.S. House,2,Democratic,Charlene Albarran,25
+Garfield,Hatch,U.S. House,2,Constitution,Paul J. McCollaum Jr,6
+Garfield,Henrieville,U.S. House,2,Republican,Chris Stewart,97
+Garfield,Henrieville,U.S. House,2,Democratic,Charlene Albarran,13
+Garfield,Henrieville,U.S. House,2,Constitution,Paul J. McCollaum Jr,8
+Garfield,Pang1,U.S. House,2,Republican,Chris Stewart,452
+Garfield,Pang1,U.S. House,2,Democratic,Charlene Albarran,44
+Garfield,Pang1,U.S. House,2,Constitution,Paul J. McCollaum Jr,11
+Garfield,Pang2,U.S. House,2,Republican,Chris Stewart,338
+Garfield,Pang2,U.S. House,2,Democratic,Charlene Albarran,36
+Garfield,Pang2,U.S. House,2,Constitution,Paul J. McCollaum Jr,14
+Garfield,Ticaboo,U.S. House,2,Republican,Chris Stewart,14
+Garfield,Ticaboo,U.S. House,2,Democratic,Charlene Albarran,5
+Garfield,Ticaboo,U.S. House,2,Constitution,Paul J. McCollaum Jr,4
+Garfield,Tropic,U.S. House,2,Republican,Chris Stewart,234
+Garfield,Tropic,U.S. House,2,Democratic,Charlene Albarran,23
+Garfield,Tropic,U.S. House,2,Constitution,Paul J. McCollaum Jr,6
+Garfield,Bryce,U.S. House,2,Republican,Chris Stewart,26
+Garfield,Bryce,U.S. House,2,Democratic,Charlene Albarran,2
+Garfield,Bryce,U.S. House,2,Constitution,Paul J. McCollaum Jr,0
+Garfield,Antimony,Governor,,Republican,Gary R. Herbert,67
+Garfield,Antimony,Governor,,Independent,Superdell Schanze,1
+Garfield,Antimony,Governor,,Libertarian,Brian E. Kamerath,1
+Garfield,Boulder,Governor,,Republican,Gary R. Herbert,90
+Garfield,Boulder,Governor,,Independent,Superdell Schanze,1
+Garfield,Boulder,Governor,,Libertarian,Brian E. Kamerath,5
+Garfield,Cannonville,Governor,,Republican,Gary R. Herbert,67
+Garfield,Cannonville,Governor,,Independent,Superdell Schanze,0
+Garfield,Cannonville,Governor,,Libertarian,Brian E. Kamerath,2
+Garfield,Escalante,Governor,,Republican,Gary R. Herbert,344
+Garfield,Escalante,Governor,,Independent,Superdell Schanze,1
+Garfield,Escalante,Governor,,Libertarian,Brian E. Kamerath,9
+Garfield,Hatch,Governor,,Republican,Gary R. Herbert,123
+Garfield,Hatch,Governor,,Independent,Superdell Schanze,6
+Garfield,Hatch,Governor,,Libertarian,Brian E. Kamerath,7
+Garfield,Henrieville,Governor,,Republican,Gary R. Herbert,96
+Garfield,Henrieville,Governor,,Independent,Superdell Schanze,0
+Garfield,Henrieville,Governor,,Libertarian,Brian E. Kamerath,5
+Garfield,Pang1,Governor,,Republican,Gary R. Herbert,468
+Garfield,Pang1,Governor,,Independent,Superdell Schanze,7
+Garfield,Pang1,Governor,,Libertarian,Brian E. Kamerath,7
+Garfield,Pang2,Governor,,Republican,Gary R. Herbert,348
+Garfield,Pang2,Governor,,Independent,Superdell Schanze,7
+Garfield,Pang2,Governor,,Libertarian,Brian E. Kamerath,6
+Garfield,Ticaboo,Governor,,Republican,Gary R. Herbert,17
+Garfield,Ticaboo,Governor,,Independent,Superdell Schanze,2
+Garfield,Ticaboo,Governor,,Libertarian,Brian E. Kamerath,2
+Garfield,Tropic,Governor,,Republican,Gary R. Herbert,242
+Garfield,Tropic,Governor,,Independent,Superdell Schanze,1
+Garfield,Tropic,Governor,,Libertarian,Brian E. Kamerath,3
+Garfield,Bryce,Governor,,Republican,Gary R. Herbert,26
+Garfield,Bryce,Governor,,Independent,Superdell Schanze,0
+Garfield,Bryce,Governor,,Libertarian,Brian E. Kamerath,0
+Garfield,Antimony,Governor,,Democratic,Mike Weinholtz,4
+Garfield,Antimony,Governor,,,Write-In,0
+Garfield,Boulder,Governor,,Democratic,Mike Weinholtz,108
+Garfield,Boulder,Governor,,,Write-In,0
+Garfield,Cannonville,Governor,,Democratic,Mike Weinholtz,5
+Garfield,Cannonville,Governor,,,Write-In,0
+Garfield,Escalante,Governor,,Democratic,Mike Weinholtz,120
+Garfield,Escalante,Governor,,,Write-In,1
+Garfield,Hatch,Governor,,Democratic,Mike Weinholtz,23
+Garfield,Hatch,Governor,,,Write-In,0
+Garfield,Henrieville,Governor,,Democratic,Mike Weinholtz,16
+Garfield,Henrieville,Governor,,,Write-In,1
+Garfield,Pang1,Governor,,Democratic,Mike Weinholtz,41
+Garfield,Pang1,Governor,,,Write-In,0
+Garfield,Pang2,Governor,,Democratic,Mike Weinholtz,37
+Garfield,Pang2,Governor,,,Write-In,2
+Garfield,Ticaboo,Governor,,Democratic,Mike Weinholtz,3
+Garfield,Ticaboo,Governor,,,Write-In,0
+Garfield,Tropic,Governor,,Democratic,Mike Weinholtz,19
+Garfield,Tropic,Governor,,,Write-In,1
+Garfield,Bryce,Governor,,Democratic,Mike Weinholtz,2
+Garfield,Bryce,Governor,,,Write-In,0
+Garfield,Antimony,Attorney General,,Independent American,Michael W. Isbell,1
+Garfield,Antimony,Attorney General,,Democratic,Jon V. Harper,5
+Garfield,Antimony,Attorney General,,Republican,Sean D. Reyes,63
+Garfield,Boulder,Attorney General,,Independent American,Michael W. Isbell,6
+Garfield,Boulder,Attorney General,,Democratic,Jon V. Harper,88
+Garfield,Boulder,Attorney General,,Republican,Sean D. Reyes,72
+Garfield,Cannonville,Attorney General,,Independent American,Michael W. Isbell,0
+Garfield,Cannonville,Attorney General,,Democratic,Jon V. Harper,6
+Garfield,Cannonville,Attorney General,,Republican,Sean D. Reyes,64
+Garfield,Escalante,Attorney General,,Independent American,Michael W. Isbell,5
+Garfield,Escalante,Attorney General,,Democratic,Jon V. Harper,113
+Garfield,Escalante,Attorney General,,Republican,Sean D. Reyes,320
+Garfield,Hatch,Attorney General,,Independent American,Michael W. Isbell,6
+Garfield,Hatch,Attorney General,,Democratic,Jon V. Harper,23
+Garfield,Hatch,Attorney General,,Republican,Sean D. Reyes,122
+Garfield,Henrieville,Attorney General,,Independent American,Michael W. Isbell,1
+Garfield,Henrieville,Attorney General,,Democratic,Jon V. Harper,11
+Garfield,Henrieville,Attorney General,,Republican,Sean D. Reyes,94
+Garfield,Pang1,Attorney General,,Independent American,Michael W. Isbell,14
+Garfield,Pang1,Attorney General,,Democratic,Jon V. Harper,45
+Garfield,Pang1,Attorney General,,Republican,Sean D. Reyes,430
+Garfield,Pang2,Attorney General,,Independent American,Michael W. Isbell,4
+Garfield,Pang2,Attorney General,,Democratic,Jon V. Harper,33
+Garfield,Pang2,Attorney General,,Republican,Sean D. Reyes,343
+Garfield,Ticaboo,Attorney General,,Independent American,Michael W. Isbell,0
+Garfield,Ticaboo,Attorney General,,Democratic,Jon V. Harper,4
+Garfield,Ticaboo,Attorney General,,Republican,Sean D. Reyes,12
+Garfield,Tropic,Attorney General,,Independent American,Michael W. Isbell,2
+Garfield,Tropic,Attorney General,,Democratic,Jon V. Harper,23
+Garfield,Tropic,Attorney General,,Republican,Sean D. Reyes,229
+Garfield,Bryce,Attorney General,,Independent American,Michael W. Isbell,0
+Garfield,Bryce,Attorney General,,Democratic,Jon V. Harper,3
+Garfield,Bryce,Attorney General,,Republican,Sean D. Reyes,25
+Garfield,Antimony,Attorney General,,Libertarian,W. Andrew McCullough,4
+Garfield,Boulder,Attorney General,,Libertarian,W. Andrew McCullough,25
+Garfield,Cannonville,Attorney General,,Libertarian,W. Andrew McCullough,5
+Garfield,Escalante,Attorney General,,Libertarian,W. Andrew McCullough,24
+Garfield,Hatch,Attorney General,,Libertarian,W. Andrew McCullough,4
+Garfield,Henrieville,Attorney General,,Libertarian,W. Andrew McCullough,10
+Garfield,Pang1,Attorney General,,Libertarian,W. Andrew McCullough,18
+Garfield,Pang2,Attorney General,,Libertarian,W. Andrew McCullough,9
+Garfield,Ticaboo,Attorney General,,Libertarian,W. Andrew McCullough,7
+Garfield,Tropic,Attorney General,,Libertarian,W. Andrew McCullough,8
+Garfield,Bryce,Attorney General,,Libertarian,W. Andrew McCullough,0
+Garfield,Antimony,State Auditor,,Republican,John Dougall,64
+Garfield,Antimony,State Auditor,,Independent American,Jared Green,1
+Garfield,Antimony,State Auditor,,Democratic, Mike Mitchell,6
+Garfield,Boulder,State Auditor,,Republican,John Dougall,66
+Garfield,Boulder,State Auditor,,Independent American,Jared Green,17
+Garfield,Boulder,State Auditor,,Democratic, Mike Mitchell,101
+Garfield,Cannonville,State Auditor,,Republican,John Dougall,62
+Garfield,Cannonville,State Auditor,,Independent American,Jared Green,2
+Garfield,Cannonville,State Auditor,,Democratic, Mike Mitchell,9
+Garfield,Escalante,State Auditor,,Republican,John Dougall,312
+Garfield,Escalante,State Auditor,,Independent American,Jared Green,14
+Garfield,Escalante,State Auditor,,Democratic, Mike Mitchell,122
+Garfield,Hatch,State Auditor,,Republican,John Dougall,124
+Garfield,Hatch,State Auditor,,Independent American,Jared Green,8
+Garfield,Hatch,State Auditor,,Democratic, Mike Mitchell,19
+Garfield,Henrieville,State Auditor,,Republican,John Dougall,87
+Garfield,Henrieville,State Auditor,,Independent American,Jared Green,9
+Garfield,Henrieville,State Auditor,,Democratic, Mike Mitchell,20
+Garfield,Pang1,State Auditor,,Republican,John Dougall,407
+Garfield,Pang1,State Auditor,,Independent American,Jared Green,28
+Garfield,Pang1,State Auditor,,Democratic, Mike Mitchell,62
+Garfield,Pang2,State Auditor,,Republican,John Dougall,323
+Garfield,Pang2,State Auditor,,Independent American,Jared Green,10
+Garfield,Pang2,State Auditor,,Democratic, Mike Mitchell,48
+Garfield,Ticaboo,State Auditor,,Republican,John Dougall,14
+Garfield,Ticaboo,State Auditor,,Independent American,Jared Green,4
+Garfield,Ticaboo,State Auditor,,Democratic, Mike Mitchell,5
+Garfield,Tropic,State Auditor,,Republican,John Dougall,220
+Garfield,Tropic,State Auditor,,Independent American,Jared Green,9
+Garfield,Tropic,State Auditor,,Democratic, Mike Mitchell,32
+Garfield,Bryce,State Auditor,,Republican,John Dougall,25
+Garfield,Bryce,State Auditor,,Independent American,Jared Green,0
+Garfield,Bryce,State Auditor,,Democratic, Mike Mitchell,3
+Garfield,Antimony,State Treasurer,,Constitution,Richard Proctor,3
+Garfield,Antimony,State Treasurer,,Democratic,Neil A. Hansen,6
+Garfield,Antimony,State Treasurer,,Republican,David Damschen,62
+Garfield,Boulder,State Treasurer,,Constitution,Richard Proctor,19
+Garfield,Boulder,State Treasurer,,Democratic,Neil A. Hansen,95
+Garfield,Boulder,State Treasurer,,Republican,David Damschen,65
+Garfield,Cannonville,State Treasurer,,Constitution,Richard Proctor,6
+Garfield,Cannonville,State Treasurer,,Democratic,Neil A. Hansen,10
+Garfield,Cannonville,State Treasurer,,Republican,David Damschen,56
+Garfield,Escalante,State Treasurer,,Constitution,Richard Proctor,27
+Garfield,Escalante,State Treasurer,,Democratic,Neil A. Hansen,119
+Garfield,Escalante,State Treasurer,,Republican,David Damschen,302
+Garfield,Hatch,State Treasurer,,Constitution,Richard Proctor,11
+Garfield,Hatch,State Treasurer,,Democratic,Neil A. Hansen,25
+Garfield,Hatch,State Treasurer,,Republican,David Damschen,118
+Garfield,Henrieville,State Treasurer,,Constitution,Richard Proctor,15
+Garfield,Henrieville,State Treasurer,,Democratic,Neil A. Hansen,21
+Garfield,Henrieville,State Treasurer,,Republican,David Damschen,81
+Garfield,Pang1,State Treasurer,,Constitution,Richard Proctor,22
+Garfield,Pang1,State Treasurer,,Democratic,Neil A. Hansen,68
+Garfield,Pang1,State Treasurer,,Republican,David Damschen,409
+Garfield,Pang2,State Treasurer,,Constitution,Richard Proctor,23
+Garfield,Pang2,State Treasurer,,Democratic,Neil A. Hansen,41
+Garfield,Pang2,State Treasurer,,Republican,David Damschen,320
+Garfield,Ticaboo,State Treasurer,,Constitution,Richard Proctor,6
+Garfield,Ticaboo,State Treasurer,,Democratic,Neil A. Hansen,4
+Garfield,Ticaboo,State Treasurer,,Republican,David Damschen,13
+Garfield,Tropic,State Treasurer,,Constitution,Richard Proctor,13
+Garfield,Tropic,State Treasurer,,Democratic,Neil A. Hansen,38
+Garfield,Tropic,State Treasurer,,Republican,David Damschen,206
+Garfield,Bryce,State Treasurer,,Constitution,Richard Proctor,0
+Garfield,Bryce,State Treasurer,,Democratic,Neil A. Hansen,2
+Garfield,Bryce,State Treasurer,,Republican,David Damschen,25
+Garfield,Antimony,State Senate,24,Republican,Ralph Kerlund,62
+Garfield,Boulder,State Senate,24,Republican,Ralph Kerlund,101
+Garfield,Cannonville,State Senate,24,Republican,Ralph Kerlund,65
+Garfield,Escalante,State Senate,24,Republican,Ralph Kerlund,327
+Garfield,Hatch,State Senate,24,Republican,Ralph Kerlund,130
+Garfield,Henrieville,State Senate,24,Republican,Ralph Kerlund,91
+Garfield,Pang1,State Senate,24,Republican,Ralph Kerlund,450
+Garfield,Pang2,State Senate,24,Republican,Ralph Kerlund,339
+Garfield,Ticaboo,State Senate,24,Republican,Ralph Kerlund,19
+Garfield,Tropic,State Senate,24,Republican,Ralph Kerlund,232
+Garfield,Bryce,State Senate,24,Republican,Ralph Kerlund,25
+Garfield,Antimony,State House,,Republican,Mike Noel,65
+Garfield,Antimony,State House,,Democratic,Ty Markham,6
+Garfield,Boulder,State House,,Republican,Mike Noel,85
+Garfield,Boulder,State House,,Democratic,Ty Markham,122
+Garfield,Cannonville,State House,,Republican,Mike Noel,63
+Garfield,Cannonville,State House,,Democratic,Ty Markham,11
+Garfield,Escalante,State House,,Republican,Mike Noel,312
+Garfield,Escalante,State House,,Democratic,Ty Markham,155
+Garfield,Hatch,State House,,Republican,Mike Noel,121
+Garfield,Hatch,State House,,Democratic,Ty Markham,36
+Garfield,Henrieville,State House,,Republican,Mike Noel,91
+Garfield,Henrieville,State House,,Democratic,Ty Markham,28
+Garfield,Pang1,State House,,Republican,Mike Noel,431
+Garfield,Pang1,State House,,Democratic,Ty Markham,81
+Garfield,Pang2,State House,,Republican,Mike Noel,326
+Garfield,Pang2,State House,,Democratic,Ty Markham,69
+Garfield,Ticaboo,State House,,Republican,Mike Noel,13
+Garfield,Ticaboo,State House,,Democratic,Ty Markham,10
+Garfield,Tropic,State House,,Republican,Mike Noel,221
+Garfield,Tropic,State House,,Democratic,Ty Markham,41
+Garfield,Bryce,State House,,Republican,Mike Noel,26
+Garfield,Bryce,State House,,Democratic,Ty Markham,2
