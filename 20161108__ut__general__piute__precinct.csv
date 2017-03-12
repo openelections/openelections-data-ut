@@ -1,0 +1,217 @@
+county,precinct,office,district,party,candidate,votes
+Piute,Marysvale,President,,Democratic,'Rocky' Roque De La,0
+Piute,Marysvale,President,,Green,Jill Stein,0
+Piute,Marysvale,President,,Socialist Workers,Alyson Kennedy,0
+Piute,Marysvale,President,,Libertarian,Gary Johnson,2
+Piute,Marysvale,President,,Independent American,Rocky Giordani,0
+Piute,Junction,President,,Democratic,'Rocky' Roque De La,0
+Piute,Junction,President,,Green,Jill Stein,0
+Piute,Junction,President,,Socialist Workers,Alyson Kennedy,0
+Piute,Junction,President,,Libertarian,Gary Johnson,0
+Piute,Junction,President,,Independent American,Rocky Giordani,0
+Piute,Circleville 1,President,,Democratic,'Rocky' Roque De La,0
+Piute,Circleville 1,President,,Green,Jill Stein,1
+Piute,Circleville 1,President,,Socialist Workers,Alyson Kennedy,0
+Piute,Circleville 1,President,,Libertarian,Gary Johnson,1
+Piute,Circleville 1,President,,Independent American,Rocky Giordani,0
+Piute,Circleville 2,President,,Democratic,'Rocky' Roque De La,0
+Piute,Circleville 2,President,,Green,Jill Stein,0
+Piute,Circleville 2,President,,Socialist Workers,Alyson Kennedy,0
+Piute,Circleville 2,President,,Libertarian,Gary Johnson,1
+Piute,Circleville 2,President,,Independent American,Rocky Giordani,1
+Piute,Kingston,President,,Democratic,'Rocky' Roque De La,0
+Piute,Kingston,President,,Green,Jill Stein,0
+Piute,Kingston,President,,Socialist Workers,Alyson Kennedy,0
+Piute,Kingston,President,,Libertarian,Gary Johnson,6
+Piute,Kingston,President,,Independent American,Rocky Giordani,0
+Piute,Greenwich,President,,Democratic,'Rocky' Roque De La,0
+Piute,Greenwich,President,,Green,Jill Stein,0
+Piute,Greenwich,President,,Socialist Workers,Alyson Kennedy,0
+Piute,Greenwich,President,,Libertarian,Gary Johnson,1
+Piute,Greenwich,President,,Independent American,Rocky Giordani,1
+Piute,Marysvale,President,,Republican,Donald J. Trump,215
+Piute,Marysvale,President,,Constitution,Darrell L. Castle,0
+Piute,Marysvale,President,,Democratic,Hillary Rodham Clin,27
+Piute,Marysvale,President,,Workers World,Monica Moorehead,1
+Piute,Marysvale,President,,Independent,Evan McMullin,7
+Piute,Marysvale,President,,,Write-in,0
+Piute,Junction,President,,Republican,Donald J. Trump,67
+Piute,Junction,President,,Constitution,Darrell L. Castle,0
+Piute,Junction,President,,Democratic,Hillary Rodham Clin,7
+Piute,Junction,President,,Workers World,Monica Moorehead,0
+Piute,Junction,President,,Independent,Evan McMullin,4
+Piute,Junction,President,,,Write-in,0
+Piute,Circleville 1,President,,Republican,Donald J. Trump,98
+Piute,Circleville 1,President,,Constitution,Darrell L. Castle,1
+Piute,Circleville 1,President,,Democratic,Hillary Rodham Clin,1
+Piute,Circleville 1,President,,Workers World,Monica Moorehead,0
+Piute,Circleville 1,President,,Independent,Evan McMullin,10
+Piute,Circleville 1,President,,,Write-in,0
+Piute,Circleville 2,President,,Republican,Donald J. Trump,103
+Piute,Circleville 2,President,,Constitution,Darrell L. Castle,0
+Piute,Circleville 2,President,,Democratic,Hillary Rodham Clin,5
+Piute,Circleville 2,President,,Workers World,Monica Moorehead,0
+Piute,Circleville 2,President,,Independent,Evan McMullin,10
+Piute,Circleville 2,President,,,Write-in,0
+Piute,Kingston,President,,Republican,Donald J. Trump,94
+Piute,Kingston,President,,Constitution,Darrell L. Castle,4
+Piute,Kingston,President,,Democratic,Hillary Rodham Clin,4
+Piute,Kingston,President,,Workers World,Monica Moorehead,0
+Piute,Kingston,President,,Independent,Evan McMullin,2
+Piute,Kingston,President,,,Write-in,0
+Piute,Greenwich,President,,Republican,Donald J. Trump,49
+Piute,Greenwich,President,,Constitution,Darrell L. Castle,0
+Piute,Greenwich,President,,Democratic,Hillary Rodham Clin,3
+Piute,Greenwich,President,,Workers World,Monica Moorehead,0
+Piute,Greenwich,President,,Independent,Evan McMullin,3
+Piute,Greenwich,President,,,Write-in,1
+Piute,Marysvale,U.S. Senate,,Democratic,Misty K Snow,32
+Piute,Marysvale,U.S. Senate,,Independent,Bill Barron,2
+Piute,Marysvale,U.S. Senate,,Independent American,Stoney Fonua,8
+Piute,Marysvale,U.S. Senate,,Republican,Mike Lee,203
+Piute,Junction,U.S. Senate,,Democratic,Misty K Snow,3
+Piute,Junction,U.S. Senate,,Independent,Bill Barron,0
+Piute,Junction,U.S. Senate,,Independent American,Stoney Fonua,0
+Piute,Junction,U.S. Senate,,Republican,Mike Lee,72
+Piute,Circleville 1,U.S. Senate,,Democratic,Misty K Snow,3
+Piute,Circleville 1,U.S. Senate,,Independent,Bill Barron,1
+Piute,Circleville 1,U.S. Senate,,Independent American,Stoney Fonua,0
+Piute,Circleville 1,U.S. Senate,,Republican,Mike Lee,106
+Piute,Circleville 2,U.S. Senate,,Democratic,Misty K Snow,7
+Piute,Circleville 2,U.S. Senate,,Independent,Bill Barron,1
+Piute,Circleville 2,U.S. Senate,,Independent American,Stoney Fonua,5
+Piute,Circleville 2,U.S. Senate,,Republican,Mike Lee,101
+Piute,Kingston,U.S. Senate,,Democratic,Misty K Snow,5
+Piute,Kingston,U.S. Senate,,Independent,Bill Barron,0
+Piute,Kingston,U.S. Senate,,Independent American,Stoney Fonua,0
+Piute,Kingston,U.S. Senate,,Republican,Mike Lee,105
+Piute,Greenwich,U.S. Senate,,Democratic,Misty K Snow,4
+Piute,Greenwich,U.S. Senate,,Independent,Bill Barron,0
+Piute,Greenwich,U.S. Senate,,Independent American,Stoney Fonua,1
+Piute,Greenwich,U.S. Senate,,Republican,Mike Lee,53
+Piute,Marysvale,U.S. House,2,Republican,Chris Stewart,202
+Piute,Marysvale,U.S. House,2,Democratic,CHarlene Albarran,32
+Piute,Marysvale,U.S. House,2,Constitution,Paul J. McCollaum Jr,11
+Piute,Junction,U.S. House,2,Republican,Chris Stewart,68
+Piute,Junction,U.S. House,2,Democratic,CHarlene Albarran,5
+Piute,Junction,U.S. House,2,Constitution,Paul J. McCollaum Jr,0
+Piute,Circleville 1,U.S. House,2,Republican,Chris Stewart,99
+Piute,Circleville 1,U.S. House,2,Democratic,CHarlene Albarran,1
+Piute,Circleville 1,U.S. House,2,Constitution,Paul J. McCollaum Jr,6
+Piute,Circleville 2,U.S. House,2,Republican,Chris Stewart,103
+Piute,Circleville 2,U.S. House,2,Democratic,CHarlene Albarran,7
+Piute,Circleville 2,U.S. House,2,Constitution,Paul J. McCollaum Jr,4
+Piute,Kingston,U.S. House,2,Republican,Chris Stewart,97
+Piute,Kingston,U.S. House,2,Democratic,CHarlene Albarran,5
+Piute,Kingston,U.S. House,2,Constitution,Paul J. McCollaum Jr,4
+Piute,Greenwich,U.S. House,2,Republican,Chris Stewart,52
+Piute,Greenwich,U.S. House,2,Democratic,CHarlene Albarran,3
+Piute,Greenwich,U.S. House,2,Constitution,Paul J. McCollaum Jr,1
+Piute,Marysvale,Governor,,Republican,Gary R. Herbert,201
+Piute,Marysvale,Governor,,Independent American,Superdell Schanze,4
+Piute,Marysvale,Governor,,Libertarian,Brian E. Kamerath,11
+Piute,Marysvale,Governor,,Democratic,Mike Weinholtz,32
+Piute,Marysvale,Governor,,,Write-in,1
+Piute,Junction,Governor,,Republican,Gary R. Herbert,70
+Piute,Junction,Governor,,Independent American,Superdell Schanze,1
+Piute,Junction,Governor,,Libertarian,Brian E. Kamerath,2
+Piute,Junction,Governor,,Democratic,Mike Weinholtz,2
+Piute,Junction,Governor,,,Write-in,0
+Piute,Circleville 1,Governor,,Republican,Gary R. Herbert,100
+Piute,Circleville 1,Governor,,Independent American,Superdell Schanze,2
+Piute,Circleville 1,Governor,,Libertarian,Brian E. Kamerath,2
+Piute,Circleville 1,Governor,,Democratic,Mike Weinholtz,3
+Piute,Circleville 1,Governor,,,Write-in,0
+Piute,Circleville 2,Governor,,Republican,Gary R. Herbert,106
+Piute,Circleville 2,Governor,,Independent American,Superdell Schanze,1
+Piute,Circleville 2,Governor,,Libertarian,Brian E. Kamerath,1
+Piute,Circleville 2,Governor,,Democratic,Mike Weinholtz,9
+Piute,Circleville 2,Governor,,,Write-in,0
+Piute,Kingston,Governor,,Republican,Gary R. Herbert,98
+Piute,Kingston,Governor,,Independent American,Superdell Schanze,4
+Piute,Kingston,Governor,,Libertarian,Brian E. Kamerath,2
+Piute,Kingston,Governor,,Democratic,Mike Weinholtz,5
+Piute,Kingston,Governor,,,Write-in,0
+Piute,Greenwich,Governor,,Republican,Gary R. Herbert,55
+Piute,Greenwich,Governor,,Independent American,Superdell Schanze,1
+Piute,Greenwich,Governor,,Libertarian,Brian E. Kamerath,0
+Piute,Greenwich,Governor,,Democratic,Mike Weinholtz,3
+Piute,Greenwich,Governor,,,Write-in,0
+Piute,Marysvale,Attorney General,,Independent American,Michael W. Isbell,6
+Piute,Marysvale,Attorney General,,Democratic,Jon V. Harper,32
+Piute,Marysvale,Attorney General,,Republican,Sean D. Reyes,193
+Piute,Marysvale,Attorney General,,Libertarian,W. Andrew McCullough,13
+Piute,Junction,Attorney General,,Independent American,Michael W. Isbell,0
+Piute,Junction,Attorney General,,Democratic,Jon V. Harper,3
+Piute,Junction,Attorney General,,Republican,Sean D. Reyes,69
+Piute,Junction,Attorney General,,Libertarian,W. Andrew McCullough,3
+Piute,Circleville 1,Attorney General,,Independent American,Michael W. Isbell,2
+Piute,Circleville 1,Attorney General,,Democratic,Jon V. Harper,3
+Piute,Circleville 1,Attorney General,,Republican,Sean D. Reyes,97
+Piute,Circleville 1,Attorney General,,Libertarian,W. Andrew McCullough,3
+Piute,Circleville 2,Attorney General,,Independent American,Michael W. Isbell,5
+Piute,Circleville 2,Attorney General,,Democratic,Jon V. Harper,5
+Piute,Circleville 2,Attorney General,,Republican,Sean D. Reyes,94
+Piute,Circleville 2,Attorney General,,Libertarian,W. Andrew McCullough,4
+Piute,Kingston,Attorney General,,Independent American,Michael W. Isbell,5
+Piute,Kingston,Attorney General,,Democratic,Jon V. Harper,4
+Piute,Kingston,Attorney General,,Republican,Sean D. Reyes,93
+Piute,Kingston,Attorney General,,Libertarian,W. Andrew McCullough,4
+Piute,Greenwich,Attorney General,,Independent American,Michael W. Isbell,1
+Piute,Greenwich,Attorney General,,Democratic,Jon V. Harper,4
+Piute,Greenwich,Attorney General,,Republican,Sean D. Reyes,51
+Piute,Greenwich,Attorney General,,Libertarian,W. Andrew McCullough,2
+Piute,Marysvale,State Auditor,,Republican,John Dougall,192
+Piute,Marysvale,State Auditor,,Independent American,Jared Green,9
+Piute,Marysvale,State Auditor,,Democratic, Mike Mitchell,44
+Piute,Junction,State Auditor,,Republican,John Dougall,63
+Piute,Junction,State Auditor,,Independent American,Jared Green,5
+Piute,Junction,State Auditor,,Democratic, Mike Mitchell,5
+Piute,Circleville 1,State Auditor,,Republican,John Dougall,98
+Piute,Circleville 1,State Auditor,,Independent American,Jared Green,3
+Piute,Circleville 1,State Auditor,,Democratic, Mike Mitchell,4
+Piute,Circleville 2,State Auditor,,Republican,John Dougall,94
+Piute,Circleville 2,State Auditor,,Independent American,Jared Green,4
+Piute,Circleville 2,State Auditor,,Democratic, Mike Mitchell,9
+Piute,Kingston,State Auditor,,Republican,John Dougall,83
+Piute,Kingston,State Auditor,,Independent American,Jared Green,14
+Piute,Kingston,State Auditor,,Democratic, Mike Mitchell,8
+Piute,Greenwich,State Auditor,,Republican,John Dougall,51
+Piute,Greenwich,State Auditor,,Independent American,Jared Green,1
+Piute,Greenwich,State Auditor,,Democratic, Mike Mitchell,5
+Piute,Marysvale,State Treasurer,,Constitution,Richard Proctor,16
+Piute,Marysvale,State Treasurer,,Democratic,Neil A. Hansen,40
+Piute,Marysvale,State Treasurer,,Republican,David Damschen,188
+Piute,Junction,State Treasurer,,Constitution,Richard Proctor,3
+Piute,Junction,State Treasurer,,Democratic,Neil A. Hansen,9
+Piute,Junction,State Treasurer,,Republican,David Damschen,60
+Piute,Circleville 1,State Treasurer,,Constitution,Richard Proctor,5
+Piute,Circleville 1,State Treasurer,,Democratic,Neil A. Hansen,6
+Piute,Circleville 1,State Treasurer,,Republican,David Damschen,94
+Piute,Circleville 2,State Treasurer,,Constitution,Richard Proctor,5
+Piute,Circleville 2,State Treasurer,,Democratic,Neil A. Hansen,8
+Piute,Circleville 2,State Treasurer,,Republican,David Damschen,92
+Piute,Kingston,State Treasurer,,Constitution,Richard Proctor,8
+Piute,Kingston,State Treasurer,,Democratic,Neil A. Hansen,5
+Piute,Kingston,State Treasurer,,Republican,David Damschen,92
+Piute,Greenwich,State Treasurer,,Constitution,Richard Proctor,2
+Piute,Greenwich,State Treasurer,,Democratic,Neil A. Hansen,8
+Piute,Greenwich,State Treasurer,,Republican,David Damschen,47
+Piute,Marysvale,State Senate,24,Republican,Ralph Okerlund,222
+Piute,Junction,State Senate,24,Republican,Ralph Okerlund,72
+Piute,Circleville 1,State Senate,24,Republican,Ralph Okerlund,102
+Piute,Circleville 2,State Senate,24,Republican,Ralph Okerlund,102
+Piute,Kingston,State Senate,24,Republican,Ralph Okerlund,98
+Piute,Greenwich,State Senate,24,Republican,Ralph Okerlund,50
+Piute,Marysvale,State House,,Republican,Mike Noel,208
+Piute,Marysvale,State House,,Democratic,Ty Markham,35
+Piute,Junction,State House,,Republican,Mike Noel,66
+Piute,Junction,State House,,Democratic,Ty Markham,6
+Piute,Circleville 1,State House,,Republican,Mike Noel,98
+Piute,Circleville 1,State House,,Democratic,Ty Markham,8
+Piute,Circleville 2,State House,,Republican,Mike Noel,96
+Piute,Circleville 2,State House,,Democratic,Ty Markham,14
+Piute,Kingston,State House,,Republican,Mike Noel,102
+Piute,Kingston,State House,,Democratic,Ty Markham,6
+Piute,Greenwich,State House,,Republican,Mike Noel,51
+Piute,Greenwich,State House,,Democratic,Ty Markham,5
