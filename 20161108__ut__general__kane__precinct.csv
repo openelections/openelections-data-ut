@@ -1,0 +1,433 @@
+county,precinct,office,district,party,candidate,votes
+Kane,K1,President,,Democratic,'Rocky' Roque De La Fuente,0
+Kane,K1,President,,Green,Jill Stein,1
+Kane,K1,President,,Socialist Workers,Alyson Kennedy,0
+Kane,K1,President,,Libertarian,Gary Johnson,11
+Kane,K1,President,,Independent American,Rocky Giordani,0
+Kane,K1,President,,Republican,Donald J. Trump,229
+Kane,K1,President,,Constitution,Darrell Castle,2
+Kane,K1,President,,Democratic,Hillary Clinton,58
+Kane,K1,President,,Independent,Evan McMullin,0
+Kane,K1,President,,Workers World,Monica Moorehead,37
+Kane,K1,President,,,Write-in,1
+Kane,K2,President,,Democratic,'Rocky' Roque De La Fuente,1
+Kane,K2,President,,Green,Jill Stein,6
+Kane,K2,President,,Socialist Workers,Alyson Kennedy,0
+Kane,K2,President,,Libertarian,Gary Johnson,18
+Kane,K2,President,,Independent American,Rocky Giordani,0
+Kane,K2,President,,Republican,Donald J. Trump,392
+Kane,K2,President,,Constitution,Darrell Castle,5
+Kane,K2,President,,Democratic,Hillary Clinton,196
+Kane,K2,President,,Independent,Evan McMullin,0
+Kane,K2,President,,Workers World,Monica Moorehead,57
+Kane,K2,President,,,Write-in,8
+Kane,K3,President,,Democratic,'Rocky' Roque De La Fuente,2
+Kane,K3,President,,Green,Jill Stein,2
+Kane,K3,President,,Socialist Workers,Alyson Kennedy,1
+Kane,K3,President,,Libertarian,Gary Johnson,18
+Kane,K3,President,,Independent American,Rocky Giordani,1
+Kane,K3,President,,Republican,Donald J. Trump,469
+Kane,K3,President,,Constitution,Darrell Castle,1
+Kane,K3,President,,Democratic,Hillary Clinton,139
+Kane,K3,President,,Independent,Evan McMullin,0
+Kane,K3,President,,Workers World,Monica Moorehead,100
+Kane,K3,President,,,Write-in,7
+Kane,K4,President,,Democratic,'Rocky' Roque De La Fuente,1
+Kane,K4,President,,Green,Jill Stein,12
+Kane,K4,President,,Socialist Workers,Alyson Kennedy,2
+Kane,K4,President,,Libertarian,Gary Johnson,22
+Kane,K4,President,,Independent American,Rocky Giordani,1
+Kane,K4,President,,Republican,Donald J. Trump,434
+Kane,K4,President,,Constitution,Darrell Castle,2
+Kane,K4,President,,Democratic,Hillary Clinton,219
+Kane,K4,President,,Independent,Evan McMullin,0
+Kane,K4,President,,Workers World,Monica Moorehead,56
+Kane,K4,President,,,Write-in,8
+Kane,AL,President,,Democratic,'Rocky' Roque De La Fuente,0
+Kane,AL,President,,Green,Jill Stein,1
+Kane,AL,President,,Socialist Workers,Alyson Kennedy,0
+Kane,AL,President,,Libertarian,Gary Johnson,0
+Kane,AL,President,,Independent American,Rocky Giordani,2
+Kane,AL,President,,Republican,Donald J. Trump,51
+Kane,AL,President,,Constitution,Darrell Castle,2
+Kane,AL,President,,Democratic,Hillary Clinton,3
+Kane,AL,President,,Independent,Evan McMullin,0
+Kane,AL,President,,Workers World,Monica Moorehead,6
+Kane,AL,President,,,Write-in,2
+Kane,GL,President,,Democratic,'Rocky' Roque De La Fuente,0
+Kane,GL,President,,Green,Jill Stein,2
+Kane,GL,President,,Socialist Workers,Alyson Kennedy,0
+Kane,GL,President,,Libertarian,Gary Johnson,0
+Kane,GL,President,,Independent American,Rocky Giordani,1
+Kane,GL,President,,Republican,Donald J. Trump,161
+Kane,GL,President,,Constitution,Darrell Castle,0
+Kane,GL,President,,Democratic,Hillary Clinton,13
+Kane,GL,President,,Independent,Evan McMullin,0
+Kane,GL,President,,Workers World,Monica Moorehead,20
+Kane,GL,President,,,Write-in,0
+Kane,OR,President,,Democratic,'Rocky' Roque De La Fuente,0
+Kane,OR,President,,Green,Jill Stein,3
+Kane,OR,President,,Socialist Workers,Alyson Kennedy,0
+Kane,OR,President,,Libertarian,Gary Johnson,1
+Kane,OR,President,,Independent American,Rocky Giordani,0
+Kane,OR,President,,Republican,Donald J. Trump,232
+Kane,OR,President,,Constitution,Darrell Castle,3
+Kane,OR,President,,Democratic,Hillary Clinton,15
+Kane,OR,President,,Independent,Evan McMullin,1
+Kane,OR,President,,Workers World,Monica Moorehead,54
+Kane,OR,President,,,Write-in,6
+Kane,BU,President,,Democratic,'Rocky' Roque De La Fuente,0
+Kane,BU,President,,Green,Jill Stein,1
+Kane,BU,President,,Socialist Workers,Alyson Kennedy,0
+Kane,BU,President,,Libertarian,Gary Johnson,2
+Kane,BU,President,,Independent American,Rocky Giordani,0
+Kane,BU,President,,Republican,Donald J. Trump,9
+Kane,BU,President,,Constitution,Darrell Castle,0
+Kane,BU,President,,Democratic,Hillary Clinton,5
+Kane,BU,President,,Independent,Evan McMullin,0
+Kane,BU,President,,Workers World,Monica Moorehead,1
+Kane,BU,President,,,Write-in,0
+Kane,BW,President,,Democratic,'Rocky' Roque De La Fuente,1
+Kane,BW,President,,Green,Jill Stein,2
+Kane,BW,President,,Socialist Workers,Alyson Kennedy,0
+Kane,BW,President,,Libertarian,Gary Johnson,9
+Kane,BW,President,,Independent American,Rocky Giordani,1
+Kane,BW,President,,Republican,Donald J. Trump,121
+Kane,BW,President,,Constitution,Darrell Castle,0
+Kane,BW,President,,Democratic,Hillary Clinton,50
+Kane,BW,President,,Independent,Evan McMullin,0
+Kane,BW,President,,Workers World,Monica Moorehead,8
+Kane,BW,President,,,Write-in,1
+Kane,CM,President,,Democratic,'Rocky' Roque De La Fuente,0
+Kane,CM,President,,Green,Jill Stein,0
+Kane,CM,President,,Socialist Workers,Alyson Kennedy,0
+Kane,CM,President,,Libertarian,Gary Johnson,4
+Kane,CM,President,,Independent American,Rocky Giordani,0
+Kane,CM,President,,Republican,Donald J. Trump,127
+Kane,CM,President,,Constitution,Darrell Castle,0
+Kane,CM,President,,Democratic,Hillary Clinton,31
+Kane,CM,President,,Independent,Evan McMullin,0
+Kane,CM,President,,Workers World,Monica Moorehead,6
+Kane,CM,President,,,Write-in,0
+Kane,CW:B,President,,Democratic,'Rocky' Roque De La Fuente,0
+Kane,CW:B,President,,Green,Jill Stein,1
+Kane,CW:B,President,,Socialist Workers,Alyson Kennedy,0
+Kane,CW:B,President,,Libertarian,Gary Johnson,1
+Kane,CW:B,President,,Independent American,Rocky Giordani,0
+Kane,CW:B,President,,Republican,Donald J. Trump,29
+Kane,CW:B,President,,Constitution,Darrell Castle,0
+Kane,CW:B,President,,Democratic,Hillary Clinton,8
+Kane,CW:B,President,,Independent,Evan McMullin,0
+Kane,CW:B,President,,Workers World,Monica Moorehead,7
+Kane,CW:B,President,,,Write-in,0
+Kane,CW:C,President,,Democratic,'Rocky' Roque De La Fuente,0
+Kane,CW:C,President,,Green,Jill Stein,0
+Kane,CW:C,President,,Socialist Workers,Alyson Kennedy,0
+Kane,CW:C,President,,Libertarian,Gary Johnson,0
+Kane,CW:C,President,,Independent American,Rocky Giordani,0
+Kane,CW:C,President,,Republican,Donald J. Trump,11
+Kane,CW:C,President,,Constitution,Darrell Castle,0
+Kane,CW:C,President,,Democratic,Hillary Clinton,4
+Kane,CW:C,President,,Independent,Evan McMullin,0
+Kane,CW:C,President,,Workers World,Monica Moorehead,0
+Kane,CW:C,President,,,Write-in,0
+Kane,K1,U.S. Senate,,Democratic,Misty K Snow,52
+Kane,K1,U.S. Senate,,Independent,Bill Barron,6
+Kane,K1,U.S. Senate,,Independent American,Stoney Fonua,8
+Kane,K1,U.S. Senate,,Republican,Mike Lee,268
+Kane,K2,U.S. Senate,,Democratic,Misty K Snow,187
+Kane,K2,U.S. Senate,,Independent,Bill Barron,18
+Kane,K2,U.S. Senate,,Independent American,Stoney Fonua,19
+Kane,K2,U.S. Senate,,Republican,Mike Lee,438
+Kane,K3,U.S. Senate,,Democratic,Misty K Snow,136
+Kane,K3,U.S. Senate,,Independent,Bill Barron,16
+Kane,K3,U.S. Senate,,Independent American,Stoney Fonua,6
+Kane,K3,U.S. Senate,,Republican,Mike Lee,571
+Kane,K4,U.S. Senate,,Democratic,Misty K Snow,223
+Kane,K4,U.S. Senate,,Independent,Bill Barron,20
+Kane,K4,U.S. Senate,,Independent American,Stoney Fonua,12
+Kane,K4,U.S. Senate,,Republican,Mike Lee,479
+Kane,AL,U.S. Senate,,Democratic,Misty K Snow,3
+Kane,AL,U.S. Senate,,Independent,Bill Barron,2
+Kane,AL,U.S. Senate,,Independent American,Stoney Fonua,2
+Kane,AL,U.S. Senate,,Republican,Mike Lee,60
+Kane,GL,U.S. Senate,,Democratic,Misty K Snow,16
+Kane,GL,U.S. Senate,,Independent,Bill Barron,1
+Kane,GL,U.S. Senate,,Independent American,Stoney Fonua,0
+Kane,GL,U.S. Senate,,Republican,Mike Lee,182
+Kane,OR,U.S. Senate,,Democratic,Misty K Snow,25
+Kane,OR,U.S. Senate,,Independent,Bill Barron,6
+Kane,OR,U.S. Senate,,Independent American,Stoney Fonua,6
+Kane,OR,U.S. Senate,,Republican,Mike Lee,274
+Kane,BU,U.S. Senate,,Democratic,Misty K Snow,5
+Kane,BU,U.S. Senate,,Independent,Bill Barron,2
+Kane,BU,U.S. Senate,,Independent American,Stoney Fonua,1
+Kane,BU,U.S. Senate,,Republican,Mike Lee,10
+Kane,BW,U.S. Senate,,Democratic,Misty K Snow,55
+Kane,BW,U.S. Senate,,Independent,Bill Barron,7
+Kane,BW,U.S. Senate,,Independent American,Stoney Fonua,6
+Kane,BW,U.S. Senate,,Republican,Mike Lee,119
+Kane,CM,U.S. Senate,,Democratic,Misty K Snow,34
+Kane,CM,U.S. Senate,,Independent,Bill Barron,2
+Kane,CM,U.S. Senate,,Independent American,Stoney Fonua,3
+Kane,CM,U.S. Senate,,Republican,Mike Lee,127
+Kane,CW:B,U.S. Senate,,Democratic,Misty K Snow,12
+Kane,CW:B,U.S. Senate,,Independent,Bill Barron,1
+Kane,CW:B,U.S. Senate,,Independent American,Stoney Fonua,1
+Kane,CW:B,U.S. Senate,,Republican,Mike Lee,30
+Kane,CW:C,U.S. Senate,,Democratic,Misty K Snow,4
+Kane,CW:C,U.S. Senate,,Independent,Bill Barron,0
+Kane,CW:C,U.S. Senate,,Independent American,Stoney Fonua,1
+Kane,CW:C,U.S. Senate,,Republican,Mike Lee,10
+Kane,K1,U.S. House,2,Republican,Chris Stewart,270
+Kane,K1,U.S. House,2,Democratic,Charlene Albarran,56
+Kane,K1,U.S. House,2,Constitution,Paul J. McCollaum Jr,6
+Kane,K2,U.S. House,2,Republican,Chris Stewart,426
+Kane,K2,U.S. House,2,Democratic,Charlene Albarran,206
+Kane,K2,U.S. House,2,Constitution,Paul J. McCollaum Jr,19
+Kane,K3,U.S. House,2,Republican,Chris Stewart,552
+Kane,K3,U.S. House,2,Democratic,Charlene Albarran,142
+Kane,K3,U.S. House,2,Constitution,Paul J. McCollaum Jr,30
+Kane,K4,U.S. House,2,Republican,Chris Stewart,472
+Kane,K4,U.S. House,2,Democratic,Charlene Albarran,231
+Kane,K4,U.S. House,2,Constitution,Paul J. McCollaum Jr,27
+Kane,AL,U.S. House,2,Republican,Chris Stewart,57
+Kane,AL,U.S. House,2,Democratic,Charlene Albarran,3
+Kane,AL,U.S. House,2,Constitution,Paul J. McCollaum Jr,7
+Kane,GL,U.S. House,2,Republican,Chris Stewart,173
+Kane,GL,U.S. House,2,Democratic,Charlene Albarran,21
+Kane,GL,U.S. House,2,Constitution,Paul J. McCollaum Jr,2
+Kane,OR,U.S. House,2,Republican,Chris Stewart,274
+Kane,OR,U.S. House,2,Democratic,Charlene Albarran,26
+Kane,OR,U.S. House,2,Constitution,Paul J. McCollaum Jr,5
+Kane,BU,U.S. House,2,Republican,Chris Stewart,10
+Kane,BU,U.S. House,2,Democratic,Charlene Albarran,6
+Kane,BU,U.S. House,2,Constitution,Paul J. McCollaum Jr,0
+Kane,BW,U.S. House,2,Republican,Chris Stewart,115
+Kane,BW,U.S. House,2,Democratic,Charlene Albarran,57
+Kane,BW,U.S. House,2,Constitution,Paul J. McCollaum Jr,11
+Kane,CM,U.S. House,2,Republican,Chris Stewart,122
+Kane,CM,U.S. House,2,Democratic,Charlene Albarran,29
+Kane,CM,U.S. House,2,Constitution,Paul J. McCollaum Jr,9
+Kane,CW:B,U.S. House,2,Republican,Chris Stewart,28
+Kane,CW:B,U.S. House,2,Democratic,Charlene Albarran,13
+Kane,CW:B,U.S. House,2,Constitution,Paul J. McCollaum Jr,1
+Kane,CW:C,U.S. House,2,Republican,Chris Stewart,8
+Kane,CW:C,U.S. House,2,Democratic,Charlene Albarran,4
+Kane,CW:C,U.S. House,2,Constitution,Paul J. McCollaum Jr,2
+Kane,K1,Governor,,Republican,Gray R. Herbert,265
+Kane,K1,Governor,,Independent American,Superdell Schanze,7
+Kane,K1,Governor,,Libertarian,Brian E. Kamerath,7
+Kane,K1,Governor,,Democratic,Mike Weinholtz,55
+Kane,K1,Governor,,,Write-in,1
+Kane,K2,Governor,,Republican,Gray R. Herbert,452
+Kane,K2,Governor,,Independent American,Superdell Schanze,8
+Kane,K2,Governor,,Libertarian,Brian E. Kamerath,22
+Kane,K2,Governor,,Democratic,Mike Weinholtz,186
+Kane,K2,Governor,,,Write-in,1
+Kane,K3,Governor,,Republican,Gray R. Herbert,565
+Kane,K3,Governor,,Independent American,Superdell Schanze,10
+Kane,K3,Governor,,Libertarian,Brian E. Kamerath,17
+Kane,K3,Governor,,Democratic,Mike Weinholtz,137
+Kane,K3,Governor,,,Write-in,1
+Kane,K4,Governor,,Republican,Gray R. Herbert,496
+Kane,K4,Governor,,Independent American,Superdell Schanze,13
+Kane,K4,Governor,,Libertarian,Brian E. Kamerath,22
+Kane,K4,Governor,,Democratic,Mike Weinholtz,207
+Kane,K4,Governor,,,Write-in,1
+Kane,AL,Governor,,Republican,Gray R. Herbert,60
+Kane,AL,Governor,,Independent American,Superdell Schanze,3
+Kane,AL,Governor,,Libertarian,Brian E. Kamerath,3
+Kane,AL,Governor,,Democratic,Mike Weinholtz,1
+Kane,AL,Governor,,,Write-in,0
+Kane,GL,Governor,,Republican,Gray R. Herbert,176
+Kane,GL,Governor,,Independent American,Superdell Schanze,3
+Kane,GL,Governor,,Libertarian,Brian E. Kamerath,1
+Kane,GL,Governor,,Democratic,Mike Weinholtz,18
+Kane,GL,Governor,,,Write-in,0
+Kane,OR,Governor,,Republican,Gray R. Herbert,271
+Kane,OR,Governor,,Independent American,Superdell Schanze,4
+Kane,OR,Governor,,Libertarian,Brian E. Kamerath,7
+Kane,OR,Governor,,Democratic,Mike Weinholtz,26
+Kane,OR,Governor,,,Write-in,0
+Kane,BU,Governor,,Republican,Gray R. Herbert,10
+Kane,BU,Governor,,Independent American,Superdell Schanze,0
+Kane,BU,Governor,,Libertarian,Brian E. Kamerath,3
+Kane,BU,Governor,,Democratic,Mike Weinholtz,4
+Kane,BU,Governor,,,Write-in,0
+Kane,BW,Governor,,Republican,Gray R. Herbert,123
+Kane,BW,Governor,,Independent American,Superdell Schanze,4
+Kane,BW,Governor,,Libertarian,Brian E. Kamerath,8
+Kane,BW,Governor,,Democratic,Mike Weinholtz,54
+Kane,BW,Governor,,,Write-in,0
+Kane,CM,Governor,,Republican,Gray R. Herbert,129
+Kane,CM,Governor,,Independent American,Superdell Schanze,5
+Kane,CM,Governor,,Libertarian,Brian E. Kamerath,1
+Kane,CM,Governor,,Democratic,Mike Weinholtz,29
+Kane,CM,Governor,,,Write-in,0
+Kane,CW:B,Governor,,Republican,Gray R. Herbert,32
+Kane,CW:B,Governor,,Independent American,Superdell Schanze,0
+Kane,CW:B,Governor,,Libertarian,Brian E. Kamerath,2
+Kane,CW:B,Governor,,Democratic,Mike Weinholtz,8
+Kane,CW:B,Governor,,,Write-in,1
+Kane,CW:C,Governor,,Republican,Gray R. Herbert,10
+Kane,CW:C,Governor,,Independent American,Superdell Schanze,1
+Kane,CW:C,Governor,,Libertarian,Brian E. Kamerath,0
+Kane,CW:C,Governor,,Democratic,Mike Weinholtz,4
+Kane,CW:C,Governor,,,Write-in,0
+Kane,K1,Attorney General,,Independent American,Michael W. Isbell,7
+Kane,K1,Attorney General,,Democratic,Jon V. Harper,57
+Kane,K1,Attorney General,,Republican,Sean D. Reyes,252
+Kane,K1,Attorney General,,Libertarian,W. Andrew McCullough,11
+Kane,K2,Attorney General,,Independent American,Michael W. Isbell,16
+Kane,K2,Attorney General,,Democratic,Jon V. Harper,168
+Kane,K2,Attorney General,,Republican,Sean D. Reyes,424
+Kane,K2,Attorney General,,Libertarian,W. Andrew McCullough,48
+Kane,K3,Attorney General,,Independent American,Michael W. Isbell,17
+Kane,K3,Attorney General,,Democratic,Jon V. Harper,133
+Kane,K3,Attorney General,,Republican,Sean D. Reyes,530
+Kane,K3,Attorney General,,Libertarian,W. Andrew McCullough,36
+Kane,K4,Attorney General,,Independent American,Michael W. Isbell,28
+Kane,K4,Attorney General,,Democratic,Jon V. Harper,198
+Kane,K4,Attorney General,,Republican,Sean D. Reyes,454
+Kane,K4,Attorney General,,Libertarian,W. Andrew McCullough,38
+Kane,AL,Attorney General,,Independent American,Michael W. Isbell,10
+Kane,AL,Attorney General,,Democratic,Jon V. Harper,2
+Kane,AL,Attorney General,,Republican,Sean D. Reyes,52
+Kane,AL,Attorney General,,Libertarian,W. Andrew McCullough,2
+Kane,GL,Attorney General,,Independent American,Michael W. Isbell,3
+Kane,GL,Attorney General,,Democratic,Jon V. Harper,20
+Kane,GL,Attorney General,,Republican,Sean D. Reyes,170
+Kane,GL,Attorney General,,Libertarian,W. Andrew McCullough,4
+Kane,OR,Attorney General,,Independent American,Michael W. Isbell,10
+Kane,OR,Attorney General,,Democratic,Jon V. Harper,25
+Kane,OR,Attorney General,,Republican,Sean D. Reyes,263
+Kane,OR,Attorney General,,Libertarian,W. Andrew McCullough,9
+Kane,BU,Attorney General,,Independent American,Michael W. Isbell,1
+Kane,BU,Attorney General,,Democratic,Jon V. Harper,4
+Kane,BU,Attorney General,,Republican,Sean D. Reyes,9
+Kane,BU,Attorney General,,Libertarian,W. Andrew McCullough,3
+Kane,BW,Attorney General,,Independent American,Michael W. Isbell,8
+Kane,BW,Attorney General,,Democratic,Jon V. Harper,49
+Kane,BW,Attorney General,,Republican,Sean D. Reyes,113
+Kane,BW,Attorney General,,Libertarian,W. Andrew McCullough,14
+Kane,CM,Attorney General,,Independent American,Michael W. Isbell,5
+Kane,CM,Attorney General,,Democratic,Jon V. Harper,30
+Kane,CM,Attorney General,,Republican,Sean D. Reyes,119
+Kane,CM,Attorney General,,Libertarian,W. Andrew McCullough,8
+Kane,CW:B,Attorney General,,Independent American,Michael W. Isbell,0
+Kane,CW:B,Attorney General,,Democratic,Jon V. Harper,9
+Kane,CW:B,Attorney General,,Republican,Sean D. Reyes,32
+Kane,CW:B,Attorney General,,Libertarian,W. Andrew McCullough,3
+Kane,CW:C,Attorney General,,Independent American,Michael W. Isbell,1
+Kane,CW:C,Attorney General,,Democratic,Jon V. Harper,4
+Kane,CW:C,Attorney General,,Republican,Sean D. Reyes,10
+Kane,CW:C,Attorney General,,Libertarian,W. Andrew McCullough,0
+Kane,K1,State Auditor,,Republican,John Dougall,231
+Kane,K1,State Auditor,,Independent American,Jared Green,17
+Kane,K1,State Auditor,,Democratic, Mike Mitchell,66
+Kane,K2,State Auditor,,Republican,John Dougall,403
+Kane,K2,State Auditor,,Independent American,Jared Green,37
+Kane,K2,State Auditor,,Democratic, Mike Mitchell,195
+Kane,K3,State Auditor,,Republican,John Dougall,506
+Kane,K3,State Auditor,,Independent American,Jared Green,33
+Kane,K3,State Auditor,,Democratic, Mike Mitchell,150
+Kane,K4,State Auditor,,Republican,John Dougall,424
+Kane,K4,State Auditor,,Independent American,Jared Green,48
+Kane,K4,State Auditor,,Democratic, Mike Mitchell,229
+Kane,AL,State Auditor,,Republican,John Dougall,60
+Kane,AL,State Auditor,,Independent American,Jared Green,2
+Kane,AL,State Auditor,,Democratic, Mike Mitchell,4
+Kane,GL,State Auditor,,Republican,John Dougall,166
+Kane,GL,State Auditor,,Independent American,Jared Green,4
+Kane,GL,State Auditor,,Democratic, Mike Mitchell,23
+Kane,OR,State Auditor,,Republican,John Dougall,253
+Kane,OR,State Auditor,,Independent American,Jared Green,21
+Kane,OR,State Auditor,,Democratic, Mike Mitchell,28
+Kane,BU,State Auditor,,Republican,John Dougall,10
+Kane,BU,State Auditor,,Independent American,Jared Green,2
+Kane,BU,State Auditor,,Democratic, Mike Mitchell,4
+Kane,BW,State Auditor,,Republican,John Dougall,115
+Kane,BW,State Auditor,,Independent American,Jared Green,16
+Kane,BW,State Auditor,,Democratic, Mike Mitchell,51
+Kane,CM,State Auditor,,Republican,John Dougall,112
+Kane,CM,State Auditor,,Independent American,Jared Green,6
+Kane,CM,State Auditor,,Democratic, Mike Mitchell,38
+Kane,CW:B,State Auditor,,Republican,John Dougall,27
+Kane,CW:B,State Auditor,,Independent American,Jared Green,1
+Kane,CW:B,State Auditor,,Democratic, Mike Mitchell,11
+Kane,CW:C,State Auditor,,Republican,John Dougall,9
+Kane,CW:C,State Auditor,,Independent American,Jared Green,3
+Kane,CW:C,State Auditor,,Democratic, Mike Mitchell,3
+Kane,K1,State Treasurer,,Constitution,Richard Proctor,23
+Kane,K1,State Treasurer,,Democratic,Neil A. Hansen,70
+Kane,K1,State Treasurer,,Republican,Davad Damschen,222
+Kane,K2,State Treasurer,,Constitution,Richard Proctor,31
+Kane,K2,State Treasurer,,Democratic,Neil A. Hansen,196
+Kane,K2,State Treasurer,,Republican,Davad Damschen,402
+Kane,K3,State Treasurer,,Constitution,Richard Proctor,45
+Kane,K3,State Treasurer,,Democratic,Neil A. Hansen,157
+Kane,K3,State Treasurer,,Republican,Davad Damschen,487
+Kane,K4,State Treasurer,,Constitution,Richard Proctor,39
+Kane,K4,State Treasurer,,Democratic,Neil A. Hansen,230
+Kane,K4,State Treasurer,,Republican,Davad Damschen,433
+Kane,AL,State Treasurer,,Constitution,Richard Proctor,7
+Kane,AL,State Treasurer,,Democratic,Neil A. Hansen,2
+Kane,AL,State Treasurer,,Republican,Davad Damschen,57
+Kane,GL,State Treasurer,,Constitution,Richard Proctor,9
+Kane,GL,State Treasurer,,Democratic,Neil A. Hansen,25
+Kane,GL,State Treasurer,,Republican,Davad Damschen,157
+Kane,OR,State Treasurer,,Constitution,Richard Proctor,14
+Kane,OR,State Treasurer,,Democratic,Neil A. Hansen,36
+Kane,OR,State Treasurer,,Republican,Davad Damschen,249
+Kane,BU,State Treasurer,,Constitution,Richard Proctor,0
+Kane,BU,State Treasurer,,Democratic,Neil A. Hansen,5
+Kane,BU,State Treasurer,,Republican,Davad Damschen,10
+Kane,BW,State Treasurer,,Constitution,Richard Proctor,17
+Kane,BW,State Treasurer,,Democratic,Neil A. Hansen,52
+Kane,BW,State Treasurer,,Republican,Davad Damschen,109
+Kane,CM,State Treasurer,,Constitution,Richard Proctor,6
+Kane,CM,State Treasurer,,Democratic,Neil A. Hansen,37
+Kane,CM,State Treasurer,,Republican,Davad Damschen,114
+Kane,CW:B,State Treasurer,,Constitution,Richard Proctor,2
+Kane,CW:B,State Treasurer,,Democratic,Neil A. Hansen,14
+Kane,CW:B,State Treasurer,,Republican,Davad Damschen,23
+Kane,CW:C,State Treasurer,,Constitution,Richard Proctor,2
+Kane,CW:C,State Treasurer,,Democratic,Neil A. Hansen,3
+Kane,CW:C,State Treasurer,,Republican,Davad Damschen,8
+Kane,K1,State Senate,,Republican,Ralph Okerlund,270
+Kane,K2,State Senate,,Republican,Ralph Okerlund,488
+Kane,K3,State Senate,,Republican,Ralph Okerlund,572
+Kane,K4,State Senate,,Republican,Ralph Okerlund,530
+Kane,AL,State Senate,,Republican,Ralph Okerlund,60
+Kane,GL,State Senate,,Republican,Ralph Okerlund,179
+Kane,OR,State Senate,,Republican,Ralph Okerlund,277
+Kane,BU,State Senate,,Republican,Ralph Okerlund,11
+Kane,BW,State Senate,,Republican,Ralph Okerlund,138
+Kane,CM,State Senate,,Republican,Ralph Okerlund,128
+Kane,CW:B,State Senate,,Republican,Ralph Okerlund,31
+Kane,CW:C,State Senate,,Republican,Ralph Okerlund,12
+Kane,K1,State House,73,Republican,Mike Noel,250
+Kane,K1,State House,73,Democratic,Ty Markham,80
+Kane,K2,State House,73,Republican,Mike Noel,412
+Kane,K2,State House,73,Democratic,Ty Markham,256
+Kane,K3,State House,73,Republican,Mike Noel,528
+Kane,K3,State House,73,Democratic,Ty Markham,210
+Kane,K4,State House,73,Republican,Mike Noel,400
+Kane,K4,State House,73,Democratic,Ty Markham,335
+Kane,AL,State House,73,Republican,Mike Noel,56
+Kane,AL,State House,73,Democratic,Ty Markham,10
+Kane,GL,State House,73,Republican,Mike Noel,174
+Kane,GL,State House,73,Democratic,Ty Markham,24
+Kane,OR,State House,73,Republican,Mike Noel,250
+Kane,OR,State House,73,Democratic,Ty Markham,62
+Kane,BU,State House,73,Republican,Mike Noel,10
+Kane,BU,State House,73,Democratic,Ty Markham,7
+Kane,BW,State House,73,Republican,Mike Noel,113
+Kane,BW,State House,73,Democratic,Ty Markham,66
+Kane,CM,State House,73,Republican,Mike Noel,122
+Kane,CM,State House,73,Democratic,Ty Markham,38
+Kane,CW:B,State House,73,Republican,Mike Noel,29
+Kane,CW:B,State House,73,Democratic,Ty Markham,14
+Kane,CW:C,State House,73,Republican,Mike Noel,9
+Kane,CW:C,State House,73,Democratic,Ty Markham,5
