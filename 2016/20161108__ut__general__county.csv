@@ -11,7 +11,7 @@ Beaver,Governor,,,Write-In,8
 Beaver,Governor,,Republican,Gary Herbert,2033
 Beaver,Governor,,Independent American,Dell Schanze,46
 Beaver,Governor,,Democratic,Mike Weinholtz,324
-Beaver,President,,Independent,Rocky De La Fuente,6
+Beaver,President,,Independent,Rocky Giordani,6
 Beaver,President,,Democratic,Hillary Clinton,46
 Beaver,President,,,Rocky De La Fuente,0
 Beaver,President,,Workers World,Monica Moorehead,1
@@ -48,7 +48,7 @@ Box Elder,Governor,,,Write-In,39
 Box Elder,Governor,,Republican,Gary Herbert,16084
 Box Elder,Governor,,Independent American,Dell Schanze,357
 Box Elder,Governor,,Democratic,Mike Weinholtz,2454
-Box Elder,President,,Independent,Rocky De La Fuente,61
+Box Elder,President,,Independent,Rocky Giordani,61
 Box Elder,President,,Democratic,Hillary Clinton,2282
 Box Elder,President,,Workers World,Monica Moorehead,9
 Box Elder,President,,Socialist Workers,Alyson Kennedy,4
@@ -87,7 +87,7 @@ Cache,Governor,,Republican,Gary Herbert,34888
 Cache,Governor,,Independent American,Dell Schanze,712
 Cache,Governor,,Libertarian,Brian Kamerath,1626
 Cache,Governor,,Independent,L.S. Brown,7
-Cache,President,,Independent,Rocky De La Fuente,67
+Cache,President,,Independent,Rocky Giordani,67
 Cache,President,,,Rocky De La Fuente,32
 Cache,President,,Workers World,Monica Moorehead,11
 Cache,President,,Socialist Workers,Alyson Kennedy,11
@@ -131,7 +131,7 @@ Carbon,Governor,,Republican,Gary Herbert,5574
 Carbon,Governor,,Independent,Dell Schanze,142
 Carbon,Governor,,Libertarian,Brian Kamerath,180
 Carbon,Governor,,Democratic,Mike Weinholtz,2034
-Carbon,President,,Independent,Rocky De La Fuente,46
+Carbon,President,,Independent,Rocky Giordani,46
 Carbon,President,,Republican,Donald Trump,5275
 Carbon,President,,,Rocky De La Fuente,7
 Carbon,President,,Workers World,Monica Moorehead,5
@@ -167,7 +167,7 @@ Daggett,Governor,,,Write-In,0
 Daggett,Governor,,Republican,Gary Herbert,351
 Daggett,Governor,,Independent,Dell Schanze,5
 Daggett,Governor,,Libertarian,Brian Kamerath,12
-Daggett,President,,Independent,Rocky De La Fuente,1
+Daggett,President,,Independent,Rocky Giordani,1
 Daggett,President,,Republican,Donald Trump,410
 Daggett,President,,,Rocky De La Fuente,0
 Daggett,President,,Workers World,Monica Moorehead,0
@@ -279,7 +279,7 @@ Duchesne,Governor,,Libertarian,Brian Kamerath,219
 Duchesne,Governor,,Independent,Dell Schanze,151
 Duchesne,Governor,,Democratic,Mike Weinholtz,715
 Duchesne,President,,Democratic,Hillary Clinton,500
-Duchesne,President,,Independent,Rocky De La Fuente,6
+Duchesne,President,,Independent,Rocky Giordani,6
 Duchesne,President,,Workers World,Monica Moorehead,2
 Duchesne,President,,Socialist Workers,Alyson Kennedy,1
 Duchesne,President,,,Write-In,46
@@ -318,7 +318,7 @@ Emery,Governor,,Democratic,Mike Weinholtz,482
 Emery,Governor,,Republican,Gary Herbert,3617
 Emery,Governor,,Independent,Dell Schanze,80
 Emery,Governor,,Libertarian,Brian Kamerath,61
-Emery,President,,Independent,Rocky De La Fuente,28
+Emery,President,,Independent,Rocky Giordani,28
 Emery,President,,,Rocky De La Fuente,0
 Emery,President,,Democratic,Hillary Clinton,379
 Emery,President,,Workers World,Monica Moorehead,2
@@ -357,7 +357,7 @@ Garfield,Governor,,Republican,Gary Herbert,1888
 Garfield,Governor,,Independent,Dell Schanze,26
 Garfield,Governor,,Democratic,Mike Weinholtz,378
 Garfield,President,,Democratic,Hillary Clinton,358
-Garfield,President,,Independent,Rocky De La Fuente,7
+Garfield,President,,Independent,Rocky Giordani,7
 Garfield,President,,Socialist Workers,Alyson Kennedy,2
 Garfield,President,,Workers World,Monica Moorehead,4
 Garfield,President,,,Rocky De La Fuente,1
@@ -431,7 +431,7 @@ Iron,Governor,,Republican,Gary Herbert,13646
 Iron,Governor,,,L.S. Brown,1
 Iron,Governor,,Independent,Dell Schanze,360
 Iron,Governor,,Democratic,Mike Weinholtz,2597
-Iron,President,,Independent,Rocky De La Fuente,49
+Iron,President,,Independent,Rocky Giordani,49
 Iron,President,,Democratic,Hillary Clinton,2450
 Iron,President,,,Rocky De La Fuente,15
 Iron,President,,Workers World,Monica Moorehead,8
@@ -466,7 +466,7 @@ Juab,Governor,,Libertarian,Brian Kamerath,110
 Juab,Governor,,Democratic,Mike Weinholtz,487
 Juab,Governor,,Republican,Gary Herbert,3483
 Juab,Governor,,Independent American,Dell Schanze,56
-Juab,President,,Independent,Rocky De La Fuente,10
+Juab,President,,Independent,Rocky Giordani,10
 Juab,President,,,Rocky De La Fuente,1
 Juab,President,,Workers World,Monica Moorehead,3
 Juab,President,,Socialist Workers,Alyson Kennedy,2
@@ -507,7 +507,7 @@ Kane,Governor,,,Write-In,5
 Kane,Governor,,Independent American,Dell Schanze,58
 Kane,Governor,,Republican,Gray Herbert,2589
 Kane,Governor,,Democratic,Mike Weinholtz,729
-Kane,President,,Independent American,Rocky De La Fuente,6
+Kane,President,,Independent American,Rocky Giordani,6
 Kane,President,,Workers World,Monica Moorehead,352
 Kane,President,,Socialist Workers,Alyson Kennedy,3
 Kane,President,,Constitution,Darrell Castle,15
@@ -544,7 +544,7 @@ Millard,Governor,,Republican,Gary Herbert,4455
 Millard,Governor,,Independent American,Dell Schanze,78
 Millard,Governor,,Democratic,Mike Weinholtz,566
 Millard,Governor,,Independent,L.S. Brown,5
-Millard,President,,Independent American,Rocky De La Fuente,8
+Millard,President,,Independent American,Rocky Giordani,8
 Millard,President,,Democratic,Hillary Clinton,431
 Millard,President,,Workers World,Monica Moorehead,5
 Millard,President,,Socialist Workers,Alyson Kennedy,1
@@ -581,7 +581,7 @@ Morgan,Governor,,,Write-In,21
 Morgan,Governor,,Republican,Gary Herbert,4304
 Morgan,Governor,,Independent American,Dell Schanze,81
 Morgan,Governor,,Libertarian,Brian Kamerath,158
-Morgan,President,,Independent American,Rocky De La Fuente,3
+Morgan,President,,Independent American,Rocky Giordani,3
 Morgan,President,,Workers World,Monica Moorehead,2
 Morgan,President,,Socialist Workers,Alyson Kennedy,1
 Morgan,President,,Constitution,Darrell Castle,68
@@ -621,7 +621,7 @@ Piute,Governor,,Libertarian,Brian Kamerath,18
 Piute,Governor,,Democratic,Mike Weinholtz,54
 Piute,President,,Democratic,Hillary Clinton,47
 Piute,President,,Socialist Workers,Alyson Kennedy,0
-Piute,President,,Independent American,Rocky De La Fuente,2
+Piute,President,,Independent American,Rocky Giordani,2
 Piute,President,,Workers World,Monica Moorehead,1
 Piute,President,,,Rocky De La Fuente,0
 Piute,President,,Constitution,Darrell Castle,5
@@ -711,7 +711,7 @@ Salt Lake City,President,,,Andrew Basiago,2
 Salt Lake City,President,,Constitution,Darrell Castle,2047
 Salt Lake City,President,,,Tom Hoefling,1
 Salt Lake City,President,,Republican,Donald Trump,138043
-Salt Lake City,President,,Independent,Rocky De La Fuente,900
+Salt Lake City,President,,Independent,Rocky Giordani,900
 Salt Lake City,President,,,Tony Valdivia,0
 Salt Lake City,President,,,Rocky De La Fuente,353
 Salt Lake City,President,,Workers World,Monica Moorehead,246
@@ -856,7 +856,7 @@ San Pete,President,,,Alyson Kennedy,0
 San Pete,President,,Democratic,Hillary Clinton,1061
 San Pete,President,,Constitution,Darrell Castle,139
 San Pete,President,,Libertarian,Gary Johnson,186
-San Pete,President,,Independent American,Rocky De La Fuente,26
+San Pete,President,,Independent American,Rocky Giordani,26
 San Pete,President,,,Monica Moorehead,2
 San Pete,President,,,Rocky De La Fuente,7
 San Pete,President,,,Jill Stein,30
@@ -890,7 +890,7 @@ Sevier,Governor,,,Write-In,13
 Sevier,Governor,,Republican,Gary Herbert,7305
 Sevier,Governor,,Independent American,Dell Schanze,176
 Sevier,Governor,,Democratic,Mike Weinholtz,903
-Sevier,President,,Independent American,Rocky De La Fuente,22
+Sevier,President,,Independent American,Rocky Giordani,22
 Sevier,President,,,Rocky De La Fuente,1
 Sevier,President,,Workers World,Monica Moorehead,6
 Sevier,President,,Socialist Workers,Alyson Kennedy,3
@@ -928,7 +928,7 @@ Summit,Governor,,Republican,Gary Herbert,9595
 Summit,Governor,,Independent American,Dell Schanze,163
 Summit,Governor,,Libertarian,Brian Kamerath,541
 Summit,Governor,,Democratic,Mike Weinholtz,10162
-Summit,President,,Independent American,Rocky De La Fuente,27
+Summit,President,,Independent American,Rocky Giordani,27
 Summit,President,,Democratic,Hillary Clinton,10503
 Summit,President,,,Rocky De La Fuente,11
 Summit,President,,Workers World,Monica Moorehead,4
@@ -970,7 +970,7 @@ Tooele,Governor,,,Write-In,40
 Tooele,Governor,,Republican,Gary Herbert,15030
 Tooele,Governor,,Independent American,Dell Schanze,484
 Tooele,Governor,,Democratic,Mike Weinholtz,5425
-Tooele,President,,Independent American,Rocky De La Fuente,123
+Tooele,President,,Independent American,Rocky Giordani,123
 Tooele,President,,Workers World,Monica Moorehead,11
 Tooele,President,,Socialist Workers,Alyson Kennedy,11
 Tooele,President,,Democratic,Hillary Clinton,4573
@@ -1008,12 +1008,12 @@ Uintah,Governor,,Republican,Gary Herbert,10697
 Uintah,Governor,,Independent American,Dell Schanze,218
 Uintah,Governor,,Libertarian,Brian Kamerath,408
 Uintah,Governor,,Democratic,Mike Weinholtz,1388
-Uintah,President,,Independent American,Rocky De La Fuente,28
+Uintah,President,,Independent American,Rocky Giordani,28
 Uintah,President,,Workers World,Monica Moorehead,5
 Uintah,President,,Socialist Workers,Alyson Kennedy,6
 Uintah,President,,Democratic,Hillary Clinton,995
 Uintah,President,,Constitution,Darrell Castle,129
-Uintah,President,,,Rocky De La Fuente,10
+Uintah,President,,,'Rocky' De La Fuente,10
 Uintah,President,,Independent,Evan McMullin,1496
 Uintah,President,,Green,Jill Stein,43
 Uintah,President,,,Write-In,67
@@ -1045,7 +1045,7 @@ Utah,Governor,,Republican,Gary Herbert,162478
 Utah,Governor,,Independent American,Dell Schanze,2720
 Utah,Governor,,Libertarian,Brian Kamerath,6368
 Utah,President,,Workers World,Monica Moorehead,84
-Utah,President,,Independent American,Rocky De La Fuente,537
+Utah,President,,Independent American,Rocky Giordani,537
 Utah,President,,Democratic,Hillary Clinton,28522
 Utah,President,,,Rocky De La Fuente,165
 Utah,President,,Socialist Workers,Alyson Kennedy,61
@@ -1115,7 +1115,7 @@ Wasatch,Governor,,Independent American,Dell Schanze,140
 Wasatch,Governor,,Libertarian,Brian Kamerath,291
 Wasatch,Governor,,Democratic,Mike Weinholtz,3125
 Wasatch,President,,Workers World,Monica Moorehead,3
-Wasatch,President,,Independent American,Rocky De La Fuente,25
+Wasatch,President,,Independent American,Rocky Giordani,25
 Wasatch,President,,Democratic,Hillary Clinton,3063
 Wasatch,President,,,Rocky De La Fuente,6
 Wasatch,President,,Socialist Workers,Alyson Kennedy,11
@@ -1152,7 +1152,7 @@ Washington,Governor,,Republican,Gary Herbert,47302
 Washington,Governor,,,Write-In,154
 Washington,Governor,,Independent American,Dell Schanze,1125
 Washington,Governor,,Democratic,Mike Weinholtz,10545
-Washington,President,,Independent American,Rocky De La Fuente,147
+Washington,President,,Independent American,Rocky Giordani,147
 Washington,President,,Workers World,Monica Moorehead,20
 Washington,President,,Socialist Workers,Alyson Kennedy,25
 Washington,President,,Democratic,Hillary Clinton,10288
@@ -1232,7 +1232,7 @@ Weber,President,,Constitution,Darrell Castle,465
 Weber,President,,Republican,Donald Trump,40235
 Weber,President,,Green,Jill Stein,937
 Weber,President,,,Rocky De La Fuente,88
-Weber,President,,Independent American,Rocky De La Fuente,256
+Weber,President,,Independent American,"Giordani,Rocky",256
 Weber,President,,,Write-In,968
 Weber,President,,Socialist Workers,Alyson Kennedy,50
 Weber,President,,Libertarian,Gary Johnson,3371
