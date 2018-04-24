@@ -53,7 +53,7 @@ Box Elder,President,,Democratic,Hillary Rodham Clinton,2282
 Box Elder,President,,Workers World,Monica Moorehead,9
 Box Elder,President,,Socialist Workers,Alyson Kennedy,4
 Box Elder,President,,Constitution,Darrell L. Castle,210
-Box Elder,President,,,Rocky' Roque De La,15
+Box Elder,President,,,Rocky Roque De La Fuente,15
 Box Elder,President,,Independent,Evan McMullin,4257
 Box Elder,President,,Green,Jill Stein,76
 Box Elder,President,,,Write-in,143
@@ -69,10 +69,10 @@ Box Elder,State House,29,Republican,Lee B. Perry,4363
 Box Elder,State Treasurer,,Republican,David Damschen,13639
 Box Elder,State Treasurer,,Democratic,Neil A. Hansen,3646
 Box Elder,State Treasurer,,Constitution,Richard Proctor,1698
-Box Elder,U.S. House,,Unaffiliated,Chadwick H. Fairbank,422
-Box Elder,U.S. House,,Republican,Rob Bishop,15300
-Box Elder,U.S. House,,Democratic,Peter C. Clemens,2914
-Box Elder,U.S. House,,Libertarian,Craig Bowden,971
+Box Elder,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,422
+Box Elder,U.S. House,1,Republican,Rob Bishop,15300
+Box Elder,U.S. House,1,Democratic,Peter C. Clemens,2914
+Box Elder,U.S. House,1,Libertarian,Craig Bowden,971
 Box Elder,U.S. Senate,,Independent,Bill Barron,466
 Box Elder,U.S. Senate,,Independent American,Stoney Fonua,460
 Box Elder,U.S. Senate,,Republican,Mike Lee,16240
@@ -97,7 +97,7 @@ Cache,President,,Independent,Evan McMullin,14433
 Cache,President,,Green,Jill Stein,349
 Cache,President,,Independent,Laurence Kotlikoff,1
 Cache,President,,,Write-in,619
-Cache,President,,Independent,Tony Valdiva,1
+Cache,President,,Independent,Tony Valdivia,1
 Cache,President,,Republican,Donald Trump,21165
 Cache,President,,Libertarian,Gary Johnson,1754
 Cache,President,,Democratic,Hillary Clinton,9023
@@ -114,7 +114,7 @@ Cache,State Senate,25,Republican,Lyle W Hillyard,29070
 Cache,State Treasurer,,Republican,David Damschen,28894
 Cache,State Treasurer,,Democratic,Neil A Hansen,9676
 Cache,State Treasurer,,Constitution,Richard Proctor,3577
-Cache,U.S. House,1,Unaffiliated,Chadwick H Fairbanks,9646
+Cache,U.S. House,1,Unaffiliated,Chadwick H. Fairbanks,9646
 Cache,U.S. House,1,Libertarian,Craig Bowden,2995
 Cache,U.S. House,1,Democratic,Peter C. Clemens,1790
 Cache,U.S. House,1,Republican,Rob Bishop,31977
@@ -145,15 +145,15 @@ Carbon,President,,Democratic,Hillary Clinton,1717
 Carbon,State Auditor,,Democratic,Mike Mitchell,2539
 Carbon,State Auditor,,Independent,Jared Green,555
 Carbon,State Auditor,,Republican,John Dougall,4581
-Carbon,State House,,Republican,Christine F. Watkins,3275
-Carbon,State House,,Democratic,Brad King,4664
-Carbon,State Senate,,Republican,David P. Hinkins,5711
-Carbon,State Senate,,Democratic,Heidi Redd,2130
+Carbon,State House,69,Republican,Christine F. Watkins,3275
+Carbon,State House,69,Democratic,Brad King,4664
+Carbon,State Senate,27,Republican,David P. Hinkins,5711
+Carbon,State Senate,27,Democratic,Heidi Redd,2130
 Carbon,State Treasurer,,Republican,David Damschen,4425
 Carbon,State Treasurer,,Democratic,Neil A Hansen,2647
 Carbon,State Treasurer,,Constitution,Richard Proctor,530
 Carbon,U.S. House,,Republican,Jason Chaffetz,5352
-Carbon,U.S. House,,Democratic,Stephen P. Tyron,2456
+Carbon,U.S. House,,Democratic,Stephen P. Tryon,2456
 Carbon,U.S. Senate,,Independent,Bill Barron,136
 Carbon,U.S. Senate,,Independent American,Stoney Fonua,210
 Carbon,U.S. Senate,,Republican,Mike Lee,5606
@@ -258,7 +258,7 @@ Davis,State Senate,23,Democratic,Hartwick,11506
 Davis,State Treasurer,,Constitution,Proctor,9187
 Davis,State Treasurer,,Republican,Damschen,90700
 Davis,State Treasurer,,Democratic,Hansen,33506
-Davis,U.S. House,1,Liberatrian,Bowden,4925
+Davis,U.S. House,1,Libertarian,Bowden,4925
 Davis,U.S. House,1,Independent,Fairbanks,1371
 Davis,U.S. House,1,Democratic,Clemens,18707
 Davis,U.S. House,1,Republican,Bishop,57066
@@ -303,7 +303,7 @@ Duchesne,State Treasurer,,Democratic,Neil A. Hansen,913
 Duchesne,State Treasurer,,Constitution,Richard Proctor,550
 Duchesne,U.S. House,1,Republican,Rob Bishop,5755
 Duchesne,U.S. House,1,Democratic,Peter C. Clemens,713
-Duchesne,U.S. House,1,Liberatrian,Craig Bowden,292
+Duchesne,U.S. House,1,Libertarian,Craig Bowden,292
 Duchesne,U.S. House,1,Independent,Chadwick H. Fairbanks III,123
 Duchesne,U.S. Senate,,Independent,Bill Barron,104
 Duchesne,U.S. Senate,,Independent American,Stoney Fonua,114
@@ -356,11 +356,11 @@ Garfield,Governor,,,Write-In,5
 Garfield,Governor,,Republican,Gary R. Herbert,1888
 Garfield,Governor,,Independent,Superdell Schanze,26
 Garfield,Governor,,Democratic,Mike Weinholtz,378
-Garfield,President,,Democratic,Hillary Rodham Clin,358
+Garfield,President,,Democratic,Hillary Rodham Clinton,358
 Garfield,President,,Independent,Rocky Giordani,7
 Garfield,President,,Socialist Workers,Alyson Kennedy,2
 Garfield,President,,Workers World,Monica Moorehead,4
-Garfield,President,,,'Rocky' Roque De La,1
+Garfield,President,,,'Rocky Roque De La Fuente,1
 Garfield,President,,,Write-In,19
 Garfield,President,,Constitution,Darrell L. Castle,3
 Garfield,President,,Independent,Evan McMullin,286
@@ -370,9 +370,9 @@ Garfield,President,,Libertarian,Gary Johnson,61
 Garfield,State Auditor,,Democratic, Mike Mitchell,427
 Garfield,State Auditor,,Republican,John Dougall,1704
 Garfield,State Auditor,,Independent American,Jared Green,102
-Garfield,State House,,Republican,Mike Noel,1754
-Garfield,State House,,Democratic,Ty Markham,561
-Garfield,State Senate,24,Republican,Ralph Kerlund,1841
+Garfield,State House,73,Republican,Mike Noel,1754
+Garfield,State House,73,Democratic,Ty Markham,561
+Garfield,State Senate,24,Republican,Ralph Okerlund,1841
 Garfield,State Treasurer,,Republican,David Damschen,1657
 Garfield,State Treasurer,,Democratic,Neil A. Hansen,429
 Garfield,State Treasurer,,Constitution,Richard Proctor,145
@@ -467,7 +467,7 @@ Juab,Governor,,Democratic,Mike Weinholtz,487
 Juab,Governor,,Republican,Gary R. Herbert,3483
 Juab,Governor,,Independent American,Superdell Schanze,56
 Juab,President,,Independent,Rocky Giordani,10
-Juab,President,,,'Rocky' Roque De La,1
+Juab,President,,,'Rocky Roque De La Fuente,1
 Juab,President,,Workers World,Monica Moorehead,3
 Juab,President,,Socialist Workers,Alyson Kennedy,2
 Juab,President,,Constitution,Darrell Castle,44
@@ -481,10 +481,10 @@ Juab,State Auditor,,Democratic, Mike Mitchell,726
 Juab,State Auditor,,Republican,John Dougall,3002
 Juab,State Auditor,,Independent American,Jared Green,202
 Juab,State House,58,Republican,Derrin R. Owens,3403
-Juab,State House,68,Republican,Merill Nelson,213
+Juab,State House,68,Republican,Merrill Nelson,213
 Juab,State House,68,Constitution,Kirk Pearson,42
 Juab,State House,68,Democratic,Cindee Beard,107
-Juab,State Senate,,Republican,Ralph Okerlund,3719
+Juab,State Senate,24,Republican,Ralph Okerlund,3719
 Juab,State Treasurer,,Democratic,Neil A. Hansen,737
 Juab,State Treasurer,,Republican,David Damschen,2798
 Juab,State Treasurer,,Constitution,Richard Proctor,368
@@ -523,7 +523,7 @@ Kane,State Auditor,,Republican,John Dougall,2316
 Kane,State Auditor,,Independent American,Jared Green,190
 Kane,State House,73,Republican,Mike Noel,2353
 Kane,State House,73,Democratic,Ty Markham,1107
-Kane,State Senate,,Republican,Ralph Okerlund,2696
+Kane,State Senate,24,Republican,Ralph Okerlund,2696
 Kane,State Treasurer,,Democratic,Neil A. Hansen,827
 Kane,State Treasurer,,Republican,Davad Damschen,2271
 Kane,State Treasurer,,Constitution,Richard Proctor,195
@@ -619,11 +619,11 @@ Piute,Governor,,Republican,Gary R. Herbert,630
 Piute,Governor,,Independent American,Superdell Schanze,13
 Piute,Governor,,Libertarian,Brian E. Kamerath,18
 Piute,Governor,,Democratic,Mike Weinholtz,54
-Piute,President,,Democratic,Hillary Rodham Clin,47
+Piute,President,,Democratic,Hillary Rodham Clinton,47
 Piute,President,,Socialist Workers,Alyson Kennedy,0
 Piute,President,,Independent American,Rocky Giordani,2
 Piute,President,,Workers World,Monica Moorehead,1
-Piute,President,,,'Rocky' Roque De La,0
+Piute,President,,,'Rocky Roque De La Fuente,0
 Piute,President,,Constitution,Darrell L. Castle,5
 Piute,President,,Independent,Evan McMullin,36
 Piute,President,,Green,Jill Stein,1
@@ -633,8 +633,8 @@ Piute,President,,Libertarian,Gary Johnson,11
 Piute,State Auditor,,Democratic, Mike Mitchell,75
 Piute,State Auditor,,Republican,John Dougall,581
 Piute,State Auditor,,Independent American,Jared Green,36
-Piute,State House,,Republican,Mike Noel,621
-Piute,State House,,Democratic,Ty Markham,74
+Piute,State House,73,Republican,Mike Noel,621
+Piute,State House,73,Democratic,Ty Markham,74
 Piute,State Senate,24,Republican,Ralph Okerlund,646
 Piute,State Treasurer,,Republican,David Damschen,573
 Piute,State Treasurer,,Democratic,Neil A. Hansen,76
@@ -677,7 +677,7 @@ Rich,State Treasurer,,Constitution,Richard Proctor,55
 Rich,State Treasurer,,Democratic,Neil A. Hansen,175
 Rich,U.S. House,1,Republican,Rob Bishop,932
 Rich,U.S. House,1,Libertarian,Craig Bowden,32
-Rich,U.S. House,1,Democratic,Peter C. Clements,130
+Rich,U.S. House,1,Democratic,Peter C. Clemens,130
 Rich,U.S. House,1,,C. Fairbanks III ,16
 Rich,U.S. Senate,,Independent American,Stoney Fonua,13
 Rich,U.S. Senate,,,Bill Barron,14
@@ -817,7 +817,7 @@ San Juan,President,,,Roque De La Fuente,7
 San Juan,President,,Workers World,Monica Moorehead,4
 San Juan,President,,Socialist Workers,Alyson Kennedy,5
 San Juan,President,,Constitution,Darrell L. Castle,45
-San Juan,President,,,Rocky' Roque De La,1
+San Juan,President,,,Rocky Roque De La Fuente,1
 San Juan,President,,Independent,Evan McMullin,486
 San Juan,President,,Green,Jill Stein,47
 San Juan,President,,,Write-in,87
@@ -908,7 +908,7 @@ Sevier,State House,70,Democratic,William Groff,955
 Sevier,State House,70,Republican,Carl Albrecht,7402
 Sevier,State House,73,Democratic,Ty Markham,8
 Sevier,State House,73,Republican,Mike Noel,82
-Sevier,State Senate,27,Republican,Ralph Okerlund,7857
+Sevier,State Senate,24,Republican,Ralph Okerlund,7857
 Sevier,State Treasurer,,Democratic,Neil A. Hansen,1112
 Sevier,State Treasurer,,Republican,David Damschen,6618
 Sevier,State Treasurer,,Constitution,Richard Proctor,600
@@ -953,10 +953,10 @@ Summit,State Senate,19,Democratic,Deana Froerer,3775
 Summit,State Treasurer,,Republican,David Damschen,8779
 Summit,State Treasurer,,Democratic,Neil A. Hansen,9303
 Summit,State Treasurer,,Constitution,Richard Proctor,1108
-Summit,U.S. House,,Republican,Rob Bishop,8562
-Summit,U.S. House,,Libertarian,Craig Bowden,941
-Summit,U.S. House,,Democratic,Peter C Clemens,10529
-Summit,U.S. House,,,Chadwick H Fairbanks,196
+Summit,U.S. House,1,Republican,Rob Bishop,8562
+Summit,U.S. House,1,Libertarian,Craig Bowden,941
+Summit,U.S. House,1,Democratic,Peter C Clemens,10529
+Summit,U.S. House,1,,Chadwick H. Fairbanks,196
 Summit,U.S. Senate,,Independent American,Stoney Fonua,354
 Summit,U.S. Senate,,Independent,Bill Barron,816
 Summit,U.S. Senate,,Republican,Mike Lee,9409
@@ -973,12 +973,12 @@ Tooele,Governor,,Democratic,Mike Weinholtz,5425
 Tooele,President,,Independent American,Rocky Giordani,123
 Tooele,President,,Workers World,Monica Moorehead,11
 Tooele,President,,Socialist Workers,Alyson Kennedy,11
-Tooele,President,,Democratic,Hillary Rodham Clint,4573
+Tooele,President,,Democratic,Hillary Rodham Clinton,4573
 Tooele,President,,Constitution,Darrell L. Castle,191
 Tooele,President,,Independent,Evan McMullin,4769
 Tooele,President,,Green,Jill Stein,182
 Tooele,President,,,Write-in,163
-Tooele,President,,,Rocky Roque De La Fu,17
+Tooele,President,,,Rocky Roque De La Fuente,17
 Tooele,President,,Republican,Donald J. Trump,11169
 Tooele,President,,Libertarian,Gary Johnson,783
 Tooele,State Auditor,,Republican,John Dougall,13538
@@ -1011,7 +1011,7 @@ Uintah,Governor,,Democratic,Mike Weinholtz,1388
 Uintah,President,,Independent American,Rocky Giordani,28
 Uintah,President,,Workers World,Monica Moorehead,5
 Uintah,President,,Socialist Workers,Alyson Kennedy,6
-Uintah,President,,Democratic,Hillary Rodham Clint,995
+Uintah,President,,Democratic,Hillary Rodham Clinton,995
 Uintah,President,,Constitution,Darrell L. Castle,129
 Uintah,President,,,'Rocky' De La Fuente,10
 Uintah,President,,Independent,Evan McMullin,1496
@@ -1029,7 +1029,7 @@ Uintah,State Treasurer,,Democratic,Neil A. Hansen,1572
 Uintah,State Treasurer,,Constitution,Richard Proctor,926
 Uintah,U.S. House,1,Republican,Rob Bishop,10362
 Uintah,U.S. House,1,Democratic,Peter C. Clemens,1397
-Uintah,U.S. House,1,Constitution,Chadwick H. Faribank,273
+Uintah,U.S. House,1,Constitution,Chadwick H. Fairbanks,273
 Uintah,U.S. House,1,Democratic,Craig Bowden,580
 Uintah,U.S. Senate,,Independent,Bill Barron,247
 Uintah,U.S. Senate,,Independent American,Stoney Fonua,234
@@ -1155,12 +1155,12 @@ Washington,Governor,,Democratic,Mike Weinholtz,10545
 Washington,President,,Independent American,Rocky Giordani,147
 Washington,President,,Workers World,Monica Moorehead,20
 Washington,President,,Socialist Workers,Alyson Kennedy,25
-Washington,President,,Democratic,Hillary Rodham Clint,10288
+Washington,President,,Democratic,Hillary Rodham Clinton,10288
 Washington,President,,Constitution,Darrell L. Castle,459
 Washington,President,,Independent,Evan McMullin,6565
 Washington,President,,Green,Jill Stein,290
 Washington,President,,,Write-in,479
-Washington,President,,,Rocky Roque De La Fu,45
+Washington,President,,,Rocky Roque De La Fuente,45
 Washington,President,,Republican,Donald J. Trump,42650
 Washington,President,,Libertarian,Gary Johnson,1473
 Washington,State Auditor,,Republican,John Dougall,44503
@@ -1264,7 +1264,7 @@ Weber,State Treasurer,,Republican,"Damschen, David",45976
 Weber,State Treasurer,,Constitution,"Proctor, Richard",5822
 Weber,U.S. House,1,Libertarian,"Bowden, Craig",5441
 Weber,U.S. House,1,Democratic,"Clemens, Peter C.",27861
-Weber,U.S. House,1,,"Fairbanks, Chadwick",1628
+Weber,U.S. House,1,,"Chadwick H. Fairbanks",1628
 Weber,U.S. House,1,Republican,"Bishop, Rob",49030
 Weber,U.S. Senate,,Democratic,"Snow, Misty K",24214
 Weber,U.S. Senate,,Republican,"Lee, Mike",55278

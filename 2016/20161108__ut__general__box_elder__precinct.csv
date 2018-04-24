@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes
-Box Elder,Brigham City 01,President,,,Rocky' Roque De La,1
+Box Elder,Brigham City 01,President,,,Rocky Roque De La Fuente,1
 Box Elder,Brigham City 01,President,,Green,Jill Stein,2
 Box Elder,Brigham City 01,President,,Socialist Workers,Alyson Kennedy,1
 Box Elder,Brigham City 01,President,,Libertarian,Gary Johnson,24
@@ -14,10 +14,10 @@ Box Elder,Brigham City 01,U.S. Senate,,Democratic,Misty K Snow,107
 Box Elder,Brigham City 01,U.S. Senate,,Independent,Bill Barron,21
 Box Elder,Brigham City 01,U.S. Senate,,Independent American,Stoney Fonua,21
 Box Elder,Brigham City 01,U.S. Senate,,Republican,Mike Lee,525
-Box Elder,Brigham City 01,U.S. House,,Republican,Rob Bishop,480
-Box Elder,Brigham City 01,U.S. House,,Libertarian,Craig Bowden,30
-Box Elder,Brigham City 01,U.S. House,,Unaffiliated,Chadwick H. Fairbank,13
-Box Elder,Brigham City 01,U.S. House,,Democratic,Peter C. Clemens,143
+Box Elder,Brigham City 01,U.S. House,1,Republican,Rob Bishop,480
+Box Elder,Brigham City 01,U.S. House,1,Libertarian,Craig Bowden,30
+Box Elder,Brigham City 01,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,13
+Box Elder,Brigham City 01,U.S. House,1,Democratic,Peter C. Clemens,143
 Box Elder,Brigham City 01,Governor,,Republican,Gary R. Herbert,515
 Box Elder,Brigham City 01,Governor,,Independent American,Superdell Schanze,13
 Box Elder,Brigham City 01,Governor,,Libertarian,Brian E Kamerath,17
@@ -35,7 +35,7 @@ Box Elder,Brigham City 01,State Treasurer,,Democratic,Neil A. Hansen,149
 Box Elder,Brigham City 01,State Treasurer,,Republican,David Damschen,447
 Box Elder,Brigham City 01,State House,1,Constitution,Sherry Phipps,142
 Box Elder,Brigham City 01,State House,1,Republican,Scott Sandall,497
-Box Elder,Brigham City 02,President,,,Rocky' Roque De La,1
+Box Elder,Brigham City 02,President,,,Rocky Roque De La Fuente,1
 Box Elder,Brigham City 02,President,,Green,Jill Stein,2
 Box Elder,Brigham City 02,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 02,President,,Libertarian,Gary Johnson,19
@@ -50,10 +50,10 @@ Box Elder,Brigham City 02,U.S. Senate,,Democratic,Misty K Snow,46
 Box Elder,Brigham City 02,U.S. Senate,,Independent,Bill Barron,9
 Box Elder,Brigham City 02,U.S. Senate,,Independent American,Stoney Fonua,14
 Box Elder,Brigham City 02,U.S. Senate,,Republican,Mike Lee,330
-Box Elder,Brigham City 02,U.S. House,,Republican,Rob Bishop,317
-Box Elder,Brigham City 02,U.S. House,,Libertarian,Craig Bowden,19
-Box Elder,Brigham City 02,U.S. House,,Unaffiliated,Chadwick H. Fairbank,7
-Box Elder,Brigham City 02,U.S. House,,Democratic,Peter C. Clemens,60
+Box Elder,Brigham City 02,U.S. House,1,Republican,Rob Bishop,317
+Box Elder,Brigham City 02,U.S. House,1,Libertarian,Craig Bowden,19
+Box Elder,Brigham City 02,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,7
+Box Elder,Brigham City 02,U.S. House,1,Democratic,Peter C. Clemens,60
 Box Elder,Brigham City 02,Governor,,Republican,Gary R. Herbert,330
 Box Elder,Brigham City 02,Governor,,Independent American,Superdell Schanze,7
 Box Elder,Brigham City 02,Governor,,Libertarian,Brian E Kamerath,10
@@ -71,7 +71,7 @@ Box Elder,Brigham City 02,State Treasurer,,Democratic,Neil A. Hansen,73
 Box Elder,Brigham City 02,State Treasurer,,Republican,David Damschen,286
 Box Elder,Brigham City 02,State House,1,Constitution,Sherry Phipps,83
 Box Elder,Brigham City 02,State House,1,Republican,Scott Sandall,304
-Box Elder,Brigham City 03,President,,,Rocky' Roque De La,0
+Box Elder,Brigham City 03,President,,,Rocky Roque De La Fuente,0
 Box Elder,Brigham City 03,President,,Green,Jill Stein,3
 Box Elder,Brigham City 03,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 03,President,,Libertarian,Gary Johnson,20
@@ -86,10 +86,10 @@ Box Elder,Brigham City 03,U.S. Senate,,Democratic,Misty K Snow,98
 Box Elder,Brigham City 03,U.S. Senate,,Independent,Bill Barron,18
 Box Elder,Brigham City 03,U.S. Senate,,Independent American,Stoney Fonua,19
 Box Elder,Brigham City 03,U.S. Senate,,Republican,Mike Lee,334
-Box Elder,Brigham City 03,U.S. House,,Republican,Rob Bishop,302
-Box Elder,Brigham City 03,U.S. House,,Libertarian,Craig Bowden,38
-Box Elder,Brigham City 03,U.S. House,,Unaffiliated,Chadwick H. Fairbank,22
-Box Elder,Brigham City 03,U.S. House,,Democratic,Peter C. Clemens,107
+Box Elder,Brigham City 03,U.S. House,1,Republican,Rob Bishop,302
+Box Elder,Brigham City 03,U.S. House,1,Libertarian,Craig Bowden,38
+Box Elder,Brigham City 03,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,22
+Box Elder,Brigham City 03,U.S. House,1,Democratic,Peter C. Clemens,107
 Box Elder,Brigham City 03,Governor,,Republican,Gary R. Herbert,322
 Box Elder,Brigham City 03,Governor,,Independent American,Superdell Schanze,12
 Box Elder,Brigham City 03,Governor,,Libertarian,Brian E Kamerath,24
@@ -107,7 +107,7 @@ Box Elder,Brigham City 03,State Treasurer,,Democratic,Neil A. Hansen,114
 Box Elder,Brigham City 03,State Treasurer,,Republican,David Damschen,286
 Box Elder,Brigham City 03,State House,1,Constitution,Sherry Phipps,170
 Box Elder,Brigham City 03,State House,1,Republican,Scott Sandall,273
-Box Elder,Brigham City 04,President,,,Rocky' Roque De La,0
+Box Elder,Brigham City 04,President,,,Rocky Roque De La Fuente,0
 Box Elder,Brigham City 04,President,,Green,Jill Stein,6
 Box Elder,Brigham City 04,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 04,President,,Libertarian,Gary Johnson,21
@@ -122,10 +122,10 @@ Box Elder,Brigham City 04,U.S. Senate,,Democratic,Misty K Snow,74
 Box Elder,Brigham City 04,U.S. Senate,,Independent,Bill Barron,12
 Box Elder,Brigham City 04,U.S. Senate,,Independent American,Stoney Fonua,10
 Box Elder,Brigham City 04,U.S. Senate,,Republican,Mike Lee,313
-Box Elder,Brigham City 04,U.S. House,,Republican,Rob Bishop,295
-Box Elder,Brigham City 04,U.S. House,,Libertarian,Craig Bowden,33
-Box Elder,Brigham City 04,U.S. House,,Unaffiliated,Chadwick H. Fairbank,11
-Box Elder,Brigham City 04,U.S. House,,Democratic,Peter C. Clemens,79
+Box Elder,Brigham City 04,U.S. House,1,Republican,Rob Bishop,295
+Box Elder,Brigham City 04,U.S. House,1,Libertarian,Craig Bowden,33
+Box Elder,Brigham City 04,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,11
+Box Elder,Brigham City 04,U.S. House,1,Democratic,Peter C. Clemens,79
 Box Elder,Brigham City 04,Governor,,Republican,Gary R. Herbert,308
 Box Elder,Brigham City 04,Governor,,Independent American,Superdell Schanze,6
 Box Elder,Brigham City 04,Governor,,Libertarian,Brian E Kamerath,22
@@ -143,7 +143,7 @@ Box Elder,Brigham City 04,State Treasurer,,Democratic,Neil A. Hansen,96
 Box Elder,Brigham City 04,State Treasurer,,Republican,David Damschen,248
 Box Elder,Brigham City 04,State House,1,Constitution,Sherry Phipps,100
 Box Elder,Brigham City 04,State House,1,Republican,Scott Sandall,287
-Box Elder,Brigham City 05,President,,,Rocky' Roque De La,1
+Box Elder,Brigham City 05,President,,,Rocky Roque De La Fuente,1
 Box Elder,Brigham City 05,President,,Green,Jill Stein,2
 Box Elder,Brigham City 05,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 05,President,,Libertarian,Gary Johnson,14
@@ -158,10 +158,10 @@ Box Elder,Brigham City 05,U.S. Senate,,Democratic,Misty K Snow,69
 Box Elder,Brigham City 05,U.S. Senate,,Independent,Bill Barron,18
 Box Elder,Brigham City 05,U.S. Senate,,Independent American,Stoney Fonua,9
 Box Elder,Brigham City 05,U.S. Senate,,Republican,Mike Lee,266
-Box Elder,Brigham City 05,U.S. House,,Republican,Rob Bishop,255
-Box Elder,Brigham City 05,U.S. House,,Libertarian,Craig Bowden,12
-Box Elder,Brigham City 05,U.S. House,,Unaffiliated,Chadwick H. Fairbank,8
-Box Elder,Brigham City 05,U.S. House,,Democratic,Peter C. Clemens,93
+Box Elder,Brigham City 05,U.S. House,1,Republican,Rob Bishop,255
+Box Elder,Brigham City 05,U.S. House,1,Libertarian,Craig Bowden,12
+Box Elder,Brigham City 05,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,8
+Box Elder,Brigham City 05,U.S. House,1,Democratic,Peter C. Clemens,93
 Box Elder,Brigham City 05,Governor,,Republican,Gary R. Herbert,259
 Box Elder,Brigham City 05,Governor,,Independent American,Superdell Schanze,13
 Box Elder,Brigham City 05,Governor,,Libertarian,Brian E Kamerath,13
@@ -179,7 +179,7 @@ Box Elder,Brigham City 05,State Treasurer,,Democratic,Neil A. Hansen,105
 Box Elder,Brigham City 05,State Treasurer,,Republican,David Damschen,214
 Box Elder,Brigham City 05,State House,1,Constitution,Sherry Phipps,96
 Box Elder,Brigham City 05,State House,1,Republican,Scott Sandall,249
-Box Elder,Brigham City 06,President,,,Rocky' Roque De La,1
+Box Elder,Brigham City 06,President,,,Rocky Roque De La Fuente,1
 Box Elder,Brigham City 06,President,,Green,Jill Stein,0
 Box Elder,Brigham City 06,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 06,President,,Libertarian,Gary Johnson,12
@@ -194,10 +194,10 @@ Box Elder,Brigham City 06,U.S. Senate,,Democratic,Misty K Snow,56
 Box Elder,Brigham City 06,U.S. Senate,,Independent,Bill Barron,9
 Box Elder,Brigham City 06,U.S. Senate,,Independent American,Stoney Fonua,8
 Box Elder,Brigham City 06,U.S. Senate,,Republican,Mike Lee,479
-Box Elder,Brigham City 06,U.S. House,,Republican,Rob Bishop,463
-Box Elder,Brigham City 06,U.S. House,,Libertarian,Craig Bowden,23
-Box Elder,Brigham City 06,U.S. House,,Unaffiliated,Chadwick H. Fairbank,10
-Box Elder,Brigham City 06,U.S. House,,Democratic,Peter C. Clemens,61
+Box Elder,Brigham City 06,U.S. House,1,Republican,Rob Bishop,463
+Box Elder,Brigham City 06,U.S. House,1,Libertarian,Craig Bowden,23
+Box Elder,Brigham City 06,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,10
+Box Elder,Brigham City 06,U.S. House,1,Democratic,Peter C. Clemens,61
 Box Elder,Brigham City 06,Governor,,Republican,Gary R. Herbert,472
 Box Elder,Brigham City 06,Governor,,Independent American,Superdell Schanze,11
 Box Elder,Brigham City 06,Governor,,Libertarian,Brian E Kamerath,12
@@ -215,7 +215,7 @@ Box Elder,Brigham City 06,State Treasurer,,Democratic,Neil A. Hansen,88
 Box Elder,Brigham City 06,State Treasurer,,Republican,David Damschen,408
 Box Elder,Brigham City 06,State House,1,Constitution,Sherry Phipps,80
 Box Elder,Brigham City 06,State House,1,Republican,Scott Sandall,457
-Box Elder,Brigham City 07,President,,,Rocky' Roque De La,2
+Box Elder,Brigham City 07,President,,,Rocky Roque De La Fuente,2
 Box Elder,Brigham City 07,President,,Green,Jill Stein,6
 Box Elder,Brigham City 07,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 07,President,,Libertarian,Gary Johnson,24
@@ -230,10 +230,10 @@ Box Elder,Brigham City 07,U.S. Senate,,Democratic,Misty K Snow,88
 Box Elder,Brigham City 07,U.S. Senate,,Independent,Bill Barron,21
 Box Elder,Brigham City 07,U.S. Senate,,Independent American,Stoney Fonua,11
 Box Elder,Brigham City 07,U.S. Senate,,Republican,Mike Lee,363
-Box Elder,Brigham City 07,U.S. House,,Republican,Rob Bishop,356
-Box Elder,Brigham City 07,U.S. House,,Libertarian,Craig Bowden,25
-Box Elder,Brigham City 07,U.S. House,,Unaffiliated,Chadwick H. Fairbank,11
-Box Elder,Brigham City 07,U.S. House,,Democratic,Peter C. Clemens,95
+Box Elder,Brigham City 07,U.S. House,1,Republican,Rob Bishop,356
+Box Elder,Brigham City 07,U.S. House,1,Libertarian,Craig Bowden,25
+Box Elder,Brigham City 07,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,11
+Box Elder,Brigham City 07,U.S. House,1,Democratic,Peter C. Clemens,95
 Box Elder,Brigham City 07,Governor,,Republican,Gary R. Herbert,378
 Box Elder,Brigham City 07,Governor,,Independent American,Superdell Schanze,9
 Box Elder,Brigham City 07,Governor,,Libertarian,Brian E Kamerath,17
@@ -251,7 +251,7 @@ Box Elder,Brigham City 07,State Treasurer,,Democratic,Neil A. Hansen,101
 Box Elder,Brigham City 07,State Treasurer,,Republican,David Damschen,314
 Box Elder,Brigham City 07,State House,1,Constitution,Sherry Phipps,109
 Box Elder,Brigham City 07,State House,1,Republican,Scott Sandall,350
-Box Elder,Brigham City 08,President,,,Rocky' Roque De La,0
+Box Elder,Brigham City 08,President,,,Rocky Roque De La Fuente,0
 Box Elder,Brigham City 08,President,,Green,Jill Stein,0
 Box Elder,Brigham City 08,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 08,President,,Libertarian,Gary Johnson,7
@@ -266,10 +266,10 @@ Box Elder,Brigham City 08,U.S. Senate,,Democratic,Misty K Snow,46
 Box Elder,Brigham City 08,U.S. Senate,,Independent,Bill Barron,7
 Box Elder,Brigham City 08,U.S. Senate,,Independent American,Stoney Fonua,8
 Box Elder,Brigham City 08,U.S. Senate,,Republican,Mike Lee,203
-Box Elder,Brigham City 08,U.S. House,,Republican,Rob Bishop,196
-Box Elder,Brigham City 08,U.S. House,,Libertarian,Craig Bowden,13
-Box Elder,Brigham City 08,U.S. House,,Unaffiliated,Chadwick H. Fairbank,9
-Box Elder,Brigham City 08,U.S. House,,Democratic,Peter C. Clemens,47
+Box Elder,Brigham City 08,U.S. House,1,Republican,Rob Bishop,196
+Box Elder,Brigham City 08,U.S. House,1,Libertarian,Craig Bowden,13
+Box Elder,Brigham City 08,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,9
+Box Elder,Brigham City 08,U.S. House,1,Democratic,Peter C. Clemens,47
 Box Elder,Brigham City 08,Governor,,Republican,Gary R. Herbert,204
 Box Elder,Brigham City 08,Governor,,Independent American,Superdell Schanze,4
 Box Elder,Brigham City 08,Governor,,Libertarian,Brian E Kamerath,13
@@ -287,7 +287,7 @@ Box Elder,Brigham City 08,State Treasurer,,Democratic,Neil A. Hansen,68
 Box Elder,Brigham City 08,State Treasurer,,Republican,David Damschen,160
 Box Elder,Brigham City 08,State House,29,Republican,Lee B. Perry,206
 Box Elder,Brigham City 08,State House,29,Democratic,Angela B. Urrea,58
-Box Elder,Brigham City 09,President,,,Rocky' Roque De La,0
+Box Elder,Brigham City 09,President,,,Rocky Roque De La Fuente,0
 Box Elder,Brigham City 09,President,,Green,Jill Stein,1
 Box Elder,Brigham City 09,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 09,President,,Libertarian,Gary Johnson,4
@@ -302,10 +302,10 @@ Box Elder,Brigham City 09,U.S. Senate,,Democratic,Misty K Snow,39
 Box Elder,Brigham City 09,U.S. Senate,,Independent,Bill Barron,8
 Box Elder,Brigham City 09,U.S. Senate,,Independent American,Stoney Fonua,9
 Box Elder,Brigham City 09,U.S. Senate,,Republican,Mike Lee,216
-Box Elder,Brigham City 09,U.S. House,,Republican,Rob Bishop,211
-Box Elder,Brigham City 09,U.S. House,,Libertarian,Craig Bowden,18
-Box Elder,Brigham City 09,U.S. House,,Unaffiliated,Chadwick H. Fairbank,17
-Box Elder,Brigham City 09,U.S. House,,Democratic,Peter C. Clemens,30
+Box Elder,Brigham City 09,U.S. House,1,Republican,Rob Bishop,211
+Box Elder,Brigham City 09,U.S. House,1,Libertarian,Craig Bowden,18
+Box Elder,Brigham City 09,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,17
+Box Elder,Brigham City 09,U.S. House,1,Democratic,Peter C. Clemens,30
 Box Elder,Brigham City 09,Governor,,Republican,Gary R. Herbert,227
 Box Elder,Brigham City 09,Governor,,Independent American,Superdell Schanze,5
 Box Elder,Brigham City 09,Governor,,Libertarian,Brian E Kamerath,7
@@ -323,7 +323,7 @@ Box Elder,Brigham City 09,State Treasurer,,Democratic,Neil A. Hansen,54
 Box Elder,Brigham City 09,State Treasurer,,Republican,David Damschen,183
 Box Elder,Brigham City 09,State House,29,Republican,Lee B. Perry,228
 Box Elder,Brigham City 09,State House,29,Democratic,Angela B. Urrea,40
-Box Elder,Brigham City 10,President,,,Rocky' Roque De La,0
+Box Elder,Brigham City 10,President,,,Rocky Roque De La Fuente,0
 Box Elder,Brigham City 10,President,,Green,Jill Stein,3
 Box Elder,Brigham City 10,President,,Socialist Workers,Alyson Kennedy,1
 Box Elder,Brigham City 10,President,,Libertarian,Gary Johnson,12
@@ -338,10 +338,10 @@ Box Elder,Brigham City 10,U.S. Senate,,Democratic,Misty K Snow,52
 Box Elder,Brigham City 10,U.S. Senate,,Independent,Bill Barron,11
 Box Elder,Brigham City 10,U.S. Senate,,Independent American,Stoney Fonua,12
 Box Elder,Brigham City 10,U.S. Senate,,Republican,Mike Lee,402
-Box Elder,Brigham City 10,U.S. House,,Republican,Rob Bishop,391
-Box Elder,Brigham City 10,U.S. House,,Libertarian,Craig Bowden,15
-Box Elder,Brigham City 10,U.S. House,,Unaffiliated,Chadwick H. Fairbank,4
-Box Elder,Brigham City 10,U.S. House,,Democratic,Peter C. Clemens,67
+Box Elder,Brigham City 10,U.S. House,1,Republican,Rob Bishop,391
+Box Elder,Brigham City 10,U.S. House,1,Libertarian,Craig Bowden,15
+Box Elder,Brigham City 10,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,4
+Box Elder,Brigham City 10,U.S. House,1,Democratic,Peter C. Clemens,67
 Box Elder,Brigham City 10,Governor,,Republican,Gary R. Herbert,416
 Box Elder,Brigham City 10,Governor,,Independent American,Superdell Schanze,10
 Box Elder,Brigham City 10,Governor,,Libertarian,Brian E Kamerath,5
@@ -359,7 +359,7 @@ Box Elder,Brigham City 10,State Treasurer,,Democratic,Neil A. Hansen,83
 Box Elder,Brigham City 10,State Treasurer,,Republican,David Damschen,342
 Box Elder,Brigham City 10,State House,29,Republican,Lee B. Perry,419
 Box Elder,Brigham City 10,State House,29,Democratic,Angela B. Urrea,54
-Box Elder,Brigham City 11,President,,,Rocky' Roque De La,0
+Box Elder,Brigham City 11,President,,,Rocky Roque De La Fuente,0
 Box Elder,Brigham City 11,President,,Green,Jill Stein,1
 Box Elder,Brigham City 11,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 11,President,,Libertarian,Gary Johnson,18
@@ -374,10 +374,10 @@ Box Elder,Brigham City 11,U.S. Senate,,Democratic,Misty K Snow,57
 Box Elder,Brigham City 11,U.S. Senate,,Independent,Bill Barron,8
 Box Elder,Brigham City 11,U.S. Senate,,Independent American,Stoney Fonua,6
 Box Elder,Brigham City 11,U.S. Senate,,Republican,Mike Lee,281
-Box Elder,Brigham City 11,U.S. House,,Republican,Rob Bishop,255
-Box Elder,Brigham City 11,U.S. House,,Libertarian,Craig Bowden,31
-Box Elder,Brigham City 11,U.S. House,,Unaffiliated,Chadwick H. Fairbank,7
-Box Elder,Brigham City 11,U.S. House,,Democratic,Peter C. Clemens,67
+Box Elder,Brigham City 11,U.S. House,1,Republican,Rob Bishop,255
+Box Elder,Brigham City 11,U.S. House,1,Libertarian,Craig Bowden,31
+Box Elder,Brigham City 11,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,7
+Box Elder,Brigham City 11,U.S. House,1,Democratic,Peter C. Clemens,67
 Box Elder,Brigham City 11,Governor,,Republican,Gary R. Herbert,281
 Box Elder,Brigham City 11,Governor,,Independent American,Superdell Schanze,8
 Box Elder,Brigham City 11,Governor,,Libertarian,Brian E Kamerath,15
@@ -395,7 +395,7 @@ Box Elder,Brigham City 11,State Treasurer,,Democratic,Neil A. Hansen,82
 Box Elder,Brigham City 11,State Treasurer,,Republican,David Damschen,239
 Box Elder,Brigham City 11,State House,29,Republican,Lee B. Perry,298
 Box Elder,Brigham City 11,State House,29,Democratic,Angela B. Urrea,55
-Box Elder,Brigham City 12,President,,,Rocky' Roque De La,1
+Box Elder,Brigham City 12,President,,,Rocky Roque De La Fuente,1
 Box Elder,Brigham City 12,President,,Green,Jill Stein,2
 Box Elder,Brigham City 12,President,,Socialist Workers,Alyson Kennedy,1
 Box Elder,Brigham City 12,President,,Libertarian,Gary Johnson,24
@@ -410,10 +410,10 @@ Box Elder,Brigham City 12,U.S. Senate,,Democratic,Misty K Snow,95
 Box Elder,Brigham City 12,U.S. Senate,,Independent,Bill Barron,14
 Box Elder,Brigham City 12,U.S. Senate,,Independent American,Stoney Fonua,7
 Box Elder,Brigham City 12,U.S. Senate,,Republican,Mike Lee,489
-Box Elder,Brigham City 12,U.S. House,,Republican,Rob Bishop,472
-Box Elder,Brigham City 12,U.S. House,,Libertarian,Craig Bowden,25
-Box Elder,Brigham City 12,U.S. House,,Unaffiliated,Chadwick H. Fairbank,16
-Box Elder,Brigham City 12,U.S. House,,Democratic,Peter C. Clemens,96
+Box Elder,Brigham City 12,U.S. House,1,Republican,Rob Bishop,472
+Box Elder,Brigham City 12,U.S. House,1,Libertarian,Craig Bowden,25
+Box Elder,Brigham City 12,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,16
+Box Elder,Brigham City 12,U.S. House,1,Democratic,Peter C. Clemens,96
 Box Elder,Brigham City 12,Governor,,Republican,Gary R. Herbert,485
 Box Elder,Brigham City 12,Governor,,Independent American,Superdell Schanze,13
 Box Elder,Brigham City 12,Governor,,Libertarian,Brian E Kamerath,19
@@ -431,7 +431,7 @@ Box Elder,Brigham City 12,State Treasurer,,Democratic,Neil A. Hansen,132
 Box Elder,Brigham City 12,State Treasurer,,Republican,David Damschen,391
 Box Elder,Brigham City 12,State House,29,Republican,Lee B. Perry,502
 Box Elder,Brigham City 12,State House,29,Democratic,Angela B. Urrea,101
-Box Elder,Brigham City 13,President,,,Rocky' Roque De La,0
+Box Elder,Brigham City 13,President,,,Rocky Roque De La Fuente,0
 Box Elder,Brigham City 13,President,,Green,Jill Stein,4
 Box Elder,Brigham City 13,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 13,President,,Libertarian,Gary Johnson,19
@@ -446,10 +446,10 @@ Box Elder,Brigham City 13,U.S. Senate,,Democratic,Misty K Snow,54
 Box Elder,Brigham City 13,U.S. Senate,,Independent,Bill Barron,7
 Box Elder,Brigham City 13,U.S. Senate,,Independent American,Stoney Fonua,14
 Box Elder,Brigham City 13,U.S. Senate,,Republican,Mike Lee,307
-Box Elder,Brigham City 13,U.S. House,,Republican,Rob Bishop,275
-Box Elder,Brigham City 13,U.S. House,,Libertarian,Craig Bowden,25
-Box Elder,Brigham City 13,U.S. House,,Unaffiliated,Chadwick H. Fairbank,9
-Box Elder,Brigham City 13,U.S. House,,Democratic,Peter C. Clemens,75
+Box Elder,Brigham City 13,U.S. House,1,Republican,Rob Bishop,275
+Box Elder,Brigham City 13,U.S. House,1,Libertarian,Craig Bowden,25
+Box Elder,Brigham City 13,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,9
+Box Elder,Brigham City 13,U.S. House,1,Democratic,Peter C. Clemens,75
 Box Elder,Brigham City 13,Governor,,Republican,Gary R. Herbert,282
 Box Elder,Brigham City 13,Governor,,Independent American,Superdell Schanze,4
 Box Elder,Brigham City 13,Governor,,Libertarian,Brian E Kamerath,27
@@ -467,7 +467,7 @@ Box Elder,Brigham City 13,State Treasurer,,Democratic,Neil A. Hansen,91
 Box Elder,Brigham City 13,State Treasurer,,Republican,David Damschen,237
 Box Elder,Brigham City 13,State House,29,Republican,Lee B. Perry,316
 Box Elder,Brigham City 13,State House,29,Democratic,Angela B. Urrea,62
-Box Elder,Brigham City 14,President,,,Rocky' Roque De La,1
+Box Elder,Brigham City 14,President,,,Rocky Roque De La Fuente,1
 Box Elder,Brigham City 14,President,,Green,Jill Stein,4
 Box Elder,Brigham City 14,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 14,President,,Libertarian,Gary Johnson,22
@@ -482,10 +482,10 @@ Box Elder,Brigham City 14,U.S. Senate,,Democratic,Misty K Snow,87
 Box Elder,Brigham City 14,U.S. Senate,,Independent,Bill Barron,16
 Box Elder,Brigham City 14,U.S. Senate,,Independent American,Stoney Fonua,14
 Box Elder,Brigham City 14,U.S. Senate,,Republican,Mike Lee,360
-Box Elder,Brigham City 14,U.S. House,,Republican,Rob Bishop,336
-Box Elder,Brigham City 14,U.S. House,,Libertarian,Craig Bowden,23
-Box Elder,Brigham City 14,U.S. House,,Unaffiliated,Chadwick H. Fairbank,17
-Box Elder,Brigham City 14,U.S. House,,Democratic,Peter C. Clemens,108
+Box Elder,Brigham City 14,U.S. House,1,Republican,Rob Bishop,336
+Box Elder,Brigham City 14,U.S. House,1,Libertarian,Craig Bowden,23
+Box Elder,Brigham City 14,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,17
+Box Elder,Brigham City 14,U.S. House,1,Democratic,Peter C. Clemens,108
 Box Elder,Brigham City 14,Governor,,Republican,Gary R. Herbert,363
 Box Elder,Brigham City 14,Governor,,Independent American,Superdell Schanze,13
 Box Elder,Brigham City 14,Governor,,Libertarian,Brian E Kamerath,24
@@ -503,7 +503,7 @@ Box Elder,Brigham City 14,State Treasurer,,Democratic,Neil A. Hansen,116
 Box Elder,Brigham City 14,State Treasurer,,Republican,David Damschen,300
 Box Elder,Brigham City 14,State House,29,Republican,Lee B. Perry,377
 Box Elder,Brigham City 14,State House,29,Democratic,Angela B. Urrea,99
-Box Elder,Brigham City 14,President,,,Rocky' Roque De La,0
+Box Elder,Brigham City 14,President,,,Rocky Roque De La Fuente,0
 Box Elder,Brigham City 15,President,,Green,Jill Stein,5
 Box Elder,Brigham City 15,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City 15,President,,Libertarian,Gary Johnson,18
@@ -518,10 +518,10 @@ Box Elder,Brigham City 15,U.S. Senate,,Democratic,Misty K Snow,84
 Box Elder,Brigham City 15,U.S. Senate,,Independent,Bill Barron,15
 Box Elder,Brigham City 15,U.S. Senate,,Independent American,Stoney Fonua,11
 Box Elder,Brigham City 15,U.S. Senate,,Republican,Mike Lee,419
-Box Elder,Brigham City 15,U.S. House,,Republican,Rob Bishop,407
-Box Elder,Brigham City 15,U.S. House,,Libertarian,Craig Bowden,23
-Box Elder,Brigham City 15,U.S. House,,Unaffiliated,Chadwick H. Fairbank,7
-Box Elder,Brigham City 15,U.S. House,,Democratic,Peter C. Clemens,102
+Box Elder,Brigham City 15,U.S. House,1,Republican,Rob Bishop,407
+Box Elder,Brigham City 15,U.S. House,1,Libertarian,Craig Bowden,23
+Box Elder,Brigham City 15,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,7
+Box Elder,Brigham City 15,U.S. House,1,Democratic,Peter C. Clemens,102
 Box Elder,Brigham City 15,Governor,,Republican,Gary R. Herbert,429
 Box Elder,Brigham City 15,Governor,,Independent American,Superdell Schanze,9
 Box Elder,Brigham City 15,Governor,,Libertarian,Brian E Kamerath,19
@@ -539,7 +539,7 @@ Box Elder,Brigham City 15,State Treasurer,,Democratic,Neil A. Hansen,114
 Box Elder,Brigham City 15,State Treasurer,,Republican,David Damschen,346
 Box Elder,Brigham City 15,State House,29,Republican,Lee B. Perry,102
 Box Elder,Brigham City 15,State House,29,Democratic,Angela B. Urrea,404
-Box Elder,Brigham City North,President,,,Rocky' Roque De La,0
+Box Elder,Brigham City North,President,,,Rocky Roque De La Fuente,0
 Box Elder,Brigham City North,President,,Green,Jill Stein,0
 Box Elder,Brigham City North,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Brigham City North,President,,Libertarian,Gary Johnson,4
@@ -554,10 +554,10 @@ Box Elder,Brigham City North,U.S. Senate,,Democratic,Misty K Snow,24
 Box Elder,Brigham City North,U.S. Senate,,Independent,Bill Barron,6
 Box Elder,Brigham City North,U.S. Senate,,Independent American,Stoney Fonua,4
 Box Elder,Brigham City North,U.S. Senate,,Republican,Mike Lee,162
-Box Elder,Brigham City North,U.S. House,,Republican,Rob Bishop,155
-Box Elder,Brigham City North,U.S. House,,Libertarian,Craig Bowden,9
-Box Elder,Brigham City North,U.S. House,,Unaffiliated,Chadwick H. Fairbank,6
-Box Elder,Brigham City North,U.S. House,,Democratic,Peter C. Clemens,36
+Box Elder,Brigham City North,U.S. House,1,Republican,Rob Bishop,155
+Box Elder,Brigham City North,U.S. House,1,Libertarian,Craig Bowden,9
+Box Elder,Brigham City North,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,6
+Box Elder,Brigham City North,U.S. House,1,Democratic,Peter C. Clemens,36
 Box Elder,Brigham City North,Governor,,Republican,Gary R. Herbert,168
 Box Elder,Brigham City North,Governor,,Independent American,Superdell Schanze,4
 Box Elder,Brigham City North,Governor,,Libertarian,Brian E Kamerath,7
@@ -575,7 +575,7 @@ Box Elder,Brigham City North,State Treasurer,,Democratic,Neil A. Hansen,32
 Box Elder,Brigham City North,State Treasurer,,Republican,David Damschen,144
 Box Elder,Brigham City North,State House,1,Constitution,Sherry Phipps,24
 Box Elder,Brigham City North,State House,1,Republican,Scott Sandall,167
-Box Elder,Beaver Dam/Collinston,President,,,Rocky' Roque De La,0
+Box Elder,Beaver Dam/Collinston,President,,,Rocky Roque De La Fuente,0
 Box Elder,Beaver Dam/Collinston,President,,Green,Jill Stein,1
 Box Elder,Beaver Dam/Collinston,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Beaver Dam/Collinston,President,,Libertarian,Gary Johnson,9
@@ -590,10 +590,10 @@ Box Elder,Beaver Dam/Collinston,U.S. Senate,,Democratic,Misty K Snow,11
 Box Elder,Beaver Dam/Collinston,U.S. Senate,,Independent,Bill Barron,5
 Box Elder,Beaver Dam/Collinston,U.S. Senate,,Independent American,Stoney Fonua,0
 Box Elder,Beaver Dam/Collinston,U.S. Senate,,Republican,Mike Lee,177
-Box Elder,Beaver Dam/Collinston,U.S. House,,Republican,Rob Bishop,161
-Box Elder,Beaver Dam/Collinston,U.S. House,,Libertarian,Craig Bowden,11
-Box Elder,Beaver Dam/Collinston,U.S. House,,Unaffiliated,Chadwick H. Fairbank,5
-Box Elder,Beaver Dam/Collinston,U.S. House,,Democratic,Peter C. Clemens,16
+Box Elder,Beaver Dam/Collinston,U.S. House,1,Republican,Rob Bishop,161
+Box Elder,Beaver Dam/Collinston,U.S. House,1,Libertarian,Craig Bowden,11
+Box Elder,Beaver Dam/Collinston,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,5
+Box Elder,Beaver Dam/Collinston,U.S. House,1,Democratic,Peter C. Clemens,16
 Box Elder,Beaver Dam/Collinston,Governor,,Republican,Gary R. Herbert,165
 Box Elder,Beaver Dam/Collinston,Governor,,Independent American,Superdell Schanze,3
 Box Elder,Beaver Dam/Collinston,Governor,,Libertarian,Brian E Kamerath,6
@@ -611,7 +611,7 @@ Box Elder,Beaver Dam/Collinston,State Treasurer,,Democratic,Neil A. Hansen,29
 Box Elder,Beaver Dam/Collinston,State Treasurer,,Republican,David Damschen,133
 Box Elder,Beaver Dam/Collinston,State House,1,Constitution,Sherry Phipps,36
 Box Elder,Beaver Dam/Collinston,State House,1,Republican,Scott Sandall,152
-Box Elder,Bear River,President,,,Rocky' Roque De La,0
+Box Elder,Bear River,President,,,Rocky Roque De La Fuente,0
 Box Elder,Bear River,President,,Green,Jill Stein,2
 Box Elder,Bear River,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Bear River,President,,Libertarian,Gary Johnson,12
@@ -626,10 +626,10 @@ Box Elder,Bear River,U.S. Senate,,Democratic,Misty K Snow,36
 Box Elder,Bear River,U.S. Senate,,Independent,Bill Barron,12
 Box Elder,Bear River,U.S. Senate,,Independent American,Stoney Fonua,7
 Box Elder,Bear River,U.S. Senate,,Republican,Mike Lee,394
-Box Elder,Bear River,U.S. House,,Republican,Rob Bishop,356
-Box Elder,Bear River,U.S. House,,Libertarian,Craig Bowden,25
-Box Elder,Bear River,U.S. House,,Unaffiliated,Chadwick H. Fairbank,7
-Box Elder,Bear River,U.S. House,,Democratic,Peter C. Clemens,59
+Box Elder,Bear River,U.S. House,1,Republican,Rob Bishop,356
+Box Elder,Bear River,U.S. House,1,Libertarian,Craig Bowden,25
+Box Elder,Bear River,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,7
+Box Elder,Bear River,U.S. House,1,Democratic,Peter C. Clemens,59
 Box Elder,Bear River,Governor,,Republican,Gary R. Herbert,382
 Box Elder,Bear River,Governor,,Independent American,Superdell Schanze,9
 Box Elder,Bear River,Governor,,Libertarian,Brian E Kamerath,11
@@ -647,7 +647,7 @@ Box Elder,Bear River,State Treasurer,,Democratic,Neil A. Hansen,69
 Box Elder,Bear River,State Treasurer,,Republican,David Damschen,323
 Box Elder,Bear River,State House,1,Constitution,Sherry Phipps,58
 Box Elder,Bear River,State House,1,Republican,Scott Sandall,382
-Box Elder,Bear River East,President,,,Rocky' Roque De La,0
+Box Elder,Bear River East,President,,,Rocky Roque De La Fuente,0
 Box Elder,Bear River East,President,,Green,Jill Stein,0
 Box Elder,Bear River East,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Bear River East,President,,Libertarian,Gary Johnson,3
@@ -662,10 +662,10 @@ Box Elder,Bear River East,U.S. Senate,,Democratic,Misty K Snow,22
 Box Elder,Bear River East,U.S. Senate,,Independent,Bill Barron,3
 Box Elder,Bear River East,U.S. Senate,,Independent American,Stoney Fonua,2
 Box Elder,Bear River East,U.S. Senate,,Republican,Mike Lee,195
-Box Elder,Bear River East,U.S. House,,Republican,Rob Bishop,181
-Box Elder,Bear River East,U.S. House,,Libertarian,Craig Bowden,11
-Box Elder,Bear River East,U.S. House,,Unaffiliated,Chadwick H. Fairbank,1
-Box Elder,Bear River East,U.S. House,,Democratic,Peter C. Clemens,33
+Box Elder,Bear River East,U.S. House,1,Republican,Rob Bishop,181
+Box Elder,Bear River East,U.S. House,1,Libertarian,Craig Bowden,11
+Box Elder,Bear River East,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,1
+Box Elder,Bear River East,U.S. House,1,Democratic,Peter C. Clemens,33
 Box Elder,Bear River East,Governor,,Republican,Gary R. Herbert,181
 Box Elder,Bear River East,Governor,,Independent American,Superdell Schanze,5
 Box Elder,Bear River East,Governor,,Libertarian,Brian E Kamerath,9
@@ -683,7 +683,7 @@ Box Elder,Bear River East,State Treasurer,,Democratic,Neil A. Hansen,37
 Box Elder,Bear River East,State Treasurer,,Republican,David Damschen,165
 Box Elder,Bear River East,State House,1,Constitution,Sherry Phipps,30
 Box Elder,Bear River East,State House,1,Republican,Scott Sandall,185
-Box Elder,Clear Creek,President,,,Rocky' Roque De La,0
+Box Elder,Clear Creek,President,,,Rocky Roque De La Fuente,0
 Box Elder,Clear Creek,President,,Green,Jill Stein,0
 Box Elder,Clear Creek,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Clear Creek,President,,Libertarian,Gary Johnson,0
@@ -698,10 +698,10 @@ Box Elder,Clear Creek,U.S. Senate,,Democratic,Misty K Snow,1
 Box Elder,Clear Creek,U.S. Senate,,Independent,Bill Barron,0
 Box Elder,Clear Creek,U.S. Senate,,Independent American,Stoney Fonua,0
 Box Elder,Clear Creek,U.S. Senate,,Republican,Mike Lee,16
-Box Elder,Clear Creek,U.S. House,,Republican,Rob Bishop,16
-Box Elder,Clear Creek,U.S. House,,Libertarian,Craig Bowden,0
-Box Elder,Clear Creek,U.S. House,,Unaffiliated,Chadwick H. Fairbank,1
-Box Elder,Clear Creek,U.S. House,,Democratic,Peter C. Clemens,0
+Box Elder,Clear Creek,U.S. House,1,Republican,Rob Bishop,16
+Box Elder,Clear Creek,U.S. House,1,Libertarian,Craig Bowden,0
+Box Elder,Clear Creek,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,1
+Box Elder,Clear Creek,U.S. House,1,Democratic,Peter C. Clemens,0
 Box Elder,Clear Creek,Governor,,Republican,Gary R. Herbert,16
 Box Elder,Clear Creek,Governor,,Independent American,Superdell Schanze,0
 Box Elder,Clear Creek,Governor,,Libertarian,Brian E Kamerath,0
@@ -719,7 +719,7 @@ Box Elder,Clear Creek,State Treasurer,,Democratic,Neil A. Hansen,4
 Box Elder,Clear Creek,State Treasurer,,Republican,David Damschen,10
 Box Elder,Clear Creek,State House,1,Constitution,Sherry Phipps,2
 Box Elder,Clear Creek,State House,1,Republican,Scott Sandall,15
-Box Elder,Corinne 1,President,,,Rocky' Roque De La,0
+Box Elder,Corinne 1,President,,,Rocky Roque De La Fuente,0
 Box Elder,Corinne 1,President,,Green,Jill Stein,1
 Box Elder,Corinne 1,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Corinne 1,President,,Libertarian,Gary Johnson,11
@@ -734,10 +734,10 @@ Box Elder,Corinne 1,U.S. Senate,,Democratic,Misty K Snow,61
 Box Elder,Corinne 1,U.S. Senate,,Independent,Bill Barron,15
 Box Elder,Corinne 1,U.S. Senate,,Independent American,Stoney Fonua,12
 Box Elder,Corinne 1,U.S. Senate,,Republican,Mike Lee,322
-Box Elder,Corinne 1,U.S. House,,Republican,Rob Bishop,298
-Box Elder,Corinne 1,U.S. House,,Libertarian,Craig Bowden,33
-Box Elder,Corinne 1,U.S. House,,Unaffiliated,Chadwick H. Fairbank,10
-Box Elder,Corinne 1,U.S. House,,Democratic,Peter C. Clemens,72
+Box Elder,Corinne 1,U.S. House,1,Republican,Rob Bishop,298
+Box Elder,Corinne 1,U.S. House,1,Libertarian,Craig Bowden,33
+Box Elder,Corinne 1,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,10
+Box Elder,Corinne 1,U.S. House,1,Democratic,Peter C. Clemens,72
 Box Elder,Corinne 1,Governor,,Republican,Gary R. Herbert,321
 Box Elder,Corinne 1,Governor,,Independent American,Superdell Schanze,8
 Box Elder,Corinne 1,Governor,,Libertarian,Brian E Kamerath,18
@@ -755,7 +755,7 @@ Box Elder,Corinne 1,State Treasurer,,Democratic,Neil A. Hansen,95
 Box Elder,Corinne 1,State Treasurer,,Republican,David Damschen,279
 Box Elder,Corinne 1,State House,1,Constitution,Sherry Phipps,82
 Box Elder,Corinne 1,State House,1,Republican,Scott Sandall,320
-Box Elder,Corinne 2,President,,,Rocky' Roque De La,0
+Box Elder,Corinne 2,President,,,Rocky Roque De La Fuente,0
 Box Elder,Corinne 2,President,,Green,Jill Stein,0
 Box Elder,Corinne 2,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Corinne 2,President,,Libertarian,Gary Johnson,1
@@ -770,10 +770,10 @@ Box Elder,Corinne 2,U.S. Senate,,Democratic,Misty K Snow,8
 Box Elder,Corinne 2,U.S. Senate,,Independent,Bill Barron,0
 Box Elder,Corinne 2,U.S. Senate,,Independent American,Stoney Fonua,2
 Box Elder,Corinne 2,U.S. Senate,,Republican,Mike Lee,93
-Box Elder,Corinne 2,U.S. House,,Republican,Rob Bishop,89
-Box Elder,Corinne 2,U.S. House,,Libertarian,Craig Bowden,2
-Box Elder,Corinne 2,U.S. House,,Unaffiliated,Chadwick H. Fairbank,0
-Box Elder,Corinne 2,U.S. House,,Democratic,Peter C. Clemens,11
+Box Elder,Corinne 2,U.S. House,1,Republican,Rob Bishop,89
+Box Elder,Corinne 2,U.S. House,1,Libertarian,Craig Bowden,2
+Box Elder,Corinne 2,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,0
+Box Elder,Corinne 2,U.S. House,1,Democratic,Peter C. Clemens,11
 Box Elder,Corinne 2,Governor,,Republican,Gary R. Herbert,85
 Box Elder,Corinne 2,Governor,,Independent American,Superdell Schanze,2
 Box Elder,Corinne 2,Governor,,Libertarian,Brian E Kamerath,2
@@ -791,7 +791,7 @@ Box Elder,Corinne 2,State Treasurer,,Democratic,Neil A. Hansen,20
 Box Elder,Corinne 2,State Treasurer,,Republican,David Damschen,73
 Box Elder,Corinne 2,State House,1,Constitution,Sherry Phipps,10
 Box Elder,Corinne 2,State House,1,Republican,Scott Sandall,89
-Box Elder,Deweyville,President,,,Rocky' Roque De La,0
+Box Elder,Deweyville,President,,,Rocky Roque De La Fuente,0
 Box Elder,Deweyville,President,,Green,Jill Stein,3
 Box Elder,Deweyville,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Deweyville,President,,Libertarian,Gary Johnson,4
@@ -806,10 +806,10 @@ Box Elder,Deweyville,U.S. Senate,,Democratic,Misty K Snow,30
 Box Elder,Deweyville,U.S. Senate,,Independent,Bill Barron,7
 Box Elder,Deweyville,U.S. Senate,,Independent American,Stoney Fonua,2
 Box Elder,Deweyville,U.S. Senate,,Republican,Mike Lee,238
-Box Elder,Deweyville,U.S. House,,Republican,Rob Bishop,235
-Box Elder,Deweyville,U.S. House,,Libertarian,Craig Bowden,9
-Box Elder,Deweyville,U.S. House,,Unaffiliated,Chadwick H. Fairbank,1
-Box Elder,Deweyville,U.S. House,,Democratic,Peter C. Clemens,34
+Box Elder,Deweyville,U.S. House,1,Republican,Rob Bishop,235
+Box Elder,Deweyville,U.S. House,1,Libertarian,Craig Bowden,9
+Box Elder,Deweyville,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,1
+Box Elder,Deweyville,U.S. House,1,Democratic,Peter C. Clemens,34
 Box Elder,Deweyville,Governor,,Republican,Gary R. Herbert,231
 Box Elder,Deweyville,Governor,,Independent American,Superdell Schanze,2
 Box Elder,Deweyville,Governor,,Libertarian,Brian E Kamerath,6
@@ -827,7 +827,7 @@ Box Elder,Deweyville,State Treasurer,,Democratic,Neil A. Hansen,52
 Box Elder,Deweyville,State Treasurer,,Republican,David Damschen,200
 Box Elder,Deweyville,State House,1,Constitution,Sherry Phipps,31
 Box Elder,Deweyville,State House,1,Republican,Scott Sandall,239
-Box Elder,Elwood,President,,,Rocky' Roque De La,0
+Box Elder,Elwood,President,,,Rocky Roque De La Fuente,0
 Box Elder,Elwood,President,,Green,Jill Stein,0
 Box Elder,Elwood,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Elwood,President,,Libertarian,Gary Johnson,8
@@ -842,10 +842,10 @@ Box Elder,Elwood,U.S. Senate,,Democratic,Misty K Snow,42
 Box Elder,Elwood,U.S. Senate,,Independent,Bill Barron,12
 Box Elder,Elwood,U.S. Senate,,Independent American,Stoney Fonua,44
 Box Elder,Elwood,U.S. Senate,,Republican,Mike Lee,491
-Box Elder,Elwood,U.S. House,,Republican,Rob Bishop,495
-Box Elder,Elwood,U.S. House,,Libertarian,Craig Bowden,30
-Box Elder,Elwood,U.S. House,,Unaffiliated,Chadwick H. Fairbank,15
-Box Elder,Elwood,U.S. House,,Democratic,Peter C. Clemens,51
+Box Elder,Elwood,U.S. House,1,Republican,Rob Bishop,495
+Box Elder,Elwood,U.S. House,1,Libertarian,Craig Bowden,30
+Box Elder,Elwood,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,15
+Box Elder,Elwood,U.S. House,1,Democratic,Peter C. Clemens,51
 Box Elder,Elwood,Governor,,Republican,Gary R. Herbert,535
 Box Elder,Elwood,Governor,,Independent American,Superdell Schanze,7
 Box Elder,Elwood,Governor,,Libertarian,Brian E Kamerath,12
@@ -863,7 +863,7 @@ Box Elder,Elwood,State Treasurer,,Democratic,Neil A. Hansen,86
 Box Elder,Elwood,State Treasurer,,Republican,David Damschen,449
 Box Elder,Elwood,State House,1,Constitution,Sherry Phipps,83
 Box Elder,Elwood,State House,1,Republican,Scott Sandall,499
-Box Elder,Fielding 01,President,,,Rocky' Roque De La,0
+Box Elder,Fielding 01,President,,,Rocky Roque De La Fuente,0
 Box Elder,Fielding 01,President,,Green,Jill Stein,1
 Box Elder,Fielding 01,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Fielding 01,President,,Libertarian,Gary Johnson,3
@@ -878,10 +878,10 @@ Box Elder,Fielding 01,U.S. Senate,,Democratic,Misty K Snow,15
 Box Elder,Fielding 01,U.S. Senate,,Independent,Bill Barron,6
 Box Elder,Fielding 01,U.S. Senate,,Independent American,Stoney Fonua,5
 Box Elder,Fielding 01,U.S. Senate,,Republican,Mike Lee,169
-Box Elder,Fielding 01,U.S. House,,Republican,Rob Bishop,159
-Box Elder,Fielding 01,U.S. House,,Libertarian,Craig Bowden,7
-Box Elder,Fielding 01,U.S. House,,Unaffiliated,Chadwick H. Fairbank,9
-Box Elder,Fielding 01,U.S. House,,Democratic,Peter C. Clemens,20
+Box Elder,Fielding 01,U.S. House,1,Republican,Rob Bishop,159
+Box Elder,Fielding 01,U.S. House,1,Libertarian,Craig Bowden,7
+Box Elder,Fielding 01,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,9
+Box Elder,Fielding 01,U.S. House,1,Democratic,Peter C. Clemens,20
 Box Elder,Fielding 01,Governor,,Republican,Gary R. Herbert,167
 Box Elder,Fielding 01,Governor,,Independent American,Superdell Schanze,6
 Box Elder,Fielding 01,Governor,,Libertarian,Brian E Kamerath,4
@@ -899,7 +899,7 @@ Box Elder,Fielding 01,State Treasurer,,Democratic,Neil A. Hansen,28
 Box Elder,Fielding 01,State Treasurer,,Republican,David Damschen,151
 Box Elder,Fielding 01,State House,1,Constitution,Sherry Phipps,20
 Box Elder,Fielding 01,State House,1,Republican,Scott Sandall,174
-Box Elder,Fielding 02,President,,,Rocky' Roque De La,0
+Box Elder,Fielding 02,President,,,Rocky Roque De La Fuente,0
 Box Elder,Fielding 02,President,,Green,Jill Stein,1
 Box Elder,Fielding 02,President,,Socialist Workers,Alyson Kennedy,1
 Box Elder,Fielding 02,President,,Libertarian,Gary Johnson,3
@@ -914,10 +914,10 @@ Box Elder,Fielding 02,U.S. Senate,,Democratic,Misty K Snow,20
 Box Elder,Fielding 02,U.S. Senate,,Independent,Bill Barron,4
 Box Elder,Fielding 02,U.S. Senate,,Independent American,Stoney Fonua,3
 Box Elder,Fielding 02,U.S. Senate,,Republican,Mike Lee,185
-Box Elder,Fielding 02,U.S. House,,Republican,Rob Bishop,173
-Box Elder,Fielding 02,U.S. House,,Libertarian,Craig Bowden,9
-Box Elder,Fielding 02,U.S. House,,Unaffiliated,Chadwick H. Fairbank,1
-Box Elder,Fielding 02,U.S. House,,Democratic,Peter C. Clemens,27
+Box Elder,Fielding 02,U.S. House,1,Republican,Rob Bishop,173
+Box Elder,Fielding 02,U.S. House,1,Libertarian,Craig Bowden,9
+Box Elder,Fielding 02,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,1
+Box Elder,Fielding 02,U.S. House,1,Democratic,Peter C. Clemens,27
 Box Elder,Fielding 02,Governor,,Republican,Gary R. Herbert,189
 Box Elder,Fielding 02,Governor,,Independent American,Superdell Schanze,3
 Box Elder,Fielding 02,Governor,,Libertarian,Brian E Kamerath,5
@@ -935,7 +935,7 @@ Box Elder,Fielding 02,State Treasurer,,Democratic,Neil A. Hansen,28
 Box Elder,Fielding 02,State Treasurer,,Republican,David Damschen,160
 Box Elder,Fielding 02,State House,1,Constitution,Sherry Phipps,27
 Box Elder,Fielding 02,State House,1,Republican,Scott Sandall,177
-Box Elder,Garland 01,President,,,Rocky' Roque De La,1
+Box Elder,Garland 01,President,,,Rocky Roque De La Fuente,1
 Box Elder,Garland 01,President,,Green,Jill Stein,2
 Box Elder,Garland 01,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Garland 01,President,,Libertarian,Gary Johnson,12
@@ -950,10 +950,10 @@ Box Elder,Garland 01,U.S. Senate,,Democratic,Misty K Snow,32
 Box Elder,Garland 01,U.S. Senate,,Independent,Bill Barron,12
 Box Elder,Garland 01,U.S. Senate,,Independent American,Stoney Fonua,12
 Box Elder,Garland 01,U.S. Senate,,Republican,Mike Lee,361
-Box Elder,Garland 01,U.S. House,,Republican,Rob Bishop,322
-Box Elder,Garland 01,U.S. House,,Libertarian,Craig Bowden,34
-Box Elder,Garland 01,U.S. House,,Unaffiliated,Chadwick H. Fairbank,16
-Box Elder,Garland 01,U.S. House,,Democratic,Peter C. Clemens,47
+Box Elder,Garland 01,U.S. House,1,Republican,Rob Bishop,322
+Box Elder,Garland 01,U.S. House,1,Libertarian,Craig Bowden,34
+Box Elder,Garland 01,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,16
+Box Elder,Garland 01,U.S. House,1,Democratic,Peter C. Clemens,47
 Box Elder,Garland 01,Governor,,Republican,Gary R. Herbert,345
 Box Elder,Garland 01,Governor,,Independent American,Superdell Schanze,16
 Box Elder,Garland 01,Governor,,Libertarian,Brian E Kamerath,25
@@ -971,7 +971,7 @@ Box Elder,Garland 01,State Treasurer,,Democratic,Neil A. Hansen,66
 Box Elder,Garland 01,State Treasurer,,Republican,David Damschen,306
 Box Elder,Garland 01,State House,1,Constitution,Sherry Phipps,59
 Box Elder,Garland 01,State House,1,Republican,Scott Sandall,362
-Box Elder,Garland 02,President,,,Rocky' Roque De La,1
+Box Elder,Garland 02,President,,,Rocky Roque De La Fuente,1
 Box Elder,Garland 02,President,,Green,Jill Stein,2
 Box Elder,Garland 02,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Garland 02,President,,Libertarian,Gary Johnson,6
@@ -986,10 +986,10 @@ Box Elder,Garland 02,U.S. Senate,,Democratic,Misty K Snow,38
 Box Elder,Garland 02,U.S. Senate,,Independent,Bill Barron,7
 Box Elder,Garland 02,U.S. Senate,,Independent American,Stoney Fonua,10
 Box Elder,Garland 02,U.S. Senate,,Republican,Mike Lee,359
-Box Elder,Garland 02,U.S. House,,Republican,Rob Bishop,314
-Box Elder,Garland 02,U.S. House,,Libertarian,Craig Bowden,22
-Box Elder,Garland 02,U.S. House,,Unaffiliated,Chadwick H. Fairbank,15
-Box Elder,Garland 02,U.S. House,,Democratic,Peter C. Clemens,61
+Box Elder,Garland 02,U.S. House,1,Republican,Rob Bishop,314
+Box Elder,Garland 02,U.S. House,1,Libertarian,Craig Bowden,22
+Box Elder,Garland 02,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,15
+Box Elder,Garland 02,U.S. House,1,Democratic,Peter C. Clemens,61
 Box Elder,Garland 02,Governor,,Republican,Gary R. Herbert,350
 Box Elder,Garland 02,Governor,,Independent American,Superdell Schanze,9
 Box Elder,Garland 02,Governor,,Libertarian,Brian E Kamerath,21
@@ -1007,7 +1007,7 @@ Box Elder,Garland 02,State Treasurer,,Democratic,Neil A. Hansen,77
 Box Elder,Garland 02,State Treasurer,,Republican,David Damschen,278
 Box Elder,Garland 02,State House,1,Constitution,Sherry Phipps,62
 Box Elder,Garland 02,State House,1,Republican,Scott Sandall,352
-Box Elder,Garland East,President,,,Rocky' Roque De La,2
+Box Elder,Garland East,President,,,Rocky Roque De La Fuente,2
 Box Elder,Garland East,President,,Green,Jill Stein,0
 Box Elder,Garland East,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Garland East,President,,Libertarian,Gary Johnson,5
@@ -1022,10 +1022,10 @@ Box Elder,Garland East,U.S. Senate,,Democratic,Misty K Snow,11
 Box Elder,Garland East,U.S. Senate,,Independent,Bill Barron,11
 Box Elder,Garland East,U.S. Senate,,Independent American,Stoney Fonua,4
 Box Elder,Garland East,U.S. Senate,,Republican,Mike Lee,228
-Box Elder,Garland East,U.S. House,,Republican,Rob Bishop,212
-Box Elder,Garland East,U.S. House,,Libertarian,Craig Bowden,11
-Box Elder,Garland East,U.S. House,,Unaffiliated,Chadwick H. Fairbank,7
-Box Elder,Garland East,U.S. House,,Democratic,Peter C. Clemens,26
+Box Elder,Garland East,U.S. House,1,Republican,Rob Bishop,212
+Box Elder,Garland East,U.S. House,1,Libertarian,Craig Bowden,11
+Box Elder,Garland East,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,7
+Box Elder,Garland East,U.S. House,1,Democratic,Peter C. Clemens,26
 Box Elder,Garland East,Governor,,Republican,Gary R. Herbert,233
 Box Elder,Garland East,Governor,,Independent American,Superdell Schanze,3
 Box Elder,Garland East,Governor,,Libertarian,Brian E Kamerath,7
@@ -1043,7 +1043,7 @@ Box Elder,Garland East,State Treasurer,,Democratic,Neil A. Hansen,42
 Box Elder,Garland East,State Treasurer,,Republican,David Damschen,181
 Box Elder,Garland East,State House,1,Constitution,Sherry Phipps,29
 Box Elder,Garland East,State House,1,Republican,Scott Sandall,228
-Box Elder,Grouse Creek,President,,,Rocky' Roque De La,0
+Box Elder,Grouse Creek,President,,,Rocky Roque De La Fuente,0
 Box Elder,Grouse Creek,President,,Green,Jill Stein,0
 Box Elder,Grouse Creek,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Grouse Creek,President,,Libertarian,Gary Johnson,0
@@ -1058,10 +1058,10 @@ Box Elder,Grouse Creek,U.S. Senate,,Democratic,Misty K Snow,0
 Box Elder,Grouse Creek,U.S. Senate,,Independent,Bill Barron,0
 Box Elder,Grouse Creek,U.S. Senate,,Independent American,Stoney Fonua,0
 Box Elder,Grouse Creek,U.S. Senate,,Republican,Mike Lee,33
-Box Elder,Grouse Creek,U.S. House,,Republican,Rob Bishop,33
-Box Elder,Grouse Creek,U.S. House,,Libertarian,Craig Bowden,0
-Box Elder,Grouse Creek,U.S. House,,Unaffiliated,Chadwick H. Fairbank,0
-Box Elder,Grouse Creek,U.S. House,,Democratic,Peter C. Clemens,0
+Box Elder,Grouse Creek,U.S. House,1,Republican,Rob Bishop,33
+Box Elder,Grouse Creek,U.S. House,1,Libertarian,Craig Bowden,0
+Box Elder,Grouse Creek,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,0
+Box Elder,Grouse Creek,U.S. House,1,Democratic,Peter C. Clemens,0
 Box Elder,Grouse Creek,Governor,,Republican,Gary R. Herbert,30
 Box Elder,Grouse Creek,Governor,,Independent American,Superdell Schanze,2
 Box Elder,Grouse Creek,Governor,,Libertarian,Brian E Kamerath,0
@@ -1079,7 +1079,7 @@ Box Elder,Grouse Creek,State Treasurer,,Democratic,Neil A. Hansen,3
 Box Elder,Grouse Creek,State Treasurer,,Republican,David Damschen,25
 Box Elder,Grouse Creek,State House,1,Constitution,Sherry Phipps,2
 Box Elder,Grouse Creek,State House,1,Republican,Scott Sandall,31
-Box Elder,Honeyville,President,,,Rocky' Roque De La,0
+Box Elder,Honeyville,President,,,Rocky Roque De La Fuente,0
 Box Elder,Honeyville,President,,Green,Jill Stein,2
 Box Elder,Honeyville,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Honeyville,President,,Libertarian,Gary Johnson,27
@@ -1094,10 +1094,10 @@ Box Elder,Honeyville,U.S. Senate,,Democratic,Misty K Snow,62
 Box Elder,Honeyville,U.S. Senate,,Independent,Bill Barron,12
 Box Elder,Honeyville,U.S. Senate,,Independent American,Stoney Fonua,11
 Box Elder,Honeyville,U.S. Senate,,Republican,Mike Lee,524
-Box Elder,Honeyville,U.S. House,,Republican,Rob Bishop,487
-Box Elder,Honeyville,U.S. House,,Libertarian,Craig Bowden,32
-Box Elder,Honeyville,U.S. House,,Unaffiliated,Chadwick H. Fairbank,8
-Box Elder,Honeyville,U.S. House,,Democratic,Peter C. Clemens,82
+Box Elder,Honeyville,U.S. House,1,Republican,Rob Bishop,487
+Box Elder,Honeyville,U.S. House,1,Libertarian,Craig Bowden,32
+Box Elder,Honeyville,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,8
+Box Elder,Honeyville,U.S. House,1,Democratic,Peter C. Clemens,82
 Box Elder,Honeyville,Governor,,Republican,Gary R. Herbert,505
 Box Elder,Honeyville,Governor,,Independent American,Superdell Schanze,9
 Box Elder,Honeyville,Governor,,Libertarian,Brian E Kamerath,27
@@ -1115,7 +1115,7 @@ Box Elder,Honeyville,State Treasurer,,Democratic,Neil A. Hansen,107
 Box Elder,Honeyville,State Treasurer,,Republican,David Damschen,447
 Box Elder,Honeyville,State House,1,Constitution,Sherry Phipps,92
 Box Elder,Honeyville,State House,1,Republican,Scott Sandall,503
-Box Elder,Howell,President,,,Rocky' Roque De La,0
+Box Elder,Howell,President,,,Rocky Roque De La Fuente,0
 Box Elder,Howell,President,,Green,Jill Stein,0
 Box Elder,Howell,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Howell,President,,Libertarian,Gary Johnson,4
@@ -1130,10 +1130,10 @@ Box Elder,Howell,U.S. Senate,,Democratic,Misty K Snow,4
 Box Elder,Howell,U.S. Senate,,Independent,Bill Barron,4
 Box Elder,Howell,U.S. Senate,,Independent American,Stoney Fonua,4
 Box Elder,Howell,U.S. Senate,,Republican,Mike Lee,103
-Box Elder,Howell,U.S. House,,Republican,Rob Bishop,90
-Box Elder,Howell,U.S. House,,Libertarian,Craig Bowden,6
-Box Elder,Howell,U.S. House,,Unaffiliated,Chadwick H. Fairbank,5
-Box Elder,Howell,U.S. House,,Democratic,Peter C. Clemens,17
+Box Elder,Howell,U.S. House,1,Republican,Rob Bishop,90
+Box Elder,Howell,U.S. House,1,Libertarian,Craig Bowden,6
+Box Elder,Howell,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,5
+Box Elder,Howell,U.S. House,1,Democratic,Peter C. Clemens,17
 Box Elder,Howell,Governor,,Republican,Gary R. Herbert,94
 Box Elder,Howell,Governor,,Independent American,Superdell Schanze,5
 Box Elder,Howell,Governor,,Libertarian,Brian E Kamerath,4
@@ -1151,7 +1151,7 @@ Box Elder,Howell,State Treasurer,,Democratic,Neil A. Hansen,24
 Box Elder,Howell,State Treasurer,,Republican,David Damschen,71
 Box Elder,Howell,State House,1,Constitution,Sherry Phipps,21
 Box Elder,Howell,State House,1,Republican,Scott Sandall,95
-Box Elder,Mantua,President,,,Rocky' Roque De La,0
+Box Elder,Mantua,President,,,Rocky Roque De La Fuente,0
 Box Elder,Mantua,President,,Green,Jill Stein,1
 Box Elder,Mantua,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Mantua,President,,Libertarian,Gary Johnson,11
@@ -1166,10 +1166,10 @@ Box Elder,Mantua,U.S. Senate,,Democratic,Misty K Snow,43
 Box Elder,Mantua,U.S. Senate,,Independent,Bill Barron,7
 Box Elder,Mantua,U.S. Senate,,Independent American,Stoney Fonua,6
 Box Elder,Mantua,U.S. Senate,,Republican,Mike Lee,355
-Box Elder,Mantua,U.S. House,,Republican,Rob Bishop,347
-Box Elder,Mantua,U.S. House,,Libertarian,Craig Bowden,9
-Box Elder,Mantua,U.S. House,,Unaffiliated,Chadwick H. Fairbank,6
-Box Elder,Mantua,U.S. House,,Democratic,Peter C. Clemens,63
+Box Elder,Mantua,U.S. House,1,Republican,Rob Bishop,347
+Box Elder,Mantua,U.S. House,1,Libertarian,Craig Bowden,9
+Box Elder,Mantua,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,6
+Box Elder,Mantua,U.S. House,1,Democratic,Peter C. Clemens,63
 Box Elder,Mantua,Governor,,Republican,Gary R. Herbert,351
 Box Elder,Mantua,Governor,,Independent American,Superdell Schanze,3
 Box Elder,Mantua,Governor,,Libertarian,Brian E Kamerath,11
@@ -1187,7 +1187,7 @@ Box Elder,Mantua,State Treasurer,,Democratic,Neil A. Hansen,74
 Box Elder,Mantua,State Treasurer,,Republican,David Damschen,293
 Box Elder,Mantua,State House,1,Constitution,Sherry Phipps,65
 Box Elder,Mantua,State House,1,Republican,Scott Sandall,325
-Box Elder,Park Valley,President,,,Rocky' Roque De La,0
+Box Elder,Park Valley,President,,,Rocky Roque De La Fuente,0
 Box Elder,Park Valley,President,,Green,Jill Stein,0
 Box Elder,Park Valley,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Park Valley,President,,Libertarian,Gary Johnson,0
@@ -1202,10 +1202,10 @@ Box Elder,Park Valley,U.S. Senate,,Democratic,Misty K Snow,1
 Box Elder,Park Valley,U.S. Senate,,Independent,Bill Barron,0
 Box Elder,Park Valley,U.S. Senate,,Independent American,Stoney Fonua,1
 Box Elder,Park Valley,U.S. Senate,,Republican,Mike Lee,79
-Box Elder,Park Valley,U.S. House,,Republican,Rob Bishop,79
-Box Elder,Park Valley,U.S. House,,Libertarian,Craig Bowden,2
-Box Elder,Park Valley,U.S. House,,Unaffiliated,Chadwick H. Fairbank,0
-Box Elder,Park Valley,U.S. House,,Democratic,Peter C. Clemens,0
+Box Elder,Park Valley,U.S. House,1,Republican,Rob Bishop,79
+Box Elder,Park Valley,U.S. House,1,Libertarian,Craig Bowden,2
+Box Elder,Park Valley,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,0
+Box Elder,Park Valley,U.S. House,1,Democratic,Peter C. Clemens,0
 Box Elder,Park Valley,Governor,,Republican,Gary R. Herbert,76
 Box Elder,Park Valley,Governor,,Independent American,Superdell Schanze,1
 Box Elder,Park Valley,Governor,,Libertarian,Brian E Kamerath,2
@@ -1223,7 +1223,7 @@ Box Elder,Park Valley,State Treasurer,,Democratic,Neil A. Hansen,5
 Box Elder,Park Valley,State Treasurer,,Republican,David Damschen,68
 Box Elder,Park Valley,State House,1,Constitution,Sherry Phipps,7
 Box Elder,Park Valley,State House,1,Republican,Scott Sandall,74
-Box Elder,Perry 01,President,,,Rocky' Roque De La,0
+Box Elder,Perry 01,President,,,Rocky Roque De La Fuente,0
 Box Elder,Perry 01,President,,Green,Jill Stein,5
 Box Elder,Perry 01,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Perry 01,President,,Libertarian,Gary Johnson,12
@@ -1238,10 +1238,10 @@ Box Elder,Perry 01,U.S. Senate,,Democratic,Misty K Snow,46
 Box Elder,Perry 01,U.S. Senate,,Independent,Bill Barron,7
 Box Elder,Perry 01,U.S. Senate,,Independent American,Stoney Fonua,13
 Box Elder,Perry 01,U.S. Senate,,Republican,Mike Lee,465
-Box Elder,Perry 01,U.S. House,,Republican,Rob Bishop,449
-Box Elder,Perry 01,U.S. House,,Libertarian,Craig Bowden,21
-Box Elder,Perry 01,U.S. House,,Unaffiliated,Chadwick H. Fairbank,7
-Box Elder,Perry 01,U.S. House,,Democratic,Peter C. Clemens,62
+Box Elder,Perry 01,U.S. House,1,Republican,Rob Bishop,449
+Box Elder,Perry 01,U.S. House,1,Libertarian,Craig Bowden,21
+Box Elder,Perry 01,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,7
+Box Elder,Perry 01,U.S. House,1,Democratic,Peter C. Clemens,62
 Box Elder,Perry 01,Governor,,Republican,Gary R. Herbert,473
 Box Elder,Perry 01,Governor,,Independent American,Superdell Schanze,4
 Box Elder,Perry 01,Governor,,Libertarian,Brian E Kamerath,11
@@ -1259,7 +1259,7 @@ Box Elder,Perry 01,State Treasurer,,Democratic,Neil A. Hansen,74
 Box Elder,Perry 01,State Treasurer,,Republican,David Damschen,420
 Box Elder,Perry 01,State House,29,Republican,Lee B. Perry,476
 Box Elder,Perry 01,State House,29,Democratic,Angela B. Urrea,52
-Box Elder,Perry 02,President,,,Rocky' Roque De La,1
+Box Elder,Perry 02,President,,,Rocky Roque De La Fuente,1
 Box Elder,Perry 02,President,,Green,Jill Stein,1
 Box Elder,Perry 02,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Perry 02,President,,Libertarian,Gary Johnson,7
@@ -1274,10 +1274,10 @@ Box Elder,Perry 02,U.S. Senate,,Democratic,Misty K Snow,32
 Box Elder,Perry 02,U.S. Senate,,Independent,Bill Barron,11
 Box Elder,Perry 02,U.S. Senate,,Independent American,Stoney Fonua,8
 Box Elder,Perry 02,U.S. Senate,,Republican,Mike Lee,347
-Box Elder,Perry 02,U.S. House,,Republican,Rob Bishop,334
-Box Elder,Perry 02,U.S. House,,Libertarian,Craig Bowden,17
-Box Elder,Perry 02,U.S. House,,Unaffiliated,Chadwick H. Fairbank,6
-Box Elder,Perry 02,U.S. House,,Democratic,Peter C. Clemens,40
+Box Elder,Perry 02,U.S. House,1,Republican,Rob Bishop,334
+Box Elder,Perry 02,U.S. House,1,Libertarian,Craig Bowden,17
+Box Elder,Perry 02,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,6
+Box Elder,Perry 02,U.S. House,1,Democratic,Peter C. Clemens,40
 Box Elder,Perry 02,Governor,,Republican,Gary R. Herbert,340
 Box Elder,Perry 02,Governor,,Independent American,Superdell Schanze,7
 Box Elder,Perry 02,Governor,,Libertarian,Brian E Kamerath,17
@@ -1295,7 +1295,7 @@ Box Elder,Perry 02,State Treasurer,,Democratic,Neil A. Hansen,50
 Box Elder,Perry 02,State Treasurer,,Republican,David Damschen,310
 Box Elder,Perry 02,State House,29,Republican,Lee B. Perry,360
 Box Elder,Perry 02,State House,29,Democratic,Angela B. Urrea,33
-Box Elder,Perry 03,President,,,Rocky' Roque De La,0
+Box Elder,Perry 03,President,,,Rocky Roque De La Fuente,0
 Box Elder,Perry 03,President,,Green,Jill Stein,0
 Box Elder,Perry 03,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Perry 03,President,,Libertarian,Gary Johnson,20
@@ -1310,10 +1310,10 @@ Box Elder,Perry 03,U.S. Senate,,Democratic,Misty K Snow,67
 Box Elder,Perry 03,U.S. Senate,,Independent,Bill Barron,12
 Box Elder,Perry 03,U.S. Senate,,Independent American,Stoney Fonua,10
 Box Elder,Perry 03,U.S. Senate,,Republican,Mike Lee,517
-Box Elder,Perry 03,U.S. House,,Republican,Rob Bishop,496
-Box Elder,Perry 03,U.S. House,,Libertarian,Craig Bowden,21
-Box Elder,Perry 03,U.S. House,,Unaffiliated,Chadwick H. Fairbank,2
-Box Elder,Perry 03,U.S. House,,Democratic,Peter C. Clemens,90
+Box Elder,Perry 03,U.S. House,1,Republican,Rob Bishop,496
+Box Elder,Perry 03,U.S. House,1,Libertarian,Craig Bowden,21
+Box Elder,Perry 03,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,2
+Box Elder,Perry 03,U.S. House,1,Democratic,Peter C. Clemens,90
 Box Elder,Perry 03,Governor,,Republican,Gary R. Herbert,531
 Box Elder,Perry 03,Governor,,Independent American,Superdell Schanze,6
 Box Elder,Perry 03,Governor,,Libertarian,Brian E Kamerath,10
@@ -1331,7 +1331,7 @@ Box Elder,Perry 03,State Treasurer,,Democratic,Neil A. Hansen,91
 Box Elder,Perry 03,State Treasurer,,Republican,David Damschen,466
 Box Elder,Perry 03,State House,29,Republican,Lee B. Perry,558
 Box Elder,Perry 03,State House,29,Democratic,Angela B. Urrea,51
-Box Elder,Perry 04,President,,,Rocky' Roque De La,0
+Box Elder,Perry 04,President,,,Rocky Roque De La Fuente,0
 Box Elder,Perry 04,President,,Green,Jill Stein,0
 Box Elder,Perry 04,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Perry 04,President,,Libertarian,Gary Johnson,22
@@ -1346,10 +1346,10 @@ Box Elder,Perry 04,U.S. Senate,,Democratic,Misty K Snow,63
 Box Elder,Perry 04,U.S. Senate,,Independent,Bill Barron,15
 Box Elder,Perry 04,U.S. Senate,,Independent American,Stoney Fonua,10
 Box Elder,Perry 04,U.S. Senate,,Republican,Mike Lee,515
-Box Elder,Perry 04,U.S. House,,Republican,Rob Bishop,495
-Box Elder,Perry 04,U.S. House,,Libertarian,Craig Bowden,26
-Box Elder,Perry 04,U.S. House,,Unaffiliated,Chadwick H. Fairbank,11
-Box Elder,Perry 04,U.S. House,,Democratic,Peter C. Clemens,71
+Box Elder,Perry 04,U.S. House,1,Republican,Rob Bishop,495
+Box Elder,Perry 04,U.S. House,1,Libertarian,Craig Bowden,26
+Box Elder,Perry 04,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,11
+Box Elder,Perry 04,U.S. House,1,Democratic,Peter C. Clemens,71
 Box Elder,Perry 04,Governor,,Republican,Gary R. Herbert,501
 Box Elder,Perry 04,Governor,,Independent American,Superdell Schanze,8
 Box Elder,Perry 04,Governor,,Libertarian,Brian E Kamerath,15
@@ -1367,7 +1367,7 @@ Box Elder,Perry 04,State Treasurer,,Democratic,Neil A. Hansen,100
 Box Elder,Perry 04,State Treasurer,,Republican,David Damschen,446
 Box Elder,Perry 04,State House,29,Republican,Lee B. Perry,521
 Box Elder,Perry 04,State House,29,Democratic,Angela B. Urrea,73
-Box Elder,Plymouth,President,,,Rocky' Roque De La,0
+Box Elder,Plymouth,President,,,Rocky Roque De La Fuente,0
 Box Elder,Plymouth,President,,Green,Jill Stein,0
 Box Elder,Plymouth,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Plymouth,President,,Libertarian,Gary Johnson,2
@@ -1382,10 +1382,10 @@ Box Elder,Plymouth,U.S. Senate,,Democratic,Misty K Snow,14
 Box Elder,Plymouth,U.S. Senate,,Independent,Bill Barron,3
 Box Elder,Plymouth,U.S. Senate,,Independent American,Stoney Fonua,4
 Box Elder,Plymouth,U.S. Senate,,Republican,Mike Lee,164
-Box Elder,Plymouth,U.S. House,,Republican,Rob Bishop,147
-Box Elder,Plymouth,U.S. House,,Libertarian,Craig Bowden,8
-Box Elder,Plymouth,U.S. House,,Unaffiliated,Chadwick H. Fairbank,3
-Box Elder,Plymouth,U.S. House,,Democratic,Peter C. Clemens,24
+Box Elder,Plymouth,U.S. House,1,Republican,Rob Bishop,147
+Box Elder,Plymouth,U.S. House,1,Libertarian,Craig Bowden,8
+Box Elder,Plymouth,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,3
+Box Elder,Plymouth,U.S. House,1,Democratic,Peter C. Clemens,24
 Box Elder,Plymouth,Governor,,Republican,Gary R. Herbert,154
 Box Elder,Plymouth,Governor,,Independent American,Superdell Schanze,4
 Box Elder,Plymouth,Governor,,Libertarian,Brian E Kamerath,2
@@ -1403,7 +1403,7 @@ Box Elder,Plymouth,State Treasurer,,Democratic,Neil A. Hansen,28
 Box Elder,Plymouth,State Treasurer,,Republican,David Damschen,130
 Box Elder,Plymouth,State House,1,Constitution,Sherry Phipps,32
 Box Elder,Plymouth,State House,1,Republican,Scott Sandall,143
-Box Elder,Portage,President,,,Rocky' Roque De La,0
+Box Elder,Portage,President,,,Rocky Roque De La Fuente,0
 Box Elder,Portage,President,,Green,Jill Stein,1
 Box Elder,Portage,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Portage,President,,Libertarian,Gary Johnson,5
@@ -1418,10 +1418,10 @@ Box Elder,Portage,U.S. Senate,,Democratic,Misty K Snow,17
 Box Elder,Portage,U.S. Senate,,Independent,Bill Barron,5
 Box Elder,Portage,U.S. Senate,,Independent American,Stoney Fonua,4
 Box Elder,Portage,U.S. Senate,,Republican,Mike Lee,99
-Box Elder,Portage,U.S. House,,Republican,Rob Bishop,92
-Box Elder,Portage,U.S. House,,Libertarian,Craig Bowden,13
-Box Elder,Portage,U.S. House,,Unaffiliated,Chadwick H. Fairbank,2
-Box Elder,Portage,U.S. House,,Democratic,Peter C. Clemens,19
+Box Elder,Portage,U.S. House,1,Republican,Rob Bishop,92
+Box Elder,Portage,U.S. House,1,Libertarian,Craig Bowden,13
+Box Elder,Portage,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,2
+Box Elder,Portage,U.S. House,1,Democratic,Peter C. Clemens,19
 Box Elder,Portage,Governor,,Republican,Gary R. Herbert,88
 Box Elder,Portage,Governor,,Independent American,Superdell Schanze,5
 Box Elder,Portage,Governor,,Libertarian,Brian E Kamerath,13
@@ -1439,7 +1439,7 @@ Box Elder,Portage,State Treasurer,,Democratic,Neil A. Hansen,27
 Box Elder,Portage,State Treasurer,,Republican,David Damschen,74
 Box Elder,Portage,State House,1,Constitution,Sherry Phipps,32
 Box Elder,Portage,State House,1,Republican,Scott Sandall,89
-Box Elder,Promontory,President,,,Rocky' Roque De La,0
+Box Elder,Promontory,President,,,Rocky Roque De La Fuente,0
 Box Elder,Promontory,President,,Green,Jill Stein,0
 Box Elder,Promontory,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Promontory,President,,Libertarian,Gary Johnson,2
@@ -1454,10 +1454,10 @@ Box Elder,Promontory,U.S. Senate,,Democratic,Misty K Snow,3
 Box Elder,Promontory,U.S. Senate,,Independent,Bill Barron,0
 Box Elder,Promontory,U.S. Senate,,Independent American,Stoney Fonua,1
 Box Elder,Promontory,U.S. Senate,,Republican,Mike Lee,16
-Box Elder,Promontory,U.S. House,,Republican,Rob Bishop,15
-Box Elder,Promontory,U.S. House,,Libertarian,Craig Bowden,1
-Box Elder,Promontory,U.S. House,,Unaffiliated,Chadwick H. Fairbank,1
-Box Elder,Promontory,U.S. House,,Democratic,Peter C. Clemens,3
+Box Elder,Promontory,U.S. House,1,Republican,Rob Bishop,15
+Box Elder,Promontory,U.S. House,1,Libertarian,Craig Bowden,1
+Box Elder,Promontory,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,1
+Box Elder,Promontory,U.S. House,1,Democratic,Peter C. Clemens,3
 Box Elder,Promontory,Governor,,Republican,Gary R. Herbert,13
 Box Elder,Promontory,Governor,,Independent American,Superdell Schanze,5
 Box Elder,Promontory,Governor,,Libertarian,Brian E Kamerath,1
@@ -1475,7 +1475,7 @@ Box Elder,Promontory,State Treasurer,,Democratic,Neil A. Hansen,3
 Box Elder,Promontory,State Treasurer,,Republican,David Damschen,13
 Box Elder,Promontory,State House,1,Constitution,Sherry Phipps,8
 Box Elder,Promontory,State House,1,Republican,Scott Sandall,11
-Box Elder,Riverside,President,,,Rocky' Roque De La,0
+Box Elder,Riverside,President,,,Rocky Roque De La Fuente,0
 Box Elder,Riverside,President,,Green,Jill Stein,0
 Box Elder,Riverside,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Riverside,President,,Libertarian,Gary Johnson,5
@@ -1490,10 +1490,10 @@ Box Elder,Riverside,U.S. Senate,,Democratic,Misty K Snow,17
 Box Elder,Riverside,U.S. Senate,,Independent,Bill Barron,3
 Box Elder,Riverside,U.S. Senate,,Independent American,Stoney Fonua,8
 Box Elder,Riverside,U.S. Senate,,Republican,Mike Lee,224
-Box Elder,Riverside,U.S. House,,Republican,Rob Bishop,210
-Box Elder,Riverside,U.S. House,,Libertarian,Craig Bowden,14
-Box Elder,Riverside,U.S. House,,Unaffiliated,Chadwick H. Fairbank,3
-Box Elder,Riverside,U.S. House,,Democratic,Peter C. Clemens,27
+Box Elder,Riverside,U.S. House,1,Republican,Rob Bishop,210
+Box Elder,Riverside,U.S. House,1,Libertarian,Craig Bowden,14
+Box Elder,Riverside,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,3
+Box Elder,Riverside,U.S. House,1,Democratic,Peter C. Clemens,27
 Box Elder,Riverside,Governor,,Republican,Gary R. Herbert,222
 Box Elder,Riverside,Governor,,Independent American,Superdell Schanze,2
 Box Elder,Riverside,Governor,,Libertarian,Brian E Kamerath,5
@@ -1511,7 +1511,7 @@ Box Elder,Riverside,State Treasurer,,Democratic,Neil A. Hansen,38
 Box Elder,Riverside,State Treasurer,,Republican,David Damschen,180
 Box Elder,Riverside,State House,1,Constitution,Sherry Phipps,39
 Box Elder,Riverside,State House,1,Republican,Scott Sandall,208
-Box Elder,Snowville,President,,,Rocky' Roque De La,0
+Box Elder,Snowville,President,,,Rocky Roque De La Fuente,0
 Box Elder,Snowville,President,,Green,Jill Stein,0
 Box Elder,Snowville,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Snowville,President,,Libertarian,Gary Johnson,5
@@ -1526,10 +1526,10 @@ Box Elder,Snowville,U.S. Senate,,Democratic,Misty K Snow,4
 Box Elder,Snowville,U.S. Senate,,Independent,Bill Barron,1
 Box Elder,Snowville,U.S. Senate,,Independent American,Stoney Fonua,3
 Box Elder,Snowville,U.S. Senate,,Republican,Mike Lee,78
-Box Elder,Snowville,U.S. House,,Republican,Rob Bishop,74
-Box Elder,Snowville,U.S. House,,Libertarian,Craig Bowden,6
-Box Elder,Snowville,U.S. House,,Unaffiliated,Chadwick H. Fairbank,1
-Box Elder,Snowville,U.S. House,,Democratic,Peter C. Clemens,5
+Box Elder,Snowville,U.S. House,1,Republican,Rob Bishop,74
+Box Elder,Snowville,U.S. House,1,Libertarian,Craig Bowden,6
+Box Elder,Snowville,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,1
+Box Elder,Snowville,U.S. House,1,Democratic,Peter C. Clemens,5
 Box Elder,Snowville,Governor,,Republican,Gary R. Herbert,80
 Box Elder,Snowville,Governor,,Independent American,Superdell Schanze,1
 Box Elder,Snowville,Governor,,Libertarian,Brian E Kamerath,2
@@ -1547,7 +1547,7 @@ Box Elder,Snowville,State Treasurer,,Democratic,Neil A. Hansen,19
 Box Elder,Snowville,State Treasurer,,Republican,David Damschen,57
 Box Elder,Snowville,State House,1,Constitution,Sherry Phipps,11
 Box Elder,Snowville,State House,1,Republican,Scott Sandall,74
-Box Elder,South Willard,President,,,Rocky' Roque De La,0
+Box Elder,South Willard,President,,,Rocky Roque De La Fuente,0
 Box Elder,South Willard,President,,Green,Jill Stein,2
 Box Elder,South Willard,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,South Willard,President,,Libertarian,Gary Johnson,12
@@ -1562,10 +1562,10 @@ Box Elder,South Willard,U.S. Senate,,Democratic,Misty K Snow,61
 Box Elder,South Willard,U.S. Senate,,Independent,Bill Barron,10
 Box Elder,South Willard,U.S. Senate,,Independent American,Stoney Fonua,12
 Box Elder,South Willard,U.S. Senate,,Republican,Mike Lee,530
-Box Elder,South Willard,U.S. House,,Republican,Rob Bishop,493
-Box Elder,South Willard,U.S. House,,Libertarian,Craig Bowden,35
-Box Elder,South Willard,U.S. House,,Unaffiliated,Chadwick H. Fairbank,14
-Box Elder,South Willard,U.S. House,,Democratic,Peter C. Clemens,71
+Box Elder,South Willard,U.S. House,1,Republican,Rob Bishop,493
+Box Elder,South Willard,U.S. House,1,Libertarian,Craig Bowden,35
+Box Elder,South Willard,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,14
+Box Elder,South Willard,U.S. House,1,Democratic,Peter C. Clemens,71
 Box Elder,South Willard,Governor,,Republican,Gary R. Herbert,498
 Box Elder,South Willard,Governor,,Independent American,Superdell Schanze,7
 Box Elder,South Willard,Governor,,Libertarian,Brian E Kamerath,26
@@ -1583,7 +1583,7 @@ Box Elder,South Willard,State Treasurer,,Democratic,Neil A. Hansen,116
 Box Elder,South Willard,State Treasurer,,Republican,David Damschen,435
 Box Elder,South Willard,State House,1,Constitution,Sherry Phipps,531
 Box Elder,South Willard,State House,1,Republican,Scott Sandall,79
-Box Elder,Tremonton 01,President,,,Rocky' Roque De La,0
+Box Elder,Tremonton 01,President,,,Rocky Roque De La Fuente,0
 Box Elder,Tremonton 01,President,,Green,Jill Stein,0
 Box Elder,Tremonton 01,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Tremonton 01,President,,Libertarian,Gary Johnson,14
@@ -1598,10 +1598,10 @@ Box Elder,Tremonton 01,U.S. Senate,,Democratic,Misty K Snow,37
 Box Elder,Tremonton 01,U.S. Senate,,Independent,Bill Barron,9
 Box Elder,Tremonton 01,U.S. Senate,,Independent American,Stoney Fonua,4
 Box Elder,Tremonton 01,U.S. Senate,,Republican,Mike Lee,536
-Box Elder,Tremonton 01,U.S. House,,Republican,Rob Bishop,500
-Box Elder,Tremonton 01,U.S. House,,Libertarian,Craig Bowden,15
-Box Elder,Tremonton 01,U.S. House,,Unaffiliated,Chadwick H. Fairbank,10
-Box Elder,Tremonton 01,U.S. House,,Democratic,Peter C. Clemens,68
+Box Elder,Tremonton 01,U.S. House,1,Republican,Rob Bishop,500
+Box Elder,Tremonton 01,U.S. House,1,Libertarian,Craig Bowden,15
+Box Elder,Tremonton 01,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,10
+Box Elder,Tremonton 01,U.S. House,1,Democratic,Peter C. Clemens,68
 Box Elder,Tremonton 01,Governor,,Republican,Gary R. Herbert,546
 Box Elder,Tremonton 01,Governor,,Independent American,Superdell Schanze,3
 Box Elder,Tremonton 01,Governor,,Libertarian,Brian E Kamerath,4
@@ -1619,7 +1619,7 @@ Box Elder,Tremonton 01,State Treasurer,,Democratic,Neil A. Hansen,78
 Box Elder,Tremonton 01,State Treasurer,,Republican,David Damschen,451
 Box Elder,Tremonton 01,State House,1,Constitution,Sherry Phipps,57
 Box Elder,Tremonton 01,State House,1,Republican,Scott Sandall,529
-Box Elder,Tremonton 02,President,,,Rocky' Roque De La,0
+Box Elder,Tremonton 02,President,,,Rocky Roque De La Fuente,0
 Box Elder,Tremonton 02,President,,Green,Jill Stein,1
 Box Elder,Tremonton 02,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Tremonton 02,President,,Libertarian,Gary Johnson,13
@@ -1634,10 +1634,10 @@ Box Elder,Tremonton 02,U.S. Senate,,Democratic,Misty K Snow,96
 Box Elder,Tremonton 02,U.S. Senate,,Independent,Bill Barron,14
 Box Elder,Tremonton 02,U.S. Senate,,Independent American,Stoney Fonua,9
 Box Elder,Tremonton 02,U.S. Senate,,Republican,Mike Lee,477
-Box Elder,Tremonton 02,U.S. House,,Republican,Rob Bishop,450
-Box Elder,Tremonton 02,U.S. House,,Libertarian,Craig Bowden,33
-Box Elder,Tremonton 02,U.S. House,,Unaffiliated,Chadwick H. Fairbank,15
-Box Elder,Tremonton 02,U.S. House,,Democratic,Peter C. Clemens,100
+Box Elder,Tremonton 02,U.S. House,1,Republican,Rob Bishop,450
+Box Elder,Tremonton 02,U.S. House,1,Libertarian,Craig Bowden,33
+Box Elder,Tremonton 02,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,15
+Box Elder,Tremonton 02,U.S. House,1,Democratic,Peter C. Clemens,100
 Box Elder,Tremonton 02,Governor,,Republican,Gary R. Herbert,478
 Box Elder,Tremonton 02,Governor,,Independent American,Superdell Schanze,10
 Box Elder,Tremonton 02,Governor,,Libertarian,Brian E Kamerath,22
@@ -1655,7 +1655,7 @@ Box Elder,Tremonton 02,State Treasurer,,Democratic,Neil A. Hansen,123
 Box Elder,Tremonton 02,State Treasurer,,Republican,David Damschen,414
 Box Elder,Tremonton 02,State House,1,Constitution,Sherry Phipps,87
 Box Elder,Tremonton 02,State House,1,Republican,Scott Sandall,500
-Box Elder,Tremonton 03,President,,,Rocky' Roque De La,0
+Box Elder,Tremonton 03,President,,,Rocky Roque De La Fuente,0
 Box Elder,Tremonton 03,President,,Green,Jill Stein,2
 Box Elder,Tremonton 03,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Tremonton 03,President,,Libertarian,Gary Johnson,11
@@ -1670,10 +1670,10 @@ Box Elder,Tremonton 03,U.S. Senate,,Democratic,Misty K Snow,51
 Box Elder,Tremonton 03,U.S. Senate,,Independent,Bill Barron,8
 Box Elder,Tremonton 03,U.S. Senate,,Independent American,Stoney Fonua,11
 Box Elder,Tremonton 03,U.S. Senate,,Republican,Mike Lee,372
-Box Elder,Tremonton 03,U.S. House,,Republican,Rob Bishop,329
-Box Elder,Tremonton 03,U.S. House,,Libertarian,Craig Bowden,27
-Box Elder,Tremonton 03,U.S. House,,Unaffiliated,Chadwick H. Fairbank,5
-Box Elder,Tremonton 03,U.S. House,,Democratic,Peter C. Clemens,80
+Box Elder,Tremonton 03,U.S. House,1,Republican,Rob Bishop,329
+Box Elder,Tremonton 03,U.S. House,1,Libertarian,Craig Bowden,27
+Box Elder,Tremonton 03,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,5
+Box Elder,Tremonton 03,U.S. House,1,Democratic,Peter C. Clemens,80
 Box Elder,Tremonton 03,Governor,,Republican,Gary R. Herbert,352
 Box Elder,Tremonton 03,Governor,,Independent American,Superdell Schanze,7
 Box Elder,Tremonton 03,Governor,,Libertarian,Brian E Kamerath,23
@@ -1691,7 +1691,7 @@ Box Elder,Tremonton 03,State Treasurer,,Democratic,Neil A. Hansen,79
 Box Elder,Tremonton 03,State Treasurer,,Republican,David Damschen,307
 Box Elder,Tremonton 03,State House,1,Constitution,Sherry Phipps,70
 Box Elder,Tremonton 03,State House,1,Republican,Scott Sandall,365
-Box Elder,Trementon 04,President,,,Rocky' Roque De La,1
+Box Elder,Trementon 04,President,,,Rocky Roque De La Fuente,1
 Box Elder,Trementon 04,President,,Green,Jill Stein,3
 Box Elder,Trementon 04,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Trementon 04,President,,Libertarian,Gary Johnson,22
@@ -1706,10 +1706,10 @@ Box Elder,Trementon 04,U.S. Senate,,Democratic,Misty K Snow,76
 Box Elder,Trementon 04,U.S. Senate,,Independent,Bill Barron,11
 Box Elder,Trementon 04,U.S. Senate,,Independent American,Stoney Fonua,12
 Box Elder,Trementon 04,U.S. Senate,,Republican,Mike Lee,423
-Box Elder,Trementon 04,U.S. House,,Republican,Rob Bishop,403
-Box Elder,Trementon 04,U.S. House,,Libertarian,Craig Bowden,34
-Box Elder,Trementon 04,U.S. House,,Unaffiliated,Chadwick H. Fairbank,14
-Box Elder,Trementon 04,U.S. House,,Democratic,Peter C. Clemens,77
+Box Elder,Trementon 04,U.S. House,1,Republican,Rob Bishop,403
+Box Elder,Trementon 04,U.S. House,1,Libertarian,Craig Bowden,34
+Box Elder,Trementon 04,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,14
+Box Elder,Trementon 04,U.S. House,1,Democratic,Peter C. Clemens,77
 Box Elder,Trementon 04,Governor,,Republican,Gary R. Herbert,421
 Box Elder,Trementon 04,Governor,,Independent American,Superdell Schanze,9
 Box Elder,Trementon 04,Governor,,Libertarian,Brian E Kamerath,18
@@ -1727,7 +1727,7 @@ Box Elder,Trementon 04,State Treasurer,,Democratic,Neil A. Hansen,112
 Box Elder,Trementon 04,State Treasurer,,Republican,David Damschen,354
 Box Elder,Trementon 04,State House,1,Constitution,Sherry Phipps,91
 Box Elder,Trementon 04,State House,1,Republican,Scott Sandall,423
-Box Elder,Tremonton 05,President,,,Rocky' Roque De La,0
+Box Elder,Tremonton 05,President,,,Rocky Roque De La Fuente,0
 Box Elder,Tremonton 05,President,,Green,Jill Stein,0
 Box Elder,Tremonton 05,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Tremonton 05,President,,Libertarian,Gary Johnson,9
@@ -1742,10 +1742,10 @@ Box Elder,Tremonton 05,U.S. Senate,,Democratic,Misty K Snow,28
 Box Elder,Tremonton 05,U.S. Senate,,Independent,Bill Barron,3
 Box Elder,Tremonton 05,U.S. Senate,,Independent American,Stoney Fonua,7
 Box Elder,Tremonton 05,U.S. Senate,,Republican,Mike Lee,339
-Box Elder,Tremonton 05,U.S. House,,Republican,Rob Bishop,318
-Box Elder,Tremonton 05,U.S. House,,Libertarian,Craig Bowden,18
-Box Elder,Tremonton 05,U.S. House,,Unaffiliated,Chadwick H. Fairbank,5
-Box Elder,Tremonton 05,U.S. House,,Democratic,Peter C. Clemens,34
+Box Elder,Tremonton 05,U.S. House,1,Republican,Rob Bishop,318
+Box Elder,Tremonton 05,U.S. House,1,Libertarian,Craig Bowden,18
+Box Elder,Tremonton 05,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,5
+Box Elder,Tremonton 05,U.S. House,1,Democratic,Peter C. Clemens,34
 Box Elder,Tremonton 05,Governor,,Republican,Gary R. Herbert,334
 Box Elder,Tremonton 05,Governor,,Independent American,Superdell Schanze,4
 Box Elder,Tremonton 05,Governor,,Libertarian,Brian E Kamerath,12
@@ -1763,7 +1763,7 @@ Box Elder,Tremonton 05,State Treasurer,,Democratic,Neil A. Hansen,44
 Box Elder,Tremonton 05,State Treasurer,,Republican,David Damschen,297
 Box Elder,Tremonton 05,State House,1,Constitution,Sherry Phipps,33
 Box Elder,Tremonton 05,State House,1,Republican,Scott Sandall,334
-Box Elder,Tremonton South,President,,,Rocky' Roque De La,1
+Box Elder,Tremonton South,President,,,Rocky Roque De La Fuente,1
 Box Elder,Tremonton South,President,,Green,Jill Stein,0
 Box Elder,Tremonton South,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Tremonton South,President,,Libertarian,Gary Johnson,8
@@ -1778,10 +1778,10 @@ Box Elder,Tremonton South,U.S. Senate,,Democratic,Misty K Snow,32
 Box Elder,Tremonton South,U.S. Senate,,Independent,Bill Barron,6
 Box Elder,Tremonton South,U.S. Senate,,Independent American,Stoney Fonua,8
 Box Elder,Tremonton South,U.S. Senate,,Republican,Mike Lee,212
-Box Elder,Tremonton South,U.S. House,,Republican,Rob Bishop,199
-Box Elder,Tremonton South,U.S. House,,Libertarian,Craig Bowden,9
-Box Elder,Tremonton South,U.S. House,,Unaffiliated,Chadwick H. Fairbank,7
-Box Elder,Tremonton South,U.S. House,,Democratic,Peter C. Clemens,44
+Box Elder,Tremonton South,U.S. House,1,Republican,Rob Bishop,199
+Box Elder,Tremonton South,U.S. House,1,Libertarian,Craig Bowden,9
+Box Elder,Tremonton South,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,7
+Box Elder,Tremonton South,U.S. House,1,Democratic,Peter C. Clemens,44
 Box Elder,Tremonton South,Governor,,Republican,Gary R. Herbert,217
 Box Elder,Tremonton South,Governor,,Independent American,Superdell Schanze,10
 Box Elder,Tremonton South,Governor,,Libertarian,Brian E Kamerath,2
@@ -1799,7 +1799,7 @@ Box Elder,Tremonton South,State Treasurer,,Democratic,Neil A. Hansen,51
 Box Elder,Tremonton South,State Treasurer,,Republican,David Damschen,165
 Box Elder,Tremonton South,State House,1,Constitution,Sherry Phipps,46
 Box Elder,Tremonton South,State House,1,Republican,Scott Sandall,206
-Box Elder,Tremonton West,President,,,Rocky' Roque De La,0
+Box Elder,Tremonton West,President,,,Rocky Roque De La Fuente,0
 Box Elder,Tremonton West,President,,Green,Jill Stein,1
 Box Elder,Tremonton West,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Tremonton West,President,,Libertarian,Gary Johnson,18
@@ -1814,10 +1814,10 @@ Box Elder,Tremonton West,U.S. Senate,,Democratic,Misty K Snow,58
 Box Elder,Tremonton West,U.S. Senate,,Independent,Bill Barron,12
 Box Elder,Tremonton West,U.S. Senate,,Independent American,Stoney Fonua,11
 Box Elder,Tremonton West,U.S. Senate,,Republican,Mike Lee,526
-Box Elder,Tremonton West,U.S. House,,Republican,Rob Bishop,495
-Box Elder,Tremonton West,U.S. House,,Libertarian,Craig Bowden,23
-Box Elder,Tremonton West,U.S. House,,Unaffiliated,Chadwick H. Fairbank,9
-Box Elder,Tremonton West,U.S. House,,Democratic,Peter C. Clemens,76
+Box Elder,Tremonton West,U.S. House,1,Republican,Rob Bishop,495
+Box Elder,Tremonton West,U.S. House,1,Libertarian,Craig Bowden,23
+Box Elder,Tremonton West,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,9
+Box Elder,Tremonton West,U.S. House,1,Democratic,Peter C. Clemens,76
 Box Elder,Tremonton West,Governor,,Republican,Gary R. Herbert,508
 Box Elder,Tremonton West,Governor,,Independent American,Superdell Schanze,13
 Box Elder,Tremonton West,Governor,,Libertarian,Brian E Kamerath,14
@@ -1835,7 +1835,7 @@ Box Elder,Tremonton West,State Treasurer,,Democratic,Neil A. Hansen,89
 Box Elder,Tremonton West,State Treasurer,,Republican,David Damschen,433
 Box Elder,Tremonton West,State House,1,Constitution,Sherry Phipps,89
 Box Elder,Tremonton West,State House,1,Republican,Scott Sandall,499
-Box Elder,Willard,President,,,Rocky' Roque De La,0
+Box Elder,Willard,President,,,Rocky Roque De La Fuente,0
 Box Elder,Willard,President,,Green,Jill Stein,3
 Box Elder,Willard,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Willard,President,,Libertarian,Gary Johnson,23
@@ -1850,10 +1850,10 @@ Box Elder,Willard,U.S. Senate,,Democratic,Misty K Snow,111
 Box Elder,Willard,U.S. Senate,,Independent,Bill Barron,19
 Box Elder,Willard,U.S. Senate,,Independent American,Stoney Fonua,23
 Box Elder,Willard,U.S. Senate,,Republican,Mike Lee,608
-Box Elder,Willard,U.S. House,,Republican,Rob Bishop,568
-Box Elder,Willard,U.S. House,,Libertarian,Craig Bowden,35
-Box Elder,Willard,U.S. House,,Unaffiliated,Chadwick H. Fairbank,26
-Box Elder,Willard,U.S. House,,Democratic,Peter C. Clemens,136
+Box Elder,Willard,U.S. House,1,Republican,Rob Bishop,568
+Box Elder,Willard,U.S. House,1,Libertarian,Craig Bowden,35
+Box Elder,Willard,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,26
+Box Elder,Willard,U.S. House,1,Democratic,Peter C. Clemens,136
 Box Elder,Willard,Governor,,Republican,Gary R. Herbert,612
 Box Elder,Willard,Governor,,Independent American,Superdell Schanze,18
 Box Elder,Willard,Governor,,Libertarian,Brian E Kamerath,17
@@ -1871,7 +1871,7 @@ Box Elder,Willard,State Treasurer,,Democratic,Neil A. Hansen,173
 Box Elder,Willard,State Treasurer,,Republican,David Damschen,518
 Box Elder,Willard,State House,1,Constitution,Sherry Phipps,646
 Box Elder,Willard,State House,1,Republican,Scott Sandall,108
-Box Elder,Yost,President,,,Rocky' Roque De La,0
+Box Elder,Yost,President,,,Rocky Roque De La Fuente,0
 Box Elder,Yost,President,,Green,Jill Stein,0
 Box Elder,Yost,President,,Socialist Workers,Alyson Kennedy,0
 Box Elder,Yost,President,,Libertarian,Gary Johnson,0
@@ -1886,10 +1886,10 @@ Box Elder,Yost,U.S. Senate,,Democratic,Misty K Snow,2
 Box Elder,Yost,U.S. Senate,,Independent,Bill Barron,0
 Box Elder,Yost,U.S. Senate,,Independent American,Stoney Fonua,0
 Box Elder,Yost,U.S. Senate,,Republican,Mike Lee,21
-Box Elder,Yost,U.S. House,,Republican,Rob Bishop,20
-Box Elder,Yost,U.S. House,,Libertarian,Craig Bowden,0
-Box Elder,Yost,U.S. House,,Unaffiliated,Chadwick H. Fairbank,0
-Box Elder,Yost,U.S. House,,Democratic,Peter C. Clemens,2
+Box Elder,Yost,U.S. House,1,Republican,Rob Bishop,20
+Box Elder,Yost,U.S. House,1,Libertarian,Craig Bowden,0
+Box Elder,Yost,U.S. House,1,Unaffiliated,Chadwick H. Fairbank,0
+Box Elder,Yost,U.S. House,1,Democratic,Peter C. Clemens,2
 Box Elder,Yost,Governor,,Republican,Gary R. Herbert,21
 Box Elder,Yost,Governor,,Independent American,Superdell Schanze,0
 Box Elder,Yost,Governor,,Libertarian,Brian E Kamerath,0

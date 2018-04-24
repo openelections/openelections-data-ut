@@ -1,67 +1,67 @@
 county,precinct,office,district,party,candidate,votes
-Piute,Marysvale,President,,,'Rocky' Roque De La,0
+Piute,Marysvale,President,,,'Rocky Roque De La Fuente,0
 Piute,Marysvale,President,,Green,Jill Stein,0
 Piute,Marysvale,President,,Socialist Workers,Alyson Kennedy,0
 Piute,Marysvale,President,,Libertarian,Gary Johnson,2
 Piute,Marysvale,President,,Independent American,Rocky Giordani,0
-Piute,Junction,President,,,'Rocky' Roque De La,0
+Piute,Junction,President,,,'Rocky Roque De La Fuente,0
 Piute,Junction,President,,Green,Jill Stein,0
 Piute,Junction,President,,Socialist Workers,Alyson Kennedy,0
 Piute,Junction,President,,Libertarian,Gary Johnson,0
 Piute,Junction,President,,Independent American,Rocky Giordani,0
-Piute,Circleville 1,President,,,'Rocky' Roque De La,0
+Piute,Circleville 1,President,,,'Rocky Roque De La Fuente,0
 Piute,Circleville 1,President,,Green,Jill Stein,1
 Piute,Circleville 1,President,,Socialist Workers,Alyson Kennedy,0
 Piute,Circleville 1,President,,Libertarian,Gary Johnson,1
 Piute,Circleville 1,President,,Independent American,Rocky Giordani,0
-Piute,Circleville 2,President,,,'Rocky' Roque De La,0
+Piute,Circleville 2,President,,,'Rocky Roque De La Fuente,0
 Piute,Circleville 2,President,,Green,Jill Stein,0
 Piute,Circleville 2,President,,Socialist Workers,Alyson Kennedy,0
 Piute,Circleville 2,President,,Libertarian,Gary Johnson,1
 Piute,Circleville 2,President,,Independent American,Rocky Giordani,1
-Piute,Kingston,President,,,'Rocky' Roque De La,0
+Piute,Kingston,President,,,'Rocky Roque De La Fuente,0
 Piute,Kingston,President,,Green,Jill Stein,0
 Piute,Kingston,President,,Socialist Workers,Alyson Kennedy,0
 Piute,Kingston,President,,Libertarian,Gary Johnson,6
 Piute,Kingston,President,,Independent American,Rocky Giordani,0
-Piute,Greenwich,President,,,'Rocky' Roque De La,0
+Piute,Greenwich,President,,,'Rocky Roque De La Fuente,0
 Piute,Greenwich,President,,Green,Jill Stein,0
 Piute,Greenwich,President,,Socialist Workers,Alyson Kennedy,0
 Piute,Greenwich,President,,Libertarian,Gary Johnson,1
 Piute,Greenwich,President,,Independent American,Rocky Giordani,1
 Piute,Marysvale,President,,Republican,Donald J. Trump,215
 Piute,Marysvale,President,,Constitution,Darrell L. Castle,0
-Piute,Marysvale,President,,Democratic,Hillary Rodham Clin,27
+Piute,Marysvale,President,,Democratic,Hillary Rodham Clinton,27
 Piute,Marysvale,President,,Workers World,Monica Moorehead,1
 Piute,Marysvale,President,,Independent,Evan McMullin,7
 Piute,Marysvale,President,,,Write-in,0
 Piute,Junction,President,,Republican,Donald J. Trump,67
 Piute,Junction,President,,Constitution,Darrell L. Castle,0
-Piute,Junction,President,,Democratic,Hillary Rodham Clin,7
+Piute,Junction,President,,Democratic,Hillary Rodham Clinton,7
 Piute,Junction,President,,Workers World,Monica Moorehead,0
 Piute,Junction,President,,Independent,Evan McMullin,4
 Piute,Junction,President,,,Write-in,0
 Piute,Circleville 1,President,,Republican,Donald J. Trump,98
 Piute,Circleville 1,President,,Constitution,Darrell L. Castle,1
-Piute,Circleville 1,President,,Democratic,Hillary Rodham Clin,1
+Piute,Circleville 1,President,,Democratic,Hillary Rodham Clinton,1
 Piute,Circleville 1,President,,Workers World,Monica Moorehead,0
 Piute,Circleville 1,President,,Independent,Evan McMullin,10
 Piute,Circleville 1,President,,,Write-in,0
 Piute,Circleville 2,President,,Republican,Donald J. Trump,103
 Piute,Circleville 2,President,,Constitution,Darrell L. Castle,0
-Piute,Circleville 2,President,,Democratic,Hillary Rodham Clin,5
+Piute,Circleville 2,President,,Democratic,Hillary Rodham Clinton,5
 Piute,Circleville 2,President,,Workers World,Monica Moorehead,0
 Piute,Circleville 2,President,,Independent,Evan McMullin,10
 Piute,Circleville 2,President,,,Write-in,0
 Piute,Kingston,President,,Republican,Donald J. Trump,94
 Piute,Kingston,President,,Constitution,Darrell L. Castle,4
-Piute,Kingston,President,,Democratic,Hillary Rodham Clin,4
+Piute,Kingston,President,,Democratic,Hillary Rodham Clinton,4
 Piute,Kingston,President,,Workers World,Monica Moorehead,0
 Piute,Kingston,President,,Independent,Evan McMullin,2
 Piute,Kingston,President,,,Write-in,0
 Piute,Greenwich,President,,Republican,Donald J. Trump,49
 Piute,Greenwich,President,,Constitution,Darrell L. Castle,0
-Piute,Greenwich,President,,Democratic,Hillary Rodham Clin,3
+Piute,Greenwich,President,,Democratic,Hillary Rodham Clinton,3
 Piute,Greenwich,President,,Workers World,Monica Moorehead,0
 Piute,Greenwich,President,,Independent,Evan McMullin,3
 Piute,Greenwich,President,,,Write-in,1
@@ -203,15 +203,15 @@ Piute,Circleville 1,State Senate,24,Republican,Ralph Okerlund,102
 Piute,Circleville 2,State Senate,24,Republican,Ralph Okerlund,102
 Piute,Kingston,State Senate,24,Republican,Ralph Okerlund,98
 Piute,Greenwich,State Senate,24,Republican,Ralph Okerlund,50
-Piute,Marysvale,State House,,Republican,Mike Noel,208
-Piute,Marysvale,State House,,Democratic,Ty Markham,35
-Piute,Junction,State House,,Republican,Mike Noel,66
-Piute,Junction,State House,,Democratic,Ty Markham,6
-Piute,Circleville 1,State House,,Republican,Mike Noel,98
-Piute,Circleville 1,State House,,Democratic,Ty Markham,8
-Piute,Circleville 2,State House,,Republican,Mike Noel,96
-Piute,Circleville 2,State House,,Democratic,Ty Markham,14
-Piute,Kingston,State House,,Republican,Mike Noel,102
-Piute,Kingston,State House,,Democratic,Ty Markham,6
-Piute,Greenwich,State House,,Republican,Mike Noel,51
-Piute,Greenwich,State House,,Democratic,Ty Markham,5
+Piute,Marysvale,State House,73,Republican,Mike Noel,208
+Piute,Marysvale,State House,73,Democratic,Ty Markham,35
+Piute,Junction,State House,73,Republican,Mike Noel,66
+Piute,Junction,State House,73,Democratic,Ty Markham,6
+Piute,Circleville 1,State House,73,Republican,Mike Noel,98
+Piute,Circleville 1,State House,73,Democratic,Ty Markham,8
+Piute,Circleville 2,State House,73,Republican,Mike Noel,96
+Piute,Circleville 2,State House,73,Democratic,Ty Markham,14
+Piute,Kingston,State House,73,Republican,Mike Noel,102
+Piute,Kingston,State House,73,Democratic,Ty Markham,6
+Piute,Greenwich,State House,73,Republican,Mike Noel,51
+Piute,Greenwich,State House,73,Democratic,Ty Markham,5
