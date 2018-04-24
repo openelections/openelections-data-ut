@@ -1,186 +1,186 @@
-"county","precinct","office","district","party","candidate","votes"
-"Rich","#1","Attorney General","","Democratic","Jon V. Harper",19
-"Rich","#1","Attorney General","","Independent American","Michael W. IsBell",1
-"Rich","#1","Attorney General","","Libertarian","W. McCullough",4
-"Rich","#1","Attorney General","","Republican","Sean D. Reyes",168
-"Rich","#1","Governor","","","Write-in",0
-"Rich","#1","Governor","","Democratic","Mike Weinholtz",14
-"Rich","#1","Governor","","Independent American","Superdell Schanze",1
-"Rich","#1","Governor","","Libertarian","Brian E Kamerath",2
-"Rich","#1","Governor","","Republican","Gary R. Herbert",179
-"Rich","#1","President","","","D L Fuente/Steinberg",0
-"Rich","#1","President","","","Kennedy/Hart",0
-"Rich","#1","President","","","McMullin/Johnson",25
-"Rich","#1","President","","","Moorehead/Lilly",0
-"Rich","#1","President","","","Stein/Baraka",0
-"Rich","#1","President","","","Write-in",0
-"Rich","#1","President","","Constitution","Castle/Bradley",0
-"Rich","#1","President","","Democratic","Clinton/Kaine",16
-"Rich","#1","President","","Independent American","Giordani/Anderson",0
-"Rich","#1","President","","Libertarian","Johnson/Weld",1
-"Rich","#1","President","","Republican","Trump/Pence",153
-"Rich","#1","State Auditor","","Democratic","Mike Mitchell",22
-"Rich","#1","State Auditor","","Independent American","Jared Green",6
-"Rich","#1","State Auditor","","Republican","John Dougall",160
-"Rich","#1","State House","53","Democratic","Cole R. Capener",19
-"Rich","#1","State House","53","Republican","Logan Wilde",174
-"Rich","#1","State Senate","25","Republican","Lyle W. Hillyard",184
-"Rich","#1","State Treasurer","","Constitution","Richard Proctor",11
-"Rich","#1","State Treasurer","","Democratic","Neil A. Hansen",28
-"Rich","#1","State Treasurer","","Republican","David Damschen",147
-"Rich","#1","U.S. House","1","","C. Fairbanks III ",2
-"Rich","#1","U.S. House","1","Democratic","Peter C. Clemens",19
-"Rich","#1","U.S. House","1","Libertarian","Craig Bowden",5
-"Rich","#1","U.S. House","1","Republican","Rob Bishop",171
-"Rich","#1","U.S. Senate","","","Bill Barron",2
-"Rich","#1","U.S. Senate","","Democratic","Misty K Snow",18
-"Rich","#1","U.S. Senate","","Independent American","Stoney Fonua",0
-"Rich","#1","U.S. Senate","","Republican","Mike Lee",176
-"Rich","#2","Attorney General","","Democratic","Jon V. Harper",21
-"Rich","#2","Attorney General","","Independent American","Michael W. IsBell",11
-"Rich","#2","Attorney General","","Libertarian","W. McCullough",9
-"Rich","#2","Attorney General","","Republican","Sean D. Reyes",200
-"Rich","#2","Governor","","","Write-in",0
-"Rich","#2","Governor","","Democratic","Mike Weinholtz",23
-"Rich","#2","Governor","","Independent American","Superdell Schanze",5
-"Rich","#2","Governor","","Libertarian","Brian E Kamerath",3
-"Rich","#2","Governor","","Republican","Gary R. Herbert",214
-"Rich","#2","President","","","D L Fuente/Steinberg",0
-"Rich","#2","President","","","Kennedy/Hart",0
-"Rich","#2","President","","","McMullin/Johnson",28
-"Rich","#2","President","","","Moorehead/Lilly",0
-"Rich","#2","President","","","Stein/Baraka",0
-"Rich","#2","President","","","Write-in",4
-"Rich","#2","President","","Constitution","Castle/Bradley",3
-"Rich","#2","President","","Democratic","Clinton/Kaine",18
-"Rich","#2","President","","Independent American","Giordani/Anderson",0
-"Rich","#2","President","","Libertarian","Johnson/Weld",5
-"Rich","#2","President","","Republican","Trump/Pence",194
-"Rich","#2","State Auditor","","Democratic","Mike Mitchell",33
-"Rich","#2","State Auditor","","Independent American","Jared Green",12
-"Rich","#2","State Auditor","","Republican","John Dougall",191
-"Rich","#2","State House","53","Democratic","Cole R. Capener",25
-"Rich","#2","State House","53","Republican","Logan Wilde",221
-"Rich","#2","State Senate","25","Republican","Lyle W. Hillyard",225
-"Rich","#2","State Treasurer","","Constitution","Richard Proctor",9
-"Rich","#2","State Treasurer","","Democratic","Neil A. Hansen",38
-"Rich","#2","State Treasurer","","Republican","David Damschen",186
-"Rich","#2","U.S. House","1","","C. Fairbanks III ",4
-"Rich","#2","U.S. House","1","Democratic","Peter C. Clemens",26
-"Rich","#2","U.S. House","1","Libertarian","Craig Bowden",2
-"Rich","#2","U.S. House","1","Republican","Rob Bishop",216
-"Rich","#2","U.S. Senate","","","Bill Barron",2
-"Rich","#2","U.S. Senate","","Democratic","Misty K Snow",17
-"Rich","#2","U.S. Senate","","Independent American","Stoney Fonua",5
-"Rich","#2","U.S. Senate","","Republican","Mike Lee",223
-"Rich","#3","Attorney General","","Democratic","Jon V. Harper",23
-"Rich","#3","Attorney General","","Independent American","Michael W. IsBell",9
-"Rich","#3","Attorney General","","Libertarian","W. McCullough",4
-"Rich","#3","Attorney General","","Republican","Sean D. Reyes",246
-"Rich","#3","Governor","","","Write-in",0
-"Rich","#3","Governor","","Democratic","Mike Weinholtz",24
-"Rich","#3","Governor","","Independent American","Superdell Schanze",3
-"Rich","#3","Governor","","Libertarian","Brian E Kamerath",4
-"Rich","#3","Governor","","Republican","Gary R. Herbert",255
-"Rich","#3","President","","","D L Fuente/Steinberg",0
-"Rich","#3","President","","","Kennedy/Hart",0
-"Rich","#3","President","","","McMullin/Johnson",36
-"Rich","#3","President","","","Moorehead/Lilly",0
-"Rich","#3","President","","","Stein/Baraka",0
-"Rich","#3","President","","","Write-in",0
-"Rich","#3","President","","Constitution","Castle/Bradley",4
-"Rich","#3","President","","Democratic","Clinton/Kaine",23
-"Rich","#3","President","","Independent American","Giordani/Anderson",0
-"Rich","#3","President","","Libertarian","Johnson/Weld",0
-"Rich","#3","President","","Republican","Trump/Pence",222
-"Rich","#3","State Auditor","","Democratic","Mike Mitchell",42
-"Rich","#3","State Auditor","","Independent American","Jared Green",8
-"Rich","#3","State Auditor","","Republican","John Dougall",230
-"Rich","#3","State House","53","Democratic","Cole R. Capener",18
-"Rich","#3","State House","53","Republican","Logan Wilde",254
-"Rich","#3","State Senate","25","Republican","Lyle W. Hillyard",252
-"Rich","#3","State Treasurer","","Constitution","Richard Proctor",14
-"Rich","#3","State Treasurer","","Democratic","Neil A. Hansen",30
-"Rich","#3","State Treasurer","","Republican","David Damschen",234
-"Rich","#3","U.S. House","1","","C. Fairbanks III ",5
-"Rich","#3","U.S. House","1","Democratic","Peter C. Clemens",24
-"Rich","#3","U.S. House","1","Libertarian","Craig Bowden",4
-"Rich","#3","U.S. House","1","Republican","Rob Bishop",249
-"Rich","#3","U.S. Senate","","","Bill Barron",4
-"Rich","#3","U.S. Senate","","Democratic","Misty K Snow",15
-"Rich","#3","U.S. Senate","","Independent American","Stoney Fonua",2
-"Rich","#3","U.S. Senate","","Republican","Mike Lee",262
-"Rich","#4","Attorney General","","Democratic","Jon V. Harper",31
-"Rich","#4","Attorney General","","Independent American","Michael W. IsBell",3
-"Rich","#4","Attorney General","","Libertarian","W. McCullough",10
-"Rich","#4","Attorney General","","Republican","Sean D. Reyes",149
-"Rich","#4","Governor","","","Write-in",1
-"Rich","#4","Governor","","Democratic","Mike Weinholtz",28
-"Rich","#4","Governor","","Independent American","Superdell Schanze",5
-"Rich","#4","Governor","","Libertarian","Brian E Kamerath",7
-"Rich","#4","Governor","","Republican","Gary R. Herbert",158
-"Rich","#4","President","","","D L Fuente/Steinberg",0
-"Rich","#4","President","","","Kennedy/Hart",0
-"Rich","#4","President","","","McMullin/Johnson",40
-"Rich","#4","President","","","Moorehead/Lilly",0
-"Rich","#4","President","","","Stein/Baraka",1
-"Rich","#4","President","","","Write-in",2
-"Rich","#4","President","","Constitution","Castle/Bradley",2
-"Rich","#4","President","","Democratic","Clinton/Kaine",22
-"Rich","#4","President","","Independent American","Giordani/Anderson",0
-"Rich","#4","President","","Libertarian","Johnson/Weld",11
-"Rich","#4","President","","Republican","Trump/Pence",119
-"Rich","#4","State Auditor","","Democratic","Mike Mitchell",33
-"Rich","#4","State Auditor","","Independent American","Jared Green",8
-"Rich","#4","State Auditor","","Republican","John Dougall",148
-"Rich","#4","State House","53","Democratic","Cole R. Capener",36
-"Rich","#4","State House","53","Republican","Logan Wilde",156
-"Rich","#4","State Senate","25","Republican","Lyle W. Hillyard",173
-"Rich","#4","State Treasurer","","Constitution","Richard Proctor",10
-"Rich","#4","State Treasurer","","Democratic","Neil A. Hansen",42
-"Rich","#4","State Treasurer","","Republican","David Damschen",138
-"Rich","#4","U.S. House","1","","C. Fairbanks III ",4
-"Rich","#4","U.S. House","1","Democratic","Peter C. Clemens",29
-"Rich","#4","U.S. House","1","Libertarian","Craig Bowden",13
-"Rich","#4","U.S. House","1","Republican","Rob Bishop",148
-"Rich","#4","U.S. Senate","","","Bill Barron",3
-"Rich","#4","U.S. Senate","","Democratic","Misty K Snow",26
-"Rich","#4","U.S. Senate","","Independent American","Stoney Fonua",1
-"Rich","#4","U.S. Senate","","Republican","Mike Lee",163
-"Rich","#5","Attorney General","","Democratic","Jon V. Harper",29
-"Rich","#5","Attorney General","","Independent American","Michael W. IsBell",9
-"Rich","#5","Attorney General","","Libertarian","W. McCullough",8
-"Rich","#5","Attorney General","","Republican","Sean D. Reyes",135
-"Rich","#5","Governor","","","Write-in",1
-"Rich","#5","Governor","","Democratic","Mike Weinholtz",33
-"Rich","#5","Governor","","Independent American","Superdell Schanze",10
-"Rich","#5","Governor","","Libertarian","Brian E Kamerath",4
-"Rich","#5","Governor","","Republican","Gary R. Herbert",142
-"Rich","#5","President","","","D L Fuente/Steinberg",2
-"Rich","#5","President","","","Kennedy/Hart",0
-"Rich","#5","President","","","McMullin/Johnson",45
-"Rich","#5","President","","","Moorehead/Lilly",0
-"Rich","#5","President","","","Stein/Baraka",0
-"Rich","#5","President","","","Write-in",3
-"Rich","#5","President","","Constitution","Castle/Bradley",1
-"Rich","#5","President","","Democratic","Clinton/Kaine",25
-"Rich","#5","President","","Independent American","Giordani/Anderson",0
-"Rich","#5","President","","Libertarian","Johnson/Weld",4
-"Rich","#5","President","","Republican","Trump/Pence",109
-"Rich","#5","State Auditor","","Democratic","Mike Mitchell",39
-"Rich","#5","State Auditor","","Independent American","Jared Green",12
-"Rich","#5","State Auditor","","Republican","John Dougall",129
-"Rich","#5","State House","53","Democratic","Cole R. Capener",44
-"Rich","#5","State House","53","Republican","Logan Wilde",137
-"Rich","#5","State Senate","25","Republican","Lyle W. Hillyard",161
-"Rich","#5","State Treasurer","","Constitution","Richard Proctor",11
-"Rich","#5","State Treasurer","","Democratic","Neil A. Hansen",37
-"Rich","#5","State Treasurer","","Republican","David Damschen",130
-"Rich","#5","U.S. House","1","","C. Fairbanks III ",1
-"Rich","#5","U.S. House","1","Democratic","Peter C. Clemens",32
-"Rich","#5","U.S. House","1","Libertarian","Craig Bowden",8
-"Rich","#5","U.S. House","1","Republican","Rob Bishop",148
-"Rich","#5","U.S. Senate","","","Bill Barron",3
-"Rich","#5","U.S. Senate","","Democratic","Misty K Snow",34
-"Rich","#5","U.S. Senate","","Independent American","Stoney Fonua",5
-"Rich","#5","U.S. Senate","","Republican","Mike Lee",146
+county,precinct,office,district,party,candidate,votes
+Rich,#1,Attorney General,,Democratic,Jon Harper,19
+Rich,#1,Attorney General,,Independent American,Michael Isbell,1
+Rich,#1,Attorney General,,Libertarian,W. Andrew McCullough,4
+Rich,#1,Attorney General,,Republican,Sean Reyes,168
+Rich,#1,Governor,,,Write-In,0
+Rich,#1,Governor,,Democratic,Mike Weinholtz,14
+Rich,#1,Governor,,Independent American,Dell Schanze,1
+Rich,#1,Governor,,Libertarian,Brian Kamerath,2
+Rich,#1,Governor,,Republican,Gary Herbert,179
+Rich,#1,President,,,Rocky De La Fuente,0
+Rich,#1,President,,,Alyson Kennedy,0
+Rich,#1,President,,,Evan McMullin,25
+Rich,#1,President,,,Monica Moorehead,0
+Rich,#1,President,,,Jill Stein,0
+Rich,#1,President,,,Write-In,0
+Rich,#1,President,,Constitution,Darrell Castle,0
+Rich,#1,President,,Democratic,Hillary Clinton,16
+Rich,#1,President,,Independent American,Giordani/Anderson,0
+Rich,#1,President,,Libertarian,Gary Johnson,1
+Rich,#1,President,,Republican,Donald Trump,153
+Rich,#1,State Auditor,,Democratic,Mike Mitchell,22
+Rich,#1,State Auditor,,Independent American,Jared Green,6
+Rich,#1,State Auditor,,Republican,John Dougall,160
+Rich,#1,State House,53,Democratic,Cole Capener,19
+Rich,#1,State House,53,Republican,Logan Wilde,174
+Rich,#1,State Senate,25,Republican,Lyle Hillyard,184
+Rich,#1,State Treasurer,,Constitution,Richard Proctor,11
+Rich,#1,State Treasurer,,Democratic,Neil Hansen,28
+Rich,#1,State Treasurer,,Republican,David Damschen,147
+Rich,#1,U.S. House,1,,Chadwick Fairbanks,2
+Rich,#1,U.S. House,1,Democratic,Peter Clemens,19
+Rich,#1,U.S. House,1,Libertarian,Craig Bowden,5
+Rich,#1,U.S. House,1,Republican,Rob Bishop,171
+Rich,#1,U.S. Senate,,,Bill Barron,2
+Rich,#1,U.S. Senate,,Democratic,Misty Snow,18
+Rich,#1,U.S. Senate,,Independent American,Stoney Fonua,0
+Rich,#1,U.S. Senate,,Republican,Mike Lee,176
+Rich,#2,Attorney General,,Democratic,Jon Harper,21
+Rich,#2,Attorney General,,Independent American,Michael Isbell,11
+Rich,#2,Attorney General,,Libertarian,W. Andrew McCullough,9
+Rich,#2,Attorney General,,Republican,Sean Reyes,200
+Rich,#2,Governor,,,Write-In,0
+Rich,#2,Governor,,Democratic,Mike Weinholtz,23
+Rich,#2,Governor,,Independent American,Dell Schanze,5
+Rich,#2,Governor,,Libertarian,Brian Kamerath,3
+Rich,#2,Governor,,Republican,Gary Herbert,214
+Rich,#2,President,,,Rocky De La Fuente,0
+Rich,#2,President,,,Alyson Kennedy,0
+Rich,#2,President,,,Evan McMullin,28
+Rich,#2,President,,,Monica Moorehead,0
+Rich,#2,President,,,Jill Stein,0
+Rich,#2,President,,,Write-In,4
+Rich,#2,President,,Constitution,Darrell Castle,3
+Rich,#2,President,,Democratic,Hillary Clinton,18
+Rich,#2,President,,Independent American,Giordani/Anderson,0
+Rich,#2,President,,Libertarian,Gary Johnson,5
+Rich,#2,President,,Republican,Donald Trump,194
+Rich,#2,State Auditor,,Democratic,Mike Mitchell,33
+Rich,#2,State Auditor,,Independent American,Jared Green,12
+Rich,#2,State Auditor,,Republican,John Dougall,191
+Rich,#2,State House,53,Democratic,Cole Capener,25
+Rich,#2,State House,53,Republican,Logan Wilde,221
+Rich,#2,State Senate,25,Republican,Lyle Hillyard,225
+Rich,#2,State Treasurer,,Constitution,Richard Proctor,9
+Rich,#2,State Treasurer,,Democratic,Neil Hansen,38
+Rich,#2,State Treasurer,,Republican,David Damschen,186
+Rich,#2,U.S. House,1,,Chadwick Fairbanks,4
+Rich,#2,U.S. House,1,Democratic,Peter Clemens,26
+Rich,#2,U.S. House,1,Libertarian,Craig Bowden,2
+Rich,#2,U.S. House,1,Republican,Rob Bishop,216
+Rich,#2,U.S. Senate,,,Bill Barron,2
+Rich,#2,U.S. Senate,,Democratic,Misty Snow,17
+Rich,#2,U.S. Senate,,Independent American,Stoney Fonua,5
+Rich,#2,U.S. Senate,,Republican,Mike Lee,223
+Rich,#3,Attorney General,,Democratic,Jon Harper,23
+Rich,#3,Attorney General,,Independent American,Michael Isbell,9
+Rich,#3,Attorney General,,Libertarian,W. Andrew McCullough,4
+Rich,#3,Attorney General,,Republican,Sean Reyes,246
+Rich,#3,Governor,,,Write-In,0
+Rich,#3,Governor,,Democratic,Mike Weinholtz,24
+Rich,#3,Governor,,Independent American,Dell Schanze,3
+Rich,#3,Governor,,Libertarian,Brian Kamerath,4
+Rich,#3,Governor,,Republican,Gary Herbert,255
+Rich,#3,President,,,Rocky De La Fuente,0
+Rich,#3,President,,,Alyson Kennedy,0
+Rich,#3,President,,,Evan McMullin,36
+Rich,#3,President,,,Monica Moorehead,0
+Rich,#3,President,,,Jill Stein,0
+Rich,#3,President,,,Write-In,0
+Rich,#3,President,,Constitution,Darrell Castle,4
+Rich,#3,President,,Democratic,Hillary Clinton,23
+Rich,#3,President,,Independent American,Giordani/Anderson,0
+Rich,#3,President,,Libertarian,Gary Johnson,0
+Rich,#3,President,,Republican,Donald Trump,222
+Rich,#3,State Auditor,,Democratic,Mike Mitchell,42
+Rich,#3,State Auditor,,Independent American,Jared Green,8
+Rich,#3,State Auditor,,Republican,John Dougall,230
+Rich,#3,State House,53,Democratic,Cole Capener,18
+Rich,#3,State House,53,Republican,Logan Wilde,254
+Rich,#3,State Senate,25,Republican,Lyle Hillyard,252
+Rich,#3,State Treasurer,,Constitution,Richard Proctor,14
+Rich,#3,State Treasurer,,Democratic,Neil Hansen,30
+Rich,#3,State Treasurer,,Republican,David Damschen,234
+Rich,#3,U.S. House,1,,Chadwick Fairbanks,5
+Rich,#3,U.S. House,1,Democratic,Peter Clemens,24
+Rich,#3,U.S. House,1,Libertarian,Craig Bowden,4
+Rich,#3,U.S. House,1,Republican,Rob Bishop,249
+Rich,#3,U.S. Senate,,,Bill Barron,4
+Rich,#3,U.S. Senate,,Democratic,Misty Snow,15
+Rich,#3,U.S. Senate,,Independent American,Stoney Fonua,2
+Rich,#3,U.S. Senate,,Republican,Mike Lee,262
+Rich,#4,Attorney General,,Democratic,Jon Harper,31
+Rich,#4,Attorney General,,Independent American,Michael Isbell,3
+Rich,#4,Attorney General,,Libertarian,W. Andrew McCullough,10
+Rich,#4,Attorney General,,Republican,Sean Reyes,149
+Rich,#4,Governor,,,Write-In,1
+Rich,#4,Governor,,Democratic,Mike Weinholtz,28
+Rich,#4,Governor,,Independent American,Dell Schanze,5
+Rich,#4,Governor,,Libertarian,Brian Kamerath,7
+Rich,#4,Governor,,Republican,Gary Herbert,158
+Rich,#4,President,,,Rocky De La Fuente,0
+Rich,#4,President,,,Alyson Kennedy,0
+Rich,#4,President,,,Evan McMullin,40
+Rich,#4,President,,,Monica Moorehead,0
+Rich,#4,President,,,Jill Stein,1
+Rich,#4,President,,,Write-In,2
+Rich,#4,President,,Constitution,Darrell Castle,2
+Rich,#4,President,,Democratic,Hillary Clinton,22
+Rich,#4,President,,Independent American,Giordani/Anderson,0
+Rich,#4,President,,Libertarian,Gary Johnson,11
+Rich,#4,President,,Republican,Donald Trump,119
+Rich,#4,State Auditor,,Democratic,Mike Mitchell,33
+Rich,#4,State Auditor,,Independent American,Jared Green,8
+Rich,#4,State Auditor,,Republican,John Dougall,148
+Rich,#4,State House,53,Democratic,Cole Capener,36
+Rich,#4,State House,53,Republican,Logan Wilde,156
+Rich,#4,State Senate,25,Republican,Lyle Hillyard,173
+Rich,#4,State Treasurer,,Constitution,Richard Proctor,10
+Rich,#4,State Treasurer,,Democratic,Neil Hansen,42
+Rich,#4,State Treasurer,,Republican,David Damschen,138
+Rich,#4,U.S. House,1,,Chadwick Fairbanks,4
+Rich,#4,U.S. House,1,Democratic,Peter Clemens,29
+Rich,#4,U.S. House,1,Libertarian,Craig Bowden,13
+Rich,#4,U.S. House,1,Republican,Rob Bishop,148
+Rich,#4,U.S. Senate,,,Bill Barron,3
+Rich,#4,U.S. Senate,,Democratic,Misty Snow,26
+Rich,#4,U.S. Senate,,Independent American,Stoney Fonua,1
+Rich,#4,U.S. Senate,,Republican,Mike Lee,163
+Rich,#5,Attorney General,,Democratic,Jon Harper,29
+Rich,#5,Attorney General,,Independent American,Michael Isbell,9
+Rich,#5,Attorney General,,Libertarian,W. Andrew McCullough,8
+Rich,#5,Attorney General,,Republican,Sean Reyes,135
+Rich,#5,Governor,,,Write-In,1
+Rich,#5,Governor,,Democratic,Mike Weinholtz,33
+Rich,#5,Governor,,Independent American,Dell Schanze,10
+Rich,#5,Governor,,Libertarian,Brian Kamerath,4
+Rich,#5,Governor,,Republican,Gary Herbert,142
+Rich,#5,President,,,Rocky De La Fuente,2
+Rich,#5,President,,,Alyson Kennedy,0
+Rich,#5,President,,,Evan McMullin,45
+Rich,#5,President,,,Monica Moorehead,0
+Rich,#5,President,,,Jill Stein,0
+Rich,#5,President,,,Write-In,3
+Rich,#5,President,,Constitution,Darrell Castle,1
+Rich,#5,President,,Democratic,Hillary Clinton,25
+Rich,#5,President,,Independent American,Giordani/Anderson,0
+Rich,#5,President,,Libertarian,Gary Johnson,4
+Rich,#5,President,,Republican,Donald Trump,109
+Rich,#5,State Auditor,,Democratic,Mike Mitchell,39
+Rich,#5,State Auditor,,Independent American,Jared Green,12
+Rich,#5,State Auditor,,Republican,John Dougall,129
+Rich,#5,State House,53,Democratic,Cole Capener,44
+Rich,#5,State House,53,Republican,Logan Wilde,137
+Rich,#5,State Senate,25,Republican,Lyle Hillyard,161
+Rich,#5,State Treasurer,,Constitution,Richard Proctor,11
+Rich,#5,State Treasurer,,Democratic,Neil Hansen,37
+Rich,#5,State Treasurer,,Republican,David Damschen,130
+Rich,#5,U.S. House,1,,Chadwick Fairbanks,1
+Rich,#5,U.S. House,1,Democratic,Peter Clemens,32
+Rich,#5,U.S. House,1,Libertarian,Craig Bowden,8
+Rich,#5,U.S. House,1,Republican,Rob Bishop,148
+Rich,#5,U.S. Senate,,,Bill Barron,3
+Rich,#5,U.S. Senate,,Democratic,Misty Snow,34
+Rich,#5,U.S. Senate,,Independent American,Stoney Fonua,5
+Rich,#5,U.S. Senate,,Republican,Mike Lee,146
