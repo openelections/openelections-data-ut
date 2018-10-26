@@ -1,0 +1,313 @@
+county,precinct,office,district,party,candidate,votes
+Tooele,DUG-01,Registered Voters,,,,37
+Tooele,DUG-02,Registered Voters,,,,20
+Tooele,ERD-01:1-01:2,Registered Voters,,,,468
+Tooele,ERD-02:1-02:2,Registered Voters,,,,168
+Tooele,ERD-02:3,Registered Voters,,,,162
+Tooele,ERD-02:4,Registered Voters,,,,18
+Tooele,G-01:1,Registered Voters,,,,387
+Tooele,G-01:2-01:3,Registered Voters,,,,115
+Tooele,G-02:1-02:2,Registered Voters,,,,425
+Tooele,G-03:1-03:2,Registered Voters,,,,602
+Tooele,G-04:1-04:2,Registered Voters,,,,408
+Tooele,G-05,Registered Voters,,,,421
+Tooele,G-06,Registered Voters,,,,410
+Tooele,IBA,Registered Voters,,,,17
+Tooele,LINC:1,Registered Voters,,,,164
+Tooele,LP-01:1,Registered Voters,,,,182
+Tooele,LP-02:1,Registered Voters,,,,137
+Tooele,OPHIR,Registered Voters,,,,11
+Tooele,RB-01:1-01:2,Registered Voters,,,,129
+Tooele,SP-01,Registered Voters,,,,453
+Tooele,SP-02,Registered Voters,,,,397
+Tooele,SP-03,Registered Voters,,,,442
+Tooele,SP-04,Registered Voters,,,,259
+Tooele,SP-05,Registered Voters,,,,305
+Tooele,SP-06,Registered Voters,,,,195
+Tooele,SP-07,Registered Voters,,,,277
+Tooele,STK-01:1-01:2,Registered Voters,,,,115
+Tooele,STK-02:1-02:2,Registered Voters,,,,250
+Tooele,T-01,Registered Voters,,,,253
+Tooele,T-02,Registered Voters,,,,176
+Tooele,T-03:1-03:2,Registered Voters,,,,231
+Tooele,T-04:1-04:2,Registered Voters,,,,343
+Tooele,T-05,Registered Voters,,,,136
+Tooele,T-06,Registered Voters,,,,171
+Tooele,T-07,Registered Voters,,,,162
+Tooele,T-08,Registered Voters,,,,202
+Tooele,T-09,Registered Voters,,,,338
+Tooele,T-10,Registered Voters,,,,31
+Tooele,T-11,Registered Voters,,,,197
+Tooele,T-12,Registered Voters,,,,262
+Tooele,T-13,Registered Voters,,,,200
+Tooele,T-14,Registered Voters,,,,289
+Tooele,T-15,Registered Voters,,,,389
+Tooele,T-16,Registered Voters,,,,264
+Tooele,T-17,Registered Voters,,,,371
+Tooele,T-18,Registered Voters,,,,240
+Tooele,T-19,Registered Voters,,,,265
+Tooele,T-20,Registered Voters,,,,301
+Tooele,T-21,Registered Voters,,,,342
+Tooele,TERRA,Registered Voters,,,,32
+Tooele,VERN-01:1-01:2,Registered Voters,,,,102
+Tooele,WEND,Registered Voters,,,,52
+Tooele,DUG-01,Ballots Cast,,,,20
+Tooele,DUG-02,Ballots Cast,,,,5
+Tooele,ERD-01:1-01:2,Ballots Cast,,,,249
+Tooele,ERD-02:1-02:2,Ballots Cast,,,,97
+Tooele,ERD-02:3,Ballots Cast,,,,84
+Tooele,ERD-02:4,Ballots Cast,,,,12
+Tooele,G-01:1,Ballots Cast,,,,187
+Tooele,G-01:2-01:3,Ballots Cast,,,,63
+Tooele,G-02:1-02:2,Ballots Cast,,,,210
+Tooele,G-03:1-03:2,Ballots Cast,,,,248
+Tooele,G-04:1-04:2,Ballots Cast,,,,189
+Tooele,G-05,Ballots Cast,,,,235
+Tooele,G-06,Ballots Cast,,,,166
+Tooele,IBA,Ballots Cast,,,,9
+Tooele,LINC:1,Ballots Cast,,,,98
+Tooele,LP-01:1,Ballots Cast,,,,82
+Tooele,LP-02:1,Ballots Cast,,,,79
+Tooele,OPHIR,Ballots Cast,,,,11
+Tooele,RB-01:1-01:2,Ballots Cast,,,,76
+Tooele,SP-01,Ballots Cast,,,,207
+Tooele,SP-02,Ballots Cast,,,,241
+Tooele,SP-03,Ballots Cast,,,,211
+Tooele,SP-04,Ballots Cast,,,,103
+Tooele,SP-05,Ballots Cast,,,,195
+Tooele,SP-06,Ballots Cast,,,,103
+Tooele,SP-07,Ballots Cast,,,,105
+Tooele,STK-01:1-01:2,Ballots Cast,,,,78
+Tooele,STK-02:1-02:2,Ballots Cast,,,,161
+Tooele,T-01,Ballots Cast,,,,177
+Tooele,T-02,Ballots Cast,,,,108
+Tooele,T-03:1-03:2,Ballots Cast,,,,152
+Tooele,T-04:1-04:2,Ballots Cast,,,,232
+Tooele,T-05,Ballots Cast,,,,72
+Tooele,T-06,Ballots Cast,,,,89
+Tooele,T-07,Ballots Cast,,,,87
+Tooele,T-08,Ballots Cast,,,,83
+Tooele,T-09,Ballots Cast,,,,159
+Tooele,T-10,Ballots Cast,,,,169
+Tooele,T-11,Ballots Cast,,,,95
+Tooele,T-12,Ballots Cast,,,,141
+Tooele,T-13,Ballots Cast,,,,83
+Tooele,T-14,Ballots Cast,,,,126
+Tooele,T-15,Ballots Cast,,,,156
+Tooele,T-16,Ballots Cast,,,,122
+Tooele,T-17,Ballots Cast,,,,183
+Tooele,T-18,Ballots Cast,,,,113
+Tooele,T-19,Ballots Cast,,,,154
+Tooele,T-20,Ballots Cast,,,,160
+Tooele,T-21,Ballots Cast,,,,166
+Tooele,TERRA,Ballots Cast,,,,2
+Tooele,VERN-01:1-01:2,Ballots Cast,,,,66
+Tooele,WEND,Ballots Cast,,,,22
+Tooele,DUG-01,U.S. Senate,,REP,Mitt Romney,11
+Tooele,DUG-02,U.S. Senate,,REP,Mitt Romney,4
+Tooele,ERD-01:1-01:2,U.S. Senate,,REP,Mitt Romney,168
+Tooele,ERD-02:1-02:2,U.S. Senate,,REP,Mitt Romney,70
+Tooele,ERD-02:3,U.S. Senate,,REP,Mitt Romney,53
+Tooele,ERD-02:4,U.S. Senate,,REP,Mitt Romney,8
+Tooele,G-01:1,U.S. Senate,,REP,Mitt Romney,129
+Tooele,G-01:2-01:3,U.S. Senate,,REP,Mitt Romney,35
+Tooele,G-02:1-02:2,U.S. Senate,,REP,Mitt Romney,140
+Tooele,G-03:1-03:2,U.S. Senate,,REP,Mitt Romney,153
+Tooele,G-04:1-04:2,U.S. Senate,,REP,Mitt Romney,118
+Tooele,G-05,U.S. Senate,,REP,Mitt Romney,162
+Tooele,G-06,U.S. Senate,,REP,Mitt Romney,124
+Tooele,IBA,U.S. Senate,,REP,Mitt Romney,6
+Tooele,LINC:1,U.S. Senate,,REP,Mitt Romney,69
+Tooele,LP-01:1,U.S. Senate,,REP,Mitt Romney,43
+Tooele,LP-02:1,U.S. Senate,,REP,Mitt Romney,49
+Tooele,OPHIR,U.S. Senate,,REP,Mitt Romney,2
+Tooele,RB-01:1-01:2,U.S. Senate,,REP,Mitt Romney,45
+Tooele,SP-01,U.S. Senate,,REP,Mitt Romney,153
+Tooele,SP-02,U.S. Senate,,REP,Mitt Romney,178
+Tooele,SP-03,U.S. Senate,,REP,Mitt Romney,145
+Tooele,SP-04,U.S. Senate,,REP,Mitt Romney,69
+Tooele,SP-05,U.S. Senate,,REP,Mitt Romney,124
+Tooele,SP-06,U.S. Senate,,REP,Mitt Romney,79
+Tooele,SP-07,U.S. Senate,,REP,Mitt Romney,73
+Tooele,STK-01:1-01:2,U.S. Senate,,REP,Mitt Romney,55
+Tooele,STK-02:1-02:2,U.S. Senate,,REP,Mitt Romney,95
+Tooele,T-01,U.S. Senate,,REP,Mitt Romney,108
+Tooele,T-02,U.S. Senate,,REP,Mitt Romney,81
+Tooele,T-03:1-03:2,U.S. Senate,,REP,Mitt Romney,110
+Tooele,T-04:1-04:2,U.S. Senate,,REP,Mitt Romney,159
+Tooele,T-05,U.S. Senate,,REP,Mitt Romney,44
+Tooele,T-06,U.S. Senate,,REP,Mitt Romney,65
+Tooele,T-07,U.S. Senate,,REP,Mitt Romney,57
+Tooele,T-08,U.S. Senate,,REP,Mitt Romney,55
+Tooele,T-09,U.S. Senate,,REP,Mitt Romney,112
+Tooele,T-10,U.S. Senate,,REP,Mitt Romney,115
+Tooele,T-11,U.S. Senate,,REP,Mitt Romney,76
+Tooele,T-12,U.S. Senate,,REP,Mitt Romney,88
+Tooele,T-13,U.S. Senate,,REP,Mitt Romney,46
+Tooele,T-14,U.S. Senate,,REP,Mitt Romney,79
+Tooele,T-15,U.S. Senate,,REP,Mitt Romney,11
+Tooele,T-16,U.S. Senate,,REP,Mitt Romney,89
+Tooele,T-17,U.S. Senate,,REP,Mitt Romney,112
+Tooele,T-18,U.S. Senate,,REP,Mitt Romney,77
+Tooele,T-19,U.S. Senate,,REP,Mitt Romney,115
+Tooele,T-20,U.S. Senate,,REP,Mitt Romney,111
+Tooele,T-21,U.S. Senate,,REP,Mitt Romney,102
+Tooele,TERRA,U.S. Senate,,REP,Mitt Romney,14
+Tooele,VERN-01:1-01:2,U.S. Senate,,REP,Mitt Romney,43
+Tooele,WEND,U.S. Senate,,REP,Mitt Romney,13
+Tooele,DUG-01,U.S. Senate,,REP,Mike Kennedy,9
+Tooele,DUG-02,U.S. Senate,,REP,Mike Kennedy,1
+Tooele,ERD-01:1-01:2,U.S. Senate,,REP,Mike Kennedy,79
+Tooele,ERD-02:1-02:2,U.S. Senate,,REP,Mike Kennedy,26
+Tooele,ERD-02:3,U.S. Senate,,REP,Mike Kennedy,31
+Tooele,ERD-02:4,U.S. Senate,,REP,Mike Kennedy,4
+Tooele,G-01:1,U.S. Senate,,REP,Mike Kennedy,58
+Tooele,G-01:2-01:3,U.S. Senate,,REP,Mike Kennedy,28
+Tooele,G-02:1-02:2,U.S. Senate,,REP,Mike Kennedy,69
+Tooele,G-03:1-03:2,U.S. Senate,,REP,Mike Kennedy,92
+Tooele,G-04:1-04:2,U.S. Senate,,REP,Mike Kennedy,69
+Tooele,G-05,U.S. Senate,,REP,Mike Kennedy,69
+Tooele,G-06,U.S. Senate,,REP,Mike Kennedy,42
+Tooele,IBA,U.S. Senate,,REP,Mike Kennedy,3
+Tooele,LINC:1,U.S. Senate,,REP,Mike Kennedy,28
+Tooele,LP-01:1,U.S. Senate,,REP,Mike Kennedy,39
+Tooele,LP-02:1,U.S. Senate,,REP,Mike Kennedy,30
+Tooele,OPHIR,U.S. Senate,,REP,Mike Kennedy,8
+Tooele,RB-01:1-01:2,U.S. Senate,,REP,Mike Kennedy,31
+Tooele,SP-01,U.S. Senate,,REP,Mike Kennedy,54
+Tooele,SP-02,U.S. Senate,,REP,Mike Kennedy,61
+Tooele,SP-03,U.S. Senate,,REP,Mike Kennedy,65
+Tooele,SP-04,U.S. Senate,,REP,Mike Kennedy,33
+Tooele,SP-05,U.S. Senate,,REP,Mike Kennedy,70
+Tooele,SP-06,U.S. Senate,,REP,Mike Kennedy,23
+Tooele,SP-07,U.S. Senate,,REP,Mike Kennedy,30
+Tooele,STK-01:1-01:2,U.S. Senate,,REP,Mike Kennedy,23
+Tooele,STK-02:1-02:2,U.S. Senate,,REP,Mike Kennedy,63
+Tooele,T-01,U.S. Senate,,REP,Mike Kennedy,68
+Tooele,T-02,U.S. Senate,,REP,Mike Kennedy,26
+Tooele,T-03:1-03:2,U.S. Senate,,REP,Mike Kennedy,39
+Tooele,T-04:1-04:2,U.S. Senate,,REP,Mike Kennedy,73
+Tooele,T-05,U.S. Senate,,REP,Mike Kennedy,28
+Tooele,T-06,U.S. Senate,,REP,Mike Kennedy,23
+Tooele,T-07,U.S. Senate,,REP,Mike Kennedy,30
+Tooele,T-08,U.S. Senate,,REP,Mike Kennedy,27
+Tooele,T-09,U.S. Senate,,REP,Mike Kennedy,47
+Tooele,T-10,U.S. Senate,,REP,Mike Kennedy,53
+Tooele,T-11,U.S. Senate,,REP,Mike Kennedy,19
+Tooele,T-12,U.S. Senate,,REP,Mike Kennedy,53
+Tooele,T-13,U.S. Senate,,REP,Mike Kennedy,37
+Tooele,T-14,U.S. Senate,,REP,Mike Kennedy,46
+Tooele,T-15,U.S. Senate,,REP,Mike Kennedy,55
+Tooele,T-16,U.S. Senate,,REP,Mike Kennedy,33
+Tooele,T-17,U.S. Senate,,REP,Mike Kennedy,68
+Tooele,T-18,U.S. Senate,,REP,Mike Kennedy,36
+Tooele,T-19,U.S. Senate,,REP,Mike Kennedy,39
+Tooele,T-20,U.S. Senate,,REP,Mike Kennedy,48
+Tooele,T-21,U.S. Senate,,REP,Mike Kennedy,64
+Tooele,TERRA,U.S. Senate,,REP,Mike Kennedy,8
+Tooele,VERN-01:1-01:2,U.S. Senate,,REP,Mike Kennedy,23
+Tooele,WEND,U.S. Senate,,REP,Mike Kennedy,9
+Tooele,DUG-01,State Senate,17,REP,Scott Sandall,7
+Tooele,DUG-02,State Senate,17,REP,Scott Sandall,2
+Tooele,ERD-01:1-01:2,State Senate,17,REP,Scott Sandall,132
+Tooele,ERD-02:1-02:2,State Senate,17,REP,Scott Sandall,0
+Tooele,ERD-02:3,State Senate,17,REP,Scott Sandall,32
+Tooele,ERD-02:4,State Senate,17,REP,Scott Sandall,9
+Tooele,G-01:1,State Senate,17,REP,Scott Sandall,95
+Tooele,G-01:2-01:3,State Senate,17,REP,Scott Sandall,37
+Tooele,G-02:1-02:2,State Senate,17,REP,Scott Sandall,75
+Tooele,G-03:1-03:2,State Senate,17,REP,Scott Sandall,116
+Tooele,G-04:1-04:2,State Senate,17,REP,Scott Sandall,91
+Tooele,G-05,State Senate,17,REP,Scott Sandall,116
+Tooele,G-06,State Senate,17,REP,Scott Sandall,64
+Tooele,IBA,State Senate,17,REP,Scott Sandall,5
+Tooele,LINC:1,State Senate,17,REP,Scott Sandall,0
+Tooele,LP-01:1,State Senate,17,REP,Scott Sandall,27
+Tooele,LP-02:1,State Senate,17,REP,Scott Sandall,32
+Tooele,OPHIR,State Senate,17,REP,Scott Sandall,7
+Tooele,RB-01:1-01:2,State Senate,17,REP,Scott Sandall,46
+Tooele,SP-01,State Senate,17,REP,Scott Sandall,74
+Tooele,SP-02,State Senate,17,REP,Scott Sandall,73
+Tooele,SP-03,State Senate,17,REP,Scott Sandall,84
+Tooele,SP-04,State Senate,17,REP,Scott Sandall,56
+Tooele,SP-05,State Senate,17,REP,Scott Sandall,76
+Tooele,SP-06,State Senate,17,REP,Scott Sandall,44
+Tooele,SP-07,State Senate,17,REP,Scott Sandall,58
+Tooele,STK-01:1-01:2,State Senate,17,REP,Scott Sandall,35
+Tooele,STK-02:1-02:2,State Senate,17,REP,Scott Sandall,90
+Tooele,T-01,State Senate,17,REP,Scott Sandall,0
+Tooele,T-02,State Senate,17,REP,Scott Sandall,0
+Tooele,T-03:1-03:2,State Senate,17,REP,Scott Sandall,0
+Tooele,T-04:1-04:2,State Senate,17,REP,Scott Sandall,0
+Tooele,T-05,State Senate,17,REP,Scott Sandall,0
+Tooele,T-06,State Senate,17,REP,Scott Sandall,0
+Tooele,T-07,State Senate,17,REP,Scott Sandall,0
+Tooele,T-08,State Senate,17,REP,Scott Sandall,0
+Tooele,T-09,State Senate,17,REP,Scott Sandall,0
+Tooele,T-10,State Senate,17,REP,Scott Sandall,0
+Tooele,T-11,State Senate,17,REP,Scott Sandall,0
+Tooele,T-12,State Senate,17,REP,Scott Sandall,0
+Tooele,T-13,State Senate,17,REP,Scott Sandall,0
+Tooele,T-14,State Senate,17,REP,Scott Sandall,0
+Tooele,T-15,State Senate,17,REP,Scott Sandall,0
+Tooele,T-16,State Senate,17,REP,Scott Sandall,0
+Tooele,T-17,State Senate,17,REP,Scott Sandall,0
+Tooele,T-18,State Senate,17,REP,Scott Sandall,0
+Tooele,T-19,State Senate,17,REP,Scott Sandall,0
+Tooele,T-20,State Senate,17,REP,Scott Sandall,0
+Tooele,T-21,State Senate,17,REP,Scott Sandall,0
+Tooele,TERRA,State Senate,17,REP,Scott Sandall,13
+Tooele,VERN-01:1-01:2,State Senate,17,REP,Scott Sandall,38
+Tooele,WEND,State Senate,17,REP,Scott Sandall,12
+Tooele,DUG-01,State Senate,17,REP,Clark N. Davis,13
+Tooele,DUG-02,State Senate,17,REP,Clark N. Davis,1
+Tooele,ERD-01:1-01:2,State Senate,17,REP,Clark N. Davis,89
+Tooele,ERD-02:1-02:2,State Senate,17,REP,Clark N. Davis,0
+Tooele,ERD-02:3,State Senate,17,REP,Clark N. Davis,48
+Tooele,ERD-02:4,State Senate,17,REP,Clark N. Davis,3
+Tooele,G-01:1,State Senate,17,REP,Clark N. Davis,79
+Tooele,G-01:2-01:3,State Senate,17,REP,Clark N. Davis,22
+Tooele,G-02:1-02:2,State Senate,17,REP,Clark N. Davis,118
+Tooele,G-03:1-03:2,State Senate,17,REP,Clark N. Davis,120
+Tooele,G-04:1-04:2,State Senate,17,REP,Clark N. Davis,79
+Tooele,G-05,State Senate,17,REP,Clark N. Davis,101
+Tooele,G-06,State Senate,17,REP,Clark N. Davis,84
+Tooele,IBA,State Senate,17,REP,Clark N. Davis,3
+Tooele,LINC:1,State Senate,17,REP,Clark N. Davis,0
+Tooele,LP-01:1,State Senate,17,REP,Clark N. Davis,47
+Tooele,LP-02:1,State Senate,17,REP,Clark N. Davis,35
+Tooele,OPHIR,State Senate,17,REP,Clark N. Davis,2
+Tooele,RB-01:1-01:2,State Senate,17,REP,Clark N. Davis,27
+Tooele,SP-01,State Senate,17,REP,Clark N. Davis,105
+Tooele,SP-02,State Senate,17,REP,Clark N. Davis,148
+Tooele,SP-03,State Senate,17,REP,Clark N. Davis,113
+Tooele,SP-04,State Senate,17,REP,Clark N. Davis,41
+Tooele,SP-05,State Senate,17,REP,Clark N. Davis,92
+Tooele,SP-06,State Senate,17,REP,Clark N. Davis,48
+Tooele,SP-07,State Senate,17,REP,Clark N. Davis,39
+Tooele,STK-01:1-01:2,State Senate,17,REP,Clark N. Davis,39
+Tooele,STK-02:1-02:2,State Senate,17,REP,Clark N. Davis,59
+Tooele,T-01,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-02,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-03:1-03:2,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-04:1-04:2,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-05,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-06,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-07,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-08,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-09,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-10,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-11,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-12,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-13,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-14,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-15,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-16,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-17,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-18,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-19,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-20,State Senate,17,REP,Clark N. Davis,0
+Tooele,T-21,State Senate,17,REP,Clark N. Davis,0
+Tooele,TERRA,State Senate,17,REP,Clark N. Davis,9
+Tooele,VERN-01:1-01:2,State Senate,17,REP,Clark N. Davis,26
+Tooele,WEND,State Senate,17,REP,Clark N. Davis,9
