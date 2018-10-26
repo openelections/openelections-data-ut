@@ -1,0 +1,37 @@
+county,precinct,office,district,party,candidate,election_day,early_voting,provisional,votes
+Beaver,Beaver 1,Registered Voters,,,,,,,494
+Beaver,Beaver 2,Registered Voters,,,,,,,338
+Beaver,Beaver 3,Registered Voters,,,,,,,292
+Beaver,Beaver 4,Registered Voters,,,,,,,112
+Beaver,Greenville,Registered Voters,,,,,,,60
+Beaver,Milford 1,Registered Voters,,,,,,,45
+Beaver,Milford 2,Registered Voters,,,,,,,235
+Beaver,Milford 3,Registered Voters,,,,,,,74
+Beaver,Minersville,Registered Voters,,,,,,,327
+Beaver,Beaver 1,Ballots Cast,,,,63,245,2,310
+Beaver,Beaver 2,Ballots Cast,,,,53,170,,223
+Beaver,Beaver 3,Ballots Cast,,,,37,156,2,195
+Beaver,Beaver 4,Ballots Cast,,,,16,63,,79
+Beaver,Greenville,Ballots Cast,,,,7,21,,28
+Beaver,Milford 1,Ballots Cast,,,,12,27,,39
+Beaver,Milford 2,Ballots Cast,,,,52,119,2,173
+Beaver,Milford 3,Ballots Cast,,,,24,39,1,64
+Beaver,Minersville,Ballots Cast,,,,82,160,,242
+Beaver,Beaver 1,U.S. Senate,,REP,Mitt Romney,34,169,2,205
+Beaver,Beaver 2,U.S. Senate,,REP,Mitt Romney,36,123,0,159
+Beaver,Beaver 3,U.S. Senate,,REP,Mitt Romney,26,102,1,129
+Beaver,Beaver 4,U.S. Senate,,REP,Mitt Romney,5,36,0,41
+Beaver,Greenville,U.S. Senate,,REP,Mitt Romney,3,11,0,14
+Beaver,Milford 1,U.S. Senate,,REP,Mitt Romney,5,7,0,12
+Beaver,Milford 2,U.S. Senate,,REP,Mitt Romney,29,52,1,82
+Beaver,Milford 3,U.S. Senate,,REP,Mitt Romney,21,26,1,48
+Beaver,Minersville,U.S. Senate,,REP,Mitt Romney,47,109,0,156
+Beaver,Beaver 1,U.S. Senate,,REP,Mike Kennedy,29,75,0,104
+Beaver,Beaver 2,U.S. Senate,,REP,Mike Kennedy,17,47,0,64
+Beaver,Beaver 3,U.S. Senate,,REP,Mike Kennedy,11,52,1,64
+Beaver,Beaver 4,U.S. Senate,,REP,Mike Kennedy,11,25,0,36
+Beaver,Greenville,U.S. Senate,,REP,Mike Kennedy,4,10,0,14
+Beaver,Milford 1,U.S. Senate,,REP,Mike Kennedy,7,18,0,25
+Beaver,Milford 2,U.S. Senate,,REP,Mike Kennedy,23,65,0,88
+Beaver,Milford 3,U.S. Senate,,REP,Mike Kennedy,3,11,0,14
+Beaver,Minersville,U.S. Senate,,REP,Mike Kennedy,34,50,0,84
