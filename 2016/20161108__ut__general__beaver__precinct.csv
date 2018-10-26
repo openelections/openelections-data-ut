@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes
-Beaver,Beaver 1,President,,,"""Rocky"" Roque De La Fuente",0
-Beaver,Beaver 2,President,,,"""Rocky"" Roque De La Fuente",0
-Beaver,Beaver 3,President,,,"""Rocky"" Roque De La Fuente",0
-Beaver,Beaver 4,President,,,"""Rocky"" Roque De La Fuente",0
-Beaver,Greenville,President,,,"""Rocky"" Roque De La Fuente",0
-Beaver,Milford 1,President,,,"""Rocky"" Roque De La Fuente",0
-Beaver,Milford 2,President,,,"""Rocky"" Roque De La Fuente",0
-Beaver,Milford 3,President,,,"""Rocky"" Roque De La Fuente",0
-Beaver,Minersville,President,,,"""Rocky"" Roque De La Fuente",0
+Beaver,Beaver 1,President,,,Rocky De La Fuente,0
+Beaver,Beaver 2,President,,,Rocky De La Fuente,0
+Beaver,Beaver 3,President,,,Rocky De La Fuente,0
+Beaver,Beaver 4,President,,,Rocky De La Fuente,0
+Beaver,Greenville,President,,,Rocky De La Fuente,0
+Beaver,Milford 1,President,,,Rocky De La Fuente,0
+Beaver,Milford 2,President,,,Rocky De La Fuente,0
+Beaver,Milford 3,President,,,Rocky De La Fuente,0
+Beaver,Minersville,President,,,Rocky De La Fuente,0
 Beaver,Beaver 1,President,,Green,Jill Stein,1
 Beaver,Beaver 2,President,,Green,Jill Stein,4
 Beaver,Beaver 3,President,,Green,Jill Stein,0
@@ -44,25 +44,25 @@ Beaver,Milford 1,President,,Independent,Rocky Giordani,0
 Beaver,Milford 2,President,,Independent,Rocky Giordani,2
 Beaver,Milford 3,President,,Independent,Rocky Giordani,0
 Beaver,Minersville,President,,Independent,Rocky Giordani,0
-Beaver,Beaver 1,President,,Republican,Donald J. Trump,469
-Beaver,Beaver 2,President,,Republican,Donald J. Trump,334
-Beaver,Beaver 3,President,,Republican,Donald J. Trump,268
-Beaver,Beaver 4,President,,Republican,Donald J. Trump,101
-Beaver,Greenville,President,,Republican,Donald J. Trump,76
-Beaver,Milford 1,President,,Republican,Donald J. Trump,42
-Beaver,Milford 2,President,,Republican,Donald J. Trump,215
-Beaver,Milford 3,President,,Republican,Donald J. Trump,66
-Beaver,Minersville,President,,Republican,Donald J. Trump,267
-Beaver,Beaver 1,President,,Constitution,Darrell L. Castle,2
-Beaver,Beaver 2,President,,Constitution,Darrell L. Castle,2
-Beaver,Beaver 3,President,,Constitution,Darrell L. Castle,0
-Beaver,Beaver 4,President,,Constitution,Darrell L. Castle,0
-Beaver,Greenville,President,,Constitution,Darrell L. Castle,0
-Beaver,Milford 1,President,,Constitution,Darrell L. Castle,0
-Beaver,Milford 2,President,,Constitution,Darrell L. Castle,2
-Beaver,Milford 3,President,,Constitution,Darrell L. Castle,0
-Beaver,Minersville,President,,Constitution,Darrell L. Castle,6
-Beaver,Beaver 1,President,,Democratic,Hillary Rodham Clinton,46
+Beaver,Beaver 1,President,,Republican,Donald Trump,469
+Beaver,Beaver 2,President,,Republican,Donald Trump,334
+Beaver,Beaver 3,President,,Republican,Donald Trump,268
+Beaver,Beaver 4,President,,Republican,Donald Trump,101
+Beaver,Greenville,President,,Republican,Donald Trump,76
+Beaver,Milford 1,President,,Republican,Donald Trump,42
+Beaver,Milford 2,President,,Republican,Donald Trump,215
+Beaver,Milford 3,President,,Republican,Donald Trump,66
+Beaver,Minersville,President,,Republican,Donald Trump,267
+Beaver,Beaver 1,President,,Constitution,Darrell Castle,2
+Beaver,Beaver 2,President,,Constitution,Darrell Castle,2
+Beaver,Beaver 3,President,,Constitution,Darrell Castle,0
+Beaver,Beaver 4,President,,Constitution,Darrell Castle,0
+Beaver,Greenville,President,,Constitution,Darrell Castle,0
+Beaver,Milford 1,President,,Constitution,Darrell Castle,0
+Beaver,Milford 2,President,,Constitution,Darrell Castle,2
+Beaver,Milford 3,President,,Constitution,Darrell Castle,0
+Beaver,Minersville,President,,Constitution,Darrell Castle,6
+Beaver,Beaver 1,President,,Democratic,Hillary Clinton,46
 Beaver,Beaver 2,President,,Democratic,Hillary Clinton,38
 Beaver,Beaver 3,President,,Democratic,Hillary Clinton,22
 Beaver,Beaver 4,President,,Democratic,Hillary Clinton,10
@@ -89,24 +89,24 @@ Beaver,Milford 1,President,,Independent,Evan McMullin,1
 Beaver,Milford 2,President,,Independent,Evan McMullin,45
 Beaver,Milford 3,President,,Independent,Evan McMullin,12
 Beaver,Minersville,President,,Independent,Evan McMullin,32
-Beaver,Beaver 1,President,,,Write-in,3
-Beaver,Beaver 2,President,,,Write-in,4
-Beaver,Beaver 3,President,,,Write-in,2
-Beaver,Beaver 4,President,,,Write-in,0
-Beaver,Greenville,President,,,Write-in,0
-Beaver,Milford 1,President,,,Write-in,0
-Beaver,Milford 2,President,,,Write-in,3
-Beaver,Milford 3,President,,,Write-in,0
-Beaver,Minersville,President,,,Write-in,2
-Beaver,Beaver 1,U.S. Senate,,Democratic,Misty K. Snow,48
-Beaver,Beaver 2,U.S. Senate,,Democratic,Misty K. Snow,48
-Beaver,Beaver 3,U.S. Senate,,Democratic,Misty K. Snow,30
-Beaver,Beaver 4,U.S. Senate,,Democratic,Misty K. Snow,7
-Beaver,Greenville,U.S. Senate,,Democratic,Misty K. Snow,13
-Beaver,Milford 1,U.S. Senate,,Democratic,Misty K. Snow,23
-Beaver,Milford 2,U.S. Senate,,Democratic,Misty K. Snow,107
-Beaver,Milford 3,U.S. Senate,,Democratic,Misty K. Snow,14
-Beaver,Minersville,U.S. Senate,,Democratic,Misty K. Snow,5
+Beaver,Beaver 1,President,,,Write-In,3
+Beaver,Beaver 2,President,,,Write-In,4
+Beaver,Beaver 3,President,,,Write-In,2
+Beaver,Beaver 4,President,,,Write-In,0
+Beaver,Greenville,President,,,Write-In,0
+Beaver,Milford 1,President,,,Write-In,0
+Beaver,Milford 2,President,,,Write-In,3
+Beaver,Milford 3,President,,,Write-In,0
+Beaver,Minersville,President,,,Write-In,2
+Beaver,Beaver 1,U.S. Senate,,Democratic,Misty Snow,48
+Beaver,Beaver 2,U.S. Senate,,Democratic,Misty Snow,48
+Beaver,Beaver 3,U.S. Senate,,Democratic,Misty Snow,30
+Beaver,Beaver 4,U.S. Senate,,Democratic,Misty Snow,7
+Beaver,Greenville,U.S. Senate,,Democratic,Misty Snow,13
+Beaver,Milford 1,U.S. Senate,,Democratic,Misty Snow,23
+Beaver,Milford 2,U.S. Senate,,Democratic,Misty Snow,107
+Beaver,Milford 3,U.S. Senate,,Democratic,Misty Snow,14
+Beaver,Minersville,U.S. Senate,,Democratic,Misty Snow,5
 Beaver,Beaver 1,U.S. Senate,,Independent,Bill Barron,3
 Beaver,Beaver 2,U.S. Senate,,Independent,Bill Barron,4
 Beaver,Beaver 3,U.S. Senate,,Independent,Bill Barron,2
@@ -152,42 +152,42 @@ Beaver,Milford 1,U.S. House,2,Democratic,Charlene Albarran,25
 Beaver,Milford 2,U.S. House,2,Democratic,Charlene Albarran,111
 Beaver,Milford 3,U.S. House,2,Democratic,Charlene Albarran,15
 Beaver,Minersville,U.S. House,2,Democratic,Charlene Albarran,10
-Beaver,Beaver 1,U.S. House,2,Constitution,Paul J. McCollaum Jr,27
-Beaver,Beaver 2,U.S. House,2,Constitution,Paul J. McCollaum Jr,15
-Beaver,Beaver 3,U.S. House,2,Constitution,Paul J. McCollaum Jr,13
-Beaver,Beaver 4,U.S. House,2,Constitution,Paul J. McCollaum Jr,10
-Beaver,Greenville,U.S. House,2,Constitution,Paul J. McCollaum Jr,2
-Beaver,Milford 1,U.S. House,2,Constitution,Paul J. McCollaum Jr,3
-Beaver,Milford 2,U.S. House,2,Constitution,Paul J. McCollaum Jr,21
-Beaver,Milford 3,U.S. House,2,Constitution,Paul J. McCollaum Jr,6
-Beaver,Minersville,U.S. House,2,Constitution,Paul J. McCollaum Jr,15
-Beaver,Beaver 1,Governor,,Republican,Gary R. Herbert,525
-Beaver,Beaver 2,Governor,,Republican,Gary R. Herbert,395
-Beaver,Beaver 3,Governor,,Republican,Gary R. Herbert,302
-Beaver,Beaver 4,Governor,,Republican,Gary R. Herbert,114
-Beaver,Greenville,Governor,,Republican,Gary R. Herbert,72
-Beaver,Milford 1,Governor,,Republican,Gary R. Herbert,34
-Beaver,Milford 2,Governor,,Republican,Gary R. Herbert,234
-Beaver,Milford 3,Governor,,Republican,Gary R. Herbert,74
-Beaver,Minersville,Governor,,Republican,Gary R. Herbert,283
-Beaver,Beaver 1,Governor,,Independent American,Superdell Schanze,13
-Beaver,Beaver 2,Governor,,Independent American,Superdell Schanze,4
-Beaver,Beaver 3,Governor,,Independent American,Superdell Schanze,10
-Beaver,Beaver 4,Governor,,Independent American,Superdell Schanze,0
-Beaver,Greenville,Governor,,Independent American,Superdell Schanze,1
-Beaver,Milford 1,Governor,,Independent American,Superdell Schanze,2
-Beaver,Milford 2,Governor,,Independent American,Superdell Schanze,12
-Beaver,Milford 3,Governor,,Independent American,Superdell Schanze,2
-Beaver,Minersville,Governor,,Independent American,Superdell Schanze,2
-Beaver,Beaver 1,Governor,,Libertarian,Brian E. Kamerath,9
-Beaver,Beaver 2,Governor,,Libertarian,Brian E. Kamerath,7
-Beaver,Beaver 3,Governor,,Libertarian,Brian E. Kamerath,6
-Beaver,Beaver 4,Governor,,Libertarian,Brian E. Kamerath,4
-Beaver,Greenville,Governor,,Libertarian,Brian E. Kamerath,2
-Beaver,Milford 1,Governor,,Libertarian,Brian E. Kamerath,5
-Beaver,Milford 2,Governor,,Libertarian,Brian E. Kamerath,12
-Beaver,Milford 3,Governor,,Libertarian,Brian E. Kamerath,3
-Beaver,Minersville,Governor,,Libertarian,Brian E. Kamerath,15
+Beaver,Beaver 1,U.S. House,2,Constitution,Paul McCollaum,27
+Beaver,Beaver 2,U.S. House,2,Constitution,Paul McCollaum,15
+Beaver,Beaver 3,U.S. House,2,Constitution,Paul McCollaum,13
+Beaver,Beaver 4,U.S. House,2,Constitution,Paul McCollaum,10
+Beaver,Greenville,U.S. House,2,Constitution,Paul McCollaum,2
+Beaver,Milford 1,U.S. House,2,Constitution,Paul McCollaum,3
+Beaver,Milford 2,U.S. House,2,Constitution,Paul McCollaum,21
+Beaver,Milford 3,U.S. House,2,Constitution,Paul McCollaum,6
+Beaver,Minersville,U.S. House,2,Constitution,Paul McCollaum,15
+Beaver,Beaver 1,Governor,,Republican,Gary Herbert,525
+Beaver,Beaver 2,Governor,,Republican,Gary Herbert,395
+Beaver,Beaver 3,Governor,,Republican,Gary Herbert,302
+Beaver,Beaver 4,Governor,,Republican,Gary Herbert,114
+Beaver,Greenville,Governor,,Republican,Gary Herbert,72
+Beaver,Milford 1,Governor,,Republican,Gary Herbert,34
+Beaver,Milford 2,Governor,,Republican,Gary Herbert,234
+Beaver,Milford 3,Governor,,Republican,Gary Herbert,74
+Beaver,Minersville,Governor,,Republican,Gary Herbert,283
+Beaver,Beaver 1,Governor,,Independent American,Dell Schanze,13
+Beaver,Beaver 2,Governor,,Independent American,Dell Schanze,4
+Beaver,Beaver 3,Governor,,Independent American,Dell Schanze,10
+Beaver,Beaver 4,Governor,,Independent American,Dell Schanze,0
+Beaver,Greenville,Governor,,Independent American,Dell Schanze,1
+Beaver,Milford 1,Governor,,Independent American,Dell Schanze,2
+Beaver,Milford 2,Governor,,Independent American,Dell Schanze,12
+Beaver,Milford 3,Governor,,Independent American,Dell Schanze,2
+Beaver,Minersville,Governor,,Independent American,Dell Schanze,2
+Beaver,Beaver 1,Governor,,Libertarian,Brian Kamerath,9
+Beaver,Beaver 2,Governor,,Libertarian,Brian Kamerath,7
+Beaver,Beaver 3,Governor,,Libertarian,Brian Kamerath,6
+Beaver,Beaver 4,Governor,,Libertarian,Brian Kamerath,4
+Beaver,Greenville,Governor,,Libertarian,Brian Kamerath,2
+Beaver,Milford 1,Governor,,Libertarian,Brian Kamerath,5
+Beaver,Milford 2,Governor,,Libertarian,Brian Kamerath,12
+Beaver,Milford 3,Governor,,Libertarian,Brian Kamerath,3
+Beaver,Minersville,Governor,,Libertarian,Brian Kamerath,15
 Beaver,Beaver 1,Governor,,Democratic,Mike Weinholtz,53
 Beaver,Beaver 2,Governor,,Democratic,Mike Weinholtz,51
 Beaver,Beaver 3,Governor,,Democratic,Mike Weinholtz,22
@@ -197,42 +197,42 @@ Beaver,Milford 1,Governor,,Democratic,Mike Weinholtz,26
 Beaver,Milford 2,Governor,,Democratic,Mike Weinholtz,112
 Beaver,Milford 3,Governor,,Democratic,Mike Weinholtz,17
 Beaver,Minersville,Governor,,Democratic,Mike Weinholtz,14
-Beaver,Beaver 1,Governor,,,Write-in,3
-Beaver,Beaver 2,Governor,,,Write-in,1
-Beaver,Beaver 3,Governor,,,Write-in,0
-Beaver,Beaver 4,Governor,,,Write-in,0
-Beaver,Greenville,Governor,,,Write-in,0
-Beaver,Milford 1,Governor,,,Write-in,0
-Beaver,Milford 2,Governor,,,Write-in,2
-Beaver,Milford 3,Governor,,,Write-in,0
-Beaver,Minersville,Governor,,,Write-in,2
-Beaver,Beaver 1,Attorney General,,Independent American,Michael W. Isbell,17
-Beaver,Beaver 2,Attorney General,,Independent American,Michael W. Isbell,14
-Beaver,Beaver 3,Attorney General,,Independent American,Michael W. Isbell,11
-Beaver,Beaver 4,Attorney General,,Independent American,Michael W. Isbell,3
-Beaver,Greenville,Attorney General,,Independent American,Michael W. Isbell,0
-Beaver,Milford 1,Attorney General,,Independent American,Michael W. Isbell,2
-Beaver,Milford 2,Attorney General,,Independent American,Michael W. Isbell,12
-Beaver,Milford 3,Attorney General,,Independent American,Michael W. Isbell,2
-Beaver,Minersville,Attorney General,,Independent American,Michael W. Isbell,5
-Beaver,Beaver 1,Attorney General,,Democratic,Jon V. Harper,48
-Beaver,Beaver 2,Attorney General,,Democratic,Jon V. Harper,48
-Beaver,Beaver 3,Attorney General,,Democratic,Jon V. Harper,31
-Beaver,Beaver 4,Attorney General,,Democratic,Jon V. Harper,16
-Beaver,Greenville,Attorney General,,Democratic,Jon V. Harper,12
-Beaver,Milford 1,Attorney General,,Democratic,Jon V. Harper,25
-Beaver,Milford 2,Attorney General,,Democratic,Jon V. Harper,102
-Beaver,Milford 3,Attorney General,,Democratic,Jon V. Harper,13
-Beaver,Minersville,Attorney General,,Democratic,Jon V. Harper,13
-Beaver,Beaver 1,Attorney General,,Republican,Sean D. Reyes,507
-Beaver,Beaver 2,Attorney General,,Republican,Sean D. Reyes,363
-Beaver,Beaver 3,Attorney General,,Republican,Sean D. Reyes,289
-Beaver,Beaver 4,Attorney General,,Republican,Sean D. Reyes,100
-Beaver,Greenville,Attorney General,,Republican,Sean D. Reyes,74
-Beaver,Milford 1,Attorney General,,Republican,Sean D. Reyes,33
-Beaver,Milford 2,Attorney General,,Republican,Sean D. Reyes,227
-Beaver,Milford 3,Attorney General,,Republican,Sean D. Reyes,73
-Beaver,Minersville,Attorney General,,Republican,Sean D. Reyes,282
+Beaver,Beaver 1,Governor,,,Write-In,3
+Beaver,Beaver 2,Governor,,,Write-In,1
+Beaver,Beaver 3,Governor,,,Write-In,0
+Beaver,Beaver 4,Governor,,,Write-In,0
+Beaver,Greenville,Governor,,,Write-In,0
+Beaver,Milford 1,Governor,,,Write-In,0
+Beaver,Milford 2,Governor,,,Write-In,2
+Beaver,Milford 3,Governor,,,Write-In,0
+Beaver,Minersville,Governor,,,Write-In,2
+Beaver,Beaver 1,Attorney General,,Independent American,Michael Isbell,17
+Beaver,Beaver 2,Attorney General,,Independent American,Michael Isbell,14
+Beaver,Beaver 3,Attorney General,,Independent American,Michael Isbell,11
+Beaver,Beaver 4,Attorney General,,Independent American,Michael Isbell,3
+Beaver,Greenville,Attorney General,,Independent American,Michael Isbell,0
+Beaver,Milford 1,Attorney General,,Independent American,Michael Isbell,2
+Beaver,Milford 2,Attorney General,,Independent American,Michael Isbell,12
+Beaver,Milford 3,Attorney General,,Independent American,Michael Isbell,2
+Beaver,Minersville,Attorney General,,Independent American,Michael Isbell,5
+Beaver,Beaver 1,Attorney General,,Democratic,Jon Harper,48
+Beaver,Beaver 2,Attorney General,,Democratic,Jon Harper,48
+Beaver,Beaver 3,Attorney General,,Democratic,Jon Harper,31
+Beaver,Beaver 4,Attorney General,,Democratic,Jon Harper,16
+Beaver,Greenville,Attorney General,,Democratic,Jon Harper,12
+Beaver,Milford 1,Attorney General,,Democratic,Jon Harper,25
+Beaver,Milford 2,Attorney General,,Democratic,Jon Harper,102
+Beaver,Milford 3,Attorney General,,Democratic,Jon Harper,13
+Beaver,Minersville,Attorney General,,Democratic,Jon Harper,13
+Beaver,Beaver 1,Attorney General,,Republican,Sean Reyes,507
+Beaver,Beaver 2,Attorney General,,Republican,Sean Reyes,363
+Beaver,Beaver 3,Attorney General,,Republican,Sean Reyes,289
+Beaver,Beaver 4,Attorney General,,Republican,Sean Reyes,100
+Beaver,Greenville,Attorney General,,Republican,Sean Reyes,74
+Beaver,Milford 1,Attorney General,,Republican,Sean Reyes,33
+Beaver,Milford 2,Attorney General,,Republican,Sean Reyes,227
+Beaver,Milford 3,Attorney General,,Republican,Sean Reyes,73
+Beaver,Minersville,Attorney General,,Republican,Sean Reyes,282
 Beaver,Beaver 1,Attorney General,,Libertarian,W. Andrew McCullough,18
 Beaver,Beaver 2,Attorney General,,Libertarian,W. Andrew McCullough,25
 Beaver,Beaver 3,Attorney General,,Libertarian,W. Andrew McCullough,6
@@ -242,60 +242,60 @@ Beaver,Milford 1,Attorney General,,Libertarian,W. Andrew McCullough,7
 Beaver,Milford 2,Attorney General,,Libertarian,W. Andrew McCullough,26
 Beaver,Milford 3,Attorney General,,Libertarian,W. Andrew McCullough,6
 Beaver,Minersville,Attorney General,,Libertarian,W. Andrew McCullough,10
-Beaver,Beaver 1,Auditor,,Republican,John Dougall,481
-Beaver,Beaver 2,Auditor,,Republican,John Dougall,345
-Beaver,Beaver 3,Auditor,,Republican,John Dougall,269
-Beaver,Beaver 4,Auditor,,Republican,John Dougall,92
-Beaver,Greenville,Auditor,,Republican,John Dougall,67
-Beaver,Milford 1,Auditor,,Republican,John Dougall,29
-Beaver,Milford 2,Auditor,,Republican,John Dougall,207
-Beaver,Milford 3,Auditor,,Republican,John Dougall,69
-Beaver,Minersville,Auditor,,Republican,John Dougall,274
-Beaver,Beaver 1,Auditor,,Independent American,Jared Green,27
-Beaver,Beaver 2,Auditor,,Independent American,Jared Green,21
-Beaver,Beaver 3,Auditor,,Independent American,Jared Green,14
-Beaver,Beaver 4,Auditor,,Independent American,Jared Green,12
-Beaver,Greenville,Auditor,,Independent American,Jared Green,0
-Beaver,Milford 1,Auditor,,Independent American,Jared Green,4
-Beaver,Milford 2,Auditor,,Independent American,Jared Green,28
-Beaver,Milford 3,Auditor,,Independent American,Jared Green,5
-Beaver,Minersville,Auditor,,Independent American,Jared Green,11
-Beaver,Beaver 1,Auditor,,Democratic,Mike Mitchell,69
-Beaver,Beaver 2,Auditor,,Democratic,Mike Mitchell,72
-Beaver,Beaver 3,Auditor,,Democratic,Mike Mitchell,44
-Beaver,Beaver 4,Auditor,,Democratic,Mike Mitchell,23
-Beaver,Greenville,Auditor,,Democratic,Mike Mitchell,16
-Beaver,Milford 1,Auditor,,Democratic,Mike Mitchell,32
-Beaver,Milford 2,Auditor,,Democratic,Mike Mitchell,122
-Beaver,Milford 3,Auditor,,Democratic,Mike Mitchell,20
-Beaver,Minersville,Auditor,,Democratic,Mike Mitchell,23
-Beaver,Beaver 1,Treasurer,,Constitution,Richard Proctor,36
-Beaver,Beaver 2,Treasurer,,Constitution,Richard Proctor,19
-Beaver,Beaver 3,Treasurer,,Constitution,Richard Proctor,18
-Beaver,Beaver 4,Treasurer,,Constitution,Richard Proctor,14
-Beaver,Greenville,Treasurer,,Constitution,Richard Proctor,5
-Beaver,Milford 1,Treasurer,,Constitution,Richard Proctor,7
-Beaver,Milford 2,Treasurer,,Constitution,Richard Proctor,29
-Beaver,Milford 3,Treasurer,,Constitution,Richard Proctor,10
-Beaver,Minersville,Treasurer,,Constitution,Richard Proctor,21
-Beaver,Beaver 1,Treasurer,,Democratic,Neil A. Hansen,80
-Beaver,Beaver 2,Treasurer,,Democratic,Neil A. Hansen,90
-Beaver,Beaver 3,Treasurer,,Democratic,Neil A. Hansen,52
-Beaver,Beaver 4,Treasurer,,Democratic,Neil A. Hansen,19
-Beaver,Greenville,Treasurer,,Democratic,Neil A. Hansen,20
-Beaver,Milford 1,Treasurer,,Democratic,Neil A. Hansen,27
-Beaver,Milford 2,Treasurer,,Democratic,Neil A. Hansen,129
-Beaver,Milford 3,Treasurer,,Democratic,Neil A. Hansen,22
-Beaver,Minersville,Treasurer,,Democratic,Neil A. Hansen,29
-Beaver,Beaver 1,Treasurer,,Republican,David Damschen,454
-Beaver,Beaver 2,Treasurer,,Republican,David Damschen,329
-Beaver,Beaver 3,Treasurer,,Republican,David Damschen,254
-Beaver,Beaver 4,Treasurer,,Republican,David Damschen,94
-Beaver,Greenville,Treasurer,,Republican,David Damschen,57
-Beaver,Milford 1,Treasurer,,Republican,David Damschen,30
-Beaver,Milford 2,Treasurer,,Republican,David Damschen,201
-Beaver,Milford 3,Treasurer,,Republican,David Damschen,62
-Beaver,Minersville,Treasurer,,Republican,David Damschen,258
+Beaver,Beaver 1,State Auditor,,Republican,John Dougall,481
+Beaver,Beaver 2,State Auditor,,Republican,John Dougall,345
+Beaver,Beaver 3,State Auditor,,Republican,John Dougall,269
+Beaver,Beaver 4,State Auditor,,Republican,John Dougall,92
+Beaver,Greenville,State Auditor,,Republican,John Dougall,67
+Beaver,Milford 1,State Auditor,,Republican,John Dougall,29
+Beaver,Milford 2,State Auditor,,Republican,John Dougall,207
+Beaver,Milford 3,State Auditor,,Republican,John Dougall,69
+Beaver,Minersville,State Auditor,,Republican,John Dougall,274
+Beaver,Beaver 1,State Auditor,,Independent American,Jared Green,27
+Beaver,Beaver 2,State Auditor,,Independent American,Jared Green,21
+Beaver,Beaver 3,State Auditor,,Independent American,Jared Green,14
+Beaver,Beaver 4,State Auditor,,Independent American,Jared Green,12
+Beaver,Greenville,State Auditor,,Independent American,Jared Green,0
+Beaver,Milford 1,State Auditor,,Independent American,Jared Green,4
+Beaver,Milford 2,State Auditor,,Independent American,Jared Green,28
+Beaver,Milford 3,State Auditor,,Independent American,Jared Green,5
+Beaver,Minersville,State Auditor,,Independent American,Jared Green,11
+Beaver,Beaver 1,State Auditor,,Democratic,Mike Mitchell,69
+Beaver,Beaver 2,State Auditor,,Democratic,Mike Mitchell,72
+Beaver,Beaver 3,State Auditor,,Democratic,Mike Mitchell,44
+Beaver,Beaver 4,State Auditor,,Democratic,Mike Mitchell,23
+Beaver,Greenville,State Auditor,,Democratic,Mike Mitchell,16
+Beaver,Milford 1,State Auditor,,Democratic,Mike Mitchell,32
+Beaver,Milford 2,State Auditor,,Democratic,Mike Mitchell,122
+Beaver,Milford 3,State Auditor,,Democratic,Mike Mitchell,20
+Beaver,Minersville,State Auditor,,Democratic,Mike Mitchell,23
+Beaver,Beaver 1,State Treasurer,,Constitution,Richard Proctor,36
+Beaver,Beaver 2,State Treasurer,,Constitution,Richard Proctor,19
+Beaver,Beaver 3,State Treasurer,,Constitution,Richard Proctor,18
+Beaver,Beaver 4,State Treasurer,,Constitution,Richard Proctor,14
+Beaver,Greenville,State Treasurer,,Constitution,Richard Proctor,5
+Beaver,Milford 1,State Treasurer,,Constitution,Richard Proctor,7
+Beaver,Milford 2,State Treasurer,,Constitution,Richard Proctor,29
+Beaver,Milford 3,State Treasurer,,Constitution,Richard Proctor,10
+Beaver,Minersville,State Treasurer,,Constitution,Richard Proctor,21
+Beaver,Beaver 1,State Treasurer,,Democratic,Neil Hansen,80
+Beaver,Beaver 2,State Treasurer,,Democratic,Neil Hansen,90
+Beaver,Beaver 3,State Treasurer,,Democratic,Neil Hansen,52
+Beaver,Beaver 4,State Treasurer,,Democratic,Neil Hansen,19
+Beaver,Greenville,State Treasurer,,Democratic,Neil Hansen,20
+Beaver,Milford 1,State Treasurer,,Democratic,Neil Hansen,27
+Beaver,Milford 2,State Treasurer,,Democratic,Neil Hansen,129
+Beaver,Milford 3,State Treasurer,,Democratic,Neil Hansen,22
+Beaver,Minersville,State Treasurer,,Democratic,Neil Hansen,29
+Beaver,Beaver 1,State Treasurer,,Republican,David Damschen,454
+Beaver,Beaver 2,State Treasurer,,Republican,David Damschen,329
+Beaver,Beaver 3,State Treasurer,,Republican,David Damschen,254
+Beaver,Beaver 4,State Treasurer,,Republican,David Damschen,94
+Beaver,Greenville,State Treasurer,,Republican,David Damschen,57
+Beaver,Milford 1,State Treasurer,,Republican,David Damschen,30
+Beaver,Milford 2,State Treasurer,,Republican,David Damschen,201
+Beaver,Milford 3,State Treasurer,,Republican,David Damschen,62
+Beaver,Minersville,State Treasurer,,Republican,David Damschen,258
 Beaver,Beaver 1,State Senate,24,Republican,Ralph Okerlund,0
 Beaver,Beaver 2,State Senate,24,Republican,Ralph Okerlund,0
 Beaver,Beaver 3,State Senate,24,Republican,Ralph Okerlund,0
