@@ -1,0 +1,45 @@
+county,precinct,office,district,party,candidate,votes
+Kane,K1,Registered Voters,,,,339
+Kane,K2,Registered Voters,,,,561
+Kane,K3,Registered Voters,,,,707
+Kane,K4,Registered Voters,,,,699
+Kane,AL,Registered Voters,,,,69
+Kane,GL,Registered Voters,,,,215
+Kane,OR,Registered Voters,,,,357
+Kane,BU,Registered Voters,,,,15
+Kane,BW,Registered Voters,,,,160
+Kane,CM,Registered Voters,,,,183
+Kane,CW,Registered Voters,,,,55
+Kane,K1,Ballots Cast,,,,205
+Kane,K2,Ballots Cast,,,,301
+Kane,K3,Ballots Cast,,,,399
+Kane,K4,Ballots Cast,,,,364
+Kane,AL,Ballots Cast,,,,44
+Kane,GL,Ballots Cast,,,,145
+Kane,OR,Ballots Cast,,,,218
+Kane,BU,Ballots Cast,,,,3
+Kane,BW,Ballots Cast,,,,67
+Kane,CM,Ballots Cast,,,,67
+Kane,CW,Ballots Cast,,,,31
+Kane,K1,U.S. Senate,,REP,Mitt Romney,119
+Kane,K2,U.S. Senate,,REP,Mitt Romney,180
+Kane,K3,U.S. Senate,,REP,Mitt Romney,266
+Kane,K4,U.S. Senate,,REP,Mitt Romney,197
+Kane,AL,U.S. Senate,,REP,Mitt Romney,19
+Kane,GL,U.S. Senate,,REP,Mitt Romney,67
+Kane,OR,U.S. Senate,,REP,Mitt Romney,133
+Kane,BU,U.S. Senate,,REP,Mitt Romney,2
+Kane,BW,U.S. Senate,,REP,Mitt Romney,24
+Kane,CM,U.S. Senate,,REP,Mitt Romney,34
+Kane,CW,U.S. Senate,,REP,Mitt Romney,6
+Kane,K1,U.S. Senate,,REP,Mike Kennedy,83
+Kane,K2,U.S. Senate,,REP,Mike Kennedy,115
+Kane,K3,U.S. Senate,,REP,Mike Kennedy,130
+Kane,K4,U.S. Senate,,REP,Mike Kennedy,162
+Kane,AL,U.S. Senate,,REP,Mike Kennedy,22
+Kane,GL,U.S. Senate,,REP,Mike Kennedy,61
+Kane,OR,U.S. Senate,,REP,Mike Kennedy,61
+Kane,BU,U.S. Senate,,REP,Mike Kennedy,1
+Kane,BW,U.S. Senate,,REP,Mike Kennedy,41
+Kane,CM,U.S. Senate,,REP,Mike Kennedy,23
+Kane,CW,U.S. Senate,,REP,Mike Kennedy,25
