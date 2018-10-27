@@ -1,0 +1,21 @@
+county,precinct,office,district,party,candidate,votes
+Rich,1,U.S. Senate,,REP,Mitt Romney,104
+Rich,2,U.S. Senate,,REP,Mitt Romney,150
+Rich,3,U.S. Senate,,REP,Mitt Romney,201
+Rich,4,U.S. Senate,,REP,Mitt Romney,92
+Rich,5,U.S. Senate,,REP,Mitt Romney,93
+Rich,1,U.S. Senate,,REP,Mike Kennedy,66
+Rich,2,U.S. Senate,,REP,Mike Kennedy,56
+Rich,3,U.S. Senate,,REP,Mike Kennedy,65
+Rich,4,U.S. Senate,,REP,Mike Kennedy,37
+Rich,5,U.S. Senate,,REP,Mike Kennedy,27
+Rich,1,U.S. House,1,DEM,Lee Castillo,4
+Rich,2,U.S. House,1,DEM,Lee Castillo,1
+Rich,3,U.S. House,1,DEM,Lee Castillo,0
+Rich,4,U.S. House,1,DEM,Lee Castillo,4
+Rich,5,U.S. House,1,DEM,Lee Castillo,4
+Rich,1,U.S. House,1,DEM,Kurt Weiland,1
+Rich,2,U.S. House,1,DEM,Kurt Weiland,1
+Rich,3,U.S. House,1,DEM,Kurt Weiland,4
+Rich,4,U.S. House,1,DEM,Kurt Weiland,4
+Rich,5,U.S. House,1,DEM,Kurt Weiland,4
