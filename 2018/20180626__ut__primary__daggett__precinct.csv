@@ -1,0 +1,46 @@
+county,precinct,office,district,party,candidate,votes
+Daggett,Dutch John #1,Registered Voters,,,,133
+Daggett,Manila #2,Registered Voters,,,,392
+Daggett,Browns Park #3,Registered Voters,,,,6
+Daggett,Dutch John #1,Registered Voters,,REP,,92
+Daggett,Manila #2,Registered Voters,,REP,,305
+Daggett,Browns Park #3,Registered Voters,,REP,,3
+Daggett,Dutch John #1,Registered Voters,,DEM,,9
+Daggett,Manila #2,Registered Voters,,DEM,,28
+Daggett,Browns Park #3,Registered Voters,,DEM,,0
+Daggett,Dutch John #1,Ballots Cast,,,,69
+Daggett,Manila #2,Ballots Cast,,,,214
+Daggett,Browns Park #3,Ballots Cast,,,,3
+Daggett,Dutch John #1,Ballots Cast,,REP,,66
+Daggett,Manila #2,Ballots Cast,,REP,,202
+Daggett,Browns Park #3,Ballots Cast,,REP,,3
+Daggett,Dutch John #1,Ballots Cast,,DEM,,3
+Daggett,Manila #2,Ballots Cast,,DEM,,12
+Daggett,Browns Park #3,Ballots Cast,,DEM,,0
+Daggett,Dutch John #1,U.S. Senate,,REP,Mitt Romney,40
+Daggett,Manila #2,U.S. Senate,,REP,Mitt Romney,136
+Daggett,Browns Park #3,U.S. Senate,,REP,Mitt Romney,1
+Daggett,Dutch John #1,U.S. Senate,,REP,Mike Kennedy,25
+Daggett,Manila #2,U.S. Senate,,REP,Mike Kennedy,63
+Daggett,Browns Park #3,U.S. Senate,,REP,Mike Kennedy,2
+Daggett,Dutch John #1,State Senate,26,REP,Ronald Winterton,15
+Daggett,Manila #2,State Senate,26,REP,Ronald Winterton,83
+Daggett,Browns Park #3,State Senate,26,REP,Ronald Winterton,1
+Daggett,Dutch John #1,State Senate,26,REP,Jack Rubin,11
+Daggett,Manila #2,State Senate,26,REP,Jack Rubin,49
+Daggett,Browns Park #3,State Senate,26,REP,Jack Rubin,2
+Daggett,Dutch John #1,State Senate,26,REP,Brian K. Gorum,36
+Daggett,Manila #2,State Senate,26,REP,Brian K. Gorum,49
+Daggett,Browns Park #3,State Senate,26,REP,Brian K. Gorum,0
+Daggett,Dutch John #1,U.S. House,1,DEM,Lee Castillo,1
+Daggett,Manila #2,U.S. House,1,DEM,Lee Castillo,4
+Daggett,Browns Park #3,U.S. House,1,DEM,Lee Castillo,0
+Daggett,Dutch John #1,U.S. House,1,DEM,Kurt Weiland,2
+Daggett,Manila #2,U.S. House,1,DEM,Kurt Weiland,8
+Daggett,Browns Park #3,U.S. House,1,DEM,Kurt Weiland,0
+Daggett,Dutch John #1,State Senate,26,DEM,Pat Vaughn,2
+Daggett,Manila #2,State Senate,26,DEM,Pat Vaughn,4
+Daggett,Browns Park #3,State Senate,26,DEM,Pat Vaughn,0
+Daggett,Dutch John #1,State Senate,26,DEM,Eileen Gallagher,1
+Daggett,Manila #2,State Senate,26,DEM,Eileen Gallagher,8
+Daggett,Browns Park #3,State Senate,26,DEM,Eileen Gallagher,0
