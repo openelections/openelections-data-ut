@@ -1842,10 +1842,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AF11:UN,US HOUSE,3,,Ben J. Mates,0
 ,AF12,US HOUSE,3,,Ben J. Mates,3
 ,AF12:UN,US HOUSE,3,,Ben J. Mates,1
-,AF13,US HOUSE,3,,Ben J. Mates,-
-,AF13:UN,US HOUSE,3,,Ben J. Mates,-
-,AF14,US HOUSE,3,,Ben J. Mates,-
-,AF14:UN,US HOUSE,3,,Ben J. Mates,-
 ,AL01,US HOUSE,3,,Ben J. Mates,0
 ,AL01:UN,US HOUSE,3,,Ben J. Mates,0
 ,AL02,US HOUSE,3,,Ben J. Mates,3
@@ -1854,7 +1850,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AL04,US HOUSE,3,,Ben J. Mates,2
 ,AL05,US HOUSE,3,,Ben J. Mates,1
 ,AL06,US HOUSE,3,,Ben J. Mates,1
-,CF01,US HOUSE,3,,Ben J. Mates,-
 ,CH01,US HOUSE,3,,Ben J. Mates,0
 ,CH02,US HOUSE,3,,Ben J. Mates,4
 ,CH02:UN,US HOUSE,3,,Ben J. Mates,0
@@ -1862,22 +1857,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,CH04,US HOUSE,3,,Ben J. Mates,0
 ,CH05,US HOUSE,3,,Ben J. Mates,0
 ,DR01,US HOUSE,3,,Ben J. Mates,3
-,EM01,US HOUSE,3,,Ben J. Mates,-
-,EM02,US HOUSE,3,,Ben J. Mates,-
-,EM03,US HOUSE,3,,Ben J. Mates,-
-,EM04,US HOUSE,3,,Ben J. Mates,-
-,EM05,US HOUSE,3,,Ben J. Mates,-
-,EM06,US HOUSE,3,,Ben J. Mates,-
-,EM07,US HOUSE,3,,Ben J. Mates,-
-,EM08,US HOUSE,3,,Ben J. Mates,-
-,EM09,US HOUSE,3,,Ben J. Mates,-
 ,ER01,US HOUSE,3,,Ben J. Mates,2
 ,ER02,US HOUSE,3,,Ben J. Mates,2
 ,ER02:UN,US HOUSE,3,,Ben J. Mates,0
-,FF01,US HOUSE,3,,Ben J. Mates,-
-,GE01,US HOUSE,3,,Ben J. Mates,-
-,GO01,US HOUSE,3,,Ben J. Mates,-
-,GO02,US HOUSE,3,,Ben J. Mates,-
 ,HI01,US HOUSE,3,,Ben J. Mates,3
 ,HI02,US HOUSE,3,,Ben J. Mates,1
 ,HI03,US HOUSE,3,,Ben J. Mates,2
@@ -1893,35 +1875,21 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,HI09,US HOUSE,3,,Ben J. Mates,1
 ,HI09:UN,US HOUSE,3,,Ben J. Mates,0
 ,HI10,US HOUSE,3,,Ben J. Mates,1
-,LE01,US HOUSE,3,,Ben J. Mates,-
-,LE01:UN,US HOUSE,3,,Ben J. Mates,-
 ,LE01S,US HOUSE,3,,Ben J. Mates,0
 ,LE01S:UN,US HOUSE,3,,Ben J. Mates,0
-,LE02,US HOUSE,3,,Ben J. Mates,-
 ,LE03,US HOUSE,3,,Ben J. Mates,2
 ,LE03:UN,US HOUSE,3,,Ben J. Mates,0
-,LE04,US HOUSE,3,,Ben J. Mates,-
-,LE04:UN,US HOUSE,3,,Ben J. Mates,-
-,LE05,US HOUSE,3,,Ben J. Mates,-
-,LE05:UN,US HOUSE,3,,Ben J. Mates,-
 ,LE06,US HOUSE,3,,Ben J. Mates,0
 ,LE06:UN,US HOUSE,3,,Ben J. Mates,0
 ,LE06S,US HOUSE,3,,Ben J. Mates,0
 ,LE07,US HOUSE,3,,Ben J. Mates,5
 ,LE07:UN,US HOUSE,3,,Ben J. Mates,0
-,LE08,US HOUSE,3,,Ben J. Mates,-
-,LE08:UN,US HOUSE,3,,Ben J. Mates,-
 ,LE09,US HOUSE,3,,Ben J. Mates,1
 ,LE09:UN,US HOUSE,3,,Ben J. Mates,0
 ,LE10,US HOUSE,3,,Ben J. Mates,3
 ,LE10:UN,US HOUSE,3,,Ben J. Mates,0
-,LE11,US HOUSE,3,,Ben J. Mates,-
-,LE11:UN,US HOUSE,3,,Ben J. Mates,-
 ,LE12,US HOUSE,3,,Ben J. Mates,0
 ,LE12:UN,US HOUSE,3,,Ben J. Mates,0
-,LE13,US HOUSE,3,,Ben J. Mates,-
-,LE13:UN,US HOUSE,3,,Ben J. Mates,-
-,LE14,US HOUSE,3,,Ben J. Mates,-
 ,LE15,US HOUSE,3,,Ben J. Mates,3
 ,LE15:UN,US HOUSE,3,,Ben J. Mates,0
 ,LE16,US HOUSE,3,,Ben J. Mates,1
@@ -1930,15 +1898,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,LE17:UN,US HOUSE,3,,Ben J. Mates,0
 ,LE18,US HOUSE,3,,Ben J. Mates,0
 ,LE18:UN,US HOUSE,3,,Ben J. Mates,0
-,LE19,US HOUSE,3,,Ben J. Mates,-
-,LE19:UN,US HOUSE,3,,Ben J. Mates,-
 ,LE20,US HOUSE,3,,Ben J. Mates,2
 ,LE20:UN,US HOUSE,3,,Ben J. Mates,0
 ,LE21,US HOUSE,3,,Ben J. Mates,0
-,LE22,US HOUSE,3,,Ben J. Mates,-
-,LE22:UN,US HOUSE,3,,Ben J. Mates,-
-,LE23,US HOUSE,3,,Ben J. Mates,-
-,LE23:UN,US HOUSE,3,,Ben J. Mates,-
 ,LI01,US HOUSE,3,,Ben J. Mates,1
 ,LI02,US HOUSE,3,,Ben J. Mates,2
 ,LI03,US HOUSE,3,,Ben J. Mates,0
@@ -2013,8 +1975,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,PA04,US HOUSE,3,,Ben J. Mates,1
 ,PA04:UN,US HOUSE,3,,Ben J. Mates,0
 ,PA05,US HOUSE,3,,Ben J. Mates,4
-,PA06,US HOUSE,3,,Ben J. Mates,-
-,PA06:UN,US HOUSE,3,,Ben J. Mates,-
 ,PA07,US HOUSE,3,,Ben J. Mates,0
 ,PA08,US HOUSE,3,,Ben J. Mates,5
 ,PG01,US HOUSE,3,,Ben J. Mates,4
@@ -2099,9 +2059,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SF04:UN,US HOUSE,3,,Ben J. Mates,0
 ,SF05,US HOUSE,3,,Ben J. Mates,6
 ,SF06,US HOUSE,3,,Ben J. Mates,1
-,SF07,US HOUSE,3,,Ben J. Mates,-
-,SF07:UN,US HOUSE,3,,Ben J. Mates,-
-,SF07S,US HOUSE,3,,Ben J. Mates,-
 ,SF08,US HOUSE,3,,Ben J. Mates,2
 ,SF08:UN,US HOUSE,3,,Ben J. Mates,0
 ,SF09,US HOUSE,3,,Ben J. Mates,1
@@ -2139,44 +2096,18 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SP14:UN,US HOUSE,3,,Ben J. Mates,0
 ,SP15,US HOUSE,3,,Ben J. Mates,1
 ,SP16,US HOUSE,3,,Ben J. Mates,5
-,SP17,US HOUSE,3,,Ben J. Mates,-
 ,SP18,US HOUSE,3,,Ben J. Mates,0
-,SQ01,US HOUSE,3,,Ben J. Mates,-
-,SQ01:UN,US HOUSE,3,,Ben J. Mates,-
-,SQ02,US HOUSE,3,,Ben J. Mates,-
-,SQ02:UN,US HOUSE,3,,Ben J. Mates,-
 ,SQ03,US HOUSE,3,,Ben J. Mates,1
 ,SQ03:UN,US HOUSE,3,,Ben J. Mates,0
 ,SQ04,US HOUSE,3,,Ben J. Mates,0
 ,SQ04:UN,US HOUSE,3,,Ben J. Mates,0
-,SR01,US HOUSE,3,,Ben J. Mates,-
-,SR02,US HOUSE,3,,Ben J. Mates,-
-,SR02:UN,US HOUSE,3,,Ben J. Mates,-
-,SR03,US HOUSE,3,,Ben J. Mates,-
-,SR03:UN,US HOUSE,3,,Ben J. Mates,-
-,SR04,US HOUSE,3,,Ben J. Mates,-
-,SR05,US HOUSE,3,,Ben J. Mates,-
-,SR06,US HOUSE,3,,Ben J. Mates,-
-,SR07,US HOUSE,3,,Ben J. Mates,-
-,SR08,US HOUSE,3,,Ben J. Mates,-
-,SR08:UN,US HOUSE,3,,Ben J. Mates,-
 ,UCBE1,US HOUSE,3,,Ben J. Mates,0
 ,UCBE2,US HOUSE,3,,Ben J. Mates,0
 ,UCCB1,US HOUSE,3,,Ben J. Mates,0
-,UCCF1,US HOUSE,3,,Ben J. Mates,-
-,UCCF2,US HOUSE,3,,Ben J. Mates,-
-,UCEL1,US HOUSE,3,,Ben J. Mates,-
-,UCEL2,US HOUSE,3,,Ben J. Mates,-
-,UCFF,US HOUSE,3,,Ben J. Mates,-
-,UCLS1,US HOUSE,3,,Ben J. Mates,-
-,UCLS2,US HOUSE,3,,Ben J. Mates,-
 ,UCLV,US HOUSE,3,,Ben J. Mates,0
 ,UCPC1,US HOUSE,3,,Ben J. Mates,1
 ,UCPC2,US HOUSE,3,,Ben J. Mates,0
 ,UCSL,US HOUSE,3,,Ben J. Mates,0
-,UCUL1,US HOUSE,3,,Ben J. Mates,-
-,UCUL2,US HOUSE,3,,Ben J. Mates,-
-,UCWM,US HOUSE,3,,Ben J. Mates,-
 ,VI01,US HOUSE,3,,Ben J. Mates,2
 ,VI01S,US HOUSE,3,,Ben J. Mates,0
 ,VI01S2,US HOUSE,3,,Ben J. Mates,0
@@ -2206,10 +2137,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AF11:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,AF12,US HOUSE,3,DEM,Brian Wonnacott,58
 ,AF12:UN,US HOUSE,3,DEM,Brian Wonnacott,1
-,AF13,US HOUSE,3,DEM,Brian Wonnacott,-
-,AF13:UN,US HOUSE,3,DEM,Brian Wonnacott,-
-,AF14,US HOUSE,3,DEM,Brian Wonnacott,-
-,AF14:UN,US HOUSE,3,DEM,Brian Wonnacott,-
 ,AL01,US HOUSE,3,DEM,Brian Wonnacott,22
 ,AL01:UN,US HOUSE,3,DEM,Brian Wonnacott,5
 ,AL02,US HOUSE,3,DEM,Brian Wonnacott,16
@@ -2218,7 +2145,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AL04,US HOUSE,3,DEM,Brian Wonnacott,23
 ,AL05,US HOUSE,3,DEM,Brian Wonnacott,29
 ,AL06,US HOUSE,3,DEM,Brian Wonnacott,20
-,CF01,US HOUSE,3,DEM,Brian Wonnacott,-
 ,CH01,US HOUSE,3,DEM,Brian Wonnacott,22
 ,CH02,US HOUSE,3,DEM,Brian Wonnacott,26
 ,CH02:UN,US HOUSE,3,DEM,Brian Wonnacott,0
@@ -2226,22 +2152,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,CH04,US HOUSE,3,DEM,Brian Wonnacott,15
 ,CH05,US HOUSE,3,DEM,Brian Wonnacott,27
 ,DR01,US HOUSE,3,DEM,Brian Wonnacott,63
-,EM01,US HOUSE,3,DEM,Brian Wonnacott,-
-,EM02,US HOUSE,3,DEM,Brian Wonnacott,-
-,EM03,US HOUSE,3,DEM,Brian Wonnacott,-
-,EM04,US HOUSE,3,DEM,Brian Wonnacott,-
-,EM05,US HOUSE,3,DEM,Brian Wonnacott,-
-,EM06,US HOUSE,3,DEM,Brian Wonnacott,-
-,EM07,US HOUSE,3,DEM,Brian Wonnacott,-
-,EM08,US HOUSE,3,DEM,Brian Wonnacott,-
-,EM09,US HOUSE,3,DEM,Brian Wonnacott,-
 ,ER01,US HOUSE,3,DEM,Brian Wonnacott,10
 ,ER02,US HOUSE,3,DEM,Brian Wonnacott,15
 ,ER02:UN,US HOUSE,3,DEM,Brian Wonnacott,0
-,FF01,US HOUSE,3,DEM,Brian Wonnacott,-
-,GE01,US HOUSE,3,DEM,Brian Wonnacott,-
-,GO01,US HOUSE,3,DEM,Brian Wonnacott,-
-,GO02,US HOUSE,3,DEM,Brian Wonnacott,-
 ,HI01,US HOUSE,3,DEM,Brian Wonnacott,34
 ,HI02,US HOUSE,3,DEM,Brian Wonnacott,43
 ,HI03,US HOUSE,3,DEM,Brian Wonnacott,20
@@ -2257,35 +2170,21 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,HI09,US HOUSE,3,DEM,Brian Wonnacott,41
 ,HI09:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,HI10,US HOUSE,3,DEM,Brian Wonnacott,8
-,LE01,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE01:UN,US HOUSE,3,DEM,Brian Wonnacott,-
 ,LE01S,US HOUSE,3,DEM,Brian Wonnacott,0
 ,LE01S:UN,US HOUSE,3,DEM,Brian Wonnacott,0
-,LE02,US HOUSE,3,DEM,Brian Wonnacott,-
 ,LE03,US HOUSE,3,DEM,Brian Wonnacott,52
 ,LE03:UN,US HOUSE,3,DEM,Brian Wonnacott,1
-,LE04,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE04:UN,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE05,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE05:UN,US HOUSE,3,DEM,Brian Wonnacott,-
 ,LE06,US HOUSE,3,DEM,Brian Wonnacott,41
 ,LE06:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,LE06S,US HOUSE,3,DEM,Brian Wonnacott,0
 ,LE07,US HOUSE,3,DEM,Brian Wonnacott,29
 ,LE07:UN,US HOUSE,3,DEM,Brian Wonnacott,0
-,LE08,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE08:UN,US HOUSE,3,DEM,Brian Wonnacott,-
 ,LE09,US HOUSE,3,DEM,Brian Wonnacott,14
 ,LE09:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,LE10,US HOUSE,3,DEM,Brian Wonnacott,36
 ,LE10:UN,US HOUSE,3,DEM,Brian Wonnacott,0
-,LE11,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE11:UN,US HOUSE,3,DEM,Brian Wonnacott,-
 ,LE12,US HOUSE,3,DEM,Brian Wonnacott,40
 ,LE12:UN,US HOUSE,3,DEM,Brian Wonnacott,0
-,LE13,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE13:UN,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE14,US HOUSE,3,DEM,Brian Wonnacott,-
 ,LE15,US HOUSE,3,DEM,Brian Wonnacott,45
 ,LE15:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,LE16,US HOUSE,3,DEM,Brian Wonnacott,19
@@ -2294,15 +2193,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,LE17:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,LE18,US HOUSE,3,DEM,Brian Wonnacott,49
 ,LE18:UN,US HOUSE,3,DEM,Brian Wonnacott,0
-,LE19,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE19:UN,US HOUSE,3,DEM,Brian Wonnacott,-
 ,LE20,US HOUSE,3,DEM,Brian Wonnacott,32
 ,LE20:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,LE21,US HOUSE,3,DEM,Brian Wonnacott,0
-,LE22,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE22:UN,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE23,US HOUSE,3,DEM,Brian Wonnacott,-
-,LE23:UN,US HOUSE,3,DEM,Brian Wonnacott,-
 ,LI01,US HOUSE,3,DEM,Brian Wonnacott,49
 ,LI02,US HOUSE,3,DEM,Brian Wonnacott,22
 ,LI03,US HOUSE,3,DEM,Brian Wonnacott,6
@@ -2377,8 +2270,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,PA04,US HOUSE,3,DEM,Brian Wonnacott,20
 ,PA04:UN,US HOUSE,3,DEM,Brian Wonnacott,8
 ,PA05,US HOUSE,3,DEM,Brian Wonnacott,38
-,PA06,US HOUSE,3,DEM,Brian Wonnacott,-
-,PA06:UN,US HOUSE,3,DEM,Brian Wonnacott,-
 ,PA07,US HOUSE,3,DEM,Brian Wonnacott,38
 ,PA08,US HOUSE,3,DEM,Brian Wonnacott,56
 ,PG01,US HOUSE,3,DEM,Brian Wonnacott,19
@@ -2463,9 +2354,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SF04:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,SF05,US HOUSE,3,DEM,Brian Wonnacott,46
 ,SF06,US HOUSE,3,DEM,Brian Wonnacott,29
-,SF07,US HOUSE,3,DEM,Brian Wonnacott,-
-,SF07:UN,US HOUSE,3,DEM,Brian Wonnacott,-
-,SF07S,US HOUSE,3,DEM,Brian Wonnacott,-
 ,SF08,US HOUSE,3,DEM,Brian Wonnacott,39
 ,SF08:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,SF09,US HOUSE,3,DEM,Brian Wonnacott,27
@@ -2503,44 +2391,18 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SP14:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,SP15,US HOUSE,3,DEM,Brian Wonnacott,15
 ,SP16,US HOUSE,3,DEM,Brian Wonnacott,41
-,SP17,US HOUSE,3,DEM,Brian Wonnacott,-
 ,SP18,US HOUSE,3,DEM,Brian Wonnacott,24
-,SQ01,US HOUSE,3,DEM,Brian Wonnacott,-
-,SQ01:UN,US HOUSE,3,DEM,Brian Wonnacott,-
-,SQ02,US HOUSE,3,DEM,Brian Wonnacott,-
-,SQ02:UN,US HOUSE,3,DEM,Brian Wonnacott,-
 ,SQ03,US HOUSE,3,DEM,Brian Wonnacott,32
 ,SQ03:UN,US HOUSE,3,DEM,Brian Wonnacott,0
 ,SQ04,US HOUSE,3,DEM,Brian Wonnacott,10
 ,SQ04:UN,US HOUSE,3,DEM,Brian Wonnacott,0
-,SR01,US HOUSE,3,DEM,Brian Wonnacott,-
-,SR02,US HOUSE,3,DEM,Brian Wonnacott,-
-,SR02:UN,US HOUSE,3,DEM,Brian Wonnacott,-
-,SR03,US HOUSE,3,DEM,Brian Wonnacott,-
-,SR03:UN,US HOUSE,3,DEM,Brian Wonnacott,-
-,SR04,US HOUSE,3,DEM,Brian Wonnacott,-
-,SR05,US HOUSE,3,DEM,Brian Wonnacott,-
-,SR06,US HOUSE,3,DEM,Brian Wonnacott,-
-,SR07,US HOUSE,3,DEM,Brian Wonnacott,-
-,SR08,US HOUSE,3,DEM,Brian Wonnacott,-
-,SR08:UN,US HOUSE,3,DEM,Brian Wonnacott,-
 ,UCBE1,US HOUSE,3,DEM,Brian Wonnacott,0
 ,UCBE2,US HOUSE,3,DEM,Brian Wonnacott,3
 ,UCCB1,US HOUSE,3,DEM,Brian Wonnacott,3
-,UCCF1,US HOUSE,3,DEM,Brian Wonnacott,-
-,UCCF2,US HOUSE,3,DEM,Brian Wonnacott,-
-,UCEL1,US HOUSE,3,DEM,Brian Wonnacott,-
-,UCEL2,US HOUSE,3,DEM,Brian Wonnacott,-
-,UCFF,US HOUSE,3,DEM,Brian Wonnacott,-
-,UCLS1,US HOUSE,3,DEM,Brian Wonnacott,-
-,UCLS2,US HOUSE,3,DEM,Brian Wonnacott,-
 ,UCLV,US HOUSE,3,DEM,Brian Wonnacott,0
 ,UCPC1,US HOUSE,3,DEM,Brian Wonnacott,6
 ,UCPC2,US HOUSE,3,DEM,Brian Wonnacott,19
 ,UCSL,US HOUSE,3,DEM,Brian Wonnacott,18
-,UCUL1,US HOUSE,3,DEM,Brian Wonnacott,-
-,UCUL2,US HOUSE,3,DEM,Brian Wonnacott,-
-,UCWM,US HOUSE,3,DEM,Brian Wonnacott,-
 ,VI01,US HOUSE,3,DEM,Brian Wonnacott,4
 ,VI01S,US HOUSE,3,DEM,Brian Wonnacott,1
 ,VI01S2,US HOUSE,3,DEM,Brian Wonnacott,1
@@ -2570,10 +2432,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AF11:UN,US HOUSE,3,IAP,Zack Strong,0
 ,AF12,US HOUSE,3,IAP,Zack Strong,6
 ,AF12:UN,US HOUSE,3,IAP,Zack Strong,0
-,AF13,US HOUSE,3,IAP,Zack Strong,-
-,AF13:UN,US HOUSE,3,IAP,Zack Strong,-
-,AF14,US HOUSE,3,IAP,Zack Strong,-
-,AF14:UN,US HOUSE,3,IAP,Zack Strong,-
 ,AL01,US HOUSE,3,IAP,Zack Strong,5
 ,AL01:UN,US HOUSE,3,IAP,Zack Strong,1
 ,AL02,US HOUSE,3,IAP,Zack Strong,3
@@ -2582,7 +2440,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AL04,US HOUSE,3,IAP,Zack Strong,3
 ,AL05,US HOUSE,3,IAP,Zack Strong,2
 ,AL06,US HOUSE,3,IAP,Zack Strong,3
-,CF01,US HOUSE,3,IAP,Zack Strong,-
 ,CH01,US HOUSE,3,IAP,Zack Strong,11
 ,CH02,US HOUSE,3,IAP,Zack Strong,2
 ,CH02:UN,US HOUSE,3,IAP,Zack Strong,0
@@ -2590,22 +2447,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,CH04,US HOUSE,3,IAP,Zack Strong,2
 ,CH05,US HOUSE,3,IAP,Zack Strong,4
 ,DR01,US HOUSE,3,IAP,Zack Strong,8
-,EM01,US HOUSE,3,IAP,Zack Strong,-
-,EM02,US HOUSE,3,IAP,Zack Strong,-
-,EM03,US HOUSE,3,IAP,Zack Strong,-
-,EM04,US HOUSE,3,IAP,Zack Strong,-
-,EM05,US HOUSE,3,IAP,Zack Strong,-
-,EM06,US HOUSE,3,IAP,Zack Strong,-
-,EM07,US HOUSE,3,IAP,Zack Strong,-
-,EM08,US HOUSE,3,IAP,Zack Strong,-
-,EM09,US HOUSE,3,IAP,Zack Strong,-
 ,ER01,US HOUSE,3,IAP,Zack Strong,6
 ,ER02,US HOUSE,3,IAP,Zack Strong,5
 ,ER02:UN,US HOUSE,3,IAP,Zack Strong,0
-,FF01,US HOUSE,3,IAP,Zack Strong,-
-,GE01,US HOUSE,3,IAP,Zack Strong,-
-,GO01,US HOUSE,3,IAP,Zack Strong,-
-,GO02,US HOUSE,3,IAP,Zack Strong,-
 ,HI01,US HOUSE,3,IAP,Zack Strong,5
 ,HI02,US HOUSE,3,IAP,Zack Strong,9
 ,HI03,US HOUSE,3,IAP,Zack Strong,6
@@ -2621,35 +2465,21 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,HI09,US HOUSE,3,IAP,Zack Strong,2
 ,HI09:UN,US HOUSE,3,IAP,Zack Strong,0
 ,HI10,US HOUSE,3,IAP,Zack Strong,1
-,LE01,US HOUSE,3,IAP,Zack Strong,-
-,LE01:UN,US HOUSE,3,IAP,Zack Strong,-
 ,LE01S,US HOUSE,3,IAP,Zack Strong,0
 ,LE01S:UN,US HOUSE,3,IAP,Zack Strong,0
-,LE02,US HOUSE,3,IAP,Zack Strong,-
 ,LE03,US HOUSE,3,IAP,Zack Strong,1
 ,LE03:UN,US HOUSE,3,IAP,Zack Strong,0
-,LE04,US HOUSE,3,IAP,Zack Strong,-
-,LE04:UN,US HOUSE,3,IAP,Zack Strong,-
-,LE05,US HOUSE,3,IAP,Zack Strong,-
-,LE05:UN,US HOUSE,3,IAP,Zack Strong,-
 ,LE06,US HOUSE,3,IAP,Zack Strong,4
 ,LE06:UN,US HOUSE,3,IAP,Zack Strong,0
 ,LE06S,US HOUSE,3,IAP,Zack Strong,0
 ,LE07,US HOUSE,3,IAP,Zack Strong,9
 ,LE07:UN,US HOUSE,3,IAP,Zack Strong,0
-,LE08,US HOUSE,3,IAP,Zack Strong,-
-,LE08:UN,US HOUSE,3,IAP,Zack Strong,-
 ,LE09,US HOUSE,3,IAP,Zack Strong,9
 ,LE09:UN,US HOUSE,3,IAP,Zack Strong,0
 ,LE10,US HOUSE,3,IAP,Zack Strong,4
 ,LE10:UN,US HOUSE,3,IAP,Zack Strong,0
-,LE11,US HOUSE,3,IAP,Zack Strong,-
-,LE11:UN,US HOUSE,3,IAP,Zack Strong,-
 ,LE12,US HOUSE,3,IAP,Zack Strong,5
 ,LE12:UN,US HOUSE,3,IAP,Zack Strong,0
-,LE13,US HOUSE,3,IAP,Zack Strong,-
-,LE13:UN,US HOUSE,3,IAP,Zack Strong,-
-,LE14,US HOUSE,3,IAP,Zack Strong,-
 ,LE15,US HOUSE,3,IAP,Zack Strong,4
 ,LE15:UN,US HOUSE,3,IAP,Zack Strong,0
 ,LE16,US HOUSE,3,IAP,Zack Strong,2
@@ -2658,15 +2488,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,LE17:UN,US HOUSE,3,IAP,Zack Strong,0
 ,LE18,US HOUSE,3,IAP,Zack Strong,5
 ,LE18:UN,US HOUSE,3,IAP,Zack Strong,0
-,LE19,US HOUSE,3,IAP,Zack Strong,-
-,LE19:UN,US HOUSE,3,IAP,Zack Strong,-
 ,LE20,US HOUSE,3,IAP,Zack Strong,5
 ,LE20:UN,US HOUSE,3,IAP,Zack Strong,0
 ,LE21,US HOUSE,3,IAP,Zack Strong,0
-,LE22,US HOUSE,3,IAP,Zack Strong,-
-,LE22:UN,US HOUSE,3,IAP,Zack Strong,-
-,LE23,US HOUSE,3,IAP,Zack Strong,-
-,LE23:UN,US HOUSE,3,IAP,Zack Strong,-
 ,LI01,US HOUSE,3,IAP,Zack Strong,10
 ,LI02,US HOUSE,3,IAP,Zack Strong,0
 ,LI03,US HOUSE,3,IAP,Zack Strong,3
@@ -2741,8 +2565,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,PA04,US HOUSE,3,IAP,Zack Strong,4
 ,PA04:UN,US HOUSE,3,IAP,Zack Strong,1
 ,PA05,US HOUSE,3,IAP,Zack Strong,7
-,PA06,US HOUSE,3,IAP,Zack Strong,-
-,PA06:UN,US HOUSE,3,IAP,Zack Strong,-
 ,PA07,US HOUSE,3,IAP,Zack Strong,9
 ,PA08,US HOUSE,3,IAP,Zack Strong,9
 ,PG01,US HOUSE,3,IAP,Zack Strong,15
@@ -2827,9 +2649,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SF04:UN,US HOUSE,3,IAP,Zack Strong,0
 ,SF05,US HOUSE,3,IAP,Zack Strong,9
 ,SF06,US HOUSE,3,IAP,Zack Strong,9
-,SF07,US HOUSE,3,IAP,Zack Strong,-
-,SF07:UN,US HOUSE,3,IAP,Zack Strong,-
-,SF07S,US HOUSE,3,IAP,Zack Strong,-
 ,SF08,US HOUSE,3,IAP,Zack Strong,12
 ,SF08:UN,US HOUSE,3,IAP,Zack Strong,1
 ,SF09,US HOUSE,3,IAP,Zack Strong,5
@@ -2867,44 +2686,18 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SP14:UN,US HOUSE,3,IAP,Zack Strong,0
 ,SP15,US HOUSE,3,IAP,Zack Strong,6
 ,SP16,US HOUSE,3,IAP,Zack Strong,14
-,SP17,US HOUSE,3,IAP,Zack Strong,-
 ,SP18,US HOUSE,3,IAP,Zack Strong,7
-,SQ01,US HOUSE,3,IAP,Zack Strong,-
-,SQ01:UN,US HOUSE,3,IAP,Zack Strong,-
-,SQ02,US HOUSE,3,IAP,Zack Strong,-
-,SQ02:UN,US HOUSE,3,IAP,Zack Strong,-
 ,SQ03,US HOUSE,3,IAP,Zack Strong,2
 ,SQ03:UN,US HOUSE,3,IAP,Zack Strong,0
 ,SQ04,US HOUSE,3,IAP,Zack Strong,4
 ,SQ04:UN,US HOUSE,3,IAP,Zack Strong,0
-,SR01,US HOUSE,3,IAP,Zack Strong,-
-,SR02,US HOUSE,3,IAP,Zack Strong,-
-,SR02:UN,US HOUSE,3,IAP,Zack Strong,-
-,SR03,US HOUSE,3,IAP,Zack Strong,-
-,SR03:UN,US HOUSE,3,IAP,Zack Strong,-
-,SR04,US HOUSE,3,IAP,Zack Strong,-
-,SR05,US HOUSE,3,IAP,Zack Strong,-
-,SR06,US HOUSE,3,IAP,Zack Strong,-
-,SR07,US HOUSE,3,IAP,Zack Strong,-
-,SR08,US HOUSE,3,IAP,Zack Strong,-
-,SR08:UN,US HOUSE,3,IAP,Zack Strong,-
 ,UCBE1,US HOUSE,3,IAP,Zack Strong,0
 ,UCBE2,US HOUSE,3,IAP,Zack Strong,2
 ,UCCB1,US HOUSE,3,IAP,Zack Strong,1
-,UCCF1,US HOUSE,3,IAP,Zack Strong,-
-,UCCF2,US HOUSE,3,IAP,Zack Strong,-
-,UCEL1,US HOUSE,3,IAP,Zack Strong,-
-,UCEL2,US HOUSE,3,IAP,Zack Strong,-
-,UCFF,US HOUSE,3,IAP,Zack Strong,-
-,UCLS1,US HOUSE,3,IAP,Zack Strong,-
-,UCLS2,US HOUSE,3,IAP,Zack Strong,-
 ,UCLV,US HOUSE,3,IAP,Zack Strong,0
 ,UCPC1,US HOUSE,3,IAP,Zack Strong,0
 ,UCPC2,US HOUSE,3,IAP,Zack Strong,0
 ,UCSL,US HOUSE,3,IAP,Zack Strong,1
-,UCUL1,US HOUSE,3,IAP,Zack Strong,-
-,UCUL2,US HOUSE,3,IAP,Zack Strong,-
-,UCWM,US HOUSE,3,IAP,Zack Strong,-
 ,VI01,US HOUSE,3,IAP,Zack Strong,0
 ,VI01S,US HOUSE,3,IAP,Zack Strong,0
 ,VI01S2,US HOUSE,3,IAP,Zack Strong,0
@@ -2934,10 +2727,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AF11:UN,US HOUSE,3,REP,Jason Chaffetz,0
 ,AF12,US HOUSE,3,REP,Jason Chaffetz,291
 ,AF12:UN,US HOUSE,3,REP,Jason Chaffetz,1
-,AF13,US HOUSE,3,REP,Jason Chaffetz,-
-,AF13:UN,US HOUSE,3,REP,Jason Chaffetz,-
-,AF14,US HOUSE,3,REP,Jason Chaffetz,-
-,AF14:UN,US HOUSE,3,REP,Jason Chaffetz,-
 ,AL01,US HOUSE,3,REP,Jason Chaffetz,257
 ,AL01:UN,US HOUSE,3,REP,Jason Chaffetz,25
 ,AL02,US HOUSE,3,REP,Jason Chaffetz,322
@@ -2946,7 +2735,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AL04,US HOUSE,3,REP,Jason Chaffetz,404
 ,AL05,US HOUSE,3,REP,Jason Chaffetz,263
 ,AL06,US HOUSE,3,REP,Jason Chaffetz,313
-,CF01,US HOUSE,3,REP,Jason Chaffetz,-
 ,CH01,US HOUSE,3,REP,Jason Chaffetz,277
 ,CH02,US HOUSE,3,REP,Jason Chaffetz,397
 ,CH02:UN,US HOUSE,3,REP,Jason Chaffetz,0
@@ -2954,22 +2742,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,CH04,US HOUSE,3,REP,Jason Chaffetz,384
 ,CH05,US HOUSE,3,REP,Jason Chaffetz,357
 ,DR01,US HOUSE,3,REP,Jason Chaffetz,224
-,EM01,US HOUSE,3,REP,Jason Chaffetz,-
-,EM02,US HOUSE,3,REP,Jason Chaffetz,-
-,EM03,US HOUSE,3,REP,Jason Chaffetz,-
-,EM04,US HOUSE,3,REP,Jason Chaffetz,-
-,EM05,US HOUSE,3,REP,Jason Chaffetz,-
-,EM06,US HOUSE,3,REP,Jason Chaffetz,-
-,EM07,US HOUSE,3,REP,Jason Chaffetz,-
-,EM08,US HOUSE,3,REP,Jason Chaffetz,-
-,EM09,US HOUSE,3,REP,Jason Chaffetz,-
 ,ER01,US HOUSE,3,REP,Jason Chaffetz,284
 ,ER02,US HOUSE,3,REP,Jason Chaffetz,241
 ,ER02:UN,US HOUSE,3,REP,Jason Chaffetz,0
-,FF01,US HOUSE,3,REP,Jason Chaffetz,-
-,GE01,US HOUSE,3,REP,Jason Chaffetz,-
-,GO01,US HOUSE,3,REP,Jason Chaffetz,-
-,GO02,US HOUSE,3,REP,Jason Chaffetz,-
 ,HI01,US HOUSE,3,REP,Jason Chaffetz,352
 ,HI02,US HOUSE,3,REP,Jason Chaffetz,389
 ,HI03,US HOUSE,3,REP,Jason Chaffetz,294
@@ -2985,35 +2760,21 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,HI09,US HOUSE,3,REP,Jason Chaffetz,388
 ,HI09:UN,US HOUSE,3,REP,Jason Chaffetz,0
 ,HI10,US HOUSE,3,REP,Jason Chaffetz,101
-,LE01,US HOUSE,3,REP,Jason Chaffetz,-
-,LE01:UN,US HOUSE,3,REP,Jason Chaffetz,-
 ,LE01S,US HOUSE,3,REP,Jason Chaffetz,2
 ,LE01S:UN,US HOUSE,3,REP,Jason Chaffetz,0
-,LE02,US HOUSE,3,REP,Jason Chaffetz,-
 ,LE03,US HOUSE,3,REP,Jason Chaffetz,352
 ,LE03:UN,US HOUSE,3,REP,Jason Chaffetz,0
-,LE04,US HOUSE,3,REP,Jason Chaffetz,-
-,LE04:UN,US HOUSE,3,REP,Jason Chaffetz,-
-,LE05,US HOUSE,3,REP,Jason Chaffetz,-
-,LE05:UN,US HOUSE,3,REP,Jason Chaffetz,-
 ,LE06,US HOUSE,3,REP,Jason Chaffetz,492
 ,LE06:UN,US HOUSE,3,REP,Jason Chaffetz,7
 ,LE06S,US HOUSE,3,REP,Jason Chaffetz,1
 ,LE07,US HOUSE,3,REP,Jason Chaffetz,229
 ,LE07:UN,US HOUSE,3,REP,Jason Chaffetz,0
-,LE08,US HOUSE,3,REP,Jason Chaffetz,-
-,LE08:UN,US HOUSE,3,REP,Jason Chaffetz,-
 ,LE09,US HOUSE,3,REP,Jason Chaffetz,284
 ,LE09:UN,US HOUSE,3,REP,Jason Chaffetz,0
 ,LE10,US HOUSE,3,REP,Jason Chaffetz,552
 ,LE10:UN,US HOUSE,3,REP,Jason Chaffetz,0
-,LE11,US HOUSE,3,REP,Jason Chaffetz,-
-,LE11:UN,US HOUSE,3,REP,Jason Chaffetz,-
 ,LE12,US HOUSE,3,REP,Jason Chaffetz,297
 ,LE12:UN,US HOUSE,3,REP,Jason Chaffetz,0
-,LE13,US HOUSE,3,REP,Jason Chaffetz,-
-,LE13:UN,US HOUSE,3,REP,Jason Chaffetz,-
-,LE14,US HOUSE,3,REP,Jason Chaffetz,-
 ,LE15,US HOUSE,3,REP,Jason Chaffetz,296
 ,LE15:UN,US HOUSE,3,REP,Jason Chaffetz,0
 ,LE16,US HOUSE,3,REP,Jason Chaffetz,219
@@ -3022,15 +2783,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,LE17:UN,US HOUSE,3,REP,Jason Chaffetz,2
 ,LE18,US HOUSE,3,REP,Jason Chaffetz,200
 ,LE18:UN,US HOUSE,3,REP,Jason Chaffetz,0
-,LE19,US HOUSE,3,REP,Jason Chaffetz,-
-,LE19:UN,US HOUSE,3,REP,Jason Chaffetz,-
 ,LE20,US HOUSE,3,REP,Jason Chaffetz,336
 ,LE20:UN,US HOUSE,3,REP,Jason Chaffetz,0
 ,LE21,US HOUSE,3,REP,Jason Chaffetz,0
-,LE22,US HOUSE,3,REP,Jason Chaffetz,-
-,LE22:UN,US HOUSE,3,REP,Jason Chaffetz,-
-,LE23,US HOUSE,3,REP,Jason Chaffetz,-
-,LE23:UN,US HOUSE,3,REP,Jason Chaffetz,-
 ,LI01,US HOUSE,3,REP,Jason Chaffetz,443
 ,LI02,US HOUSE,3,REP,Jason Chaffetz,215
 ,LI03,US HOUSE,3,REP,Jason Chaffetz,199
@@ -3105,8 +2860,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,PA04,US HOUSE,3,REP,Jason Chaffetz,226
 ,PA04:UN,US HOUSE,3,REP,Jason Chaffetz,23
 ,PA05,US HOUSE,3,REP,Jason Chaffetz,179
-,PA06,US HOUSE,3,REP,Jason Chaffetz,-
-,PA06:UN,US HOUSE,3,REP,Jason Chaffetz,-
 ,PA07,US HOUSE,3,REP,Jason Chaffetz,354
 ,PA08,US HOUSE,3,REP,Jason Chaffetz,252
 ,PG01,US HOUSE,3,REP,Jason Chaffetz,462
@@ -3191,9 +2944,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SF04:UN,US HOUSE,3,REP,Jason Chaffetz,0
 ,SF05,US HOUSE,3,REP,Jason Chaffetz,278
 ,SF06,US HOUSE,3,REP,Jason Chaffetz,234
-,SF07,US HOUSE,3,REP,Jason Chaffetz,-
-,SF07:UN,US HOUSE,3,REP,Jason Chaffetz,-
-,SF07S,US HOUSE,3,REP,Jason Chaffetz,-
 ,SF08,US HOUSE,3,REP,Jason Chaffetz,341
 ,SF08:UN,US HOUSE,3,REP,Jason Chaffetz,0
 ,SF09,US HOUSE,3,REP,Jason Chaffetz,285
@@ -3231,44 +2981,18 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SP14:UN,US HOUSE,3,REP,Jason Chaffetz,0
 ,SP15,US HOUSE,3,REP,Jason Chaffetz,100
 ,SP16,US HOUSE,3,REP,Jason Chaffetz,207
-,SP17,US HOUSE,3,REP,Jason Chaffetz,-
 ,SP18,US HOUSE,3,REP,Jason Chaffetz,144
-,SQ01,US HOUSE,3,REP,Jason Chaffetz,-
-,SQ01:UN,US HOUSE,3,REP,Jason Chaffetz,-
-,SQ02,US HOUSE,3,REP,Jason Chaffetz,-
-,SQ02:UN,US HOUSE,3,REP,Jason Chaffetz,-
 ,SQ03,US HOUSE,3,REP,Jason Chaffetz,255
 ,SQ03:UN,US HOUSE,3,REP,Jason Chaffetz,0
 ,SQ04,US HOUSE,3,REP,Jason Chaffetz,75
 ,SQ04:UN,US HOUSE,3,REP,Jason Chaffetz,0
-,SR01,US HOUSE,3,REP,Jason Chaffetz,-
-,SR02,US HOUSE,3,REP,Jason Chaffetz,-
-,SR02:UN,US HOUSE,3,REP,Jason Chaffetz,-
-,SR03,US HOUSE,3,REP,Jason Chaffetz,-
-,SR03:UN,US HOUSE,3,REP,Jason Chaffetz,-
-,SR04,US HOUSE,3,REP,Jason Chaffetz,-
-,SR05,US HOUSE,3,REP,Jason Chaffetz,-
-,SR06,US HOUSE,3,REP,Jason Chaffetz,-
-,SR07,US HOUSE,3,REP,Jason Chaffetz,-
-,SR08,US HOUSE,3,REP,Jason Chaffetz,-
-,SR08:UN,US HOUSE,3,REP,Jason Chaffetz,-
 ,UCBE1,US HOUSE,3,REP,Jason Chaffetz,0
 ,UCBE2,US HOUSE,3,REP,Jason Chaffetz,18
 ,UCCB1,US HOUSE,3,REP,Jason Chaffetz,53
-,UCCF1,US HOUSE,3,REP,Jason Chaffetz,-
-,UCCF2,US HOUSE,3,REP,Jason Chaffetz,-
-,UCEL1,US HOUSE,3,REP,Jason Chaffetz,-
-,UCEL2,US HOUSE,3,REP,Jason Chaffetz,-
-,UCFF,US HOUSE,3,REP,Jason Chaffetz,-
-,UCLS1,US HOUSE,3,REP,Jason Chaffetz,-
-,UCLS2,US HOUSE,3,REP,Jason Chaffetz,-
 ,UCLV,US HOUSE,3,REP,Jason Chaffetz,0
 ,UCPC1,US HOUSE,3,REP,Jason Chaffetz,53
 ,UCPC2,US HOUSE,3,REP,Jason Chaffetz,29
 ,UCSL,US HOUSE,3,REP,Jason Chaffetz,88
-,UCUL1,US HOUSE,3,REP,Jason Chaffetz,-
-,UCUL2,US HOUSE,3,REP,Jason Chaffetz,-
-,UCWM,US HOUSE,3,REP,Jason Chaffetz,-
 ,VI01,US HOUSE,3,REP,Jason Chaffetz,73
 ,VI01S,US HOUSE,3,REP,Jason Chaffetz,6
 ,VI01S2,US HOUSE,3,REP,Jason Chaffetz,8
@@ -3298,10 +3022,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AF11:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,AF12,US HOUSE,3,,Stephen P. Tryon,5
 ,AF12:UN,US HOUSE,3,,Stephen P. Tryon,0
-,AF13,US HOUSE,3,,Stephen P. Tryon,-
-,AF13:UN,US HOUSE,3,,Stephen P. Tryon,-
-,AF14,US HOUSE,3,,Stephen P. Tryon,-
-,AF14:UN,US HOUSE,3,,Stephen P. Tryon,-
 ,AL01,US HOUSE,3,,Stephen P. Tryon,2
 ,AL01:UN,US HOUSE,3,,Stephen P. Tryon,2
 ,AL02,US HOUSE,3,,Stephen P. Tryon,3
@@ -3310,7 +3030,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AL04,US HOUSE,3,,Stephen P. Tryon,3
 ,AL05,US HOUSE,3,,Stephen P. Tryon,4
 ,AL06,US HOUSE,3,,Stephen P. Tryon,2
-,CF01,US HOUSE,3,,Stephen P. Tryon,-
 ,CH01,US HOUSE,3,,Stephen P. Tryon,1
 ,CH02,US HOUSE,3,,Stephen P. Tryon,4
 ,CH02:UN,US HOUSE,3,,Stephen P. Tryon,0
@@ -3318,22 +3037,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,CH04,US HOUSE,3,,Stephen P. Tryon,5
 ,CH05,US HOUSE,3,,Stephen P. Tryon,4
 ,DR01,US HOUSE,3,,Stephen P. Tryon,10
-,EM01,US HOUSE,3,,Stephen P. Tryon,-
-,EM02,US HOUSE,3,,Stephen P. Tryon,-
-,EM03,US HOUSE,3,,Stephen P. Tryon,-
-,EM04,US HOUSE,3,,Stephen P. Tryon,-
-,EM05,US HOUSE,3,,Stephen P. Tryon,-
-,EM06,US HOUSE,3,,Stephen P. Tryon,-
-,EM07,US HOUSE,3,,Stephen P. Tryon,-
-,EM08,US HOUSE,3,,Stephen P. Tryon,-
-,EM09,US HOUSE,3,,Stephen P. Tryon,-
 ,ER01,US HOUSE,3,,Stephen P. Tryon,6
 ,ER02,US HOUSE,3,,Stephen P. Tryon,4
 ,ER02:UN,US HOUSE,3,,Stephen P. Tryon,0
-,FF01,US HOUSE,3,,Stephen P. Tryon,-
-,GE01,US HOUSE,3,,Stephen P. Tryon,-
-,GO01,US HOUSE,3,,Stephen P. Tryon,-
-,GO02,US HOUSE,3,,Stephen P. Tryon,-
 ,HI01,US HOUSE,3,,Stephen P. Tryon,4
 ,HI02,US HOUSE,3,,Stephen P. Tryon,2
 ,HI03,US HOUSE,3,,Stephen P. Tryon,4
@@ -3349,35 +3055,21 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,HI09,US HOUSE,3,,Stephen P. Tryon,8
 ,HI09:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,HI10,US HOUSE,3,,Stephen P. Tryon,1
-,LE01,US HOUSE,3,,Stephen P. Tryon,-
-,LE01:UN,US HOUSE,3,,Stephen P. Tryon,-
 ,LE01S,US HOUSE,3,,Stephen P. Tryon,0
 ,LE01S:UN,US HOUSE,3,,Stephen P. Tryon,0
-,LE02,US HOUSE,3,,Stephen P. Tryon,-
 ,LE03,US HOUSE,3,,Stephen P. Tryon,4
 ,LE03:UN,US HOUSE,3,,Stephen P. Tryon,0
-,LE04,US HOUSE,3,,Stephen P. Tryon,-
-,LE04:UN,US HOUSE,3,,Stephen P. Tryon,-
-,LE05,US HOUSE,3,,Stephen P. Tryon,-
-,LE05:UN,US HOUSE,3,,Stephen P. Tryon,-
 ,LE06,US HOUSE,3,,Stephen P. Tryon,9
 ,LE06:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,LE06S,US HOUSE,3,,Stephen P. Tryon,0
 ,LE07,US HOUSE,3,,Stephen P. Tryon,7
 ,LE07:UN,US HOUSE,3,,Stephen P. Tryon,0
-,LE08,US HOUSE,3,,Stephen P. Tryon,-
-,LE08:UN,US HOUSE,3,,Stephen P. Tryon,-
 ,LE09,US HOUSE,3,,Stephen P. Tryon,1
 ,LE09:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,LE10,US HOUSE,3,,Stephen P. Tryon,5
 ,LE10:UN,US HOUSE,3,,Stephen P. Tryon,0
-,LE11,US HOUSE,3,,Stephen P. Tryon,-
-,LE11:UN,US HOUSE,3,,Stephen P. Tryon,-
 ,LE12,US HOUSE,3,,Stephen P. Tryon,5
 ,LE12:UN,US HOUSE,3,,Stephen P. Tryon,0
-,LE13,US HOUSE,3,,Stephen P. Tryon,-
-,LE13:UN,US HOUSE,3,,Stephen P. Tryon,-
-,LE14,US HOUSE,3,,Stephen P. Tryon,-
 ,LE15,US HOUSE,3,,Stephen P. Tryon,3
 ,LE15:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,LE16,US HOUSE,3,,Stephen P. Tryon,5
@@ -3386,15 +3078,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,LE17:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,LE18,US HOUSE,3,,Stephen P. Tryon,3
 ,LE18:UN,US HOUSE,3,,Stephen P. Tryon,0
-,LE19,US HOUSE,3,,Stephen P. Tryon,-
-,LE19:UN,US HOUSE,3,,Stephen P. Tryon,-
 ,LE20,US HOUSE,3,,Stephen P. Tryon,4
 ,LE20:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,LE21,US HOUSE,3,,Stephen P. Tryon,0
-,LE22,US HOUSE,3,,Stephen P. Tryon,-
-,LE22:UN,US HOUSE,3,,Stephen P. Tryon,-
-,LE23,US HOUSE,3,,Stephen P. Tryon,-
-,LE23:UN,US HOUSE,3,,Stephen P. Tryon,-
 ,LI01,US HOUSE,3,,Stephen P. Tryon,10
 ,LI02,US HOUSE,3,,Stephen P. Tryon,1
 ,LI03,US HOUSE,3,,Stephen P. Tryon,3
@@ -3469,8 +3155,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,PA04,US HOUSE,3,,Stephen P. Tryon,2
 ,PA04:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,PA05,US HOUSE,3,,Stephen P. Tryon,1
-,PA06,US HOUSE,3,,Stephen P. Tryon,-
-,PA06:UN,US HOUSE,3,,Stephen P. Tryon,-
 ,PA07,US HOUSE,3,,Stephen P. Tryon,8
 ,PA08,US HOUSE,3,,Stephen P. Tryon,5
 ,PG01,US HOUSE,3,,Stephen P. Tryon,3
@@ -3555,9 +3239,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SF04:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,SF05,US HOUSE,3,,Stephen P. Tryon,5
 ,SF06,US HOUSE,3,,Stephen P. Tryon,1
-,SF07,US HOUSE,3,,Stephen P. Tryon,-
-,SF07:UN,US HOUSE,3,,Stephen P. Tryon,-
-,SF07S,US HOUSE,3,,Stephen P. Tryon,-
 ,SF08,US HOUSE,3,,Stephen P. Tryon,3
 ,SF08:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,SF09,US HOUSE,3,,Stephen P. Tryon,4
@@ -3595,44 +3276,18 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SP14:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,SP15,US HOUSE,3,,Stephen P. Tryon,0
 ,SP16,US HOUSE,3,,Stephen P. Tryon,4
-,SP17,US HOUSE,3,,Stephen P. Tryon,-
 ,SP18,US HOUSE,3,,Stephen P. Tryon,7
-,SQ01,US HOUSE,3,,Stephen P. Tryon,-
-,SQ01:UN,US HOUSE,3,,Stephen P. Tryon,-
-,SQ02,US HOUSE,3,,Stephen P. Tryon,-
-,SQ02:UN,US HOUSE,3,,Stephen P. Tryon,-
 ,SQ03,US HOUSE,3,,Stephen P. Tryon,5
 ,SQ03:UN,US HOUSE,3,,Stephen P. Tryon,0
 ,SQ04,US HOUSE,3,,Stephen P. Tryon,0
 ,SQ04:UN,US HOUSE,3,,Stephen P. Tryon,0
-,SR01,US HOUSE,3,,Stephen P. Tryon,-
-,SR02,US HOUSE,3,,Stephen P. Tryon,-
-,SR02:UN,US HOUSE,3,,Stephen P. Tryon,-
-,SR03,US HOUSE,3,,Stephen P. Tryon,-
-,SR03:UN,US HOUSE,3,,Stephen P. Tryon,-
-,SR04,US HOUSE,3,,Stephen P. Tryon,-
-,SR05,US HOUSE,3,,Stephen P. Tryon,-
-,SR06,US HOUSE,3,,Stephen P. Tryon,-
-,SR07,US HOUSE,3,,Stephen P. Tryon,-
-,SR08,US HOUSE,3,,Stephen P. Tryon,-
-,SR08:UN,US HOUSE,3,,Stephen P. Tryon,-
 ,UCBE1,US HOUSE,3,,Stephen P. Tryon,0
 ,UCBE2,US HOUSE,3,,Stephen P. Tryon,0
 ,UCCB1,US HOUSE,3,,Stephen P. Tryon,0
-,UCCF1,US HOUSE,3,,Stephen P. Tryon,-
-,UCCF2,US HOUSE,3,,Stephen P. Tryon,-
-,UCEL1,US HOUSE,3,,Stephen P. Tryon,-
-,UCEL2,US HOUSE,3,,Stephen P. Tryon,-
-,UCFF,US HOUSE,3,,Stephen P. Tryon,-
-,UCLS1,US HOUSE,3,,Stephen P. Tryon,-
-,UCLS2,US HOUSE,3,,Stephen P. Tryon,-
 ,UCLV,US HOUSE,3,,Stephen P. Tryon,0
 ,UCPC1,US HOUSE,3,,Stephen P. Tryon,1
 ,UCPC2,US HOUSE,3,,Stephen P. Tryon,1
 ,UCSL,US HOUSE,3,,Stephen P. Tryon,0
-,UCUL1,US HOUSE,3,,Stephen P. Tryon,-
-,UCUL2,US HOUSE,3,,Stephen P. Tryon,-
-,UCWM,US HOUSE,3,,Stephen P. Tryon,-
 ,VI01,US HOUSE,3,,Stephen P. Tryon,4
 ,VI01S,US HOUSE,3,,Stephen P. Tryon,0
 ,VI01S2,US HOUSE,3,,Stephen P. Tryon,0
@@ -3662,10 +3317,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AF11:UN,US HOUSE,3,,Write-In Votes,0
 ,AF12,US HOUSE,3,,Write-In Votes,1
 ,AF12:UN,US HOUSE,3,,Write-In Votes,0
-,AF13,US HOUSE,3,,Write-In Votes,
-,AF13:UN,US HOUSE,3,,Write-In Votes,
-,AF14,US HOUSE,3,,Write-In Votes,
-,AF14:UN,US HOUSE,3,,Write-In Votes,
 ,AL01,US HOUSE,3,,Write-In Votes,3
 ,AL01:UN,US HOUSE,3,,Write-In Votes,0
 ,AL02,US HOUSE,3,,Write-In Votes,0
@@ -3674,7 +3325,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,AL04,US HOUSE,3,,Write-In Votes,0
 ,AL05,US HOUSE,3,,Write-In Votes,1
 ,AL06,US HOUSE,3,,Write-In Votes,0
-,CF01,US HOUSE,3,,Write-In Votes,
 ,CH01,US HOUSE,3,,Write-In Votes,1
 ,CH02,US HOUSE,3,,Write-In Votes,2
 ,CH02:UN,US HOUSE,3,,Write-In Votes,0
@@ -3682,22 +3332,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,CH04,US HOUSE,3,,Write-In Votes,0
 ,CH05,US HOUSE,3,,Write-In Votes,3
 ,DR01,US HOUSE,3,,Write-In Votes,1
-,EM01,US HOUSE,3,,Write-In Votes,
-,EM02,US HOUSE,3,,Write-In Votes,
-,EM03,US HOUSE,3,,Write-In Votes,
-,EM04,US HOUSE,3,,Write-In Votes,
-,EM05,US HOUSE,3,,Write-In Votes,
-,EM06,US HOUSE,3,,Write-In Votes,
-,EM07,US HOUSE,3,,Write-In Votes,
-,EM08,US HOUSE,3,,Write-In Votes,
-,EM09,US HOUSE,3,,Write-In Votes,
 ,ER01,US HOUSE,3,,Write-In Votes,0
 ,ER02,US HOUSE,3,,Write-In Votes,2
 ,ER02:UN,US HOUSE,3,,Write-In Votes,0
-,FF01,US HOUSE,3,,Write-In Votes,
-,GE01,US HOUSE,3,,Write-In Votes,
-,GO01,US HOUSE,3,,Write-In Votes,-
-,GO02,US HOUSE,3,,Write-In Votes,-
 ,HI01,US HOUSE,3,,Write-In Votes,0
 ,HI02,US HOUSE,3,,Write-In Votes,0
 ,HI03,US HOUSE,3,,Write-In Votes,1
@@ -3713,35 +3350,21 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,HI09,US HOUSE,3,,Write-In Votes,0
 ,HI09:UN,US HOUSE,3,,Write-In Votes,0
 ,HI10,US HOUSE,3,,Write-In Votes,0
-,LE01,US HOUSE,3,,Write-In Votes,-
-,LE01:UN,US HOUSE,3,,Write-In Votes,-
 ,LE01S,US HOUSE,3,,Write-In Votes,0
 ,LE01S:UN,US HOUSE,3,,Write-In Votes,0
-,LE02,US HOUSE,3,,Write-In Votes,-
 ,LE03,US HOUSE,3,,Write-In Votes,1
 ,LE03:UN,US HOUSE,3,,Write-In Votes,0
-,LE04,US HOUSE,3,,Write-In Votes,-
-,LE04:UN,US HOUSE,3,,Write-In Votes,-
-,LE05,US HOUSE,3,,Write-In Votes,-
-,LE05:UN,US HOUSE,3,,Write-In Votes,-
 ,LE06,US HOUSE,3,,Write-In Votes,0
 ,LE06:UN,US HOUSE,3,,Write-In Votes,0
 ,LE06S,US HOUSE,3,,Write-In Votes,0
 ,LE07,US HOUSE,3,,Write-In Votes,1
 ,LE07:UN,US HOUSE,3,,Write-In Votes,0
-,LE08,US HOUSE,3,,Write-In Votes,-
-,LE08:UN,US HOUSE,3,,Write-In Votes,-
 ,LE09,US HOUSE,3,,Write-In Votes,1
 ,LE09:UN,US HOUSE,3,,Write-In Votes,0
 ,LE10,US HOUSE,3,,Write-In Votes,0
 ,LE10:UN,US HOUSE,3,,Write-In Votes,0
-,LE11,US HOUSE,3,,Write-In Votes,-
-,LE11:UN,US HOUSE,3,,Write-In Votes,-
 ,LE12,US HOUSE,3,,Write-In Votes,0
 ,LE12:UN,US HOUSE,3,,Write-In Votes,0
-,LE13,US HOUSE,3,,Write-In Votes,-
-,LE13:UN,US HOUSE,3,,Write-In Votes,-
-,LE14,US HOUSE,3,,Write-In Votes,-
 ,LE15,US HOUSE,3,,Write-In Votes,5
 ,LE15:UN,US HOUSE,3,,Write-In Votes,0
 ,LE16,US HOUSE,3,,Write-In Votes,0
@@ -3750,15 +3373,9 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,LE17:UN,US HOUSE,3,,Write-In Votes,0
 ,LE18,US HOUSE,3,,Write-In Votes,0
 ,LE18:UN,US HOUSE,3,,Write-In Votes,0
-,LE19,US HOUSE,3,,Write-In Votes,-
-,LE19:UN,US HOUSE,3,,Write-In Votes,-
 ,LE20,US HOUSE,3,,Write-In Votes,1
 ,LE20:UN,US HOUSE,3,,Write-In Votes,0
 ,LE21,US HOUSE,3,,Write-In Votes,0
-,LE22,US HOUSE,3,,Write-In Votes,
-,LE22:UN,US HOUSE,3,,Write-In Votes,
-,LE23,US HOUSE,3,,Write-In Votes,
-,LE23:UN,US HOUSE,3,,Write-In Votes,
 ,LI01,US HOUSE,3,,Write-In Votes,1
 ,LI02,US HOUSE,3,,Write-In Votes,1
 ,LI03,US HOUSE,3,,Write-In Votes,2
@@ -3833,8 +3450,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,PA04,US HOUSE,3,,Write-In Votes,0
 ,PA04:UN,US HOUSE,3,,Write-In Votes,0
 ,PA05,US HOUSE,3,,Write-In Votes,0
-,PA06,US HOUSE,3,,Write-In Votes,-
-,PA06:UN,US HOUSE,3,,Write-In Votes,-
 ,PA07,US HOUSE,3,,Write-In Votes,0
 ,PA08,US HOUSE,3,,Write-In Votes,0
 ,PG01,US HOUSE,3,,Write-In Votes,1
@@ -3919,9 +3534,6 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SF04:UN,US HOUSE,3,,Write-In Votes,0
 ,SF05,US HOUSE,3,,Write-In Votes,1
 ,SF06,US HOUSE,3,,Write-In Votes,1
-,SF07,US HOUSE,3,,Write-In Votes,-
-,SF07:UN,US HOUSE,3,,Write-In Votes,-
-,SF07S,US HOUSE,3,,Write-In Votes,-
 ,SF08,US HOUSE,3,,Write-In Votes,0
 ,SF08:UN,US HOUSE,3,,Write-In Votes,0
 ,SF09,US HOUSE,3,,Write-In Votes,1
@@ -3959,44 +3571,18 @@ Utah,AF01,Straight Party,,LIBERTARIAN (LIB),,1
 ,SP14:UN,US HOUSE,3,,Write-In Votes,0
 ,SP15,US HOUSE,3,,Write-In Votes,1
 ,SP16,US HOUSE,3,,Write-In Votes,1
-,SP17,US HOUSE,3,,Write-In Votes,
 ,SP18,US HOUSE,3,,Write-In Votes,0
-,SQ01,US HOUSE,3,,Write-In Votes,
-,SQ01:UN,US HOUSE,3,,Write-In Votes,
-,SQ02,US HOUSE,3,,Write-In Votes,
-,SQ02:UN,US HOUSE,3,,Write-In Votes,
 ,SQ03,US HOUSE,3,,Write-In Votes,1
 ,SQ03:UN,US HOUSE,3,,Write-In Votes,0
 ,SQ04,US HOUSE,3,,Write-In Votes,0
 ,SQ04:UN,US HOUSE,3,,Write-In Votes,0
-,SR01,US HOUSE,3,,Write-In Votes,
-,SR02,US HOUSE,3,,Write-In Votes,
-,SR02:UN,US HOUSE,3,,Write-In Votes,
-,SR03,US HOUSE,3,,Write-In Votes,
-,SR03:UN,US HOUSE,3,,Write-In Votes,
-,SR04,US HOUSE,3,,Write-In Votes,
-,SR05,US HOUSE,3,,Write-In Votes,
-,SR06,US HOUSE,3,,Write-In Votes,
-,SR07,US HOUSE,3,,Write-In Votes,
-,SR08,US HOUSE,3,,Write-In Votes,
-,SR08:UN,US HOUSE,3,,Write-In Votes,
 ,UCBE1,US HOUSE,3,,Write-In Votes,0
 ,UCBE2,US HOUSE,3,,Write-In Votes,0
 ,UCCB1,US HOUSE,3,,Write-In Votes,0
-,UCCF1,US HOUSE,3,,Write-In Votes,
-,UCCF2,US HOUSE,3,,Write-In Votes,
-,UCEL1,US HOUSE,3,,Write-In Votes,
-,UCEL2,US HOUSE,3,,Write-In Votes,
-,UCFF,US HOUSE,3,,Write-In Votes,
-,UCLS1,US HOUSE,3,,Write-In Votes,
-,UCLS2,US HOUSE,3,,Write-In Votes,
 ,UCLV,US HOUSE,3,,Write-In Votes,0
 ,UCPC1,US HOUSE,3,,Write-In Votes,0
 ,UCPC2,US HOUSE,3,,Write-In Votes,0
 ,UCSL,US HOUSE,3,,Write-In Votes,0
-,UCUL1,US HOUSE,3,,Write-In Votes,
-,UCUL2,US HOUSE,3,,Write-In Votes,
-,UCWM,US HOUSE,3,,Write-In Votes,
 ,VI01,US HOUSE,3,,Write-In Votes,0
 ,VI01S,US HOUSE,3,,Write-In Votes,0
 ,VI01S2,US HOUSE,3,,Write-In Votes,0
