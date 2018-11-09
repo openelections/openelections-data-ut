@@ -1,0 +1,673 @@
+county,precinct,office,district,Candidate,party,polling,polling_2 ,polling_3 ,early_voting ,absentee ,provisional ,paper ,votes 
+Washington,AV51,Registered Voters,,,,407,407,407,407,407,407,407,407
+Washington,COAND,Registered Voters,,,,4,4,4,4,4,4,4,4
+Washington,COCDSR,Registered Voters,,,,138,138,138,138,138,138,138,138
+Washington,COCNBR,Registered Voters,,,,229,229,229,229,229,229,229,229
+Washington,CODAV,Registered Voters,,,,562,562,562,562,562,562,562,562
+Washington,CODIV,Registered Voters,,,,620,620,620,620,620,620,620,620
+Washington,CODXDR,Registered Voters,,,,298,298,298,298,298,298,298,298
+Washington,COGL,Registered Voters,,,,55,55,55,55,55,55,55,55
+Washington,COGUBL,Registered Voters,,,,2,2,2,2,2,2,2,2
+Washington,COHS74,Registered Voters,,,,37,27,27,27,27,27,27,27
+Washington,COHV28,Registered Voters,,,,26,26,26,26,26,26,26,26
+Washington,COHV29,Registered Voters,,,,7,7,7,7,7,7,7,7
+Washington,COLEED,Registered Voters,,,,190,190,190,190,190,190,190,190
+Washington,CONCF,Registered Voters,,,,106,106,106,106,106,106,106,106
+Washington,CONH,Registered Voters,,,,610,610,610,610,610,610,610,610
+Washington,COPINE,Registered Voters,,,,143,143,143,143,143,143,143,143
+Washington,COSN28,Registered Voters,,,,29,29,29,29,29,29,29,29
+Washington,COVE,Registered Voters,,,,225,225,225,225,225,225,225,225
+Washington,COWH,Registered Voters,,,,537,587,587,587,587,587,587,587
+Washington,EN82,Registered Voters,,,,881,881,881,881,881,881,881,881
+Washington,HIL97,Registered Voters,,,,354,354,354,354,354,354,354,354
+Washington,HU52,Registered Voters,,,,739,739,739,739,739,739,739,739
+Washington,HU53,Registered Voters,,,,856,856,856,856,856,856,856,856
+Washington,HU54,Registered Voters,,,,802,802,802,802,802,802,802,802
+Washington,HU55,Registered Voters,,,,595,595,595,595,595,595,595,595
+Washington,HU56,Registered Voters,,,,967,967,967,967,967,967,967,967
+Washington,HU57,Registered Voters,,,,825,825,825,825,825,825,825,825
+Washington,HU58,Registered Voters,,,,920,920,920,920,920,920,920,920
+Washington,HU59,Registered Voters,,,,768,768,768,768,768,768,768,768
+Washington,HU60,Registered Voters,,,,1165,1165,1165,1165,1165,1165,1165,1165
+Washington,IV76,Registered Voters,,,,699,699,699,699,699,699,699,699
+Washington,IV77,Registered Voters,,,,933,933,933,933,933,933,933,933
+Washington,IV78,Registered Voters,,,,1006,1006,1006,1006,1006,1006,1006,1006
+Washington,IV79,Registered Voters,,,,873,873,873,873,873,873,873,873
+Washington,IV80,Registered Voters,,,,916,916,916,916,916,916,916,916
+Washington,LA85,Registered Voters,,,,643,643,643,643,643,643,643,643
+Washington,LA86,Registered Voters,,,,526,526,526,526,526,526,526,526
+Washington,LA87,Registered Voters,,,,481,481,481,481,481,481,481,481
+Washington,LE90,Registered Voters,,,,503,503,503,503,503,503,503,503
+Washington,NH93,Registered Voters,,,,135,135,135,135,135,135,135,135
+Washington,RC94,Registered Voters,,,,158,158,158,158,158,158,158,158
+Washington,SC71,Registered Voters,,,,1070,1070,1070,1070,1070,1070,1070,1070
+Washington,SC72,Registered Voters,,,,593,593,593,593,593,593,593,593
+Washington,SC73,Registered Voters,,,,879,879,879,879,879,879,879,879
+Washington,SC74,Registered Voters,,,,991,991,991,991,991,991,991,991
+Washington,SG01,Registered Voters,,,,634,634,634,634,634,634,634,634
+Washington,SG02,Registered Voters,,,,592,592,592,592,592,592,592,592
+Washington,SG03,Registered Voters,,,,541,541,541,541,541,541,541,541
+Washington,SG04,Registered Voters,,,,418,418,418,418,418,418,418,418
+Washington,SG05,Registered Voters,,,,558,558,558,558,558,558,558,558
+Washington,SG06,Registered Voters,,,,660,660,660,660,660,660,660,660
+Washington,SG07,Registered Voters,,,,624,624,624,624,624,624,624,624
+Washington,SG08,Registered Voters,,,,635,635,635,635,635,635,635,635
+Washington,SG09,Registered Voters,,,,930,930,930,930,930,930,930,930
+Washington,SG10,Registered Voters,,,,408,408,408,408,408,408,408,408
+Washington,SG11,Registered Voters,,,,644,644,644,644,644,644,644,644
+Washington,SG12,Registered Voters,,,,741,741,741,741,741,741,741,741
+Washington,SG13,Registered Voters,,,,710,710,710,710,710,710,710,710
+Washington,SG14,Registered Voters,,,,505,505,505,505,505,505,505,505
+Washington,SG15,Registered Voters,,,,811,811,811,811,811,811,811,811
+Washington,SG16,Registered Voters,,,,706,706,706,706,706,706,706,706
+Washington,SG17,Registered Voters,,,,987,987,937,987,987,987,937,987
+Washington,SG18,Registered Voters,,,,827,827,827,827,827,827,827,827
+Washington,SG19,Registered Voters,,,,929,929,929,929,929,929,929,929
+Washington,SG20,Registered Voters,,,,912,912,912,912,912,912,912,912
+Washington,SG21,Registered Voters,,,,941,941,941,941,941,941,941,941
+Washington,SG22,Registered Voters,,,,635,635,635,635,635,635,635,635
+Washington,SG23,Registered Voters,,,,886,886,886,886,836,886,886,886
+Washington,SG24,Registered Voters,,,,435,485,485,485,485,485,485,485
+Washington,SG25,Registered Voters,,,,586,586,586,586,586,586,586,586
+Washington,SG26,Registered Voters,,,,730,730,730,730,730,730,730,730
+Washington,SG27,Registered Voters,,,,874,874,874,874,874,874,874,874
+Washington,SG28,Registered Voters,,,,1018,1018,1018,1018,1918,1018,1018,1018
+Washington,SG29,Registered Voters,,,,861,861,861,861,861,861,861,861
+Washington,SG30,Registered Voters,,,,1102,1102,1102,1102,1102,1102,1102,1102
+Washington,SG31,Registered Voters,,,,855,855,855,855,855,855,55,855
+Washington,SG32,Registered Voters,,,,826,826,826,826,826,826,826,826
+Washington,SG33,Registered Voters,,,,568,568,568,568,568,568,568,568
+Washington,SG34,Registered Voters,,,,1003,1003,1003,1003,1003,1003,1003,1003
+Washington,SG35,Registered Voters,,,,898,898,898,898,898,898,898,898
+Washington,SG36,Registered Voters,,,,864,864,864,864,864,864,864,864
+Washington,SG37,Registered Voters,,,,756,756,756,756,756,756,756,756
+Washington,SG38,Registered Voters,,,,870,870,870,870,870,870,870,870
+Washington,SG39,Registered Voters,,,,1140,1140,1140,1140,1140,1140,1140,1140
+Washington,SG40,Registered Voters,,,,758,758,758,758,758,758,738,758
+Washington,SG41,Registered Voters,,,,684,684,684,684,684,684,684,684
+Washington,SG42,Registered Voters,,,,785,785,785,785,785,785,785,785
+Washington,SG43,Registered Voters,,,,740,740,740,740,740,740,740,740
+Washington,SG44,Registered Voters,,,,777,777,777,777,777,777,777,777
+Washington,SG45,Registered Voters,,,,1058,1058,1058,1058,1058,1058,1058,1058
+Washington,SG46,Registered Voters,,,,1197,1197,1197,1197,1197,1197,1197,1197
+Washington,SG47,Registered Voters,,,,798,798,798,798,798,798,798,798
+Washington,SG48,Registered Voters,,,,513,513,513,513,513,513,513,513
+Washington,SG49,Registered Voters,,,,876,876,876,876,876,876,876,876
+Washington,SP95,Registered Voters,,,,364,364,364,364,364,364,364,364
+Washington,TQ96,Registered Voters,,,,852,852,852,852,852,852,852,852
+Washington,VI89,Registered Voters,,,,430,430,430,430,430,430,430,430
+Washington,WA60,Registered Voters,,,,759,759,759,759,759,759,759,759
+Washington,WA61,Registered Voters,,,,789,789,789,789,789,789,789,789
+Washington,WA62,Registered Voters,,,,798,798,798,798,798,798,798,798
+Washington,WA63,Registered Voters,,,,786,786,786,786,786,786,786,786
+Washington,WA64,Registered Voters,,,,1163,1163,1163,1163,1163,1163,1163,1163
+Washington,WA65,Registered Voters,,,,523,523,523,523,523,523,523,523
+Washington,WA66,Registered Voters,,,,640,640,640,640,640,640,640,640
+Washington,WA67,Registered Voters,,,,994,994,994,994,994,994,994,994
+Washington,WA68,Registered Voters,,,,983,983,983,983,983,983,983,983
+Washington,WA69,Registered Voters,,,,663,663,663,663,663,663,663,663
+Washington,WA70,Registered Voters,,,,794,794,794,794,794,794,794,794
+Washington,WA71,Registered Voters,,,,851,851,851,851,851,851,851,851
+Washington,WA72,Registered Voters,,,,651,651,651,651,651,651,651,651
+Washington,WA73,Registered Voters,,,,788,788,788,788,788,788,788,788
+Washington,Total,Registered Voters,,,,74227,74227,74227,74227,74227,74227,74227,74227
+Washington,AV51,Ballots Cast,,,,0,0,0,0,104,0,0,104
+Washington,COAND,Ballots Cast,,,,0,0,0,0,0,0,0,0
+Washington,COCDSR,Ballots Cast,,,,3,1,0,0,43,0,0,47
+Washington,COCNBR,Ballots Cast,,,,0,2,0,0,103,2,0,107
+Washington,CODAV,Ballots Cast,,,,0,5,0,3,191,3,0,202
+Washington,CODIV,Ballots Cast,,,,3,105,0,3,36,2,0,149
+Washington,CODXDR,Ballots Cast,,,,0,1,0,0,111,2,0,114
+Washington,COGL,Ballots Cast,,,,0,0,0,0,22,0,0,22
+Washington,COGUBL,Ballots Cast,,,,0,0,0,0,2,0,0,2
+Washington,COHS74,Ballots Cast,,,,0,0,0,0,8,0,0,8
+Washington,COHV28,Ballots Cast,,,,0,0,0,0,9,0,0,9
+Washington,COHV29,Ballots Cast,,,,0,0,0,0,3,0,0,3
+Washington,COLEED,Ballots Cast,,,,0,0,0,0,70,0,0,70
+Washington,CONCF,Ballots Cast,,,,0,1,0,0,36,0,0,37
+Washington,CONH,Ballots Cast,,,,1,0,0,2,227,0,0,230
+Washington,COPINE,Ballots Cast,,,,0,2,0,0,87,0,0,89
+Washington,COSN28,Ballots Cast,,,,0,0,0,0,6,0,0,6
+Washington,COVE,Ballots Cast,,,,0,0,0,0,105,0,0,105
+Washington,COWH,Ballots Cast,,,,0,176,0,18,50,5,0,249
+Washington,EN82,Ballots Cast,,,,1,3,0,0,275,2,0,281
+Washington,HIL97,Ballots Cast,,,,0,0,0,0,49,0,0,49
+Washington,HU52,Ballots Cast,,,,145,0,0,17,52,3,0,217
+Washington,HU53,Ballots Cast,,,,145,0,0,13,48,0,0,206
+Washington,HU54,Ballots Cast,,,,120,0,0,23,94,2,0,239
+Washington,HU55,Ballots Cast,,,,77,1,0,2,24,0,0,104
+Washington,HU56,Ballots Cast,,,,123,0,0,12,127,4,0,266
+Washington,HU57,Ballots Cast,,,,82,1,0,8,48,12,0,151
+Washington,HU58,Ballots Cast,,,,152,4,0,19,67,0,0,242
+Washington,HU59,Ballots Cast,,,,69,0,0,9,55,2,0,135
+Washington,HU60,Ballots Cast,,,,123,2,0,15,103,7,0,250
+Washington,IV76,Ballots Cast,,,,1,92,0,16,48,5,0,162
+Washington,IV77,Ballots Cast,,,,7,92,0,12,79,5,0,195
+Washington,IV78,Ballots Cast,,,,2,95,0,15,105,6,0,223
+Washington,IV79,Ballots Cast,,,,5,132,0,31,60,3,0,231
+Washington,IV80,Ballots Cast,,,,8,130,0,23,66,4,0,231
+Washington,LA85,Ballots Cast,,,,8,0,0,2,186,0,0,196
+Washington,LA86,Ballots Cast,,,,6,2,0,1,160,0,0,169
+Washington,LA87,Ballots Cast,,,,9,0,0,0,156,0,0,165
+Washington,LE90,Ballots Cast,,,,0,1,0,0,228,1,0,230
+Washington,NH93,Ballots Cast,,,,0,0,0,0,58,0,0,58
+Washington,RC94,Ballots Cast,,,,0,0,0,0,34,0,0,34
+Washington,SC71,Ballots Cast,,,,153,5,0,23,63,3,0,247
+Washington,SC72,Ballots Cast,,,,101,0,0,18,33,2,0,154
+Washington,SC73,Ballots Cast,,,,148,0,0,26,51,1,0,226
+Washington,SC74,Ballots Cast,,,,167,0,0,48,78,3,0,296
+Washington,SG01,Ballots Cast,,,,46,24,0,9,32,3,0,114
+Washington,SG02,Ballots Cast,,,,5,59,0,8,60,8,0,140
+Washington,SG03,Ballots Cast,,,,4,99,0,12,50,7,0,172
+Washington,SG04,Ballots Cast,,,,69,2,0,10,32,3,0,116
+Washington,SG05,Ballots Cast,,,,1,71,0,13,72,2,0,159
+Washington,SG06,Ballots Cast,,,,2,80,0,13,23,6,0,124
+Washington,SG07,Ballots Cast,,,,1,86,0,15,54,8,0,164
+Washington,SG08,Ballots Cast,,,,105,10,0,6,56,3,0,180
+Washington,SG09,Ballots Cast,,,,97,7,0,27,109,0,0,240
+Washington,SG10,Ballots Cast,,,,69,2,0,18,32,3,0,124
+Washington,SG11,Ballots Cast,,,,85,9,0,7,48,5,0,154
+Washington,SG12,Ballots Cast,,,,71,0,0,13,66,6,0,156
+Washington,SG13,Ballots Cast,,,,45,4,0,9,45,0,0,103
+Washington,SG14,Ballots Cast,,,,8,51,0,9,44,1,0,113
+Washington,SG15,Ballots Cast,,,,17,95,0,19,48,6,0,185
+Washington,SG16,Ballots Cast,,,,99,2,0,17,61,2,0,181
+Washington,SG17,Ballots Cast,,,,133,5,0,30,146,0,0,314
+Washington,SG18,Ballots Cast,,,,8,116,0,15,68,4,0,211
+Washington,SG19,Ballots Cast,,,,10,120,0,10,46,4,0,190
+Washington,SG20,Ballots Cast,,,,119,5,0,15,80,3,0,222
+Washington,SG21,Ballots Cast,,,,132,4,0,29,72,3,0,240
+Washington,SG22,Ballots Cast,,,,14,83,0,11,82,1,0,196
+Washington,SG23,Ballots Cast,,,,32,113,0,17,69,2,0,233
+Washington,SG24,Ballots Cast,,,,5,104,0,4,41,2,0,156
+Washington,SG25,Ballots Cast,,,,127,2,0,16,38,7,0,190
+Washington,SG26,Ballots Cast,,,,114,1,0,18,80,4,0,217
+Washington,SG27,Ballots Cast,,,,143,7,0,36,35,7,0,228
+Washington,SG28,Ballots Cast,,,,212,5,0,20,76,5,0,318
+Washington,SG29,Ballots Cast,,,,135,7,0,28,78,23,0,271
+Washington,SG30,Ballots Cast,,,,215,6,0,51,130,1,0,403
+Washington,SG31,Ballots Cast,,,,165,2,0,36,95,2,0,300
+Washington,SG32,Ballots Cast,,,,112,3,0,20,99,5,0,239
+Washington,SG33,Ballots Cast,,,,91,3,0,14,100,2,0,210
+Washington,SG34,Ballots Cast,,,,97,11,0,29,114,7,0,258
+Washington,SG35,Ballots Cast,,,,74,18,0,8,51,4,0,155
+Washington,SG36,Ballots Cast,,,,8,94,0,6,137,3,0,248
+Washington,SG37,Ballots Cast,,,,2,103,0,4,72,6,0,187
+Washington,SG38,Ballots Cast,,,,0,55,0,14,43,7,0,119
+Washington,SG39,Ballots Cast,,,,8,217,0,23,120,4,0,372
+Washington,SG40,Ballots Cast,,,,4,123,0,13,55,0,0,195
+Washington,SG41,Ballots Cast,,,,0,128,0,7,103,5,0,243
+Washington,SG42,Ballots Cast,,,,100,1,0,21,90,5,0,217
+Washington,SG43,Ballots Cast,,,,96,37,0,16,55,8,0,212
+Washington,SG44,Ballots Cast,,,,101,40,0,12,63,12,0,228
+Washington,SG45,Ballots Cast,,,,4,168,0,10,52,1,0,235
+Washington,SG46,Ballots Cast,,,,2,227,0,28,190,7,0,454
+Washington,SG47,Ballots Cast,,,,4,99,0,31,83,5,0,222
+Washington,SG48,Ballots Cast,,,,0,66,0,4,60,6,0,136
+Washington,SG49,Ballots Cast,,,,0,89,0,10,36,0,0,135
+Washington,SP95,Ballots Cast,,,,1,1,0,0,81,0,0,83
+Washington,TQ96,Ballots Cast,,,,3,3,0,1,333,0,0,340
+Washington,VI89,Ballots Cast,,,,1,0,0,0,116,0,0,117
+Washington,WA60,Ballots Cast,,,,0,132,0,34,80,4,0,250
+Washington,WA61,Ballots Cast,,,,0,88,0,19,43,5,0,155
+Washington,WA62,Ballots Cast,,,,2,135,0,19,33,4,0,193
+Washington,WA63,Ballots Cast,,,,1,84,0,14,36,6,0,141
+Washington,WA64,Ballots Cast,,,,1,161,0,23,66,3,0,254
+Washington,WA65,Ballots Cast,,,,83,9,0,10,34,3,0,139
+Washington,WA66,Ballots Cast,,,,15,74,0,13,54,5,0,161
+Washington,WA67,Ballots Cast,,,,30,134,0,19,63,1,0,247
+Washington,WA68,Ballots Cast,,,,136,12,0,13,69,9,0,239
+Washington,WA69,Ballots Cast,,,,67,22,0,22,84,8,0,203
+Washington,WA70,Ballots Cast,,,,17,72,0,15,52,2,0,158
+Washington,WA71,Ballots Cast,,,,0,101,0,27,115,6,0,249
+Washington,WA72,Ballots Cast,,,,97,3,0,8,29,5,0,142
+Washington,WA73,Ballots Cast,,,,112,9,0,8,49,1,0,179
+Washington,Total,Ballots Cast,,,,5216,4561,0,1415,8388,359,0,19739
+Washington,AV51,U.S. Senate,,Mitt Romney,,0,0,0,0,47,0,0,47
+Washington,COAND,U.S. Senate,,Mitt Romney,,0,0,0,0,0,0,0,0
+Washington,COCDSR,U.S. Senate,,Mitt Romney,,2,1,0,0,16,0,0,19
+Washington,COCNBR,U.S. Senate,,Mitt Romney,,0,0,0,0,48,1,0,49
+Washington,CODAV,U.S. Senate,,Mitt Romney,,0,3,0,1,69,2,0,75
+Washington,CODIV,U.S. Senate,,Mitt Romney,,0,37,0,1,17,0,0,55
+Washington,CODXDR,U.S. Senate,,Mitt Romney,,0,0,0,0,36,0,0,36
+Washington,COGL,U.S. Senate,,Mitt Romney,,0,0,0,0,16,0,0,16
+Washington,COGUBL,U.S. Senate,,Mitt Romney,,0,0,0,0,2,0,0,2
+Washington,COHS74,U.S. Senate,,Mitt Romney,,0,0,0,0,5,0,0,5
+Washington,COHV28,U.S. Senate,,Mitt Romney,,0,0,0,0,1,0,0,1
+Washington,COHV29,U.S. Senate,,Mitt Romney,,0,0,0,0,2,0,0,2
+Washington,COLEED,U.S. Senate,,Mitt Romney,,0,0,0,0,40,0,0,40
+Washington,CONCF,U.S. Senate,,Mitt Romney,,0,0,0,0,19,0,0,19
+Washington,CONH,U.S. Senate,,Mitt Romney,,0,0,0,0,97,0,0,97
+Washington,COPINE,U.S. Senate,,Mitt Romney,,0,2,0,0,61,0,0,63
+Washington,COSN28,U.S. Senate,,Mitt Romney,,0,0,0,0,2,0,0,2
+Washington,COVE,U.S. Senate,,Mitt Romney,,0,0,0,0,56,0,0,56
+Washington,COWH,U.S. Senate,,Mitt Romney,,0,69,0,6,28,3,0,106
+Washington,EN82,U.S. Senate,,Mitt Romney,,0,1,0,0,172,0,0,173
+Washington,HIL97,U.S. Senate,,Mitt Romney,,0,0,0,0,15,0,0,15
+Washington,HU52,U.S. Senate,,Mitt Romney,,72,0,0,14,24,0,0,110
+Washington,HU53,U.S. Senate,,Mitt Romney,,73,0,0,61,32,0,0,113
+Washington,HU54,U.S. Senate,,Mitt Romney,,63,0,0,20,61,0,0,144
+Washington,HU55,U.S. Senate,,Mitt Romney,,37,0,0,0,8,0,0,45
+Washington,HU56,U.S. Senate,,Mitt Romney,,53,0,0,8,59,3,0,123
+Washington,HU57,U.S. Senate,,Mitt Romney,,29,0,0,6,21,2,0,58
+Washington,HU58,U.S. Senate,,Mitt Romney,,75,1,0,12,43,0,0,131
+Washington,HU59,U.S. Senate,,Mitt Romney,,28,0,0,5,28,1,0,62
+Washington,HU60,U.S. Senate,,Mitt Romney,,55,0,0,5,59,4,0,123
+Washington,IV76,U.S. Senate,,Mitt Romney,,0,50,0,8,29,2,0,89
+Washington,IV77,U.S. Senate,,Mitt Romney,,4,47,0,7,46,2,0,106
+Washington,IV78,U.S. Senate,,Mitt Romney,,2,45,0,9,64,2,0,122
+Washington,IV79,U.S. Senate,,Mitt Romney,,5,79,0,17,48,1,0,150
+Washington,IV80,U.S. Senate,,Mitt Romney,,6,70,0,19,48,2,0,145
+Washington,LA85,U.S. Senate,,Mitt Romney,,1,0,0,1,103,0,0,105
+Washington,LA86,U.S. Senate,,Mitt Romney,,1,2,0,0,84,0,0,87
+Washington,LA87,U.S. Senate,,Mitt Romney,,3,0,0,0,85,0,0,88
+Washington,LE90,U.S. Senate,,Mitt Romney,,0,0,0,0,114,0,0,114
+Washington,NH93,U.S. Senate,,Mitt Romney,,0,0,38,0,0,0,0,38
+Washington,RC94,U.S. Senate,,Mitt Romney,,0,0,0,0,24,0,0,24
+Washington,SC71,U.S. Senate,,Mitt Romney,,87,4,0,17,46,2,0,156
+Washington,SC72,U.S. Senate,,Mitt Romney,,50,0,0,10,20,2,0,82
+Washington,SC73,U.S. Senate,,Mitt Romney,,84,0,0,14,36,0,0,134
+Washington,SC74,U.S. Senate,,Mitt Romney,,85,0,0,35,52,1,0,173
+Washington,SG01,U.S. Senate,,Mitt Romney,,19,10,0,3,16,0,0,48
+Washington,SG02,U.S. Senate,,Mitt Romney,,1,34,0,5,32,5,0,77
+Washington,SG03,U.S. Senate,,Mitt Romney,,3,55,0,4,37,7,0,106
+Washington,SG04,U.S. Senate,,Mitt Romney,,30,1,0,9,24,2,0,66
+Washington,SG05,U.S. Senate,,Mitt Romney,,0,42,0,7,51,1,0,101
+Washington,SG06,U.S. Senate,,Mitt Romney,,2,45,0,12,15,4,0,78
+Washington,SG07,U.S. Senate,,Mitt Romney,,1,53,0,10,33,5,0,102
+Washington,SG08,U.S. Senate,,Mitt Romney,,62,5,0,6,31,2,0,106
+Washington,SG09,U.S. Senate,,Mitt Romney,,60,3,0,23,81,0,0,167
+Washington,SG10,U.S. Senate,,Mitt Romney,,45,1,0,14,20,3,0,83
+Washington,SG11,U.S. Senate,,Mitt Romney,,52,4,0,2,25,1,0,84
+Washington,SG12,U.S. Senate,,Mitt Romney,,36,0,0,6,40,3,0,85
+Washington,SG13,U.S. Senate,,Mitt Romney,,28,2,0,4,26,0,0,60
+Washington,SG14,U.S. Senate,,Mitt Romney,,5,22,0,3,27,0,0,57
+Washington,SG15,U.S. Senate,,Mitt Romney,,11,56,0,16,33,4,0,120
+Washington,SG16,U.S. Senate,,Mitt Romney,,37,0,0,9,35,0,0,81
+Washington,SG17,U.S. Senate,,Mitt Romney,,79,3,0,21,103,0,0,206
+Washington,SG18,U.S. Senate,,Mitt Romney,,4,64,0,7,49,3,0,127
+Washington,SG19,U.S. Senate,,Mitt Romney,,6,80,0,8,29,4,0,127
+Washington,SG20,U.S. Senate,,Mitt Romney,,58,4,0,9,57,2,0,130
+Washington,SG21,U.S. Senate,,Mitt Romney,,71,2,0,23,44,1,0,141
+Washington,SG22,U.S. Senate,,Mitt Romney,,5,47,0,3,43,0,0,98
+Washington,SG23,U.S. Senate,,Mitt Romney,,22,59,0,13,35,2,0,131
+Washington,SG24,U.S. Senate,,Mitt Romney,,1,52,0,3,29,2,0,87
+Washington,SG25,U.S. Senate,,Mitt Romney,,81,1,0,9,21,2,0,114
+Washington,SG26,U.S. Senate,,Mitt Romney,,59,0,0,12,48,0,0,119
+Washington,SG27,U.S. Senate,,Mitt Romney,,91,2,0,23,26,3,0,145
+Washington,SG28,U.S. Senate,,Mitt Romney,,140,3,0,15,50,3,0,211
+Washington,SG29,U.S. Senate,,Mitt Romney,,72,7,0,16,47,10,0,152
+Washington,SG30,U.S. Senate,,Mitt Romney,,133,5,0,42,87,0,0,267
+Washington,SG31,U.S. Senate,,Mitt Romney,,107,2,0,26,64,0,0,199
+Washington,SG32,U.S. Senate,,Mitt Romney,,66,2,0,13,69,3,0,153
+Washington,SG33,U.S. Senate,,Mitt Romney,,66,2,0,1,70,12,0,151
+Washington,SG34,U.S. Senate,,Mitt Romney,,56,6,0,19,68,3,0,152
+Washington,SG35,U.S. Senate,,Mitt Romney,,35,8,0,5,18,2,0,68
+Washington,SG36,U.S. Senate,,Mitt Romney,,7,48,0,2,98,2,0,157
+Washington,SG37,U.S. Senate,,Mitt Romney,,1,53,0,0,46,5,0,105
+Washington,SG38,U.S. Senate,,Mitt Romney,,0,23,0,11,25,4,0,63
+Washington,SG39,U.S. Senate,,Mitt Romney,,6,87,0,16,69,0,0,178
+Washington,SG40,U.S. Senate,,Mitt Romney,,2,73,0,7,31,0,0,113
+Washington,SG41,U.S. Senate,,Mitt Romney,,0,42,0,3,44,2,0,91
+Washington,SG42,U.S. Senate,,Mitt Romney,,61,1,0,14,62,2,0,140
+Washington,SG43,U.S. Senate,,Mitt Romney,,56,26,0,5,32,3,0,125
+Washington,SG44,U.S. Senate,,Mitt Romney,,54,20,0,3,45,5,0,127
+Washington,SG45,U.S. Senate,,Mitt Romney,,3,111,0,6,34,1,0,155
+Washington,SG46,U.S. Senate,,Mitt Romney,,0,83,0,10,87,5,0,185
+Washington,SG47,U.S. Senate,,Mitt Romney,,0,63,0,14,41,2,0,120
+Washington,SG48,U.S. Senate,,Mitt Romney,,0,46,0,2,35,5,0,88
+Washington,SG49,U.S. Senate,,Mitt Romney,,0,47,0,6,25,0,0,78
+Washington,SP95,U.S. Senate,,Mitt Romney,,0,1,0,0,53,0,0,54
+Washington,TQ96,U.S. Senate,,Mitt Romney,,1,0,0,0,111,0,0,172
+Washington,VI89,U.S. Senate,,Mitt Romney,,0,0,0,0,50,0,0,50
+Washington,WA60,U.S. Senate,,Mitt Romney,,0,81,0,19,53,2,0,155
+Washington,WA61,U.S. Senate,,Mitt Romney,,0,44,0,7,28,1,0,80
+Washington,WA62,U.S. Senate,,Mitt Romney,,2,69,0,7,22,0,0,100
+Washington,WA63,U.S. Senate,,Mitt Romney,,0,32,0,7,21,2,0,62
+Washington,WA64,U.S. Senate,,Mitt Romney,,1,79,0,18,39,2,0,139
+Washington,WA65,U.S. Senate,,Mitt Romney,,52,7,0,7,24,3,0,93
+Washington,WA66,U.S. Senate,,Mitt Romney,,7,48,0,11,28,3,0,97
+Washington,WA67,U.S. Senate,,Mitt Romney,,21,58,0,10,40,1,0,130
+Washington,WA68,U.S. Senate,,Mitt Romney,,67,6,0,6,42,5,0,126
+Washington,WA69,U.S. Senate,,Mitt Romney,,29,9,0,14,51,5,0,108
+Washington,WA70,U.S. Senate,,Mitt Romney,,8,40,0,5,26,2,0,81
+Washington,WA71,U.S. Senate,,Mitt Romney,,0,53,0,16,62,4,0,135
+Washington,WA72,U.S. Senate,,Mitt Romney,,40,3,0,4,23,4,0,74
+Washington,WA73,U.S. Senate,,Mitt Romney,,75,3,0,5,30,1,0,114
+Washington,Total,U.S. Senate,,Mitt Romney,,2855,2349,0,869,4841,180,0,11094
+Washington,AV51,U.S. Senate,,Mike Kennedy,,0,0,0,0,57,0,0,57
+Washington,COAND,U.S. Senate,,Mike Kennedy,,0,0,0,0,0,0,0,0
+Washington,COCDSR,U.S. Senate,,Mike Kennedy,,1,0,0,0,27,0,0,28
+Washington,COCNBR,U.S. Senate,,Mike Kennedy,,0,2,0,0,55,1,0,58
+Washington,CODAV,U.S. Senate,,Mike Kennedy,,0,2,0,2,122,1,0,127
+Washington,CODIV,U.S. Senate,,Mike Kennedy,,3,68,0,2,19,2,0,94
+Washington,CODXDR,U.S. Senate,,Mike Kennedy,,0,1,0,0,75,2,0,78
+Washington,COGL,U.S. Senate,,Mike Kennedy,,0,0,0,0,6,0,0,6
+Washington,COGUBL,U.S. Senate,,Mike Kennedy,,0,0,0,0,0,0,0,0
+Washington,COHS74,U.S. Senate,,Mike Kennedy,,0,0,0,0,3,0,0,3
+Washington,COHV28,U.S. Senate,,Mike Kennedy,,0,0,0,0,8,0,0,8
+Washington,COHV29,U.S. Senate,,Mike Kennedy,,0,0,0,0,1,0,0,1
+Washington,COLEED,U.S. Senate,,Mike Kennedy,,0,0,0,0,30,0,0,30
+Washington,CONCF,U.S. Senate,,Mike Kennedy,,0,1,0,0,17,0,0,18
+Washington,CONH,U.S. Senate,,Mike Kennedy,,1,0,0,0,133,0,0,133
+Washington,COPINE,U.S. Senate,,Mike Kennedy,,0,0,0,0,26,0,0,26
+Washington,COSN28,U.S. Senate,,Mike Kennedy,,0,0,0,0,4,0,0,4
+Washington,COVE,U.S. Senate,,Mike Kennedy,,0,0,0,0,49,0,0,49
+Washington,COWH,U.S. Senate,,Mike Kennedy,,0,107,0,12,22,2,0,143
+Washington,EN82,U.S. Senate,,Mike Kennedy,,1,2,0,1,103,1,0,108
+Washington,HIL97,U.S. Senate,,Mike Kennedy,,0,0,0,0,34,0,0,34
+Washington,HU52,U.S. Senate,,Mike Kennedy,,73,0,0,3,28,3,0,107
+Washington,HU53,U.S. Senate,,Mike Kennedy,,72,0,0,5,16,0,0,93
+Washington,HU54,U.S. Senate,,Mike Kennedy,,57,0,0,3,33,2,0,95
+Washington,HU55,U.S. Senate,,Mike Kennedy,,40,1,0,2,16,0,0,59
+Washington,HU56,U.S. Senate,,Mike Kennedy,,70,0,0,4,67,1,0,142
+Washington,HU57,U.S. Senate,,Mike Kennedy,,53,1,0,2,27,10,0,93
+Washington,HU58,U.S. Senate,,Mike Kennedy,,77,3,0,7,24,0,0,111
+Washington,HU59,U.S. Senate,,Mike Kennedy,,41,0,0,4,27,1,0,73
+Washington,HU60,U.S. Senate,,Mike Kennedy,,67,2,0,10,43,3,0,125
+Washington,IV76,U.S. Senate,,Mike Kennedy,,1,42,0,8,19,3,0,73
+Washington,IV77,U.S. Senate,,Mike Kennedy,,3,45,0,5,33,3,0,89
+Washington,IV78,U.S. Senate,,Mike Kennedy,,0,50,0,6,41,4,0,101
+Washington,IV79,U.S. Senate,,Mike Kennedy,,0,53,0,14,12,2,0,81
+Washington,IV80,U.S. Senate,,Mike Kennedy,,2,60,0,4,18,2,0,86
+Washington,LA85,U.S. Senate,,Mike Kennedy,,7,0,0,1,82,0,0,90
+Washington,LA86,U.S. Senate,,Mike Kennedy,,5,0,0,1,75,0,0,81
+Washington,LA87,U.S. Senate,,Mike Kennedy,,6,0,0,0,71,0,0,77
+Washington,LE90,U.S. Senate,,Mike Kennedy,,0,1,0,0,114,1,0,116
+Washington,NH93,U.S. Senate,,Mike Kennedy,,0,0,20,0,0,0,0,20
+Washington,RC94,U.S. Senate,,Mike Kennedy,,0,0,0,0,10,0,0,10
+Washington,SC71,U.S. Senate,,Mike Kennedy,,66,1,0,6,17,1,0,91
+Washington,SC72,U.S. Senate,,Mike Kennedy,,51,0,0,8,13,0,0,72
+Washington,SC73,U.S. Senate,,Mike Kennedy,,64,0,0,12,15,1,0,92
+Washington,SC74,U.S. Senate,,Mike Kennedy,,82,0,0,13,26,2,0,123
+Washington,SG01,U.S. Senate,,Mike Kennedy,,27,14,0,6,16,3,0,66
+Washington,SG02,U.S. Senate,,Mike Kennedy,,4,25,0,3,28,3,0,63
+Washington,SG03,U.S. Senate,,Mike Kennedy,,1,44,0,8,12,0,0,65
+Washington,SG04,U.S. Senate,,Mike Kennedy,,39,1,0,1,8,1,0,50
+Washington,SG05,U.S. Senate,,Mike Kennedy,,1,29,0,6,21,1,0,58
+Washington,SG06,U.S. Senate,,Mike Kennedy,,0,35,0,1,8,2,0,46
+Washington,SG07,U.S. Senate,,Mike Kennedy,,0,33,0,5,61,3,0,62
+Washington,SG08,U.S. Senate,,Mike Kennedy,,43,5,0,0,25,1,0,74
+Washington,SG09,U.S. Senate,,Mike Kennedy,,37,4,0,4,27,0,0,72
+Washington,SG10,U.S. Senate,,Mike Kennedy,,24,1,0,4,12,0,0,41
+Washington,SG11,U.S. Senate,,Mike Kennedy,,32,5,0,5,21,4,0,67
+Washington,SG12,U.S. Senate,,Mike Kennedy,,34,0,0,7,25,3,0,69
+Washington,SG13,U.S. Senate,,Mike Kennedy,,17,2,0,5,19,0,0,43
+Washington,SG14,U.S. Senate,,Mike Kennedy,,3,29,0,6,61,1,0,56
+Washington,SG15,U.S. Senate,,Mike Kennedy,,6,39,0,3,15,2,0,65
+Washington,SG16,U.S. Senate,,Mike Kennedy,,62,2,0,8,26,2,0,100
+Washington,SG17,U.S. Senate,,Mike Kennedy,,53,2,0,9,43,0,0,107
+Washington,SG18,U.S. Senate,,Mike Kennedy,,4,52,0,8,19,1,0,84
+Washington,SG19,U.S. Senate,,Mike Kennedy,,4,39,0,2,17,0,0,62
+Washington,SG20,U.S. Senate,,Mike Kennedy,,61,1,0,5,23,1,0,91
+Washington,SG21,U.S. Senate,,Mike Kennedy,,60,2,0,6,61,2,0,98
+Washington,SG22,U.S. Senate,,Mike Kennedy,,9,41,0,8,39,1,0,98
+Washington,SG23,U.S. Senate,,Mike Kennedy,,10,53,0,4,34,0,0,101
+Washington,SG24,U.S. Senate,,Mike Kennedy,,4,52,0,1,12,0,0,69
+Washington,SG25,U.S. Senate,,Mike Kennedy,,46,1,0,7,17,5,0,76
+Washington,SG26,U.S. Senate,,Mike Kennedy,,54,1,0,6,32,4,0,97
+Washington,SG27,U.S. Senate,,Mike Kennedy,,52,5,0,13,9,4,0,83
+Washington,SG28,U.S. Senate,,Mike Kennedy,,71,2,0,5,26,2,0,106
+Washington,SG29,U.S. Senate,,Mike Kennedy,,63,0,0,12,31,13,0,119
+Washington,SG30,U.S. Senate,,Mike Kennedy,,82,1,0,9,43,1,0,136
+Washington,SG31,U.S. Senate,,Mike Kennedy,,58,0,0,10,31,2,0,101
+Washington,SG32,U.S. Senate,,Mike Kennedy,,46,1,0,7,30,2,0,86
+Washington,SG33,U.S. Senate,,Mike Kennedy,,24,1,0,3,30,0,0,58
+Washington,SG34,U.S. Senate,,Mike Kennedy,,41,5,0,10,46,4,0,106
+Washington,SG35,U.S. Senate,,Mike Kennedy,,38,10,0,3,33,2,0,86
+Washington,SG36,U.S. Senate,,Mike Kennedy,,1,46,0,4,38,1,0,90
+Washington,SG37,U.S. Senate,,Mike Kennedy,,1,51,0,4,26,1,0,82
+Washington,SG38,U.S. Senate,,Mike Kennedy,,0,41,0,3,58,3,0,56
+Washington,SG39,U.S. Senate,,Mike Kennedy,,2,128,0,7,51,4,0,192
+Washington,SG40,U.S. Senate,,Mike Kennedy,,2,50,0,6,24,0,0,82
+Washington,SG41,U.S. Senate,,Mike Kennedy,,0,86,0,4,59,3,0,152
+Washington,SG42,U.S. Senate,,Mike Kennedy,,38,0,0,7,28,3,0,76
+Washington,SG43,U.S. Senate,,Mike Kennedy,,61,11,0,11,23,5,0,87
+Washington,SG44,U.S. Senate,,Mike Kennedy,,47,20,0,9,17,7,0,100
+Washington,SG45,U.S. Senate,,Mike Kennedy,,1,56,0,4,18,0,0,79
+Washington,SG46,U.S. Senate,,Mike Kennedy,,2,144,0,18,101,2,0,267
+Washington,SG47,U.S. Senate,,Mike Kennedy,,4,35,0,17,42,3,0,101
+Washington,SG48,U.S. Senate,,Mike Kennedy,,0,20,0,2,24,1,0,47
+Washington,SG49,U.S. Senate,,Mike Kennedy,,0,42,0,4,11,0,0,57
+Washington,SP95,U.S. Senate,,Mike Kennedy,,1,0,0,0,28,0,0,29
+Washington,TQ96,U.S. Senate,,Mike Kennedy,,2,3,0,1,162,0,0,168
+Washington,VI89,U.S. Senate,,Mike Kennedy,,1,0,0,0,66,0,0,67
+Washington,WA60,U.S. Senate,,Mike Kennedy,,0,61,0,15,27,2,0,95
+Washington,WA61,U.S. Senate,,Mike Kennedy,,0,44,0,12,15,4,0,75
+Washington,WA62,U.S. Senate,,Mike Kennedy,,0,66,0,12,11,4,0,93
+Washington,WA63,U.S. Senate,,Mike Kennedy,,1,52,0,7,15,4,0,79
+Washington,WA64,U.S. Senate,,Mike Kennedy,,0,81,0,5,27,1,0,114
+Washington,WA65,U.S. Senate,,Mike Kennedy,,30,2,0,3,10,0,0,45
+Washington,WA66,U.S. Senate,,Mike Kennedy,,8,26,0,2,51,2,0,64
+Washington,WA67,U.S. Senate,,Mike Kennedy,,9,76,0,9,22,0,0,116
+Washington,WA68,U.S. Senate,,Mike Kennedy,,68,6,0,7,27,4,0,112
+Washington,WA69,U.S. Senate,,Mike Kennedy,,38,13,0,8,33,3,0,95
+Washington,WA70,U.S. Senate,,Mike Kennedy,,9,31,0,10,26,0,0,76
+Washington,WA71,U.S. Senate,,Mike Kennedy,,0,48,0,11,52,2,0,113
+Washington,WA72,U.S. Senate,,Mike Kennedy,,57,0,0,4,6,1,0,68
+Washington,WA73,U.S. Senate,,Mike Kennedy,,37,6,0,3,19,0,0,65
+Washington,Total,U.S. Senate,,Mike Kennedy,,2349,2204,0,545,3531,179,0,8808
+Washington,AV51,State House,71,Mark S Borowiak,,0,0,0,0,29,0,0,29
+Washington,COAND,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,COCDSR,State House,71,Mark S Borowiak,,1,0,0,0,12,0,0,13
+Washington,COCNBR,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,CODAV,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,CODIV,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,CODXDR,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,COGL,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,COGUBL,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,COHS74,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,COHV28,State House,71,Mark S Borowiak,,0,0,0,0,0,0,0,0
+Washington,COHV29,State House,71,Mark S Borowiak,,0,0,0,0,2,0,0,2
+Washington,COLEED,State House,71,Mark S Borowiak,,0,0,0,0,29,0,0,29
+Washington,CONCF,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,CONH,State House,71,Mark S Borowiak,,1,0,0,1,75,0,0,77
+Washington,COPINE,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,COSN28,State House,71,Mark S Borowiak,,0,0,0,0,2,0,0,2
+Washington,COVE,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,COWH,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,EN82,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,HIL97,State House,71,Mark S Borowiak,,0,0,0,0,12,0,0,12
+Washington,HU52,State House,71,Mark S Borowiak,,40,0,0,3,17,0,0,60
+Washington,HU53,State House,71,Mark S Borowiak,,44,0,0,3,12,0,0,59
+Washington,HU54,State House,71,Mark S Borowiak,,28,0,0,1,17,0,0,46
+Washington,HU55,State House,71,Mark S Borowiak,,24,0,0,2,7,0,0,33
+Washington,HU56,State House,71,Mark S Borowiak,,35,0,0,4,44,1,0,84
+Washington,HU57,State House,71,Mark S Borowiak,,28,0,0,1,11,5,0,45
+Washington,HU58,State House,71,Mark S Borowiak,,48,1,0,6,22,0,0,77
+Washington,HU59,State House,71,Mark S Borowiak,,20,0,0,7,20,0,0,47
+Washington,HU60,State House,71,Mark S Borowiak,,66,2,0,9,45,3,0,125
+Washington,IV76,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,IV77,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,IV78,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,IV79,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,IV80,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,LA85,State House,71,Mark S Borowiak,,4,0,0,0,49,0,0,53
+Washington,LA86,State House,71,Mark S Borowiak,,3,1,0,0,53,0,0,58
+Washington,LA87,State House,71,Mark S Borowiak,,2,0,0,0,47,0,0,49
+Washington,LE90,State House,71,Mark S Borowiak,,0,0,0,0,59,0,0,59
+Washington,NH93,State House,71,Mark S Borowiak,,0,0,0,0,15,0,0,15
+Washington,RC94,State House,71,Mark S Borowiak,,0,0,0,0,6,0,0,6
+Washington,SC71,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SC72,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SC73,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SC74,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG01,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG02,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG03,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG04,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG05,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG06,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG07,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG08,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG09,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG10,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG11,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG12,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG13,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG14,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG15,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG16,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG17,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG18,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG19,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG20,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG21,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG22,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG23,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG24,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG25,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG26,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG27,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG28,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG29,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG30,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG31,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG32,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG33,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG34,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG35,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG36,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG37,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG38,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG39,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG40,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG41,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG42,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG43,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG44,State House,71,Mark S Borowiak,,22,9,0,6,10,2,0,49
+Washington,SG45,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG46,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG47,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG48,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SG49,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,SP95,State House,71,Mark S Borowiak,,0,0,0,0,13,0,0,15
+Washington,TQ96,State House,71,Mark S Borowiak,,2,0,0,0,79,0,0,81
+Washington,VI89,State House,71,Mark S Borowiak,,1,0,0,0,30,0,0,31
+Washington,WA60,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA61,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA62,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA63,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA64,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA65,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA66,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA67,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA68,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA69,State House,71,Mark S Borowiak,,9,5,0,9,24,1,0,48
+Washington,WA70,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA71,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA72,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,WA73,State House,71,Mark S Borowiak,,-,-,-,-,-,-,-,-
+Washington,Total,State House,71,Mark S Borowiak,,378,19,0,52,743,12,0,1204
+Washington,AV51,State House,71,Brad Last,,0,0,0,0,74,0,0,74
+Washington,COAND,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,COCDSR,State House,71,Brad Last,,2,0,0,0,30,0,0,32
+Washington,COCNBR,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,CODAV,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,CODIV,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,CODXDR,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,COGL,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,COGUBL,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,COHS74,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,COHV28,State House,71,Brad Last,,0,0,0,0,9,0,0,9
+Washington,COHV29,State House,71,Brad Last,,0,0,0,0,1,0,0,1
+Washington,COLEED,State House,71,Brad Last,,0,0,0,0,39,0,0,39
+Washington,CONCF,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,CONH,State House,71,Brad Last,,0,0,0,1,137,0,0,138
+Washington,COPINE,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,COSN28,State House,71,Brad Last,,0,0,0,0,3,0,0,3
+Washington,COVE,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,COWH,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,EN82,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,HIL97,State House,71,Brad Last,,0,0,0,0,36,0,0,36
+Washington,HU52,State House,71,Brad Last,,104,0,0,14,33,3,0,154
+Washington,HU53,State House,71,Brad Last,,96,0,0,10,36,0,0,142
+Washington,HU54,State House,71,Brad Last,,92,0,0,21,77,2,0,192
+Washington,HU55,State House,71,Brad Last,,53,0,0,1,16,0,0,70
+Washington,HU56,State House,71,Brad Last,,81,0,0,6,80,3,0,170
+Washington,HU57,State House,71,Brad Last,,51,0,0,7,37,6,0,101
+Washington,HU58,State House,71,Brad Last,,104,3,0,13,45,0,0,165
+Washington,HU59,State House,71,Brad Last,,44,0,0,2,35,2,0,83
+Washington,HU60,State House,71,Brad Last,,46,0,0,5,56,3,0,110
+Washington,IV76,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,IV77,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,IV78,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,IV79,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,IV80,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,LA85,State House,71,Brad Last,,4,0,0,1,131,0,0,136
+Washington,LA86,State House,71,Brad Last,,3,1,0,-,106,0,0,110
+Washington,LA87,State House,71,Brad Last,,6,0,0,0,108,0,0,114
+Washington,LE90,State House,71,Brad Last,,0,1,0,0,165,1,0,167
+Washington,NH93,State House,71,Brad Last,,0,0,0,0,41,0,0,41
+Washington,RC94,State House,71,Brad Last,,0,0,0,0,28,0,0,28
+Washington,SC71,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SC72,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SC73,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SC74,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG01,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG02,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG03,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG04,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG05,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG06,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG07,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG08,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG09,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG10,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG11,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG12,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG13,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG14,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG15,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG16,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG17,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG18,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG19,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG20,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG21,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG22,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG23,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG24,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG25,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG26,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG27,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG28,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG29,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG30,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG31,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG32,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG33,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG34,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG35,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG36,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG37,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG38,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG39,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG40,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG41,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG42,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG43,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG44,State House,71,Brad Last,,75,30,0,6,49,10,0,170
+Washington,SG45,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG46,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG47,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG48,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SG49,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,SP95,State House,71,Brad Last,,1,0,0,0,62,0,0,63
+Washington,TQ96,State House,71,Brad Last,,1,3,0,1,247,0,0,252
+Washington,VI89,State House,71,Brad Last,,0,0,0,0,84,0,0,84
+Washington,WA60,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA61,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA62,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA63,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA64,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA65,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA66,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA67,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA68,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA69,State House,71,Brad Last,,52,17,0,13,57,7,0,146
+Washington,WA70,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA71,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA72,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,WA73,State House,71,Brad Last,,-,-,-,-,-,-,-,-
+Washington,Total,State House,71,Brad Last,,815,55,0,101,1822,37,0,2830
