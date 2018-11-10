@@ -1,0 +1,551 @@
+county,precinct,office,district,Candidate,party,Votes
+Wasatch ,10,Registered Voters ,,,REP,131
+Wasatch ,11,Registered Voters ,,,REP,134
+Wasatch ,12,Registered Voters ,,,REP,146
+Wasatch ,13,Registered Voters ,,,REP,193
+Wasatch ,14,Registered Voters ,,,REP,550
+Wasatch ,20,Registered Voters ,,,REP,223
+Wasatch ,21,Registered Voters ,,,REP,146
+Wasatch ,22,Registered Voters ,,,REP,282
+Wasatch ,23,Registered Voters ,,,REP,357
+Wasatch ,24,Registered Voters ,,,REP,68
+Wasatch ,24:1,Registered Voters ,,,REP,234
+Wasatch ,25,Registered Voters ,,,REP,304
+Wasatch ,30,Registered Voters ,,,REP,398
+Wasatch ,30:1,Registered Voters ,,,REP,47
+Wasatch ,31,Registered Voters ,,,REP,451
+Wasatch ,31:1,Registered Voters ,,,REP,21
+Wasatch ,32,Registered Voters ,,,REP,96
+Wasatch ,32:1,Registered Voters ,,,REP,39
+Wasatch ,33,Registered Voters ,,,REP,230
+Wasatch ,33:1,Registered Voters ,,,REP,150
+Wasatch ,34,Registered Voters ,,,REP,234
+Wasatch ,40,Registered Voters ,,,REP,397
+Wasatch ,41,Registered Voters ,,,REP,51
+Wasatch ,42,Registered Voters ,,,REP,66
+Wasatch ,42:1,Registered Voters ,,,REP,384
+Wasatch ,43,Registered Voters ,,,REP,3
+Wasatch ,43:1,Registered Voters ,,,REP,258
+Wasatch ,44,Registered Voters ,,,REP,251
+Wasatch ,44:1,Registered Voters ,,,REP,100
+Wasatch ,50,Registered Voters ,,,REP,310
+Wasatch ,51,Registered Voters ,,,REP,557
+Wasatch ,52,Registered Voters ,,,REP,430
+Wasatch ,53,Registered Voters ,,,REP,435
+Wasatch ,54,Registered Voters ,,,REP,22
+Wasatch ,54:1,Registered Voters ,,,REP,1
+Wasatch ,54:2,Registered Voters ,,,REP,36
+Wasatch ,54:3,Registered Voters ,,,REP,132
+Wasatch ,55,Registered Voters ,,,REP,25
+Wasatch ,55:1,Registered Voters ,,,REP,164
+Wasatch ,Total,Registered Voters ,,,REP,8056
+Wasatch ,10,Registered Voters ,,,DEM,85
+Wasatch ,11,Registered Voters ,,,DEM,66
+Wasatch ,12,Registered Voters ,,,DEM,52
+Wasatch ,13,Registered Voters ,,,DEM,36
+Wasatch ,14,Registered Voters ,,,DEM,91
+Wasatch ,20,Registered Voters ,,,DEM,63
+Wasatch ,21,Registered Voters ,,,DEM,38
+Wasatch ,22,Registered Voters ,,,DEM,30
+Wasatch ,23,Registered Voters ,,,DEM,55
+Wasatch ,24,Registered Voters ,,,DEM,7
+Wasatch ,24:1,Registered Voters ,,,DEM,44
+Wasatch ,25,Registered Voters ,,,DEM,41
+Wasatch ,30,Registered Voters ,,,DEM,230
+Wasatch ,30:1,Registered Voters ,,,DEM,32
+Wasatch ,31,Registered Voters ,,,DEM,49
+Wasatch ,31:1,Registered Voters ,,,DEM,0
+Wasatch ,32,Registered Voters ,,,DEM,6
+Wasatch ,32:1,Registered Voters ,,,DEM,3
+Wasatch ,33,Registered Voters ,,,DEM,18
+Wasatch ,33:1,Registered Voters ,,,DEM,65
+Wasatch ,34,Registered Voters ,,,DEM,42
+Wasatch ,40,Registered Voters ,,,DEM,62
+Wasatch ,41,Registered Voters ,,,DEM,31
+Wasatch ,42,Registered Voters ,,,DEM,3
+Wasatch ,42:1,Registered Voters ,,,DEM,72
+Wasatch ,43,Registered Voters ,,,DEM,2
+Wasatch ,43:1,Registered Voters ,,,DEM,49
+Wasatch ,44,Registered Voters ,,,DEM,20
+Wasatch ,44:1,Registered Voters ,,,DEM,13
+Wasatch ,50,Registered Voters ,,,DEM,63
+Wasatch ,51,Registered Voters ,,,DEM,100
+Wasatch ,52,Registered Voters ,,,DEM,103
+Wasatch ,53,Registered Voters ,,,DEM,81
+Wasatch ,54,Registered Voters ,,,DEM,10
+Wasatch ,54:1,Registered Voters ,,,DEM,1
+Wasatch ,54:2,Registered Voters ,,,DEM,30
+Wasatch ,54:3,Registered Voters ,,,DEM,11
+Wasatch ,55,Registered Voters ,,,DEM,1
+Wasatch ,55:1,Registered Voters ,,,DEM,27
+Wasatch ,Total,Registered Voters ,,,DEM,1732
+Wasatch ,10,Registered Voters ,,,TOTAL,387
+Wasatch ,11,Registered Voters ,,,TOTAL,368
+Wasatch ,12,Registered Voters ,,,TOTAL,362
+Wasatch ,13,Registered Voters ,,,TOTAL,406
+Wasatch ,14,Registered Voters ,,,TOTAL,934
+Wasatch ,20,Registered Voters ,,,TOTAL,468
+Wasatch ,21,Registered Voters ,,,TOTAL,295
+Wasatch ,22,Registered Voters ,,,TOTAL,413
+Wasatch ,23,Registered Voters ,,,TOTAL,584
+Wasatch ,24,Registered Voters ,,,TOTAL,115
+Wasatch ,24:1,Registered Voters ,,,TOTAL,409
+Wasatch ,25,Registered Voters ,,,TOTAL,453
+Wasatch ,30,Registered Voters ,,,TOTAL,1047
+Wasatch ,30:1,Registered Voters ,,,TOTAL,158
+Wasatch ,31,Registered Voters ,,,TOTAL,693
+Wasatch ,31:1,Registered Voters ,,,TOTAL,32
+Wasatch ,32,Registered Voters ,,,TOTAL,150
+Wasatch ,32:1,Registered Voters ,,,TOTAL,55
+Wasatch ,33,Registered Voters ,,,TOTAL,348
+Wasatch ,33:1,Registered Voters ,,,TOTAL,357
+Wasatch ,34,Registered Voters ,,,TOTAL,408
+Wasatch ,40,Registered Voters ,,,TOTAL,686
+Wasatch ,41,Registered Voters ,,,TOTAL,169
+Wasatch ,42,Registered Voters ,,,TOTAL,104
+Wasatch ,42:1,Registered Voters ,,,TOTAL,678
+Wasatch ,43,Registered Voters ,,,TOTAL,12
+Wasatch ,43:1,Registered Voters ,,,TOTAL,495
+Wasatch ,44,Registered Voters ,,,TOTAL,361
+Wasatch ,44:1,Registered Voters ,,,TOTAL,161
+Wasatch ,50,Registered Voters ,,,TOTAL,572
+Wasatch ,51,Registered Voters ,,,TOTAL,964
+Wasatch ,52,Registered Voters ,,,TOTAL,789
+Wasatch ,53,Registered Voters ,,,TOTAL,780
+Wasatch ,54,Registered Voters ,,,TOTAL,52
+Wasatch ,54:1,Registered Voters ,,,TOTAL,3
+Wasatch ,54:2,Registered Voters ,,,TOTAL,126
+Wasatch ,54:3,Registered Voters ,,,TOTAL,220
+Wasatch ,55,Registered Voters ,,,TOTAL,43
+Wasatch ,55:1,Registered Voters ,,,TOTAL,288
+Wasatch ,Total,Registered Voters ,,,TOTAL,14945
+Wasatch ,10,Ballots Cast ,,,REP,65
+Wasatch ,11,Ballots Cast ,,,REP,58
+Wasatch ,12,Ballots Cast ,,,REP,58
+Wasatch ,13,Ballots Cast ,,,REP,126
+Wasatch ,14,Ballots Cast ,,,REP,280
+Wasatch ,20,Ballots Cast ,,,REP,114
+Wasatch ,21,Ballots Cast ,,,REP,70
+Wasatch ,22,Ballots Cast ,,,REP,150
+Wasatch ,23,Ballots Cast ,,,REP,211
+Wasatch ,24,Ballots Cast ,,,REP,42
+Wasatch ,24:1,Ballots Cast ,,,REP,115
+Wasatch ,25,Ballots Cast ,,,REP,161
+Wasatch ,30,Ballots Cast ,,,REP,194
+Wasatch ,30:1,Ballots Cast ,,,REP,26
+Wasatch ,31,Ballots Cast ,,,REP,261
+Wasatch ,31:1,Ballots Cast ,,,REP,9
+Wasatch ,32,Ballots Cast ,,,REP,59
+Wasatch ,32:1,Ballots Cast ,,,REP,23
+Wasatch ,33,Ballots Cast ,,,REP,99
+Wasatch ,33:1,Ballots Cast ,,,REP,81
+Wasatch ,34,Ballots Cast ,,,REP,130
+Wasatch ,40,Ballots Cast ,,,REP,194
+Wasatch ,41,Ballots Cast ,,,REP,11
+Wasatch ,42,Ballots Cast ,,,REP,32
+Wasatch ,42:1,Ballots Cast ,,,REP,151
+Wasatch ,43,Ballots Cast ,,,REP,2
+Wasatch ,43:1,Ballots Cast ,,,REP,131
+Wasatch ,44,Ballots Cast ,,,REP,131
+Wasatch ,44:1,Ballots Cast ,,,REP,45
+Wasatch ,50,Ballots Cast ,,,REP,176
+Wasatch ,51,Ballots Cast ,,,REP,306
+Wasatch ,52,Ballots Cast ,,,REP,239
+Wasatch ,53,Ballots Cast ,,,REP,263
+Wasatch ,54,Ballots Cast ,,,REP,14
+Wasatch ,54:1,Ballots Cast ,,,REP,0
+Wasatch ,54:2,Ballots Cast ,,,REP,19
+Wasatch ,54:3,Ballots Cast ,,,REP,84
+Wasatch ,55,Ballots Cast ,,,REP,13
+Wasatch ,55:1,Ballots Cast ,,,REP,87
+Wasatch ,Total,Ballots Cast ,,,REP,4230
+Wasatch ,10,Ballots Cast ,,,DEM,20
+Wasatch ,11,Ballots Cast ,,,DEM,18
+Wasatch ,12,Ballots Cast ,,,DEM,11
+Wasatch ,13,Ballots Cast ,,,DEM,15
+Wasatch ,14,Ballots Cast ,,,DEM,30
+Wasatch ,20,Ballots Cast ,,,DEM,24
+Wasatch ,21,Ballots Cast ,,,DEM,9
+Wasatch ,22,Ballots Cast ,,,DEM,8
+Wasatch ,23,Ballots Cast ,,,DEM,18
+Wasatch ,24,Ballots Cast ,,,DEM,3
+Wasatch ,24:1,Ballots Cast ,,,DEM,16
+Wasatch ,25,Ballots Cast ,,,DEM,17
+Wasatch ,30,Ballots Cast ,,,DEM,87
+Wasatch ,30:1,Ballots Cast ,,,DEM,12
+Wasatch ,31,Ballots Cast ,,,DEM,16
+Wasatch ,31:1,Ballots Cast ,,,DEM,0
+Wasatch ,32,Ballots Cast ,,,DEM,0
+Wasatch ,32:1,Ballots Cast ,,,DEM,0
+Wasatch ,33,Ballots Cast ,,,DEM,0
+Wasatch ,33:1,Ballots Cast ,,,DEM,0
+Wasatch ,34,Ballots Cast ,,,DEM,14
+Wasatch ,40,Ballots Cast ,,,DEM,14
+Wasatch ,41,Ballots Cast ,,,DEM,5
+Wasatch ,42,Ballots Cast ,,,DEM,2
+Wasatch ,42:1,Ballots Cast ,,,DEM,21
+Wasatch ,43,Ballots Cast ,,,DEM,0
+Wasatch ,43:1,Ballots Cast ,,,DEM,0
+Wasatch ,44,Ballots Cast ,,,DEM,0
+Wasatch ,44:1,Ballots Cast ,,,DEM,0
+Wasatch ,50,Ballots Cast ,,,DEM,33
+Wasatch ,51,Ballots Cast ,,,DEM,61
+Wasatch ,52,Ballots Cast ,,,DEM,51
+Wasatch ,53,Ballots Cast ,,,DEM,38
+Wasatch ,54,Ballots Cast ,,,DEM,0
+Wasatch ,54:1,Ballots Cast ,,,DEM,0
+Wasatch ,54:2,Ballots Cast ,,,DEM,18
+Wasatch ,54:3,Ballots Cast ,,,DEM,4
+Wasatch ,55,Ballots Cast ,,,DEM,0
+Wasatch ,55:1,Ballots Cast ,,,DEM,0
+Wasatch ,Total,Ballots Cast ,,,DEM,565
+Wasatch ,10,Ballots Cast ,,,TOTAL,85
+Wasatch ,11,Ballots Cast ,,,TOTAL,76
+Wasatch ,12,Ballots Cast ,,,TOTAL,69
+Wasatch ,13,Ballots Cast ,,,TOTAL,141
+Wasatch ,14,Ballots Cast ,,,TOTAL,310
+Wasatch ,20,Ballots Cast ,,,TOTAL,138
+Wasatch ,21,Ballots Cast ,,,TOTAL,79
+Wasatch ,22,Ballots Cast ,,,TOTAL,158
+Wasatch ,23,Ballots Cast ,,,TOTAL,229
+Wasatch ,24,Ballots Cast ,,,TOTAL,45
+Wasatch ,24:1,Ballots Cast ,,,TOTAL,131
+Wasatch ,25,Ballots Cast ,,,TOTAL,178
+Wasatch ,30,Ballots Cast ,,,TOTAL,281
+Wasatch ,30:1,Ballots Cast ,,,TOTAL,38
+Wasatch ,31,Ballots Cast ,,,TOTAL,277
+Wasatch ,31:1,Ballots Cast ,,,TOTAL,9
+Wasatch ,32,Ballots Cast ,,,TOTAL,59
+Wasatch ,32:1,Ballots Cast ,,,TOTAL,23
+Wasatch ,33,Ballots Cast ,,,TOTAL,99
+Wasatch ,33:1,Ballots Cast ,,,TOTAL,81
+Wasatch ,34,Ballots Cast ,,,TOTAL,144
+Wasatch ,40,Ballots Cast ,,,TOTAL,208
+Wasatch ,41,Ballots Cast ,,,TOTAL,16
+Wasatch ,42,Ballots Cast ,,,TOTAL,34
+Wasatch ,42:1,Ballots Cast ,,,TOTAL,172
+Wasatch ,43,Ballots Cast ,,,TOTAL,2
+Wasatch ,43:1,Ballots Cast ,,,TOTAL,131
+Wasatch ,44,Ballots Cast ,,,TOTAL,131
+Wasatch ,44:1,Ballots Cast ,,,TOTAL,45
+Wasatch ,50,Ballots Cast ,,,TOTAL,209
+Wasatch ,51,Ballots Cast ,,,TOTAL,367
+Wasatch ,52,Ballots Cast ,,,TOTAL,290
+Wasatch ,53,Ballots Cast ,,,TOTAL,301
+Wasatch ,54,Ballots Cast ,,,TOTAL,14
+Wasatch ,54:1,Ballots Cast ,,,TOTAL,0
+Wasatch ,54:2,Ballots Cast ,,,TOTAL,37
+Wasatch ,54:3,Ballots Cast ,,,TOTAL,88
+Wasatch ,55,Ballots Cast ,,,TOTAL,13
+Wasatch ,55:1,Ballots Cast ,,,TOTAL,87
+Wasatch ,Total,Ballots Cast ,,,TOTAL,4795
+Wasatch ,10,U.S. Senate,,Mitt Romney,REP,44
+Wasatch ,11,U.S. Senate,,Mitt Romney,REP,46
+Wasatch ,12,U.S. Senate,,Mitt Romney,REP,46
+Wasatch ,13,U.S. Senate,,Mitt Romney,REP,90
+Wasatch ,14,U.S. Senate,,Mitt Romney,REP,218
+Wasatch ,20,U.S. Senate,,Mitt Romney,REP,95
+Wasatch ,21,U.S. Senate,,Mitt Romney,REP,53
+Wasatch ,22,U.S. Senate,,Mitt Romney,REP,106
+Wasatch ,23,U.S. Senate,,Mitt Romney,REP,157
+Wasatch ,24,U.S. Senate,,Mitt Romney,REP,30
+Wasatch ,24:1,U.S. Senate,,Mitt Romney,REP,96
+Wasatch ,25,U.S. Senate,,Mitt Romney,REP,124
+Wasatch ,30,U.S. Senate,,Mitt Romney,REP,123
+Wasatch ,30:1,U.S. Senate,,Mitt Romney,REP,17
+Wasatch ,31,U.S. Senate,,Mitt Romney,REP,197
+Wasatch ,31:1,U.S. Senate,,Mitt Romney,REP,8
+Wasatch ,32,U.S. Senate,,Mitt Romney,REP,38
+Wasatch ,32:1,U.S. Senate,,Mitt Romney,REP,11
+Wasatch ,33,U.S. Senate,,Mitt Romney,REP,73
+Wasatch ,33:1,U.S. Senate,,Mitt Romney,REP,54
+Wasatch ,34,U.S. Senate,,Mitt Romney,REP,92
+Wasatch ,40,U.S. Senate,,Mitt Romney,REP,150
+Wasatch ,41,U.S. Senate,,Mitt Romney,REP,8
+Wasatch ,42,U.S. Senate,,Mitt Romney,REP,25
+Wasatch ,42:1,U.S. Senate,,Mitt Romney,REP,111
+Wasatch ,43,U.S. Senate,,Mitt Romney,REP,2
+Wasatch ,43:1,U.S. Senate,,Mitt Romney,REP,91
+Wasatch ,44,U.S. Senate,,Mitt Romney,REP,80
+Wasatch ,44:1,U.S. Senate,,Mitt Romney,REP,23
+Wasatch ,50,U.S. Senate,,Mitt Romney,REP,124
+Wasatch ,51,U.S. Senate,,Mitt Romney,REP,224
+Wasatch ,52,U.S. Senate,,Mitt Romney,REP,171
+Wasatch ,53,U.S. Senate,,Mitt Romney,REP,202
+Wasatch ,54,U.S. Senate,,Mitt Romney,REP,9
+Wasatch ,54:1,U.S. Senate,,Mitt Romney,REP,0
+Wasatch ,54:2,U.S. Senate,,Mitt Romney,REP,17
+Wasatch ,54:3,U.S. Senate,,Mitt Romney,REP,61
+Wasatch ,55,U.S. Senate,,Mitt Romney,REP,7
+Wasatch ,55:1,U.S. Senate,,Mitt Romney,REP,60
+Wasatch ,Total,U.S. Senate,,Mitt Romney,REP,3083
+Wasatch ,10,U.S. Senate,,Mike Kennedy,REP,20
+Wasatch ,11,U.S. Senate,,Mike Kennedy,REP,12
+Wasatch ,12,U.S. Senate,,Mike Kennedy,REP,12
+Wasatch ,13,U.S. Senate,,Mike Kennedy,REP,36
+Wasatch ,14,U.S. Senate,,Mike Kennedy,REP,62
+Wasatch ,20,U.S. Senate,,Mike Kennedy,REP,18
+Wasatch ,21,U.S. Senate,,Mike Kennedy,REP,17
+Wasatch ,22,U.S. Senate,,Mike Kennedy,REP,44
+Wasatch ,23,U.S. Senate,,Mike Kennedy,REP,51
+Wasatch ,24,U.S. Senate,,Mike Kennedy,REP,12
+Wasatch ,24:1,U.S. Senate,,Mike Kennedy,REP,15
+Wasatch ,25,U.S. Senate,,Mike Kennedy,REP,36
+Wasatch ,30,U.S. Senate,,Mike Kennedy,REP,69
+Wasatch ,30:1,U.S. Senate,,Mike Kennedy,REP,9
+Wasatch ,31,U.S. Senate,,Mike Kennedy,REP,63
+Wasatch ,31:1,U.S. Senate,,Mike Kennedy,REP,1
+Wasatch ,32,U.S. Senate,,Mike Kennedy,REP,19
+Wasatch ,32:1,U.S. Senate,,Mike Kennedy,REP,12
+Wasatch ,33,U.S. Senate,,Mike Kennedy,REP,26
+Wasatch ,33:1,U.S. Senate,,Mike Kennedy,REP,27
+Wasatch ,34,U.S. Senate,,Mike Kennedy,REP,38
+Wasatch ,40,U.S. Senate,,Mike Kennedy,REP,41
+Wasatch ,41,U.S. Senate,,Mike Kennedy,REP,3
+Wasatch ,42,U.S. Senate,,Mike Kennedy,REP,7
+Wasatch ,42:1,U.S. Senate,,Mike Kennedy,REP,40
+Wasatch ,43,U.S. Senate,,Mike Kennedy,REP,0
+Wasatch ,43:1,U.S. Senate,,Mike Kennedy,REP,38
+Wasatch ,44,U.S. Senate,,Mike Kennedy,REP,51
+Wasatch ,44:1,U.S. Senate,,Mike Kennedy,REP,22
+Wasatch ,50,U.S. Senate,,Mike Kennedy,REP,52
+Wasatch ,51,U.S. Senate,,Mike Kennedy,REP,81
+Wasatch ,52,U.S. Senate,,Mike Kennedy,REP,67
+Wasatch ,53,U.S. Senate,,Mike Kennedy,REP,59
+Wasatch ,54,U.S. Senate,,Mike Kennedy,REP,5
+Wasatch ,54:1,U.S. Senate,,Mike Kennedy,REP,0
+Wasatch ,54:2,U.S. Senate,,Mike Kennedy,REP,2
+Wasatch ,54:3,U.S. Senate,,Mike Kennedy,REP,23
+Wasatch ,55,U.S. Senate,,Mike Kennedy,REP,6
+Wasatch ,55:1,U.S. Senate,,Mike Kennedy,REP,27
+Wasatch ,Total,U.S. Senate,,Mike Kennedy,REP,1123
+Wasatch ,10,U.S. House,3,John Curtis,REP,47
+Wasatch ,11,U.S. House,3,John Curtis,REP,37
+Wasatch ,12,U.S. House,3,John Curtis,REP,41
+Wasatch ,13,U.S. House,3,John Curtis,REP,95
+Wasatch ,14,U.S. House,3,John Curtis,REP,217
+Wasatch ,20,U.S. House,3,John Curtis,REP,92
+Wasatch ,21,U.S. House,3,John Curtis,REP,53
+Wasatch ,22,U.S. House,3,John Curtis,REP,119
+Wasatch ,23,U.S. House,3,John Curtis,REP,136
+Wasatch ,24,U.S. House,3,John Curtis,REP,31
+Wasatch ,24:1,U.S. House,3,John Curtis,REP,80
+Wasatch ,25,U.S. House,3,John Curtis,REP,118
+Wasatch ,30,U.S. House,3,John Curtis,REP,121
+Wasatch ,30:1,U.S. House,3,John Curtis,REP,21
+Wasatch ,31,U.S. House,3,John Curtis,REP,177
+Wasatch ,31:1,U.S. House,3,John Curtis,REP,8
+Wasatch ,32,U.S. House,3,John Curtis,REP,48
+Wasatch ,32:1,U.S. House,3,John Curtis,REP,15
+Wasatch ,33,U.S. House,3,John Curtis,REP,72
+Wasatch ,33:1,U.S. House,3,John Curtis,REP,44
+Wasatch ,34,U.S. House,3,John Curtis,REP,98
+Wasatch ,40,U.S. House,3,John Curtis,REP,149
+Wasatch ,41,U.S. House,3,John Curtis,REP,9
+Wasatch ,42,U.S. House,3,John Curtis,REP,29
+Wasatch ,42:1,U.S. House,3,John Curtis,REP,114
+Wasatch ,43,U.S. House,3,John Curtis,REP,2
+Wasatch ,43:1,U.S. House,3,John Curtis,REP,89
+Wasatch ,44,U.S. House,3,John Curtis,REP,89
+Wasatch ,44:1,U.S. House,3,John Curtis,REP,32
+Wasatch ,50,U.S. House,3,John Curtis,REP,121
+Wasatch ,51,U.S. House,3,John Curtis,REP,217
+Wasatch ,52,U.S. House,3,John Curtis,REP,181
+Wasatch ,53,U.S. House,3,John Curtis,REP,202
+Wasatch ,54,U.S. House,3,John Curtis,REP,8
+Wasatch ,54:1,U.S. House,3,John Curtis,REP,0
+Wasatch ,54:2,U.S. House,3,John Curtis,REP,14
+Wasatch ,54:3,U.S. House,3,John Curtis,REP,69
+Wasatch ,55,U.S. House,3,John Curtis,REP,5
+Wasatch ,55:1,U.S. House,3,John Curtis,REP,59
+Wasatch ,Total,U.S. House,3,John Curtis,REP,3059
+Wasatch ,10,U.S. House,3,Christopher N. Herrod,REP,16
+Wasatch ,11,U.S. House,3,Christopher N. Herrod,REP,19
+Wasatch ,12,U.S. House,3,Christopher N. Herrod,REP,17
+Wasatch ,13,U.S. House,3,Christopher N. Herrod,REP,21
+Wasatch ,14,U.S. House,3,Christopher N. Herrod,REP,42
+Wasatch ,20,U.S. House,3,Christopher N. Herrod,REP,17
+Wasatch ,21,U.S. House,3,Christopher N. Herrod,REP,12
+Wasatch ,22,U.S. House,3,Christopher N. Herrod,REP,27
+Wasatch ,23,U.S. House,3,Christopher N. Herrod,REP,67
+Wasatch ,24,U.S. House,3,Christopher N. Herrod,REP,7
+Wasatch ,24:1,U.S. House,3,Christopher N. Herrod,REP,20
+Wasatch ,25,U.S. House,3,Christopher N. Herrod,REP,35
+Wasatch ,30,U.S. House,3,Christopher N. Herrod,REP,40
+Wasatch ,30:1,U.S. House,3,Christopher N. Herrod,REP,3
+Wasatch ,31,U.S. House,3,Christopher N. Herrod,REP,70
+Wasatch ,31:1,U.S. House,3,Christopher N. Herrod,REP,1
+Wasatch ,32,U.S. House,3,Christopher N. Herrod,REP,6
+Wasatch ,32:1,U.S. House,3,Christopher N. Herrod,REP,8
+Wasatch ,33,U.S. House,3,Christopher N. Herrod,REP,25
+Wasatch ,33:1,U.S. House,3,Christopher N. Herrod,REP,30
+Wasatch ,34,U.S. House,3,Christopher N. Herrod,REP,29
+Wasatch ,40,U.S. House,3,Christopher N. Herrod,REP,33
+Wasatch ,41,U.S. House,3,Christopher N. Herrod,REP,2
+Wasatch ,42,U.S. House,3,Christopher N. Herrod,REP,3
+Wasatch ,42:1,U.S. House,3,Christopher N. Herrod,REP,29
+Wasatch ,43,U.S. House,3,Christopher N. Herrod,REP,0
+Wasatch ,43:1,U.S. House,3,Christopher N. Herrod,REP,34
+Wasatch ,44,U.S. House,3,Christopher N. Herrod,REP,38
+Wasatch ,44:1,U.S. House,3,Christopher N. Herrod,REP,13
+Wasatch ,50,U.S. House,3,Christopher N. Herrod,REP,47
+Wasatch ,51,U.S. House,3,Christopher N. Herrod,REP,66
+Wasatch ,52,U.S. House,3,Christopher N. Herrod,REP,40
+Wasatch ,53,U.S. House,3,Christopher N. Herrod,REP,46
+Wasatch ,54,U.S. House,3,Christopher N. Herrod,REP,6
+Wasatch ,54:1,U.S. House,3,Christopher N. Herrod,REP,0
+Wasatch ,54:2,U.S. House,3,Christopher N. Herrod,REP,3
+Wasatch ,54:3,U.S. House,3,Christopher N. Herrod,REP,14
+Wasatch ,55,U.S. House,3,Christopher N. Herrod,REP,8
+Wasatch ,55:1,U.S. House,3,Christopher N. Herrod,REP,26
+Wasatch ,Total,U.S. House,3,Christopher N. Herrod,REP,920
+Wasatch ,10,State Senate,26,Ronald Winterton,REP,31
+Wasatch ,11,State Senate,26,Ronald Winterton,REP,34
+Wasatch ,12,State Senate,26,Ronald Winterton,REP,29
+Wasatch ,13,State Senate,26,Ronald Winterton,REP,65
+Wasatch ,14,State Senate,26,Ronald Winterton,REP,117
+Wasatch ,20,State Senate,26,Ronald Winterton,REP,43
+Wasatch ,21,State Senate,26,Ronald Winterton,REP,23
+Wasatch ,22,State Senate,26,Ronald Winterton,REP,72
+Wasatch ,23,State Senate,26,Ronald Winterton,REP,76
+Wasatch ,24,State Senate,26,Ronald Winterton,REP,18
+Wasatch ,24:1,State Senate,26,Ronald Winterton,REP,29
+Wasatch ,25,State Senate,26,Ronald Winterton,REP,51
+Wasatch ,30,State Senate,26,Ronald Winterton,REP,45
+Wasatch ,30:1,State Senate,26,Ronald Winterton,REP,4
+Wasatch ,31,State Senate,26,Ronald Winterton,REP,116
+Wasatch ,31:1,State Senate,26,Ronald Winterton,REP,4
+Wasatch ,34,State Senate,26,Ronald Winterton,REP,62
+Wasatch ,40,State Senate,26,Ronald Winterton,REP,73
+Wasatch ,41,State Senate,26,Ronald Winterton,REP,8
+Wasatch ,42,State Senate,26,Ronald Winterton,REP,16
+Wasatch ,42:1,State Senate,26,Ronald Winterton,REP,53
+Wasatch ,50,State Senate,26,Ronald Winterton,REP,74
+Wasatch ,51,State Senate,26,Ronald Winterton,REP,113
+Wasatch ,52,State Senate,26,Ronald Winterton,REP,78
+Wasatch ,53,State Senate,26,Ronald Winterton,REP,135
+Wasatch ,54,State Senate,26,Ronald Winterton,REP,3
+Wasatch ,54:1,State Senate,26,Ronald Winterton,REP,0
+Wasatch ,54:2,State Senate,26,Ronald Winterton,REP,8
+Wasatch ,54:3,State Senate,26,Ronald Winterton,REP,51
+Wasatch ,Total,State Senate,26,Ronald Winterton,REP,1431
+Wasatch ,10,State Senate,26,Jack Rubin,REP,23
+Wasatch ,11,State Senate,26,Jack Rubin,REP,14
+Wasatch ,12,State Senate,26,Jack Rubin,REP,20
+Wasatch ,13,State Senate,26,Jack Rubin,REP,39
+Wasatch ,14,State Senate,26,Jack Rubin,REP,105
+Wasatch ,20,State Senate,26,Jack Rubin,REP,44
+Wasatch ,21,State Senate,26,Jack Rubin,REP,33
+Wasatch ,22,State Senate,26,Jack Rubin,REP,51
+Wasatch ,23,State Senate,26,Jack Rubin,REP,103
+Wasatch ,24,State Senate,26,Jack Rubin,REP,12
+Wasatch ,24:1,State Senate,26,Jack Rubin,REP,60
+Wasatch ,25,State Senate,26,Jack Rubin,REP,85
+Wasatch ,30,State Senate,26,Jack Rubin,REP,118
+Wasatch ,30:1,State Senate,26,Jack Rubin,REP,19
+Wasatch ,31,State Senate,26,Jack Rubin,REP,81
+Wasatch ,31:1,State Senate,26,Jack Rubin,REP,0
+Wasatch ,34,State Senate,26,Jack Rubin,REP,48
+Wasatch ,40,State Senate,26,Jack Rubin,REP,88
+Wasatch ,41,State Senate,26,Jack Rubin,REP,3
+Wasatch ,42,State Senate,26,Jack Rubin,REP,14
+Wasatch ,42:1,State Senate,26,Jack Rubin,REP,57
+Wasatch ,50,State Senate,26,Jack Rubin,REP,70
+Wasatch ,51,State Senate,26,Jack Rubin,REP,147
+Wasatch ,52,State Senate,26,Jack Rubin,REP,113
+Wasatch ,53,State Senate,26,Jack Rubin,REP,83
+Wasatch ,54,State Senate,26,Jack Rubin,REP,9
+Wasatch ,54:1,State Senate,26,Jack Rubin,REP,0
+Wasatch ,54:2,State Senate,26,Jack Rubin,REP,5
+Wasatch ,54:3,State Senate,26,Jack Rubin,REP,26
+Wasatch ,Total,State Senate,26,Jack Rubin,REP,1470
+Wasatch ,10,State Senate,26,Brian K. Gorum,REP,7
+Wasatch ,11,State Senate,26,Brian K. Gorum,REP,4
+Wasatch ,12,State Senate,26,Brian K. Gorum,REP,5
+Wasatch ,13,State Senate,26,Brian K. Gorum,REP,10
+Wasatch ,14,State Senate,26,Brian K. Gorum,REP,29
+Wasatch ,20,State Senate,26,Brian K. Gorum,REP,20
+Wasatch ,21,State Senate,26,Brian K. Gorum,REP,8
+Wasatch ,22,State Senate,26,Brian K. Gorum,REP,18
+Wasatch ,23,State Senate,26,Brian K. Gorum,REP,20
+Wasatch ,24,State Senate,26,Brian K. Gorum,REP,3
+Wasatch ,24:1,State Senate,26,Brian K. Gorum,REP,4
+Wasatch ,25,State Senate,26,Brian K. Gorum,REP,17
+Wasatch ,30,State Senate,26,Brian K. Gorum,REP,9
+Wasatch ,30:1,State Senate,26,Brian K. Gorum,REP,1
+Wasatch ,31,State Senate,26,Brian K. Gorum,REP,26
+Wasatch ,31:1,State Senate,26,Brian K. Gorum,REP,4
+Wasatch ,34,State Senate,26,Brian K. Gorum,REP,7
+Wasatch ,40,State Senate,26,Brian K. Gorum,REP,16
+Wasatch ,41,State Senate,26,Brian K. Gorum,REP,0
+Wasatch ,42,State Senate,26,Brian K. Gorum,REP,1
+Wasatch ,42:1,State Senate,26,Brian K. Gorum,REP,22
+Wasatch ,50,State Senate,26,Brian K. Gorum,REP,17
+Wasatch ,51,State Senate,26,Brian K. Gorum,REP,14
+Wasatch ,52,State Senate,26,Brian K. Gorum,REP,9
+Wasatch ,53,State Senate,26,Brian K. Gorum,REP,22
+Wasatch ,54,State Senate,26,Brian K. Gorum,REP,1
+Wasatch ,54:1,State Senate,26,Brian K. Gorum,REP,0
+Wasatch ,54:2,State Senate,26,Brian K. Gorum,REP,2
+Wasatch ,54:3,State Senate,26,Brian K. Gorum,REP,4
+Wasatch ,Total,State Senate,26,Brian K. Gorum,REP,300
+Wasatch ,10,State Senate,26,Pat Vaughn,DEM,10
+Wasatch ,11,State Senate,26,Pat Vaughn,DEM,4
+Wasatch ,12,State Senate,26,Pat Vaughn,DEM,5
+Wasatch ,13,State Senate,26,Pat Vaughn,DEM,6
+Wasatch ,14,State Senate,26,Pat Vaughn,DEM,8
+Wasatch ,20,State Senate,26,Pat Vaughn,DEM,14
+Wasatch ,21,State Senate,26,Pat Vaughn,DEM,6
+Wasatch ,22,State Senate,26,Pat Vaughn,DEM,0
+Wasatch ,23,State Senate,26,Pat Vaughn,DEM,5
+Wasatch ,24,State Senate,26,Pat Vaughn,DEM,2
+Wasatch ,24:1,State Senate,26,Pat Vaughn,DEM,10
+Wasatch ,25,State Senate,26,Pat Vaughn,DEM,5
+Wasatch ,30,State Senate,26,Pat Vaughn,DEM,32
+Wasatch ,30:1,State Senate,26,Pat Vaughn,DEM,5
+Wasatch ,31,State Senate,26,Pat Vaughn,DEM,11
+Wasatch ,31:1,State Senate,26,Pat Vaughn,DEM,0
+Wasatch ,34,State Senate,26,Pat Vaughn,DEM,8
+Wasatch ,40,State Senate,26,Pat Vaughn,DEM,4
+Wasatch ,41,State Senate,26,Pat Vaughn,DEM,1
+Wasatch ,42,State Senate,26,Pat Vaughn,DEM,2
+Wasatch ,42:1,State Senate,26,Pat Vaughn,DEM,10
+Wasatch ,50,State Senate,26,Pat Vaughn,DEM,19
+Wasatch ,51,State Senate,26,Pat Vaughn,DEM,42
+Wasatch ,52,State Senate,26,Pat Vaughn,DEM,35
+Wasatch ,53,State Senate,26,Pat Vaughn,DEM,20
+Wasatch ,54,State Senate,26,Pat Vaughn,DEM,0
+Wasatch ,54:1,State Senate,26,Pat Vaughn,DEM,0
+Wasatch ,54:2,State Senate,26,Pat Vaughn,DEM,11
+Wasatch ,54:3,State Senate,26,Pat Vaughn,DEM,2
+Wasatch ,Total,State Senate,26,Pat Vaughn,DEM,277
+Wasatch ,10,State Senate,26,Eileen Gallagher,DEM,10
+Wasatch ,11,State Senate,26,Eileen Gallagher,DEM,14
+Wasatch ,12,State Senate,26,Eileen Gallagher,DEM,6
+Wasatch ,13,State Senate,26,Eileen Gallagher,DEM,9
+Wasatch ,14,State Senate,26,Eileen Gallagher,DEM,22
+Wasatch ,20,State Senate,26,Eileen Gallagher,DEM,10
+Wasatch ,21,State Senate,26,Eileen Gallagher,DEM,3
+Wasatch ,22,State Senate,26,Eileen Gallagher,DEM,8
+Wasatch ,23,State Senate,26,Eileen Gallagher,DEM,13
+Wasatch ,24,State Senate,26,Eileen Gallagher,DEM,1
+Wasatch ,24:1,State Senate,26,Eileen Gallagher,DEM,6
+Wasatch ,25,State Senate,26,Eileen Gallagher,DEM,11
+Wasatch ,30,State Senate,26,Eileen Gallagher,DEM,55
+Wasatch ,30:1,State Senate,26,Eileen Gallagher,DEM,7
+Wasatch ,31,State Senate,26,Eileen Gallagher,DEM,5
+Wasatch ,31:1,State Senate,26,Eileen Gallagher,DEM,0
+Wasatch ,34,State Senate,26,Eileen Gallagher,DEM,6
+Wasatch ,40,State Senate,26,Eileen Gallagher,DEM,10
+Wasatch ,41,State Senate,26,Eileen Gallagher,DEM,4
+Wasatch ,42,State Senate,26,Eileen Gallagher,DEM,0
+Wasatch ,42:1,State Senate,26,Eileen Gallagher,DEM,11
+Wasatch ,50,State Senate,26,Eileen Gallagher,DEM,14
+Wasatch ,51,State Senate,26,Eileen Gallagher,DEM,19
+Wasatch ,52,State Senate,26,Eileen Gallagher,DEM,16
+Wasatch ,53,State Senate,26,Eileen Gallagher,DEM,18
+Wasatch ,54,State Senate,26,Eileen Gallagher,DEM,0
+Wasatch ,54:1,State Senate,26,Eileen Gallagher,DEM,0
+Wasatch ,54:2,State Senate,26,Eileen Gallagher,DEM,7
+Wasatch ,54:3,State Senate,26,Eileen Gallagher,DEM,2
+Wasatch ,Total,State Senate,26,Eileen Gallagher,DEM,287
