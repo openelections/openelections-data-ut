@@ -1,0 +1,824 @@
+county,precinct,office,district,party,candidate,votes
+Summit,Bitner,,,,Registered,840
+Summit,Chalk Creek,,,,Registered,277
+Summit,Coalville,,,,Registered,667
+Summit,Deer Valley North,,,,Registered,354
+Summit,Deer Valley South,,,,Registered,817
+Summit,Francis,,,,Registered,765
+Summit,Highland Estates East,,,,Registered,755
+Summit,Henefer,,,,Registered,471
+Summit,Highland Estates West,,,,Registered,682
+Summit,Hoytsville,,,,Registered,296
+Summit,Hoytsville uninc,,,,Registered,227
+Summit,Jeremy East,,,,Registered,820
+Summit,Jeremy West,,,,Registered,579
+Summit,Kamas,,,,Registered,898
+Summit,Kimball Canyon,,,,Registered,142
+Summit,Lower Pinebrook,,,,Registered,1084
+Summit,Moose Hollow,,,,Registered,781
+Summit,North Summit North,,,,Registered,195
+Summit,Oakley,,,,Registered,841
+Summit,Old Town North,,,,Registered,440
+Summit,Old Town South,,,,Registered,265
+Summit,Park West,,,,Registered,1320
+Summit,Peoa 15:20,,,,Registered,513
+Summit,Peoa 15:25,,,,Registered,0
+Summit,Peoa 15:32,,,,Registered,0
+Summit,Pinebrook North,,,,Registered,531
+Summit,Park Meadows North,,,,Registered,810
+Summit,Park Meadows South,,,,Registered,443
+Summit,Promontory Ridge,,,,Registered,100
+Summit,Prospector,,,,Registered,366
+Summit,Quarry Mtn,,,,Registered,831
+Summit,Ranch Road South,,,,Registered,412
+Summit,Ranch Place,,,,Registered,784
+Summit,Lower Silver Creek,,,,Registered,484
+Summit,Upper Silver Creek,,,,Registered,343
+Summit,Sidewinder,,,,Registered,451
+Summit,Silver Springs,,,,Registered,705
+Summit,Snyders Mills,,,,Registered,524
+Summit,South Summit East,,,,Registered,466
+Summit,South Summit South,,,,Registered,339
+Summit,South Summit West,,,,Registered,345
+Summit,Summit Park East,,,,Registered,912
+Summit,Summit Park West,,,,Registered,324
+Summit,Thaynes Canyon,,,,Registered,468
+Summit,Upper Pinebrook,,,,Registered,380
+Summit,Wagon Wheel,,,,Registered,347
+Summit,Wanship 17:10,,,,Registered,831
+Summit,Wanship 17:2,,,,Registered,0
+Summit,Wanship 17:32,,,,Registered,0
+Summit,Weber Canyon 21:20,,,,Registered,195
+Summit,Weber Canyon 21:25,,,,Registered,0
+Summit,SUMMIT UT,,,,Registered,25420
+Summit,Bitner,,,,Ballots,649
+Summit,Chalk Creek,,,,Ballots,196
+Summit,Coalville,,,,Ballots,527
+Summit,Deer Valley North,,,,Ballots,293
+Summit,Deer Valley South,,,,Ballots,671
+Summit,Francis,,,,Ballots,592
+Summit,Highland Estates East,,,,Ballots,614
+Summit,Henefer,,,,Ballots,330
+Summit,Highland Estates West,,,,Ballots,559
+Summit,Hoytsville,,,,Ballots,263
+Summit,Hoytsville uninc,,,,Ballots,178
+Summit,Jeremy East,,,,Ballots,670
+Summit,Jeremy West,,,,Ballots,476
+Summit,Kamas,,,,Ballots,708
+Summit,Kimball Canyon,,,,Ballots,118
+Summit,Lower Pinebrook,,,,Ballots,879
+Summit,Moose Hollow,,,,Ballots,643
+Summit,North Summit North,,,,Ballots,140
+Summit,Oakley,,,,Ballots,661
+Summit,Old Town North,,,,Ballots,352
+Summit,Old Town South,,,,Ballots,230
+Summit,Park West,,,,Ballots,940
+Summit,Peoa 15:20,,,,Ballots,177
+Summit,Peoa 15:25,,,,Ballots,15
+Summit,Peoa 15:32,,,,Ballots,200
+Summit,Pinebrook North,,,,Ballots,439
+Summit,Park Meadows North,,,,Ballots,687
+Summit,Park Meadows South,,,,Ballots,362
+Summit,Promontory Ridge,,,,Ballots,74
+Summit,Prospector,,,,Ballots,271
+Summit,Quarry Mtn,,,,Ballots,701
+Summit,Ranch Road South,,,,Ballots,318
+Summit,Ranch Place,,,,Ballots,649
+Summit,Lower Silver Creek,,,,Ballots,401
+Summit,Upper Silver Creek,,,,Ballots,272
+Summit,Sidewinder,,,,Ballots,363
+Summit,Silver Springs,,,,Ballots,583
+Summit,Snyders Mills,,,,Ballots,453
+Summit,South Summit East,,,,Ballots,386
+Summit,South Summit South,,,,Ballots,299
+Summit,South Summit West,,,,Ballots,272
+Summit,Summit Park East,,,,Ballots,774
+Summit,Summit Park West,,,,Ballots,281
+Summit,Thaynes Canyon,,,,Ballots,394
+Summit,Upper Pinebrook,,,,Ballots,306
+Summit,Wagon Wheel,,,,Ballots,285
+Summit,Wanship 17:10,,,,Ballots,404
+Summit,Wanship 17:2,,,,Ballots,210
+Summit,Wanship 17:32,,,,Ballots,31
+Summit,Weber Canyon 21:20,,,,Ballots,158
+Summit,Weber Canyon 21:25,,,,Ballots,17
+Summit,SUMMIT UT,,,,Ballots,20471
+Summit,Bitner,US Senate,,Con,Tim Aalders,9
+Summit,Chalk Creek,US Senate,,Con,Tim Aalders,3
+Summit,Coalville,US Senate,,Con,Tim Aalders,23
+Summit,Deer Valley North,US Senate,,Con,Tim Aalders,1
+Summit,Deer Valley South,US Senate,,Con,Tim Aalders,10
+Summit,Francis,US Senate,,Con,Tim Aalders,13
+Summit,Highland Estates East,US Senate,,Con,Tim Aalders,11
+Summit,Henefer,US Senate,,Con,Tim Aalders,7
+Summit,Highland Estates West,US Senate,,Con,Tim Aalders,12
+Summit,Hoytsville,US Senate,,Con,Tim Aalders,11
+Summit,Hoytsville uninc,US Senate,,Con,Tim Aalders,3
+Summit,Jeremy East,US Senate,,Con,Tim Aalders,6
+Summit,Jeremy West,US Senate,,Con,Tim Aalders,2
+Summit,Kamas,US Senate,,Con,Tim Aalders,12
+Summit,Kimball Canyon,US Senate,,Con,Tim Aalders,1
+Summit,Lower Pinebrook,US Senate,,Con,Tim Aalders,5
+Summit,Moose Hollow,US Senate,,Con,Tim Aalders,4
+Summit,North Summit North,US Senate,,Con,Tim Aalders,4
+Summit,Oakley,US Senate,,Con,Tim Aalders,12
+Summit,Old Town North,US Senate,,Con,Tim Aalders,2
+Summit,Old Town South,US Senate,,Con,Tim Aalders,2
+Summit,Park West,US Senate,,Con,Tim Aalders,5
+Summit,Peoa 15:20,US Senate,,Con,Tim Aalders,4
+Summit,Peoa 15:25,US Senate,,Con,Tim Aalders,0
+Summit,Peoa 15:32,US Senate,,Con,Tim Aalders,5
+Summit,Pinebrook North,US Senate,,Con,Tim Aalders,4
+Summit,Park Meadows North,US Senate,,Con,Tim Aalders,7
+Summit,Park Meadows South,US Senate,,Con,Tim Aalders,1
+Summit,Promontory Ridge,US Senate,,Con,Tim Aalders,1
+Summit,Prospector,US Senate,,Con,Tim Aalders,2
+Summit,Quarry Mtn,US Senate,,Con,Tim Aalders,3
+Summit,Ranch Road South,US Senate,,Con,Tim Aalders,1
+Summit,Ranch Place,US Senate,,Con,Tim Aalders,5
+Summit,Lower Silver Creek,US Senate,,Con,Tim Aalders,7
+Summit,Upper Silver Creek,US Senate,,Con,Tim Aalders,8
+Summit,Sidewinder,US Senate,,Con,Tim Aalders,2
+Summit,Silver Springs,US Senate,,Con,Tim Aalders,6
+Summit,Snyders Mills,US Senate,,Con,Tim Aalders,3
+Summit,South Summit East,US Senate,,Con,Tim Aalders,12
+Summit,South Summit South,US Senate,,Con,Tim Aalders,4
+Summit,South Summit West,US Senate,,Con,Tim Aalders,14
+Summit,Summit Park East,US Senate,,Con,Tim Aalders,6
+Summit,Summit Park West,US Senate,,Con,Tim Aalders,2
+Summit,Thaynes Canyon,US Senate,,Con,Tim Aalders,6
+Summit,Upper Pinebrook,US Senate,,Con,Tim Aalders,5
+Summit,Wagon Wheel,US Senate,,Con,Tim Aalders,5
+Summit,Wanship 17:10,US Senate,,Con,Tim Aalders,8
+Summit,Wanship 17:2,US Senate,,Con,Tim Aalders,3
+Summit,Wanship 17:32,US Senate,,Con,Tim Aalders,0
+Summit,Weber Canyon 21:20,US Senate,,Con,Tim Aalders,7
+Summit,Weber Canyon 21:25,US Senate,,Con,Tim Aalders,0
+Summit,SUMMIT UT,US Senate,,Con,Tim Aalders,289
+Summit,Bitner,US Senate,,Lbt,Craig Bowden,17
+Summit,Chalk Creek,US Senate,,Lbt,Craig Bowden,6
+Summit,Coalville,US Senate,,Lbt,Craig Bowden,16
+Summit,Deer Valley North,US Senate,,Lbt,Craig Bowden,5
+Summit,Deer Valley South,US Senate,,Lbt,Craig Bowden,4
+Summit,Francis,US Senate,,Lbt,Craig Bowden,11
+Summit,Highland Estates East,US Senate,,Lbt,Craig Bowden,10
+Summit,Henefer,US Senate,,Lbt,Craig Bowden,9
+Summit,Highland Estates West,US Senate,,Lbt,Craig Bowden,9
+Summit,Hoytsville,US Senate,,Lbt,Craig Bowden,9
+Summit,Hoytsville uninc,US Senate,,Lbt,Craig Bowden,4
+Summit,Jeremy East,US Senate,,Lbt,Craig Bowden,6
+Summit,Jeremy West,US Senate,,Lbt,Craig Bowden,6
+Summit,Kamas,US Senate,,Lbt,Craig Bowden,21
+Summit,Kimball Canyon,US Senate,,Lbt,Craig Bowden,2
+Summit,Lower Pinebrook,US Senate,,Lbt,Craig Bowden,15
+Summit,Moose Hollow,US Senate,,Lbt,Craig Bowden,8
+Summit,North Summit North,US Senate,,Lbt,Craig Bowden,2
+Summit,Oakley,US Senate,,Lbt,Craig Bowden,19
+Summit,Old Town North,US Senate,,Lbt,Craig Bowden,8
+Summit,Old Town South,US Senate,,Lbt,Craig Bowden,4
+Summit,Park West,US Senate,,Lbt,Craig Bowden,24
+Summit,Peoa 15:20,US Senate,,Lbt,Craig Bowden,5
+Summit,Peoa 15:25,US Senate,,Lbt,Craig Bowden,0
+Summit,Peoa 15:32,US Senate,,Lbt,Craig Bowden,2
+Summit,Pinebrook North,US Senate,,Lbt,Craig Bowden,4
+Summit,Park Meadows North,US Senate,,Lbt,Craig Bowden,10
+Summit,Park Meadows South,US Senate,,Lbt,Craig Bowden,1
+Summit,Promontory Ridge,US Senate,,Lbt,Craig Bowden,2
+Summit,Prospector,US Senate,,Lbt,Craig Bowden,10
+Summit,Quarry Mtn,US Senate,,Lbt,Craig Bowden,10
+Summit,Ranch Road South,US Senate,,Lbt,Craig Bowden,1
+Summit,Ranch Place,US Senate,,Lbt,Craig Bowden,6
+Summit,Lower Silver Creek,US Senate,,Lbt,Craig Bowden,5
+Summit,Upper Silver Creek,US Senate,,Lbt,Craig Bowden,13
+Summit,Sidewinder,US Senate,,Lbt,Craig Bowden,6
+Summit,Silver Springs,US Senate,,Lbt,Craig Bowden,5
+Summit,Snyders Mills,US Senate,,Lbt,Craig Bowden,8
+Summit,South Summit East,US Senate,,Lbt,Craig Bowden,9
+Summit,South Summit South,US Senate,,Lbt,Craig Bowden,2
+Summit,South Summit West,US Senate,,Lbt,Craig Bowden,9
+Summit,Summit Park East,US Senate,,Lbt,Craig Bowden,19
+Summit,Summit Park West,US Senate,,Lbt,Craig Bowden,8
+Summit,Thaynes Canyon,US Senate,,Lbt,Craig Bowden,8
+Summit,Upper Pinebrook,US Senate,,Lbt,Craig Bowden,7
+Summit,Wagon Wheel,US Senate,,Lbt,Craig Bowden,3
+Summit,Wanship 17:10,US Senate,,Lbt,Craig Bowden,9
+Summit,Wanship 17:2,US Senate,,Lbt,Craig Bowden,3
+Summit,Wanship 17:32,US Senate,,Lbt,Craig Bowden,0
+Summit,Weber Canyon 21:20,US Senate,,Lbt,Craig Bowden,3
+Summit,Weber Canyon 21:25,US Senate,,Lbt,Craig Bowden,0
+Summit,SUMMIT UT,US Senate,,Lbt,Craig Bowden,393
+Summit,Bitner,US Senate,,IAP,Reed McCandless,3
+Summit,Chalk Creek,US Senate,,IAP,Reed McCandless,1
+Summit,Coalville,US Senate,,IAP,Reed McCandless,4
+Summit,Deer Valley North,US Senate,,IAP,Reed McCandless,1
+Summit,Deer Valley South,US Senate,,IAP,Reed McCandless,2
+Summit,Francis,US Senate,,IAP,Reed McCandless,15
+Summit,Highland Estates East,US Senate,,IAP,Reed McCandless,3
+Summit,Henefer,US Senate,,IAP,Reed McCandless,2
+Summit,Highland Estates West,US Senate,,IAP,Reed McCandless,4
+Summit,Hoytsville,US Senate,,IAP,Reed McCandless,8
+Summit,Hoytsville uninc,US Senate,,IAP,Reed McCandless,2
+Summit,Jeremy East,US Senate,,IAP,Reed McCandless,3
+Summit,Jeremy West,US Senate,,IAP,Reed McCandless,1
+Summit,Kamas,US Senate,,IAP,Reed McCandless,10
+Summit,Kimball Canyon,US Senate,,IAP,Reed McCandless,0
+Summit,Lower Pinebrook,US Senate,,IAP,Reed McCandless,7
+Summit,Moose Hollow,US Senate,,IAP,Reed McCandless,2
+Summit,North Summit North,US Senate,,IAP,Reed McCandless,2
+Summit,Oakley,US Senate,,IAP,Reed McCandless,5
+Summit,Old Town North,US Senate,,IAP,Reed McCandless,2
+Summit,Old Town South,US Senate,,IAP,Reed McCandless,4
+Summit,Park West,US Senate,,IAP,Reed McCandless,6
+Summit,Peoa 15:20,US Senate,,IAP,Reed McCandless,1
+Summit,Peoa 15:25,US Senate,,IAP,Reed McCandless,0
+Summit,Peoa 15:32,US Senate,,IAP,Reed McCandless,1
+Summit,Pinebrook North,US Senate,,IAP,Reed McCandless,2
+Summit,Park Meadows North,US Senate,,IAP,Reed McCandless,0
+Summit,Park Meadows South,US Senate,,IAP,Reed McCandless,2
+Summit,Promontory Ridge,US Senate,,IAP,Reed McCandless,0
+Summit,Prospector,US Senate,,IAP,Reed McCandless,4
+Summit,Quarry Mtn,US Senate,,IAP,Reed McCandless,2
+Summit,Ranch Road South,US Senate,,IAP,Reed McCandless,2
+Summit,Ranch Place,US Senate,,IAP,Reed McCandless,1
+Summit,Lower Silver Creek,US Senate,,IAP,Reed McCandless,0
+Summit,Upper Silver Creek,US Senate,,IAP,Reed McCandless,0
+Summit,Sidewinder,US Senate,,IAP,Reed McCandless,3
+Summit,Silver Springs,US Senate,,IAP,Reed McCandless,2
+Summit,Snyders Mills,US Senate,,IAP,Reed McCandless,2
+Summit,South Summit East,US Senate,,IAP,Reed McCandless,7
+Summit,South Summit South,US Senate,,IAP,Reed McCandless,2
+Summit,South Summit West,US Senate,,IAP,Reed McCandless,3
+Summit,Summit Park East,US Senate,,IAP,Reed McCandless,6
+Summit,Summit Park West,US Senate,,IAP,Reed McCandless,0
+Summit,Thaynes Canyon,US Senate,,IAP,Reed McCandless,0
+Summit,Upper Pinebrook,US Senate,,IAP,Reed McCandless,1
+Summit,Wagon Wheel,US Senate,,IAP,Reed McCandless,0
+Summit,Wanship 17:10,US Senate,,IAP,Reed McCandless,4
+Summit,Wanship 17:2,US Senate,,IAP,Reed McCandless,2
+Summit,Wanship 17:32,US Senate,,IAP,Reed McCandless,0
+Summit,Weber Canyon 21:20,US Senate,,IAP,Reed McCandless,5
+Summit,Weber Canyon 21:25,US Senate,,IAP,Reed McCandless,0
+Summit,SUMMIT UT,US Senate,,IAP,Reed McCandless,139
+Summit,Bitner,US Senate,,Dem,Jenny Wilson,383
+Summit,Chalk Creek,US Senate,,Dem,Jenny Wilson,31
+Summit,Coalville,US Senate,,Dem,Jenny Wilson,136
+Summit,Deer Valley North,US Senate,,Dem,Jenny Wilson,174
+Summit,Deer Valley South,US Senate,,Dem,Jenny Wilson,337
+Summit,Francis,US Senate,,Dem,Jenny Wilson,165
+Summit,Highland Estates East,US Senate,,Dem,Jenny Wilson,413
+Summit,Henefer,US Senate,,Dem,Jenny Wilson,45
+Summit,Highland Estates West,US Senate,,Dem,Jenny Wilson,285
+Summit,Hoytsville,US Senate,,Dem,Jenny Wilson,31
+Summit,Hoytsville uninc,US Senate,,Dem,Jenny Wilson,39
+Summit,Jeremy East,US Senate,,Dem,Jenny Wilson,328
+Summit,Jeremy West,US Senate,,Dem,Jenny Wilson,239
+Summit,Kamas,US Senate,,Dem,Jenny Wilson,257
+Summit,Kimball Canyon,US Senate,,Dem,Jenny Wilson,64
+Summit,Lower Pinebrook,US Senate,,Dem,Jenny Wilson,546
+Summit,Moose Hollow,US Senate,,Dem,Jenny Wilson,365
+Summit,North Summit North,US Senate,,Dem,Jenny Wilson,21
+Summit,Oakley,US Senate,,Dem,Jenny Wilson,177
+Summit,Old Town North,US Senate,,Dem,Jenny Wilson,223
+Summit,Old Town South,US Senate,,Dem,Jenny Wilson,165
+Summit,Park West,US Senate,,Dem,Jenny Wilson,534
+Summit,Peoa 15:20,US Senate,,Dem,Jenny Wilson,41
+Summit,Peoa 15:25,US Senate,,Dem,Jenny Wilson,10
+Summit,Peoa 15:32,US Senate,,Dem,Jenny Wilson,72
+Summit,Pinebrook North,US Senate,,Dem,Jenny Wilson,260
+Summit,Park Meadows North,US Senate,,Dem,Jenny Wilson,297
+Summit,Park Meadows South,US Senate,,Dem,Jenny Wilson,230
+Summit,Promontory Ridge,US Senate,,Dem,Jenny Wilson,22
+Summit,Prospector,US Senate,,Dem,Jenny Wilson,192
+Summit,Quarry Mtn,US Senate,,Dem,Jenny Wilson,415
+Summit,Ranch Road South,US Senate,,Dem,Jenny Wilson,167
+Summit,Ranch Place,US Senate,,Dem,Jenny Wilson,373
+Summit,Lower Silver Creek,US Senate,,Dem,Jenny Wilson,231
+Summit,Upper Silver Creek,US Senate,,Dem,Jenny Wilson,139
+Summit,Sidewinder,US Senate,,Dem,Jenny Wilson,255
+Summit,Silver Springs,US Senate,,Dem,Jenny Wilson,333
+Summit,Snyders Mills,US Senate,,Dem,Jenny Wilson,252
+Summit,South Summit East,US Senate,,Dem,Jenny Wilson,138
+Summit,South Summit South,US Senate,,Dem,Jenny Wilson,74
+Summit,South Summit West,US Senate,,Dem,Jenny Wilson,87
+Summit,Summit Park East,US Senate,,Dem,Jenny Wilson,562
+Summit,Summit Park West,US Senate,,Dem,Jenny Wilson,204
+Summit,Thaynes Canyon,US Senate,,Dem,Jenny Wilson,222
+Summit,Upper Pinebrook,US Senate,,Dem,Jenny Wilson,139
+Summit,Wagon Wheel,US Senate,,Dem,Jenny Wilson,184
+Summit,Wanship 17:10,US Senate,,Dem,Jenny Wilson,159
+Summit,Wanship 17:2,US Senate,,Dem,Jenny Wilson,133
+Summit,Wanship 17:32,US Senate,,Dem,Jenny Wilson,15
+Summit,Weber Canyon 21:20,US Senate,,Dem,Jenny Wilson,57
+Summit,Weber Canyon 21:25,US Senate,,Dem,Jenny Wilson,8
+Summit,SUMMIT UT,US Senate,,Dem,Jenny Wilson,10229
+Summit,Bitner,US Senate,,Rep,Mitt Romney,232
+Summit,Chalk Creek,US Senate,,Rep,Mitt Romney,149
+Summit,Coalville,US Senate,,Rep,Mitt Romney,338
+Summit,Deer Valley North,US Senate,,Rep,Mitt Romney,111
+Summit,Deer Valley South,US Senate,,Rep,Mitt Romney,311
+Summit,Francis,US Senate,,Rep,Mitt Romney,380
+Summit,Highland Estates East,US Senate,,Rep,Mitt Romney,170
+Summit,Henefer,US Senate,,Rep,Mitt Romney,261
+Summit,Highland Estates West,US Senate,,Rep,Mitt Romney,240
+Summit,Hoytsville,US Senate,,Rep,Mitt Romney,200
+Summit,Hoytsville uninc,US Senate,,Rep,Mitt Romney,127
+Summit,Jeremy East,US Senate,,Rep,Mitt Romney,321
+Summit,Jeremy West,US Senate,,Rep,Mitt Romney,227
+Summit,Kamas,US Senate,,Rep,Mitt Romney,397
+Summit,Kimball Canyon,US Senate,,Rep,Mitt Romney,49
+Summit,Lower Pinebrook,US Senate,,Rep,Mitt Romney,301
+Summit,Moose Hollow,US Senate,,Rep,Mitt Romney,257
+Summit,North Summit North,US Senate,,Rep,Mitt Romney,108
+Summit,Oakley,US Senate,,Rep,Mitt Romney,445
+Summit,Old Town North,US Senate,,Rep,Mitt Romney,113
+Summit,Old Town South,US Senate,,Rep,Mitt Romney,54
+Summit,Park West,US Senate,,Rep,Mitt Romney,359
+Summit,Peoa 15:20,US Senate,,Rep,Mitt Romney,123
+Summit,Peoa 15:25,US Senate,,Rep,Mitt Romney,5
+Summit,Peoa 15:32,US Senate,,Rep,Mitt Romney,118
+Summit,Pinebrook North,US Senate,,Rep,Mitt Romney,165
+Summit,Park Meadows North,US Senate,,Rep,Mitt Romney,366
+Summit,Park Meadows South,US Senate,,Rep,Mitt Romney,123
+Summit,Promontory Ridge,US Senate,,Rep,Mitt Romney,49
+Summit,Prospector,US Senate,,Rep,Mitt Romney,57
+Summit,Quarry Mtn,US Senate,,Rep,Mitt Romney,260
+Summit,Ranch Road South,US Senate,,Rep,Mitt Romney,146
+Summit,Ranch Place,US Senate,,Rep,Mitt Romney,253
+Summit,Lower Silver Creek,US Senate,,Rep,Mitt Romney,155
+Summit,Upper Silver Creek,US Senate,,Rep,Mitt Romney,110
+Summit,Sidewinder,US Senate,,Rep,Mitt Romney,89
+Summit,Silver Springs,US Senate,,Rep,Mitt Romney,226
+Summit,Snyders Mills,US Senate,,Rep,Mitt Romney,179
+Summit,South Summit East,US Senate,,Rep,Mitt Romney,213
+Summit,South Summit South,US Senate,,Rep,Mitt Romney,208
+Summit,South Summit West,US Senate,,Rep,Mitt Romney,152
+Summit,Summit Park East,US Senate,,Rep,Mitt Romney,171
+Summit,Summit Park West,US Senate,,Rep,Mitt Romney,63
+Summit,Thaynes Canyon,US Senate,,Rep,Mitt Romney,156
+Summit,Upper Pinebrook,US Senate,,Rep,Mitt Romney,148
+Summit,Wagon Wheel,US Senate,,Rep,Mitt Romney,92
+Summit,Wanship 17:10,US Senate,,Rep,Mitt Romney,215
+Summit,Wanship 17:2,US Senate,,Rep,Mitt Romney,67
+Summit,Wanship 17:32,US Senate,,Rep,Mitt Romney,16
+Summit,Weber Canyon 21:20,US Senate,,Rep,Mitt Romney,86
+Summit,Weber Canyon 21:25,US Senate,,Rep,Mitt Romney,9
+Summit,SUMMIT UT,US Senate,,Rep,Mitt Romney,9170
+Summit,Bitner,US Senate,,,write-in,0
+Summit,Chalk Creek,US Senate,,,write-in,2
+Summit,Coalville,US Senate,,,write-in,1
+Summit,Deer Valley North,US Senate,,,write-in,0
+Summit,Deer Valley South,US Senate,,,write-in,2
+Summit,Francis,US Senate,,,write-in,0
+Summit,Highland Estates East,US Senate,,,write-in,0
+Summit,Henefer,US Senate,,,write-in,0
+Summit,Highland Estates West,US Senate,,,write-in,1
+Summit,Hoytsville,US Senate,,,write-in,0
+Summit,Hoytsville uninc,US Senate,,,write-in,0
+Summit,Jeremy East,US Senate,,,write-in,0
+Summit,Jeremy West,US Senate,,,write-in,0
+Summit,Kamas,US Senate,,,write-in,0
+Summit,Kimball Canyon,US Senate,,,write-in,1
+Summit,Lower Pinebrook,US Senate,,,write-in,0
+Summit,Moose Hollow,US Senate,,,write-in,2
+Summit,North Summit North,US Senate,,,write-in,0
+Summit,Oakley,US Senate,,,write-in,0
+Summit,Old Town North,US Senate,,,write-in,0
+Summit,Old Town South,US Senate,,,write-in,0
+Summit,Park West,US Senate,,,write-in,1
+Summit,Peoa 15:20,US Senate,,,write-in,0
+Summit,Peoa 15:25,US Senate,,,write-in,0
+Summit,Peoa 15:32,US Senate,,,write-in,0
+Summit,Pinebrook North,US Senate,,,write-in,0
+Summit,Park Meadows North,US Senate,,,write-in,1
+Summit,Park Meadows South,US Senate,,,write-in,1
+Summit,Promontory Ridge,US Senate,,,write-in,0
+Summit,Prospector,US Senate,,,write-in,1
+Summit,Quarry Mtn,US Senate,,,write-in,0
+Summit,Ranch Road South,US Senate,,,write-in,1
+Summit,Ranch Place,US Senate,,,write-in,0
+Summit,Lower Silver Creek,US Senate,,,write-in,2
+Summit,Upper Silver Creek,US Senate,,,write-in,0
+Summit,Sidewinder,US Senate,,,write-in,2
+Summit,Silver Springs,US Senate,,,write-in,0
+Summit,Snyders Mills,US Senate,,,write-in,3
+Summit,South Summit East,US Senate,,,write-in,1
+Summit,South Summit South,US Senate,,,write-in,1
+Summit,South Summit West,US Senate,,,write-in,0
+Summit,Summit Park East,US Senate,,,write-in,1
+Summit,Summit Park West,US Senate,,,write-in,1
+Summit,Thaynes Canyon,US Senate,,,write-in,1
+Summit,Upper Pinebrook,US Senate,,,write-in,0
+Summit,Wagon Wheel,US Senate,,,write-in,0
+Summit,Wanship 17:10,US Senate,,,write-in,0
+Summit,Wanship 17:2,US Senate,,,write-in,0
+Summit,Wanship 17:32,US Senate,,,write-in,0
+Summit,Weber Canyon 21:20,US Senate,,,write-in,0
+Summit,Weber Canyon 21:25,US Senate,,,write-in,0
+Summit,SUMMIT UT,US Senate,,,write-in,26
+Summit,Bitner,US House,1,Dem,Lee Castillo,395
+Summit,Chalk Creek,US House,1,Dem,Lee Castillo,28
+Summit,Coalville,US House,1,Dem,Lee Castillo,135
+Summit,Deer Valley North,US House,1,Dem,Lee Castillo,197
+Summit,Deer Valley South,US House,1,Dem,Lee Castillo,366
+Summit,Francis,US House,1,Dem,Lee Castillo,179
+Summit,Highland Estates East,US House,1,Dem,Lee Castillo,401
+Summit,Henefer,US House,1,Dem,Lee Castillo,37
+Summit,Highland Estates West,US House,1,Dem,Lee Castillo,302
+Summit,Hoytsville,US House,1,Dem,Lee Castillo,32
+Summit,Hoytsville uninc,US House,1,Dem,Lee Castillo,38
+Summit,Jeremy East,US House,1,Dem,Lee Castillo,353
+Summit,Jeremy West,US House,1,Dem,Lee Castillo,242
+Summit,Kamas,US House,1,Dem,Lee Castillo,278
+Summit,Kimball Canyon,US House,1,Dem,Lee Castillo,79
+Summit,Lower Pinebrook,US House,1,Dem,Lee Castillo,528
+Summit,Moose Hollow,US House,1,Dem,Lee Castillo,364
+Summit,North Summit North,US House,1,Dem,Lee Castillo,25
+Summit,Oakley,US House,1,Dem,Lee Castillo,181
+Summit,Old Town North,US House,1,Dem,Lee Castillo,226
+Summit,Old Town South,US House,1,Dem,Lee Castillo,177
+Summit,Park West,US House,1,Dem,Lee Castillo,561
+Summit,Peoa 15:20,US House,1,Dem,Lee Castillo,42
+Summit,Peoa 15:25,US House,1,Dem,Lee Castillo,10
+Summit,Peoa 15:32,US House,1,Dem,Lee Castillo,88
+Summit,Pinebrook North,US House,1,Dem,Lee Castillo,245
+Summit,Park Meadows North,US House,1,Dem,Lee Castillo,323
+Summit,Park Meadows South,US House,1,Dem,Lee Castillo,237
+Summit,Promontory Ridge,US House,1,Dem,Lee Castillo,27
+Summit,Prospector,US House,1,Dem,Lee Castillo,189
+Summit,Quarry Mtn,US House,1,Dem,Lee Castillo,433
+Summit,Ranch Road South,US House,1,Dem,Lee Castillo,177
+Summit,Ranch Place,US House,1,Dem,Lee Castillo,391
+Summit,Lower Silver Creek,US House,1,Dem,Lee Castillo,223
+Summit,Upper Silver Creek,US House,1,Dem,Lee Castillo,140
+Summit,Sidewinder,US House,1,Dem,Lee Castillo,272
+Summit,Silver Springs,US House,1,Dem,Lee Castillo,356
+Summit,Snyders Mills,US House,1,Dem,Lee Castillo,271
+Summit,South Summit East,US House,1,Dem,Lee Castillo,136
+Summit,South Summit South,US House,1,Dem,Lee Castillo,68
+Summit,South Summit West,US House,1,Dem,Lee Castillo,85
+Summit,Summit Park East,US House,1,Dem,Lee Castillo,533
+Summit,Summit Park West,US House,1,Dem,Lee Castillo,207
+Summit,Thaynes Canyon,US House,1,Dem,Lee Castillo,227
+Summit,Upper Pinebrook,US House,1,Dem,Lee Castillo,141
+Summit,Wagon Wheel,US House,1,Dem,Lee Castillo,179
+Summit,Wanship 17:10,US House,1,Dem,Lee Castillo,145
+Summit,Wanship 17:2,US House,1,Dem,Lee Castillo,126
+Summit,Wanship 17:32,US House,1,Dem,Lee Castillo,16
+Summit,Weber Canyon 21:20,US House,1,Dem,Lee Castillo,55
+Summit,Weber Canyon 21:25,US House,1,Dem,Lee Castillo,6
+Summit,SUMMIT UT,US House,1,Dem,Lee Castillo,10472
+Summit,Bitner,US House,1,Rep,Rob Bishop,169
+Summit,Chalk Creek,US House,1,Rep,Rob Bishop,154
+Summit,Coalville,US House,1,Rep,Rob Bishop,341
+Summit,Deer Valley North,US House,1,Rep,Rob Bishop,56
+Summit,Deer Valley South,US House,1,Rep,Rob Bishop,230
+Summit,Francis,US House,1,Rep,Rob Bishop,350
+Summit,Highland Estates East,US House,1,Rep,Rob Bishop,138
+Summit,Henefer,US House,1,Rep,Rob Bishop,261
+Summit,Highland Estates West,US House,1,Rep,Rob Bishop,179
+Summit,Hoytsville,US House,1,Rep,Rob Bishop,199
+Summit,Hoytsville uninc,US House,1,Rep,Rob Bishop,123
+Summit,Jeremy East,US House,1,Rep,Rob Bishop,237
+Summit,Jeremy West,US House,1,Rep,Rob Bishop,181
+Summit,Kamas,US House,1,Rep,Rob Bishop,349
+Summit,Kimball Canyon,US House,1,Rep,Rob Bishop,25
+Summit,Lower Pinebrook,US House,1,Rep,Rob Bishop,211
+Summit,Moose Hollow,US House,1,Rep,Rob Bishop,202
+Summit,North Summit North,US House,1,Rep,Rob Bishop,106
+Summit,Oakley,US House,1,Rep,Rob Bishop,421
+Summit,Old Town North,US House,1,Rep,Rob Bishop,79
+Summit,Old Town South,US House,1,Rep,Rob Bishop,24
+Summit,Park West,US House,1,Rep,Rob Bishop,272
+Summit,Peoa 15:20,US House,1,Rep,Rob Bishop,100
+Summit,Peoa 15:25,US House,1,Rep,Rob Bishop,4
+Summit,Peoa 15:32,US House,1,Rep,Rob Bishop,105
+Summit,Pinebrook North,US House,1,Rep,Rob Bishop,133
+Summit,Park Meadows North,US House,1,Rep,Rob Bishop,269
+Summit,Park Meadows South,US House,1,Rep,Rob Bishop,81
+Summit,Promontory Ridge,US House,1,Rep,Rob Bishop,40
+Summit,Prospector,US House,1,Rep,Rob Bishop,43
+Summit,Quarry Mtn,US House,1,Rep,Rob Bishop,152
+Summit,Ranch Road South,US House,1,Rep,Rob Bishop,101
+Summit,Ranch Place,US House,1,Rep,Rob Bishop,162
+Summit,Lower Silver Creek,US House,1,Rep,Rob Bishop,124
+Summit,Upper Silver Creek,US House,1,Rep,Rob Bishop,100
+Summit,Sidewinder,US House,1,Rep,Rob Bishop,51
+Summit,Silver Springs,US House,1,Rep,Rob Bishop,145
+Summit,Snyders Mills,US House,1,Rep,Rob Bishop,116
+Summit,South Summit East,US House,1,Rep,Rob Bishop,198
+Summit,South Summit South,US House,1,Rep,Rob Bishop,196
+Summit,South Summit West,US House,1,Rep,Rob Bishop,157
+Summit,Summit Park East,US House,1,Rep,Rob Bishop,125
+Summit,Summit Park West,US House,1,Rep,Rob Bishop,50
+Summit,Thaynes Canyon,US House,1,Rep,Rob Bishop,112
+Summit,Upper Pinebrook,US House,1,Rep,Rob Bishop,119
+Summit,Wagon Wheel,US House,1,Rep,Rob Bishop,68
+Summit,Wanship 17:10,US House,1,Rep,Rob Bishop,210
+Summit,Wanship 17:2,US House,1,Rep,Rob Bishop,59
+Summit,Wanship 17:32,US House,1,Rep,Rob Bishop,14
+Summit,Weber Canyon 21:20,US House,1,Rep,Rob Bishop,88
+Summit,Weber Canyon 21:25,US House,1,Rep,Rob Bishop,8
+Summit,SUMMIT UT,US House,1,Rep,Rob Bishop,7437
+Summit,Bitner,US House,1,UUP,Eric Eliason,61
+Summit,Chalk Creek,US House,1,UUP,Eric Eliason,8
+Summit,Coalville,US House,1,UUP,Eric Eliason,26
+Summit,Deer Valley North,US House,1,UUP,Eric Eliason,25
+Summit,Deer Valley South,US House,1,UUP,Eric Eliason,45
+Summit,Francis,US House,1,UUP,Eric Eliason,29
+Summit,Highland Estates East,US House,1,UUP,Eric Eliason,59
+Summit,Henefer,US House,1,UUP,Eric Eliason,19
+Summit,Highland Estates West,US House,1,UUP,Eric Eliason,59
+Summit,Hoytsville,US House,1,UUP,Eric Eliason,16
+Summit,Hoytsville uninc,US House,1,UUP,Eric Eliason,11
+Summit,Jeremy East,US House,1,UUP,Eric Eliason,62
+Summit,Jeremy West,US House,1,UUP,Eric Eliason,42
+Summit,Kamas,US House,1,UUP,Eric Eliason,37
+Summit,Kimball Canyon,US House,1,UUP,Eric Eliason,12
+Summit,Lower Pinebrook,US House,1,UUP,Eric Eliason,101
+Summit,Moose Hollow,US House,1,UUP,Eric Eliason,56
+Summit,North Summit North,US House,1,UUP,Eric Eliason,4
+Summit,Oakley,US House,1,UUP,Eric Eliason,30
+Summit,Old Town North,US House,1,UUP,Eric Eliason,28
+Summit,Old Town South,US House,1,UUP,Eric Eliason,18
+Summit,Park West,US House,1,UUP,Eric Eliason,63
+Summit,Peoa 15:20,US House,1,UUP,Eric Eliason,18
+Summit,Peoa 15:25,US House,1,UUP,Eric Eliason,1
+Summit,Peoa 15:32,US House,1,UUP,Eric Eliason,4
+Summit,Pinebrook North,US House,1,UUP,Eric Eliason,45
+Summit,Park Meadows North,US House,1,UUP,Eric Eliason,73
+Summit,Park Meadows South,US House,1,UUP,Eric Eliason,31
+Summit,Promontory Ridge,US House,1,UUP,Eric Eliason,4
+Summit,Prospector,US House,1,UUP,Eric Eliason,20
+Summit,Quarry Mtn,US House,1,UUP,Eric Eliason,81
+Summit,Ranch Road South,US House,1,UUP,Eric Eliason,24
+Summit,Ranch Place,US House,1,UUP,Eric Eliason,65
+Summit,Lower Silver Creek,US House,1,UUP,Eric Eliason,40
+Summit,Upper Silver Creek,US House,1,UUP,Eric Eliason,25
+Summit,Sidewinder,US House,1,UUP,Eric Eliason,14
+Summit,Silver Springs,US House,1,UUP,Eric Eliason,55
+Summit,Snyders Mills,US House,1,UUP,Eric Eliason,45
+Summit,South Summit East,US House,1,UUP,Eric Eliason,30
+Summit,South Summit South,US House,1,UUP,Eric Eliason,16
+Summit,South Summit West,US House,1,UUP,Eric Eliason,16
+Summit,Summit Park East,US House,1,UUP,Eric Eliason,71
+Summit,Summit Park West,US House,1,UUP,Eric Eliason,17
+Summit,Thaynes Canyon,US House,1,UUP,Eric Eliason,46
+Summit,Upper Pinebrook,US House,1,UUP,Eric Eliason,33
+Summit,Wagon Wheel,US House,1,UUP,Eric Eliason,24
+Summit,Wanship 17:10,US House,1,UUP,Eric Eliason,27
+Summit,Wanship 17:2,US House,1,UUP,Eric Eliason,18
+Summit,Wanship 17:32,US House,1,UUP,Eric Eliason,1
+Summit,Weber Canyon 21:20,US House,1,UUP,Eric Eliason,6
+Summit,Weber Canyon 21:25,US House,1,UUP,Eric Eliason,3
+Summit,SUMMIT UT,US House,1,UUP,Eric Eliason,1664
+Summit,Bitner,US House,1,Grn,Adam Davis,11
+Summit,Chalk Creek,US House,1,Grn,Adam Davis,0
+Summit,Coalville,US House,1,Grn,Adam Davis,8
+Summit,Deer Valley North,US House,1,Grn,Adam Davis,7
+Summit,Deer Valley South,US House,1,Grn,Adam Davis,10
+Summit,Francis,US House,1,Grn,Adam Davis,17
+Summit,Highland Estates East,US House,1,Grn,Adam Davis,7
+Summit,Henefer,US House,1,Grn,Adam Davis,4
+Summit,Highland Estates West,US House,1,Grn,Adam Davis,10
+Summit,Hoytsville,US House,1,Grn,Adam Davis,4
+Summit,Hoytsville uninc,US House,1,Grn,Adam Davis,3
+Summit,Jeremy East,US House,1,Grn,Adam Davis,5
+Summit,Jeremy West,US House,1,Grn,Adam Davis,4
+Summit,Kamas,US House,1,Grn,Adam Davis,18
+Summit,Kimball Canyon,US House,1,Grn,Adam Davis,0
+Summit,Lower Pinebrook,US House,1,Grn,Adam Davis,15
+Summit,Moose Hollow,US House,1,Grn,Adam Davis,9
+Summit,North Summit North,US House,1,Grn,Adam Davis,1
+Summit,Oakley,US House,1,Grn,Adam Davis,11
+Summit,Old Town North,US House,1,Grn,Adam Davis,7
+Summit,Old Town South,US House,1,Grn,Adam Davis,3
+Summit,Park West,US House,1,Grn,Adam Davis,15
+Summit,Peoa 15:20,US House,1,Grn,Adam Davis,6
+Summit,Peoa 15:25,US House,1,Grn,Adam Davis,0
+Summit,Peoa 15:32,US House,1,Grn,Adam Davis,0
+Summit,Pinebrook North,US House,1,Grn,Adam Davis,8
+Summit,Park Meadows North,US House,1,Grn,Adam Davis,2
+Summit,Park Meadows South,US House,1,Grn,Adam Davis,5
+Summit,Promontory Ridge,US House,1,Grn,Adam Davis,2
+Summit,Prospector,US House,1,Grn,Adam Davis,9
+Summit,Quarry Mtn,US House,1,Grn,Adam Davis,9
+Summit,Ranch Road South,US House,1,Grn,Adam Davis,11
+Summit,Ranch Place,US House,1,Grn,Adam Davis,7
+Summit,Lower Silver Creek,US House,1,Grn,Adam Davis,4
+Summit,Upper Silver Creek,US House,1,Grn,Adam Davis,3
+Summit,Sidewinder,US House,1,Grn,Adam Davis,12
+Summit,Silver Springs,US House,1,Grn,Adam Davis,2
+Summit,Snyders Mills,US House,1,Grn,Adam Davis,6
+Summit,South Summit East,US House,1,Grn,Adam Davis,11
+Summit,South Summit South,US House,1,Grn,Adam Davis,8
+Summit,South Summit West,US House,1,Grn,Adam Davis,6
+Summit,Summit Park East,US House,1,Grn,Adam Davis,26
+Summit,Summit Park West,US House,1,Grn,Adam Davis,3
+Summit,Thaynes Canyon,US House,1,Grn,Adam Davis,5
+Summit,Upper Pinebrook,US House,1,Grn,Adam Davis,2
+Summit,Wagon Wheel,US House,1,Grn,Adam Davis,7
+Summit,Wanship 17:10,US House,1,Grn,Adam Davis,12
+Summit,Wanship 17:2,US House,1,Grn,Adam Davis,2
+Summit,Wanship 17:32,US House,1,Grn,Adam Davis,0
+Summit,Weber Canyon 21:20,US House,1,Grn,Adam Davis,6
+Summit,Weber Canyon 21:25,US House,1,Grn,Adam Davis,0
+Summit,SUMMIT UT,US House,1,Grn,Adam Davis,350
+Summit,Deer Valley North,State Senate,26,Dem,Eileen Gallagher,220
+Summit,Deer Valley South,State Senate,26,Dem,Eileen Gallagher,437
+Summit,Francis,State Senate,26,Dem,Eileen Gallagher,208
+Summit,Highland Estates East,State Senate,26,Dem,Eileen Gallagher,463
+Summit,Highland Estates West,State Senate,26,Dem,Eileen Gallagher,357
+Summit,Kamas,State Senate,26,Dem,Eileen Gallagher,293
+Summit,Lower Pinebrook,State Senate,26,Dem,Eileen Gallagher,633
+Summit,Oakley,State Senate,26,Dem,Eileen Gallagher,234
+Summit,Old Town North,State Senate,26,Dem,Eileen Gallagher,259
+Summit,Old Town South,State Senate,26,Dem,Eileen Gallagher,197
+Summit,Park Meadows North,State Senate,26,Dem,Eileen Gallagher,419
+Summit,Park Meadows South,State Senate,26,Dem,Eileen Gallagher,277
+Summit,Park West,State Senate,26,Dem,Eileen Gallagher,640
+Summit,Peoa 15:20,State Senate,26,Dem,Eileen Gallagher,47
+Summit,Peoa 15:25,State Senate,26,Dem,Eileen Gallagher,11
+Summit,Peoa 15:32,State Senate,26,Dem,Eileen Gallagher,97
+Summit,Promontory Ridge,State Senate,26,Dem,Eileen Gallagher,31
+Summit,Prospector,State Senate,26,Dem,Eileen Gallagher,209
+Summit,Quarry Mtn,State Senate,26,Dem,Eileen Gallagher,525
+Summit,Ranch Place,State Senate,26,Dem,Eileen Gallagher,458
+Summit,Ranch Road South,State Senate,26,Dem,Eileen Gallagher,209
+Summit,Sidewinder,State Senate,26,Dem,Eileen Gallagher,294
+Summit,Silver Springs,State Senate,26,Dem,Eileen Gallagher,432
+Summit,Snyders Mills,State Senate,26,Dem,Eileen Gallagher,304
+Summit,South Summit East,State Senate,26,Dem,Eileen Gallagher,174
+Summit,South Summit South,State Senate,26,Dem,Eileen Gallagher,84
+Summit,South Summit West,State Senate,26,Dem,Eileen Gallagher,93
+Summit,SUMMIT UT,State Senate,26,Dem,Eileen Gallagher,8121
+Summit,Thaynes Canyon,State Senate,26,Dem,Eileen Gallagher,276
+Summit,Upper Pinebrook,State Senate,26,Dem,Eileen Gallagher,173
+Summit,Weber Canyon 21:20,State Senate,26,Dem,Eileen Gallagher,59
+Summit,Weber Canyon 21:25,State Senate,26,Dem,Eileen Gallagher,8
+Summit,Deer Valley North,State Senate,26,Rep,Ronald Winterton,58
+Summit,Deer Valley South,State Senate,26,Rep,Ronald Winterton,209
+Summit,Francis,State Senate,26,Rep,Ronald Winterton,351
+Summit,Highland Estates East,State Senate,26,Rep,Ronald Winterton,122
+Summit,Highland Estates West,State Senate,26,Rep,Ronald Winterton,168
+Summit,Kamas,State Senate,26,Rep,Ronald Winterton,376
+Summit,Lower Pinebrook,State Senate,26,Rep,Ronald Winterton,204
+Summit,Oakley,State Senate,26,Rep,Ronald Winterton,399
+Summit,Old Town North,State Senate,26,Rep,Ronald Winterton,76
+Summit,Old Town South,State Senate,26,Rep,Ronald Winterton,23
+Summit,Park Meadows North,State Senate,26,Rep,Ronald Winterton,234
+Summit,Park Meadows South,State Senate,26,Rep,Ronald Winterton,73
+Summit,Park West,State Senate,26,Rep,Ronald Winterton,244
+Summit,Peoa 15:20,State Senate,26,Rep,Ronald Winterton,118
+Summit,Peoa 15:25,State Senate,26,Rep,Ronald Winterton,4
+Summit,Peoa 15:32,State Senate,26,Rep,Ronald Winterton,100
+Summit,Promontory Ridge,State Senate,26,Rep,Ronald Winterton,39
+Summit,Prospector,State Senate,26,Rep,Ronald Winterton,41
+Summit,Quarry Mtn,State Senate,26,Rep,Ronald Winterton,138
+Summit,Ranch Place,State Senate,26,Rep,Ronald Winterton,149
+Summit,Ranch Road South,State Senate,26,Rep,Ronald Winterton,93
+Summit,Sidewinder,State Senate,26,Rep,Ronald Winterton,46
+Summit,Silver Springs,State Senate,26,Rep,Ronald Winterton,130
+Summit,Snyders Mills,State Senate,26,Rep,Ronald Winterton,118
+Summit,South Summit East,State Senate,26,Rep,Ronald Winterton,194
+Summit,South Summit South,State Senate,26,Rep,Ronald Winterton,201
+Summit,South Summit West,State Senate,26,Rep,Ronald Winterton,162
+Summit,SUMMIT UT,State Senate,26,Rep,Ronald Winterton,4386
+Summit,Thaynes Canyon,State Senate,26,Rep,Ronald Winterton,104
+Summit,Upper Pinebrook,State Senate,26,Rep,Ronald Winterton,112
+Summit,Weber Canyon 21:20,State Senate,26,Rep,Ronald Winterton,92
+Summit,Weber Canyon 21:25,State Senate,26,Rep,Ronald Winterton,8
+Summit,Deer Valley North,State Senate,26,UUP,Cathy Callow-Heiser,4
+Summit,Deer Valley South,State Senate,26,UUP,Cathy Callow-Heiser,9
+Summit,Francis,State Senate,26,UUP,Cathy Callow-Heiser,13
+Summit,Highland Estates East,State Senate,26,UUP,Cathy Callow-Heiser,13
+Summit,Highland Estates West,State Senate,26,UUP,Cathy Callow-Heiser,22
+Summit,Kamas,State Senate,26,UUP,Cathy Callow-Heiser,17
+Summit,Oakley,State Senate,26,UUP,Cathy Callow-Heiser,10
+Summit,Old Town North,State Senate,26,UUP,Cathy Callow-Heiser,6
+Summit,Old Town South,State Senate,26,UUP,Cathy Callow-Heiser,2
+Summit,Park Meadows North,State Senate,26,UUP,Cathy Callow-Heiser,8
+Summit,Park Meadows South,State Senate,26,UUP,Cathy Callow-Heiser,7
+Summit,Peoa 15:20,State Senate,26,UUP,Cathy Callow-Heiser,4
+Summit,Peoa 15:25,State Senate,26,UUP,Cathy Callow-Heiser,0
+Summit,Peoa 15:32,State Senate,26,UUP,Cathy Callow-Heiser,0
+Summit,Promontory Ridge,State Senate,26,UUP,Cathy Callow-Heiser,4
+Summit,Prospector,State Senate,26,UUP,Cathy Callow-Heiser,7
+Summit,Quarry Mtn,State Senate,26,UUP,Cathy Callow-Heiser,18
+Summit,Ranch Place,State Senate,26,UUP,Cathy Callow-Heiser,13
+Summit,Ranch Road South,State Senate,26,UUP,Cathy Callow-Heiser,9
+Summit,Sidewinder,State Senate,26,UUP,Cathy Callow-Heiser,6
+Summit,Silver Springs,State Senate,26,UUP,Cathy Callow-Heiser,7
+Summit,Snyders Mills,State Senate,26,UUP,Cathy Callow-Heiser,9
+Summit,South Summit East,State Senate,26,UUP,Cathy Callow-Heiser,8
+Summit,South Summit South,State Senate,26,UUP,Cathy Callow-Heiser,2
+Summit,South Summit West,State Senate,26,UUP,Cathy Callow-Heiser,7
+Summit,SUMMIT UT,State Senate,26,UUP,Cathy Callow-Heiser,273
+Summit,Thaynes Canyon,State Senate,26,UUP,Cathy Callow-Heiser,7
+Summit,Upper Pinebrook,State Senate,26,UUP,Cathy Callow-Heiser,10
+Summit,Weber Canyon 21:20,State Senate,26,UUP,Cathy Callow-Heiser,5
+Summit,Weber Canyon 21:25,State Senate,26,UUP,Cathy Callow-Heiser,1
+Summit,Lower Pinebrook,State Senate,26,UUP ,Cathy Callow-Heiser,22
+Summit,Bitner,State House,54,Dem,Meaghan Miller,458
+Summit,Chalk Creek,State House,53,Dem,Christopher Neville,33
+Summit,Coalville,State House,53,Dem,Christopher Neville,147
+Summit,Deer Valley North,State House,54,Dem,Meaghan Miller,216
+Summit,Deer Valley South,State House,54,Dem,Meaghan Miller,405
+Summit,Francis,State House,53,Dem,Christopher Neville,201
+Summit,Highland Estates East,State House,54,Dem,Meaghan Miller,454
+Summit,Henefer,State House,53,Dem,Christopher Neville,44
+Summit,Highland Estates West,State House,54,Dem,Meaghan Miller,357
+Summit,Hoytsville,State House,53,Dem,Christopher Neville,47
+Summit,Hoytsville uninc,State House,53,Dem,Christopher Neville,50
+Summit,Jeremy East,State House,53,Dem,Christopher Neville,415
+Summit,Jeremy West,State House,53,Dem,Christopher Neville,286
+Summit,Kamas,State House,53,Dem,Christopher Neville,291
+Summit,Kimball Canyon,State House,53,Dem,Christopher Neville,90
+Summit,Lower Pinebrook,State House,53,Dem,Christopher Neville,621
+Summit,Moose Hollow,State House,53,Dem,Christopher Neville,431
+Summit,North Summit North,State House,53,Dem,Christopher Neville,22
+Summit,Oakley,State House,53,Dem,Christopher Neville,204
+Summit,Old Town North,State House,54,Dem,Meaghan Miller,253
+Summit,Old Town South,State House,54,Dem,Meaghan Miller,193
+Summit,Park West,State House,53,Dem,Christopher Neville,623
+Summit,Peoa 15:20,State House,53,Dem,Christopher Neville,44
+Summit,Peoa 15:25,State House,53,Dem,Christopher Neville,10
+Summit,Peoa 15:32,State House,53,Dem,Christopher Neville,93
+Summit,Pinebrook North,State House,28,Dem,Brian King,324
+Summit,Park Meadows North,State House,54,Dem,Meaghan Miller,396
+Summit,Park Meadows South,State House,54,Dem,Meaghan Miller,271
+Summit,Promontory Ridge,State House,53,Dem,Christopher Neville,37
+Summit,Prospector,State House,54,Dem,Meaghan Miller,212
+Summit,Quarry Mtn,State House,54,Dem,Meaghan Miller,497
+Summit,Ranch Road South,State House,54,Dem,Meaghan Miller,205
+Summit,Ranch Place,State House,54,Dem,Meaghan Miller,441
+Summit,Lower Silver Creek,State House,54,Dem,Meaghan Miller,260
+Summit,Upper Silver Creek,State House,54,Dem,Meaghan Miller,166
+Summit,Sidewinder,State House,54,Dem,Meaghan Miller,289
+Summit,Silver Springs,State House,53,Dem,Christopher Neville,405
+Summit,Snyders Mills,State House,53,Dem,Christopher Neville,307
+Summit,South Summit East,State House,53,Dem,Christopher Neville,208
+Summit,South Summit South,State House,53,Dem,Christopher Neville,82
+Summit,South Summit West,State House,53,Dem,Christopher Neville,88
+Summit,Summit Park East,State House,28,Dem,Brian King,625
+Summit,Summit Park West,State House,28,Dem,Brian King,225
+Summit,Thaynes Canyon,State House,54,Dem,Meaghan Miller,266
+Summit,Upper Pinebrook,State House,53,Dem,Christopher Neville,167
+Summit,Wagon Wheel,State House,53,Dem,Christopher Neville,208
+Summit,Wanship 17:10,State House,53,Dem,Christopher Neville,155
+Summit,Wanship 17:2,State House,53,Dem,Christopher Neville,140
+Summit,Wanship 17:32,State House,53,Dem,Christopher Neville,17
+Summit,Weber Canyon 21:20,State House,53,Dem,Christopher Neville,63
+Summit,Weber Canyon 21:25,State House,53,Dem,Christopher Neville,8
+Summit,SUMMIT UT,State House,28,Dem,Brian King,1174
+Summit,SUMMIT UT,State House,53,Dem,Christopher Neville,5492
+Summit,SUMMIT UT,State House,54,Dem,Meaghan Miller,5339
+Summit,Bitner,State House,54,Rep,Tim Quinn,170
+Summit,Chalk Creek,State House,53,Rep,Logan Wilde,150
+Summit,Coalville,State House,53,Rep,Logan Wilde,359
+Summit,Deer Valley North,State House,54,Rep,Tim Quinn,54
+Summit,Deer Valley South,State House,54,Rep,Tim Quinn,237
+Summit,Francis,State House,53,Rep,Logan Wilde,369
+Summit,Highland Estates East,State House,54,Rep,Tim Quinn,142
+Summit,Henefer,State House,53,Rep,Logan Wilde,277
+Summit,Highland Estates West,State House,54,Rep,Tim Quinn,184
+Summit,Hoytsville,State House,53,Rep,Logan Wilde,208
+Summit,Hoytsville uninc,State House,53,Rep,Logan Wilde,126
+Summit,Jeremy East,State House,53,Rep,Logan Wilde,234
+Summit,Jeremy West,State House,53,Rep,Logan Wilde,178
+Summit,Kamas,State House,53,Rep,Logan Wilde,382
+Summit,Kimball Canyon,State House,53,Rep,Logan Wilde,25
+Summit,Lower Pinebrook,State House,53,Rep,Logan Wilde,228
+Summit,Moose Hollow,State House,53,Rep,Logan Wilde,195
+Summit,North Summit North,State House,53,Rep,Logan Wilde,111
+Summit,Oakley,State House,53,Rep,Logan Wilde,435
+Summit,Old Town North,State House,54,Rep,Tim Quinn,84
+Summit,Old Town South,State House,54,Rep,Tim Quinn,26
+Summit,Park West,State House,53,Rep,Logan Wilde,272
+Summit,Peoa 15:20,State House,53,Rep,Logan Wilde,126
+Summit,Peoa 15:25,State House,53,Rep,Logan Wilde,5
+Summit,Peoa 15:32,State House,53,Rep,Logan Wilde,100
+Summit,Park Meadows North,State House,54,Rep,Tim Quinn,267
+Summit,Park Meadows South,State House,54,Rep,Tim Quinn,86
+Summit,Promontory Ridge,State House,53,Rep,Logan Wilde,37
+Summit,Prospector,State House,54,Rep,Tim Quinn,47
+Summit,Quarry Mtn,State House,54,Rep,Tim Quinn,177
+Summit,Ranch Road South,State House,54,Rep,Tim Quinn,106
+Summit,Ranch Place,State House,54,Rep,Tim Quinn,174
+Summit,Lower Silver Creek,State House,54,Rep,Tim Quinn,130
+Summit,Upper Silver Creek,State House,54,Rep,Tim Quinn,100
+Summit,Sidewinder,State House,54,Rep,Tim Quinn,60
+Summit,Silver Springs,State House,53,Rep,Logan Wilde,151
+Summit,Snyders Mills,State House,53,Rep,Logan Wilde,120
+Summit,South Summit East,State House,53,Rep,Logan Wilde,208
+Summit,South Summit South,State House,53,Rep,Logan Wilde,201
+Summit,South Summit West,State House,53,Rep,Logan Wilde,174
+Summit,Thaynes Canyon,State House,54,Rep,Tim Quinn,120
+Summit,Upper Pinebrook,State House,53,Rep,Logan Wilde,124
+Summit,Wagon Wheel,State House,53,Rep,Logan Wilde,67
+Summit,Wanship 17:10,State House,53,Rep,Logan Wilde,237
+Summit,Wanship 17:2,State House,53,Rep,Logan Wilde,59
+Summit,Wanship 17:32,State House,53,Rep,Logan Wilde,14
+Summit,Weber Canyon 21:20,State House,53,Rep,Logan Wilde,92
+Summit,Weber Canyon 21:25,State House,53,Rep,Logan Wilde,8
+Summit,SUMMIT UT,State House,53,Rep,Logan Wilde,5273
+Summit,SUMMIT UT,State House,54,Rep,Tim Quinn,2174
