@@ -1,0 +1,533 @@
+county,precinct,office,district,party,candidate,votes
+Duchesne,AL11,Straight Party,,Democratic Party,,2
+Duchesne,AL12,Straight Party,,Democratic Party,,0
+Duchesne,AR11,Straight Party,,Democratic Party,,3
+Duchesne,BB11,Straight Party,,Democratic Party,,1
+Duchesne,CE11,Straight Party,,Democratic Party,,1
+Duchesne,DU11,Straight Party,,Democratic Party,,6
+Duchesne,DU12,Straight Party,,Democratic Party,,2
+Duchesne,DU21,Straight Party,,Democratic Party,,12
+Duchesne,DU22,Straight Party,,Democratic Party,,2
+Duchesne,FR11 ,Straight Party,,Democratic Party,,17
+Duchesne,MH11,Straight Party,,Democratic Party,,15
+Duchesne,MY11,Straight Party,,Democratic Party,,3
+Duchesne,MY12,Straight Party,,Democratic Party,,4
+Duchesne,NE11,Straight Party,,Democratic Party,,2
+Duchesne,NE21,Straight Party,,Democratic Party,,1
+Duchesne,RO12,Straight Party,,Democratic Party,,3
+Duchesne,RO21,Straight Party,,Democratic Party,,0
+Duchesne,RO22,Straight Party,,Democratic Party,,4
+Duchesne,RO32,Straight Party,,Democratic Party,,3
+Duchesne,RO41,Straight Party,,Democratic Party,,2
+Duchesne,RO42,Straight Party,,Democratic Party,,0
+Duchesne,RO51,Straight Party,,Democratic Party,,2
+Duchesne,RO52,Straight Party,,Democratic Party,,1
+Duchesne,RO62,Straight Party,,Democratic Party,,1
+Duchesne,RO71,Straight Party,,Democratic Party,,6
+Duchesne,RO72,Straight Party,,Democratic Party,,0
+Duchesne,RO81,Straight Party,,Democratic Party,,2
+Duchesne,RO82,Straight Party,,Democratic Party,,2
+Duchesne,TA11,Straight Party,,Democratic Party,,10
+Duchesne,TA12,Straight Party,,Democratic Party,,2
+Duchesne,AL11,Straight Party,,Indep. American,,1
+Duchesne,AL12,Straight Party,,Indep. American,,0
+Duchesne,AR11,Straight Party,,Indep. American,,0
+Duchesne,BB11,Straight Party,,Indep. American,,0
+Duchesne,CE11,Straight Party,,Indep. American,,1
+Duchesne,DU11,Straight Party,,Indep. American,,0
+Duchesne,DU12,Straight Party,,Indep. American,,0
+Duchesne,DU21,Straight Party,,Indep. American,,0
+Duchesne,DU22,Straight Party,,Indep. American,,1
+Duchesne,FR11 ,Straight Party,,Indep. American,,2
+Duchesne,MH11,Straight Party,,Indep. American,,1
+Duchesne,MY11,Straight Party,,Indep. American,,1
+Duchesne,MY12,Straight Party,,Indep. American,,1
+Duchesne,NE11,Straight Party,,Indep. American,,1
+Duchesne,NE21,Straight Party,,Indep. American,,0
+Duchesne,RO12,Straight Party,,Indep. American,,0
+Duchesne,RO21,Straight Party,,Indep. American,,0
+Duchesne,RO22,Straight Party,,Indep. American,,0
+Duchesne,RO32,Straight Party,,Indep. American,,1
+Duchesne,RO41,Straight Party,,Indep. American,,0
+Duchesne,RO42,Straight Party,,Indep. American,,0
+Duchesne,RO51,Straight Party,,Indep. American,,0
+Duchesne,RO52,Straight Party,,Indep. American,,0
+Duchesne,RO62,Straight Party,,Indep. American,,0
+Duchesne,RO71,Straight Party,,Indep. American,,0
+Duchesne,RO72,Straight Party,,Indep. American,,0
+Duchesne,RO81,Straight Party,,Indep. American,,0
+Duchesne,RO82,Straight Party,,Indep. American,,0
+Duchesne,TA11,Straight Party,,Indep. American,,0
+Duchesne,TA12,Straight Party,,Indep. American,,1
+Duchesne,AL11,Straight Party,,Republican Party,,53
+Duchesne,AL12,Straight Party,,Republican Party,,12
+Duchesne,AR11,Straight Party,,Republican Party,,32
+Duchesne,BB11,Straight Party,,Republican Party,,70
+Duchesne,CE11,Straight Party,,Republican Party,,51
+Duchesne,DU11,Straight Party,,Republican Party,,52
+Duchesne,DU12,Straight Party,,Republican Party,,36
+Duchesne,DU21,Straight Party,,Republican Party,,38
+Duchesne,DU22,Straight Party,,Republican Party,,55
+Duchesne,FR11 ,Straight Party,,Republican Party,,40
+Duchesne,MH11,Straight Party,,Republican Party,,69
+Duchesne,MY11,Straight Party,,Republican Party,,40
+Duchesne,MY12,Straight Party,,Republican Party,,18
+Duchesne,NE11,Straight Party,,Republican Party,,54
+Duchesne,NE21,Straight Party,,Republican Party,,58
+Duchesne,RO12,Straight Party,,Republican Party,,35
+Duchesne,RO21,Straight Party,,Republican Party,,10
+Duchesne,RO22,Straight Party,,Republican Party,,64
+Duchesne,RO32,Straight Party,,Republican Party,,27
+Duchesne,RO41,Straight Party,,Republican Party,,60
+Duchesne,RO42,Straight Party,,Republican Party,,37
+Duchesne,RO51,Straight Party,,Republican Party,,44
+Duchesne,RO52,Straight Party,,Republican Party,,38
+Duchesne,RO62,Straight Party,,Republican Party,,50
+Duchesne,RO71,Straight Party,,Republican Party,,44
+Duchesne,RO72,Straight Party,,Republican Party,,37
+Duchesne,RO81,Straight Party,,Republican Party,,56
+Duchesne,RO82,Straight Party,,Republican Party,,12
+Duchesne,TA11,Straight Party,,Republican Party,,74
+Duchesne,TA12,Straight Party,,Republican Party,,16
+Duchesne,AL11,Straight Party,,Libertarian Party,,1
+Duchesne,AL12,Straight Party,,Libertarian Party,,0
+Duchesne,AR11,Straight Party,,Libertarian Party,,0
+Duchesne,BB11,Straight Party,,Libertarian Party,,4
+Duchesne,CE11,Straight Party,,Libertarian Party,,1
+Duchesne,DU11,Straight Party,,Libertarian Party,,0
+Duchesne,DU12,Straight Party,,Libertarian Party,,0
+Duchesne,DU21,Straight Party,,Libertarian Party,,0
+Duchesne,DU22,Straight Party,,Libertarian Party,,1
+Duchesne,FR11 ,Straight Party,,Libertarian Party,,1
+Duchesne,MH11,Straight Party,,Libertarian Party,,0
+Duchesne,MY11,Straight Party,,Libertarian Party,,1
+Duchesne,MY12,Straight Party,,Libertarian Party,,1
+Duchesne,NE11,Straight Party,,Libertarian Party,,0
+Duchesne,NE21,Straight Party,,Libertarian Party,,0
+Duchesne,RO12,Straight Party,,Libertarian Party,,1
+Duchesne,RO21,Straight Party,,Libertarian Party,,0
+Duchesne,RO22,Straight Party,,Libertarian Party,,0
+Duchesne,RO32,Straight Party,,Libertarian Party,,0
+Duchesne,RO41,Straight Party,,Libertarian Party,,1
+Duchesne,RO42,Straight Party,,Libertarian Party,,0
+Duchesne,RO51,Straight Party,,Libertarian Party,,0
+Duchesne,RO52,Straight Party,,Libertarian Party,,0
+Duchesne,RO62,Straight Party,,Libertarian Party,,0
+Duchesne,RO71,Straight Party,,Libertarian Party,,1
+Duchesne,RO72,Straight Party,,Libertarian Party,,0
+Duchesne,RO81,Straight Party,,Libertarian Party,,0
+Duchesne,RO82,Straight Party,,Libertarian Party,,0
+Duchesne,TA11,Straight Party,,Libertarian Party,,1
+Duchesne,TA12,Straight Party,,Libertarian Party,,0
+Duchesne,AL11,Straight Party,,Constitution Party,,1
+Duchesne,AL12,Straight Party,,Constitution Party,,0
+Duchesne,AR11,Straight Party,,Constitution Party,,0
+Duchesne,BB11,Straight Party,,Constitution Party,,0
+Duchesne,CE11,Straight Party,,Constitution Party,,0
+Duchesne,DU11,Straight Party,,Constitution Party,,0
+Duchesne,DU12,Straight Party,,Constitution Party,,2
+Duchesne,DU21,Straight Party,,Constitution Party,,1
+Duchesne,DU22,Straight Party,,Constitution Party,,1
+Duchesne,FR11 ,Straight Party,,Constitution Party,,0
+Duchesne,MH11,Straight Party,,Constitution Party,,1
+Duchesne,MY11,Straight Party,,Constitution Party,,1
+Duchesne,MY12,Straight Party,,Constitution Party,,2
+Duchesne,NE11,Straight Party,,Constitution Party,,0
+Duchesne,NE21,Straight Party,,Constitution Party,,0
+Duchesne,RO12,Straight Party,,Constitution Party,,0
+Duchesne,RO21,Straight Party,,Constitution Party,,0
+Duchesne,RO22,Straight Party,,Constitution Party,,0
+Duchesne,RO32,Straight Party,,Constitution Party,,0
+Duchesne,RO41,Straight Party,,Constitution Party,,0
+Duchesne,RO42,Straight Party,,Constitution Party,,0
+Duchesne,RO51,Straight Party,,Constitution Party,,0
+Duchesne,RO52,Straight Party,,Constitution Party,,1
+Duchesne,RO62,Straight Party,,Constitution Party,,0
+Duchesne,RO71,Straight Party,,Constitution Party,,0
+Duchesne,RO72,Straight Party,,Constitution Party,,3
+Duchesne,RO81,Straight Party,,Constitution Party,,0
+Duchesne,RO82,Straight Party,,Constitution Party,,0
+Duchesne,TA11,Straight Party,,Constitution Party,,1
+Duchesne,TA12,Straight Party,,Constitution Party,,0
+Duchesne,AL11,US House,1,,Donna McAleer,17
+Duchesne,AL12,US House,1,,Donna McAleer,7
+Duchesne,AR11,US House,1,,Donna McAleer,7
+Duchesne,BB11,US House,1,,Donna McAleer,10
+Duchesne,CE11,US House,1,,Donna McAleer,16
+Duchesne,DU11,US House,1,,Donna McAleer,13
+Duchesne,DU12,US House,1,,Donna McAleer,21
+Duchesne,DU21,US House,1,,Donna McAleer,26
+Duchesne,DU22,US House,1,,Donna McAleer,9
+Duchesne,FR11 ,US House,1,,Donna McAleer,36
+Duchesne,MH11,US House,1,,Donna McAleer,43
+Duchesne,MY11,US House,1,,Donna McAleer,12
+Duchesne,MY12,US House,1,,Donna McAleer,16
+Duchesne,NE11,US House,1,,Donna McAleer,8
+Duchesne,NE21,US House,1,,Donna McAleer,16
+Duchesne,RO12,US House,1,,Donna McAleer,18
+Duchesne,RO21,US House,1,,Donna McAleer,1
+Duchesne,RO22,US House,1,,Donna McAleer,33
+Duchesne,RO32,US House,1,,Donna McAleer,6
+Duchesne,RO41,US House,1,,Donna McAleer,11
+Duchesne,RO42,US House,1,,Donna McAleer,11
+Duchesne,RO51,US House,1,,Donna McAleer,11
+Duchesne,RO52,US House,1,,Donna McAleer,8
+Duchesne,RO62,US House,1,,Donna McAleer,8
+Duchesne,RO71,US House,1,,Donna McAleer,14
+Duchesne,RO72,US House,1,,Donna McAleer,8
+Duchesne,RO81,US House,1,,Donna McAleer,5
+Duchesne,RO82,US House,1,,Donna McAleer,6
+Duchesne,TA11,US House,1,,Donna McAleer,24
+Duchesne,TA12,US House,1,,Donna McAleer,5
+Duchesne,AL11,US House,1,,Dwayne Vance,4
+Duchesne,AL12,US House,1,,Dwayne Vance,0
+Duchesne,AR11,US House,1,,Dwayne Vance,3
+Duchesne,BB11,US House,1,,Dwayne Vance,2
+Duchesne,CE11,US House,1,,Dwayne Vance,3
+Duchesne,DU11,US House,1,,Dwayne Vance,3
+Duchesne,DU12,US House,1,,Dwayne Vance,13
+Duchesne,DU21,US House,1,,Dwayne Vance,8
+Duchesne,DU22,US House,1,,Dwayne Vance,6
+Duchesne,FR11 ,US House,1,,Dwayne Vance,4
+Duchesne,MH11,US House,1,,Dwayne Vance,2
+Duchesne,MY11,US House,1,,Dwayne Vance,1
+Duchesne,MY12,US House,1,,Dwayne Vance,7
+Duchesne,NE11,US House,1,,Dwayne Vance,7
+Duchesne,NE21,US House,1,,Dwayne Vance,3
+Duchesne,RO12,US House,1,,Dwayne Vance,2
+Duchesne,RO21,US House,1,,Dwayne Vance,0
+Duchesne,RO22,US House,1,,Dwayne Vance,4
+Duchesne,RO32,US House,1,,Dwayne Vance,7
+Duchesne,RO41,US House,1,,Dwayne Vance,5
+Duchesne,RO42,US House,1,,Dwayne Vance,0
+Duchesne,RO51,US House,1,,Dwayne Vance,3
+Duchesne,RO52,US House,1,,Dwayne Vance,1
+Duchesne,RO62,US House,1,,Dwayne Vance,3
+Duchesne,RO71,US House,1,,Dwayne Vance,3
+Duchesne,RO72,US House,1,,Dwayne Vance,2
+Duchesne,RO81,US House,1,,Dwayne Vance,6
+Duchesne,RO82,US House,1,,Dwayne Vance,2
+Duchesne,TA11,US House,1,,Dwayne Vance,4
+Duchesne,TA12,US House,1,,Dwayne Vance,4
+Duchesne,AL11,US House,1,,Rob Bishop,134
+Duchesne,AL12,US House,1,,Rob Bishop,31
+Duchesne,AR11,US House,1,,Rob Bishop,70
+Duchesne,BB11,US House,1,,Rob Bishop,141
+Duchesne,CE11,US House,1,,Rob Bishop,120
+Duchesne,DU11,US House,1,,Rob Bishop,122
+Duchesne,DU12,US House,1,,Rob Bishop,112
+Duchesne,DU21,US House,1,,Rob Bishop,88
+Duchesne,DU22,US House,1,,Rob Bishop,159
+Duchesne,FR11 ,US House,1,,Rob Bishop,68
+Duchesne,MH11,US House,1,,Rob Bishop,176
+Duchesne,MY11,US House,1,,Rob Bishop,101
+Duchesne,MY12,US House,1,,Rob Bishop,51
+Duchesne,NE11,US House,1,,Rob Bishop,120
+Duchesne,NE21,US House,1,,Rob Bishop,124
+Duchesne,RO12,US House,1,,Rob Bishop,78
+Duchesne,RO21,US House,1,,Rob Bishop,18
+Duchesne,RO22,US House,1,,Rob Bishop,189
+Duchesne,RO32,US House,1,,Rob Bishop,61
+Duchesne,RO41,US House,1,,Rob Bishop,153
+Duchesne,RO42,US House,1,,Rob Bishop,98
+Duchesne,RO51,US House,1,,Rob Bishop,101
+Duchesne,RO52,US House,1,,Rob Bishop,105
+Duchesne,RO62,US House,1,,Rob Bishop,159
+Duchesne,RO71,US House,1,,Rob Bishop,106
+Duchesne,RO72,US House,1,,Rob Bishop,69
+Duchesne,RO81,US House,1,,Rob Bishop,128
+Duchesne,RO82,US House,1,,Rob Bishop,36
+Duchesne,TA11,US House,1,,Rob Bishop,119
+Duchesne,TA12,US House,1,,Rob Bishop,32
+Duchesne,AL11,US House,1,,Craig Bowden,5
+Duchesne,AL12,US House,1,,Craig Bowden,2
+Duchesne,AR11,US House,1,,Craig Bowden,0
+Duchesne,BB11,US House,1,,Craig Bowden,9
+Duchesne,CE11,US House,1,,Craig Bowden,7
+Duchesne,DU11,US House,1,,Craig Bowden,3
+Duchesne,DU12,US House,1,,Craig Bowden,9
+Duchesne,DU21,US House,1,,Craig Bowden,7
+Duchesne,DU22,US House,1,,Craig Bowden,4
+Duchesne,FR11 ,US House,1,,Craig Bowden,7
+Duchesne,MH11,US House,1,,Craig Bowden,7
+Duchesne,MY11,US House,1,,Craig Bowden,6
+Duchesne,MY12,US House,1,,Craig Bowden,3
+Duchesne,NE11,US House,1,,Craig Bowden,1
+Duchesne,NE21,US House,1,,Craig Bowden,1
+Duchesne,RO12,US House,1,,Craig Bowden,2
+Duchesne,RO21,US House,1,,Craig Bowden,2
+Duchesne,RO22,US House,1,,Craig Bowden,3
+Duchesne,RO32,US House,1,,Craig Bowden,6
+Duchesne,RO41,US House,1,,Craig Bowden,6
+Duchesne,RO42,US House,1,,Craig Bowden,6
+Duchesne,RO51,US House,1,,Craig Bowden,1
+Duchesne,RO52,US House,1,,Craig Bowden,2
+Duchesne,RO62,US House,1,,Craig Bowden,2
+Duchesne,RO71,US House,1,,Craig Bowden,2
+Duchesne,RO72,US House,1,,Craig Bowden,3
+Duchesne,RO81,US House,1,,Craig Bowden,0
+Duchesne,RO82,US House,1,,Craig Bowden,2
+Duchesne,TA11,US House,1,,Craig Bowden,4
+Duchesne,TA12,US House,1,,Craig Bowden,0
+Duchesne,AL11,Utah Attorney General,,,W. Andrew McCullough,3
+Duchesne,AL12,Utah Attorney General,,,W. Andrew McCullough,1
+Duchesne,AR11,Utah Attorney General,,,W. Andrew McCullough,1
+Duchesne,BB11,Utah Attorney General,,,W. Andrew McCullough,4
+Duchesne,CE11,Utah Attorney General,,,W. Andrew McCullough,4
+Duchesne,DU11,Utah Attorney General,,,W. Andrew McCullough,2
+Duchesne,DU12,Utah Attorney General,,,W. Andrew McCullough,2
+Duchesne,DU21,Utah Attorney General,,,W. Andrew McCullough,3
+Duchesne,DU22,Utah Attorney General,,,W. Andrew McCullough,4
+Duchesne,FR11 ,Utah Attorney General,,,W. Andrew McCullough,4
+Duchesne,MH11,Utah Attorney General,,,W. Andrew McCullough,2
+Duchesne,MY11,Utah Attorney General,,,W. Andrew McCullough,3
+Duchesne,MY12,Utah Attorney General,,,W. Andrew McCullough,5
+Duchesne,NE11,Utah Attorney General,,,W. Andrew McCullough,1
+Duchesne,NE21,Utah Attorney General,,,W. Andrew McCullough,2
+Duchesne,RO12,Utah Attorney General,,,W. Andrew McCullough,2
+Duchesne,RO21,Utah Attorney General,,,W. Andrew McCullough,2
+Duchesne,RO22,Utah Attorney General,,,W. Andrew McCullough,5
+Duchesne,RO32,Utah Attorney General,,,W. Andrew McCullough,3
+Duchesne,RO41,Utah Attorney General,,,W. Andrew McCullough,4
+Duchesne,RO42,Utah Attorney General,,,W. Andrew McCullough,1
+Duchesne,RO51,Utah Attorney General,,,W. Andrew McCullough,2
+Duchesne,RO52,Utah Attorney General,,,W. Andrew McCullough,3
+Duchesne,RO62,Utah Attorney General,,,W. Andrew McCullough,3
+Duchesne,RO71,Utah Attorney General,,,W. Andrew McCullough,1
+Duchesne,RO72,Utah Attorney General,,,W. Andrew McCullough,1
+Duchesne,RO81,Utah Attorney General,,,W. Andrew McCullough,6
+Duchesne,RO82,Utah Attorney General,,,W. Andrew McCullough,3
+Duchesne,TA11,Utah Attorney General,,,W. Andrew McCullough,2
+Duchesne,TA12,Utah Attorney General,,,W. Andrew McCullough,0
+Duchesne,AL11,Utah Attorney General,,,Gregory Hansen,8
+Duchesne,AL12,Utah Attorney General,,,Gregory Hansen,2
+Duchesne,AR11,Utah Attorney General,,,Gregory Hansen,2
+Duchesne,BB11,Utah Attorney General,,,Gregory Hansen,7
+Duchesne,CE11,Utah Attorney General,,,Gregory Hansen,4
+Duchesne,DU11,Utah Attorney General,,,Gregory Hansen,10
+Duchesne,DU12,Utah Attorney General,,,Gregory Hansen,23
+Duchesne,DU21,Utah Attorney General,,,Gregory Hansen,12
+Duchesne,DU22,Utah Attorney General,,,Gregory Hansen,14
+Duchesne,FR11 ,Utah Attorney General,,,Gregory Hansen,5
+Duchesne,MH11,Utah Attorney General,,,Gregory Hansen,5
+Duchesne,MY11,Utah Attorney General,,,Gregory Hansen,4
+Duchesne,MY12,Utah Attorney General,,,Gregory Hansen,8
+Duchesne,NE11,Utah Attorney General,,,Gregory Hansen,9
+Duchesne,NE21,Utah Attorney General,,,Gregory Hansen,5
+Duchesne,RO12,Utah Attorney General,,,Gregory Hansen,4
+Duchesne,RO21,Utah Attorney General,,,Gregory Hansen,0
+Duchesne,RO22,Utah Attorney General,,,Gregory Hansen,10
+Duchesne,RO32,Utah Attorney General,,,Gregory Hansen,3
+Duchesne,RO41,Utah Attorney General,,,Gregory Hansen,9
+Duchesne,RO42,Utah Attorney General,,,Gregory Hansen,6
+Duchesne,RO51,Utah Attorney General,,,Gregory Hansen,3
+Duchesne,RO52,Utah Attorney General,,,Gregory Hansen,6
+Duchesne,RO62,Utah Attorney General,,,Gregory Hansen,9
+Duchesne,RO71,Utah Attorney General,,,Gregory Hansen,9
+Duchesne,RO72,Utah Attorney General,,,Gregory Hansen,4
+Duchesne,RO81,Utah Attorney General,,,Gregory Hansen,6
+Duchesne,RO82,Utah Attorney General,,,Gregory Hansen,1
+Duchesne,TA11,Utah Attorney General,,,Gregory Hansen,14
+Duchesne,TA12,Utah Attorney General,,,Gregory Hansen,1
+Duchesne,AL11,Utah Attorney General,,,Charles Stormont,17
+Duchesne,AL12,Utah Attorney General,,,Charles Stormont,3
+Duchesne,AR11,Utah Attorney General,,,Charles Stormont,9
+Duchesne,BB11,Utah Attorney General,,,Charles Stormont,7
+Duchesne,CE11,Utah Attorney General,,,Charles Stormont,15
+Duchesne,DU11,Utah Attorney General,,,Charles Stormont,15
+Duchesne,DU12,Utah Attorney General,,,Charles Stormont,14
+Duchesne,DU21,Utah Attorney General,,,Charles Stormont,22
+Duchesne,DU22,Utah Attorney General,,,Charles Stormont,9
+Duchesne,FR11 ,Utah Attorney General,,,Charles Stormont,35
+Duchesne,MH11,Utah Attorney General,,,Charles Stormont,47
+Duchesne,MY11,Utah Attorney General,,,Charles Stormont,13
+Duchesne,MY12,Utah Attorney General,,,Charles Stormont,13
+Duchesne,NE11,Utah Attorney General,,,Charles Stormont,7
+Duchesne,NE21,Utah Attorney General,,,Charles Stormont,13
+Duchesne,RO12,Utah Attorney General,,,Charles Stormont,18
+Duchesne,RO21,Utah Attorney General,,,Charles Stormont,0
+Duchesne,RO22,Utah Attorney General,,,Charles Stormont,31
+Duchesne,RO32,Utah Attorney General,,,Charles Stormont,8
+Duchesne,RO41,Utah Attorney General,,,Charles Stormont,17
+Duchesne,RO42,Utah Attorney General,,,Charles Stormont,8
+Duchesne,RO51,Utah Attorney General,,,Charles Stormont,11
+Duchesne,RO52,Utah Attorney General,,,Charles Stormont,4
+Duchesne,RO62,Utah Attorney General,,,Charles Stormont,9
+Duchesne,RO71,Utah Attorney General,,,Charles Stormont,13
+Duchesne,RO72,Utah Attorney General,,,Charles Stormont,7
+Duchesne,RO81,Utah Attorney General,,,Charles Stormont,6
+Duchesne,RO82,Utah Attorney General,,,Charles Stormont,8
+Duchesne,TA11,Utah Attorney General,,,Charles Stormont,22
+Duchesne,TA12,Utah Attorney General,,,Charles Stormont,8
+Duchesne,AL11,Utah Attorney General,,,Sean Reyes,135
+Duchesne,AL12,Utah Attorney General,,,Sean Reyes,35
+Duchesne,AR11,Utah Attorney General,,,Sean Reyes,74
+Duchesne,BB11,Utah Attorney General,,,Sean Reyes,147
+Duchesne,CE11,Utah Attorney General,,,Sean Reyes,117
+Duchesne,DU11,Utah Attorney General,,,Sean Reyes,121
+Duchesne,DU12,Utah Attorney General,,,Sean Reyes,116
+Duchesne,DU21,Utah Attorney General,,,Sean Reyes,90
+Duchesne,DU22,Utah Attorney General,,,Sean Reyes,157
+Duchesne,FR11 ,Utah Attorney General,,,Sean Reyes,69
+Duchesne,MH11,Utah Attorney General,,,Sean Reyes,181
+Duchesne,MY11,Utah Attorney General,,,Sean Reyes,99
+Duchesne,MY12,Utah Attorney General,,,Sean Reyes,49
+Duchesne,NE11,Utah Attorney General,,,Sean Reyes,114
+Duchesne,NE21,Utah Attorney General,,,Sean Reyes,126
+Duchesne,RO12,Utah Attorney General,,,Sean Reyes,81
+Duchesne,RO21,Utah Attorney General,,,Sean Reyes,22
+Duchesne,RO22,Utah Attorney General,,,Sean Reyes,191
+Duchesne,RO32,Utah Attorney General,,,Sean Reyes,64
+Duchesne,RO41,Utah Attorney General,,,Sean Reyes,138
+Duchesne,RO42,Utah Attorney General,,,Sean Reyes,105
+Duchesne,RO51,Utah Attorney General,,,Sean Reyes,102
+Duchesne,RO52,Utah Attorney General,,,Sean Reyes,106
+Duchesne,RO62,Utah Attorney General,,,Sean Reyes,155
+Duchesne,RO71,Utah Attorney General,,,Sean Reyes,113
+Duchesne,RO72,Utah Attorney General,,,Sean Reyes,72
+Duchesne,RO81,Utah Attorney General,,,Sean Reyes,130
+Duchesne,RO82,Utah Attorney General,,,Sean Reyes,38
+Duchesne,TA11,Utah Attorney General,,,Sean Reyes,119
+Duchesne,TA12,Utah Attorney General,,,Sean Reyes,31
+Duchesne,AL11,Utah Attorney General,,,Leslie Curtis,3
+Duchesne,AL12,Utah Attorney General,,,Leslie Curtis,1
+Duchesne,AR11,Utah Attorney General,,,Leslie Curtis,3
+Duchesne,BB11,Utah Attorney General,,,Leslie Curtis,4
+Duchesne,CE11,Utah Attorney General,,,Leslie Curtis,8
+Duchesne,DU11,Utah Attorney General,,,Leslie Curtis,2
+Duchesne,DU12,Utah Attorney General,,,Leslie Curtis,8
+Duchesne,DU21,Utah Attorney General,,,Leslie Curtis,7
+Duchesne,DU22,Utah Attorney General,,,Leslie Curtis,7
+Duchesne,FR11 ,Utah Attorney General,,,Leslie Curtis,7
+Duchesne,MH11,Utah Attorney General,,,Leslie Curtis,7
+Duchesne,MY11,Utah Attorney General,,,Leslie Curtis,3
+Duchesne,MY12,Utah Attorney General,,,Leslie Curtis,4
+Duchesne,NE11,Utah Attorney General,,,Leslie Curtis,7
+Duchesne,NE21,Utah Attorney General,,,Leslie Curtis,2
+Duchesne,RO12,Utah Attorney General,,,Leslie Curtis,2
+Duchesne,RO21,Utah Attorney General,,,Leslie Curtis,0
+Duchesne,RO22,Utah Attorney General,,,Leslie Curtis,6
+Duchesne,RO32,Utah Attorney General,,,Leslie Curtis,7
+Duchesne,RO41,Utah Attorney General,,,Leslie Curtis,5
+Duchesne,RO42,Utah Attorney General,,,Leslie Curtis,3
+Duchesne,RO51,Utah Attorney General,,,Leslie Curtis,3
+Duchesne,RO52,Utah Attorney General,,,Leslie Curtis,2
+Duchesne,RO62,Utah Attorney General,,,Leslie Curtis,4
+Duchesne,RO71,Utah Attorney General,,,Leslie Curtis,2
+Duchesne,RO72,Utah Attorney General,,,Leslie Curtis,3
+Duchesne,RO81,Utah Attorney General,,,Leslie Curtis,2
+Duchesne,RO82,Utah Attorney General,,,Leslie Curtis,2
+Duchesne,TA11,Utah Attorney General,,,Leslie Curtis,4
+Duchesne,TA12,Utah Attorney General,,,Leslie Curtis,5
+Duchesne,AL11,State Senate,,,Wayne Stevens,18
+Duchesne,AL12,State Senate,,,Wayne Stevens,3
+Duchesne,AR11,State Senate,,,Wayne Stevens,8
+Duchesne,BB11,State Senate,,,Wayne Stevens,6
+Duchesne,CE11,State Senate,,,Wayne Stevens,14
+Duchesne,DU11,State Senate,,,Wayne Stevens,17
+Duchesne,DU12,State Senate,,,Wayne Stevens,14
+Duchesne,DU21,State Senate,,,Wayne Stevens,35
+Duchesne,DU22,State Senate,,,Wayne Stevens,13
+Duchesne,FR11 ,State Senate,,,Wayne Stevens,40
+Duchesne,MH11,State Senate,,,Wayne Stevens,46
+Duchesne,MY11,State Senate,,,Wayne Stevens,21
+Duchesne,MY12,State Senate,,,Wayne Stevens,13
+Duchesne,NE11,State Senate,,,Wayne Stevens,13
+Duchesne,NE21,State Senate,,,Wayne Stevens,21
+Duchesne,RO12,State Senate,,,Wayne Stevens,20
+Duchesne,RO21,State Senate,,,Wayne Stevens,3
+Duchesne,RO22,State Senate,,,Wayne Stevens,25
+Duchesne,RO32,State Senate,,,Wayne Stevens,12
+Duchesne,RO41,State Senate,,,Wayne Stevens,25
+Duchesne,RO42,State Senate,,,Wayne Stevens,12
+Duchesne,RO51,State Senate,,,Wayne Stevens,19
+Duchesne,RO52,State Senate,,,Wayne Stevens,10
+Duchesne,RO62,State Senate,,,Wayne Stevens,14
+Duchesne,RO71,State Senate,,,Wayne Stevens,19
+Duchesne,RO72,State Senate,,,Wayne Stevens,5
+Duchesne,RO81,State Senate,,,Wayne Stevens,13
+Duchesne,RO82,State Senate,,,Wayne Stevens,13
+Duchesne,TA11,State Senate,,,Wayne Stevens,26
+Duchesne,TA12,State Senate,,,Wayne Stevens,5
+Duchesne,AL11,State Senate,,,Kevin Van Tassell,148
+Duchesne,AL12,State Senate,,,Kevin Van Tassell,41
+Duchesne,AR11,State Senate,,,Kevin Van Tassell,82
+Duchesne,BB11,State Senate,,,Kevin Van Tassell,161
+Duchesne,CE11,State Senate,,,Kevin Van Tassell,134
+Duchesne,DU11,State Senate,,,Kevin Van Tassell,135
+Duchesne,DU12,State Senate,,,Kevin Van Tassell,146
+Duchesne,DU21,State Senate,,,Kevin Van Tassell,99
+Duchesne,DU22,State Senate,,,Kevin Van Tassell,177
+Duchesne,FR11 ,State Senate,,,Kevin Van Tassell,79
+Duchesne,MH11,State Senate,,,Kevin Van Tassell,200
+Duchesne,MY11,State Senate,,,Kevin Van Tassell,105
+Duchesne,MY12,State Senate,,,Kevin Van Tassell,68
+Duchesne,NE11,State Senate,,,Kevin Van Tassell,130
+Duchesne,NE21,State Senate,,,Kevin Van Tassell,130
+Duchesne,RO12,State Senate,,,Kevin Van Tassell,88
+Duchesne,RO21,State Senate,,,Kevin Van Tassell,19
+Duchesne,RO22,State Senate,,,Kevin Van Tassell,219
+Duchesne,RO32,State Senate,,,Kevin Van Tassell,73
+Duchesne,RO41,State Senate,,,Kevin Van Tassell,157
+Duchesne,RO42,State Senate,,,Kevin Van Tassell,112
+Duchesne,RO51,State Senate,,,Kevin Van Tassell,102
+Duchesne,RO52,State Senate,,,Kevin Van Tassell,111
+Duchesne,RO62,State Senate,,,Kevin Van Tassell,166
+Duchesne,RO71,State Senate,,,Kevin Van Tassell,121
+Duchesne,RO72,State Senate,,,Kevin Van Tassell,80
+Duchesne,RO81,State Senate,,,Kevin Van Tassell,135
+Duchesne,RO82,State Senate,,,Kevin Van Tassell,39
+Duchesne,TA11,State Senate,,,Kevin Van Tassell,136
+Duchesne,TA12,State Senate,,,Kevin Van Tassell,40
+Duchesne,AL11,Utah House,53,,Ray Worthen,18
+Duchesne,AL12,Utah House,53,,Ray Worthen,6
+Duchesne,BB11,Utah House,53,,Ray Worthen,10
+Duchesne,MH11,Utah House,53,,Ray Worthen,57
+Duchesne,TA11,Utah House,53,,Ray Worthen,31
+Duchesne,TA12,Utah House,53,,Ray Worthen,13
+Duchesne,AL11,Utah House,53,,Melvin Brown,145
+Duchesne,AL12,Utah House,53,,Melvin Brown,34
+Duchesne,BB11,Utah House,53,,Melvin Brown,150
+Duchesne,MH11,Utah House,53,,Melvin Brown,181
+Duchesne,TA11,Utah House,53,,Melvin Brown,129
+Duchesne,TA12,Utah House,53,,Melvin Brown,31
+Duchesne,AR11,Utah House,55,,Scott Chew,75
+Duchesne,CE11,Utah House,55,,Scott Chew,128
+Duchesne,NE11,Utah House,55,,Scott Chew,125
+Duchesne,NE21,Utah House,55,,Scott Chew,135
+Duchesne,RO21,Utah House,55,,Scott Chew,19
+Duchesne,RO41,Utah House,55,,Scott Chew,148
+Duchesne,RO51,Utah House,55,,Scott Chew,110
+Duchesne,RO81,Utah House,55,,Scott Chew,130
+Duchesne,DU11,Utah House,69,,Bill Labrum,127
+Duchesne,DU12,Utah House,69,,Bill Labrum,132
+Duchesne,DU21,Utah House,69,,Bill Labrum,96
+Duchesne,DU22,Utah House,69,,Bill Labrum,162
+Duchesne,FR11 ,Utah House,69,,Bill Labrum,75
+Duchesne,MY11,Utah House,69,,Bill Labrum,104
+Duchesne,MY12,Utah House,69,,Bill Labrum,69
+Duchesne,RO12,Utah House,69,,Bill Labrum,91
+Duchesne,RO22,Utah House,69,,Bill Labrum,224
+Duchesne,RO32,Utah House,69,,Bill Labrum,72
+Duchesne,RO42,Utah House,69,,Bill Labrum,104
+Duchesne,RO52,Utah House,69,,Bill Labrum,108
+Duchesne,RO62,Utah House,69,,Bill Labrum,160
+Duchesne,RO71,Utah House,69,,Bill Labrum,111
+Duchesne,RO72,Utah House,69,,Bill Labrum,73
+Duchesne,RO82,Utah House,69,,Bill Labrum,41
+Duchesne,DU11,Utah House,69,,Brad King,22
+Duchesne,DU12,Utah House,69,,Brad King,31
+Duchesne,DU21,Utah House,69,,Brad King,39
+Duchesne,DU22,Utah House,69,,Brad King,30
+Duchesne,FR11 ,Utah House,69,,Brad King,41
+Duchesne,MY11,Utah House,69,,Brad King,19
+Duchesne,MY12,Utah House,69,,Brad King,12
+Duchesne,RO12,Utah House,69,,Brad King,17
+Duchesne,RO22,Utah House,69,,Brad King,23
+Duchesne,RO32,Utah House,69,,Brad King,12
+Duchesne,RO42,Utah House,69,,Brad King,19
+Duchesne,RO52,Utah House,69,,Brad King,14
+Duchesne,RO62,Utah House,69,,Brad King,19
+Duchesne,RO71,Utah House,69,,Brad King,28
+Duchesne,RO72,Utah House,69,,Brad King,12
+Duchesne,RO82,Utah House,69,,Brad King,12
