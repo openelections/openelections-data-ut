@@ -1,0 +1,583 @@
+county,precinct,office,district,party,candidate,votes
+Iron,BH,US Senate,,Con,Tim Aalders,3
+Iron,CC10,US Senate,,Con,Tim Aalders,5
+Iron,CC13,US Senate,,Con,Tim Aalders,9
+Iron,CC16,US Senate,,Con,Tim Aalders,44
+Iron,CC19,US Senate,,Con,Tim Aalders,30
+Iron,CC21,US Senate,,Con,Tim Aalders,14
+Iron,CC24,US Senate,,Con,Tim Aalders,17
+Iron,CC04,US Senate,,Con,Tim Aalders,13
+Iron,CC07,US Senate,,Con,Tim Aalders,5
+Iron,CH1,US Senate,,Con,Tim Aalders,3
+Iron,ENO3,US Senate,,Con,Tim Aalders,60
+Iron,MIDV,US Senate,,Con,Tim Aalders,37
+Iron,PARAGO,US Senate,,Con,Tim Aalders,12
+Iron,PARV,US Senate,,Con,Tim Aalders,3
+Iron,BRYL,US Senate,,Con,Tim Aalders,7
+Iron,CC11,US Senate,,Con,Tim Aalders,5
+Iron,CC14,US Senate,,Con,Tim Aalders,7
+Iron,CC17,US Senate,,Con,Tim Aalders,10
+Iron,CC02,US Senate,,Con,Tim Aalders,18
+Iron,CC22,US Senate,,Con,Tim Aalders,7
+Iron,CC25,US Senate,,Con,Tim Aalders,75
+Iron,CC05,US Senate,,Con,Tim Aalders,25
+Iron,CC08,US Senate,,Con,Tim Aalders,6
+Iron,ENO1,US Senate,,Con,Tim Aalders,5
+Iron,ENO4,US Senate,,Con,Tim Aalders,53
+Iron,MODE,US Senate,,Con,Tim Aalders,2
+Iron,PARN,US Senate,,Con,Tim Aalders,33
+Iron,SUM,US Senate,,Con,Tim Aalders,8
+Iron,CC01,US Senate,,Con,Tim Aalders,19
+Iron,CC12,US Senate,,Con,Tim Aalders,1
+Iron,CC15,US Senate,,Con,Tim Aalders,15
+Iron,CC18,US Senate,,Con,Tim Aalders,42
+Iron,CC20,US Senate,,Con,Tim Aalders,87
+Iron,CC23,US Senate,,Con,Tim Aalders,15
+Iron,CC03,US Senate,,Con,Tim Aalders,24
+Iron,CC06,US Senate,,Con,Tim Aalders,25
+Iron,CC09,US Senate,,Con,Tim Aalders,10
+Iron,ENO2,US Senate,,Con,Tim Aalders,50
+Iron,KANARR,US Senate,,Con,Tim Aalders,13
+Iron,NEWCSL,US Senate,,Con,Tim Aalders,5
+Iron,PARS,US Senate,,Con,Tim Aalders,44
+Iron,IRON UT,US Senate,,Con,Tim Aalders,866
+Iron,BH,US Senate,,Lbt,Craig Bowden,1
+Iron,CC10,US Senate,,Lbt,Craig Bowden,6
+Iron,CC13,US Senate,,Lbt,Craig Bowden,11
+Iron,CC16,US Senate,,Lbt,Craig Bowden,31
+Iron,CC19,US Senate,,Lbt,Craig Bowden,16
+Iron,CC21,US Senate,,Lbt,Craig Bowden,12
+Iron,CC24,US Senate,,Lbt,Craig Bowden,9
+Iron,CC04,US Senate,,Lbt,Craig Bowden,17
+Iron,CC07,US Senate,,Lbt,Craig Bowden,12
+Iron,CH1,US Senate,,Lbt,Craig Bowden,1
+Iron,ENO3,US Senate,,Lbt,Craig Bowden,32
+Iron,MIDV,US Senate,,Lbt,Craig Bowden,26
+Iron,PARAGO,US Senate,,Lbt,Craig Bowden,4
+Iron,PARV,US Senate,,Lbt,Craig Bowden,3
+Iron,BRYL,US Senate,,Lbt,Craig Bowden,11
+Iron,CC11,US Senate,,Lbt,Craig Bowden,6
+Iron,CC14,US Senate,,Lbt,Craig Bowden,8
+Iron,CC17,US Senate,,Lbt,Craig Bowden,17
+Iron,CC02,US Senate,,Lbt,Craig Bowden,27
+Iron,CC22,US Senate,,Lbt,Craig Bowden,8
+Iron,CC25,US Senate,,Lbt,Craig Bowden,44
+Iron,CC05,US Senate,,Lbt,Craig Bowden,32
+Iron,CC08,US Senate,,Lbt,Craig Bowden,3
+Iron,ENO1,US Senate,,Lbt,Craig Bowden,9
+Iron,ENO4,US Senate,,Lbt,Craig Bowden,30
+Iron,MODE,US Senate,,Lbt,Craig Bowden,1
+Iron,PARN,US Senate,,Lbt,Craig Bowden,14
+Iron,SUM,US Senate,,Lbt,Craig Bowden,2
+Iron,CC01,US Senate,,Lbt,Craig Bowden,14
+Iron,CC12,US Senate,,Lbt,Craig Bowden,9
+Iron,CC15,US Senate,,Lbt,Craig Bowden,10
+Iron,CC18,US Senate,,Lbt,Craig Bowden,15
+Iron,CC20,US Senate,,Lbt,Craig Bowden,45
+Iron,CC23,US Senate,,Lbt,Craig Bowden,12
+Iron,CC03,US Senate,,Lbt,Craig Bowden,17
+Iron,CC06,US Senate,,Lbt,Craig Bowden,17
+Iron,CC09,US Senate,,Lbt,Craig Bowden,12
+Iron,ENO2,US Senate,,Lbt,Craig Bowden,34
+Iron,KANARR,US Senate,,Lbt,Craig Bowden,6
+Iron,NEWCSL,US Senate,,Lbt,Craig Bowden,5
+Iron,PARS,US Senate,,Lbt,Craig Bowden,8
+Iron,IRON UT,US Senate,,Lbt,Craig Bowden,597
+Iron,BH,US Senate,,IAP,Reed McCandless,1
+Iron,CC10,US Senate,,IAP,Reed McCandless,2
+Iron,CC13,US Senate,,IAP,Reed McCandless,1
+Iron,CC16,US Senate,,IAP,Reed McCandless,11
+Iron,CC19,US Senate,,IAP,Reed McCandless,5
+Iron,CC21,US Senate,,IAP,Reed McCandless,2
+Iron,CC24,US Senate,,IAP,Reed McCandless,2
+Iron,CC04,US Senate,,IAP,Reed McCandless,3
+Iron,CC07,US Senate,,IAP,Reed McCandless,2
+Iron,CH1,US Senate,,IAP,Reed McCandless,0
+Iron,ENO3,US Senate,,IAP,Reed McCandless,22
+Iron,MIDV,US Senate,,IAP,Reed McCandless,3
+Iron,PARAGO,US Senate,,IAP,Reed McCandless,6
+Iron,PARV,US Senate,,IAP,Reed McCandless,1
+Iron,BRYL,US Senate,,IAP,Reed McCandless,5
+Iron,CC11,US Senate,,IAP,Reed McCandless,1
+Iron,CC14,US Senate,,IAP,Reed McCandless,3
+Iron,CC17,US Senate,,IAP,Reed McCandless,5
+Iron,CC02,US Senate,,IAP,Reed McCandless,3
+Iron,CC22,US Senate,,IAP,Reed McCandless,3
+Iron,CC25,US Senate,,IAP,Reed McCandless,16
+Iron,CC05,US Senate,,IAP,Reed McCandless,8
+Iron,CC08,US Senate,,IAP,Reed McCandless,1
+Iron,ENO1,US Senate,,IAP,Reed McCandless,0
+Iron,ENO4,US Senate,,IAP,Reed McCandless,11
+Iron,MODE,US Senate,,IAP,Reed McCandless,1
+Iron,PARN,US Senate,,IAP,Reed McCandless,3
+Iron,SUM,US Senate,,IAP,Reed McCandless,2
+Iron,CC01,US Senate,,IAP,Reed McCandless,4
+Iron,CC12,US Senate,,IAP,Reed McCandless,1
+Iron,CC15,US Senate,,IAP,Reed McCandless,5
+Iron,CC18,US Senate,,IAP,Reed McCandless,5
+Iron,CC20,US Senate,,IAP,Reed McCandless,23
+Iron,CC23,US Senate,,IAP,Reed McCandless,4
+Iron,CC03,US Senate,,IAP,Reed McCandless,7
+Iron,CC06,US Senate,,IAP,Reed McCandless,11
+Iron,CC09,US Senate,,IAP,Reed McCandless,0
+Iron,ENO2,US Senate,,IAP,Reed McCandless,9
+Iron,KANARR,US Senate,,IAP,Reed McCandless,1
+Iron,NEWCSL,US Senate,,IAP,Reed McCandless,3
+Iron,PARS,US Senate,,IAP,Reed McCandless,10
+Iron,IRON UT,US Senate,,IAP,Reed McCandless,206
+Iron,BH,US Senate,,Dem,Jenny Wilson,21
+Iron,CC10,US Senate,,Dem,Jenny Wilson,38
+Iron,CC13,US Senate,,Dem,Jenny Wilson,74
+Iron,CC16,US Senate,,Dem,Jenny Wilson,141
+Iron,CC19,US Senate,,Dem,Jenny Wilson,135
+Iron,CC21,US Senate,,Dem,Jenny Wilson,48
+Iron,CC24,US Senate,,Dem,Jenny Wilson,52
+Iron,CC04,US Senate,,Dem,Jenny Wilson,80
+Iron,CC07,US Senate,,Dem,Jenny Wilson,60
+Iron,CH1,US Senate,,Dem,Jenny Wilson,13
+Iron,ENO3,US Senate,,Dem,Jenny Wilson,116
+Iron,MIDV,US Senate,,Dem,Jenny Wilson,73
+Iron,PARAGO,US Senate,,Dem,Jenny Wilson,29
+Iron,PARV,US Senate,,Dem,Jenny Wilson,14
+Iron,BRYL,US Senate,,Dem,Jenny Wilson,22
+Iron,CC11,US Senate,,Dem,Jenny Wilson,34
+Iron,CC14,US Senate,,Dem,Jenny Wilson,42
+Iron,CC17,US Senate,,Dem,Jenny Wilson,63
+Iron,CC02,US Senate,,Dem,Jenny Wilson,103
+Iron,CC22,US Senate,,Dem,Jenny Wilson,43
+Iron,CC25,US Senate,,Dem,Jenny Wilson,155
+Iron,CC05,US Senate,,Dem,Jenny Wilson,125
+Iron,CC08,US Senate,,Dem,Jenny Wilson,38
+Iron,ENO1,US Senate,,Dem,Jenny Wilson,25
+Iron,ENO4,US Senate,,Dem,Jenny Wilson,75
+Iron,MODE,US Senate,,Dem,Jenny Wilson,4
+Iron,PARN,US Senate,,Dem,Jenny Wilson,75
+Iron,SUM,US Senate,,Dem,Jenny Wilson,15
+Iron,CC01,US Senate,,Dem,Jenny Wilson,127
+Iron,CC12,US Senate,,Dem,Jenny Wilson,48
+Iron,CC15,US Senate,,Dem,Jenny Wilson,81
+Iron,CC18,US Senate,,Dem,Jenny Wilson,105
+Iron,CC20,US Senate,,Dem,Jenny Wilson,167
+Iron,CC23,US Senate,,Dem,Jenny Wilson,62
+Iron,CC03,US Senate,,Dem,Jenny Wilson,117
+Iron,CC06,US Senate,,Dem,Jenny Wilson,143
+Iron,CC09,US Senate,,Dem,Jenny Wilson,51
+Iron,ENO2,US Senate,,Dem,Jenny Wilson,83
+Iron,KANARR,US Senate,,Dem,Jenny Wilson,52
+Iron,NEWCSL,US Senate,,Dem,Jenny Wilson,9
+Iron,PARS,US Senate,,Dem,Jenny Wilson,88
+Iron,IRON UT,US Senate,,Dem,Jenny Wilson,2846
+Iron,BH,US Senate,,Rep,Mitt Romney,49
+Iron,CC10,US Senate,,Rep,Mitt Romney,117
+Iron,CC13,US Senate,,Rep,Mitt Romney,165
+Iron,CC16,US Senate,,Rep,Mitt Romney,544
+Iron,CC19,US Senate,,Rep,Mitt Romney,583
+Iron,CC21,US Senate,,Rep,Mitt Romney,178
+Iron,CC24,US Senate,,Rep,Mitt Romney,347
+Iron,CC04,US Senate,,Rep,Mitt Romney,176
+Iron,CC07,US Senate,,Rep,Mitt Romney,166
+Iron,CH1,US Senate,,Rep,Mitt Romney,49
+Iron,ENO3,US Senate,,Rep,Mitt Romney,584
+Iron,MIDV,US Senate,,Rep,Mitt Romney,262
+Iron,PARAGO,US Senate,,Rep,Mitt Romney,188
+Iron,PARV,US Senate,,Rep,Mitt Romney,113
+Iron,BRYL,US Senate,,Rep,Mitt Romney,97
+Iron,CC11,US Senate,,Rep,Mitt Romney,82
+Iron,CC14,US Senate,,Rep,Mitt Romney,253
+Iron,CC17,US Senate,,Rep,Mitt Romney,187
+Iron,CC02,US Senate,,Rep,Mitt Romney,347
+Iron,CC22,US Senate,,Rep,Mitt Romney,269
+Iron,CC25,US Senate,,Rep,Mitt Romney,637
+Iron,CC05,US Senate,,Rep,Mitt Romney,343
+Iron,CC08,US Senate,,Rep,Mitt Romney,123
+Iron,ENO1,US Senate,,Rep,Mitt Romney,85
+Iron,ENO4,US Senate,,Rep,Mitt Romney,524
+Iron,MODE,US Senate,,Rep,Mitt Romney,13
+Iron,PARN,US Senate,,Rep,Mitt Romney,498
+Iron,SUM,US Senate,,Rep,Mitt Romney,115
+Iron,CC01,US Senate,,Rep,Mitt Romney,389
+Iron,CC12,US Senate,,Rep,Mitt Romney,112
+Iron,CC15,US Senate,,Rep,Mitt Romney,258
+Iron,CC18,US Senate,,Rep,Mitt Romney,547
+Iron,CC20,US Senate,,Rep,Mitt Romney,779
+Iron,CC23,US Senate,,Rep,Mitt Romney,252
+Iron,CC03,US Senate,,Rep,Mitt Romney,270
+Iron,CC06,US Senate,,Rep,Mitt Romney,337
+Iron,CC09,US Senate,,Rep,Mitt Romney,146
+Iron,ENO2,US Senate,,Rep,Mitt Romney,404
+Iron,KANARR,US Senate,,Rep,Mitt Romney,202
+Iron,NEWCSL,US Senate,,Rep,Mitt Romney,112
+Iron,PARS,US Senate,,Rep,Mitt Romney,384
+Iron,IRON UT,US Senate,,Rep,Mitt Romney,11286
+Iron,BH,US Senate,,,write-in,0
+Iron,CC10,US Senate,,,write-in,0
+Iron,CC13,US Senate,,,write-in,2
+Iron,CC16,US Senate,,,write-in,0
+Iron,CC19,US Senate,,,write-in,3
+Iron,CC21,US Senate,,,write-in,2
+Iron,CC24,US Senate,,,write-in,2
+Iron,CC04,US Senate,,,write-in,2
+Iron,CC07,US Senate,,,write-in,2
+Iron,CH1,US Senate,,,write-in,0
+Iron,ENO3,US Senate,,,write-in,7
+Iron,MIDV,US Senate,,,write-in,0
+Iron,PARAGO,US Senate,,,write-in,0
+Iron,PARV,US Senate,,,write-in,0
+Iron,BRYL,US Senate,,,write-in,0
+Iron,CC11,US Senate,,,write-in,0
+Iron,CC14,US Senate,,,write-in,0
+Iron,CC17,US Senate,,,write-in,1
+Iron,CC02,US Senate,,,write-in,1
+Iron,CC22,US Senate,,,write-in,1
+Iron,CC25,US Senate,,,write-in,2
+Iron,CC05,US Senate,,,write-in,3
+Iron,CC08,US Senate,,,write-in,0
+Iron,ENO1,US Senate,,,write-in,0
+Iron,ENO4,US Senate,,,write-in,2
+Iron,MODE,US Senate,,,write-in,0
+Iron,PARN,US Senate,,,write-in,1
+Iron,SUM,US Senate,,,write-in,1
+Iron,CC01,US Senate,,,write-in,2
+Iron,CC12,US Senate,,,write-in,1
+Iron,CC15,US Senate,,,write-in,0
+Iron,CC18,US Senate,,,write-in,5
+Iron,CC20,US Senate,,,write-in,10
+Iron,CC23,US Senate,,,write-in,3
+Iron,CC03,US Senate,,,write-in,1
+Iron,CC06,US Senate,,,write-in,1
+Iron,CC09,US Senate,,,write-in,1
+Iron,ENO2,US Senate,,,write-in,4
+Iron,KANARR,US Senate,,,write-in,3
+Iron,NEWCSL,US Senate,,,write-in,2
+Iron,PARS,US Senate,,,write-in,3
+Iron,IRON UT,US Senate,,,write-in,68
+Iron,BH,US House,2,Dem,Shireen Ghorbani,22
+Iron,CC10,US House,2,Dem,Shireen Ghorbani,33
+Iron,CC13,US House,2,Dem,Shireen Ghorbani,78
+Iron,CC16,US House,2,Dem,Shireen Ghorbani,142
+Iron,CC19,US House,2,Dem,Shireen Ghorbani,157
+Iron,CC21,US House,2,Dem,Shireen Ghorbani,44
+Iron,CC24,US House,2,Dem,Shireen Ghorbani,59
+Iron,CC04,US House,2,Dem,Shireen Ghorbani,91
+Iron,CC07,US House,2,Dem,Shireen Ghorbani,55
+Iron,CH1,US House,2,Dem,Shireen Ghorbani,15
+Iron,ENO3,US House,2,Dem,Shireen Ghorbani,109
+Iron,MIDV,US House,2,Dem,Shireen Ghorbani,66
+Iron,PARAGO,US House,2,Dem,Shireen Ghorbani,28
+Iron,PARV,US House,2,Dem,Shireen Ghorbani,11
+Iron,BRYL,US House,2,Dem,Shireen Ghorbani,14
+Iron,CC11,US House,2,Dem,Shireen Ghorbani,39
+Iron,CC14,US House,2,Dem,Shireen Ghorbani,44
+Iron,CC17,US House,2,Dem,Shireen Ghorbani,74
+Iron,CC02,US House,2,Dem,Shireen Ghorbani,104
+Iron,CC22,US House,2,Dem,Shireen Ghorbani,52
+Iron,CC25,US House,2,Dem,Shireen Ghorbani,162
+Iron,CC05,US House,2,Dem,Shireen Ghorbani,123
+Iron,CC08,US House,2,Dem,Shireen Ghorbani,43
+Iron,ENO1,US House,2,Dem,Shireen Ghorbani,28
+Iron,ENO4,US House,2,Dem,Shireen Ghorbani,76
+Iron,MODE,US House,2,Dem,Shireen Ghorbani,3
+Iron,PARN,US House,2,Dem,Shireen Ghorbani,71
+Iron,SUM,US House,2,Dem,Shireen Ghorbani,18
+Iron,CC01,US House,2,Dem,Shireen Ghorbani,132
+Iron,CC12,US House,2,Dem,Shireen Ghorbani,56
+Iron,CC15,US House,2,Dem,Shireen Ghorbani,74
+Iron,CC18,US House,2,Dem,Shireen Ghorbani,113
+Iron,CC20,US House,2,Dem,Shireen Ghorbani,167
+Iron,CC23,US House,2,Dem,Shireen Ghorbani,63
+Iron,CC03,US House,2,Dem,Shireen Ghorbani,122
+Iron,CC06,US House,2,Dem,Shireen Ghorbani,156
+Iron,CC09,US House,2,Dem,Shireen Ghorbani,58
+Iron,ENO2,US House,2,Dem,Shireen Ghorbani,76
+Iron,KANARR,US House,2,Dem,Shireen Ghorbani,51
+Iron,NEWCSL,US House,2,Dem,Shireen Ghorbani,10
+Iron,PARS,US House,2,Dem,Shireen Ghorbani,80
+Iron,IRON UT,US House,2,Dem,Shireen Ghorbani,2919
+Iron,BH,US House,2,Rep,Chris Stewart,49
+Iron,CC10,US House,2,Rep,Chris Stewart,119
+Iron,CC13,US House,2,Rep,Chris Stewart,170
+Iron,CC16,US House,2,Rep,Chris Stewart,585
+Iron,CC19,US House,2,Rep,Chris Stewart,587
+Iron,CC21,US House,2,Rep,Chris Stewart,191
+Iron,CC24,US House,2,Rep,Chris Stewart,355
+Iron,CC04,US House,2,Rep,Chris Stewart,178
+Iron,CC07,US House,2,Rep,Chris Stewart,178
+Iron,CH1,US House,2,Rep,Chris Stewart,50
+Iron,ENO3,US House,2,Rep,Chris Stewart,657
+Iron,MIDV,US House,2,Rep,Chris Stewart,290
+Iron,PARAGO,US House,2,Rep,Chris Stewart,199
+Iron,PARV,US House,2,Rep,Chris Stewart,116
+Iron,BRYL,US House,2,Rep,Chris Stewart,115
+Iron,CC11,US House,2,Rep,Chris Stewart,78
+Iron,CC14,US House,2,Rep,Chris Stewart,255
+Iron,CC17,US House,2,Rep,Chris Stewart,179
+Iron,CC02,US House,2,Rep,Chris Stewart,363
+Iron,CC22,US House,2,Rep,Chris Stewart,268
+Iron,CC25,US House,2,Rep,Chris Stewart,704
+Iron,CC05,US House,2,Rep,Chris Stewart,363
+Iron,CC08,US House,2,Rep,Chris Stewart,118
+Iron,ENO1,US House,2,Rep,Chris Stewart,86
+Iron,ENO4,US House,2,Rep,Chris Stewart,570
+Iron,MODE,US House,2,Rep,Chris Stewart,13
+Iron,PARN,US House,2,Rep,Chris Stewart,522
+Iron,SUM,US House,2,Rep,Chris Stewart,120
+Iron,CC01,US House,2,Rep,Chris Stewart,396
+Iron,CC12,US House,2,Rep,Chris Stewart,99
+Iron,CC15,US House,2,Rep,Chris Stewart,287
+Iron,CC18,US House,2,Rep,Chris Stewart,569
+Iron,CC20,US House,2,Rep,Chris Stewart,879
+Iron,CC23,US House,2,Rep,Chris Stewart,269
+Iron,CC03,US House,2,Rep,Chris Stewart,278
+Iron,CC06,US House,2,Rep,Chris Stewart,337
+Iron,CC09,US House,2,Rep,Chris Stewart,137
+Iron,ENO2,US House,2,Rep,Chris Stewart,456
+Iron,KANARR,US House,2,Rep,Chris Stewart,220
+Iron,NEWCSL,US House,2,Rep,Chris Stewart,117
+Iron,PARS,US House,2,Rep,Chris Stewart,423
+Iron,IRON UT,US House,2,Rep,Chris Stewart,11945
+Iron,BH,US House,2,Lbt,Jeffrey Whipple,3
+Iron,CC10,US House,2,Lbt,Jeffrey Whipple,12
+Iron,CC13,US House,2,Lbt,Jeffrey Whipple,12
+Iron,CC16,US House,2,Lbt,Jeffrey Whipple,41
+Iron,CC19,US House,2,Lbt,Jeffrey Whipple,16
+Iron,CC21,US House,2,Lbt,Jeffrey Whipple,17
+Iron,CC24,US House,2,Lbt,Jeffrey Whipple,8
+Iron,CC04,US House,2,Lbt,Jeffrey Whipple,21
+Iron,CC07,US House,2,Lbt,Jeffrey Whipple,13
+Iron,CH1,US House,2,Lbt,Jeffrey Whipple,2
+Iron,ENO3,US House,2,Lbt,Jeffrey Whipple,57
+Iron,MIDV,US House,2,Lbt,Jeffrey Whipple,43
+Iron,PARAGO,US House,2,Lbt,Jeffrey Whipple,11
+Iron,PARV,US House,2,Lbt,Jeffrey Whipple,8
+Iron,BRYL,US House,2,Lbt,Jeffrey Whipple,10
+Iron,CC11,US House,2,Lbt,Jeffrey Whipple,9
+Iron,CC14,US House,2,Lbt,Jeffrey Whipple,11
+Iron,CC17,US House,2,Lbt,Jeffrey Whipple,25
+Iron,CC02,US House,2,Lbt,Jeffrey Whipple,30
+Iron,CC22,US House,2,Lbt,Jeffrey Whipple,7
+Iron,CC25,US House,2,Lbt,Jeffrey Whipple,65
+Iron,CC05,US House,2,Lbt,Jeffrey Whipple,40
+Iron,CC08,US House,2,Lbt,Jeffrey Whipple,8
+Iron,ENO1,US House,2,Lbt,Jeffrey Whipple,9
+Iron,ENO4,US House,2,Lbt,Jeffrey Whipple,42
+Iron,MODE,US House,2,Lbt,Jeffrey Whipple,4
+Iron,PARN,US House,2,Lbt,Jeffrey Whipple,26
+Iron,SUM,US House,2,Lbt,Jeffrey Whipple,2
+Iron,CC01,US House,2,Lbt,Jeffrey Whipple,22
+Iron,CC12,US House,2,Lbt,Jeffrey Whipple,14
+Iron,CC15,US House,2,Lbt,Jeffrey Whipple,7
+Iron,CC18,US House,2,Lbt,Jeffrey Whipple,28
+Iron,CC20,US House,2,Lbt,Jeffrey Whipple,60
+Iron,CC23,US House,2,Lbt,Jeffrey Whipple,17
+Iron,CC03,US House,2,Lbt,Jeffrey Whipple,33
+Iron,CC06,US House,2,Lbt,Jeffrey Whipple,34
+Iron,CC09,US House,2,Lbt,Jeffrey Whipple,14
+Iron,ENO2,US House,2,Lbt,Jeffrey Whipple,41
+Iron,KANARR,US House,2,Lbt,Jeffrey Whipple,8
+Iron,NEWCSL,US House,2,Lbt,Jeffrey Whipple,6
+Iron,PARS,US House,2,Lbt,Jeffrey Whipple,28
+Iron,IRON UT,US House,2,Lbt,Jeffrey Whipple,853
+Iron,BH,State Senate,28,Dem,Mark Chambers,24
+Iron,CC10,State Senate,28,Dem,Mark Chambers,31
+Iron,CC13,State Senate,28,Dem,Mark Chambers,75
+Iron,CC16,State Senate,28,Dem,Mark Chambers,152
+Iron,CC19,State Senate,28,Dem,Mark Chambers,130
+Iron,CC21,State Senate,28,Dem,Mark Chambers,44
+Iron,CC24,State Senate,28,Dem,Mark Chambers,52
+Iron,CC04,State Senate,28,Dem,Mark Chambers,87
+Iron,CC07,State Senate,28,Dem,Mark Chambers,62
+Iron,CH1,State Senate,28,Dem,Mark Chambers,16
+Iron,ENO3,State Senate,28,Dem,Mark Chambers,123
+Iron,MIDV,State Senate,28,Dem,Mark Chambers,91
+Iron,PARAGO,State Senate,28,Dem,Mark Chambers,26
+Iron,PARV,State Senate,28,Dem,Mark Chambers,15
+Iron,BRYL,State Senate,28,Dem,Mark Chambers,19
+Iron,CC11,State Senate,28,Dem,Mark Chambers,37
+Iron,CC14,State Senate,28,Dem,Mark Chambers,45
+Iron,CC17,State Senate,28,Dem,Mark Chambers,66
+Iron,CC02,State Senate,28,Dem,Mark Chambers,100
+Iron,CC22,State Senate,28,Dem,Mark Chambers,35
+Iron,CC25,State Senate,28,Dem,Mark Chambers,164
+Iron,CC05,State Senate,28,Dem,Mark Chambers,142
+Iron,CC08,State Senate,28,Dem,Mark Chambers,42
+Iron,ENO1,State Senate,28,Dem,Mark Chambers,28
+Iron,ENO4,State Senate,28,Dem,Mark Chambers,78
+Iron,MODE,State Senate,28,Dem,Mark Chambers,5
+Iron,PARN,State Senate,28,Dem,Mark Chambers,80
+Iron,SUM,State Senate,28,Dem,Mark Chambers,18
+Iron,CC01,State Senate,28,Dem,Mark Chambers,122
+Iron,CC12,State Senate,28,Dem,Mark Chambers,53
+Iron,CC15,State Senate,28,Dem,Mark Chambers,63
+Iron,CC18,State Senate,28,Dem,Mark Chambers,105
+Iron,CC20,State Senate,28,Dem,Mark Chambers,191
+Iron,CC23,State Senate,28,Dem,Mark Chambers,71
+Iron,CC03,State Senate,28,Dem,Mark Chambers,124
+Iron,CC06,State Senate,28,Dem,Mark Chambers,162
+Iron,CC09,State Senate,28,Dem,Mark Chambers,62
+Iron,ENO2,State Senate,28,Dem,Mark Chambers,82
+Iron,KANARR,State Senate,28,Dem,Mark Chambers,55
+Iron,NEWCSL,State Senate,28,Dem,Mark Chambers,13
+Iron,PARS,State Senate,28,Dem,Mark Chambers,83
+Iron,IRON UT,State Senate,28,Dem,Mark Chambers,2973
+Iron,BH,State Senate,28,Rep,Evan Vickers,49
+Iron,CC10,State Senate,28,Rep,Evan Vickers,136
+Iron,CC13,State Senate,28,Rep,Evan Vickers,185
+Iron,CC16,State Senate,28,Rep,Evan Vickers,613
+Iron,CC19,State Senate,28,Rep,Evan Vickers,634
+Iron,CC21,State Senate,28,Rep,Evan Vickers,209
+Iron,CC24,State Senate,28,Rep,Evan Vickers,373
+Iron,CC04,State Senate,28,Rep,Evan Vickers,196
+Iron,CC07,State Senate,28,Rep,Evan Vickers,179
+Iron,CH1,State Senate,28,Rep,Evan Vickers,50
+Iron,ENO3,State Senate,28,Rep,Evan Vickers,686
+Iron,MIDV,State Senate,28,Rep,Evan Vickers,308
+Iron,PARAGO,State Senate,28,Rep,Evan Vickers,214
+Iron,PARV,State Senate,28,Rep,Evan Vickers,120
+Iron,BRYL,State Senate,28,Rep,Evan Vickers,120
+Iron,CC11,State Senate,28,Rep,Evan Vickers,88
+Iron,CC14,State Senate,28,Rep,Evan Vickers,267
+Iron,CC17,State Senate,28,Rep,Evan Vickers,217
+Iron,CC02,State Senate,28,Rep,Evan Vickers,395
+Iron,CC22,State Senate,28,Rep,Evan Vickers,295
+Iron,CC25,State Senate,28,Rep,Evan Vickers,751
+Iron,CC05,State Senate,28,Rep,Evan Vickers,382
+Iron,CC08,State Senate,28,Rep,Evan Vickers,129
+Iron,ENO1,State Senate,28,Rep,Evan Vickers,95
+Iron,ENO4,State Senate,28,Rep,Evan Vickers,608
+Iron,MODE,State Senate,28,Rep,Evan Vickers,14
+Iron,PARN,State Senate,28,Rep,Evan Vickers,544
+Iron,SUM,State Senate,28,Rep,Evan Vickers,120
+Iron,CC01,State Senate,28,Rep,Evan Vickers,435
+Iron,CC12,State Senate,28,Rep,Evan Vickers,116
+Iron,CC15,State Senate,28,Rep,Evan Vickers,305
+Iron,CC18,State Senate,28,Rep,Evan Vickers,604
+Iron,CC20,State Senate,28,Rep,Evan Vickers,901
+Iron,CC23,State Senate,28,Rep,Evan Vickers,272
+Iron,CC03,State Senate,28,Rep,Evan Vickers,307
+Iron,CC06,State Senate,28,Rep,Evan Vickers,361
+Iron,CC09,State Senate,28,Rep,Evan Vickers,152
+Iron,ENO2,State Senate,28,Rep,Evan Vickers,486
+Iron,KANARR,State Senate,28,Rep,Evan Vickers,224
+Iron,NEWCSL,State Senate,28,Rep,Evan Vickers,118
+Iron,PARS,State Senate,28,Rep,Evan Vickers,443
+Iron,IRON UT,State Senate,28,Rep,Evan Vickers,12701
+Iron,BH,State House,71,Dem,Chuck Goode,23
+Iron,CC10,State House,72,Dem,Zeno Parry,30
+Iron,CC13,State House,72,Dem,Zeno Parry,53
+Iron,CC16,State House,72,Dem,Zeno Parry,129
+Iron,CC19,State House,72,Dem,Zeno Parry,122
+Iron,CC21,State House,72,Dem,Zeno Parry,34
+Iron,CC24,State House,72,Dem,Zeno Parry,46
+Iron,CC04,State House,72,Dem,Zeno Parry,74
+Iron,CC07,State House,72,Dem,Zeno Parry,44
+Iron,CH1,State House,72,Dem,Zeno Parry,15
+Iron,ENO3,State House,71,Dem,Chuck Goode,129
+Iron,MIDV,State House,72,Dem,Zeno Parry,73
+Iron,PARAGO,State House,71,Dem,Chuck Goode,35
+Iron,PARV,State House,72,Dem,Zeno Parry,12
+Iron,BRYL,State House,72,Dem,Zeno Parry,19
+Iron,CC11,State House,72,Dem,Zeno Parry,25
+Iron,CC14,State House,72,Dem,Zeno Parry,27
+Iron,CC17,State House,72,Dem,Zeno Parry,54
+Iron,CC02,State House,72,Dem,Zeno Parry,85
+Iron,CC22,State House,72,Dem,Zeno Parry,46
+Iron,CC25,State House,72,Dem,Zeno Parry,136
+Iron,CC05,State House,72,Dem,Zeno Parry,106
+Iron,CC08,State House,72,Dem,Zeno Parry,29
+Iron,ENO1,State House,72,Dem,Zeno Parry,23
+Iron,ENO4,State House,71,Dem,Chuck Goode,75
+Iron,MODE,State House,72,Dem,Zeno Parry,4
+Iron,PARN,State House,71,Dem,Chuck Goode,80
+Iron,SUM,State House,71,Dem,Chuck Goode,19
+Iron,CC01,State House,72,Dem,Zeno Parry,109
+Iron,CC12,State House,72,Dem,Zeno Parry,40
+Iron,CC15,State House,72,Dem,Zeno Parry,56
+Iron,CC18,State House,72,Dem,Zeno Parry,86
+Iron,CC20,State House,72,Dem,Zeno Parry,154
+Iron,CC23,State House,72,Dem,Zeno Parry,53
+Iron,CC03,State House,72,Dem,Zeno Parry,105
+Iron,CC06,State House,72,Dem,Zeno Parry,120
+Iron,CC09,State House,72,Dem,Zeno Parry,41
+Iron,ENO2,State House,71,Dem,Chuck Goode,84
+Iron,KANARR,State House,72,Dem,Zeno Parry,44
+Iron,NEWCSL,State House,72,Dem,Zeno Parry,8
+Iron,PARS,State House,71,Dem,Chuck Goode,87
+Iron,IRON UT,State House,71,Dem,Chuck Goode,532
+Iron,IRON UT,State House,72,Dem,Zeno Parry,2002
+Iron,BH,State House,71,Rep,Brad Last,49
+Iron,CC10,State House,72,Rep,Rex Shipp,121
+Iron,CC13,State House,72,Rep,Rex Shipp,180
+Iron,CC16,State House,72,Rep,Rex Shipp,548
+Iron,CC19,State House,72,Rep,Rex Shipp,583
+Iron,CC21,State House,72,Rep,Rex Shipp,192
+Iron,CC24,State House,72,Rep,Rex Shipp,348
+Iron,CC04,State House,72,Rep,Rex Shipp,181
+Iron,CC07,State House,72,Rep,Rex Shipp,178
+Iron,CH1,State House,72,Rep,Rex Shipp,51
+Iron,ENO3,State House,71,Rep,Brad Last,671
+Iron,MIDV,State House,72,Rep,Rex Shipp,283
+Iron,PARAGO,State House,71,Rep,Brad Last,202
+Iron,PARV,State House,72,Rep,Rex Shipp,116
+Iron,BRYL,State House,72,Rep,Rex Shipp,108
+Iron,CC11,State House,72,Rep,Rex Shipp,81
+Iron,CC14,State House,72,Rep,Rex Shipp,263
+Iron,CC17,State House,72,Rep,Rex Shipp,184
+Iron,CC02,State House,72,Rep,Rex Shipp,367
+Iron,CC22,State House,72,Rep,Rex Shipp,257
+Iron,CC25,State House,72,Rep,Rex Shipp,690
+Iron,CC05,State House,72,Rep,Rex Shipp,368
+Iron,CC08,State House,72,Rep,Rex Shipp,122
+Iron,ENO1,State House,72,Rep,Rex Shipp,84
+Iron,ENO4,State House,71,Rep,Brad Last,606
+Iron,MODE,State House,72,Rep,Rex Shipp,14
+Iron,PARN,State House,71,Rep,Brad Last,532
+Iron,SUM,State House,71,Rep,Brad Last,118
+Iron,CC01,State House,72,Rep,Rex Shipp,383
+Iron,CC12,State House,72,Rep,Rex Shipp,114
+Iron,CC15,State House,72,Rep,Rex Shipp,283
+Iron,CC18,State House,72,Rep,Rex Shipp,565
+Iron,CC20,State House,72,Rep,Rex Shipp,856
+Iron,CC23,State House,72,Rep,Rex Shipp,265
+Iron,CC03,State House,72,Rep,Rex Shipp,282
+Iron,CC06,State House,72,Rep,Rex Shipp,346
+Iron,CC09,State House,72,Rep,Rex Shipp,143
+Iron,ENO2,State House,71,Rep,Brad Last,485
+Iron,KANARR,State House,72,Rep,Rex Shipp,224
+Iron,NEWCSL,State House,72,Rep,Rex Shipp,117
+Iron,PARS,State House,71,Rep,Brad Last,436
+Iron,IRON UT,State House,71,Rep,Brad Last,3099
+Iron,IRON UT,State House,72,Rep,Rex Shipp,8887
+Iron,CC10,State House,72,Lbt,Barry Short,14
+Iron,CC13,State House,72,Lbt,Barry Short,22
+Iron,CC16,State House,72,Lbt,Barry Short,79
+Iron,CC19,State House,72,Lbt,Barry Short,46
+Iron,CC21,State House,72,Lbt,Barry Short,26
+Iron,CC24,State House,72,Lbt,Barry Short,22
+Iron,CC04,State House,72,Lbt,Barry Short,30
+Iron,CC07,State House,72,Lbt,Barry Short,32
+Iron,CH1,State House,72,Lbt,Barry Short,0
+Iron,MIDV,State House,72,Lbt,Barry Short,43
+Iron,PARV,State House,72,Lbt,Barry Short,6
+Iron,BRYL,State House,72,Lbt,Barry Short,11
+Iron,CC11,State House,72,Lbt,Barry Short,15
+Iron,CC14,State House,72,Lbt,Barry Short,16
+Iron,CC17,State House,72,Lbt,Barry Short,43
+Iron,CC02,State House,72,Lbt,Barry Short,38
+Iron,CC22,State House,72,Lbt,Barry Short,16
+Iron,CC25,State House,72,Lbt,Barry Short,86
+Iron,CC05,State House,72,Lbt,Barry Short,48
+Iron,CC08,State House,72,Lbt,Barry Short,18
+Iron,ENO1,State House,72,Lbt,Barry Short,13
+Iron,MODE,State House,72,Lbt,Barry Short,2
+Iron,CC01,State House,72,Lbt,Barry Short,39
+Iron,CC12,State House,72,Lbt,Barry Short,13
+Iron,CC15,State House,72,Lbt,Barry Short,24
+Iron,CC18,State House,72,Lbt,Barry Short,50
+Iron,CC20,State House,72,Lbt,Barry Short,85
+Iron,CC23,State House,72,Lbt,Barry Short,28
+Iron,CC03,State House,72,Lbt,Barry Short,38
+Iron,CC06,State House,72,Lbt,Barry Short,57
+Iron,CC09,State House,72,Lbt,Barry Short,24
+Iron,KANARR,State House,72,Lbt,Barry Short,10
+Iron,NEWCSL,State House,72,Lbt,Barry Short,7
+Iron,IRON UT,State House,72,Lbt,Barry Short,1001
