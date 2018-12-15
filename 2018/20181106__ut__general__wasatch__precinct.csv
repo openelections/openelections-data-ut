@@ -1,0 +1,571 @@
+county,precinct,office,district,party,candidate,votes
+Wasatch,Wasatch 10,US Senate,,Dem,Jenny Wilson,149
+Wasatch,Wasatch 11,US Senate,,Dem,Jenny Wilson,113
+Wasatch,Wasatch 12,US Senate,,Dem,Jenny Wilson,97
+Wasatch,Wasatch 13,US Senate,,Dem,Jenny Wilson,79
+Wasatch,Wasatch 14,US Senate,,Dem,Jenny Wilson,167
+Wasatch,Wasatch 20,US Senate,,Dem,Jenny Wilson,118
+Wasatch,Wasatch 21,US Senate,,Dem,Jenny Wilson,54
+Wasatch,Wasatch 22,US Senate,,Dem,Jenny Wilson,59
+Wasatch,Wasatch 23,US Senate,,Dem,Jenny Wilson,122
+Wasatch,Wasatch 24,US Senate,,Dem,Jenny Wilson,25
+Wasatch,Wasatch 24:1,US Senate,,Dem,Jenny Wilson,77
+Wasatch,Wasatch 25,US Senate,,Dem,Jenny Wilson,65
+Wasatch,Wasatch 30,US Senate,,Dem,Jenny Wilson,440
+Wasatch,Wasatch 30:1,US Senate,,Dem,Jenny Wilson,64
+Wasatch,Wasatch 31,US Senate,,Dem,Jenny Wilson,97
+Wasatch,Wasatch 31:1,US Senate,,Dem,Jenny Wilson,8
+Wasatch,Wasatch 32,US Senate,,Dem,Jenny Wilson,21
+Wasatch,Wasatch 32:1,US Senate,,Dem,Jenny Wilson,5
+Wasatch,Wasatch 33,US Senate,,Dem,Jenny Wilson,63
+Wasatch,Wasatch 33:1,US Senate,,Dem,Jenny Wilson,123
+Wasatch,Wasatch 34,US Senate,,Dem,Jenny Wilson,68
+Wasatch,Wasatch 40,US Senate,,Dem,Jenny Wilson,140
+Wasatch,Wasatch 41,US Senate,,Dem,Jenny Wilson,38
+Wasatch,Wasatch 42,US Senate,,Dem,Jenny Wilson,11
+Wasatch,Wasatch 42:1,US Senate,,Dem,Jenny Wilson,140
+Wasatch,Wasatch 43,US Senate,,Dem,Jenny Wilson,3
+Wasatch,Wasatch 43:1,US Senate,,Dem,Jenny Wilson,79
+Wasatch,Wasatch 44,US Senate,,Dem,Jenny Wilson,38
+Wasatch,Wasatch 44:1,US Senate,,Dem,Jenny Wilson,27
+Wasatch,Wasatch 50,US Senate,,Dem,Jenny Wilson,135
+Wasatch,Wasatch 51,US Senate,,Dem,Jenny Wilson,249
+Wasatch,Wasatch 52,US Senate,,Dem,Jenny Wilson,203
+Wasatch,Wasatch 53,US Senate,,Dem,Jenny Wilson,166
+Wasatch,Wasatch 54,US Senate,,Dem,Jenny Wilson,24
+Wasatch,Wasatch 54:1,US Senate,,Dem,Jenny Wilson,1
+Wasatch,Wasatch 54:2,US Senate,,Dem,Jenny Wilson,80
+Wasatch,Wasatch 54:3,US Senate,,Dem,Jenny Wilson,42
+Wasatch,Wasatch 55,US Senate,,Dem,Jenny Wilson,8
+Wasatch,Wasatch 55:1,US Senate,,Dem,Jenny Wilson,69
+Wasatch,WASATCH UT,US Senate,,Dem,Jenny Wilson,3467
+Wasatch,Wasatch 10,US Senate,,Rep,Mitt Romney,132
+Wasatch,Wasatch 11,US Senate,,Rep,Mitt Romney,143
+Wasatch,Wasatch 12,US Senate,,Rep,Mitt Romney,167
+Wasatch,Wasatch 13,US Senate,,Rep,Mitt Romney,215
+Wasatch,Wasatch 14,US Senate,,Rep,Mitt Romney,571
+Wasatch,Wasatch 20,US Senate,,Rep,Mitt Romney,212
+Wasatch,Wasatch 21,US Senate,,Rep,Mitt Romney,141
+Wasatch,Wasatch 22,US Senate,,Rep,Mitt Romney,244
+Wasatch,Wasatch 23,US Senate,,Rep,Mitt Romney,314
+Wasatch,Wasatch 24,US Senate,,Rep,Mitt Romney,65
+Wasatch,Wasatch 24:1,US Senate,,Rep,Mitt Romney,234
+Wasatch,Wasatch 25,US Senate,,Rep,Mitt Romney,303
+Wasatch,Wasatch 30,US Senate,,Rep,Mitt Romney,448
+Wasatch,Wasatch 30:1,US Senate,,Rep,Mitt Romney,58
+Wasatch,Wasatch 31,US Senate,,Rep,Mitt Romney,439
+Wasatch,Wasatch 31:1,US Senate,,Rep,Mitt Romney,29
+Wasatch,Wasatch 32,US Senate,,Rep,Mitt Romney,105
+Wasatch,Wasatch 32:1,US Senate,,Rep,Mitt Romney,28
+Wasatch,Wasatch 33,US Senate,,Rep,Mitt Romney,182
+Wasatch,Wasatch 33:1,US Senate,,Rep,Mitt Romney,171
+Wasatch,Wasatch 34,US Senate,,Rep,Mitt Romney,254
+Wasatch,Wasatch 40,US Senate,,Rep,Mitt Romney,376
+Wasatch,Wasatch 41,US Senate,,Rep,Mitt Romney,50
+Wasatch,Wasatch 42,US Senate,,Rep,Mitt Romney,74
+Wasatch,Wasatch 42:1,US Senate,,Rep,Mitt Romney,373
+Wasatch,Wasatch 43,US Senate,,Rep,Mitt Romney,5
+Wasatch,Wasatch 43:1,US Senate,,Rep,Mitt Romney,285
+Wasatch,Wasatch 44,US Senate,,Rep,Mitt Romney,195
+Wasatch,Wasatch 44:1,US Senate,,Rep,Mitt Romney,91
+Wasatch,Wasatch 50,US Senate,,Rep,Mitt Romney,322
+Wasatch,Wasatch 51,US Senate,,Rep,Mitt Romney,580
+Wasatch,Wasatch 52,US Senate,,Rep,Mitt Romney,448
+Wasatch,Wasatch 53,US Senate,,Rep,Mitt Romney,491
+Wasatch,Wasatch 54,US Senate,,Rep,Mitt Romney,25
+Wasatch,Wasatch 54:1,US Senate,,Rep,Mitt Romney,2
+Wasatch,Wasatch 54:2,US Senate,,Rep,Mitt Romney,42
+Wasatch,Wasatch 54:3,US Senate,,Rep,Mitt Romney,134
+Wasatch,Wasatch 55,US Senate,,Rep,Mitt Romney,24
+Wasatch,Wasatch 55:1,US Senate,,Rep,Mitt Romney,154
+Wasatch,WASATCH UT,US Senate,,Rep,Mitt Romney,8126
+Wasatch,Wasatch 10,US Senate,,Con ,Tim Aalders,3
+Wasatch,Wasatch 11,US Senate,,Con ,Tim Aalders,10
+Wasatch,Wasatch 12,US Senate,,Con ,Tim Aalders,4
+Wasatch,Wasatch 13,US Senate,,Con ,Tim Aalders,6
+Wasatch,Wasatch 14,US Senate,,Con ,Tim Aalders,6
+Wasatch,Wasatch 20,US Senate,,Con ,Tim Aalders,16
+Wasatch,Wasatch 21,US Senate,,Con ,Tim Aalders,9
+Wasatch,Wasatch 22,US Senate,,Con ,Tim Aalders,7
+Wasatch,Wasatch 23,US Senate,,Con ,Tim Aalders,6
+Wasatch,Wasatch 24,US Senate,,Con ,Tim Aalders,2
+Wasatch,Wasatch 24:1,US Senate,,Con ,Tim Aalders,11
+Wasatch,Wasatch 25,US Senate,,Con ,Tim Aalders,6
+Wasatch,Wasatch 30,US Senate,,Con ,Tim Aalders,10
+Wasatch,Wasatch 30:1,US Senate,,Con ,Tim Aalders,0
+Wasatch,Wasatch 31,US Senate,,Con ,Tim Aalders,20
+Wasatch,Wasatch 31:1,US Senate,,Con ,Tim Aalders,0
+Wasatch,Wasatch 32,US Senate,,Con ,Tim Aalders,3
+Wasatch,Wasatch 32:1,US Senate,,Con ,Tim Aalders,7
+Wasatch,Wasatch 33,US Senate,,Con ,Tim Aalders,3
+Wasatch,Wasatch 33:1,US Senate,,Con ,Tim Aalders,7
+Wasatch,Wasatch 34,US Senate,,Con ,Tim Aalders,3
+Wasatch,Wasatch 40,US Senate,,Con ,Tim Aalders,18
+Wasatch,Wasatch 41,US Senate,,Con ,Tim Aalders,1
+Wasatch,Wasatch 42,US Senate,,Con ,Tim Aalders,2
+Wasatch,Wasatch 42:1,US Senate,,Con ,Tim Aalders,20
+Wasatch,Wasatch 43,US Senate,,Con ,Tim Aalders,0
+Wasatch,Wasatch 43:1,US Senate,,Con ,Tim Aalders,11
+Wasatch,Wasatch 44,US Senate,,Con ,Tim Aalders,14
+Wasatch,Wasatch 44:1,US Senate,,Con ,Tim Aalders,2
+Wasatch,Wasatch 50,US Senate,,Con ,Tim Aalders,12
+Wasatch,Wasatch 51,US Senate,,Con ,Tim Aalders,15
+Wasatch,Wasatch 52,US Senate,,Con ,Tim Aalders,10
+Wasatch,Wasatch 53,US Senate,,Con ,Tim Aalders,15
+Wasatch,Wasatch 54,US Senate,,Con ,Tim Aalders,2
+Wasatch,Wasatch 54:1,US Senate,,Con ,Tim Aalders,1
+Wasatch,Wasatch 54:2,US Senate,,Con ,Tim Aalders,0
+Wasatch,Wasatch 54:3,US Senate,,Con ,Tim Aalders,2
+Wasatch,Wasatch 55,US Senate,,Con ,Tim Aalders,3
+Wasatch,Wasatch 55:1,US Senate,,Con ,Tim Aalders,7
+Wasatch,WASATCH UT,US Senate,,Con ,Tim Aalders,272
+Wasatch,Wasatch 10,US Senate,,Lbt,Craig Bowden,4
+Wasatch,Wasatch 11,US Senate,,Lbt,Craig Bowden,7
+Wasatch,Wasatch 12,US Senate,,Lbt,Craig Bowden,6
+Wasatch,Wasatch 13,US Senate,,Lbt,Craig Bowden,12
+Wasatch,Wasatch 14,US Senate,,Lbt,Craig Bowden,10
+Wasatch,Wasatch 20,US Senate,,Lbt,Craig Bowden,10
+Wasatch,Wasatch 21,US Senate,,Lbt,Craig Bowden,7
+Wasatch,Wasatch 22,US Senate,,Lbt,Craig Bowden,11
+Wasatch,Wasatch 23,US Senate,,Lbt,Craig Bowden,7
+Wasatch,Wasatch 24,US Senate,,Lbt,Craig Bowden,2
+Wasatch,Wasatch 24:1,US Senate,,Lbt,Craig Bowden,10
+Wasatch,Wasatch 25,US Senate,,Lbt,Craig Bowden,7
+Wasatch,Wasatch 30,US Senate,,Lbt,Craig Bowden,22
+Wasatch,Wasatch 30:1,US Senate,,Lbt,Craig Bowden,0
+Wasatch,Wasatch 31,US Senate,,Lbt,Craig Bowden,3
+Wasatch,Wasatch 31:1,US Senate,,Lbt,Craig Bowden,0
+Wasatch,Wasatch 32,US Senate,,Lbt,Craig Bowden,5
+Wasatch,Wasatch 32:1,US Senate,,Lbt,Craig Bowden,1
+Wasatch,Wasatch 33,US Senate,,Lbt,Craig Bowden,7
+Wasatch,Wasatch 33:1,US Senate,,Lbt,Craig Bowden,8
+Wasatch,Wasatch 34,US Senate,,Lbt,Craig Bowden,4
+Wasatch,Wasatch 40,US Senate,,Lbt,Craig Bowden,9
+Wasatch,Wasatch 41,US Senate,,Lbt,Craig Bowden,1
+Wasatch,Wasatch 42,US Senate,,Lbt,Craig Bowden,1
+Wasatch,Wasatch 42:1,US Senate,,Lbt,Craig Bowden,7
+Wasatch,Wasatch 43,US Senate,,Lbt,Craig Bowden,0
+Wasatch,Wasatch 43:1,US Senate,,Lbt,Craig Bowden,3
+Wasatch,Wasatch 44,US Senate,,Lbt,Craig Bowden,4
+Wasatch,Wasatch 44:1,US Senate,,Lbt,Craig Bowden,1
+Wasatch,Wasatch 50,US Senate,,Lbt,Craig Bowden,14
+Wasatch,Wasatch 51,US Senate,,Lbt,Craig Bowden,8
+Wasatch,Wasatch 52,US Senate,,Lbt,Craig Bowden,14
+Wasatch,Wasatch 53,US Senate,,Lbt,Craig Bowden,9
+Wasatch,Wasatch 54,US Senate,,Lbt,Craig Bowden,0
+Wasatch,Wasatch 54:1,US Senate,,Lbt,Craig Bowden,0
+Wasatch,Wasatch 54:2,US Senate,,Lbt,Craig Bowden,0
+Wasatch,Wasatch 54:3,US Senate,,Lbt,Craig Bowden,0
+Wasatch,Wasatch 55,US Senate,,Lbt,Craig Bowden,0
+Wasatch,Wasatch 55:1,US Senate,,Lbt,Craig Bowden,4
+Wasatch,WASATCH UT,US Senate,,Lbt,Craig Bowden,222
+Wasatch,Wasatch 10,US Senate,,IAP,Reed McCandless,6
+Wasatch,Wasatch 11,US Senate,,IAP,Reed McCandless,3
+Wasatch,Wasatch 12,US Senate,,IAP,Reed McCandless,4
+Wasatch,Wasatch 13,US Senate,,IAP,Reed McCandless,7
+Wasatch,Wasatch 14,US Senate,,IAP,Reed McCandless,4
+Wasatch,Wasatch 20,US Senate,,IAP,Reed McCandless,7
+Wasatch,Wasatch 21,US Senate,,IAP,Reed McCandless,6
+Wasatch,Wasatch 22,US Senate,,IAP,Reed McCandless,3
+Wasatch,Wasatch 23,US Senate,,IAP,Reed McCandless,0
+Wasatch,Wasatch 24,US Senate,,IAP,Reed McCandless,2
+Wasatch,Wasatch 24:1,US Senate,,IAP,Reed McCandless,1
+Wasatch,Wasatch 25,US Senate,,IAP,Reed McCandless,1
+Wasatch,Wasatch 30,US Senate,,IAP,Reed McCandless,6
+Wasatch,Wasatch 30:1,US Senate,,IAP,Reed McCandless,0
+Wasatch,Wasatch 31,US Senate,,IAP,Reed McCandless,9
+Wasatch,Wasatch 31:1,US Senate,,IAP,Reed McCandless,1
+Wasatch,Wasatch 32,US Senate,,IAP,Reed McCandless,3
+Wasatch,Wasatch 32:1,US Senate,,IAP,Reed McCandless,1
+Wasatch,Wasatch 33,US Senate,,IAP,Reed McCandless,1
+Wasatch,Wasatch 33:1,US Senate,,IAP,Reed McCandless,4
+Wasatch,Wasatch 34,US Senate,,IAP,Reed McCandless,2
+Wasatch,Wasatch 40,US Senate,,IAP,Reed McCandless,0
+Wasatch,Wasatch 41,US Senate,,IAP,Reed McCandless,2
+Wasatch,Wasatch 42,US Senate,,IAP,Reed McCandless,1
+Wasatch,Wasatch 42:1,US Senate,,IAP,Reed McCandless,5
+Wasatch,Wasatch 43,US Senate,,IAP,Reed McCandless,0
+Wasatch,Wasatch 43:1,US Senate,,IAP,Reed McCandless,3
+Wasatch,Wasatch 44,US Senate,,IAP,Reed McCandless,4
+Wasatch,Wasatch 44:1,US Senate,,IAP,Reed McCandless,0
+Wasatch,Wasatch 50,US Senate,,IAP,Reed McCandless,5
+Wasatch,Wasatch 51,US Senate,,IAP,Reed McCandless,3
+Wasatch,Wasatch 52,US Senate,,IAP,Reed McCandless,1
+Wasatch,Wasatch 53,US Senate,,IAP,Reed McCandless,7
+Wasatch,Wasatch 54,US Senate,,IAP,Reed McCandless,0
+Wasatch,Wasatch 54:1,US Senate,,IAP,Reed McCandless,0
+Wasatch,Wasatch 54:2,US Senate,,IAP,Reed McCandless,0
+Wasatch,Wasatch 54:3,US Senate,,IAP,Reed McCandless,1
+Wasatch,Wasatch 55,US Senate,,IAP,Reed McCandless,0
+Wasatch,Wasatch 55:1,US Senate,,IAP,Reed McCandless,0
+Wasatch,WASATCH UT,US Senate,,IAP,Reed McCandless,101
+Wasatch,Wasatch 10,US Senate,,,write-in,0
+Wasatch,Wasatch 11,US Senate,,,write-in,0
+Wasatch,Wasatch 12,US Senate,,,write-in,1
+Wasatch,Wasatch 13,US Senate,,,write-in,1
+Wasatch,Wasatch 14,US Senate,,,write-in,5
+Wasatch,Wasatch 20,US Senate,,,write-in,4
+Wasatch,Wasatch 21,US Senate,,,write-in,0
+Wasatch,Wasatch 22,US Senate,,,write-in,0
+Wasatch,Wasatch 23,US Senate,,,write-in,4
+Wasatch,Wasatch 24,US Senate,,,write-in,1
+Wasatch,Wasatch 24:1,US Senate,,,write-in,1
+Wasatch,Wasatch 25,US Senate,,,write-in,1
+Wasatch,Wasatch 30,US Senate,,,write-in,0
+Wasatch,Wasatch 30:1,US Senate,,,write-in,1
+Wasatch,Wasatch 31,US Senate,,,write-in,6
+Wasatch,Wasatch 31:1,US Senate,,,write-in,0
+Wasatch,Wasatch 32,US Senate,,,write-in,0
+Wasatch,Wasatch 32:1,US Senate,,,write-in,0
+Wasatch,Wasatch 33,US Senate,,,write-in,0
+Wasatch,Wasatch 33:1,US Senate,,,write-in,0
+Wasatch,Wasatch 34,US Senate,,,write-in,1
+Wasatch,Wasatch 40,US Senate,,,write-in,0
+Wasatch,Wasatch 41,US Senate,,,write-in,1
+Wasatch,Wasatch 42,US Senate,,,write-in,0
+Wasatch,Wasatch 42:1,US Senate,,,write-in,4
+Wasatch,Wasatch 43,US Senate,,,write-in,0
+Wasatch,Wasatch 43:1,US Senate,,,write-in,1
+Wasatch,Wasatch 44,US Senate,,,write-in,2
+Wasatch,Wasatch 44:1,US Senate,,,write-in,0
+Wasatch,Wasatch 50,US Senate,,,write-in,0
+Wasatch,Wasatch 51,US Senate,,,write-in,0
+Wasatch,Wasatch 52,US Senate,,,write-in,2
+Wasatch,Wasatch 53,US Senate,,,write-in,1
+Wasatch,Wasatch 54,US Senate,,,write-in,0
+Wasatch,Wasatch 54:1,US Senate,,,write-in,0
+Wasatch,Wasatch 54:2,US Senate,,,write-in,0
+Wasatch,Wasatch 54:3,US Senate,,,write-in,1
+Wasatch,Wasatch 55,US Senate,,,write-in,0
+Wasatch,Wasatch 55:1,US Senate,,,write-in,1
+Wasatch,WASATCH UT,US Senate,,,write-in,39
+Wasatch,Wasatch 10,US House,3,Rep,John Curtis,115
+Wasatch,Wasatch 11,US House,3,Rep,John Curtis,140
+Wasatch,Wasatch 12,US House,3,Rep,John Curtis,157
+Wasatch,Wasatch 13,US House,3,Rep,John Curtis,207
+Wasatch,Wasatch 14,US House,3,Rep,John Curtis,554
+Wasatch,Wasatch 20,US House,3,Rep,John Curtis,222
+Wasatch,Wasatch 21,US House,3,Rep,John Curtis,148
+Wasatch,Wasatch 22,US House,3,Rep,John Curtis,256
+Wasatch,Wasatch 23,US House,3,Rep,John Curtis,297
+Wasatch,Wasatch 24,US House,3,Rep,John Curtis,70
+Wasatch,Wasatch 24:1,US House,3,Rep,John Curtis,217
+Wasatch,Wasatch 25,US House,3,Rep,John Curtis,289
+Wasatch,Wasatch 30,US House,3,Rep,John Curtis,394
+Wasatch,Wasatch 30:1,US House,3,Rep,John Curtis,46
+Wasatch,Wasatch 31,US House,3,Rep,John Curtis,429
+Wasatch,Wasatch 31:1,US House,3,Rep,John Curtis,28
+Wasatch,Wasatch 32,US House,3,Rep,John Curtis,100
+Wasatch,Wasatch 32:1,US House,3,Rep,John Curtis,39
+Wasatch,Wasatch 33,US House,3,Rep,John Curtis,183
+Wasatch,Wasatch 33:1,US House,3,Rep,John Curtis,166
+Wasatch,Wasatch 34,US House,3,Rep,John Curtis,245
+Wasatch,Wasatch 40,US House,3,Rep,John Curtis,355
+Wasatch,Wasatch 41,US House,3,Rep,John Curtis,44
+Wasatch,Wasatch 42,US House,3,Rep,John Curtis,71
+Wasatch,Wasatch 42:1,US House,3,Rep,John Curtis,371
+Wasatch,Wasatch 43,US House,3,Rep,John Curtis,5
+Wasatch,Wasatch 43:1,US House,3,Rep,John Curtis,276
+Wasatch,Wasatch 44,US House,3,Rep,John Curtis,211
+Wasatch,Wasatch 44:1,US House,3,Rep,John Curtis,93
+Wasatch,Wasatch 50,US House,3,Rep,John Curtis,322
+Wasatch,Wasatch 51,US House,3,Rep,John Curtis,557
+Wasatch,Wasatch 52,US House,3,Rep,John Curtis,412
+Wasatch,Wasatch 53,US House,3,Rep,John Curtis,484
+Wasatch,Wasatch 54,US House,3,Rep,John Curtis,24
+Wasatch,Wasatch 54:1,US House,3,Rep,John Curtis,2
+Wasatch,Wasatch 54:2,US House,3,Rep,John Curtis,44
+Wasatch,Wasatch 54:3,US House,3,Rep,John Curtis,140
+Wasatch,Wasatch 55,US House,3,Rep,John Curtis,26
+Wasatch,Wasatch 55:1,US House,3,Rep,John Curtis,155
+Wasatch,WASATCH UT,US House,3,Rep,John Curtis,7894
+Wasatch,Wasatch 10,US House,3,Dem,James Singer,157
+Wasatch,Wasatch 11,US House,3,Dem,James Singer,117
+Wasatch,Wasatch 12,US House,3,Dem,James Singer,104
+Wasatch,Wasatch 13,US House,3,Dem,James Singer,87
+Wasatch,Wasatch 14,US House,3,Dem,James Singer,175
+Wasatch,Wasatch 20,US House,3,Dem,James Singer,120
+Wasatch,Wasatch 21,US House,3,Dem,James Singer,53
+Wasatch,Wasatch 22,US House,3,Dem,James Singer,54
+Wasatch,Wasatch 23,US House,3,Dem,James Singer,123
+Wasatch,Wasatch 24,US House,3,Dem,James Singer,22
+Wasatch,Wasatch 24:1,US House,3,Dem,James Singer,87
+Wasatch,Wasatch 25,US House,3,Dem,James Singer,75
+Wasatch,Wasatch 30,US House,3,Dem,James Singer,499
+Wasatch,Wasatch 30:1,US House,3,Dem,James Singer,77
+Wasatch,Wasatch 31,US House,3,Dem,James Singer,100
+Wasatch,Wasatch 31:1,US House,3,Dem,James Singer,5
+Wasatch,Wasatch 32,US House,3,Dem,James Singer,23
+Wasatch,Wasatch 32:1,US House,3,Dem,James Singer,4
+Wasatch,Wasatch 33,US House,3,Dem,James Singer,63
+Wasatch,Wasatch 33:1,US House,3,Dem,James Singer,136
+Wasatch,Wasatch 34,US House,3,Dem,James Singer,80
+Wasatch,Wasatch 40,US House,3,Dem,James Singer,144
+Wasatch,Wasatch 41,US House,3,Dem,James Singer,42
+Wasatch,Wasatch 42,US House,3,Dem,James Singer,14
+Wasatch,Wasatch 42:1,US House,3,Dem,James Singer,146
+Wasatch,Wasatch 43,US House,3,Dem,James Singer,3
+Wasatch,Wasatch 43:1,US House,3,Dem,James Singer,88
+Wasatch,Wasatch 44,US House,3,Dem,James Singer,33
+Wasatch,Wasatch 44:1,US House,3,Dem,James Singer,23
+Wasatch,Wasatch 50,US House,3,Dem,James Singer,143
+Wasatch,Wasatch 51,US House,3,Dem,James Singer,253
+Wasatch,Wasatch 52,US House,3,Dem,James Singer,234
+Wasatch,Wasatch 53,US House,3,Dem,James Singer,173
+Wasatch,Wasatch 54,US House,3,Dem,James Singer,24
+Wasatch,Wasatch 54:1,US House,3,Dem,James Singer,2
+Wasatch,Wasatch 54:2,US House,3,Dem,James Singer,71
+Wasatch,Wasatch 54:3,US House,3,Dem,James Singer,37
+Wasatch,Wasatch 55,US House,3,Dem,James Singer,6
+Wasatch,Wasatch 55:1,US House,3,Dem,James Singer,61
+Wasatch,WASATCH UT,US House,3,Dem,James Singer,3657
+Wasatch,Wasatch 10,US House,3,IAP,Greg Duerden,7
+Wasatch,Wasatch 11,US House,3,IAP,Greg Duerden,7
+Wasatch,Wasatch 12,US House,3,IAP,Greg Duerden,6
+Wasatch,Wasatch 13,US House,3,IAP,Greg Duerden,14
+Wasatch,Wasatch 14,US House,3,IAP,Greg Duerden,13
+Wasatch,Wasatch 20,US House,3,IAP,Greg Duerden,5
+Wasatch,Wasatch 21,US House,3,IAP,Greg Duerden,1
+Wasatch,Wasatch 22,US House,3,IAP,Greg Duerden,8
+Wasatch,Wasatch 23,US House,3,IAP,Greg Duerden,4
+Wasatch,Wasatch 24,US House,3,IAP,Greg Duerden,1
+Wasatch,Wasatch 24:1,US House,3,IAP,Greg Duerden,9
+Wasatch,Wasatch 25,US House,3,IAP,Greg Duerden,5
+Wasatch,Wasatch 30,US House,3,IAP,Greg Duerden,13
+Wasatch,Wasatch 30:1,US House,3,IAP,Greg Duerden,0
+Wasatch,Wasatch 31,US House,3,IAP,Greg Duerden,19
+Wasatch,Wasatch 31:1,US House,3,IAP,Greg Duerden,1
+Wasatch,Wasatch 32,US House,3,IAP,Greg Duerden,6
+Wasatch,Wasatch 32:1,US House,3,IAP,Greg Duerden,0
+Wasatch,Wasatch 33,US House,3,IAP,Greg Duerden,2
+Wasatch,Wasatch 33:1,US House,3,IAP,Greg Duerden,8
+Wasatch,Wasatch 34,US House,3,IAP,Greg Duerden,2
+Wasatch,Wasatch 40,US House,3,IAP,Greg Duerden,13
+Wasatch,Wasatch 41,US House,3,IAP,Greg Duerden,6
+Wasatch,Wasatch 42,US House,3,IAP,Greg Duerden,0
+Wasatch,Wasatch 42:1,US House,3,IAP,Greg Duerden,7
+Wasatch,Wasatch 43,US House,3,IAP,Greg Duerden,0
+Wasatch,Wasatch 43:1,US House,3,IAP,Greg Duerden,9
+Wasatch,Wasatch 44,US House,3,IAP,Greg Duerden,8
+Wasatch,Wasatch 44:1,US House,3,IAP,Greg Duerden,0
+Wasatch,Wasatch 50,US House,3,IAP,Greg Duerden,11
+Wasatch,Wasatch 51,US House,3,IAP,Greg Duerden,9
+Wasatch,Wasatch 52,US House,3,IAP,Greg Duerden,14
+Wasatch,Wasatch 53,US House,3,IAP,Greg Duerden,14
+Wasatch,Wasatch 54,US House,3,IAP,Greg Duerden,1
+Wasatch,Wasatch 54:1,US House,3,IAP,Greg Duerden,0
+Wasatch,Wasatch 54:2,US House,3,IAP,Greg Duerden,1
+Wasatch,Wasatch 54:3,US House,3,IAP,Greg Duerden,0
+Wasatch,Wasatch 55,US House,3,IAP,Greg Duerden,2
+Wasatch,Wasatch 55:1,US House,3,IAP,Greg Duerden,8
+Wasatch,WASATCH UT,US House,3,IAP,Greg Duerden,242
+Wasatch,Wasatch 10,US House,3,UUP,Tim Zeidner,5
+Wasatch,Wasatch 11,US House,3,UUP,Tim Zeidner,6
+Wasatch,Wasatch 12,US House,3,UUP,Tim Zeidner,7
+Wasatch,Wasatch 13,US House,3,UUP,Tim Zeidner,9
+Wasatch,Wasatch 14,US House,3,UUP,Tim Zeidner,7
+Wasatch,Wasatch 20,US House,3,UUP,Tim Zeidner,14
+Wasatch,Wasatch 21,US House,3,UUP,Tim Zeidner,7
+Wasatch,Wasatch 22,US House,3,UUP,Tim Zeidner,1
+Wasatch,Wasatch 23,US House,3,UUP,Tim Zeidner,8
+Wasatch,Wasatch 24,US House,3,UUP,Tim Zeidner,0
+Wasatch,Wasatch 24:1,US House,3,UUP,Tim Zeidner,13
+Wasatch,Wasatch 25,US House,3,UUP,Tim Zeidner,1
+Wasatch,Wasatch 30,US House,3,UUP,Tim Zeidner,11
+Wasatch,Wasatch 30:1,US House,3,UUP,Tim Zeidner,2
+Wasatch,Wasatch 31,US House,3,UUP,Tim Zeidner,8
+Wasatch,Wasatch 31:1,US House,3,UUP,Tim Zeidner,0
+Wasatch,Wasatch 32,US House,3,UUP,Tim Zeidner,3
+Wasatch,Wasatch 32:1,US House,3,UUP,Tim Zeidner,0
+Wasatch,Wasatch 33,US House,3,UUP,Tim Zeidner,4
+Wasatch,Wasatch 33:1,US House,3,UUP,Tim Zeidner,1
+Wasatch,Wasatch 34,US House,3,UUP,Tim Zeidner,5
+Wasatch,Wasatch 40,US House,3,UUP,Tim Zeidner,9
+Wasatch,Wasatch 41,US House,3,UUP,Tim Zeidner,1
+Wasatch,Wasatch 42,US House,3,UUP,Tim Zeidner,2
+Wasatch,Wasatch 42:1,US House,3,UUP,Tim Zeidner,7
+Wasatch,Wasatch 43,US House,3,UUP,Tim Zeidner,0
+Wasatch,Wasatch 43:1,US House,3,UUP,Tim Zeidner,3
+Wasatch,Wasatch 44,US House,3,UUP,Tim Zeidner,4
+Wasatch,Wasatch 44:1,US House,3,UUP,Tim Zeidner,2
+Wasatch,Wasatch 50,US House,3,UUP,Tim Zeidner,4
+Wasatch,Wasatch 51,US House,3,UUP,Tim Zeidner,19
+Wasatch,Wasatch 52,US House,3,UUP,Tim Zeidner,8
+Wasatch,Wasatch 53,US House,3,UUP,Tim Zeidner,9
+Wasatch,Wasatch 54,US House,3,UUP,Tim Zeidner,1
+Wasatch,Wasatch 54:1,US House,3,UUP,Tim Zeidner,0
+Wasatch,Wasatch 54:2,US House,3,UUP,Tim Zeidner,2
+Wasatch,Wasatch 54:3,US House,3,UUP,Tim Zeidner,4
+Wasatch,Wasatch 55,US House,3,UUP,Tim Zeidner,1
+Wasatch,Wasatch 55:1,US House,3,UUP,Tim Zeidner,4
+Wasatch,WASATCH UT,US House,3,UUP,Tim Zeidner,184
+Wasatch,Wasatch 54:1,State Senate,26,Dem,Eileen Gallagher,2
+Wasatch,Wasatch 31:1,State Senate,26,Dem,Eileen Gallagher,6
+Wasatch,Wasatch 42,State Senate,26,Dem,Eileen Gallagher,20
+Wasatch,Wasatch 54,State Senate,26,Dem,Eileen Gallagher,26
+Wasatch,Wasatch 24,State Senate,26,Dem,Eileen Gallagher,27
+Wasatch,Wasatch 41,State Senate,26,Dem,Eileen Gallagher,41
+Wasatch,Wasatch 54:3,State Senate,26,Dem,Eileen Gallagher,45
+Wasatch,Wasatch 21,State Senate,26,Dem,Eileen Gallagher,73
+Wasatch,Wasatch 22,State Senate,26,Dem,Eileen Gallagher,80
+Wasatch,Wasatch 54:2,State Senate,26,Dem,Eileen Gallagher,81
+Wasatch,Wasatch 30:1,State Senate,26,Dem,Eileen Gallagher,87
+Wasatch,Wasatch 34,State Senate,26,Dem,Eileen Gallagher,92
+Wasatch,Wasatch 24:1,State Senate,26,Dem,Eileen Gallagher,103
+Wasatch,Wasatch 25,State Senate,26,Dem,Eileen Gallagher,103
+Wasatch,Wasatch 13,State Senate,26,Dem,Eileen Gallagher,108
+Wasatch,Wasatch 31,State Senate,26,Dem,Eileen Gallagher,118
+Wasatch,Wasatch 12,State Senate,26,Dem,Eileen Gallagher,123
+Wasatch,Wasatch 11,State Senate,26,Dem,Eileen Gallagher,134
+Wasatch,Wasatch 23,State Senate,26,Dem,Eileen Gallagher,147
+Wasatch,Wasatch 20,State Senate,26,Dem,Eileen Gallagher,151
+Wasatch,Wasatch 50,State Senate,26,Dem,Eileen Gallagher,171
+Wasatch,Wasatch 10,State Senate,26,Dem,Eileen Gallagher,175
+Wasatch,Wasatch 40,State Senate,26,Dem,Eileen Gallagher,177
+Wasatch,Wasatch 42:1,State Senate,26,Dem,Eileen Gallagher,178
+Wasatch,Wasatch 53,State Senate,26,Dem,Eileen Gallagher,218
+Wasatch,Wasatch 14,State Senate,26,Dem,Eileen Gallagher,224
+Wasatch,Wasatch 52,State Senate,26,Dem,Eileen Gallagher,258
+Wasatch,Wasatch 51,State Senate,26,Dem,Eileen Gallagher,311
+Wasatch,Wasatch 30,State Senate,26,Dem,Eileen Gallagher,555
+Wasatch,WASATCH UT,State Senate,26,Dem,Eileen Gallagher,3834
+Wasatch,Wasatch 10,State Senate,26,Rep,Ronald Winterton,100
+Wasatch,Wasatch 54:1,State Senate,26,Rep,Ronald Winterton,2
+Wasatch,Wasatch 54,State Senate,26,Rep,Ronald Winterton,25
+Wasatch,Wasatch 31:1,State Senate,26,Rep,Ronald Winterton,28
+Wasatch,Wasatch 54:2,State Senate,26,Rep,Ronald Winterton,36
+Wasatch,Wasatch 30:1,State Senate,26,Rep,Ronald Winterton,38
+Wasatch,Wasatch 41,State Senate,26,Rep,Ronald Winterton,51
+Wasatch,Wasatch 42,State Senate,26,Rep,Ronald Winterton,63
+Wasatch,Wasatch 24,State Senate,26,Rep,Ronald Winterton,65
+Wasatch,Wasatch 54:3,State Senate,26,Rep,Ronald Winterton,127
+Wasatch,Wasatch 11,State Senate,26,Rep,Ronald Winterton,128
+Wasatch,Wasatch 21,State Senate,26,Rep,Ronald Winterton,132
+Wasatch,Wasatch 12,State Senate,26,Rep,Ronald Winterton,145
+Wasatch,Wasatch 13,State Senate,26,Rep,Ronald Winterton,196
+Wasatch,Wasatch 20,State Senate,26,Rep,Ronald Winterton,196
+Wasatch,Wasatch 24:1,State Senate,26,Rep,Ronald Winterton,202
+Wasatch,Wasatch 22,State Senate,26,Rep,Ronald Winterton,231
+Wasatch,Wasatch 34,State Senate,26,Rep,Ronald Winterton,237
+Wasatch,Wasatch 25,State Senate,26,Rep,Ronald Winterton,254
+Wasatch,Wasatch 23,State Senate,26,Rep,Ronald Winterton,270
+Wasatch,Wasatch 50,State Senate,26,Rep,Ronald Winterton,298
+Wasatch,Wasatch 40,State Senate,26,Rep,Ronald Winterton,327
+Wasatch,Wasatch 42:1,State Senate,26,Rep,Ronald Winterton,341
+Wasatch,Wasatch 30,State Senate,26,Rep,Ronald Winterton,342
+Wasatch,Wasatch 52,State Senate,26,Rep,Ronald Winterton,389
+Wasatch,Wasatch 31,State Senate,26,Rep,Ronald Winterton,429
+Wasatch,Wasatch 53,State Senate,26,Rep,Ronald Winterton,446
+Wasatch,Wasatch 51,State Senate,26,Rep,Ronald Winterton,501
+Wasatch,Wasatch 14,State Senate,26,Rep,Ronald Winterton,512
+Wasatch,WASATCH UT,State Senate,26,Rep,Ronald Winterton,6111
+Wasatch,Wasatch 10,State Senate,26,UUP,Cathy Callow-Heuser,8
+Wasatch,Wasatch 31:1,State Senate,26,UUP,Cathy Callow-Heuser,0
+Wasatch,Wasatch 41,State Senate,26,UUP,Cathy Callow-Heuser,0
+Wasatch,Wasatch 54,State Senate,26,UUP,Cathy Callow-Heuser,0
+Wasatch,Wasatch 54:1,State Senate,26,UUP,Cathy Callow-Heuser,0
+Wasatch,Wasatch 30:1,State Senate,26,UUP,Cathy Callow-Heuser,1
+Wasatch,Wasatch 24,State Senate,26,UUP,Cathy Callow-Heuser,2
+Wasatch,Wasatch 34,State Senate,26,UUP,Cathy Callow-Heuser,3
+Wasatch,Wasatch 42,State Senate,26,UUP,Cathy Callow-Heuser,3
+Wasatch,Wasatch 54:2,State Senate,26,UUP,Cathy Callow-Heuser,3
+Wasatch,Wasatch 54:3,State Senate,26,UUP,Cathy Callow-Heuser,4
+Wasatch,Wasatch 21,State Senate,26,UUP,Cathy Callow-Heuser,5
+Wasatch,Wasatch 22,State Senate,26,UUP,Cathy Callow-Heuser,6
+Wasatch,Wasatch 12,State Senate,26,UUP,Cathy Callow-Heuser,7
+Wasatch,Wasatch 25,State Senate,26,UUP,Cathy Callow-Heuser,7
+Wasatch,Wasatch 14,State Senate,26,UUP,Cathy Callow-Heuser,8
+Wasatch,Wasatch 13,State Senate,26,UUP,Cathy Callow-Heuser,9
+Wasatch,Wasatch 11,State Senate,26,UUP,Cathy Callow-Heuser,11
+Wasatch,Wasatch 31,State Senate,26,UUP,Cathy Callow-Heuser,11
+Wasatch,Wasatch 50,State Senate,26,UUP,Cathy Callow-Heuser,11
+Wasatch,Wasatch 30,State Senate,26,UUP,Cathy Callow-Heuser,12
+Wasatch,Wasatch 42:1,State Senate,26,UUP,Cathy Callow-Heuser,12
+Wasatch,Wasatch 20,State Senate,26,UUP,Cathy Callow-Heuser,13
+Wasatch,Wasatch 23,State Senate,26,UUP,Cathy Callow-Heuser,13
+Wasatch,Wasatch 53,State Senate,26,UUP,Cathy Callow-Heuser,13
+Wasatch,Wasatch 52,State Senate,26,UUP,Cathy Callow-Heuser,15
+Wasatch,Wasatch 24:1,State Senate,26,UUP,Cathy Callow-Heuser,17
+Wasatch,Wasatch 40,State Senate,26,UUP,Cathy Callow-Heuser,18
+Wasatch,Wasatch 51,State Senate,26,UUP,Cathy Callow-Heuser,20
+Wasatch,WASATCH UT,State Senate,26,UUP,Cathy Callow-Heuser,233
+Wasatch,Wasatch 10,State House,54,Dem,Meaghan Miller,173
+Wasatch,Wasatch 11,State House,54,Dem,Meaghan Miller,128
+Wasatch,Wasatch 12,State House,54,Dem,Meaghan Miller,127
+Wasatch,Wasatch 13,State House,54,Dem,Meaghan Miller,109
+Wasatch,Wasatch 14,State House,54,Dem,Meaghan Miller,211
+Wasatch,Wasatch 20,State House,54,Dem,Meaghan Miller,143
+Wasatch,Wasatch 21,State House,54,Dem,Meaghan Miller,63
+Wasatch,Wasatch 22,State House,54,Dem,Meaghan Miller,80
+Wasatch,Wasatch 23,State House,54,Dem,Meaghan Miller,158
+Wasatch,Wasatch 24,State House,54,Dem,Meaghan Miller,32
+Wasatch,Wasatch 24:1,State House,54,Dem,Meaghan Miller,117
+Wasatch,Wasatch 25,State House,54,Dem,Meaghan Miller,101
+Wasatch,Wasatch 30,State House,54,Dem,Meaghan Miller,531
+Wasatch,Wasatch 30:1,State House,54,Dem,Meaghan Miller,77
+Wasatch,Wasatch 31,State House,54,Dem,Meaghan Miller,130
+Wasatch,Wasatch 31:1,State House,54,Dem,Meaghan Miller,11
+Wasatch,Wasatch 32,State House,54,Dem,Meaghan Miller,35
+Wasatch,Wasatch 32:1,State House,54,Dem,Meaghan Miller,5
+Wasatch,Wasatch 33,State House,54,Dem,Meaghan Miller,81
+Wasatch,Wasatch 33:1,State House,54,Dem,Meaghan Miller,150
+Wasatch,Wasatch 34,State House,54,Dem,Meaghan Miller,87
+Wasatch,Wasatch 40,State House,54,Dem,Meaghan Miller,174
+Wasatch,Wasatch 41,State House,54,Dem,Meaghan Miller,43
+Wasatch,Wasatch 42,State House,54,Dem,Meaghan Miller,20
+Wasatch,Wasatch 42:1,State House,54,Dem,Meaghan Miller,170
+Wasatch,Wasatch 43,State House,54,Dem,Meaghan Miller,3
+Wasatch,Wasatch 43:1,State House,54,Dem,Meaghan Miller,107
+Wasatch,Wasatch 44,State House,54,Dem,Meaghan Miller,46
+Wasatch,Wasatch 44:1,State House,54,Dem,Meaghan Miller,32
+Wasatch,Wasatch 50,State House,54,Dem,Meaghan Miller,170
+Wasatch,Wasatch 51,State House,54,Dem,Meaghan Miller,309
+Wasatch,Wasatch 52,State House,54,Dem,Meaghan Miller,266
+Wasatch,Wasatch 53,State House,54,Dem,Meaghan Miller,215
+Wasatch,Wasatch 54,State House,54,Dem,Meaghan Miller,26
+Wasatch,Wasatch 54:1,State House,54,Dem,Meaghan Miller,2
+Wasatch,Wasatch 54:2,State House,54,Dem,Meaghan Miller,82
+Wasatch,Wasatch 54:3,State House,54,Dem,Meaghan Miller,47
+Wasatch,Wasatch 55,State House,54,Dem,Meaghan Miller,8
+Wasatch,Wasatch 55:1,State House,54,Dem,Meaghan Miller,66
+Wasatch,WASATCH UT,State House,54,Dem,Meaghan Miller,4335
+Wasatch,Wasatch 10,State House,54,Rep,Tim Quinn,113
+Wasatch,Wasatch 11,State House,54,Rep,Tim Quinn,145
+Wasatch,Wasatch 12,State House,54,Rep,Tim Quinn,147
+Wasatch,Wasatch 13,State House,54,Rep,Tim Quinn,203
+Wasatch,Wasatch 14,State House,54,Rep,Tim Quinn,540
+Wasatch,Wasatch 20,State House,54,Rep,Tim Quinn,217
+Wasatch,Wasatch 21,State House,54,Rep,Tim Quinn,148
+Wasatch,Wasatch 22,State House,54,Rep,Tim Quinn,238
+Wasatch,Wasatch 23,State House,54,Rep,Tim Quinn,284
+Wasatch,Wasatch 24,State House,54,Rep,Tim Quinn,63
+Wasatch,Wasatch 24:1,State House,54,Rep,Tim Quinn,207
+Wasatch,Wasatch 25,State House,54,Rep,Tim Quinn,270
+Wasatch,Wasatch 30,State House,54,Rep,Tim Quinn,382
+Wasatch,Wasatch 30:1,State House,54,Rep,Tim Quinn,49
+Wasatch,Wasatch 31,State House,54,Rep,Tim Quinn,437
+Wasatch,Wasatch 31:1,State House,54,Rep,Tim Quinn,24
+Wasatch,Wasatch 32,State House,54,Rep,Tim Quinn,100
+Wasatch,Wasatch 32:1,State House,54,Rep,Tim Quinn,39
+Wasatch,Wasatch 33,State House,54,Rep,Tim Quinn,173
+Wasatch,Wasatch 33:1,State House,54,Rep,Tim Quinn,161
+Wasatch,Wasatch 34,State House,54,Rep,Tim Quinn,245
+Wasatch,Wasatch 40,State House,54,Rep,Tim Quinn,352
+Wasatch,Wasatch 41,State House,54,Rep,Tim Quinn,48
+Wasatch,Wasatch 42,State House,54,Rep,Tim Quinn,68
+Wasatch,Wasatch 42:1,State House,54,Rep,Tim Quinn,365
+Wasatch,Wasatch 43,State House,54,Rep,Tim Quinn,5
+Wasatch,Wasatch 43:1,State House,54,Rep,Tim Quinn,276
+Wasatch,Wasatch 44,State House,54,Rep,Tim Quinn,204
+Wasatch,Wasatch 44:1,State House,54,Rep,Tim Quinn,87
+Wasatch,Wasatch 50,State House,54,Rep,Tim Quinn,305
+Wasatch,Wasatch 51,State House,54,Rep,Tim Quinn,535
+Wasatch,Wasatch 52,State House,54,Rep,Tim Quinn,399
+Wasatch,Wasatch 53,State House,54,Rep,Tim Quinn,449
+Wasatch,Wasatch 54,State House,54,Rep,Tim Quinn,25
+Wasatch,Wasatch 54:1,State House,54,Rep,Tim Quinn,2
+Wasatch,Wasatch 54:2,State House,54,Rep,Tim Quinn,37
+Wasatch,Wasatch 54:3,State House,54,Rep,Tim Quinn,130
+Wasatch,Wasatch 55,State House,54,Rep,Tim Quinn,27
+Wasatch,Wasatch 55:1,State House,54,Rep,Tim Quinn,163
+Wasatch,WASATCH UT,State House,54,Rep,Tim Quinn,7662
