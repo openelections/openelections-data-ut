@@ -1,0 +1,567 @@
+county,office,district,party,candidate,votes
+Beaver,U.S. Senate,,LIB,Craig R. Bowden,45
+Box Elder,U.S. Senate,,LIB,Craig R. Bowden,533
+Cache,U.S. Senate,,LIB,Craig R. Bowden,1106
+Carbon,U.S. Senate,,LIB,Craig R. Bowden,168
+Daggett,U.S. Senate,,LIB,Craig R. Bowden,7
+Davis,U.S. Senate,,LIB,Craig R. Bowden,3232
+Duchesne,U.S. Senate,,LIB,Craig R. Bowden,112
+Emery,U.S. Senate,,LIB,Craig R. Bowden,73
+Garfield,U.S. Senate,,LIB,Craig R. Bowden,36
+Grand,U.S. Senate,,LIB,Craig R. Bowden,110
+Iron,U.S. Senate,,LIB,Craig R. Bowden,597
+Juab,U.S. Senate,,LIB,Craig R. Bowden,80
+Kane,U.S. Senate,,LIB,Craig R. Bowden,89
+Millard,U.S. Senate,,LIB,Craig R. Bowden,90
+Morgan,U.S. Senate,,LIB,Craig R. Bowden,124
+Piute,U.S. Senate,,LIB,Craig R. Bowden,21
+Rich,U.S. Senate,,LIB,Craig R. Bowden,24
+Salt Lake,U.S. Senate,,LIB,Craig R. Bowden,9854
+San Juan,U.S. Senate,,LIB,Craig R. Bowden,127
+Sanpete,U.S. Senate,,LIB,Craig R. Bowden,133
+Sevier,U.S. Senate,,LIB,Craig R. Bowden,173
+Summit,U.S. Senate,,LIB,Craig R. Bowden,383
+Tooele,U.S. Senate,,LIB,Craig R. Bowden,726
+Uintah,U.S. Senate,,LIB,Craig R. Bowden,306
+Utah,U.S. Senate,,LIB,Craig R. Bowden,4635
+Wasatch,U.S. Senate,,LIB,Craig R. Bowden,222
+Washington,U.S. Senate,,LIB,Craig R. Bowden,1885
+Wayne,U.S. Senate,,LIB,Craig R. Bowden,25
+Weber,U.S. Senate,,LIB,Craig R. Bowden,2691
+Beaver,U.S. Senate,,DEM,Jenny Wilson,298
+Box Elder,U.S. Senate,,DEM,Jenny Wilson,2603
+Cache,U.S. Senate,,DEM,Jenny Wilson,8854
+Carbon,U.S. Senate,,DEM,Jenny Wilson,1879
+Daggett,U.S. Senate,,DEM,Jenny Wilson,80
+Davis,U.S. Senate,,DEM,Jenny Wilson,29249
+Duchesne,U.S. Senate,,DEM,Jenny Wilson,569
+Emery,U.S. Senate,,DEM,Jenny Wilson,509
+Garfield,U.S. Senate,,DEM,Jenny Wilson,388
+Grand,U.S. Senate,,DEM,Jenny Wilson,2138
+Iron,U.S. Senate,,DEM,Jenny Wilson,2846
+Juab,U.S. Senate,,DEM,Jenny Wilson,492
+Kane,U.S. Senate,,DEM,Jenny Wilson,746
+Millard,U.S. Senate,,DEM,Jenny Wilson,512
+Morgan,U.S. Senate,,DEM,Jenny Wilson,600
+Piute,U.S. Senate,,DEM,Jenny Wilson,77
+Rich,U.S. Senate,,DEM,Jenny Wilson,124
+Salt Lake,U.S. Senate,,DEM,Jenny Wilson,186856
+San Juan,U.S. Senate,,DEM,Jenny Wilson,2096
+Sanpete,U.S. Senate,,DEM,Jenny Wilson,1139
+Sevier,U.S. Senate,,DEM,Jenny Wilson,771
+Summit,U.S. Senate,,DEM,Jenny Wilson,10229
+Tooele,U.S. Senate,,DEM,Jenny Wilson,5491
+Uintah,U.S. Senate,,DEM,Jenny Wilson,1135
+Utah,U.S. Senate,,DEM,Jenny Wilson,28856
+Wasatch,U.S. Senate,,DEM,Jenny Wilson,3467
+Washington,U.S. Senate,,DEM,Jenny Wilson,11757
+Wayne,U.S. Senate,,DEM,Jenny Wilson,267
+Weber,U.S. Senate,,DEM,Jenny Wilson,24513
+Beaver,U.S. Senate,,REP,Mitt Romney,1620
+Box Elder,U.S. Senate,,REP,Mitt Romney,14803
+Cache,U.S. Senate,,REP,Mitt Romney,28344
+Carbon,U.S. Senate,,REP,Mitt Romney,4387
+Daggett,U.S. Senate,,REP,Mitt Romney,335
+Davis,U.S. Senate,,REP,Mitt Romney,86840
+Duchesne,U.S. Senate,,REP,Mitt Romney,4522
+Emery,U.S. Senate,,REP,Mitt Romney,3033
+Garfield,U.S. Senate,,REP,Mitt Romney,1626
+Grand,U.S. Senate,,REP,Mitt Romney,1935
+Iron,U.S. Senate,,REP,Mitt Romney,11286
+Juab,U.S. Senate,,REP,Mitt Romney,3320
+Kane,U.S. Senate,,REP,Mitt Romney,2135
+Millard,U.S. Senate,,REP,Mitt Romney,3672
+Morgan,U.S. Senate,,REP,Mitt Romney,4144
+Piute,U.S. Senate,,REP,Mitt Romney,524
+Rich,U.S. Senate,,REP,Mitt Romney,911
+Salt Lake,U.S. Senate,,REP,Mitt Romney,207719
+San Juan,U.S. Senate,,REP,Mitt Romney,2934
+Sanpete,U.S. Senate,,REP,Mitt Romney,7367
+Sevier,U.S. Senate,,REP,Mitt Romney,5810
+Summit,U.S. Senate,,REP,Mitt Romney,9170
+Tooele,U.S. Senate,,REP,Mitt Romney,14407
+Uintah,U.S. Senate,,REP,Mitt Romney,7946
+Utah,U.S. Senate,,REP,Mitt Romney,135240
+Wasatch,U.S. Senate,,REP,Mitt Romney,8126
+Washington,U.S. Senate,,REP,Mitt Romney,42602
+Wayne,U.S. Senate,,REP,Mitt Romney,999
+Weber,U.S. Senate,,REP,Mitt Romney,49458
+Beaver,U.S. Senate,,IAP,Reed C. McCandless,30
+Box Elder,U.S. Senate,,IAP,Reed C. McCandless,269
+Cache,U.S. Senate,,IAP,Reed C. McCandless,345
+Carbon,U.S. Senate,,IAP,Reed C. McCandless,217
+Daggett,U.S. Senate,,IAP,Reed C. McCandless,6
+Davis,U.S. Senate,,IAP,Reed C. McCandless,1952
+Duchesne,U.S. Senate,,IAP,Reed C. McCandless,76
+Emery,U.S. Senate,,IAP,Reed C. McCandless,169
+Garfield,U.S. Senate,,IAP,Reed C. McCandless,19
+Grand,U.S. Senate,,IAP,Reed C. McCandless,59
+Iron,U.S. Senate,,IAP,Reed C. McCandless,206
+Juab,U.S. Senate,,IAP,Reed C. McCandless,52
+Kane,U.S. Senate,,IAP,Reed C. McCandless,38
+Millard,U.S. Senate,,IAP,Reed C. McCandless,55
+Morgan,U.S. Senate,,IAP,Reed C. McCandless,49
+Piute,U.S. Senate,,IAP,Reed C. McCandless,8
+Rich,U.S. Senate,,IAP,Reed C. McCandless,5
+Salt Lake,U.S. Senate,,IAP,Reed C. McCandless,4265
+San Juan,U.S. Senate,,IAP,Reed C. McCandless,97
+Sanpete,U.S. Senate,,IAP,Reed C. McCandless,195
+Sevier,U.S. Senate,,IAP,Reed C. McCandless,113
+Summit,U.S. Senate,,IAP,Reed C. McCandless,139
+Tooele,U.S. Senate,,IAP,Reed C. McCandless,338
+Uintah,U.S. Senate,,IAP,Reed C. McCandless,158
+Utah,U.S. Senate,,IAP,Reed C. McCandless,1739
+Wasatch,U.S. Senate,,IAP,Reed C. McCandless,101
+Washington,U.S. Senate,,IAP,Reed C. McCandless,911
+Wayne,U.S. Senate,,IAP,Reed C. McCandless,17
+Weber,U.S. Senate,,IAP,Reed C. McCandless,1080
+Beaver,U.S. Senate,,CON,Tim Aalders,138
+Box Elder,U.S. Senate,,CON,Tim Aalders,718
+Cache,U.S. Senate,,CON,Tim Aalders,1250
+Carbon,U.S. Senate,,CON,Tim Aalders,237
+Daggett,U.S. Senate,,CON,Tim Aalders,11
+Davis,U.S. Senate,,CON,Tim Aalders,3005
+Duchesne,U.S. Senate,,CON,Tim Aalders,490
+Emery,U.S. Senate,,CON,Tim Aalders,88
+Garfield,U.S. Senate,,CON,Tim Aalders,71
+Grand,U.S. Senate,,CON,Tim Aalders,96
+Iron,U.S. Senate,,CON,Tim Aalders,866
+Juab,U.S. Senate,,CON,Tim Aalders,210
+Kane,U.S. Senate,,CON,Tim Aalders,109
+Millard,U.S. Senate,,CON,Tim Aalders,284
+Morgan,U.S. Senate,,CON,Tim Aalders,178
+Piute,U.S. Senate,,CON,Tim Aalders,62
+Rich,U.S. Senate,,CON,Tim Aalders,33
+Salt Lake,U.S. Senate,,CON,Tim Aalders,6759
+San Juan,U.S. Senate,,CON,Tim Aalders,139
+Sanpete,U.S. Senate,,CON,Tim Aalders,418
+Sevier,U.S. Senate,,CON,Tim Aalders,408
+Summit,U.S. Senate,,CON,Tim Aalders,289
+Tooele,U.S. Senate,,CON,Tim Aalders,992
+Uintah,U.S. Senate,,CON,Tim Aalders,711
+Utah,U.S. Senate,,CON,Tim Aalders,5097
+Wasatch,U.S. Senate,,CON,Tim Aalders,272
+Washington,U.S. Senate,,CON,Tim Aalders,3352
+Wayne,U.S. Senate,,CON,Tim Aalders,48
+Weber,U.S. Senate,,CON,Tim Aalders,2443
+Box Elder,U.S. House,1,GRN,Adam Davis,320
+Cache,U.S. House,1,GRN,Adam Davis,663
+Daggett,U.S. House,1,GRN,Adam Davis,4
+Davis,U.S. House,1,GRN,Adam Davis,1436
+Duchesne,U.S. House,1,GRN,Adam Davis,59
+Morgan,U.S. House,1,GRN,Adam Davis,74
+Rich,U.S. House,1,GRN,Adam Davis,8
+Summit,U.S. House,1,GRN,Adam Davis,350
+Uintah,U.S. House,1,GRN,Adam Davis,156
+Weber,U.S. House,1,GRN,Adam Davis,1716
+Box Elder,U.S. House,1,UUP,Eric Eliason,1705
+Cache,U.S. House,1,UUP,Eric Eliason,6988
+Daggett,U.S. House,1,UUP,Eric Eliason,29
+Davis,U.S. House,1,UUP,Eric Eliason,8344
+Duchesne,U.S. House,1,UUP,Eric Eliason,189
+Morgan,U.S. House,1,UUP,Eric Eliason,455
+Rich,U.S. House,1,UUP,Eric Eliason,50
+Summit,U.S. House,1,UUP,Eric Eliason,1664
+Uintah,U.S. House,1,UUP,Eric Eliason,404
+Weber,U.S. House,1,UUP,Eric Eliason,9719
+Box Elder,U.S. House,1,DEM,Lee Castillo,2453
+Cache,U.S. House,1,DEM,Lee Castillo,7587
+Daggett,U.S. House,1,DEM,Lee Castillo,72
+Davis,U.S. House,1,DEM,Lee Castillo,16795
+Duchesne,U.S. House,1,DEM,Lee Castillo,575
+Morgan,U.S. House,1,DEM,Lee Castillo,574
+Rich,U.S. House,1,DEM,Lee Castillo,118
+Summit,U.S. House,1,DEM,Lee Castillo,10472
+Uintah,U.S. House,1,DEM,Lee Castillo,1070
+Weber,U.S. House,1,DEM,Lee Castillo,23592
+Box Elder,U.S. House,1,REP,Rob Bishop,14456
+Cache,U.S. House,1,REP,Rob Bishop,24188
+Daggett,U.S. House,1,REP,Rob Bishop,326
+Davis,U.S. House,1,REP,Rob Bishop,46974
+Duchesne,U.S. House,1,REP,Rob Bishop,4908
+Morgan,U.S. House,1,REP,Rob Bishop,3954
+Rich,U.S. House,1,REP,Rob Bishop,908
+Summit,U.S. House,1,REP,Rob Bishop,7437
+Uintah,U.S. House,1,REP,Rob Bishop,8677
+Weber,U.S. House,1,REP,Rob Bishop,44864
+Beaver,U.S. House,2,REP,Chris Stewart,1769
+Davis,U.S. House,2,REP,Chris Stewart,33025
+Garfield,U.S. House,2,REP,Chris Stewart,1670
+Iron,U.S. House,2,REP,Chris Stewart,11945
+Juab,U.S. House,2,REP,Chris Stewart,207
+Kane,U.S. House,2,REP,Chris Stewart,2200
+Millard,U.S. House,2,REP,Chris Stewart,3992
+Piute,U.S. House,2,REP,Chris Stewart,621
+Salt Lake,U.S. House,2,REP,Chris Stewart,26564
+Sanpete,U.S. House,2,REP,Chris Stewart,4008
+Sevier,U.S. House,2,REP,Chris Stewart,6282
+Tooele,U.S. House,2,REP,Chris Stewart,14160
+Washington,U.S. House,2,REP,Chris Stewart,44026
+Wayne,U.S. House,2,REP,Chris Stewart,1020
+Beaver,U.S. House,2,LIB,Jeffrey Whipple,73
+Davis,U.S. House,2,LIB,Jeffrey Whipple,2397
+Garfield,U.S. House,2,LIB,Jeffrey Whipple,47
+Iron,U.S. House,2,LIB,Jeffrey Whipple,853
+Juab,U.S. House,2,LIB,Jeffrey Whipple,23
+Kane,U.S. House,2,LIB,Jeffrey Whipple,95
+Millard,U.S. House,2,LIB,Jeffrey Whipple,143
+Piute,U.S. House,2,LIB,Jeffrey Whipple,14
+Salt Lake,U.S. House,2,LIB,Jeffrey Whipple,4638
+Sanpete,U.S. House,2,LIB,Jeffrey Whipple,189
+Sevier,U.S. House,2,LIB,Jeffrey Whipple,263
+Tooele,U.S. House,2,LIB,Jeffrey Whipple,1417
+Washington,U.S. House,2,LIB,Jeffrey Whipple,3300
+Wayne,U.S. House,2,LIB,Jeffrey Whipple,52
+Beaver,U.S. House,2,DEM,Shireen Ghorbani,277
+Davis,U.S. House,2,DEM,Shireen Ghorbani,15109
+Garfield,U.S. House,2,DEM,Shireen Ghorbani,427
+Iron,U.S. House,2,DEM,Shireen Ghorbani,2919
+Juab,U.S. House,2,DEM,Shireen Ghorbani,82
+Kane,U.S. House,2,DEM,Shireen Ghorbani,798
+Millard,U.S. House,2,DEM,Shireen Ghorbani,491
+Piute,U.S. House,2,DEM,Shireen Ghorbani,60
+Salt Lake,U.S. House,2,DEM,Shireen Ghorbani,64167
+Sanpete,U.S. House,2,DEM,Shireen Ghorbani,580
+Sevier,U.S. House,2,DEM,Shireen Ghorbani,759
+Tooele,U.S. House,2,DEM,Shireen Ghorbani,6142
+Washington,U.S. House,2,DEM,Shireen Ghorbani,12954
+Wayne,U.S. House,2,DEM,Shireen Ghorbani,286
+Carbon,U.S. House,3,IAP,Gregory C. Duerden,220
+Emery,U.S. House,3,IAP,Gregory C. Duerden,132
+Grand,U.S. House,3,IAP,Gregory C. Duerden,80
+Salt Lake,U.S. House,3,IAP,Gregory C. Duerden,1571
+San Juan,U.S. House,3,IAP,Gregory C. Duerden,156
+Utah,U.S. House,3,IAP,Gregory C. Duerden,4285
+Wasatch,U.S. House,3,IAP,Gregory C. Duerden,242
+Carbon,U.S. House,3,DEM,James Courage Singer,1804
+Emery,U.S. House,3,DEM,James Courage Singer,438
+Grand,U.S. House,3,DEM,James Courage Singer,2231
+Salt Lake,U.S. House,3,DEM,James Courage Singer,36268
+San Juan,U.S. House,3,DEM,James Courage Singer,2283
+Utah,U.S. House,3,DEM,James Courage Singer,24005
+Wasatch,U.S. House,3,DEM,James Courage Singer,3657
+Carbon,U.S. House,3,REP,John Curtis,4726
+Emery,U.S. House,3,REP,John Curtis,3208
+Grand,U.S. House,3,REP,John Curtis,1961
+Salt Lake,U.S. House,3,REP,John Curtis,45787
+San Juan,U.S. House,3,REP,John Curtis,2761
+Utah,U.S. House,3,REP,John Curtis,108519
+Wasatch,U.S. House,3,REP,John Curtis,7894
+Carbon,U.S. House,3,UUP,Timothy L. Zeidner,102
+Emery,U.S. House,3,UUP,Timothy L. Zeidner,35
+Grand,U.S. House,3,UUP,Timothy L. Zeidner,37
+Salt Lake,U.S. House,3,UUP,Timothy L. Zeidner,2152
+San Juan,U.S. House,3,UUP,Timothy L. Zeidner,105
+Utah,U.S. House,3,UUP,Timothy L. Zeidner,4015
+Wasatch,U.S. House,3,UUP,Timothy L. Zeidner,184
+Juab,U.S. House,4,DEM,Ben McAdams,698
+Salt Lake,U.S. House,4,DEM,Ben McAdams,124754
+Sanpete,U.S. House,4,DEM,Ben McAdams,996
+Utah,U.S. House,4,DEM,Ben McAdams,8516
+Juab,U.S. House,4,REP,Mia B. Love,2707
+Salt Lake,U.S. House,4,REP,Mia B. Love,104742
+Sanpete,U.S. House,4,REP,Mia B. Love,3389
+Utah,U.S. House,4,REP,Mia B. Love,23432
+Salt Lake,State Senate,2,REP,Chase Winder,10030
+Salt Lake,State Senate,2,DEM,Derek Lloyd Kitchen,32930
+Salt Lake,State Senate,3,DEM,Gene Davis,22362
+Salt Lake,State Senate,3,REP,Jeremy D. Egan,9566
+Salt Lake,State Senate,4,REP,Alan Monsen,17000
+Salt Lake,State Senate,4,DEM,Jani Iwamoto,34651
+Salt Lake,State Senate,5,DEM,Karen Mayne,17129
+Salt Lake,State Senate,5,REP,Kimdyl Allen,7814
+Salt Lake,State Senate,8,REP,Brian Zehnder,17328
+Salt Lake,State Senate,8,UUP,John Jackson,1053
+Salt Lake,State Senate,8,DEM,Kathleen Riebe,23221
+Salt Lake,State Senate,9,UUP,Alexander Castagno,12639
+Salt Lake,State Senate,9,REP,Kirk A. Cullimore Jr.,24410
+Salt Lake,State Senate,11,DEM,Christian Burridge,12449
+Utah,State Senate,11,DEM,Christian Burridge,878
+Salt Lake,State Senate,11,REP,Dan McCay,26189
+Utah,State Senate,11,REP,Dan McCay,1806
+Salt Lake,State Senate,12,GRN,Abrian B. Velarde,781
+Tooele,State Senate,12,GRN,Abrian B. Velarde,444
+Salt Lake,State Senate,12,DEM,Clare Collard,8426
+Tooele,State Senate,12,DEM,Clare Collard,3974
+Salt Lake,State Senate,12,REP,Daniel W. Thatcher,7605
+Tooele,State Senate,12,REP,Daniel W. Thatcher,6230
+Utah,State Senate,15,REP,Keith Grover,20010
+Utah,State Senate,15,UUP,Lee D. Houghton,3425
+Utah,State Senate,15,IAP,Tommy Williams,2738
+Box Elder,State Senate,17,DEM,Michael A. Keil,3240
+Cache,State Senate,17,DEM,Michael A. Keil,1359
+Tooele,State Senate,17,DEM,Michael A. Keil,3511
+Box Elder,State Senate,17,REP,Scott Sandall,15317
+Cache,State Senate,17,REP,Scott Sandall,5942
+Tooele,State Senate,17,REP,Scott Sandall,7212
+Davis,State Senate,18,REP,Ann Millner,2841
+Morgan,State Senate,18,REP,Ann Millner,3810
+Weber,State Senate,18,REP,Ann Millner,13627
+Davis,State Senate,18,DEM,Jason Yu,926
+Morgan,State Senate,18,DEM,Jason Yu,510
+Weber,State Senate,18,DEM,Jason Yu,8053
+Davis,State Senate,18,LIB,Kevin L. Bryan,260
+Morgan,State Senate,18,LIB,Kevin L. Bryan,269
+Weber,State Senate,18,LIB,Kevin L. Bryan,1566
+Davis,State Senate,21,DEM,Jake Penrod,9435
+Davis,State Senate,21,REP,Jerry W. Stevenson,23889
+Davis,State Senate,22,REP,Stuart Adams,32765
+Daggett,State Senate,26,UUP,Cathy Callow-Heusser,12
+Duchesne,State Senate,26,UUP,Cathy Callow-Heusser,152
+Summit,State Senate,26,UUP,Cathy Callow-Heusser,273
+Uintah,State Senate,26,UUP,Cathy Callow-Heusser,273
+Wasatch,State Senate,26,UUP,Cathy Callow-Heusser,233
+Daggett,State Senate,26,DEM,Eileen Gallagher,90
+Duchesne,State Senate,26,DEM,Eileen Gallagher,573
+Summit,State Senate,26,DEM,Eileen Gallagher,8121
+Uintah,State Senate,26,DEM,Eileen Gallagher,1140
+Wasatch,State Senate,26,DEM,Eileen Gallagher,3834
+Daggett,State Senate,26,REP,Ronald Winterton,314
+Duchesne,State Senate,26,REP,Ronald Winterton,5031
+Summit,State Senate,26,REP,Ronald Winterton,4386
+Uintah,State Senate,26,REP,Ronald Winterton,8885
+Wasatch,State Senate,26,REP,Ronald Winterton,6111
+Beaver,State Senate,28,REP,Evan J. Vickers,1738
+Iron,State Senate,28,REP,Evan J. Vickers,12701
+Washington,State Senate,28,REP,Evan J. Vickers,13797
+Beaver,State Senate,28,DEM,Mark Chambers,267
+Iron,State Senate,28,DEM,Mark Chambers,2973
+Washington,State Senate,28,DEM,Mark Chambers,4202
+Box Elder,State House,1,REP,Joel Ferry,8237
+Cache,State House,1,REP,Joel Ferry,608
+Box Elder,State House,1,DEM,Joshua Hardy,1942
+Cache,State House,1,DEM,Joshua Hardy,98
+Box Elder,State House,1,CON,Sherry Phipps,1062
+Cache,State House,1,CON,Sherry Phipps,51
+Utah,State House,2,REP,Jefferson R. Moss,11952
+Utah,State House,2,DEM,Tyler Allred,2881
+Cache,State House,3,DEM,Marilyn Mecham,3273
+Cache,State House,3,REP,Val K. Potter,10617
+Cache,State House,4,REP,Dan N. Johnson,6086
+Cache,State House,4,DEM,Josh Brundage,3916
+Cache,State House,5,REP,Casey Snider,10597
+Cache,State House,5,DEM,Karina Andelin Brown,3406
+Utah,State House,6,REP,Cory Maloy,12338
+Weber,State House,7,DEM,David Owen,4793
+Weber,State House,7,REP,Kyle R. Andersen,9301
+Weber,State House,8,DEM,Deana Froerer,6581
+Weber,State House,8,REP,Steve Waldrip,6795
+Weber,State House,9,REP,Calvin R. Musselman,5130
+Weber,State House,9,DEM,Kathie J. Darby,4555
+Weber,State House,10,DEM,"Lawanna ""Lou"" Shurtliff",5516
+Weber,State House,10,REP,Lorraine P. Brown,4719
+Davis,State House,11,DEM,Jason M. Allen,1713
+Weber,State House,11,DEM,Jason M. Allen,4570
+Davis,State House,11,REP,Kelly B. Miles,1896
+Weber,State House,11,REP,Kelly B. Miles,5639
+Davis,State House,12,REP,Mike Schultz,812
+Weber,State House,12,REP,Mike Schultz,7978
+Davis,State House,12,DEM,Rick Edwin Jones,256
+Weber,State House,12,DEM,Rick Edwin Jones,3503
+Davis,State House,13,REP,Paul Ray,7909
+Davis,State House,13,DEM,Tab Lyn Uno,4416
+Davis,State House,14,REP,Karianne Lisonbee,6868
+Davis,State House,14,DEM,Shanell Day,4010
+Davis,State House,15,REP,Brad Wilson,12289
+Davis,State House,15,DEM,Rich Miller,3701
+Davis,State House,16,LIB,Brent Zimmerman,1065
+Davis,State House,16,DEM,Cheryl Nunn,3708
+Davis,State House,16,REP,Steve Handy,7948
+Davis,State House,17,DEM,Dawn Nunn,4117
+Davis,State House,17,REP,Stewart E. Barlow,11252
+Davis,State House,18,DEM,Adam Alba,5237
+Davis,State House,18,REP,Timothy D. Hawkes,12666
+Davis,State House,19,DEM,Courtney Jones,4712
+Davis,State House,19,LIB,Joe Speciale,1101
+Davis,State House,19,REP,Raymond Ward,10998
+Davis,State House,20,REP,Melissa Garff Ballard,10111
+Davis,State House,20,DEM,Ryan L. Jones,5379
+Tooele,State House,21,DEM,Debbie K. Vigil,4397
+Tooele,State House,21,REP,Douglas Sagers,7809
+Salt Lake,State House,22,LIB,Amber Christiansen Beltran,749
+Salt Lake,State House,22,REP,Barbara M. Stallone,3712
+Salt Lake,State House,22,CON,Marilee Roose,393
+Salt Lake,State House,22,DEM,Susan D. Duckworth,5485
+Salt Lake,State House,23,REP,Arnold M. Jones,1982
+Salt Lake,State House,23,DEM,Sandra Hollins,6058
+Salt Lake,State House,24,DEM,Jen Dailey-Provost,14125
+Salt Lake,State House,24,REP,Scott Rosenbush,4150
+Salt Lake,State House,25,UUP,Cabot W. Nelson,1458
+Salt Lake,State House,25,DEM,Joel K. Briscoe,14976
+Salt Lake,State House,26,DEM,Angela Romero,7098
+Salt Lake,State House,26,LIB,Jonathan Greene,502
+Salt Lake,State House,26,REP,Man Hung,1795
+Utah,State House,27,REP,Brady Brammer,12050
+Utah,State House,27,IAP,Curt Crosby,344
+Utah,State House,27,DEM,Elisabeth Luntz,3050
+Utah,State House,27,LIB,Joseph Geddes Buchman,497
+Salt Lake,State House,28,DEM,Brian S. King,15320
+Summit,State House,28,DEM,Brian S. King,1174
+Box Elder,State House,29,DEM,Kerry M. Wayne,914
+Weber,State House,29,DEM,Kerry M. Wayne,2161
+Box Elder,State House,29,REP,Lee B. Perry,4689
+Weber,State House,29,REP,Lee B. Perry,7303
+Salt Lake,State House,30,REP,Mike Winder,5860
+Salt Lake,State House,30,DEM,Robert Burch Jr.,4492
+Salt Lake,State House,31,UUP,Brian L. Fabbi,244
+Salt Lake,State House,31,DEM,Elizabeth Weight,4976
+Salt Lake,State House,31,REP,Fred Johnson,2856
+Salt Lake,State House,32,UUP,Bjorn N. Jones,268
+Salt Lake,State House,32,REP,Brad Bonham,7091
+Salt Lake,State House,32,DEM,Suzanne Harrison,9465
+Salt Lake,State House,33,REP,Craig Hall,4250
+Salt Lake,State House,33,DEM,Ira D. Hatch,3786
+Salt Lake,State House,34,REP,David Young,4702
+Salt Lake,State House,34,DEM,Karen Kwan,7042
+Salt Lake,State House,35,LIB,Chelsea Travis,967
+Salt Lake,State House,35,DEM,Mark A. Wheatley,6797
+Salt Lake,State House,35,REP,Robert Edgel,2935
+Salt Lake,State House,36,DEM,Patrice Arent,13417
+Salt Lake,State House,36,REP,Todd E. Zenger,7903
+Salt Lake,State House,37,DEM,Carol Spackman Moss,11467
+Salt Lake,State House,37,REP,David N. Sundwall,6786
+Salt Lake,State House,38,DEM,Edgar Harwood,4246
+Salt Lake,State House,38,REP,Eric Hutchings,4364
+Salt Lake,State House,39,REP,Jim Dunnigan,6839
+Salt Lake,State House,39,DEM,Stephen Peck,5301
+Salt Lake,State House,40,IAP,David Else,711
+Salt Lake,State House,40,REP,Peter L. Kraus,4280
+Salt Lake,State House,40,DEM,Stephanie Pitcher,11189
+Salt Lake,State House,41,REP,Mark A. Strong,11756
+Salt Lake,State House,41,UUP,Steve Walston,1607
+Salt Lake,State House,41,DEM,Wendy Garvin,4535
+Salt Lake,State House,42,UUP,Amy L. Martz,4803
+Salt Lake,State House,42,REP,Kim Coleman,9723
+Salt Lake,State House,43,REP,Cheryl K. Acton,5687
+Salt Lake,State House,43,DEM,Diane Lewis,5290
+Salt Lake,State House,43,LIB,Shawn Curtis,853
+Salt Lake,State House,44,DEM,Andrew Stoddard,8284
+Salt Lake,State House,44,REP,Bruce R. Cutler,6768
+Salt Lake,State House,45,REP,Steve Eliason,10276
+Salt Lake,State House,46,REP,Greg Johnson,6246
+Salt Lake,State House,46,LIB,Lee Anne Walker,930
+Salt Lake,State House,46,DEM,Marie H. Poulson,11466
+Salt Lake,State House,47,REP,Ken Ivory,6673
+Salt Lake,State House,47,DEM,Scott Bell,5774
+Utah,State House,48,IAP,Aaron Heineman,1612
+Utah,State House,48,REP,Keven J. Stratton,10736
+Salt Lake,State House,49,DEM,Anthony Sudweeks,8554
+Salt Lake,State House,49,UUP,Mark Russell,1112
+Salt Lake,State House,49,REP,Robert Spendlove,9107
+Salt Lake,State House,50,DEM,Megan Wiesen,6264
+Salt Lake,State House,50,REP,Susan Pulsipher,14312
+Salt Lake,State House,51,REP,Jeff Stenquist,8706
+Salt Lake,State House,51,UUP,Michele Weeks,5577
+Salt Lake,State House,52,DEM,Dan McClellan,6370
+Salt Lake,State House,52,REP,John Knotwell,12640
+Daggett,State House,53,DEM,Christopher Neville,87
+Duchesne,State House,53,DEM,Christopher Neville,115
+Morgan,State House,53,DEM,Christopher Neville,636
+Rich,State House,53,DEM,Christopher Neville,144
+Summit,State House,53,DEM,Christopher Neville,5492
+Daggett,State House,53,REP,Logan Wilde,332
+Duchesne,State House,53,REP,Logan Wilde,1075
+Morgan,State House,53,REP,Logan Wilde,4392
+Rich,State House,53,REP,Logan Wilde,921
+Summit,State House,53,REP,Logan Wilde,5273
+Summit,State House,54,DEM,Meaghan Miller,5339
+Wasatch,State House,54,DEM,Meaghan Miller,4335
+Summit,State House,54,REP,Tim Quinn,2174
+Wasatch,State House,54,REP,Tim Quinn,7662
+Duchesne,State House,55,DEM,Christina Higgins,147
+Uintah,State House,55,DEM,Christina Higgins,1100
+Duchesne,State House,55,REP,Scott H. Chew,1246
+Uintah,State House,55,REP,Scott H. Chew,9220
+Utah,State House,56,REP,Kay J. Christofferson,11815
+Utah,State House,57,UUP,Hillary Stirling,2898
+Utah,State House,57,REP,Jon Hawkins,9256
+Juab,State House,58,REP,Derrin R. Owens,2110
+Sanpete,State House,58,REP,Derrin R. Owens,6901
+Juab,State House,58,DEM,Lynn Zaritsky,253
+Sanpete,State House,58,DEM,Lynn Zaritsky,1216
+Juab,State House,58,CON,Russell G. Hatch,179
+Sanpete,State House,58,CON,Russell G. Hatch,811
+Utah,State House,59,IAP,Gregory Hmura,2026
+Utah,State House,59,REP,Val L. Peterson,9812
+Utah,State House,60,DEM,Alan F. Keele,3302
+Utah,State House,60,REP,Brad Daw,8445
+Utah,State House,61,UUP,Eric Chase,1405
+Utah,State House,61,REP,Marsha Judkins,7407
+Utah,State House,61,GRN,Matt Styles,859
+Washington,State House,62,REP,Travis M. Seegmiller,13912
+Utah,State House,63,REP,Adam Robertson,3840
+Utah,State House,64,DEM,Daniel Craig Friend,2662
+Utah,State House,64,UUP,Hal Miller,1219
+Utah,State House,64,REP,Norm Thurston,4849
+Utah,State House,65,REP,Francis D. Gibson,10650
+Utah,State House,65,DEM,Sue A. Womack,3289
+Utah,State House,66,REP,Mike McKell,10593
+Utah,State House,66,DEM,Paul Jones Dayton,2109
+Utah,State House,67,REP,Marc Roberts,11217
+Beaver,State House,68,LIB,Denyse Housley Cox,14
+Juab,State House,68,LIB,Denyse Housley Cox,12
+Millard,State House,68,LIB,Denyse Housley Cox,92
+Tooele,State House,68,LIB,Denyse Housley Cox,459
+Utah,State House,68,LIB,Denyse Housley Cox,19
+Beaver,State House,68,CON,Kirk D. Pearson,10
+Juab,State House,68,CON,Kirk D. Pearson,17
+Millard,State House,68,CON,Kirk D. Pearson,169
+Tooele,State House,68,CON,Kirk D. Pearson,748
+Utah,State House,68,CON,Kirk D. Pearson,16
+Beaver,State House,68,DEM,Merle Travis Wall,106
+Juab,State House,68,DEM,Merle Travis Wall,78
+Millard,State House,68,DEM,Merle Travis Wall,472
+Tooele,State House,68,DEM,Merle Travis Wall,1689
+Utah,State House,68,DEM,Merle Travis Wall,22
+Beaver,State House,68,REP,Merrill Nelson,232
+Juab,State House,68,REP,Merrill Nelson,150
+Millard,State House,68,REP,Merrill Nelson,3752
+Tooele,State House,68,REP,Merrill Nelson,6244
+Utah,State House,68,REP,Merrill Nelson,131
+Beaver,State House,68,IAP,Warren Rogers,6
+Juab,State House,68,IAP,Warren Rogers,4
+Millard,State House,68,IAP,Warren Rogers,91
+Tooele,State House,68,IAP,Warren Rogers,183
+Utah,State House,68,IAP,Warren Rogers,8
+Carbon,State House,69,REP,Christine F. Watkins,4965
+Duchesne,State House,69,REP,Christine F. Watkins,2564
+Emery,State House,69,REP,Christine F. Watkins,219
+Grand,State House,69,REP,Christine F. Watkins,841
+Carbon,State House,69,DEM,Tim Glenn,1971
+Duchesne,State House,69,DEM,Tim Glenn,400
+Emery,State House,69,DEM,Tim Glenn,106
+Grand,State House,69,DEM,Tim Glenn,843
+Emery,State House,70,REP,Carl R. Albrecht,2972
+Grand,State House,70,REP,Carl R. Albrecht,1143
+Sanpete,State House,70,REP,Carl R. Albrecht,100
+Sevier,State House,70,REP,Carl R. Albrecht,6419
+Emery,State House,70,DEM,Robert Greenberg,497
+Grand,State House,70,DEM,Robert Greenberg,1459
+Sanpete,State House,70,DEM,Robert Greenberg,19
+Sevier,State House,70,DEM,Robert Greenberg,778
+Iron,State House,71,REP,Brad Last,3099
+Washington,State House,71,REP,Brad Last,9369
+Iron,State House,71,DEM,Chuck Goode,532
+Washington,State House,71,DEM,Chuck Goode,2856
+Iron,State House,72,LIB,Barry Evan Short,1001
+Iron,State House,72,REP,Rex P. Shipp,8887
+Iron,State House,72,DEM,Zeno B. Parry,2002
+Beaver,State House,73,UNA,Marsha M. Holland,350
+Garfield,State House,73,UNA,Marsha M. Holland,722
+Kane,State House,73,UNA,Marsha M. Holland,1076
+Piute,State House,73,UNA,Marsha M. Holland,70
+San Juan,State House,73,UNA,Marsha M. Holland,1894
+Sevier,State House,73,UNA,Marsha M. Holland,8
+Wayne,State House,73,UNA,Marsha M. Holland,408
+Beaver,State House,73,REP,Phil Lyman,1359
+Garfield,State House,73,REP,Phil Lyman,1400
+Kane,State House,73,REP,Phil Lyman,1964
+Piute,State House,73,REP,Phil Lyman,602
+San Juan,State House,73,REP,Phil Lyman,3053
+Sevier,State House,73,REP,Phil Lyman,66
+Wayne,State House,73,REP,Phil Lyman,944
+Washington,State House,74,LIB,Daniel Holloway,4082
+Washington,State House,74,REP,V. Lowry Snow,13108
+Washington,State House,75,IAP,Keith R. Kelsch,1353
+Washington,State House,75,LIB,Michael A. Gardner,1341
+Washington,State House,75,REP,Walt Brooks,9575
