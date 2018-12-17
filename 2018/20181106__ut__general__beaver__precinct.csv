@@ -1,0 +1,122 @@
+county,precinct,office,district,party,candidate,votes
+Beaver,Beaver 1,US Senate,,Con ,Tim Aalders,19
+Beaver,Beaver 2,US Senate,,Con ,Tim Aalders,17
+Beaver,Beaver 3,US Senate,,Con ,Tim Aalders,12
+Beaver,Beaver 4,US Senate,,Con ,Tim Aalders,23
+Beaver,Greenville,US Senate,,Con ,Tim Aalders,1
+Beaver,Milford 1,US Senate,,Con ,Tim Aalders,0
+Beaver,Milford 2,US Senate,,Con ,Tim Aalders,18
+Beaver,Milford 3,US Senate,,Con ,Tim Aalders,8
+Beaver,Minersville,US Senate,,Con ,Tim Aalders,40
+Beaver,Beaver 1,US Senate,,Lbt,Craig Bowden,9
+Beaver,Beaver 2,US Senate,,Lbt,Craig Bowden,10
+Beaver,Beaver 3,US Senate,,Lbt,Craig Bowden,2
+Beaver,Beaver 4,US Senate,,Lbt,Craig Bowden,4
+Beaver,Greenville,US Senate,,Lbt,Craig Bowden,1
+Beaver,Milford 1,US Senate,,Lbt,Craig Bowden,6
+Beaver,Milford 2,US Senate,,Lbt,Craig Bowden,7
+Beaver,Milford 3,US Senate,,Lbt,Craig Bowden,3
+Beaver,Minersville,US Senate,,Lbt,Craig Bowden,3
+Beaver,Beaver 1,US Senate,,IAP,Reed McCandless,8
+Beaver,Beaver 2,US Senate,,IAP,Reed McCandless,3
+Beaver,Beaver 3,US Senate,,IAP,Reed McCandless,0
+Beaver,Beaver 4,US Senate,,IAP,Reed McCandless,1
+Beaver,Greenville,US Senate,,IAP,Reed McCandless,6
+Beaver,Milford 1,US Senate,,IAP,Reed McCandless,0
+Beaver,Milford 2,US Senate,,IAP,Reed McCandless,3
+Beaver,Milford 3,US Senate,,IAP,Reed McCandless,1
+Beaver,Minersville,US Senate,,IAP,Reed McCandless,8
+Beaver,Beaver 1,US Senate,,Dem,Jenny Wilson,46
+Beaver,Beaver 2,US Senate,,Dem,Jenny Wilson,46
+Beaver,Beaver 3,US Senate,,Dem,Jenny Wilson,30
+Beaver,Beaver 4,US Senate,,Dem,Jenny Wilson,7
+Beaver,Greenville,US Senate,,Dem,Jenny Wilson,9
+Beaver,Milford 1,US Senate,,Dem,Jenny Wilson,23
+Beaver,Milford 2,US Senate,,Dem,Jenny Wilson,102
+Beaver,Milford 3,US Senate,,Dem,Jenny Wilson,16
+Beaver,Minersville,US Senate,,Dem,Jenny Wilson,19
+Beaver,Beaver 1,US Senate,,Rep,Mitt Romney,402
+Beaver,Beaver 2,US Senate,,Rep,Mitt Romney,310
+Beaver,Beaver 3,US Senate,,Rep,Mitt Romney,244
+Beaver,Beaver 4,US Senate,,Rep,Mitt Romney,84
+Beaver,Greenville,US Senate,,Rep,Mitt Romney,56
+Beaver,Milford 1,US Senate,,Rep,Mitt Romney,38
+Beaver,Milford 2,US Senate,,Rep,Mitt Romney,182
+Beaver,Milford 3,US Senate,,Rep,Mitt Romney,61
+Beaver,Minersville,US Senate,,Rep,Mitt Romney,243
+Beaver,Beaver 1,US Senate,,,write-in,1
+Beaver,Beaver 2,US Senate,,,write-in,0
+Beaver,Beaver 3,US Senate,,,write-in,2
+Beaver,Beaver 4,US Senate,,,write-in,0
+Beaver,Greenville,US Senate,,,write-in,1
+Beaver,Milford 1,US Senate,,,write-in,0
+Beaver,Milford 2,US Senate,,,write-in,3
+Beaver,Milford 3,US Senate,,,write-in,1
+Beaver,Minersville,US Senate,,,write-in,1
+Beaver,Beaver 1,US House,2,Rep,Chris Stewart,424
+Beaver,Beaver 2,US House,2,Rep,Chris Stewart,321
+Beaver,Beaver 3,US House,2,Rep,Chris Stewart,263
+Beaver,Beaver 4,US House,2,Rep,Chris Stewart,102
+Beaver,Greenville,US House,2,Rep,Chris Stewart,59
+Beaver,Milford 1,US House,2,Rep,Chris Stewart,41
+Beaver,Milford 2,US House,2,Rep,Chris Stewart,215
+Beaver,Milford 3,US House,2,Rep,Chris Stewart,60
+Beaver,Minersville,US House,2,Rep,Chris Stewart,284
+Beaver,Beaver 1,US House,2,Lbt,Jeffrey Whipple,11
+Beaver,Beaver 2,US House,2,Lbt,Jeffrey Whipple,20
+Beaver,Beaver 3,US House,2,Lbt,Jeffrey Whipple,2
+Beaver,Beaver 4,US House,2,Lbt,Jeffrey Whipple,9
+Beaver,Greenville,US House,2,Lbt,Jeffrey Whipple,0
+Beaver,Milford 1,US House,2,Lbt,Jeffrey Whipple,5
+Beaver,Milford 2,US House,2,Lbt,Jeffrey Whipple,5
+Beaver,Milford 3,US House,2,Lbt,Jeffrey Whipple,9
+Beaver,Minersville,US House,2,Lbt,Jeffrey Whipple,12
+Beaver,Beaver 1,US House,2,Dem,Shireen Ghorbani,47
+Beaver,Beaver 2,US House,2,Dem,Shireen Ghorbani,42
+Beaver,Beaver 3,US House,2,Dem,Shireen Ghorbani,24
+Beaver,Beaver 4,US House,2,Dem,Shireen Ghorbani,7
+Beaver,Greenville,US House,2,Dem,Shireen Ghorbani,13
+Beaver,Milford 1,US House,2,Dem,Shireen Ghorbani,22
+Beaver,Milford 2,US House,2,Dem,Shireen Ghorbani,91
+Beaver,Milford 3,US House,2,Dem,Shireen Ghorbani,17
+Beaver,Minersville,US House,2,Dem,Shireen Ghorbani,14
+Beaver,Beaver 1,State Senate,28,Dem,Mark Chambers,47
+Beaver,Beaver 2,State Senate,28,Dem,Mark Chambers,50
+Beaver,Beaver 3,State Senate,28,Dem,Mark Chambers,24
+Beaver,Greenville,State Senate,28,Dem,Mark Chambers,14
+Beaver,Milford 1,State Senate,28,Dem,Mark Chambers,22
+Beaver,Milford 2,State Senate,28,Dem,Mark Chambers,69
+Beaver,Milford 3,State Senate,28,Dem,Mark Chambers,22
+Beaver,Minersville,State Senate,28,Dem,Mark Chambers,19
+Beaver,Beaver 1,State Senate,28,Rep,Evan Vickers,438
+Beaver,Beaver 2,State Senate,28,Rep,Evan Vickers,332
+Beaver,Beaver 3,State Senate,28,Rep,Evan Vickers,269
+Beaver,Greenville,State Senate,28,Rep,Evan Vickers,59
+Beaver,Milford 1,State Senate,28,Rep,Evan Vickers,46
+Beaver,Milford 2,State Senate,28,Rep,Evan Vickers,243
+Beaver,Milford 3,State Senate,28,Rep,Evan Vickers,64
+Beaver,Minersville,State Senate,28,Rep,Evan Vickers,287
+Beaver,Beaver 1,State House,73,Rep,Phil Lyman,366
+Beaver,Beaver 2,State House,73,Rep,Phil Lyman,295
+Beaver,Beaver 3,State House,73,Rep,Phil Lyman,225
+Beaver,Beaver 4,State House,73,Rep,Phil Lyman,97
+Beaver,Greenville,State House,73,Rep,Phil Lyman,52
+Beaver,Milford 1,State House,68,Rep,Merrill Nelson,39
+Beaver,Milford 2,State House,68,Rep,Merrill Nelson,193
+Beaver,Milford 3,State House,73,Rep,Phil Lyman,50
+Beaver,Minersville,State House,73,Rep,Phil Lyman,264
+Beaver,Milford 1,State House,68,Dem,Merle Wall,21
+Beaver,Milford 2,State House,68,Dem,Merle Wall,85
+Beaver,Beaver 1,State House,73,UNA,Marsha Holland,108
+Beaver,Beaver 2,State House,73,UNA,Marsha Holland,80
+Beaver,Beaver 3,State House,73,UNA,Marsha Holland,49
+Beaver,Beaver 4,State House,73,UNA,Marsha Holland,21
+Beaver,Greenville,State House,73,UNA,Marsha Holland,20
+Beaver,Milford 1,State House,68,IAP,Warren Rogers,2
+Beaver,Milford 2,State House,68,IAP,Warren Rogers,4
+Beaver,Milford 3,State House,73,UNA,Marsha Holland,32
+Beaver,Minersville,State House,73,UNA,Marsha Holland,40
+Beaver,Milford 1,State House,68,Lbt,Denyse Cox,4
+Beaver,Milford 2,State House,68,Lbt,Denyse Cox,10
+Beaver,Milford 1,State House,68,Con ,Kirk Pearson,2
+Beaver,Milford 2,State House,68,Con ,Kirk Pearson,8

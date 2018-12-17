@@ -1,0 +1,157 @@
+county,precinct,office,district,party,candidate,votes
+Emery,Emery 1,US Senate,,Con,Tim Aalders,5
+Emery,Ferron 2,US Senate,,Con,Tim Aalders,7
+Emery,Ferron 3,US Senate,,Con,Tim Aalders,7
+Emery,Clawson 4,US Senate,,Con,Tim Aalders,5
+Emery,Orangeville 5,US Senate,,Con,Tim Aalders,6
+Emery,Castle Dale 6,US Senate,,Con,Tim Aalders,5
+Emery,Castle Dale 7,US Senate,,Con,Tim Aalders,6
+Emery,Huntington 8,US Senate,,Con,Tim Aalders,12
+Emery,Huntington 9,US Senate,,Con,Tim Aalders,8
+Emery,Cleveland 10,US Senate,,Con,Tim Aalders,6
+Emery,Elmo 11,US Senate,,Con,Tim Aalders,7
+Emery,Green River 12,US Senate,,Con,Tim Aalders,13
+Emery,Canvas,US Senate,,Con,Tim Aalders,1
+Emery,Emery 1,US Senate,,Lbt,Craig Bowden,2
+Emery,Ferron 2,US Senate,,Lbt,Craig Bowden,6
+Emery,Ferron 3,US Senate,,Lbt,Craig Bowden,6
+Emery,Clawson 4,US Senate,,Lbt,Craig Bowden,2
+Emery,Orangeville 5,US Senate,,Lbt,Craig Bowden,7
+Emery,Castle Dale 6,US Senate,,Lbt,Craig Bowden,4
+Emery,Castle Dale 7,US Senate,,Lbt,Craig Bowden,8
+Emery,Huntington 8,US Senate,,Lbt,Craig Bowden,9
+Emery,Huntington 9,US Senate,,Lbt,Craig Bowden,8
+Emery,Cleveland 10,US Senate,,Lbt,Craig Bowden,10
+Emery,Elmo 11,US Senate,,Lbt,Craig Bowden,7
+Emery,Green River 12,US Senate,,Lbt,Craig Bowden,4
+Emery,Canvas,US Senate,,Lbt,Craig Bowden,0
+Emery,Emery 1,US Senate,,IAP,Reed McCandless,7
+Emery,Ferron 2,US Senate,,IAP,Reed McCandless,16
+Emery,Ferron 3,US Senate,,IAP,Reed McCandless,21
+Emery,Clawson 4,US Senate,,IAP,Reed McCandless,5
+Emery,Orangeville 5,US Senate,,IAP,Reed McCandless,21
+Emery,Castle Dale 6,US Senate,,IAP,Reed McCandless,14
+Emery,Castle Dale 7,US Senate,,IAP,Reed McCandless,6
+Emery,Huntington 8,US Senate,,IAP,Reed McCandless,20
+Emery,Huntington 9,US Senate,,IAP,Reed McCandless,24
+Emery,Cleveland 10,US Senate,,IAP,Reed McCandless,11
+Emery,Elmo 11,US Senate,,IAP,Reed McCandless,14
+Emery,Green River 12,US Senate,,IAP,Reed McCandless,10
+Emery,Canvas,US Senate,,IAP,Reed McCandless,0
+Emery,Emery 1,US Senate,,Dem,Jenny Wilson,16
+Emery,Ferron 2,US Senate,,Dem,Jenny Wilson,32
+Emery,Ferron 3,US Senate,,Dem,Jenny Wilson,54
+Emery,Clawson 4,US Senate,,Dem,Jenny Wilson,12
+Emery,Orangeville 5,US Senate,,Dem,Jenny Wilson,59
+Emery,Castle Dale 6,US Senate,,Dem,Jenny Wilson,39
+Emery,Castle Dale 7,US Senate,,Dem,Jenny Wilson,45
+Emery,Huntington 8,US Senate,,Dem,Jenny Wilson,55
+Emery,Huntington 9,US Senate,,Dem,Jenny Wilson,59
+Emery,Cleveland 10,US Senate,,Dem,Jenny Wilson,43
+Emery,Elmo 11,US Senate,,Dem,Jenny Wilson,36
+Emery,Green River 12,US Senate,,Dem,Jenny Wilson,58
+Emery,Canvas,US Senate,,Dem,Jenny Wilson,1
+Emery,Emery 1,US Senate,,Rep,Mitt Romney,109
+Emery,Ferron 2,US Senate,,Rep,Mitt Romney,307
+Emery,Ferron 3,US Senate,,Rep,Mitt Romney,234
+Emery,Clawson 4,US Senate,,Rep,Mitt Romney,80
+Emery,Orangeville 5,US Senate,,Rep,Mitt Romney,261
+Emery,Castle Dale 6,US Senate,,Rep,Mitt Romney,222
+Emery,Castle Dale 7,US Senate,,Rep,Mitt Romney,268
+Emery,Huntington 8,US Senate,,Rep,Mitt Romney,329
+Emery,Huntington 9,US Senate,,Rep,Mitt Romney,305
+Emery,Cleveland 10,US Senate,,Rep,Mitt Romney,296
+Emery,Elmo 11,US Senate,,Rep,Mitt Romney,178
+Emery,Green River 12,US Senate,,Rep,Mitt Romney,238
+Emery,Canvas,US Senate,,Rep,Mitt Romney,6
+Emery,Emery 1,US Senate,,,write-in,0
+Emery,Ferron 2,US Senate,,,write-in,1
+Emery,Ferron 3,US Senate,,,write-in,1
+Emery,Clawson 4,US Senate,,,write-in,0
+Emery,Orangeville 5,US Senate,,,write-in,1
+Emery,Castle Dale 6,US Senate,,,write-in,0
+Emery,Castle Dale 7,US Senate,,,write-in,1
+Emery,Huntington 8,US Senate,,,write-in,0
+Emery,Huntington 9,US Senate,,,write-in,0
+Emery,Cleveland 10,US Senate,,,write-in,0
+Emery,Elmo 11,US Senate,,,write-in,0
+Emery,Green River 12,US Senate,,,write-in,1
+Emery,Canvas,US Senate,,,write-in,0
+Emery,Emery 1,US House,3,Rep,John Curtis,117
+Emery,Ferron 2,US House,3,Rep,John Curtis,313
+Emery,Ferron 3,US House,3,Rep,John Curtis,269
+Emery,Clawson 4,US House,3,Rep,John Curtis,93
+Emery,Orangeville 5,US House,3,Rep,John Curtis,477
+Emery,Castle Dale 6,US House,3,Rep,John Curtis,231
+Emery,Castle Dale 7,US House,3,Rep,John Curtis,273
+Emery,Huntington 8,US House,3,Rep,John Curtis,353
+Emery,Huntington 9,US House,3,Rep,John Curtis,314
+Emery,Cleveland 10,US House,3,Rep,John Curtis,309
+Emery,Elmo 11,US House,3,Rep,John Curtis,201
+Emery,Green River 12,US House,3,Rep,John Curtis,251
+Emery,Canvas,US House,3,Rep,John Curtis,7
+Emery,Emery 1,US House,3,Dem,James Singer,15
+Emery,Ferron 2,US House,3,Dem,James Singer,27
+Emery,Ferron 3,US House,3,Dem,James Singer,39
+Emery,Clawson 4,US House,3,Dem,James Singer,9
+Emery,Orangeville 5,US House,3,Dem,James Singer,59
+Emery,Castle Dale 6,US House,3,Dem,James Singer,32
+Emery,Castle Dale 7,US House,3,Dem,James Singer,34
+Emery,Huntington 8,US House,3,Dem,James Singer,46
+Emery,Huntington 9,US House,3,Dem,James Singer,62
+Emery,Cleveland 10,US House,3,Dem,James Singer,38
+Emery,Elmo 11,US House,3,Dem,James Singer,23
+Emery,Green River 12,US House,3,Dem,James Singer,53
+Emery,Canvas,US House,3,Dem,James Singer,1
+Emery,Emery 1,US House,3,IAP,Greg Duerden,5
+Emery,Ferron 2,US House,3,IAP,Greg Duerden,13
+Emery,Ferron 3,US House,3,IAP,Greg Duerden,10
+Emery,Clawson 4,US House,3,IAP,Greg Duerden,1
+Emery,Orangeville 5,US House,3,IAP,Greg Duerden,8
+Emery,Castle Dale 6,US House,3,IAP,Greg Duerden,9
+Emery,Castle Dale 7,US House,3,IAP,Greg Duerden,16
+Emery,Huntington 8,US House,3,IAP,Greg Duerden,19
+Emery,Huntington 9,US House,3,IAP,Greg Duerden,17
+Emery,Cleveland 10,US House,3,IAP,Greg Duerden,10
+Emery,Elmo 11,US House,3,IAP,Greg Duerden,10
+Emery,Green River 12,US House,3,IAP,Greg Duerden,14
+Emery,Canvas,US House,3,IAP,Greg Duerden,0
+Emery,Emery 1,US House,3,UUP,Tim Zeidner,1
+Emery,Ferron 2,US House,3,UUP,Tim Zeidner,4
+Emery,Ferron 3,US House,3,UUP,Tim Zeidner,3
+Emery,Clawson 4,US House,3,UUP,Tim Zeidner,0
+Emery,Orangeville 5,US House,3,UUP,Tim Zeidner,4
+Emery,Castle Dale 6,US House,3,UUP,Tim Zeidner,6
+Emery,Castle Dale 7,US House,3,UUP,Tim Zeidner,1
+Emery,Huntington 8,US House,3,UUP,Tim Zeidner,3
+Emery,Huntington 9,US House,3,UUP,Tim Zeidner,4
+Emery,Cleveland 10,US House,3,UUP,Tim Zeidner,2
+Emery,Elmo 11,US House,3,UUP,Tim Zeidner,2
+Emery,Green River 12,US House,3,UUP,Tim Zeidner,5
+Emery,Canvas,US House,3,UUP,Tim Zeidner,0
+Emery,Emery 1,State House,70,Rep,Carl Albrecht,118
+Emery,Ferron 2,State House,70,Rep,Carl Albrecht,324
+Emery,Ferron 3,State House,70,Rep,Carl Albrecht,275
+Emery,Clawson 4,State House,70,Rep,Carl Albrecht,93
+Emery,Orangeville 5,State House,70,Rep,Carl Albrecht,465
+Emery,Castle Dale 6,State House,70,Rep,Carl Albrecht,236
+Emery,Castle Dale 7,State House,70,Rep,Carl Albrecht,279
+Emery,Huntington 8,State House,70,Rep,Carl Albrecht,350
+Emery,Huntington 9,State House,70,Rep,Carl Albrecht,323
+Emery,Cleveland 10,State House,70,Rep,Carl Albrecht,303
+Emery,Elmo 11,State House,70,Rep,Carl Albrecht,200
+Emery,Green River 12,State House,69,Rep,Christine Watkins,219
+Emery,Canvas,State House,70,Rep,Carl Albrecht,6
+Emery,Emery 1,State House,70,Dem,Robert Greenberg,20
+Emery,Ferron 2,State House,70,Dem,Robert Greenberg,35
+Emery,Ferron 3,State House,70,Dem,Robert Greenberg,44
+Emery,Clawson 4,State House,70,Dem,Robert Greenberg,11
+Emery,Orangeville 5,State House,70,Dem,Robert Greenberg,77
+Emery,Castle Dale 6,State House,70,Dem,Robert Greenberg,40
+Emery,Castle Dale 7,State House,70,Dem,Robert Greenberg,45
+Emery,Huntington 8,State House,70,Dem,Robert Greenberg,69
+Emery,Huntington 9,State House,70,Dem,Robert Greenberg,71
+Emery,Cleveland 10,State House,70,Dem,Robert Greenberg,52
+Emery,Elmo 11,State House,70,Dem,Robert Greenberg,32
+Emery,Green River 12,State House,69,Dem,Tim Glenn,106
+Emery,Canvas,State House,70,Dem,Robert Greenberg,1
