@@ -1,0 +1,229 @@
+county,precinct,office,district,candidate,party,votes
+San Juan,Precinct 1,Ballots Cast,,,,210
+San Juan,Precinct 1,Straight Party,,,CON,0
+San Juan,Precinct 1,Straight Party,,,UUP,0
+San Juan,Precinct 1,Straight Party,,,LIB,0
+San Juan,Precinct 1,Straight Party,,,REP,49
+San Juan,Precinct 1,Straight Party,,,DEM,13
+San Juan,Precinct 1,Straight Party,,,IAP,3
+San Juan,Precinct 1,U.S. Senate,,Tim Aalders,CON,13
+San Juan,Precinct 1,U.S. Senate,,Craig R. Bowden,LIB,13
+San Juan,Precinct 1,U.S. Senate,,Reed C. McCandless,IAP,3
+San Juan,Precinct 1,U.S. Senate,,Jenny Wilson,DEM,54
+San Juan,Precinct 1,U.S. Senate,,Mitt Romney,REP,123
+San Juan,Precinct 1,U.S. Senate,,Write-In,,1
+San Juan,Precinct 1,U.S. House,3,John Curtis,REP,140
+San Juan,Precinct 1,U.S. House,3,James Courage Singer,DEM,55
+San Juan,Precinct 1,U.S. House,3,Timothy L. Zeidner,UUP,4
+San Juan,Precinct 1,U.S. House,3,Gregory C. Duerden,IAP,8
+San Juan,Precinct 1,State House,73,Phil Lyman,REP,139
+San Juan,Precinct 1,State House,73,Marsha M. Holland,,59
+San Juan,Precinct 2,Ballots Cast,,,,1084
+San Juan,Precinct 2,Straight Party,,,CON,3
+San Juan,Precinct 2,Straight Party,,,UUP,2
+San Juan,Precinct 2,Straight Party,,,LIB,4
+San Juan,Precinct 2,Straight Party,,,REP,210
+San Juan,Precinct 2,Straight Party,,,DEM,40
+San Juan,Precinct 2,Straight Party,,,IAP,20
+San Juan,Precinct 2,U.S. Senate,,Tim Aalders,CON,38
+San Juan,Precinct 2,U.S. Senate,,Craig R. Bowden,LIB,11
+San Juan,Precinct 2,U.S. Senate,,Reed C. McCandless,IAP,19
+San Juan,Precinct 2,U.S. Senate,,Jenny Wilson,DEM,179
+San Juan,Precinct 2,U.S. Senate,,Mitt Romney,REP,822
+San Juan,Precinct 2,U.S. Senate,,Write-In,,1
+San Juan,Precinct 2,U.S. House,3,John Curtis,REP,824
+San Juan,Precinct 2,U.S. House,3,James Courage Singer,DEM,178
+San Juan,Precinct 2,U.S. House,3,Timothy L. Zeidner,UUP,20
+San Juan,Precinct 2,U.S. House,3,Gregory C. Duerden,IAP,30
+San Juan,Precinct 2,State House,73,Phil Lyman,REP,773
+San Juan,Precinct 2,State House,73,Marsha M. Holland,,263
+San Juan,Precinct 3,Ballots Cast,,,,970
+San Juan,Precinct 3,Straight Party,,,CON,5
+San Juan,Precinct 3,Straight Party,,,UUP,12
+San Juan,Precinct 3,Straight Party,,,LIB,6
+San Juan,Precinct 3,Straight Party,,,REP,79
+San Juan,Precinct 3,Straight Party,,,DEM,402
+San Juan,Precinct 3,Straight Party,,,IAP,41
+San Juan,Precinct 3,U.S. Senate,,Tim Aalders,CON,18
+San Juan,Precinct 3,U.S. Senate,,Craig R. Bowden,LIB,29
+San Juan,Precinct 3,U.S. Senate,,Reed C. McCandless,IAP,21
+San Juan,Precinct 3,U.S. Senate,,Jenny Wilson,DEM,530
+San Juan,Precinct 3,U.S. Senate,,Mitt Romney,REP,325
+San Juan,Precinct 3,U.S. Senate,,Write-In,,5
+San Juan,Precinct 3,U.S. House,3,John Curtis,REP,269
+San Juan,Precinct 3,U.S. House,3,James Courage Singer,DEM,594
+San Juan,Precinct 3,U.S. House,3,Timothy L. Zeidner,UUP,15
+San Juan,Precinct 3,U.S. House,3,Gregory C. Duerden,IAP,36
+San Juan,Precinct 3,State House,73,Phil Lyman,REP,316
+San Juan,Precinct 3,State House,73,Marsha M. Holland,,481
+San Juan,Precinct 4,Ballots Cast,,,,173
+San Juan,Precinct 4,Straight Party,,,CON,2
+San Juan,Precinct 4,Straight Party,,,UUP,1
+San Juan,Precinct 4,Straight Party,,,LIB,0
+San Juan,Precinct 4,Straight Party,,,REP,36
+San Juan,Precinct 4,Straight Party,,,DEM,4
+San Juan,Precinct 4,Straight Party,,,IAP,5
+San Juan,Precinct 4,U.S. Senate,,Tim Aalders,CON,8
+San Juan,Precinct 4,U.S. Senate,,Craig R. Bowden,LIB,1
+San Juan,Precinct 4,U.S. Senate,,Reed C. McCandless,IAP,4
+San Juan,Precinct 4,U.S. Senate,,Jenny Wilson,DEM,11
+San Juan,Precinct 4,U.S. Senate,,Mitt Romney,REP,149
+San Juan,Precinct 4,U.S. Senate,,Write-In,,0
+San Juan,Precinct 4,U.S. House,3,John Curtis,REP,150
+San Juan,Precinct 4,U.S. House,3,James Courage Singer,DEM,8
+San Juan,Precinct 4,U.S. House,3,Timothy L. Zeidner,UUP,0
+San Juan,Precinct 4,U.S. House,3,Gregory C. Duerden,IAP,4
+San Juan,Precinct 4,State House,73,Phil Lyman,REP,168
+San Juan,Precinct 4,State House,73,Marsha M. Holland,,5
+San Juan,Precinct 5,Ballots Cast,,,,428
+San Juan,Precinct 5,Straight Party,,,CON,1
+San Juan,Precinct 5,Straight Party,,,UUP,0
+San Juan,Precinct 5,Straight Party,,,LIB,2
+San Juan,Precinct 5,Straight Party,,,REP,67
+San Juan,Precinct 5,Straight Party,,,DEM,11
+San Juan,Precinct 5,Straight Party,,,IAP,9
+San Juan,Precinct 5,U.S. Senate,,Tim Aalders,CON,17
+San Juan,Precinct 5,U.S. Senate,,Craig R. Bowden,LIB,11
+San Juan,Precinct 5,U.S. Senate,,Reed C. McCandless,IAP,8
+San Juan,Precinct 5,U.S. Senate,,Jenny Wilson,DEM,45
+San Juan,Precinct 5,U.S. Senate,,Mitt Romney,REP,327
+San Juan,Precinct 5,U.S. Senate,,Write-In,,2
+San Juan,Precinct 5,U.S. House,3,John Curtis,REP,327
+San Juan,Precinct 5,U.S. House,3,James Courage Singer,DEM,56
+San Juan,Precinct 5,U.S. House,3,Timothy L. Zeidner,UUP,8
+San Juan,Precinct 5,U.S. House,3,Gregory C. Duerden,IAP,11
+San Juan,Precinct 5,State House,73,Phil Lyman,REP,380
+San Juan,Precinct 5,State House,73,Marsha M. Holland,,39
+San Juan,Precinct 6,Ballots Cast,,,,76
+San Juan,Precinct 6,Straight Party,,,CON,1
+San Juan,Precinct 6,Straight Party,,,UUP,0
+San Juan,Precinct 6,Straight Party,,,LIB,0
+San Juan,Precinct 6,Straight Party,,,REP,18
+San Juan,Precinct 6,Straight Party,,,DEM,3
+San Juan,Precinct 6,Straight Party,,,IAP,7
+San Juan,Precinct 6,U.S. Senate,,Tim Aalders,CON,1
+San Juan,Precinct 6,U.S. Senate,,Craig R. Bowden,LIB,0
+San Juan,Precinct 6,U.S. Senate,,Reed C. McCandless,IAP,1
+San Juan,Precinct 6,U.S. Senate,,Jenny Wilson,DEM,8
+San Juan,Precinct 6,U.S. Senate,,Mitt Romney,REP,66
+San Juan,Precinct 6,U.S. Senate,,Write-In,,0
+San Juan,Precinct 6,U.S. House,3,John Curtis,REP,55
+San Juan,Precinct 6,U.S. House,3,James Courage Singer,DEM,12
+San Juan,Precinct 6,U.S. House,3,Timothy L. Zeidner,UUP,0
+San Juan,Precinct 6,U.S. House,3,Gregory C. Duerden,IAP,6
+San Juan,Precinct 6,State House,73,Phil Lyman,REP,64
+San Juan,Precinct 6,State House,73,Marsha M. Holland,,10
+San Juan,Precinct 7,Ballots Cast,,,,397
+San Juan,Precinct 7,Straight Party,,,CON,1
+San Juan,Precinct 7,Straight Party,,,UUP,2
+San Juan,Precinct 7,Straight Party,,,LIB,3
+San Juan,Precinct 7,Straight Party,,,REP,62
+San Juan,Precinct 7,Straight Party,,,DEM,17
+San Juan,Precinct 7,Straight Party,,,IAP,6
+San Juan,Precinct 7,U.S. Senate,,Tim Aalders,CON,7
+San Juan,Precinct 7,U.S. Senate,,Craig R. Bowden,LIB,8
+San Juan,Precinct 7,U.S. Senate,,Reed C. McCandless,IAP,4
+San Juan,Precinct 7,U.S. Senate,,Jenny Wilson,DEM,47
+San Juan,Precinct 7,U.S. Senate,,Mitt Romney,REP,319
+San Juan,Precinct 7,U.S. Senate,,Write-In,,0
+San Juan,Precinct 7,U.S. House,3,John Curtis,REP,317
+San Juan,Precinct 7,U.S. House,3,James Courage Singer,DEM,47
+San Juan,Precinct 7,U.S. House,3,Timothy L. Zeidner,UUP,7
+San Juan,Precinct 7,U.S. House,3,Gregory C. Duerden,IAP,5
+San Juan,Precinct 7,State House,73,Phil Lyman,REP,330
+San Juan,Precinct 7,State House,73,Marsha M. Holland,,58
+San Juan,Precinct 8,Ballots Cast,,,,583
+San Juan,Precinct 8,Straight Party,,,CON,3
+San Juan,Precinct 8,Straight Party,,,UUP,4
+San Juan,Precinct 8,Straight Party,,,LIB,2
+San Juan,Precinct 8,Straight Party,,,REP,42
+San Juan,Precinct 8,Straight Party,,,DEM,207
+San Juan,Precinct 8,Straight Party,,,IAP,23
+San Juan,Precinct 8,U.S. Senate,,Tim Aalders,CON,15
+San Juan,Precinct 8,U.S. Senate,,Craig R. Bowden,LIB,9
+San Juan,Precinct 8,U.S. Senate,,Reed C. McCandless,IAP,8
+San Juan,Precinct 8,U.S. Senate,,Jenny Wilson,DEM,257
+San Juan,Precinct 8,U.S. Senate,,Mitt Romney,REP,274
+San Juan,Precinct 8,U.S. Senate,,Write-In,,0
+San Juan,Precinct 8,U.S. House,3,John Curtis,REP,230
+San Juan,Precinct 8,U.S. House,3,James Courage Singer,DEM,294
+San Juan,Precinct 8,U.S. House,3,Timothy L. Zeidner,UUP,12
+San Juan,Precinct 8,U.S. House,3,Gregory C. Duerden,IAP,14
+San Juan,Precinct 8,State House,73,Phil Lyman,REP,301
+San Juan,Precinct 8,State House,73,Marsha M. Holland,,210
+San Juan,Precinct 9,Ballots Cast,,,,41
+San Juan,Precinct 9,Straight Party,,,CON,0
+San Juan,Precinct 9,Straight Party,,,UUP,1
+San Juan,Precinct 9,Straight Party,,,LIB,0
+San Juan,Precinct 9,Straight Party,,,REP,3
+San Juan,Precinct 9,Straight Party,,,DEM,20
+San Juan,Precinct 9,Straight Party,,,IAP,4
+San Juan,Precinct 9,U.S. Senate,,Tim Aalders,CON,0
+San Juan,Precinct 9,U.S. Senate,,Craig R. Bowden,LIB,0
+San Juan,Precinct 9,U.S. Senate,,Reed C. McCandless,IAP,1
+San Juan,Precinct 9,U.S. Senate,,Jenny Wilson,DEM,27
+San Juan,Precinct 9,U.S. Senate,,Mitt Romney,REP,11
+San Juan,Precinct 9,U.S. Senate,,Write-In,,0
+San Juan,Precinct 9,U.S. House,3,John Curtis,REP,6
+San Juan,Precinct 9,U.S. House,3,James Courage Singer,DEM,27
+San Juan,Precinct 9,U.S. House,3,Timothy L. Zeidner,UUP,0
+San Juan,Precinct 9,U.S. House,3,Gregory C. Duerden,IAP,1
+San Juan,Precinct 9,State House,73,Phil Lyman,REP,7
+San Juan,Precinct 9,State House,73,Marsha M. Holland,,29
+San Juan,Precinct 10,Ballots Cast,,,,241
+San Juan,Precinct 10,Straight Party,,,CON,0
+San Juan,Precinct 10,Straight Party,,,UUP,1
+San Juan,Precinct 10,Straight Party,,,LIB,1
+San Juan,Precinct 10,Straight Party,,,REP,11
+San Juan,Precinct 10,Straight Party,,,DEM,63
+San Juan,Precinct 10,Straight Party,,,IAP,6
+San Juan,Precinct 10,U.S. Senate,,Tim Aalders,CON,0
+San Juan,Precinct 10,U.S. Senate,,Craig R. Bowden,LIB,7
+San Juan,Precinct 10,U.S. Senate,,Reed C. McCandless,IAP,2
+San Juan,Precinct 10,U.S. Senate,,Jenny Wilson,DEM,171
+San Juan,Precinct 10,U.S. Senate,,Mitt Romney,REP,48
+San Juan,Precinct 10,U.S. Senate,,Write-In,,0
+San Juan,Precinct 10,U.S. House,3,John Curtis,REP,37
+San Juan,Precinct 10,U.S. House,3,James Courage Singer,DEM,176
+San Juan,Precinct 10,U.S. House,3,Timothy L. Zeidner,UUP,6
+San Juan,Precinct 10,U.S. House,3,Gregory C. Duerden,IAP,6
+San Juan,Precinct 10,State House,73,Phil Lyman,REP,46
+San Juan,Precinct 10,State House,73,Marsha M. Holland,,177
+San Juan,Precinct 11,Ballots Cast,,,,1052
+San Juan,Precinct 11,Straight Party,,,CON,5
+San Juan,Precinct 11,Straight Party,,,UUP,24
+San Juan,Precinct 11,Straight Party,,,LIB,5
+San Juan,Precinct 11,Straight Party,,,REP,119
+San Juan,Precinct 11,Straight Party,,,DEM,592
+San Juan,Precinct 11,Straight Party,,,IAP,27
+San Juan,Precinct 11,U.S. Senate,,Tim Aalders,CON,14
+San Juan,Precinct 11,U.S. Senate,,Craig R. Bowden,LIB,34
+San Juan,Precinct 11,U.S. Senate,,Reed C. McCandless,IAP,24
+San Juan,Precinct 11,U.S. Senate,,Jenny Wilson,DEM,727
+San Juan,Precinct 11,U.S. Senate,,Mitt Romney,REP,224
+San Juan,Precinct 11,U.S. Senate,,Write-In,,2
+San Juan,Precinct 11,U.S. House,3,John Curtis,REP,171
+San Juan,Precinct 11,U.S. House,3,James Courage Singer,DEM,793
+San Juan,Precinct 11,U.S. House,3,Timothy L. Zeidner,UUP,31
+San Juan,Precinct 11,U.S. House,3,Gregory C. Duerden,IAP,26
+San Juan,Precinct 11,State House,73,Phil Lyman,REP,273
+San Juan,Precinct 11,State House,73,Marsha M. Holland,,512
+San Juan,Precinct 12,Ballots Cast,,,,311
+San Juan,Precinct 12,Straight Party,,,CON,1
+San Juan,Precinct 12,Straight Party,,,UUP,1
+San Juan,Precinct 12,Straight Party,,,LIB,4
+San Juan,Precinct 12,Straight Party,,,REP,46
+San Juan,Precinct 12,Straight Party,,,DEM,19
+San Juan,Precinct 12,Straight Party,,,IAP,7
+San Juan,Precinct 12,U.S. Senate,,Tim Aalders,CON,8
+San Juan,Precinct 12,U.S. Senate,,Craig R. Bowden,LIB,4
+San Juan,Precinct 12,U.S. Senate,,Reed C. McCandless,IAP,2
+San Juan,Precinct 12,U.S. Senate,,Jenny Wilson,DEM,40
+San Juan,Precinct 12,U.S. Senate,,Mitt Romney,REP,246
+San Juan,Precinct 12,U.S. Senate,,Write-In,,1
+San Juan,Precinct 12,U.S. House,3,John Curtis,REP,235
+San Juan,Precinct 12,U.S. House,3,James Courage Singer,DEM,43
+San Juan,Precinct 12,U.S. House,3,Timothy L. Zeidner,UUP,2
+San Juan,Precinct 12,U.S. House,3,Gregory C. Duerden,IAP,9
+San Juan,Precinct 12,State House,73,Phil Lyman,REP,256
+San Juan,Precinct 12,State House,73,Marsha M. Holland,,51
