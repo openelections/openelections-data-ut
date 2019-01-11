@@ -9,19 +9,19 @@ candidate,office,district,party,county,precinct,votes
 ,Straight Party,,Green Party,Daggett,"1001:DS1, SD1",0
 ,Straight Party,,Democrat,Daggett,"1001:DS1, SD1",4
 ,Straight Party,,Independent American,Daggett,"1001:DS1, SD1",1
-Tim Aalders,US Senate,,Constitution,Daggett,"1001:DS1, SD1",0
-Craig R. Bowden,US Senate,,Libertarian,Daggett,"1001:DS1, SD1",1
-Reed C. McCandless,US Senate,,IAP,Daggett,"1001:DS1, SD1",0
-Jenny Wilson,US Senate,,Democrat,Daggett,"1001:DS1, SD1",22
-Mitt Romney,US Senate,,Republican,Daggett,"1001:DS1, SD1",46
-Write-In Totals,US Senate,,,Daggett,"1001:DS1, SD1",0
-Lee Castillo,US House,1,Democrat,Daggett,"1001:DS1, SD1",15
-Rob Bishop,US House,1,Republican,Daggett,"1001:DS1, SD1",49
-Eric Eliason,US House,1,United Utah Party ,Daggett,"1001:DS1, SD1",1
-Adam Davis,US House,1,Green Party,Daggett,"1001:DS1, SD1",1
-Cathy Callow-Heusser,State Senate ,26,United Utah Party ,Daggett,"1001:DS1, SD1",1
-Ronald Winterton,State Senate ,26,Republican,Daggett,"1001:DS1, SD1",44
-Eileen Gallagher ,State Senate ,26,Democrat,Daggett,"1001:DS1, SD1",19
+Tim Aalders,U.S. Senate,,Constitution,Daggett,"1001:DS1, SD1",0
+Craig R. Bowden,U.S. Senate,,Libertarian,Daggett,"1001:DS1, SD1",1
+Reed C. McCandless,U.S. Senate,,IAP,Daggett,"1001:DS1, SD1",0
+Jenny Wilson,U.S. Senate,,Democrat,Daggett,"1001:DS1, SD1",22
+Mitt Romney,U.S. Senate,,Republican,Daggett,"1001:DS1, SD1",46
+Write-In Totals,U.S. Senate,,,Daggett,"1001:DS1, SD1",0
+Lee Castillo,U.S. House,1,Democrat,Daggett,"1001:DS1, SD1",15
+Rob Bishop,U.S. House,1,Republican,Daggett,"1001:DS1, SD1",49
+Eric Eliason,U.S. House,1,United Utah Party ,Daggett,"1001:DS1, SD1",1
+Adam Davis,U.S. House,1,Green Party,Daggett,"1001:DS1, SD1",1
+Cathy Callow-Heusser,State Senate,26,United Utah Party ,Daggett,"1001:DS1, SD1",1
+Ronald Winterton,State Senate,26,Republican,Daggett,"1001:DS1, SD1",44
+Eileen Gallagher ,State Senate,26,Democrat,Daggett,"1001:DS1, SD1",19
 Logan Wilde,State House,53,Republican,Daggett,"1001:DS1, SD1",46
 Christopher Neville,State House,53,Democrat,Daggett,"1001:DS1, SD1",19
 ,Registered Voters,,,Daggett,"1001:DS2, SD2",49
@@ -34,19 +34,19 @@ Christopher Neville,State House,53,Democrat,Daggett,"1001:DS1, SD1",19
 ,Straight Party,,Green Party,Daggett,"1001:DS2, SD2",0
 ,Straight Party,,Democrat,Daggett,"1001:DS2, SD2",1
 ,Straight Party,,Independent American,Daggett,"1001:DS2, SD2",2
-Tim Aalders,US Senate,,Constitution,Daggett,"1001:DS2, SD2",0
-Craig R. Bowden,US Senate,,Libertarian,Daggett,"1001:DS2, SD2",0
-Reed C. McCandless,US Senate,,IAP,Daggett,"1001:DS2, SD2",0
-Jenny Wilson,US Senate,,Democrat,Daggett,"1001:DS2, SD2",6
-Mitt Romney,US Senate,,Republican,Daggett,"1001:DS2, SD2",28
-Write-In Totals,US Senate,,,Daggett,"1001:DS2, SD2",0
-Lee Castillo,US House,1,Democrat,Daggett,"1001:DS2, SD2",6
-Rob Bishop,US House,1,Republican,Daggett,"1001:DS2, SD2",22
-Eric Eliason,US House,1,United Utah Party ,Daggett,"1001:DS2, SD2",3
-Adam Davis,US House,1,Green Party,Daggett,"1001:DS2, SD2",2
-Cathy Callow-Heusser,State Senate ,26,United Utah Party ,Daggett,"1001:DS2, SD2",3
-Ronald Winterton,State Senate ,26,Republican,Daggett,"1001:DS2, SD2",24
-Eileen Gallagher ,State Senate ,26,Democrat,Daggett,"1001:DS2, SD2",7
+Tim Aalders,U.S. Senate,,Constitution,Daggett,"1001:DS2, SD2",0
+Craig R. Bowden,U.S. Senate,,Libertarian,Daggett,"1001:DS2, SD2",0
+Reed C. McCandless,U.S. Senate,,IAP,Daggett,"1001:DS2, SD2",0
+Jenny Wilson,U.S. Senate,,Democrat,Daggett,"1001:DS2, SD2",6
+Mitt Romney,U.S. Senate,,Republican,Daggett,"1001:DS2, SD2",28
+Write-In Totals,U.S. Senate,,,Daggett,"1001:DS2, SD2",0
+Lee Castillo,U.S. House,1,Democrat,Daggett,"1001:DS2, SD2",6
+Rob Bishop,U.S. House,1,Republican,Daggett,"1001:DS2, SD2",22
+Eric Eliason,U.S. House,1,United Utah Party ,Daggett,"1001:DS2, SD2",3
+Adam Davis,U.S. House,1,Green Party,Daggett,"1001:DS2, SD2",2
+Cathy Callow-Heusser,State Senate,26,United Utah Party ,Daggett,"1001:DS2, SD2",3
+Ronald Winterton,State Senate,26,Republican,Daggett,"1001:DS2, SD2",24
+Eileen Gallagher ,State Senate,26,Democrat,Daggett,"1001:DS2, SD2",7
 Logan Wilde,State House,53,Republican,Daggett,"1001:DS2, SD2",25
 Christopher Neville,State House,53,Democrat,Daggett,"1001:DS2, SD2",7
 ,Registered Voters,,,Daggett,1002,229
@@ -59,19 +59,19 @@ Christopher Neville,State House,53,Democrat,Daggett,"1001:DS2, SD2",7
 ,Straight Party,,Green Party,Daggett,1002,0
 ,Straight Party,,Democrat,Daggett,1002,6
 ,Straight Party,,Independent American,Daggett,1002,3
-Tim Aalders,US Senate,,Constitution,Daggett,1002,5
-Craig R. Bowden,US Senate,,Libertarian,Daggett,1002,2
-Reed C. McCandless,US Senate,,IAP,Daggett,1002,3
-Jenny Wilson,US Senate,,Democrat,Daggett,1002,28
-Mitt Romney,US Senate,,Republican,Daggett,1002,138
-Write-In Totals,US Senate,,,Daggett,1002,0
-Lee Castillo,US House,1,Democrat,Daggett,1002,26
-Rob Bishop,US House,1,Republican,Daggett,1002,134
-Eric Eliason,US House,1,United Utah Party ,Daggett,1002,15
-Adam Davis,US House,1,Green Party,Daggett,1002,0
-Cathy Callow-Heusser,State Senate ,26,United Utah Party ,Daggett,1002,5
-Ronald Winterton,State Senate ,26,Republican,Daggett,1002,133
-Eileen Gallagher ,State Senate ,26,Democrat,Daggett,1002,30
+Tim Aalders,U.S. Senate,,Constitution,Daggett,1002,5
+Craig R. Bowden,U.S. Senate,,Libertarian,Daggett,1002,2
+Reed C. McCandless,U.S. Senate,,IAP,Daggett,1002,3
+Jenny Wilson,U.S. Senate,,Democrat,Daggett,1002,28
+Mitt Romney,U.S. Senate,,Republican,Daggett,1002,138
+Write-In Totals,U.S. Senate,,,Daggett,1002,0
+Lee Castillo,U.S. House,1,Democrat,Daggett,1002,26
+Rob Bishop,U.S. House,1,Republican,Daggett,1002,134
+Eric Eliason,U.S. House,1,United Utah Party ,Daggett,1002,15
+Adam Davis,U.S. House,1,Green Party,Daggett,1002,0
+Cathy Callow-Heusser,State Senate,26,United Utah Party ,Daggett,1002,5
+Ronald Winterton,State Senate,26,Republican,Daggett,1002,133
+Eileen Gallagher ,State Senate,26,Democrat,Daggett,1002,30
 Logan Wilde,State House,53,Republican,Daggett,1002,139
 Christopher Neville,State House,53,Democrat,Daggett,1002,32
 ,Registered Voters,,,Daggett,1002:SD2,94
@@ -84,19 +84,19 @@ Christopher Neville,State House,53,Democrat,Daggett,1002,32
 ,Straight Party,,Green Party,Daggett,1002:SD2,0
 ,Straight Party,,Democrat,Daggett,1002:SD2,3
 ,Straight Party,,Independent American,Daggett,1002:SD2,1
-Tim Aalders,US Senate,,Constitution,Daggett,1002:SD2,0
-Craig R. Bowden,US Senate,,Libertarian,Daggett,1002:SD2,1
-Reed C. McCandless,US Senate,,IAP,Daggett,1002:SD2,3
-Jenny Wilson,US Senate,,Democrat,Daggett,1002:SD2,15
-Mitt Romney,US Senate,,Republican,Daggett,1002:SD2,54
-Write-In Totals,US Senate,,,Daggett,1002:SD2,0
-Lee Castillo,US House,1,Democrat,Daggett,1002:SD2,10
-Rob Bishop,US House,1,Republican,Daggett,1002:SD2,57
-Eric Eliason,US House,1,United Utah Party ,Daggett,1002:SD2,4
-Adam Davis,US House,1,Green Party,Daggett,1002:SD2,1
-Cathy Callow-Heusser,State Senate ,26,United Utah Party ,Daggett,1002:SD2,1
-Ronald Winterton,State Senate ,26,Republican,Daggett,1002:SD2,52
-Eileen Gallagher ,State Senate ,26,Democrat,Daggett,1002:SD2,16
+Tim Aalders,U.S. Senate,,Constitution,Daggett,1002:SD2,0
+Craig R. Bowden,U.S. Senate,,Libertarian,Daggett,1002:SD2,1
+Reed C. McCandless,U.S. Senate,,IAP,Daggett,1002:SD2,3
+Jenny Wilson,U.S. Senate,,Democrat,Daggett,1002:SD2,15
+Mitt Romney,U.S. Senate,,Republican,Daggett,1002:SD2,54
+Write-In Totals,U.S. Senate,,,Daggett,1002:SD2,0
+Lee Castillo,U.S. House,1,Democrat,Daggett,1002:SD2,10
+Rob Bishop,U.S. House,1,Republican,Daggett,1002:SD2,57
+Eric Eliason,U.S. House,1,United Utah Party ,Daggett,1002:SD2,4
+Adam Davis,U.S. House,1,Green Party,Daggett,1002:SD2,1
+Cathy Callow-Heusser,State Senate,26,United Utah Party ,Daggett,1002:SD2,1
+Ronald Winterton,State Senate,26,Republican,Daggett,1002:SD2,52
+Eileen Gallagher ,State Senate,26,Democrat,Daggett,1002:SD2,16
 Logan Wilde,State House,53,Republican,Daggett,1002:SD2,57
 Christopher Neville,State House,53,Democrat,Daggett,1002:SD2,14
 ,Registered Voters,,,Daggett,"1002:MS3,SD3",111
@@ -109,19 +109,19 @@ Christopher Neville,State House,53,Democrat,Daggett,1002:SD2,14
 ,Straight Party,,Green Party,Daggett,"1002:MS3,SD3",0
 ,Straight Party,,Democrat,Daggett,"1002:MS3,SD3",6
 ,Straight Party,,Independent American,Daggett,"1002:MS3,SD3",2
-Tim Aalders,US Senate,,Constitution,Daggett,"1002:MS3,SD3",4
-Craig R. Bowden,US Senate,,Libertarian,Daggett,"1002:MS3,SD3",3
-Reed C. McCandless,US Senate,,IAP,Daggett,"1002:MS3,SD3",0
-Jenny Wilson,US Senate,,Democrat,Daggett,"1002:MS3,SD3",9
-Mitt Romney,US Senate,,Republican,Daggett,"1002:MS3,SD3",67
-Write-In Totals,US Senate,,,Daggett,"1002:MS3,SD3",0
-Lee Castillo,US House,1,Democrat,Daggett,"1002:MS3,SD3",14
-Rob Bishop,US House,1,Republican,Daggett,"1002:MS3,SD3",61
-Eric Eliason,US House,1,United Utah Party ,Daggett,"1002:MS3,SD3",6
-Adam Davis,US House,1,Green Party,Daggett,"1002:MS3,SD3",0
-Cathy Callow-Heusser,State Senate ,26,United Utah Party ,Daggett,"1002:MS3,SD3",2
-Ronald Winterton,State Senate ,26,Republican,Daggett,"1002:MS3,SD3",58
-Eileen Gallagher ,State Senate ,26,Democrat,Daggett,"1002:MS3,SD3",17
+Tim Aalders,U.S. Senate,,Constitution,Daggett,"1002:MS3,SD3",4
+Craig R. Bowden,U.S. Senate,,Libertarian,Daggett,"1002:MS3,SD3",3
+Reed C. McCandless,U.S. Senate,,IAP,Daggett,"1002:MS3,SD3",0
+Jenny Wilson,U.S. Senate,,Democrat,Daggett,"1002:MS3,SD3",9
+Mitt Romney,U.S. Senate,,Republican,Daggett,"1002:MS3,SD3",67
+Write-In Totals,U.S. Senate,,,Daggett,"1002:MS3,SD3",0
+Lee Castillo,U.S. House,1,Democrat,Daggett,"1002:MS3,SD3",14
+Rob Bishop,U.S. House,1,Republican,Daggett,"1002:MS3,SD3",61
+Eric Eliason,U.S. House,1,United Utah Party ,Daggett,"1002:MS3,SD3",6
+Adam Davis,U.S. House,1,Green Party,Daggett,"1002:MS3,SD3",0
+Cathy Callow-Heusser,State Senate,26,United Utah Party ,Daggett,"1002:MS3,SD3",2
+Ronald Winterton,State Senate,26,Republican,Daggett,"1002:MS3,SD3",58
+Eileen Gallagher ,State Senate,26,Democrat,Daggett,"1002:MS3,SD3",17
 Logan Wilde,State House,53,Republican,Daggett,"1002:MS3,SD3",62
 Christopher Neville,State House,53,Democrat,Daggett,"1002:MS3,SD3",14
 ,Registered Voters,,,Daggett,1003:SD1,7
@@ -134,18 +134,18 @@ Christopher Neville,State House,53,Democrat,Daggett,"1002:MS3,SD3",14
 ,Straight Party,,Green Party,Daggett,1003:SD1,0
 ,Straight Party,,Democrat,Daggett,1003:SD1,0
 ,Straight Party,,Independent American,Daggett,1003:SD1,0
-Tim Aalders,US Senate,,Constitution,Daggett,1003:SD1,2
-Craig R. Bowden,US Senate,,Libertarian,Daggett,1003:SD1,0
-Reed C. McCandless,US Senate,,IAP,Daggett,1003:SD1,0
-Jenny Wilson,US Senate,,Democrat,Daggett,1003:SD1,0
-Mitt Romney,US Senate,,Republican,Daggett,1003:SD1,2
-Write-In Totals,US Senate,,,Daggett,1003:SD1,0
-Lee Castillo,US House,1,Democrat,Daggett,1003:SD1,1
-Rob Bishop,US House,1,Republican,Daggett,1003:SD1,3
-Eric Eliason,US House,1,United Utah Party ,Daggett,1003:SD1,0
-Adam Davis,US House,1,Green Party,Daggett,1003:SD1,0
-Cathy Callow-Heusser,State Senate ,26,United Utah Party ,Daggett,1003:SD1,0
-Ronald Winterton,State Senate ,26,Republican,Daggett,1003:SD1,3
-Eileen Gallagher ,State Senate ,26,Democrat,Daggett,1003:SD1,1
+Tim Aalders,U.S. Senate,,Constitution,Daggett,1003:SD1,2
+Craig R. Bowden,U.S. Senate,,Libertarian,Daggett,1003:SD1,0
+Reed C. McCandless,U.S. Senate,,IAP,Daggett,1003:SD1,0
+Jenny Wilson,U.S. Senate,,Democrat,Daggett,1003:SD1,0
+Mitt Romney,U.S. Senate,,Republican,Daggett,1003:SD1,2
+Write-In Totals,U.S. Senate,,,Daggett,1003:SD1,0
+Lee Castillo,U.S. House,1,Democrat,Daggett,1003:SD1,1
+Rob Bishop,U.S. House,1,Republican,Daggett,1003:SD1,3
+Eric Eliason,U.S. House,1,United Utah Party ,Daggett,1003:SD1,0
+Adam Davis,U.S. House,1,Green Party,Daggett,1003:SD1,0
+Cathy Callow-Heusser,State Senate,26,United Utah Party ,Daggett,1003:SD1,0
+Ronald Winterton,State Senate,26,Republican,Daggett,1003:SD1,3
+Eileen Gallagher ,State Senate,26,Democrat,Daggett,1003:SD1,1
 Logan Wilde,State House,53,Republican,Daggett,1003:SD1,3
 Christopher Neville,State House,53,Democrat,Daggett,1003:SD1,1
