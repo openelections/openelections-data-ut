@@ -1,0 +1,199 @@
+county,precinct,office,district,party,candidate,votes
+Garfield,Antimony AN1:1,Registered Voters,,,,92
+Garfield,Boulder BO2:1,Registered Voters,,,,274
+Garfield,Bryce Canyon City BR11:1,Registered Voters,,,,34
+Garfield,Cannonville CA3:1,Registered Voters,,,,81
+Garfield,Escalante ES4:1,Registered Voters,,,,547
+Garfield,Hatch HA5:1,Registered Voters,,,,163
+Garfield,Henrieville HE6:1,Registered Voters,,,,129
+Garfield,Panguitch 2 PA8:1,Registered Voters,,,,464
+Garfield,Ticaboo TI9:1,Registered Voters,,,,25
+Garfield,Tropic TR10:1,Registered Voters,,,,314
+Garfield,Panguitch 1 PA7:1,Registered Voters,,,,598
+Garfield,Antimony AN1:1,Ballots Cast,,,,71
+Garfield,Boulder BO2:1,Ballots Cast,,,,243
+Garfield,Bryce Canyon City BR11:1,Ballots Cast,,,,31
+Garfield,Cannonville CA3:1,Ballots Cast,,,,70
+Garfield,Escalante ES4:1,Ballots Cast,,,,444
+Garfield,Hatch HA5:1,Ballots Cast,,,,143
+Garfield,Henrieville HE6:1,Ballots Cast,,,,113
+Garfield,Panguitch 2 PA8:1,Ballots Cast,,,,367
+Garfield,Ticaboo TI9:1,Ballots Cast,,,,15
+Garfield,Tropic TR10:1,Ballots Cast,,,,247
+Garfield,Panguitch 1 PA7:1,Ballots Cast,,,,454
+Garfield,Antimony AN1:1,Straight Party,,CON,Constitution,0
+Garfield,Boulder BO2:1,Straight Party,,CON,Constitution,1
+Garfield,Bryce Canyon City BR11:1,Straight Party,,CON,Constitution,0
+Garfield,Cannonville CA3:1,Straight Party,,CON,Constitution,0
+Garfield,Escalante ES4:1,Straight Party,,CON,Constitution,0
+Garfield,Hatch HA5:1,Straight Party,,CON,Constitution,0
+Garfield,Henrieville HE6:1,Straight Party,,CON,Constitution,1
+Garfield,Panguitch 2 PA8:1,Straight Party,,CON,Constitution,0
+Garfield,Ticaboo TI9:1,Straight Party,,CON,Constitution,0
+Garfield,Tropic TR10:1,Straight Party,,CON,Constitution,0
+Garfield,Panguitch 1 PA7:1,Straight Party,,CON,Constitution,1
+Garfield,Antimony AN1:1,Straight Party,,UUP,United Utah,0
+Garfield,Boulder BO2:1,Straight Party,,UUP,United Utah,0
+Garfield,Bryce Canyon City BR11:1,Straight Party,,UUP,United Utah,0
+Garfield,Cannonville CA3:1,Straight Party,,UUP,United Utah,0
+Garfield,Escalante ES4:1,Straight Party,,UUP,United Utah,0
+Garfield,Hatch HA5:1,Straight Party,,UUP,United Utah,0
+Garfield,Henrieville HE6:1,Straight Party,,UUP,United Utah,0
+Garfield,Panguitch 2 PA8:1,Straight Party,,UUP,United Utah,0
+Garfield,Ticaboo TI9:1,Straight Party,,UUP,United Utah,0
+Garfield,Tropic TR10:1,Straight Party,,UUP,United Utah,0
+Garfield,Panguitch 1 PA7:1,Straight Party,,UUP,United Utah,0
+Garfield,Antimony AN1:1,Straight Party,,LIB,Libertarian,0
+Garfield,Boulder BO2:1,Straight Party,,LIB,Libertarian,0
+Garfield,Bryce Canyon City BR11:1,Straight Party,,LIB,Libertarian,0
+Garfield,Cannonville CA3:1,Straight Party,,LIB,Libertarian,0
+Garfield,Escalante ES4:1,Straight Party,,LIB,Libertarian,0
+Garfield,Hatch HA5:1,Straight Party,,LIB,Libertarian,0
+Garfield,Henrieville HE6:1,Straight Party,,LIB,Libertarian,3
+Garfield,Panguitch 2 PA8:1,Straight Party,,LIB,Libertarian,1
+Garfield,Ticaboo TI9:1,Straight Party,,LIB,Libertarian,0
+Garfield,Tropic TR10:1,Straight Party,,LIB,Libertarian,0
+Garfield,Panguitch 1 PA7:1,Straight Party,,LIB,Libertarian,5
+Garfield,Antimony AN1:1,Straight Party,,REP,Republican,22
+Garfield,Boulder BO2:1,Straight Party,,REP,Republican,16
+Garfield,Bryce Canyon City BR11:1,Straight Party,,REP,Republican,7
+Garfield,Cannonville CA3:1,Straight Party,,REP,Republican,23
+Garfield,Escalante ES4:1,Straight Party,,REP,Republican,115
+Garfield,Hatch HA5:1,Straight Party,,REP,Republican,43
+Garfield,Henrieville HE6:1,Straight Party,,REP,Republican,31
+Garfield,Panguitch 2 PA8:1,Straight Party,,REP,Republican,112
+Garfield,Ticaboo TI9:1,Straight Party,,REP,Republican,8
+Garfield,Tropic TR10:1,Straight Party,,REP,Republican,71
+Garfield,Panguitch 1 PA7:1,Straight Party,,REP,Republican,119
+Garfield,Antimony AN1:1,Straight Party,,DEM,Democratic,2
+Garfield,Boulder BO2:1,Straight Party,,DEM,Democratic,12
+Garfield,Bryce Canyon City BR11:1,Straight Party,,DEM,Democratic,1
+Garfield,Cannonville CA3:1,Straight Party,,DEM,Democratic,0
+Garfield,Escalante ES4:1,Straight Party,,DEM,Democratic,11
+Garfield,Hatch HA5:1,Straight Party,,DEM,Democratic,4
+Garfield,Henrieville HE6:1,Straight Party,,DEM,Democratic,0
+Garfield,Panguitch 2 PA8:1,Straight Party,,DEM,Democratic,6
+Garfield,Ticaboo TI9:1,Straight Party,,DEM,Democratic,2
+Garfield,Tropic TR10:1,Straight Party,,DEM,Democratic,4
+Garfield,Panguitch 1 PA7:1,Straight Party,,DEM,Democratic,12
+Garfield,Antimony AN1:1,Straight Party,,IAP,Independent American,0
+Garfield,Boulder BO2:1,Straight Party,,IAP,Independent American,1
+Garfield,Bryce Canyon City BR11:1,Straight Party,,IAP,Independent American,0
+Garfield,Cannonville CA3:1,Straight Party,,IAP,Independent American,0
+Garfield,Escalante ES4:1,Straight Party,,IAP,Independent American,4
+Garfield,Hatch HA5:1,Straight Party,,IAP,Independent American,3
+Garfield,Henrieville HE6:1,Straight Party,,IAP,Independent American,2
+Garfield,Panguitch 2 PA8:1,Straight Party,,IAP,Independent American,0
+Garfield,Ticaboo TI9:1,Straight Party,,IAP,Independent American,0
+Garfield,Tropic TR10:1,Straight Party,,IAP,Independent American,0
+Garfield,Panguitch 1 PA7:1,Straight Party,,IAP,Independent American,6
+Garfield,Antimony AN1:1,U.S. Senate,,CON,Tim Aalders,5
+Garfield,Boulder BO2:1,U.S. Senate,,CON,Tim Aalders,14
+Garfield,Bryce Canyon City BR11:1,U.S. Senate,,CON,Tim Aalders,0
+Garfield,Cannonville CA3:1,U.S. Senate,,CON,Tim Aalders,2
+Garfield,Escalante ES4:1,U.S. Senate,,CON,Tim Aalders,8
+Garfield,Hatch HA5:1,U.S. Senate,,CON,Tim Aalders,8
+Garfield,Henrieville HE6:1,U.S. Senate,,CON,Tim Aalders,3
+Garfield,Panguitch 2 PA8:1,U.S. Senate,,CON,Tim Aalders,11
+Garfield,Ticaboo TI9:1,U.S. Senate,,CON,Tim Aalders,0
+Garfield,Tropic TR10:1,U.S. Senate,,CON,Tim Aalders,2
+Garfield,Panguitch 1 PA7:1,U.S. Senate,,CON,Tim Aalders,18
+Garfield,Antimony AN1:1,U.S. Senate,,LIB,Craig R. Bowden,1
+Garfield,Boulder BO2:1,U.S. Senate,,LIB,Craig R. Bowden,4
+Garfield,Bryce Canyon City BR11:1,U.S. Senate,,LIB,Craig R. Bowden,0
+Garfield,Cannonville CA3:1,U.S. Senate,,LIB,Craig R. Bowden,1
+Garfield,Escalante ES4:1,U.S. Senate,,LIB,Craig R. Bowden,4
+Garfield,Hatch HA5:1,U.S. Senate,,LIB,Craig R. Bowden,6
+Garfield,Henrieville HE6:1,U.S. Senate,,LIB,Craig R. Bowden,2
+Garfield,Panguitch 2 PA8:1,U.S. Senate,,LIB,Craig R. Bowden,2
+Garfield,Ticaboo TI9:1,U.S. Senate,,LIB,Craig R. Bowden,1
+Garfield,Tropic TR10:1,U.S. Senate,,LIB,Craig R. Bowden,3
+Garfield,Panguitch 1 PA7:1,U.S. Senate,,LIB,Craig R. Bowden,12
+Garfield,Antimony AN1:1,U.S. Senate,,IAP,Reed C. McCandless,0
+Garfield,Boulder BO2:1,U.S. Senate,,IAP,Reed C. McCandless,0
+Garfield,Bryce Canyon City BR11:1,U.S. Senate,,IAP,Reed C. McCandless,0
+Garfield,Cannonville CA3:1,U.S. Senate,,IAP,Reed C. McCandless,1
+Garfield,Escalante ES4:1,U.S. Senate,,IAP,Reed C. McCandless,9
+Garfield,Hatch HA5:1,U.S. Senate,,IAP,Reed C. McCandless,1
+Garfield,Henrieville HE6:1,U.S. Senate,,IAP,Reed C. McCandless,0
+Garfield,Panguitch 2 PA8:1,U.S. Senate,,IAP,Reed C. McCandless,4
+Garfield,Ticaboo TI9:1,U.S. Senate,,IAP,Reed C. McCandless,0
+Garfield,Tropic TR10:1,U.S. Senate,,IAP,Reed C. McCandless,1
+Garfield,Panguitch 1 PA7:1,U.S. Senate,,IAP,Reed C. McCandless,3
+Garfield,Antimony AN1:1,U.S. Senate,,DEM,Jenny Wilson,5
+Garfield,Boulder BO2:1,U.S. Senate,,DEM,Jenny Wilson,140
+Garfield,Bryce Canyon City BR11:1,U.S. Senate,,DEM,Jenny Wilson,3
+Garfield,Cannonville CA3:1,U.S. Senate,,DEM,Jenny Wilson,2
+Garfield,Escalante ES4:1,U.S. Senate,,DEM,Jenny Wilson,116
+Garfield,Hatch HA5:1,U.S. Senate,,DEM,Jenny Wilson,15
+Garfield,Henrieville HE6:1,U.S. Senate,,DEM,Jenny Wilson,14
+Garfield,Panguitch 2 PA8:1,U.S. Senate,,DEM,Jenny Wilson,28
+Garfield,Ticaboo TI9:1,U.S. Senate,,DEM,Jenny Wilson,4
+Garfield,Tropic TR10:1,U.S. Senate,,DEM,Jenny Wilson,24
+Garfield,Panguitch 1 PA7:1,U.S. Senate,,DEM,Jenny Wilson,37
+Garfield,Antimony AN1:1,U.S. Senate,,REP,Mitt Romney,55
+Garfield,Boulder BO2:1,U.S. Senate,,REP,Mitt Romney,73
+Garfield,Bryce Canyon City BR11:1,U.S. Senate,,REP,Mitt Romney,27
+Garfield,Cannonville CA3:1,U.S. Senate,,REP,Mitt Romney,64
+Garfield,Escalante ES4:1,U.S. Senate,,REP,Mitt Romney,290
+Garfield,Hatch HA5:1,U.S. Senate,,REP,Mitt Romney,110
+Garfield,Henrieville HE6:1,U.S. Senate,,REP,Mitt Romney,94
+Garfield,Panguitch 2 PA8:1,U.S. Senate,,REP,Mitt Romney,315
+Garfield,Ticaboo TI9:1,U.S. Senate,,REP,Mitt Romney,10
+Garfield,Tropic TR10:1,U.S. Senate,,REP,Mitt Romney,214
+Garfield,Panguitch 1 PA7:1,U.S. Senate,,REP,Mitt Romney,374
+Garfield,Antimony AN1:1,U.S. House,2,REP,Chris Stewart,60
+Garfield,Boulder BO2:1,U.S. House,2,REP,Chris Stewart,81
+Garfield,Bryce Canyon City BR11:1,U.S. House,2,REP,Chris Stewart,28
+Garfield,Cannonville CA3:1,U.S. House,2,REP,Chris Stewart,67
+Garfield,Escalante ES4:1,U.S. House,2,REP,Chris Stewart,299
+Garfield,Hatch HA5:1,U.S. House,2,REP,Chris Stewart,117
+Garfield,Henrieville HE6:1,U.S. House,2,REP,Chris Stewart,91
+Garfield,Panguitch 2 PA8:1,U.S. House,2,REP,Chris Stewart,317
+Garfield,Ticaboo TI9:1,U.S. House,2,REP,Chris Stewart,9
+Garfield,Tropic TR10:1,U.S. House,2,REP,Chris Stewart,216
+Garfield,Panguitch 1 PA7:1,U.S. House,2,REP,Chris Stewart,385
+Garfield,Antimony AN1:1,U.S. House,2,LIB,Jeffrey Whipple,3
+Garfield,Boulder BO2:1,U.S. House,2,LIB,Jeffrey Whipple,7
+Garfield,Bryce Canyon City BR11:1,U.S. House,2,LIB,Jeffrey Whipple,0
+Garfield,Cannonville CA3:1,U.S. House,2,LIB,Jeffrey Whipple,0
+Garfield,Escalante ES4:1,U.S. House,2,LIB,Jeffrey Whipple,8
+Garfield,Hatch HA5:1,U.S. House,2,LIB,Jeffrey Whipple,3
+Garfield,Henrieville HE6:1,U.S. House,2,LIB,Jeffrey Whipple,6
+Garfield,Panguitch 2 PA8:1,U.S. House,2,LIB,Jeffrey Whipple,5
+Garfield,Ticaboo TI9:1,U.S. House,2,LIB,Jeffrey Whipple,1
+Garfield,Tropic TR10:1,U.S. House,2,LIB,Jeffrey Whipple,1
+Garfield,Panguitch 1 PA7:1,U.S. House,2,LIB,Jeffrey Whipple,13
+Garfield,Antimony AN1:1,U.S. House,2,DEM,Shireen Ghorbani,8
+Garfield,Boulder BO2:1,U.S. House,2,DEM,Shireen Ghorbani,142
+Garfield,Bryce Canyon City BR11:1,U.S. House,2,DEM,Shireen Ghorbani,3
+Garfield,Cannonville CA3:1,U.S. House,2,DEM,Shireen Ghorbani,1
+Garfield,Escalante ES4:1,U.S. House,2,DEM,Shireen Ghorbani,129
+Garfield,Hatch HA5:1,U.S. House,2,DEM,Shireen Ghorbani,20
+Garfield,Henrieville HE6:1,U.S. House,2,DEM,Shireen Ghorbani,15
+Garfield,Panguitch 2 PA8:1,U.S. House,2,DEM,Shireen Ghorbani,36
+Garfield,Ticaboo TI9:1,U.S. House,2,DEM,Shireen Ghorbani,5
+Garfield,Tropic TR10:1,U.S. House,2,DEM,Shireen Ghorbani,24
+Garfield,Panguitch 1 PA7:1,U.S. House,2,DEM,Shireen Ghorbani,44
+Garfield,Antimony AN1:1,State House,73,REP,Phil Lyman,57
+Garfield,Boulder BO2:1,State House,73,REP,Phil Lyman,73
+Garfield,Bryce Canyon City BR11:1,State House,73,REP,Phil Lyman,26
+Garfield,Cannonville CA3:1,State House,73,REP,Phil Lyman,46
+Garfield,Escalante ES4:1,State House,73,REP,Phil Lyman,269
+Garfield,Hatch HA5:1,State House,73,REP,Phil Lyman,93
+Garfield,Henrieville HE6:1,State House,73,REP,Phil Lyman,74
+Garfield,Panguitch 2 PA8:1,State House,73,REP,Phil Lyman,263
+Garfield,Ticaboo TI9:1,State House,73,REP,Phil Lyman,9
+Garfield,Tropic TR10:1,State House,73,REP,Phil Lyman,173
+Garfield,Panguitch 1 PA7:1,State House,73,REP,Phil Lyman,317
+Garfield,Antimony AN1:1,State House,73,,Marsha M. Holland,12
+Garfield,Boulder BO2:1,State House,73,,Marsha M. Holland,168
+Garfield,Bryce Canyon City BR11:1,State House,73,,Marsha M. Holland,4
+Garfield,Cannonville CA3:1,State House,73,,Marsha M. Holland,24
+Garfield,Escalante ES4:1,State House,73,,Marsha M. Holland,161
+Garfield,Hatch HA5:1,State House,73,,Marsha M. Holland,39
+Garfield,Henrieville HE6:1,State House,73,,Marsha M. Holland,36
+Garfield,Panguitch 2 PA8:1,State House,73,,Marsha M. Holland,89
+Garfield,Ticaboo TI9:1,State House,73,,Marsha M. Holland,5
+Garfield,Tropic TR10:1,State House,73,,Marsha M. Holland,70
+Garfield,Panguitch 1 PA7:1,State House,73,,Marsha M. Holland,114
