@@ -1,85 +1,85 @@
 county,precinct,office,district,party,candidate,votes
-Beaver,Beaver 1,US Senate,,Con ,Tim Aalders,19
-Beaver,Beaver 2,US Senate,,Con ,Tim Aalders,17
-Beaver,Beaver 3,US Senate,,Con ,Tim Aalders,12
-Beaver,Beaver 4,US Senate,,Con ,Tim Aalders,23
-Beaver,Greenville,US Senate,,Con ,Tim Aalders,1
-Beaver,Milford 1,US Senate,,Con ,Tim Aalders,0
-Beaver,Milford 2,US Senate,,Con ,Tim Aalders,18
-Beaver,Milford 3,US Senate,,Con ,Tim Aalders,8
-Beaver,Minersville,US Senate,,Con ,Tim Aalders,40
-Beaver,Beaver 1,US Senate,,Lbt,Craig Bowden,9
-Beaver,Beaver 2,US Senate,,Lbt,Craig Bowden,10
-Beaver,Beaver 3,US Senate,,Lbt,Craig Bowden,2
-Beaver,Beaver 4,US Senate,,Lbt,Craig Bowden,4
-Beaver,Greenville,US Senate,,Lbt,Craig Bowden,1
-Beaver,Milford 1,US Senate,,Lbt,Craig Bowden,6
-Beaver,Milford 2,US Senate,,Lbt,Craig Bowden,7
-Beaver,Milford 3,US Senate,,Lbt,Craig Bowden,3
-Beaver,Minersville,US Senate,,Lbt,Craig Bowden,3
-Beaver,Beaver 1,US Senate,,IAP,Reed McCandless,8
-Beaver,Beaver 2,US Senate,,IAP,Reed McCandless,3
-Beaver,Beaver 3,US Senate,,IAP,Reed McCandless,0
-Beaver,Beaver 4,US Senate,,IAP,Reed McCandless,1
-Beaver,Greenville,US Senate,,IAP,Reed McCandless,6
-Beaver,Milford 1,US Senate,,IAP,Reed McCandless,0
-Beaver,Milford 2,US Senate,,IAP,Reed McCandless,3
-Beaver,Milford 3,US Senate,,IAP,Reed McCandless,1
-Beaver,Minersville,US Senate,,IAP,Reed McCandless,8
-Beaver,Beaver 1,US Senate,,Dem,Jenny Wilson,46
-Beaver,Beaver 2,US Senate,,Dem,Jenny Wilson,46
-Beaver,Beaver 3,US Senate,,Dem,Jenny Wilson,30
-Beaver,Beaver 4,US Senate,,Dem,Jenny Wilson,7
-Beaver,Greenville,US Senate,,Dem,Jenny Wilson,9
-Beaver,Milford 1,US Senate,,Dem,Jenny Wilson,23
-Beaver,Milford 2,US Senate,,Dem,Jenny Wilson,102
-Beaver,Milford 3,US Senate,,Dem,Jenny Wilson,16
-Beaver,Minersville,US Senate,,Dem,Jenny Wilson,19
-Beaver,Beaver 1,US Senate,,Rep,Mitt Romney,402
-Beaver,Beaver 2,US Senate,,Rep,Mitt Romney,310
-Beaver,Beaver 3,US Senate,,Rep,Mitt Romney,244
-Beaver,Beaver 4,US Senate,,Rep,Mitt Romney,84
-Beaver,Greenville,US Senate,,Rep,Mitt Romney,56
-Beaver,Milford 1,US Senate,,Rep,Mitt Romney,38
-Beaver,Milford 2,US Senate,,Rep,Mitt Romney,182
-Beaver,Milford 3,US Senate,,Rep,Mitt Romney,61
-Beaver,Minersville,US Senate,,Rep,Mitt Romney,243
-Beaver,Beaver 1,US Senate,,,write-in,1
-Beaver,Beaver 2,US Senate,,,write-in,0
-Beaver,Beaver 3,US Senate,,,write-in,2
-Beaver,Beaver 4,US Senate,,,write-in,0
-Beaver,Greenville,US Senate,,,write-in,1
-Beaver,Milford 1,US Senate,,,write-in,0
-Beaver,Milford 2,US Senate,,,write-in,3
-Beaver,Milford 3,US Senate,,,write-in,1
-Beaver,Minersville,US Senate,,,write-in,1
-Beaver,Beaver 1,US House,2,Rep,Chris Stewart,424
-Beaver,Beaver 2,US House,2,Rep,Chris Stewart,321
-Beaver,Beaver 3,US House,2,Rep,Chris Stewart,263
-Beaver,Beaver 4,US House,2,Rep,Chris Stewart,102
-Beaver,Greenville,US House,2,Rep,Chris Stewart,59
-Beaver,Milford 1,US House,2,Rep,Chris Stewart,41
-Beaver,Milford 2,US House,2,Rep,Chris Stewart,215
-Beaver,Milford 3,US House,2,Rep,Chris Stewart,60
-Beaver,Minersville,US House,2,Rep,Chris Stewart,284
-Beaver,Beaver 1,US House,2,Lbt,Jeffrey Whipple,11
-Beaver,Beaver 2,US House,2,Lbt,Jeffrey Whipple,20
-Beaver,Beaver 3,US House,2,Lbt,Jeffrey Whipple,2
-Beaver,Beaver 4,US House,2,Lbt,Jeffrey Whipple,9
-Beaver,Greenville,US House,2,Lbt,Jeffrey Whipple,0
-Beaver,Milford 1,US House,2,Lbt,Jeffrey Whipple,5
-Beaver,Milford 2,US House,2,Lbt,Jeffrey Whipple,5
-Beaver,Milford 3,US House,2,Lbt,Jeffrey Whipple,9
-Beaver,Minersville,US House,2,Lbt,Jeffrey Whipple,12
-Beaver,Beaver 1,US House,2,Dem,Shireen Ghorbani,47
-Beaver,Beaver 2,US House,2,Dem,Shireen Ghorbani,42
-Beaver,Beaver 3,US House,2,Dem,Shireen Ghorbani,24
-Beaver,Beaver 4,US House,2,Dem,Shireen Ghorbani,7
-Beaver,Greenville,US House,2,Dem,Shireen Ghorbani,13
-Beaver,Milford 1,US House,2,Dem,Shireen Ghorbani,22
-Beaver,Milford 2,US House,2,Dem,Shireen Ghorbani,91
-Beaver,Milford 3,US House,2,Dem,Shireen Ghorbani,17
-Beaver,Minersville,US House,2,Dem,Shireen Ghorbani,14
+Beaver,Beaver 1,U.S. Senate,,Con ,Tim Aalders,19
+Beaver,Beaver 2,U.S. Senate,,Con ,Tim Aalders,17
+Beaver,Beaver 3,U.S. Senate,,Con ,Tim Aalders,12
+Beaver,Beaver 4,U.S. Senate,,Con ,Tim Aalders,23
+Beaver,Greenville,U.S. Senate,,Con ,Tim Aalders,1
+Beaver,Milford 1,U.S. Senate,,Con ,Tim Aalders,0
+Beaver,Milford 2,U.S. Senate,,Con ,Tim Aalders,18
+Beaver,Milford 3,U.S. Senate,,Con ,Tim Aalders,8
+Beaver,Minersville,U.S. Senate,,Con ,Tim Aalders,40
+Beaver,Beaver 1,U.S. Senate,,Lbt,Craig Bowden,9
+Beaver,Beaver 2,U.S. Senate,,Lbt,Craig Bowden,10
+Beaver,Beaver 3,U.S. Senate,,Lbt,Craig Bowden,2
+Beaver,Beaver 4,U.S. Senate,,Lbt,Craig Bowden,4
+Beaver,Greenville,U.S. Senate,,Lbt,Craig Bowden,1
+Beaver,Milford 1,U.S. Senate,,Lbt,Craig Bowden,6
+Beaver,Milford 2,U.S. Senate,,Lbt,Craig Bowden,7
+Beaver,Milford 3,U.S. Senate,,Lbt,Craig Bowden,3
+Beaver,Minersville,U.S. Senate,,Lbt,Craig Bowden,3
+Beaver,Beaver 1,U.S. Senate,,IAP,Reed McCandless,8
+Beaver,Beaver 2,U.S. Senate,,IAP,Reed McCandless,3
+Beaver,Beaver 3,U.S. Senate,,IAP,Reed McCandless,0
+Beaver,Beaver 4,U.S. Senate,,IAP,Reed McCandless,1
+Beaver,Greenville,U.S. Senate,,IAP,Reed McCandless,6
+Beaver,Milford 1,U.S. Senate,,IAP,Reed McCandless,0
+Beaver,Milford 2,U.S. Senate,,IAP,Reed McCandless,3
+Beaver,Milford 3,U.S. Senate,,IAP,Reed McCandless,1
+Beaver,Minersville,U.S. Senate,,IAP,Reed McCandless,8
+Beaver,Beaver 1,U.S. Senate,,Dem,Jenny Wilson,46
+Beaver,Beaver 2,U.S. Senate,,Dem,Jenny Wilson,46
+Beaver,Beaver 3,U.S. Senate,,Dem,Jenny Wilson,30
+Beaver,Beaver 4,U.S. Senate,,Dem,Jenny Wilson,7
+Beaver,Greenville,U.S. Senate,,Dem,Jenny Wilson,9
+Beaver,Milford 1,U.S. Senate,,Dem,Jenny Wilson,23
+Beaver,Milford 2,U.S. Senate,,Dem,Jenny Wilson,102
+Beaver,Milford 3,U.S. Senate,,Dem,Jenny Wilson,16
+Beaver,Minersville,U.S. Senate,,Dem,Jenny Wilson,19
+Beaver,Beaver 1,U.S. Senate,,Rep,Mitt Romney,402
+Beaver,Beaver 2,U.S. Senate,,Rep,Mitt Romney,310
+Beaver,Beaver 3,U.S. Senate,,Rep,Mitt Romney,244
+Beaver,Beaver 4,U.S. Senate,,Rep,Mitt Romney,84
+Beaver,Greenville,U.S. Senate,,Rep,Mitt Romney,56
+Beaver,Milford 1,U.S. Senate,,Rep,Mitt Romney,38
+Beaver,Milford 2,U.S. Senate,,Rep,Mitt Romney,182
+Beaver,Milford 3,U.S. Senate,,Rep,Mitt Romney,61
+Beaver,Minersville,U.S. Senate,,Rep,Mitt Romney,243
+Beaver,Beaver 1,U.S. Senate,,,write-in,1
+Beaver,Beaver 2,U.S. Senate,,,write-in,0
+Beaver,Beaver 3,U.S. Senate,,,write-in,2
+Beaver,Beaver 4,U.S. Senate,,,write-in,0
+Beaver,Greenville,U.S. Senate,,,write-in,1
+Beaver,Milford 1,U.S. Senate,,,write-in,0
+Beaver,Milford 2,U.S. Senate,,,write-in,3
+Beaver,Milford 3,U.S. Senate,,,write-in,1
+Beaver,Minersville,U.S. Senate,,,write-in,1
+Beaver,Beaver 1,U.S. House,2,Rep,Chris Stewart,424
+Beaver,Beaver 2,U.S. House,2,Rep,Chris Stewart,321
+Beaver,Beaver 3,U.S. House,2,Rep,Chris Stewart,263
+Beaver,Beaver 4,U.S. House,2,Rep,Chris Stewart,102
+Beaver,Greenville,U.S. House,2,Rep,Chris Stewart,59
+Beaver,Milford 1,U.S. House,2,Rep,Chris Stewart,41
+Beaver,Milford 2,U.S. House,2,Rep,Chris Stewart,215
+Beaver,Milford 3,U.S. House,2,Rep,Chris Stewart,60
+Beaver,Minersville,U.S. House,2,Rep,Chris Stewart,284
+Beaver,Beaver 1,U.S. House,2,Lbt,Jeffrey Whipple,11
+Beaver,Beaver 2,U.S. House,2,Lbt,Jeffrey Whipple,20
+Beaver,Beaver 3,U.S. House,2,Lbt,Jeffrey Whipple,2
+Beaver,Beaver 4,U.S. House,2,Lbt,Jeffrey Whipple,9
+Beaver,Greenville,U.S. House,2,Lbt,Jeffrey Whipple,0
+Beaver,Milford 1,U.S. House,2,Lbt,Jeffrey Whipple,5
+Beaver,Milford 2,U.S. House,2,Lbt,Jeffrey Whipple,5
+Beaver,Milford 3,U.S. House,2,Lbt,Jeffrey Whipple,9
+Beaver,Minersville,U.S. House,2,Lbt,Jeffrey Whipple,12
+Beaver,Beaver 1,U.S. House,2,Dem,Shireen Ghorbani,47
+Beaver,Beaver 2,U.S. House,2,Dem,Shireen Ghorbani,42
+Beaver,Beaver 3,U.S. House,2,Dem,Shireen Ghorbani,24
+Beaver,Beaver 4,U.S. House,2,Dem,Shireen Ghorbani,7
+Beaver,Greenville,U.S. House,2,Dem,Shireen Ghorbani,13
+Beaver,Milford 1,U.S. House,2,Dem,Shireen Ghorbani,22
+Beaver,Milford 2,U.S. House,2,Dem,Shireen Ghorbani,91
+Beaver,Milford 3,U.S. House,2,Dem,Shireen Ghorbani,17
+Beaver,Minersville,U.S. House,2,Dem,Shireen Ghorbani,14
 Beaver,Beaver 1,State Senate,28,Dem,Mark Chambers,47
 Beaver,Beaver 2,State Senate,28,Dem,Mark Chambers,50
 Beaver,Beaver 3,State Senate,28,Dem,Mark Chambers,24

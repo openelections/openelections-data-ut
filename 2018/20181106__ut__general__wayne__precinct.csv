@@ -1,0 +1,78 @@
+county,precinct,office,district,party,candidate,votes
+Wayne,Fremont,U.S. Senate,,Con ,Tim Aalders,7
+Wayne,Loa in/out,U.S. Senate,,Con ,Tim Aalders,6
+Wayne,Lyman in/out,U.S. Senate,,Con ,Tim Aalders,6
+Wayne,Bicknell in/out,U.S. Senate,,Con ,Tim Aalders,8
+Wayne,Teesdale,U.S. Senate,,Con ,Tim Aalders,3
+Wayne,Torrey in/out,U.S. Senate,,Con ,Tim Aalders,4
+Wayne,Hanksville in/out,U.S. Senate,,Con ,Tim Aalders,14
+Wayne,Fremont,U.S. Senate,,Lbt,Craig Bowden,0
+Wayne,Loa in/out,U.S. Senate,,Lbt,Craig Bowden,3
+Wayne,Lyman in/out,U.S. Senate,,Lbt,Craig Bowden,1
+Wayne,Bicknell in/out,U.S. Senate,,Lbt,Craig Bowden,7
+Wayne,Teesdale,U.S. Senate,,Lbt,Craig Bowden,4
+Wayne,Torrey in/out,U.S. Senate,,Lbt,Craig Bowden,8
+Wayne,Hanksville in/out,U.S. Senate,,Lbt,Craig Bowden,2
+Wayne,Fremont,U.S. Senate,,IAP,Reed McCandless,1
+Wayne,Loa in/out,U.S. Senate,,IAP,Reed McCandless,0
+Wayne,Lyman in/out,U.S. Senate,,IAP,Reed McCandless,4
+Wayne,Bicknell in/out,U.S. Senate,,IAP,Reed McCandless,4
+Wayne,Teesdale,U.S. Senate,,IAP,Reed McCandless,5
+Wayne,Torrey in/out,U.S. Senate,,IAP,Reed McCandless,3
+Wayne,Hanksville in/out,U.S. Senate,,IAP,Reed McCandless,0
+Wayne,Fremont,U.S. Senate,,Dem,Jenny Wilson,11
+Wayne,Loa in/out,U.S. Senate,,Dem,Jenny Wilson,16
+Wayne,Lyman in/out,U.S. Senate,,Dem,Jenny Wilson,8
+Wayne,Bicknell in/out,U.S. Senate,,Dem,Jenny Wilson,20
+Wayne,Teesdale,U.S. Senate,,Dem,Jenny Wilson,81
+Wayne,Torrey in/out,U.S. Senate,,Dem,Jenny Wilson,116
+Wayne,Hanksville in/out,U.S. Senate,,Dem,Jenny Wilson,15
+Wayne,Fremont,U.S. Senate,,Rep,Mitt Romney,105
+Wayne,Loa in/out,U.S. Senate,,Rep,Mitt Romney,284
+Wayne,Lyman in/out,U.S. Senate,,Rep,Mitt Romney,124
+Wayne,Bicknell in/out,U.S. Senate,,Rep,Mitt Romney,186
+Wayne,Teesdale,U.S. Senate,,Rep,Mitt Romney,102
+Wayne,Torrey in/out,U.S. Senate,,Rep,Mitt Romney,112
+Wayne,Hanksville in/out,U.S. Senate,,Rep,Mitt Romney,85
+Wayne,Fremont,U.S. Senate,,,write-in,0
+Wayne,Loa in/out,U.S. Senate,,,write-in,4
+Wayne,Lyman in/out,U.S. Senate,,,write-in,0
+Wayne,Bicknell in/out,U.S. Senate,,,write-in,0
+Wayne,Teesdale,U.S. Senate,,,write-in,0
+Wayne,Torrey in/out,U.S. Senate,,,write-in,2
+Wayne,Hanksville in/out,U.S. Senate,,,write-in,2
+Wayne,Fremont,U.S. House,2,Rep,Chris Stewart,104
+Wayne,Loa in/out,U.S. House,2,Rep,Chris Stewart,295
+Wayne,Lyman in/out,U.S. House,2,Rep,Chris Stewart,134
+Wayne,Bicknell in/out,U.S. House,2,Rep,Chris Stewart,186
+Wayne,Teesdale,U.S. House,2,Rep,Chris Stewart,98
+Wayne,Torrey in/out,U.S. House,2,Rep,Chris Stewart,105
+Wayne,Hanksville in/out,U.S. House,2,Rep,Chris Stewart,98
+Wayne,Fremont,U.S. House,2,Lbt,Jeffery Whipple,11
+Wayne,Loa in/out,U.S. House,2,Lbt,Jeffery Whipple,4
+Wayne,Lyman in/out,U.S. House,2,Lbt,Jeffery Whipple,2
+Wayne,Bicknell in/out,U.S. House,2,Lbt,Jeffery Whipple,12
+Wayne,Teesdale,U.S. House,2,Lbt,Jeffery Whipple,9
+Wayne,Torrey in/out,U.S. House,2,Lbt,Jeffery Whipple,9
+Wayne,Hanksville in/out,U.S. House,2,Lbt,Jeffery Whipple,5
+Wayne,Fremont,U.S. House,2,Dem,Shireen Ghorbani,8
+Wayne,Loa in/out,U.S. House,2,Dem,Shireen Ghorbani,13
+Wayne,Lyman in/out,U.S. House,2,Dem,Shireen Ghorbani,7
+Wayne,Bicknell in/out,U.S. House,2,Dem,Shireen Ghorbani,26
+Wayne,Teesdale,U.S. House,2,Dem,Shireen Ghorbani,86
+Wayne,Torrey in/out,U.S. House,2,Dem,Shireen Ghorbani,132
+Wayne,Hanksville in/out,U.S. House,2,Dem,Shireen Ghorbani,14
+Wayne,Fremont,State House,73,Rep,Phil Lyman,98
+Wayne,Loa in/out,State House,73,Rep,Phil Lyman,280
+Wayne,Lyman in/out,State House,73,Rep,Phil Lyman,119
+Wayne,Bicknell in/out,State House,73,Rep,Phil Lyman,177
+Wayne,Teesdale,State House,73,Rep,Phil Lyman,83
+Wayne,Torrey in/out,State House,73,Rep,Phil Lyman,95
+Wayne,Hanksville in/out,State House,73,Rep,Phil Lyman,92
+Wayne,Fremont,State House,73,None,Marsha Holland,26
+Wayne,Loa in/out,State House,73,None,Marsha Holland,30
+Wayne,Lyman in/out,State House,73,None,Marsha Holland,22
+Wayne,Bicknell in/out,State House,73,None,Marsha Holland,44
+Wayne,Teesdale,State House,73,None,Marsha Holland,111
+Wayne,Torrey in/out,State House,73,None,Marsha Holland,150
+Wayne,Hanksville in/out,State House,73,None,Marsha Holland,25
