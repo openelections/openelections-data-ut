@@ -7,26 +7,26 @@ candidate,office,district,party,county,precinct,votes
 ,Straight Party,,GRN,Tooele,DUG-01,0
 ,Straight Party,,DEM,Tooele,DUG-01,7
 ,Straight Party,,IAP,Tooele,DUG-01,0
-Tim Aalders,U.S. Senate,,,Tooele,DUG-01,3
-Craig R. Bowden,U.S. Senate,,,Tooele,DUG-01,3
-Reed C. McCandless,U.S. Senate,,,Tooele,DUG-01,0
-Jenny Wilson,U.S. Senate,,,Tooele,DUG-01,11
-Mitt Romney,U.S. Senate,,,Tooele,DUG-01,34
-Chris Stewart,U.S. House,2,,Tooele,DUG-01,34
-Jeffrey Whipple,U.S. House,2,,Tooele,DUG-01,2
-Shireen Ghorbani,U.S. House,2,,Tooele,DUG-01,15
-Clare Collard,State Senate,12,,Tooele,DUG-01,0
-Abrian B. Velarde,State Senate,12,,Tooele,DUG-01,0
-Daniel W. Thatcher,State Senate,12,,Tooele,DUG-01,0
-Scott Sandall,State Senate,17,,Tooele,DUG-01,34
-Michael A Keil,State Senate,17,,Tooele,DUG-01,17
-Douglas Sagers,State House ,21,,Tooele,DUG-01,0
-Debbie K. Vigil,State House ,21,,Tooele,DUG-01,0
-Denyse Housley Cox,State House ,68,,Tooele,DUG-01,4
-Merle Travis Wall,State House ,68,,Tooele,DUG-01,11
-Warren Rogers,State House ,68,,Tooele,DUG-01,2
-Kirk D Pearson,State House ,68,,Tooele,DUG-01,2
-Merrill Nelson,State House ,68,,Tooele,DUG-01,30
+Tim Aalders,U.S. Senate,,CON,Tooele,DUG-01,3
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,DUG-01,3
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,DUG-01,0
+Jenny Wilson,U.S. Senate,,DEM,Tooele,DUG-01,11
+Mitt Romney,U.S. Senate,,REP,Tooele,DUG-01,34
+Chris Stewart,U.S. House,2,REP,Tooele,DUG-01,34
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,DUG-01,2
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,DUG-01,15
+Clare Collard,State Senate,12,DEM,Tooele,DUG-01,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,DUG-01,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,DUG-01,0
+Scott Sandall,State Senate,17,REP,Tooele,DUG-01,34
+Michael A Keil,State Senate,17,DEM,Tooele,DUG-01,17
+Douglas Sagers,State House ,21,REP,Tooele,DUG-01,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,DUG-01,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,DUG-01,4
+Merle Travis Wall,State House ,68,DEM,Tooele,DUG-01,11
+Warren Rogers,State House ,68,IAP,Tooele,DUG-01,2
+Kirk D Pearson,State House ,68,CON,Tooele,DUG-01,2
+Merrill Nelson,State House ,68,REP,Tooele,DUG-01,30
 ,Registered Voters,,,Tooele,DUG-02,58
 ,Ballots Cast,,,Tooele,DUG-02,33
 ,Straight Party,,CON,Tooele,DUG-02,1
@@ -35,26 +35,26 @@ Merrill Nelson,State House ,68,,Tooele,DUG-01,30
 ,Straight Party,,GRN,Tooele,DUG-02,0
 ,Straight Party,,DEM,Tooele,DUG-02,0
 ,Straight Party,,IAP,Tooele,DUG-02,0
-Tim Aalders,U.S. Senate,,,Tooele,DUG-02,4
-Craig R. Bowden,U.S. Senate,,,Tooele,DUG-02,3
-Reed C. McCandless,U.S. Senate,,,Tooele,DUG-02,0
-Jenny Wilson,U.S. Senate,,,Tooele,DUG-02,11
-Mitt Romney,U.S. Senate,,,Tooele,DUG-02,15
-Chris Stewart,U.S. House,2,,Tooele,DUG-02,19
-Jeffrey Whipple,U.S. House,2,,Tooele,DUG-02,3
-Shireen Ghorbani,U.S. House,2,,Tooele,DUG-02,10
-Clare Collard,State Senate,12,,Tooele,DUG-02,0
-Abrian B. Velarde,State Senate,12,,Tooele,DUG-02,0
-Daniel W. Thatcher,State Senate,12,,Tooele,DUG-02,0
-Scott Sandall,State Senate,17,,Tooele,DUG-02,22
-Michael A Keil,State Senate,17,,Tooele,DUG-02,10
-Douglas Sagers,State House ,21,,Tooele,DUG-02,0
-Debbie K. Vigil,State House ,21,,Tooele,DUG-02,0
-Denyse Housley Cox,State House ,68,,Tooele,DUG-02,6
-Merle Travis Wall,State House ,68,,Tooele,DUG-02,7
-Warren Rogers,State House ,68,,Tooele,DUG-02,0
-Kirk D Pearson,State House ,68,,Tooele,DUG-02,0
-Merrill Nelson,State House ,68,,Tooele,DUG-02,20
+Tim Aalders,U.S. Senate,,CON,Tooele,DUG-02,4
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,DUG-02,3
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,DUG-02,0
+Jenny Wilson,U.S. Senate,,DEM,Tooele,DUG-02,11
+Mitt Romney,U.S. Senate,,REP,Tooele,DUG-02,15
+Chris Stewart,U.S. House,2,REP,Tooele,DUG-02,19
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,DUG-02,3
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,DUG-02,10
+Clare Collard,State Senate,12,DEM,Tooele,DUG-02,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,DUG-02,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,DUG-02,0
+Scott Sandall,State Senate,17,REP,Tooele,DUG-02,22
+Michael A Keil,State Senate,17,DEM,Tooele,DUG-02,10
+Douglas Sagers,State House ,21,REP,Tooele,DUG-02,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,DUG-02,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,DUG-02,6
+Merle Travis Wall,State House ,68,DEM,Tooele,DUG-02,7
+Warren Rogers,State House ,68,IAP,Tooele,DUG-02,0
+Kirk D Pearson,State House ,68,CON,Tooele,DUG-02,0
+Merrill Nelson,State House ,68,REP,Tooele,DUG-02,20
 ,Registered Voters,,,Tooele,ERD-01:1,953
 ,Ballots Cast,,,Tooele,ERD-01:1,730
 ,Straight Party,,CON,Tooele,ERD-01:1,2
@@ -63,26 +63,26 @@ Merrill Nelson,State House ,68,,Tooele,DUG-02,20
 ,Straight Party,,GRN,Tooele,ERD-01:1,0
 ,Straight Party,,DEM,Tooele,ERD-01:1,21
 ,Straight Party,,IAP,Tooele,ERD-01:1,15
-Tim Aalders,U.S. Senate,,,Tooele,ERD-01:1,27
-Craig R. Bowden,U.S. Senate,,,Tooele,ERD-01:1,22
-Reed C. McCandless,U.S. Senate,,,Tooele,ERD-01:1,11
-Jenny Wilson,U.S. Senate,,,Tooele,ERD-01:1,130
-Mitt Romney,U.S. Senate,,,Tooele,ERD-01:1,522
-Chris Stewart,U.S. House,2,,Tooele,ERD-01:1,507
-Jeffrey Whipple,U.S. House,2,,Tooele,ERD-01:1,46
-Shireen Ghorbani,U.S. House,2,,Tooele,ERD-01:1,150
-Clare Collard,State Senate,12,,Tooele,ERD-01:1,0
-Abrian B. Velarde,State Senate,12,,Tooele,ERD-01:1,0
-Daniel W. Thatcher,State Senate,12,,Tooele,ERD-01:1,0
-Scott Sandall,State Senate,17,,Tooele,ERD-01:1,471
-Michael A Keil,State Senate,17,,Tooele,ERD-01:1,225
-Douglas Sagers,State House ,21,,Tooele,ERD-01:1,0
-Debbie K. Vigil,State House ,21,,Tooele,ERD-01:1,0
-Denyse Housley Cox,State House ,68,,Tooele,ERD-01:1,43
-Merle Travis Wall,State House ,68,,Tooele,ERD-01:1,105
-Warren Rogers,State House ,68,,Tooele,ERD-01:1,23
-Kirk D Pearson,State House ,68,,Tooele,ERD-01:1,56
-Merrill Nelson,State House ,68,,Tooele,ERD-01:1,468
+Tim Aalders,U.S. Senate,,CON,Tooele,ERD-01:1,27
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,ERD-01:1,22
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,ERD-01:1,11
+Jenny Wilson,U.S. Senate,,DEM,Tooele,ERD-01:1,130
+Mitt Romney,U.S. Senate,,REP,Tooele,ERD-01:1,522
+Chris Stewart,U.S. House,2,REP,Tooele,ERD-01:1,507
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,ERD-01:1,46
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,ERD-01:1,150
+Clare Collard,State Senate,12,DEM,Tooele,ERD-01:1,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,ERD-01:1,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,ERD-01:1,0
+Scott Sandall,State Senate,17,REP,Tooele,ERD-01:1,471
+Michael A Keil,State Senate,17,DEM,Tooele,ERD-01:1,225
+Douglas Sagers,State House ,21,REP,Tooele,ERD-01:1,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,ERD-01:1,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,ERD-01:1,43
+Merle Travis Wall,State House ,68,DEM,Tooele,ERD-01:1,105
+Warren Rogers,State House ,68,IAP,Tooele,ERD-01:1,23
+Kirk D Pearson,State House ,68,CON,Tooele,ERD-01:1,56
+Merrill Nelson,State House ,68,REP,Tooele,ERD-01:1,468
 ,Registered Voters,,,Tooele,ERD-01:2,24
 ,Ballots Cast,,,Tooele,ERD-01:2,21
 ,Straight Party,,CON,Tooele,ERD-01:2,0
@@ -91,26 +91,26 @@ Merrill Nelson,State House ,68,,Tooele,ERD-01:1,468
 ,Straight Party,,GRN,Tooele,ERD-01:2,0
 ,Straight Party,,DEM,Tooele,ERD-01:2,1
 ,Straight Party,,IAP,Tooele,ERD-01:2,0
-Tim Aalders,U.S. Senate,,,Tooele,ERD-01:2,0
-Craig R. Bowden,U.S. Senate,,,Tooele,ERD-01:2,0
-Reed C. McCandless,U.S. Senate,,,Tooele,ERD-01:2,0
-Jenny Wilson,U.S. Senate,,,Tooele,ERD-01:2,4
-Mitt Romney,U.S. Senate,,,Tooele,ERD-01:2,17
-Chris Stewart,U.S. House,2,,Tooele,ERD-01:2,12
-Jeffrey Whipple,U.S. House,2,,Tooele,ERD-01:2,0
-Shireen Ghorbani,U.S. House,2,,Tooele,ERD-01:2,9
-Clare Collard,State Senate,12,,Tooele,ERD-01:2,0
-Abrian B. Velarde,State Senate,12,,Tooele,ERD-01:2,0
-Daniel W. Thatcher,State Senate,12,,Tooele,ERD-01:2,0
-Scott Sandall,State Senate,17,,Tooele,ERD-01:2,13
-Michael A Keil,State Senate,17,,Tooele,ERD-01:2,8
-Douglas Sagers,State House ,21,,Tooele,ERD-01:2,0
-Debbie K. Vigil,State House ,21,,Tooele,ERD-01:2,0
-Denyse Housley Cox,State House ,68,,Tooele,ERD-01:2,0
-Merle Travis Wall,State House ,68,,Tooele,ERD-01:2,5
-Warren Rogers,State House ,68,,Tooele,ERD-01:2,0
-Kirk D Pearson,State House ,68,,Tooele,ERD-01:2,2
-Merrill Nelson,State House ,68,,Tooele,ERD-01:2,14
+Tim Aalders,U.S. Senate,,CON,Tooele,ERD-01:2,0
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,ERD-01:2,0
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,ERD-01:2,0
+Jenny Wilson,U.S. Senate,,DEM,Tooele,ERD-01:2,4
+Mitt Romney,U.S. Senate,,REP,Tooele,ERD-01:2,17
+Chris Stewart,U.S. House,2,REP,Tooele,ERD-01:2,12
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,ERD-01:2,0
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,ERD-01:2,9
+Clare Collard,State Senate,12,DEM,Tooele,ERD-01:2,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,ERD-01:2,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,ERD-01:2,0
+Scott Sandall,State Senate,17,REP,Tooele,ERD-01:2,13
+Michael A Keil,State Senate,17,DEM,Tooele,ERD-01:2,8
+Douglas Sagers,State House ,21,REP,Tooele,ERD-01:2,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,ERD-01:2,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,ERD-01:2,0
+Merle Travis Wall,State House ,68,DEM,Tooele,ERD-01:2,5
+Warren Rogers,State House ,68,IAP,Tooele,ERD-01:2,0
+Kirk D Pearson,State House ,68,CON,Tooele,ERD-01:2,2
+Merrill Nelson,State House ,68,REP,Tooele,ERD-01:2,14
 ,Registered Voters,,,Tooele,ERD-02:1,348
 ,Ballots Cast,,,Tooele,ERD-02:1,280
 ,Straight Party,,CON,Tooele,ERD-02:1,1
@@ -119,26 +119,26 @@ Merrill Nelson,State House ,68,,Tooele,ERD-01:2,14
 ,Straight Party,,GRN,Tooele,ERD-02:1,0
 ,Straight Party,,DEM,Tooele,ERD-02:1,15
 ,Straight Party,,IAP,Tooele,ERD-02:1,8
-Tim Aalders,U.S. Senate,,,Tooele,ERD-02:1,24
-Craig R. Bowden,U.S. Senate,,,Tooele,ERD-02:1,20
-Reed C. McCandless,U.S. Senate,,,Tooele,ERD-02:1,7
-Jenny Wilson,U.S. Senate,,,Tooele,ERD-02:1,45
-Mitt Romney,U.S. Senate,,,Tooele,ERD-02:1,179
-Chris Stewart,U.S. House,2,,Tooele,ERD-02:1,196
-Jeffrey Whipple,U.S. House,2,,Tooele,ERD-02:1,31
-Shireen Ghorbani,U.S. House,2,,Tooele,ERD-02:1,47
-Clare Collard,State Senate,12,,Tooele,ERD-02:1,59
-Abrian B. Velarde,State Senate,12,,Tooele,ERD-02:1,14
-Daniel W. Thatcher,State Senate,12,,Tooele,ERD-02:1,192
-Scott Sandall,State Senate,17,,Tooele,ERD-02:1,0
-Michael A Keil,State Senate,17,,Tooele,ERD-02:1,0
-Douglas Sagers,State House ,21,,Tooele,ERD-02:1,0
-Debbie K. Vigil,State House ,21,,Tooele,ERD-02:1,0
-Denyse Housley Cox,State House ,68,,Tooele,ERD-02:1,17
-Merle Travis Wall,State House ,68,,Tooele,ERD-02:1,46
-Warren Rogers,State House ,68,,Tooele,ERD-02:1,5
-Kirk D Pearson,State House ,68,,Tooele,ERD-02:1,38
-Merrill Nelson,State House ,68,,Tooele,ERD-02:1,169
+Tim Aalders,U.S. Senate,,CON,Tooele,ERD-02:1,24
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,ERD-02:1,20
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,ERD-02:1,7
+Jenny Wilson,U.S. Senate,,DEM,Tooele,ERD-02:1,45
+Mitt Romney,U.S. Senate,,REP,Tooele,ERD-02:1,179
+Chris Stewart,U.S. House,2,REP,Tooele,ERD-02:1,196
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,ERD-02:1,31
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,ERD-02:1,47
+Clare Collard,State Senate,12,DEM,Tooele,ERD-02:1,59
+Abrian B. Velarde,State Senate,12,GRN,Tooele,ERD-02:1,14
+Daniel W. Thatcher,State Senate,12,REP,Tooele,ERD-02:1,192
+Scott Sandall,State Senate,17,REP,Tooele,ERD-02:1,0
+Michael A Keil,State Senate,17,DEM,Tooele,ERD-02:1,0
+Douglas Sagers,State House ,21,REP,Tooele,ERD-02:1,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,ERD-02:1,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,ERD-02:1,17
+Merle Travis Wall,State House ,68,DEM,Tooele,ERD-02:1,46
+Warren Rogers,State House ,68,IAP,Tooele,ERD-02:1,5
+Kirk D Pearson,State House ,68,CON,Tooele,ERD-02:1,38
+Merrill Nelson,State House ,68,REP,Tooele,ERD-02:1,169
 ,Registered Voters,,,Tooele,ERD-02:2,8
 ,Ballots Cast,,,Tooele,ERD-02:2,4
 ,Straight Party,,CON,Tooele,ERD-02:2,0
@@ -147,26 +147,26 @@ Merrill Nelson,State House ,68,,Tooele,ERD-02:1,169
 ,Straight Party,,GRN,Tooele,ERD-02:2,0
 ,Straight Party,,DEM,Tooele,ERD-02:2,0
 ,Straight Party,,IAP,Tooele,ERD-02:2,0
-Tim Aalders,U.S. Senate,,,Tooele,ERD-02:2,1
-Craig R. Bowden,U.S. Senate,,,Tooele,ERD-02:2,0
-Reed C. McCandless,U.S. Senate,,,Tooele,ERD-02:2,0
-Jenny Wilson,U.S. Senate,,,Tooele,ERD-02:2,0
-Mitt Romney,U.S. Senate,,,Tooele,ERD-02:2,3
-Chris Stewart,U.S. House,2,,Tooele,ERD-02:2,4
-Jeffrey Whipple,U.S. House,2,,Tooele,ERD-02:2,0
-Shireen Ghorbani,U.S. House,2,,Tooele,ERD-02:2,0
-Clare Collard,State Senate,12,,Tooele,ERD-02:2,0
-Abrian B. Velarde,State Senate,12,,Tooele,ERD-02:2,0
-Daniel W. Thatcher,State Senate,12,,Tooele,ERD-02:2,4
-Scott Sandall,State Senate,17,,Tooele,ERD-02:2,0
-Michael A Keil,State Senate,17,,Tooele,ERD-02:2,0
-Douglas Sagers,State House ,21,,Tooele,ERD-02:2,2
-Debbie K. Vigil,State House ,21,,Tooele,ERD-02:2,2
-Denyse Housley Cox,State House ,68,,Tooele,ERD-02:2,0
-Merle Travis Wall,State House ,68,,Tooele,ERD-02:2,0
-Warren Rogers,State House ,68,,Tooele,ERD-02:2,0
-Kirk D Pearson,State House ,68,,Tooele,ERD-02:2,0
-Merrill Nelson,State House ,68,,Tooele,ERD-02:2,0
+Tim Aalders,U.S. Senate,,CON,Tooele,ERD-02:2,1
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,ERD-02:2,0
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,ERD-02:2,0
+Jenny Wilson,U.S. Senate,,DEM,Tooele,ERD-02:2,0
+Mitt Romney,U.S. Senate,,REP,Tooele,ERD-02:2,3
+Chris Stewart,U.S. House,2,REP,Tooele,ERD-02:2,4
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,ERD-02:2,0
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,ERD-02:2,0
+Clare Collard,State Senate,12,DEM,Tooele,ERD-02:2,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,ERD-02:2,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,ERD-02:2,4
+Scott Sandall,State Senate,17,REP,Tooele,ERD-02:2,0
+Michael A Keil,State Senate,17,DEM,Tooele,ERD-02:2,0
+Douglas Sagers,State House ,21,REP,Tooele,ERD-02:2,2
+Debbie K. Vigil,State House ,21,DEM,Tooele,ERD-02:2,2
+Denyse Housley Cox,State House ,68,LIB,Tooele,ERD-02:2,0
+Merle Travis Wall,State House ,68,DEM,Tooele,ERD-02:2,0
+Warren Rogers,State House ,68,IAP,Tooele,ERD-02:2,0
+Kirk D Pearson,State House ,68,CON,Tooele,ERD-02:2,0
+Merrill Nelson,State House ,68,REP,Tooele,ERD-02:2,0
 ,Registered Voters,,,Tooele,ERD-02:3,331
 ,Ballots Cast,,,Tooele,ERD-02:3,267
 ,Straight Party,,CON,Tooele,ERD-02:3,5
@@ -175,26 +175,26 @@ Merrill Nelson,State House ,68,,Tooele,ERD-02:2,0
 ,Straight Party,,GRN,Tooele,ERD-02:3,0
 ,Straight Party,,DEM,Tooele,ERD-02:3,13
 ,Straight Party,,IAP,Tooele,ERD-02:3,4
-Tim Aalders,U.S. Senate,,,Tooele,ERD-02:3,18
-Craig R. Bowden,U.S. Senate,,,Tooele,ERD-02:3,5
-Reed C. McCandless,U.S. Senate,,,Tooele,ERD-02:3,3
-Jenny Wilson,U.S. Senate,,,Tooele,ERD-02:3,58
-Mitt Romney,U.S. Senate,,,Tooele,ERD-02:3,181
-Chris Stewart,U.S. House,2,,Tooele,ERD-02:3,177
-Jeffrey Whipple,U.S. House,2,,Tooele,ERD-02:3,14
-Shireen Ghorbani,U.S. House,2,,Tooele,ERD-02:3,65
-Clare Collard,State Senate,12,,Tooele,ERD-02:3,0
-Abrian B. Velarde,State Senate,12,,Tooele,ERD-02:3,0
-Daniel W. Thatcher,State Senate,12,,Tooele,ERD-02:3,0
-Scott Sandall,State Senate,17,,Tooele,ERD-02:3,166
-Michael A Keil,State Senate,17,,Tooele,ERD-02:3,83
-Douglas Sagers,State House ,21,,Tooele,ERD-02:3,0
-Debbie K. Vigil,State House ,21,,Tooele,ERD-02:3,0
-Denyse Housley Cox,State House ,68,,Tooele,ERD-02:3,9
-Merle Travis Wall,State House ,68,,Tooele,ERD-02:3,52
-Warren Rogers,State House ,68,,Tooele,ERD-02:3,4
-Kirk D Pearson,State House ,68,,Tooele,ERD-02:3,24
-Merrill Nelson,State House ,68,,Tooele,ERD-02:3,165
+Tim Aalders,U.S. Senate,,CON,Tooele,ERD-02:3,18
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,ERD-02:3,5
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,ERD-02:3,3
+Jenny Wilson,U.S. Senate,,DEM,Tooele,ERD-02:3,58
+Mitt Romney,U.S. Senate,,REP,Tooele,ERD-02:3,181
+Chris Stewart,U.S. House,2,REP,Tooele,ERD-02:3,177
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,ERD-02:3,14
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,ERD-02:3,65
+Clare Collard,State Senate,12,DEM,Tooele,ERD-02:3,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,ERD-02:3,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,ERD-02:3,0
+Scott Sandall,State Senate,17,REP,Tooele,ERD-02:3,166
+Michael A Keil,State Senate,17,DEM,Tooele,ERD-02:3,83
+Douglas Sagers,State House ,21,REP,Tooele,ERD-02:3,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,ERD-02:3,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,ERD-02:3,9
+Merle Travis Wall,State House ,68,DEM,Tooele,ERD-02:3,52
+Warren Rogers,State House ,68,IAP,Tooele,ERD-02:3,4
+Kirk D Pearson,State House ,68,CON,Tooele,ERD-02:3,24
+Merrill Nelson,State House ,68,REP,Tooele,ERD-02:3,165
 ,Registered Voters,,,Tooele,ERD-02:4,42
 ,Ballots Cast,,,Tooele,ERD-02:4,30
 ,Straight Party,,CON,Tooele,ERD-02:4,0
@@ -203,26 +203,26 @@ Merrill Nelson,State House ,68,,Tooele,ERD-02:3,165
 ,Straight Party,,GRN,Tooele,ERD-02:4,0
 ,Straight Party,,DEM,Tooele,ERD-02:4,0
 ,Straight Party,,IAP,Tooele,ERD-02:4,1
-Tim Aalders,U.S. Senate,,,Tooele,ERD-02:4,0
-Craig R. Bowden,U.S. Senate,,,Tooele,ERD-02:4,1
-Reed C. McCandless,U.S. Senate,,,Tooele,ERD-02:4,1
-Jenny Wilson,U.S. Senate,,,Tooele,ERD-02:4,2
-Mitt Romney,U.S. Senate,,,Tooele,ERD-02:4,25
-Chris Stewart,U.S. House,2,,Tooele,ERD-02:4,24
-Jeffrey Whipple,U.S. House,2,,Tooele,ERD-02:4,2
-Shireen Ghorbani,U.S. House,2,,Tooele,ERD-02:4,3
-Clare Collard,State Senate,12,,Tooele,ERD-02:4,0
-Abrian B. Velarde,State Senate,12,,Tooele,ERD-02:4,0
-Daniel W. Thatcher,State Senate,12,,Tooele,ERD-02:4,0
-Scott Sandall,State Senate,17,,Tooele,ERD-02:4,20
-Michael A Keil,State Senate,17,,Tooele,ERD-02:4,9
-Douglas Sagers,State House ,21,,Tooele,ERD-02:4,24
-Debbie K. Vigil,State House ,21,,Tooele,ERD-02:4,5
-Denyse Housley Cox,State House ,68,,Tooele,ERD-02:4,0
-Merle Travis Wall,State House ,68,,Tooele,ERD-02:4,0
-Warren Rogers,State House ,68,,Tooele,ERD-02:4,0
-Kirk D Pearson,State House ,68,,Tooele,ERD-02:4,0
-Merrill Nelson,State House ,68,,Tooele,ERD-02:4,0
+Tim Aalders,U.S. Senate,,CON,Tooele,ERD-02:4,0
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,ERD-02:4,1
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,ERD-02:4,1
+Jenny Wilson,U.S. Senate,,DEM,Tooele,ERD-02:4,2
+Mitt Romney,U.S. Senate,,REP,Tooele,ERD-02:4,25
+Chris Stewart,U.S. House,2,REP,Tooele,ERD-02:4,24
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,ERD-02:4,2
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,ERD-02:4,3
+Clare Collard,State Senate,12,DEM,Tooele,ERD-02:4,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,ERD-02:4,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,ERD-02:4,0
+Scott Sandall,State Senate,17,REP,Tooele,ERD-02:4,20
+Michael A Keil,State Senate,17,DEM,Tooele,ERD-02:4,9
+Douglas Sagers,State House ,21,REP,Tooele,ERD-02:4,24
+Debbie K. Vigil,State House ,21,DEM,Tooele,ERD-02:4,5
+Denyse Housley Cox,State House ,68,LIB,Tooele,ERD-02:4,0
+Merle Travis Wall,State House ,68,DEM,Tooele,ERD-02:4,0
+Warren Rogers,State House ,68,IAP,Tooele,ERD-02:4,0
+Kirk D Pearson,State House ,68,CON,Tooele,ERD-02:4,0
+Merrill Nelson,State House ,68,REP,Tooele,ERD-02:4,0
 ,Registered Voters,,,Tooele,G-01:1,818
 ,Ballots Cast,,,Tooele,G-01:1,547
 ,Straight Party,,CON,Tooele,G-01:1,1
@@ -231,26 +231,26 @@ Merrill Nelson,State House ,68,,Tooele,ERD-02:4,0
 ,Straight Party,,GRN,Tooele,G-01:1,0
 ,Straight Party,,DEM,Tooele,G-01:1,31
 ,Straight Party,,IAP,Tooele,G-01:1,12
-Tim Aalders,U.S. Senate,,,Tooele,G-01:1,16
-Craig R. Bowden,U.S. Senate,,,Tooele,G-01:1,20
-Reed C. McCandless,U.S. Senate,,,Tooele,G-01:1,8
-Jenny Wilson,U.S. Senate,,,Tooele,G-01:1,77
-Mitt Romney,U.S. Senate,,,Tooele,G-01:1,414
-Chris Stewart,U.S. House,2,,Tooele,G-01:1,409
-Jeffrey Whipple,U.S. House,2,,Tooele,G-01:1,30
-Shireen Ghorbani,U.S. House,2,,Tooele,G-01:1,90
-Clare Collard,State Senate,12,,Tooele,G-01:1,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-01:1,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-01:1,0
-Scott Sandall,State Senate,17,,Tooele,G-01:1,410
-Michael A Keil,State Senate,17,,Tooele,G-01:1,106
-Douglas Sagers,State House ,21,,Tooele,G-01:1,0
-Debbie K. Vigil,State House ,21,,Tooele,G-01:1,0
-Denyse Housley Cox,State House ,68,,Tooele,G-01:1,23
-Merle Travis Wall,State House ,68,,Tooele,G-01:1,72
-Warren Rogers,State House ,68,,Tooele,G-01:1,9
-Kirk D Pearson,State House ,68,,Tooele,G-01:1,36
-Merrill Nelson,State House ,68,,Tooele,G-01:1,393
+Tim Aalders,U.S. Senate,,CON,Tooele,G-01:1,16
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-01:1,20
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-01:1,8
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-01:1,77
+Mitt Romney,U.S. Senate,,REP,Tooele,G-01:1,414
+Chris Stewart,U.S. House,2,REP,Tooele,G-01:1,409
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-01:1,30
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-01:1,90
+Clare Collard,State Senate,12,DEM,Tooele,G-01:1,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-01:1,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-01:1,0
+Scott Sandall,State Senate,17,REP,Tooele,G-01:1,410
+Michael A Keil,State Senate,17,DEM,Tooele,G-01:1,106
+Douglas Sagers,State House ,21,REP,Tooele,G-01:1,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-01:1,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-01:1,23
+Merle Travis Wall,State House ,68,DEM,Tooele,G-01:1,72
+Warren Rogers,State House ,68,IAP,Tooele,G-01:1,9
+Kirk D Pearson,State House ,68,CON,Tooele,G-01:1,36
+Merrill Nelson,State House ,68,REP,Tooele,G-01:1,393
 ,Registered Voters,,,Tooele,G-01:2,124
 ,Ballots Cast,,,Tooele,G-01:2,96
 ,Straight Party,,CON,Tooele,G-01:2,1
@@ -259,26 +259,26 @@ Merrill Nelson,State House ,68,,Tooele,G-01:1,393
 ,Straight Party,,GRN,Tooele,G-01:2,1
 ,Straight Party,,DEM,Tooele,G-01:2,5
 ,Straight Party,,IAP,Tooele,G-01:2,2
-Tim Aalders,U.S. Senate,,,Tooele,G-01:2,9
-Craig R. Bowden,U.S. Senate,,,Tooele,G-01:2,0
-Reed C. McCandless,U.S. Senate,,,Tooele,G-01:2,3
-Jenny Wilson,U.S. Senate,,,Tooele,G-01:2,14
-Mitt Romney,U.S. Senate,,,Tooele,G-01:2,68
-Chris Stewart,U.S. House,2,,Tooele,G-01:2,74
-Jeffrey Whipple,U.S. House,2,,Tooele,G-01:2,4
-Shireen Ghorbani,U.S. House,2,,Tooele,G-01:2,16
-Clare Collard,State Senate,12,,Tooele,G-01:2,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-01:2,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-01:2,0
-Scott Sandall,State Senate,17,,Tooele,G-01:2,68
-Michael A Keil,State Senate,17,,Tooele,G-01:2,20
-Douglas Sagers,State House ,21,,Tooele,G-01:2,0
-Debbie K. Vigil,State House ,21,,Tooele,G-01:2,0
-Denyse Housley Cox,State House ,68,,Tooele,G-01:2,2
-Merle Travis Wall,State House ,68,,Tooele,G-01:2,12
-Warren Rogers,State House ,68,,Tooele,G-01:2,1
-Kirk D Pearson,State House ,68,,Tooele,G-01:2,3
-Merrill Nelson,State House ,68,,Tooele,G-01:2,76
+Tim Aalders,U.S. Senate,,CON,Tooele,G-01:2,9
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-01:2,0
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-01:2,3
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-01:2,14
+Mitt Romney,U.S. Senate,,REP,Tooele,G-01:2,68
+Chris Stewart,U.S. House,2,REP,Tooele,G-01:2,74
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-01:2,4
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-01:2,16
+Clare Collard,State Senate,12,DEM,Tooele,G-01:2,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-01:2,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-01:2,0
+Scott Sandall,State Senate,17,REP,Tooele,G-01:2,68
+Michael A Keil,State Senate,17,DEM,Tooele,G-01:2,20
+Douglas Sagers,State House ,21,REP,Tooele,G-01:2,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-01:2,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-01:2,2
+Merle Travis Wall,State House ,68,DEM,Tooele,G-01:2,12
+Warren Rogers,State House ,68,IAP,Tooele,G-01:2,1
+Kirk D Pearson,State House ,68,CON,Tooele,G-01:2,3
+Merrill Nelson,State House ,68,REP,Tooele,G-01:2,76
 ,Registered Voters,,,Tooele,G-01:3,151
 ,Ballots Cast,,,Tooele,G-01:3,111
 ,Straight Party,,CON,Tooele,G-01:3,0
@@ -287,26 +287,26 @@ Merrill Nelson,State House ,68,,Tooele,G-01:2,76
 ,Straight Party,,GRN,Tooele,G-01:3,0
 ,Straight Party,,DEM,Tooele,G-01:3,9
 ,Straight Party,,IAP,Tooele,G-01:3,2
-Tim Aalders,U.S. Senate,,,Tooele,G-01:3,8
-Craig R. Bowden,U.S. Senate,,,Tooele,G-01:3,4
-Reed C. McCandless,U.S. Senate,,,Tooele,G-01:3,1
-Jenny Wilson,U.S. Senate,,,Tooele,G-01:3,25
-Mitt Romney,U.S. Senate,,,Tooele,G-01:3,71
-Chris Stewart,U.S. House,2,,Tooele,G-01:3,74
-Jeffrey Whipple,U.S. House,2,,Tooele,G-01:3,6
-Shireen Ghorbani,U.S. House,2,,Tooele,G-01:3,27
-Clare Collard,State Senate,12,,Tooele,G-01:3,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-01:3,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-01:3,0
-Scott Sandall,State Senate,17,,Tooele,G-01:3,77
-Michael A Keil,State Senate,17,,Tooele,G-01:3,27
-Douglas Sagers,State House ,21,,Tooele,G-01:3,0
-Debbie K. Vigil,State House ,21,,Tooele,G-01:3,0
-Denyse Housley Cox,State House ,68,,Tooele,G-01:3,4
-Merle Travis Wall,State House ,68,,Tooele,G-01:3,20
-Warren Rogers,State House ,68,,Tooele,G-01:3,2
-Kirk D Pearson,State House ,68,,Tooele,G-01:3,9
-Merrill Nelson,State House ,68,,Tooele,G-01:3,71
+Tim Aalders,U.S. Senate,,CON,Tooele,G-01:3,8
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-01:3,4
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-01:3,1
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-01:3,25
+Mitt Romney,U.S. Senate,,REP,Tooele,G-01:3,71
+Chris Stewart,U.S. House,2,REP,Tooele,G-01:3,74
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-01:3,6
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-01:3,27
+Clare Collard,State Senate,12,DEM,Tooele,G-01:3,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-01:3,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-01:3,0
+Scott Sandall,State Senate,17,REP,Tooele,G-01:3,77
+Michael A Keil,State Senate,17,DEM,Tooele,G-01:3,27
+Douglas Sagers,State House ,21,REP,Tooele,G-01:3,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-01:3,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-01:3,4
+Merle Travis Wall,State House ,68,DEM,Tooele,G-01:3,20
+Warren Rogers,State House ,68,IAP,Tooele,G-01:3,2
+Kirk D Pearson,State House ,68,CON,Tooele,G-01:3,9
+Merrill Nelson,State House ,68,REP,Tooele,G-01:3,71
 ,Registered Voters,,,Tooele,G-02:1,892
 ,Ballots Cast,,,Tooele,G-02:1,614
 ,Straight Party,,CON,Tooele,G-02:1,3
@@ -315,26 +315,26 @@ Merrill Nelson,State House ,68,,Tooele,G-01:3,71
 ,Straight Party,,GRN,Tooele,G-02:1,1
 ,Straight Party,,DEM,Tooele,G-02:1,16
 ,Straight Party,,IAP,Tooele,G-02:1,10
-Tim Aalders,U.S. Senate,,,Tooele,G-02:1,32
-Craig R. Bowden,U.S. Senate,,,Tooele,G-02:1,22
-Reed C. McCandless,U.S. Senate,,,Tooele,G-02:1,7
-Jenny Wilson,U.S. Senate,,,Tooele,G-02:1,99
-Mitt Romney,U.S. Senate,,,Tooele,G-02:1,448
-Chris Stewart,U.S. House,2,,Tooele,G-02:1,450
-Jeffrey Whipple,U.S. House,2,,Tooele,G-02:1,39
-Shireen Ghorbani,U.S. House,2,,Tooele,G-02:1,109
-Clare Collard,State Senate,12,,Tooele,G-02:1,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-02:1,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-02:1,0
-Scott Sandall,State Senate,17,,Tooele,G-02:1,447
-Michael A Keil,State Senate,17,,Tooele,G-02:1,141
-Douglas Sagers,State House ,21,,Tooele,G-02:1,0
-Debbie K. Vigil,State House ,21,,Tooele,G-02:1,0
-Denyse Housley Cox,State House ,68,,Tooele,G-02:1,23
-Merle Travis Wall,State House ,68,,Tooele,G-02:1,86
-Warren Rogers,State House ,68,,Tooele,G-02:1,9
-Kirk D Pearson,State House ,68,,Tooele,G-02:1,42
-Merrill Nelson,State House ,68,,Tooele,G-02:1,443
+Tim Aalders,U.S. Senate,,CON,Tooele,G-02:1,32
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-02:1,22
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-02:1,7
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-02:1,99
+Mitt Romney,U.S. Senate,,REP,Tooele,G-02:1,448
+Chris Stewart,U.S. House,2,REP,Tooele,G-02:1,450
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-02:1,39
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-02:1,109
+Clare Collard,State Senate,12,DEM,Tooele,G-02:1,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-02:1,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-02:1,0
+Scott Sandall,State Senate,17,REP,Tooele,G-02:1,447
+Michael A Keil,State Senate,17,DEM,Tooele,G-02:1,141
+Douglas Sagers,State House ,21,REP,Tooele,G-02:1,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-02:1,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-02:1,23
+Merle Travis Wall,State House ,68,DEM,Tooele,G-02:1,86
+Warren Rogers,State House ,68,IAP,Tooele,G-02:1,9
+Kirk D Pearson,State House ,68,CON,Tooele,G-02:1,42
+Merrill Nelson,State House ,68,REP,Tooele,G-02:1,443
 ,Registered Voters,,,Tooele,G-02:2,0
 ,Ballots Cast,,,Tooele,G-02:2,0
 ,Straight Party,,CON,Tooele,G-02:2,0
@@ -343,26 +343,26 @@ Merrill Nelson,State House ,68,,Tooele,G-02:1,443
 ,Straight Party,,GRN,Tooele,G-02:2,0
 ,Straight Party,,DEM,Tooele,G-02:2,0
 ,Straight Party,,IAP,Tooele,G-02:2,0
-Tim Aalders,U.S. Senate,,,Tooele,G-02:2,0
-Craig R. Bowden,U.S. Senate,,,Tooele,G-02:2,0
-Reed C. McCandless,U.S. Senate,,,Tooele,G-02:2,0
-Jenny Wilson,U.S. Senate,,,Tooele,G-02:2,0
-Mitt Romney,U.S. Senate,,,Tooele,G-02:2,0
-Chris Stewart,U.S. House,2,,Tooele,G-02:2,0
-Jeffrey Whipple,U.S. House,2,,Tooele,G-02:2,0
-Shireen Ghorbani,U.S. House,2,,Tooele,G-02:2,0
-Clare Collard,State Senate,12,,Tooele,G-02:2,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-02:2,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-02:2,0
-Scott Sandall,State Senate,17,,Tooele,G-02:2,0
-Michael A Keil,State Senate,17,,Tooele,G-02:2,0
-Douglas Sagers,State House ,21,,Tooele,G-02:2,0
-Debbie K. Vigil,State House ,21,,Tooele,G-02:2,0
-Denyse Housley Cox,State House ,68,,Tooele,G-02:2,0
-Merle Travis Wall,State House ,68,,Tooele,G-02:2,0
-Warren Rogers,State House ,68,,Tooele,G-02:2,0
-Kirk D Pearson,State House ,68,,Tooele,G-02:2,0
-Merrill Nelson,State House ,68,,Tooele,G-02:2,0
+Tim Aalders,U.S. Senate,,CON,Tooele,G-02:2,0
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-02:2,0
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-02:2,0
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-02:2,0
+Mitt Romney,U.S. Senate,,REP,Tooele,G-02:2,0
+Chris Stewart,U.S. House,2,REP,Tooele,G-02:2,0
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-02:2,0
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-02:2,0
+Clare Collard,State Senate,12,DEM,Tooele,G-02:2,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-02:2,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-02:2,0
+Scott Sandall,State Senate,17,REP,Tooele,G-02:2,0
+Michael A Keil,State Senate,17,DEM,Tooele,G-02:2,0
+Douglas Sagers,State House ,21,REP,Tooele,G-02:2,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-02:2,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-02:2,0
+Merle Travis Wall,State House ,68,DEM,Tooele,G-02:2,0
+Warren Rogers,State House ,68,IAP,Tooele,G-02:2,0
+Kirk D Pearson,State House ,68,CON,Tooele,G-02:2,0
+Merrill Nelson,State House ,68,REP,Tooele,G-02:2,0
 ,Registered Voters,,,Tooele,G-03:1,1179
 ,Ballots Cast,,,Tooele,G-03:1,883
 ,Straight Party,,CON,Tooele,G-03:1,3
@@ -371,26 +371,26 @@ Merrill Nelson,State House ,68,,Tooele,G-02:2,0
 ,Straight Party,,GRN,Tooele,G-03:1,1
 ,Straight Party,,DEM,Tooele,G-03:1,29
 ,Straight Party,,IAP,Tooele,G-03:1,10
-Tim Aalders,U.S. Senate,,,Tooele,G-03:1,43
-Craig R. Bowden,U.S. Senate,,,Tooele,G-03:1,18
-Reed C. McCandless,U.S. Senate,,,Tooele,G-03:1,10
-Jenny Wilson,U.S. Senate,,,Tooele,G-03:1,132
-Mitt Romney,U.S. Senate,,,Tooele,G-03:1,665
-Chris Stewart,U.S. House,2,,Tooele,G-03:1,662
-Jeffrey Whipple,U.S. House,2,,Tooele,G-03:1,36
-Shireen Ghorbani,U.S. House,2,,Tooele,G-03:1,162
-Clare Collard,State Senate,12,,Tooele,G-03:1,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-03:1,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-03:1,0
-Scott Sandall,State Senate,17,,Tooele,G-03:1,634
-Michael A Keil,State Senate,17,,Tooele,G-03:1,209
-Douglas Sagers,State House ,21,,Tooele,G-03:1,0
-Debbie K. Vigil,State House ,21,,Tooele,G-03:1,0
-Denyse Housley Cox,State House ,68,,Tooele,G-03:1,31
-Merle Travis Wall,State House ,68,,Tooele,G-03:1,109
-Warren Rogers,State House ,68,,Tooele,G-03:1,13
-Kirk D Pearson,State House ,68,,Tooele,G-03:1,30
-Merrill Nelson,State House ,68,,Tooele,G-03:1,679
+Tim Aalders,U.S. Senate,,CON,Tooele,G-03:1,43
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-03:1,18
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-03:1,10
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-03:1,132
+Mitt Romney,U.S. Senate,,REP,Tooele,G-03:1,665
+Chris Stewart,U.S. House,2,REP,Tooele,G-03:1,662
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-03:1,36
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-03:1,162
+Clare Collard,State Senate,12,DEM,Tooele,G-03:1,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-03:1,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-03:1,0
+Scott Sandall,State Senate,17,REP,Tooele,G-03:1,634
+Michael A Keil,State Senate,17,DEM,Tooele,G-03:1,209
+Douglas Sagers,State House ,21,REP,Tooele,G-03:1,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-03:1,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-03:1,31
+Merle Travis Wall,State House ,68,DEM,Tooele,G-03:1,109
+Warren Rogers,State House ,68,IAP,Tooele,G-03:1,13
+Kirk D Pearson,State House ,68,CON,Tooele,G-03:1,30
+Merrill Nelson,State House ,68,REP,Tooele,G-03:1,679
 ,Registered Voters,,,Tooele,G-03:2,0
 ,Ballots Cast,,,Tooele,G-03:2,0
 ,Straight Party,,CON,Tooele,G-03:2,0
@@ -399,26 +399,26 @@ Merrill Nelson,State House ,68,,Tooele,G-03:1,679
 ,Straight Party,,GRN,Tooele,G-03:2,0
 ,Straight Party,,DEM,Tooele,G-03:2,0
 ,Straight Party,,IAP,Tooele,G-03:2,0
-Tim Aalders,U.S. Senate,,,Tooele,G-03:2,0
-Craig R. Bowden,U.S. Senate,,,Tooele,G-03:2,0
-Reed C. McCandless,U.S. Senate,,,Tooele,G-03:2,0
-Jenny Wilson,U.S. Senate,,,Tooele,G-03:2,0
-Mitt Romney,U.S. Senate,,,Tooele,G-03:2,0
-Chris Stewart,U.S. House,2,,Tooele,G-03:2,0
-Jeffrey Whipple,U.S. House,2,,Tooele,G-03:2,0
-Shireen Ghorbani,U.S. House,2,,Tooele,G-03:2,0
-Clare Collard,State Senate,12,,Tooele,G-03:2,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-03:2,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-03:2,0
-Scott Sandall,State Senate,17,,Tooele,G-03:2,0
-Michael A Keil,State Senate,17,,Tooele,G-03:2,0
-Douglas Sagers,State House ,21,,Tooele,G-03:2,0
-Debbie K. Vigil,State House ,21,,Tooele,G-03:2,0
-Denyse Housley Cox,State House ,68,,Tooele,G-03:2,0
-Merle Travis Wall,State House ,68,,Tooele,G-03:2,0
-Warren Rogers,State House ,68,,Tooele,G-03:2,0
-Kirk D Pearson,State House ,68,,Tooele,G-03:2,0
-Merrill Nelson,State House ,68,,Tooele,G-03:2,0
+Tim Aalders,U.S. Senate,,CON,Tooele,G-03:2,0
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-03:2,0
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-03:2,0
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-03:2,0
+Mitt Romney,U.S. Senate,,REP,Tooele,G-03:2,0
+Chris Stewart,U.S. House,2,REP,Tooele,G-03:2,0
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-03:2,0
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-03:2,0
+Clare Collard,State Senate,12,DEM,Tooele,G-03:2,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-03:2,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-03:2,0
+Scott Sandall,State Senate,17,REP,Tooele,G-03:2,0
+Michael A Keil,State Senate,17,DEM,Tooele,G-03:2,0
+Douglas Sagers,State House ,21,REP,Tooele,G-03:2,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-03:2,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-03:2,0
+Merle Travis Wall,State House ,68,DEM,Tooele,G-03:2,0
+Warren Rogers,State House ,68,IAP,Tooele,G-03:2,0
+Kirk D Pearson,State House ,68,CON,Tooele,G-03:2,0
+Merrill Nelson,State House ,68,REP,Tooele,G-03:2,0
 ,Registered Voters,,,Tooele,G-04:1,919
 ,Ballots Cast,,,Tooele,G-04:1,601
 ,Straight Party,,CON,Tooele,G-04:1,3
@@ -427,26 +427,26 @@ Merrill Nelson,State House ,68,,Tooele,G-03:2,0
 ,Straight Party,,GRN,Tooele,G-04:1,0
 ,Straight Party,,DEM,Tooele,G-04:1,22
 ,Straight Party,,IAP,Tooele,G-04:1,22
-Tim Aalders,U.S. Senate,,,Tooele,G-04:1,29
-Craig R. Bowden,U.S. Senate,,,Tooele,G-04:1,17
-Reed C. McCandless,U.S. Senate,,,Tooele,G-04:1,10
-Jenny Wilson,U.S. Senate,,,Tooele,G-04:1,130
-Mitt Romney,U.S. Senate,,,Tooele,G-04:1,404
-Chris Stewart,U.S. House,2,,Tooele,G-04:1,413
-Jeffrey Whipple,U.S. House,2,,Tooele,G-04:1,40
-Shireen Ghorbani,U.S. House,2,,Tooele,G-04:1,136
-Clare Collard,State Senate,12,,Tooele,G-04:1,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-04:1,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-04:1,0
-Scott Sandall,State Senate,17,,Tooele,G-04:1,407
-Michael A Keil,State Senate,17,,Tooele,G-04:1,169
-Douglas Sagers,State House ,21,,Tooele,G-04:1,0
-Debbie K. Vigil,State House ,21,,Tooele,G-04:1,0
-Denyse Housley Cox,State House ,68,,Tooele,G-04:1,22
-Merle Travis Wall,State House ,68,,Tooele,G-04:1,94
-Warren Rogers,State House ,68,,Tooele,G-04:1,25
-Kirk D Pearson,State House ,68,,Tooele,G-04:1,33
-Merrill Nelson,State House ,68,,Tooele,G-04:1,414
+Tim Aalders,U.S. Senate,,CON,Tooele,G-04:1,29
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-04:1,17
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-04:1,10
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-04:1,130
+Mitt Romney,U.S. Senate,,REP,Tooele,G-04:1,404
+Chris Stewart,U.S. House,2,REP,Tooele,G-04:1,413
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-04:1,40
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-04:1,136
+Clare Collard,State Senate,12,DEM,Tooele,G-04:1,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-04:1,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-04:1,0
+Scott Sandall,State Senate,17,REP,Tooele,G-04:1,407
+Michael A Keil,State Senate,17,DEM,Tooele,G-04:1,169
+Douglas Sagers,State House ,21,REP,Tooele,G-04:1,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-04:1,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-04:1,22
+Merle Travis Wall,State House ,68,DEM,Tooele,G-04:1,94
+Warren Rogers,State House ,68,IAP,Tooele,G-04:1,25
+Kirk D Pearson,State House ,68,CON,Tooele,G-04:1,33
+Merrill Nelson,State House ,68,REP,Tooele,G-04:1,414
 ,Registered Voters,,,Tooele,G-04:2,7
 ,Ballots Cast,,,Tooele,G-04:2,21
 ,Straight Party,,CON,Tooele,G-04:2,0
@@ -455,26 +455,26 @@ Merrill Nelson,State House ,68,,Tooele,G-04:1,414
 ,Straight Party,,GRN,Tooele,G-04:2,0
 ,Straight Party,,DEM,Tooele,G-04:2,5
 ,Straight Party,,IAP,Tooele,G-04:2,0
-Tim Aalders,U.S. Senate,,,Tooele,G-04:2,1
-Craig R. Bowden,U.S. Senate,,,Tooele,G-04:2,1
-Reed C. McCandless,U.S. Senate,,,Tooele,G-04:2,0
-Jenny Wilson,U.S. Senate,,,Tooele,G-04:2,5
-Mitt Romney,U.S. Senate,,,Tooele,G-04:2,14
-Chris Stewart,U.S. House,2,,Tooele,G-04:2,14
-Jeffrey Whipple,U.S. House,2,,Tooele,G-04:2,2
-Shireen Ghorbani,U.S. House,2,,Tooele,G-04:2,5
-Clare Collard,State Senate,12,,Tooele,G-04:2,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-04:2,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-04:2,0
-Scott Sandall,State Senate,17,,Tooele,G-04:2,14
-Michael A Keil,State Senate,17,,Tooele,G-04:2,7
-Douglas Sagers,State House ,21,,Tooele,G-04:2,0
-Debbie K. Vigil,State House ,21,,Tooele,G-04:2,0
-Denyse Housley Cox,State House ,68,,Tooele,G-04:2,1
-Merle Travis Wall,State House ,68,,Tooele,G-04:2,4
-Warren Rogers,State House ,68,,Tooele,G-04:2,0
-Kirk D Pearson,State House ,68,,Tooele,G-04:2,0
-Merrill Nelson,State House ,68,,Tooele,G-04:2,16
+Tim Aalders,U.S. Senate,,CON,Tooele,G-04:2,1
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-04:2,1
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-04:2,0
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-04:2,5
+Mitt Romney,U.S. Senate,,REP,Tooele,G-04:2,14
+Chris Stewart,U.S. House,2,REP,Tooele,G-04:2,14
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-04:2,2
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-04:2,5
+Clare Collard,State Senate,12,DEM,Tooele,G-04:2,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-04:2,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-04:2,0
+Scott Sandall,State Senate,17,REP,Tooele,G-04:2,14
+Michael A Keil,State Senate,17,DEM,Tooele,G-04:2,7
+Douglas Sagers,State House ,21,REP,Tooele,G-04:2,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-04:2,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-04:2,1
+Merle Travis Wall,State House ,68,DEM,Tooele,G-04:2,4
+Warren Rogers,State House ,68,IAP,Tooele,G-04:2,0
+Kirk D Pearson,State House ,68,CON,Tooele,G-04:2,0
+Merrill Nelson,State House ,68,REP,Tooele,G-04:2,16
 ,Registered Voters,,,Tooele,G-05,901
 ,Ballots Cast,,,Tooele,G-05,648
 ,Straight Party,,CON,Tooele,G-05,2
@@ -483,26 +483,26 @@ Merrill Nelson,State House ,68,,Tooele,G-04:2,16
 ,Straight Party,,GRN,Tooele,G-05,0
 ,Straight Party,,DEM,Tooele,G-05,25
 ,Straight Party,,IAP,Tooele,G-05,11
-Tim Aalders,U.S. Senate,,,Tooele,G-05,25
-Craig R. Bowden,U.S. Senate,,,Tooele,G-05,16
-Reed C. McCandless,U.S. Senate,,,Tooele,G-05,14
-Jenny Wilson,U.S. Senate,,,Tooele,G-05,104
-Mitt Romney,U.S. Senate,,,Tooele,G-05,481
-Chris Stewart,U.S. House,2,,Tooele,G-05,481
-Jeffrey Whipple,U.S. House,2,,Tooele,G-05,33
-Shireen Ghorbani,U.S. House,2,,Tooele,G-05,118
-Clare Collard,State Senate,12,,Tooele,G-05,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-05,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-05,0
-Scott Sandall,State Senate,17,,Tooele,G-05,469
-Michael A Keil,State Senate,17,,Tooele,G-05,154
-Douglas Sagers,State House ,21,,Tooele,G-05,0
-Debbie K. Vigil,State House ,21,,Tooele,G-05,0
-Denyse Housley Cox,State House ,68,,Tooele,G-05,25
-Merle Travis Wall,State House ,68,,Tooele,G-05,84
-Warren Rogers,State House ,68,,Tooele,G-05,7
-Kirk D Pearson,State House ,68,,Tooele,G-05,32
-Merrill Nelson,State House ,68,,Tooele,G-05,485
+Tim Aalders,U.S. Senate,,CON,Tooele,G-05,25
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-05,16
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-05,14
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-05,104
+Mitt Romney,U.S. Senate,,REP,Tooele,G-05,481
+Chris Stewart,U.S. House,2,REP,Tooele,G-05,481
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-05,33
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-05,118
+Clare Collard,State Senate,12,DEM,Tooele,G-05,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-05,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-05,0
+Scott Sandall,State Senate,17,REP,Tooele,G-05,469
+Michael A Keil,State Senate,17,DEM,Tooele,G-05,154
+Douglas Sagers,State House ,21,REP,Tooele,G-05,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-05,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-05,25
+Merle Travis Wall,State House ,68,DEM,Tooele,G-05,84
+Warren Rogers,State House ,68,IAP,Tooele,G-05,7
+Kirk D Pearson,State House ,68,CON,Tooele,G-05,32
+Merrill Nelson,State House ,68,REP,Tooele,G-05,485
 ,Registered Voters,,,Tooele,G-06,858
 ,Ballots Cast,,,Tooele,G-06,581
 ,Straight Party,,CON,Tooele,G-06,1
@@ -511,26 +511,26 @@ Merrill Nelson,State House ,68,,Tooele,G-05,485
 ,Straight Party,,GRN,Tooele,G-06,0
 ,Straight Party,,DEM,Tooele,G-06,21
 ,Straight Party,,IAP,Tooele,G-06,8
-Tim Aalders,U.S. Senate,,,Tooele,G-06,27
-Craig R. Bowden,U.S. Senate,,,Tooele,G-06,10
-Reed C. McCandless,U.S. Senate,,,Tooele,G-06,5
-Jenny Wilson,U.S. Senate,,,Tooele,G-06,98
-Mitt Romney,U.S. Senate,,,Tooele,G-06,434
-Chris Stewart,U.S. House,2,,Tooele,G-06,450
-Jeffrey Whipple,U.S. House,2,,Tooele,G-06,27
-Shireen Ghorbani,U.S. House,2,,Tooele,G-06,96
-Clare Collard,State Senate,12,,Tooele,G-06,0
-Abrian B. Velarde,State Senate,12,,Tooele,G-06,0
-Daniel W. Thatcher,State Senate,12,,Tooele,G-06,0
-Scott Sandall,State Senate,17,,Tooele,G-06,430
-Michael A Keil,State Senate,17,,Tooele,G-06,130
-Douglas Sagers,State House ,21,,Tooele,G-06,0
-Debbie K. Vigil,State House ,21,,Tooele,G-06,0
-Denyse Housley Cox,State House ,68,,Tooele,G-06,34
-Merle Travis Wall,State House ,68,,Tooele,G-06,77
-Warren Rogers,State House ,68,,Tooele,G-06,8
-Kirk D Pearson,State House ,68,,Tooele,G-06,23
-Merrill Nelson,State House ,68,,Tooele,G-06,427
+Tim Aalders,U.S. Senate,,CON,Tooele,G-06,27
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,G-06,10
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,G-06,5
+Jenny Wilson,U.S. Senate,,DEM,Tooele,G-06,98
+Mitt Romney,U.S. Senate,,REP,Tooele,G-06,434
+Chris Stewart,U.S. House,2,REP,Tooele,G-06,450
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,G-06,27
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,G-06,96
+Clare Collard,State Senate,12,DEM,Tooele,G-06,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,G-06,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,G-06,0
+Scott Sandall,State Senate,17,REP,Tooele,G-06,430
+Michael A Keil,State Senate,17,DEM,Tooele,G-06,130
+Douglas Sagers,State House ,21,REP,Tooele,G-06,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,G-06,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,G-06,34
+Merle Travis Wall,State House ,68,DEM,Tooele,G-06,77
+Warren Rogers,State House ,68,IAP,Tooele,G-06,8
+Kirk D Pearson,State House ,68,CON,Tooele,G-06,23
+Merrill Nelson,State House ,68,REP,Tooele,G-06,427
 ,Registered Voters,,,Tooele,IBA,33
 ,Ballots Cast,,,Tooele,IBA,26
 ,Straight Party,,CON,Tooele,IBA,0
@@ -539,26 +539,26 @@ Merrill Nelson,State House ,68,,Tooele,G-06,427
 ,Straight Party,,GRN,Tooele,IBA,0
 ,Straight Party,,DEM,Tooele,IBA,1
 ,Straight Party,,IAP,Tooele,IBA,1
-Tim Aalders,U.S. Senate,,,Tooele,IBA,2
-Craig R. Bowden,U.S. Senate,,,Tooele,IBA,2
-Reed C. McCandless,U.S. Senate,,,Tooele,IBA,0
-Jenny Wilson,U.S. Senate,,,Tooele,IBA,2
-Mitt Romney,U.S. Senate,,,Tooele,IBA,19
-Chris Stewart,U.S. House,2,,Tooele,IBA,24
-Jeffrey Whipple,U.S. House,2,,Tooele,IBA,0
-Shireen Ghorbani,U.S. House,2,,Tooele,IBA,1
-Clare Collard,State Senate,12,,Tooele,IBA,0
-Abrian B. Velarde,State Senate,12,,Tooele,IBA,0
-Daniel W. Thatcher,State Senate,12,,Tooele,IBA,0
-Scott Sandall,State Senate,17,,Tooele,IBA,22
-Michael A Keil,State Senate,17,,Tooele,IBA,3
-Douglas Sagers,State House ,21,,Tooele,IBA,0
-Debbie K. Vigil,State House ,21,,Tooele,IBA,0
-Denyse Housley Cox,State House ,68,,Tooele,IBA,1
-Merle Travis Wall,State House ,68,,Tooele,IBA,1
-Warren Rogers,State House ,68,,Tooele,IBA,0
-Kirk D Pearson,State House ,68,,Tooele,IBA,1
-Merrill Nelson,State House ,68,,Tooele,IBA,23
+Tim Aalders,U.S. Senate,,CON,Tooele,IBA,2
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,IBA,2
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,IBA,0
+Jenny Wilson,U.S. Senate,,DEM,Tooele,IBA,2
+Mitt Romney,U.S. Senate,,REP,Tooele,IBA,19
+Chris Stewart,U.S. House,2,REP,Tooele,IBA,24
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,IBA,0
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,IBA,1
+Clare Collard,State Senate,12,DEM,Tooele,IBA,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,IBA,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,IBA,0
+Scott Sandall,State Senate,17,REP,Tooele,IBA,22
+Michael A Keil,State Senate,17,DEM,Tooele,IBA,3
+Douglas Sagers,State House ,21,REP,Tooele,IBA,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,IBA,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,IBA,1
+Merle Travis Wall,State House ,68,DEM,Tooele,IBA,1
+Warren Rogers,State House ,68,IAP,Tooele,IBA,0
+Kirk D Pearson,State House ,68,CON,Tooele,IBA,1
+Merrill Nelson,State House ,68,REP,Tooele,IBA,23
 ,Registered Voters,,,Tooele,LINC:1,322
 ,Ballots Cast,,,Tooele,LINC:1,247
 ,Straight Party,,CON,Tooele,LINC:1,0
@@ -567,26 +567,26 @@ Merrill Nelson,State House ,68,,Tooele,IBA,23
 ,Straight Party,,GRN,Tooele,LINC:1,0
 ,Straight Party,,DEM,Tooele,LINC:1,11
 ,Straight Party,,IAP,Tooele,LINC:1,7
-Tim Aalders,U.S. Senate,,,Tooele,LINC:1,5
-Craig R. Bowden,U.S. Senate,,,Tooele,LINC:1,11
-Reed C. McCandless,U.S. Senate,,,Tooele,LINC:1,3
-Jenny Wilson,U.S. Senate,,,Tooele,LINC:1,59
-Mitt Romney,U.S. Senate,,,Tooele,LINC:1,161
-Chris Stewart,U.S. House,2,,Tooele,LINC:1,153
-Jeffrey Whipple,U.S. House,2,,Tooele,LINC:1,12
-Shireen Ghorbani,U.S. House,2,,Tooele,LINC:1,71
-Clare Collard,State Senate,12,,Tooele,LINC:1,77
-Abrian B. Velarde,State Senate,12,,Tooele,LINC:1,8
-Daniel W. Thatcher,State Senate,12,,Tooele,LINC:1,149
-Scott Sandall,State Senate,17,,Tooele,LINC:1,0
-Michael A Keil,State Senate,17,,Tooele,LINC:1,0
-Douglas Sagers,State House ,21,,Tooele,LINC:1,155
-Debbie K. Vigil,State House ,21,,Tooele,LINC:1,78
-Denyse Housley Cox,State House ,68,,Tooele,LINC:1,0
-Merle Travis Wall,State House ,68,,Tooele,LINC:1,0
-Warren Rogers,State House ,68,,Tooele,LINC:1,0
-Kirk D Pearson,State House ,68,,Tooele,LINC:1,0
-Merrill Nelson,State House ,68,,Tooele,LINC:1,0
+Tim Aalders,U.S. Senate,,CON,Tooele,LINC:1,5
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,LINC:1,11
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,LINC:1,3
+Jenny Wilson,U.S. Senate,,DEM,Tooele,LINC:1,59
+Mitt Romney,U.S. Senate,,REP,Tooele,LINC:1,161
+Chris Stewart,U.S. House,2,REP,Tooele,LINC:1,153
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,LINC:1,12
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,LINC:1,71
+Clare Collard,State Senate,12,DEM,Tooele,LINC:1,77
+Abrian B. Velarde,State Senate,12,GRN,Tooele,LINC:1,8
+Daniel W. Thatcher,State Senate,12,REP,Tooele,LINC:1,149
+Scott Sandall,State Senate,17,REP,Tooele,LINC:1,0
+Michael A Keil,State Senate,17,DEM,Tooele,LINC:1,0
+Douglas Sagers,State House ,21,REP,Tooele,LINC:1,155
+Debbie K. Vigil,State House ,21,DEM,Tooele,LINC:1,78
+Denyse Housley Cox,State House ,68,LIB,Tooele,LINC:1,0
+Merle Travis Wall,State House ,68,DEM,Tooele,LINC:1,0
+Warren Rogers,State House ,68,IAP,Tooele,LINC:1,0
+Kirk D Pearson,State House ,68,CON,Tooele,LINC:1,0
+Merrill Nelson,State House ,68,REP,Tooele,LINC:1,0
 ,Registered Voters,,,Tooele,LP-01:1,502
 ,Ballots Cast,,,Tooele,LP-01:1,372
 ,Straight Party,,CON,Tooele,LP-01:1,2
@@ -595,26 +595,26 @@ Merrill Nelson,State House ,68,,Tooele,LINC:1,0
 ,Straight Party,,GRN,Tooele,LP-01:1,2
 ,Straight Party,,DEM,Tooele,LP-01:1,27
 ,Straight Party,,IAP,Tooele,LP-01:1,4
-Tim Aalders,U.S. Senate,,,Tooele,LP-01:1,30
-Craig R. Bowden,U.S. Senate,,,Tooele,LP-01:1,13
-Reed C. McCandless,U.S. Senate,,,Tooele,LP-01:1,3
-Jenny Wilson,U.S. Senate,,,Tooele,LP-01:1,94
-Mitt Romney,U.S. Senate,,,Tooele,LP-01:1,225
-Chris Stewart,U.S. House,2,,Tooele,LP-01:1,220
-Jeffrey Whipple,U.S. House,2,,Tooele,LP-01:1,34
-Shireen Ghorbani,U.S. House,2,,Tooele,LP-01:1,108
-Clare Collard,State Senate,12,,Tooele,LP-01:1,0
-Abrian B. Velarde,State Senate,12,,Tooele,LP-01:1,0
-Daniel W. Thatcher,State Senate,12,,Tooele,LP-01:1,0
-Scott Sandall,State Senate,17,,Tooele,LP-01:1,228
-Michael A Keil,State Senate,17,,Tooele,LP-01:1,123
-Douglas Sagers,State House ,21,,Tooele,LP-01:1,0
-Debbie K. Vigil,State House ,21,,Tooele,LP-01:1,0
-Denyse Housley Cox,State House ,68,,Tooele,LP-01:1,20
-Merle Travis Wall,State House ,68,,Tooele,LP-01:1,90
-Warren Rogers,State House ,68,,Tooele,LP-01:1,3
-Kirk D Pearson,State House ,68,,Tooele,LP-01:1,90
-Merrill Nelson,State House ,68,,Tooele,LP-01:1,160
+Tim Aalders,U.S. Senate,,CON,Tooele,LP-01:1,30
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,LP-01:1,13
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,LP-01:1,3
+Jenny Wilson,U.S. Senate,,DEM,Tooele,LP-01:1,94
+Mitt Romney,U.S. Senate,,REP,Tooele,LP-01:1,225
+Chris Stewart,U.S. House,2,REP,Tooele,LP-01:1,220
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,LP-01:1,34
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,LP-01:1,108
+Clare Collard,State Senate,12,DEM,Tooele,LP-01:1,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,LP-01:1,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,LP-01:1,0
+Scott Sandall,State Senate,17,REP,Tooele,LP-01:1,228
+Michael A Keil,State Senate,17,DEM,Tooele,LP-01:1,123
+Douglas Sagers,State House ,21,REP,Tooele,LP-01:1,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,LP-01:1,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,LP-01:1,20
+Merle Travis Wall,State House ,68,DEM,Tooele,LP-01:1,90
+Warren Rogers,State House ,68,IAP,Tooele,LP-01:1,3
+Kirk D Pearson,State House ,68,CON,Tooele,LP-01:1,90
+Merrill Nelson,State House ,68,REP,Tooele,LP-01:1,160
 ,Registered Voters,,,Tooele,LP-02:1,268
 ,Ballots Cast,,,Tooele,LP-02:1,203
 ,Straight Party,,CON,Tooele,LP-02:1,2
@@ -623,26 +623,26 @@ Merrill Nelson,State House ,68,,Tooele,LP-01:1,160
 ,Straight Party,,GRN,Tooele,LP-02:1,1
 ,Straight Party,,DEM,Tooele,LP-02:1,8
 ,Straight Party,,IAP,Tooele,LP-02:1,4
-Tim Aalders,U.S. Senate,,,Tooele,LP-02:1,28
-Craig R. Bowden,U.S. Senate,,,Tooele,LP-02:1,3
-Reed C. McCandless,U.S. Senate,,,Tooele,LP-02:1,1
-Jenny Wilson,U.S. Senate,,,Tooele,LP-02:1,32
-Mitt Romney,U.S. Senate,,,Tooele,LP-02:1,137
-Chris Stewart,U.S. House,2,,Tooele,LP-02:1,147
-Jeffrey Whipple,U.S. House,2,,Tooele,LP-02:1,22
-Shireen Ghorbani,U.S. House,2,,Tooele,LP-02:1,30
-Clare Collard,State Senate,12,,Tooele,LP-02:1,0
-Abrian B. Velarde,State Senate,12,,Tooele,LP-02:1,0
-Daniel W. Thatcher,State Senate,12,,Tooele,LP-02:1,0
-Scott Sandall,State Senate,17,,Tooele,LP-02:1,145
-Michael A Keil,State Senate,17,,Tooele,LP-02:1,46
-Douglas Sagers,State House ,21,,Tooele,LP-02:1,0
-Debbie K. Vigil,State House ,21,,Tooele,LP-02:1,0
-Denyse Housley Cox,State House ,68,,Tooele,LP-02:1,4
-Merle Travis Wall,State House ,68,,Tooele,LP-02:1,25
-Warren Rogers,State House ,68,,Tooele,LP-02:1,5
-Kirk D Pearson,State House ,68,,Tooele,LP-02:1,99
-Merrill Nelson,State House ,68,,Tooele,LP-02:1,68
+Tim Aalders,U.S. Senate,,CON,Tooele,LP-02:1,28
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,LP-02:1,3
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,LP-02:1,1
+Jenny Wilson,U.S. Senate,,DEM,Tooele,LP-02:1,32
+Mitt Romney,U.S. Senate,,REP,Tooele,LP-02:1,137
+Chris Stewart,U.S. House,2,REP,Tooele,LP-02:1,147
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,LP-02:1,22
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,LP-02:1,30
+Clare Collard,State Senate,12,DEM,Tooele,LP-02:1,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,LP-02:1,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,LP-02:1,0
+Scott Sandall,State Senate,17,REP,Tooele,LP-02:1,145
+Michael A Keil,State Senate,17,DEM,Tooele,LP-02:1,46
+Douglas Sagers,State House ,21,REP,Tooele,LP-02:1,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,LP-02:1,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,LP-02:1,4
+Merle Travis Wall,State House ,68,DEM,Tooele,LP-02:1,25
+Warren Rogers,State House ,68,IAP,Tooele,LP-02:1,5
+Kirk D Pearson,State House ,68,CON,Tooele,LP-02:1,99
+Merrill Nelson,State House ,68,REP,Tooele,LP-02:1,68
 ,Registered Voters,,,Tooele,OPHIR,21
 ,Ballots Cast,,,Tooele,OPHIR,15
 ,Straight Party,,CON,Tooele,OPHIR,0
@@ -651,26 +651,26 @@ Merrill Nelson,State House ,68,,Tooele,LP-02:1,68
 ,Straight Party,,GRN,Tooele,OPHIR,0
 ,Straight Party,,DEM,Tooele,OPHIR,1
 ,Straight Party,,IAP,Tooele,OPHIR,0
-Tim Aalders,U.S. Senate,,,Tooele,OPHIR,1
-Craig R. Bowden,U.S. Senate,,,Tooele,OPHIR,0
-Reed C. McCandless,U.S. Senate,,,Tooele,OPHIR,1
-Jenny Wilson,U.S. Senate,,,Tooele,OPHIR,4
-Mitt Romney,U.S. Senate,,,Tooele,OPHIR,9
-Chris Stewart,U.S. House,2,,Tooele,OPHIR,13
-Jeffrey Whipple,U.S. House,2,,Tooele,OPHIR,1
-Shireen Ghorbani,U.S. House,2,,Tooele,OPHIR,1
-Clare Collard,State Senate,12,,Tooele,OPHIR,0
-Abrian B. Velarde,State Senate,12,,Tooele,OPHIR,0
-Daniel W. Thatcher,State Senate,12,,Tooele,OPHIR,0
-Scott Sandall,State Senate,17,,Tooele,OPHIR,11
-Michael A Keil,State Senate,17,,Tooele,OPHIR,2
-Douglas Sagers,State House ,21,,Tooele,OPHIR,0
-Debbie K. Vigil,State House ,21,,Tooele,OPHIR,0
-Denyse Housley Cox,State House ,68,,Tooele,OPHIR,0
-Merle Travis Wall,State House ,68,,Tooele,OPHIR,3
-Warren Rogers,State House ,68,,Tooele,OPHIR,0
-Kirk D Pearson,State House ,68,,Tooele,OPHIR,1
-Merrill Nelson,State House ,68,,Tooele,OPHIR,11
+Tim Aalders,U.S. Senate,,CON,Tooele,OPHIR,1
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,OPHIR,0
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,OPHIR,1
+Jenny Wilson,U.S. Senate,,DEM,Tooele,OPHIR,4
+Mitt Romney,U.S. Senate,,REP,Tooele,OPHIR,9
+Chris Stewart,U.S. House,2,REP,Tooele,OPHIR,13
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,OPHIR,1
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,OPHIR,1
+Clare Collard,State Senate,12,DEM,Tooele,OPHIR,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,OPHIR,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,OPHIR,0
+Scott Sandall,State Senate,17,REP,Tooele,OPHIR,11
+Michael A Keil,State Senate,17,DEM,Tooele,OPHIR,2
+Douglas Sagers,State House ,21,REP,Tooele,OPHIR,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,OPHIR,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,OPHIR,0
+Merle Travis Wall,State House ,68,DEM,Tooele,OPHIR,3
+Warren Rogers,State House ,68,IAP,Tooele,OPHIR,0
+Kirk D Pearson,State House ,68,CON,Tooele,OPHIR,1
+Merrill Nelson,State House ,68,REP,Tooele,OPHIR,11
 ,Registered Voters,,,Tooele,RV-01:1-01:2,275
 ,Ballots Cast,,,Tooele,RV-01:1-01:2,216
 ,Straight Party,,CON,Tooele,RV-01:1-01:2,1
@@ -679,26 +679,26 @@ Merrill Nelson,State House ,68,,Tooele,OPHIR,11
 ,Straight Party,,GRN,Tooele,RV-01:1-01:2,0
 ,Straight Party,,DEM,Tooele,RV-01:1-01:2,9
 ,Straight Party,,IAP,Tooele,RV-01:1-01:2,3
-Tim Aalders,U.S. Senate,,,Tooele,RV-01:1-01:2,7
-Craig R. Bowden,U.S. Senate,,,Tooele,RV-01:1-01:2,3
-Reed C. McCandless,U.S. Senate,,,Tooele,RV-01:1-01:2,4
-Jenny Wilson,U.S. Senate,,,Tooele,RV-01:1-01:2,33
-Mitt Romney,U.S. Senate,,,Tooele,RV-01:1-01:2,167
-Chris Stewart,U.S. House,2,,Tooele,RV-01:1-01:2,172
-Jeffrey Whipple,U.S. House,2,,Tooele,RV-01:1-01:2,9
-Shireen Ghorbani,U.S. House,2,,Tooele,RV-01:1-01:2,34
-Clare Collard,State Senate,12,,Tooele,RV-01:1-01:2,0
-Abrian B. Velarde,State Senate,12,,Tooele,RV-01:1-01:2,0
-Daniel W. Thatcher,State Senate,12,,Tooele,RV-01:1-01:2,0
-Scott Sandall,State Senate,17,,Tooele,RV-01:1-01:2,159
-Michael A Keil,State Senate,17,,Tooele,RV-01:1-01:2,55
-Douglas Sagers,State House ,21,,Tooele,RV-01:1-01:2,0
-Debbie K. Vigil,State House ,21,,Tooele,RV-01:1-01:2,0
-Denyse Housley Cox,State House ,68,,Tooele,RV-01:1-01:2,8
-Merle Travis Wall,State House ,68,,Tooele,RV-01:1-01:2,31
-Warren Rogers,State House ,68,,Tooele,RV-01:1-01:2,3
-Kirk D Pearson,State House ,68,,Tooele,RV-01:1-01:2,9
-Merrill Nelson,State House ,68,,Tooele,RV-01:1-01:2,165
+Tim Aalders,U.S. Senate,,CON,Tooele,RV-01:1-01:2,7
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,RV-01:1-01:2,3
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,RV-01:1-01:2,4
+Jenny Wilson,U.S. Senate,,DEM,Tooele,RV-01:1-01:2,33
+Mitt Romney,U.S. Senate,,REP,Tooele,RV-01:1-01:2,167
+Chris Stewart,U.S. House,2,REP,Tooele,RV-01:1-01:2,172
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,RV-01:1-01:2,9
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,RV-01:1-01:2,34
+Clare Collard,State Senate,12,DEM,Tooele,RV-01:1-01:2,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,RV-01:1-01:2,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,RV-01:1-01:2,0
+Scott Sandall,State Senate,17,REP,Tooele,RV-01:1-01:2,159
+Michael A Keil,State Senate,17,DEM,Tooele,RV-01:1-01:2,55
+Douglas Sagers,State House ,21,REP,Tooele,RV-01:1-01:2,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,RV-01:1-01:2,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,RV-01:1-01:2,8
+Merle Travis Wall,State House ,68,DEM,Tooele,RV-01:1-01:2,31
+Warren Rogers,State House ,68,IAP,Tooele,RV-01:1-01:2,3
+Kirk D Pearson,State House ,68,CON,Tooele,RV-01:1-01:2,9
+Merrill Nelson,State House ,68,REP,Tooele,RV-01:1-01:2,165
 ,Registered Voters,,,Tooele,SP-01,1067
 ,Ballots Cast,,,Tooele,SP-01,811
 ,Straight Party,,CON,Tooele,SP-01,1
@@ -707,26 +707,26 @@ Merrill Nelson,State House ,68,,Tooele,RV-01:1-01:2,165
 ,Straight Party,,GRN,Tooele,SP-01,0
 ,Straight Party,,DEM,Tooele,SP-01,55
 ,Straight Party,,IAP,Tooele,SP-01,19
-Tim Aalders,U.S. Senate,,,Tooele,SP-01,18
-Craig R. Bowden,U.S. Senate,,,Tooele,SP-01,28
-Reed C. McCandless,U.S. Senate,,,Tooele,SP-01,12
-Jenny Wilson,U.S. Senate,,,Tooele,SP-01,199
-Mitt Romney,U.S. Senate,,,Tooele,SP-01,534
-Chris Stewart,U.S. House,2,,Tooele,SP-01,503
-Jeffrey Whipple,U.S. House,2,,Tooele,SP-01,46
-Shireen Ghorbani,U.S. House,2,,Tooele,SP-01,228
-Clare Collard,State Senate,12,,Tooele,SP-01,0
-Abrian B. Velarde,State Senate,12,,Tooele,SP-01,0
-Daniel W. Thatcher,State Senate,12,,Tooele,SP-01,0
-Scott Sandall,State Senate,17,,Tooele,SP-01,428
-Michael A Keil,State Senate,17,,Tooele,SP-01,338
-Douglas Sagers,State House ,21,,Tooele,SP-01,522
-Debbie K. Vigil,State House ,21,,Tooele,SP-01,238
-Denyse Housley Cox,State House ,68,,Tooele,SP-01,0
-Merle Travis Wall,State House ,68,,Tooele,SP-01,0
-Warren Rogers,State House ,68,,Tooele,SP-01,0
-Kirk D Pearson,State House ,68,,Tooele,SP-01,0
-Merrill Nelson,State House ,68,,Tooele,SP-01,0
+Tim Aalders,U.S. Senate,,CON,Tooele,SP-01,18
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,SP-01,28
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,SP-01,12
+Jenny Wilson,U.S. Senate,,DEM,Tooele,SP-01,199
+Mitt Romney,U.S. Senate,,REP,Tooele,SP-01,534
+Chris Stewart,U.S. House,2,REP,Tooele,SP-01,503
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,SP-01,46
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,SP-01,228
+Clare Collard,State Senate,12,DEM,Tooele,SP-01,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,SP-01,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,SP-01,0
+Scott Sandall,State Senate,17,REP,Tooele,SP-01,428
+Michael A Keil,State Senate,17,DEM,Tooele,SP-01,338
+Douglas Sagers,State House ,21,REP,Tooele,SP-01,522
+Debbie K. Vigil,State House ,21,DEM,Tooele,SP-01,238
+Denyse Housley Cox,State House ,68,LIB,Tooele,SP-01,0
+Merle Travis Wall,State House ,68,DEM,Tooele,SP-01,0
+Warren Rogers,State House ,68,IAP,Tooele,SP-01,0
+Kirk D Pearson,State House ,68,CON,Tooele,SP-01,0
+Merrill Nelson,State House ,68,REP,Tooele,SP-01,0
 ,Registered Voters,,,Tooele,SP-02,920
 ,Ballots Cast,,,Tooele,SP-02,722
 ,Straight Party,,CON,Tooele,SP-02,2
@@ -735,26 +735,26 @@ Merrill Nelson,State House ,68,,Tooele,SP-01,0
 ,Straight Party,,GRN,Tooele,SP-02,0
 ,Straight Party,,DEM,Tooele,SP-02,60
 ,Straight Party,,IAP,Tooele,SP-02,14
-Tim Aalders,U.S. Senate,,,Tooele,SP-02,31
-Craig R. Bowden,U.S. Senate,,,Tooele,SP-02,27
-Reed C. McCandless,U.S. Senate,,,Tooele,SP-02,2
-Jenny Wilson,U.S. Senate,,,Tooele,SP-02,214
-Mitt Romney,U.S. Senate,,,Tooele,SP-02,439
-Chris Stewart,U.S. House,2,,Tooele,SP-02,458
-Jeffrey Whipple,U.S. House,2,,Tooele,SP-02,29
-Shireen Ghorbani,U.S. House,2,,Tooele,SP-02,223
-Clare Collard,State Senate,12,,Tooele,SP-02,0
-Abrian B. Velarde,State Senate,12,,Tooele,SP-02,0
-Daniel W. Thatcher,State Senate,12,,Tooele,SP-02,0
-Scott Sandall,State Senate,17,,Tooele,SP-02,394
-Michael A Keil,State Senate,17,,Tooele,SP-02,306
-Douglas Sagers,State House ,21,,Tooele,SP-02,449
-Debbie K. Vigil,State House ,21,,Tooele,SP-02,250
-Denyse Housley Cox,State House ,68,,Tooele,SP-02,0
-Merle Travis Wall,State House ,68,,Tooele,SP-02,0
-Warren Rogers,State House ,68,,Tooele,SP-02,0
-Kirk D Pearson,State House ,68,,Tooele,SP-02,0
-Merrill Nelson,State House ,68,,Tooele,SP-02,0
+Tim Aalders,U.S. Senate,,CON,Tooele,SP-02,31
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,SP-02,27
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,SP-02,2
+Jenny Wilson,U.S. Senate,,DEM,Tooele,SP-02,214
+Mitt Romney,U.S. Senate,,REP,Tooele,SP-02,439
+Chris Stewart,U.S. House,2,REP,Tooele,SP-02,458
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,SP-02,29
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,SP-02,223
+Clare Collard,State Senate,12,DEM,Tooele,SP-02,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,SP-02,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,SP-02,0
+Scott Sandall,State Senate,17,REP,Tooele,SP-02,394
+Michael A Keil,State Senate,17,DEM,Tooele,SP-02,306
+Douglas Sagers,State House ,21,REP,Tooele,SP-02,449
+Debbie K. Vigil,State House ,21,DEM,Tooele,SP-02,250
+Denyse Housley Cox,State House ,68,LIB,Tooele,SP-02,0
+Merle Travis Wall,State House ,68,DEM,Tooele,SP-02,0
+Warren Rogers,State House ,68,IAP,Tooele,SP-02,0
+Kirk D Pearson,State House ,68,CON,Tooele,SP-02,0
+Merrill Nelson,State House ,68,REP,Tooele,SP-02,0
 ,Registered Voters,,,Tooele,SP-03,1033
 ,Ballots Cast,,,Tooele,SP-03,758
 ,Straight Party,,CON,Tooele,SP-03,2
@@ -763,26 +763,26 @@ Merrill Nelson,State House ,68,,Tooele,SP-02,0
 ,Straight Party,,GRN,Tooele,SP-03,2
 ,Straight Party,,DEM,Tooele,SP-03,62
 ,Straight Party,,IAP,Tooele,SP-03,6
-Tim Aalders,U.S. Senate,,,Tooele,SP-03,24
-Craig R. Bowden,U.S. Senate,,,Tooele,SP-03,14
-Reed C. McCandless,U.S. Senate,,,Tooele,SP-03,11
-Jenny Wilson,U.S. Senate,,,Tooele,SP-03,198
-Mitt Romney,U.S. Senate,,,Tooele,SP-03,493
-Chris Stewart,U.S. House,2,,Tooele,SP-03,462
-Jeffrey Whipple,U.S. House,2,,Tooele,SP-03,45
-Shireen Ghorbani,U.S. House,2,,Tooele,SP-03,225
-Clare Collard,State Senate,12,,Tooele,SP-03,0
-Abrian B. Velarde,State Senate,12,,Tooele,SP-03,0
-Daniel W. Thatcher,State Senate,12,,Tooele,SP-03,0
-Scott Sandall,State Senate,17,,Tooele,SP-03,423
-Michael A Keil,State Senate,17,,Tooele,SP-03,293
-Douglas Sagers,State House ,21,,Tooele,SP-03,0
-Debbie K. Vigil,State House ,21,,Tooele,SP-03,0
-Denyse Housley Cox,State House ,68,,Tooele,SP-03,35
-Merle Travis Wall,State House ,68,,Tooele,SP-03,175
-Warren Rogers,State House ,68,,Tooele,SP-03,19
-Kirk D Pearson,State House ,68,,Tooele,SP-03,55
-Merrill Nelson,State House ,68,,Tooele,SP-03,432
+Tim Aalders,U.S. Senate,,CON,Tooele,SP-03,24
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,SP-03,14
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,SP-03,11
+Jenny Wilson,U.S. Senate,,DEM,Tooele,SP-03,198
+Mitt Romney,U.S. Senate,,REP,Tooele,SP-03,493
+Chris Stewart,U.S. House,2,REP,Tooele,SP-03,462
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,SP-03,45
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,SP-03,225
+Clare Collard,State Senate,12,DEM,Tooele,SP-03,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,SP-03,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,SP-03,0
+Scott Sandall,State Senate,17,REP,Tooele,SP-03,423
+Michael A Keil,State Senate,17,DEM,Tooele,SP-03,293
+Douglas Sagers,State House ,21,REP,Tooele,SP-03,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,SP-03,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,SP-03,35
+Merle Travis Wall,State House ,68,DEM,Tooele,SP-03,175
+Warren Rogers,State House ,68,IAP,Tooele,SP-03,19
+Kirk D Pearson,State House ,68,CON,Tooele,SP-03,55
+Merrill Nelson,State House ,68,REP,Tooele,SP-03,432
 ,Registered Voters,,,Tooele,SP-04,724
 ,Ballots Cast,,,Tooele,SP-04,520
 ,Straight Party,,CON,Tooele,SP-04,0
@@ -791,26 +791,26 @@ Merrill Nelson,State House ,68,,Tooele,SP-03,432
 ,Straight Party,,GRN,Tooele,SP-04,1
 ,Straight Party,,DEM,Tooele,SP-04,33
 ,Straight Party,,IAP,Tooele,SP-04,14
-Tim Aalders,U.S. Senate,,,Tooele,SP-04,24
-Craig R. Bowden,U.S. Senate,,,Tooele,SP-04,15
-Reed C. McCandless,U.S. Senate,,,Tooele,SP-04,3
-Jenny Wilson,U.S. Senate,,,Tooele,SP-04,109
-Mitt Romney,U.S. Senate,,,Tooele,SP-04,355
-Chris Stewart,U.S. House,2,,Tooele,SP-04,353
-Jeffrey Whipple,U.S. House,2,,Tooele,SP-04,24
-Shireen Ghorbani,U.S. House,2,,Tooele,SP-04,128
-Clare Collard,State Senate,12,,Tooele,SP-04,0
-Abrian B. Velarde,State Senate,12,,Tooele,SP-04,0
-Daniel W. Thatcher,State Senate,12,,Tooele,SP-04,0
-Scott Sandall,State Senate,17,,Tooele,SP-04,323
-Michael A Keil,State Senate,17,,Tooele,SP-04,166
-Douglas Sagers,State House ,21,,Tooele,SP-04,0
-Debbie K. Vigil,State House ,21,,Tooele,SP-04,0
-Denyse Housley Cox,State House ,68,,Tooele,SP-04,33
-Merle Travis Wall,State House ,68,,Tooele,SP-04,104
-Warren Rogers,State House ,68,,Tooele,SP-04,8
-Kirk D Pearson,State House ,68,,Tooele,SP-04,28
-Merrill Nelson,State House ,68,,Tooele,SP-04,321
+Tim Aalders,U.S. Senate,,CON,Tooele,SP-04,24
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,SP-04,15
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,SP-04,3
+Jenny Wilson,U.S. Senate,,DEM,Tooele,SP-04,109
+Mitt Romney,U.S. Senate,,REP,Tooele,SP-04,355
+Chris Stewart,U.S. House,2,REP,Tooele,SP-04,353
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,SP-04,24
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,SP-04,128
+Clare Collard,State Senate,12,DEM,Tooele,SP-04,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,SP-04,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,SP-04,0
+Scott Sandall,State Senate,17,REP,Tooele,SP-04,323
+Michael A Keil,State Senate,17,DEM,Tooele,SP-04,166
+Douglas Sagers,State House ,21,REP,Tooele,SP-04,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,SP-04,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,SP-04,33
+Merle Travis Wall,State House ,68,DEM,Tooele,SP-04,104
+Warren Rogers,State House ,68,IAP,Tooele,SP-04,8
+Kirk D Pearson,State House ,68,CON,Tooele,SP-04,28
+Merrill Nelson,State House ,68,REP,Tooele,SP-04,321
 ,Registered Voters,,,Tooele,SP-05,812
 ,Ballots Cast,,,Tooele,SP-05,638
 ,Straight Party,,CON,Tooele,SP-05,0
@@ -819,26 +819,26 @@ Merrill Nelson,State House ,68,,Tooele,SP-04,321
 ,Straight Party,,GRN,Tooele,SP-05,4
 ,Straight Party,,DEM,Tooele,SP-05,42
 ,Straight Party,,IAP,Tooele,SP-05,11
-Tim Aalders,U.S. Senate,,,Tooele,SP-05,21
-Craig R. Bowden,U.S. Senate,,,Tooele,SP-05,20
-Reed C. McCandless,U.S. Senate,,,Tooele,SP-05,10
-Jenny Wilson,U.S. Senate,,,Tooele,SP-05,204
-Mitt Romney,U.S. Senate,,,Tooele,SP-05,372
-Chris Stewart,U.S. House,2,,Tooele,SP-05,344
-Jeffrey Whipple,U.S. House,2,,Tooele,SP-05,40
-Shireen Ghorbani,U.S. House,2,,Tooele,SP-05,239
-Clare Collard,State Senate,12,,Tooele,SP-05,0
-Abrian B. Velarde,State Senate,12,,Tooele,SP-05,0
-Daniel W. Thatcher,State Senate,12,,Tooele,SP-05,0
-Scott Sandall,State Senate,17,,Tooele,SP-05,308
-Michael A Keil,State Senate,17,,Tooele,SP-05,306
-Douglas Sagers,State House ,21,,Tooele,SP-05,0
-Debbie K. Vigil,State House ,21,,Tooele,SP-05,0
-Denyse Housley Cox,State House ,68,,Tooele,SP-05,32
-Merle Travis Wall,State House ,68,,Tooele,SP-05,198
-Warren Rogers,State House ,68,,Tooele,SP-05,10
-Kirk D Pearson,State House ,68,,Tooele,SP-05,44
-Merrill Nelson,State House ,68,,Tooele,SP-05,326
+Tim Aalders,U.S. Senate,,CON,Tooele,SP-05,21
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,SP-05,20
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,SP-05,10
+Jenny Wilson,U.S. Senate,,DEM,Tooele,SP-05,204
+Mitt Romney,U.S. Senate,,REP,Tooele,SP-05,372
+Chris Stewart,U.S. House,2,REP,Tooele,SP-05,344
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,SP-05,40
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,SP-05,239
+Clare Collard,State Senate,12,DEM,Tooele,SP-05,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,SP-05,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,SP-05,0
+Scott Sandall,State Senate,17,REP,Tooele,SP-05,308
+Michael A Keil,State Senate,17,DEM,Tooele,SP-05,306
+Douglas Sagers,State House ,21,REP,Tooele,SP-05,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,SP-05,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,SP-05,32
+Merle Travis Wall,State House ,68,DEM,Tooele,SP-05,198
+Warren Rogers,State House ,68,IAP,Tooele,SP-05,10
+Kirk D Pearson,State House ,68,CON,Tooele,SP-05,44
+Merrill Nelson,State House ,68,REP,Tooele,SP-05,326
 ,Registered Voters,,,Tooele,SP-06,443
 ,Ballots Cast,,,Tooele,SP-06,325
 ,Straight Party,,CON,Tooele,SP-06,0
@@ -847,26 +847,26 @@ Merrill Nelson,State House ,68,,Tooele,SP-05,326
 ,Straight Party,,GRN,Tooele,SP-06,2
 ,Straight Party,,DEM,Tooele,SP-06,26
 ,Straight Party,,IAP,Tooele,SP-06,11
-Tim Aalders,U.S. Senate,,,Tooele,SP-06,18
-Craig R. Bowden,U.S. Senate,,,Tooele,SP-06,13
-Reed C. McCandless,U.S. Senate,,,Tooele,SP-06,7
-Jenny Wilson,U.S. Senate,,,Tooele,SP-06,68
-Mitt Romney,U.S. Senate,,,Tooele,SP-06,213
-Chris Stewart,U.S. House,2,,Tooele,SP-06,210
-Jeffrey Whipple,U.S. House,2,,Tooele,SP-06,28
-Shireen Ghorbani,U.S. House,2,,Tooele,SP-06,76
-Clare Collard,State Senate,12,,Tooele,SP-06,0
-Abrian B. Velarde,State Senate,12,,Tooele,SP-06,0
-Daniel W. Thatcher,State Senate,12,,Tooele,SP-06,0
-Scott Sandall,State Senate,17,,Tooele,SP-06,193
-Michael A Keil,State Senate,17,,Tooele,SP-06,113
-Douglas Sagers,State House ,21,,Tooele,SP-06,223
-Debbie K. Vigil,State House ,21,,Tooele,SP-06,86
-Denyse Housley Cox,State House ,68,,Tooele,SP-06,0
-Merle Travis Wall,State House ,68,,Tooele,SP-06,0
-Warren Rogers,State House ,68,,Tooele,SP-06,0
-Kirk D Pearson,State House ,68,,Tooele,SP-06,0
-Merrill Nelson,State House ,68,,Tooele,SP-06,0
+Tim Aalders,U.S. Senate,,CON,Tooele,SP-06,18
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,SP-06,13
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,SP-06,7
+Jenny Wilson,U.S. Senate,,DEM,Tooele,SP-06,68
+Mitt Romney,U.S. Senate,,REP,Tooele,SP-06,213
+Chris Stewart,U.S. House,2,REP,Tooele,SP-06,210
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,SP-06,28
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,SP-06,76
+Clare Collard,State Senate,12,DEM,Tooele,SP-06,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,SP-06,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,SP-06,0
+Scott Sandall,State Senate,17,REP,Tooele,SP-06,193
+Michael A Keil,State Senate,17,DEM,Tooele,SP-06,113
+Douglas Sagers,State House ,21,REP,Tooele,SP-06,223
+Debbie K. Vigil,State House ,21,DEM,Tooele,SP-06,86
+Denyse Housley Cox,State House ,68,LIB,Tooele,SP-06,0
+Merle Travis Wall,State House ,68,DEM,Tooele,SP-06,0
+Warren Rogers,State House ,68,IAP,Tooele,SP-06,0
+Kirk D Pearson,State House ,68,CON,Tooele,SP-06,0
+Merrill Nelson,State House ,68,REP,Tooele,SP-06,0
 ,Registered Voters,,,Tooele,SP-07,791
 ,Ballots Cast,,,Tooele,SP-07,565
 ,Straight Party,,CON,Tooele,SP-07,1
@@ -875,26 +875,26 @@ Merrill Nelson,State House ,68,,Tooele,SP-06,0
 ,Straight Party,,GRN,Tooele,SP-07,1
 ,Straight Party,,DEM,Tooele,SP-07,36
 ,Straight Party,,IAP,Tooele,SP-07,12
-Tim Aalders,U.S. Senate,,,Tooele,SP-07,20
-Craig R. Bowden,U.S. Senate,,,Tooele,SP-07,20
-Reed C. McCandless,U.S. Senate,,,Tooele,SP-07,5
-Jenny Wilson,U.S. Senate,,,Tooele,SP-07,131
-Mitt Romney,U.S. Senate,,,Tooele,SP-07,376
-Chris Stewart,U.S. House,2,,Tooele,SP-07,313
-Jeffrey Whipple,U.S. House,2,,Tooele,SP-07,42
-Shireen Ghorbani,U.S. House,2,,Tooele,SP-07,187
-Clare Collard,State Senate,12,,Tooele,SP-07,0
-Abrian B. Velarde,State Senate,12,,Tooele,SP-07,0
-Daniel W. Thatcher,State Senate,12,,Tooele,SP-07,0
-Scott Sandall,State Senate,17,,Tooele,SP-07,316
-Michael A Keil,State Senate,17,,Tooele,SP-07,213
-Douglas Sagers,State House ,21,,Tooele,SP-07,0
-Debbie K. Vigil,State House ,21,,Tooele,SP-07,0
-Denyse Housley Cox,State House ,68,,Tooele,SP-07,38
-Merle Travis Wall,State House ,68,,Tooele,SP-07,130
-Warren Rogers,State House ,68,,Tooele,SP-07,7
-Kirk D Pearson,State House ,68,,Tooele,SP-07,33
-Merrill Nelson,State House ,68,,Tooele,SP-07,317
+Tim Aalders,U.S. Senate,,CON,Tooele,SP-07,20
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,SP-07,20
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,SP-07,5
+Jenny Wilson,U.S. Senate,,DEM,Tooele,SP-07,131
+Mitt Romney,U.S. Senate,,REP,Tooele,SP-07,376
+Chris Stewart,U.S. House,2,REP,Tooele,SP-07,313
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,SP-07,42
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,SP-07,187
+Clare Collard,State Senate,12,DEM,Tooele,SP-07,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,SP-07,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,SP-07,0
+Scott Sandall,State Senate,17,REP,Tooele,SP-07,316
+Michael A Keil,State Senate,17,DEM,Tooele,SP-07,213
+Douglas Sagers,State House ,21,REP,Tooele,SP-07,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,SP-07,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,SP-07,38
+Merle Travis Wall,State House ,68,DEM,Tooele,SP-07,130
+Warren Rogers,State House ,68,IAP,Tooele,SP-07,7
+Kirk D Pearson,State House ,68,CON,Tooele,SP-07,33
+Merrill Nelson,State House ,68,REP,Tooele,SP-07,317
 ,Registered Voters,,,Tooele,STK-01:1-01:2,247
 ,Ballots Cast,,,Tooele,STK-01:1-01:2,195
 ,Straight Party,,CON,Tooele,STK-01:1-01:2,0
@@ -903,26 +903,26 @@ Merrill Nelson,State House ,68,,Tooele,SP-07,317
 ,Straight Party,,GRN,Tooele,STK-01:1-01:2,0
 ,Straight Party,,DEM,Tooele,STK-01:1-01:2,16
 ,Straight Party,,IAP,Tooele,STK-01:1-01:2,6
-Tim Aalders,U.S. Senate,,,Tooele,STK-01:1-01:2,4
-Craig R. Bowden,U.S. Senate,,,Tooele,STK-01:1-01:2,3
-Reed C. McCandless,U.S. Senate,,,Tooele,STK-01:1-01:2,2
-Jenny Wilson,U.S. Senate,,,Tooele,STK-01:1-01:2,56
-Mitt Romney,U.S. Senate,,,Tooele,STK-01:1-01:2,127
-Chris Stewart,U.S. House,2,,Tooele,STK-01:1-01:2,127
-Jeffrey Whipple,U.S. House,2,,Tooele,STK-01:1-01:2,7
-Shireen Ghorbani,U.S. House,2,,Tooele,STK-01:1-01:2,58
-Clare Collard,State Senate,12,,Tooele,STK-01:1-01:2,0
-Abrian B. Velarde,State Senate,12,,Tooele,STK-01:1-01:2,0
-Daniel W. Thatcher,State Senate,12,,Tooele,STK-01:1-01:2,0
-Scott Sandall,State Senate,17,,Tooele,STK-01:1-01:2,129
-Michael A Keil,State Senate,17,,Tooele,STK-01:1-01:2,63
-Douglas Sagers,State House ,21,,Tooele,STK-01:1-01:2,0
-Debbie K. Vigil,State House ,21,,Tooele,STK-01:1-01:2,0
-Denyse Housley Cox,State House ,68,,Tooele,STK-01:1-01:2,13
-Merle Travis Wall,State House ,68,,Tooele,STK-01:1-01:2,48
-Warren Rogers,State House ,68,,Tooele,STK-01:1-01:2,6
-Kirk D Pearson,State House ,68,,Tooele,STK-01:1-01:2,10
-Merrill Nelson,State House ,68,,Tooele,STK-01:1-01:2,114
+Tim Aalders,U.S. Senate,,CON,Tooele,STK-01:1-01:2,4
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,STK-01:1-01:2,3
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,STK-01:1-01:2,2
+Jenny Wilson,U.S. Senate,,DEM,Tooele,STK-01:1-01:2,56
+Mitt Romney,U.S. Senate,,REP,Tooele,STK-01:1-01:2,127
+Chris Stewart,U.S. House,2,REP,Tooele,STK-01:1-01:2,127
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,STK-01:1-01:2,7
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,STK-01:1-01:2,58
+Clare Collard,State Senate,12,DEM,Tooele,STK-01:1-01:2,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,STK-01:1-01:2,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,STK-01:1-01:2,0
+Scott Sandall,State Senate,17,REP,Tooele,STK-01:1-01:2,129
+Michael A Keil,State Senate,17,DEM,Tooele,STK-01:1-01:2,63
+Douglas Sagers,State House ,21,REP,Tooele,STK-01:1-01:2,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,STK-01:1-01:2,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,STK-01:1-01:2,13
+Merle Travis Wall,State House ,68,DEM,Tooele,STK-01:1-01:2,48
+Warren Rogers,State House ,68,IAP,Tooele,STK-01:1-01:2,6
+Kirk D Pearson,State House ,68,CON,Tooele,STK-01:1-01:2,10
+Merrill Nelson,State House ,68,REP,Tooele,STK-01:1-01:2,114
 ,Registered Voters,,,Tooele,STK-02:1-02:2,541
 ,Ballots Cast,,,Tooele,STK-02:1-02:2,411
 ,Straight Party,,CON,Tooele,STK-02:1-02:2,1
@@ -931,26 +931,26 @@ Merrill Nelson,State House ,68,,Tooele,STK-01:1-01:2,114
 ,Straight Party,,GRN,Tooele,STK-02:1-02:2,0
 ,Straight Party,,DEM,Tooele,STK-02:1-02:2,12
 ,Straight Party,,IAP,Tooele,STK-02:1-02:2,2
-Tim Aalders,U.S. Senate,,,Tooele,STK-02:1-02:2,28
-Craig R. Bowden,U.S. Senate,,,Tooele,STK-02:1-02:2,14
-Reed C. McCandless,U.S. Senate,,,Tooele,STK-02:1-02:2,7
-Jenny Wilson,U.S. Senate,,,Tooele,STK-02:1-02:2,62
-Mitt Romney,U.S. Senate,,,Tooele,STK-02:1-02:2,294
-Chris Stewart,U.S. House,2,,Tooele,STK-02:1-02:2,308
-Jeffrey Whipple,U.S. House,2,,Tooele,STK-02:1-02:2,25
-Shireen Ghorbani,U.S. House,2,,Tooele,STK-02:1-02:2,60
-Clare Collard,State Senate,12,,Tooele,STK-02:1-02:2,0
-Abrian B. Velarde,State Senate,12,,Tooele,STK-02:1-02:2,0
-Daniel W. Thatcher,State Senate,12,,Tooele,STK-02:1-02:2,0
-Scott Sandall,State Senate,17,,Tooele,STK-02:1-02:2,278
-Michael A Keil,State Senate,17,,Tooele,STK-02:1-02:2,107
-Douglas Sagers,State House ,21,,Tooele,STK-02:1-02:2,0
-Debbie K. Vigil,State House ,21,,Tooele,STK-02:1-02:2,0
-Denyse Housley Cox,State House ,68,,Tooele,STK-02:1-02:2,19
-Merle Travis Wall,State House ,68,,Tooele,STK-02:1-02:2,56
-Warren Rogers,State House ,68,,Tooele,STK-02:1-02:2,11
-Kirk D Pearson,State House ,68,,Tooele,STK-02:1-02:2,32
-Merrill Nelson,State House ,68,,Tooele,STK-02:1-02:2,273
+Tim Aalders,U.S. Senate,,CON,Tooele,STK-02:1-02:2,28
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,STK-02:1-02:2,14
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,STK-02:1-02:2,7
+Jenny Wilson,U.S. Senate,,DEM,Tooele,STK-02:1-02:2,62
+Mitt Romney,U.S. Senate,,REP,Tooele,STK-02:1-02:2,294
+Chris Stewart,U.S. House,2,REP,Tooele,STK-02:1-02:2,308
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,STK-02:1-02:2,25
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,STK-02:1-02:2,60
+Clare Collard,State Senate,12,DEM,Tooele,STK-02:1-02:2,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,STK-02:1-02:2,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,STK-02:1-02:2,0
+Scott Sandall,State Senate,17,REP,Tooele,STK-02:1-02:2,278
+Michael A Keil,State Senate,17,DEM,Tooele,STK-02:1-02:2,107
+Douglas Sagers,State House ,21,REP,Tooele,STK-02:1-02:2,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,STK-02:1-02:2,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,STK-02:1-02:2,19
+Merle Travis Wall,State House ,68,DEM,Tooele,STK-02:1-02:2,56
+Warren Rogers,State House ,68,IAP,Tooele,STK-02:1-02:2,11
+Kirk D Pearson,State House ,68,CON,Tooele,STK-02:1-02:2,32
+Merrill Nelson,State House ,68,REP,Tooele,STK-02:1-02:2,273
 ,Registered Voters,,,Tooele,T-01,570
 ,Ballots Cast,,,Tooele,T-01,446
 ,Straight Party,,CON,Tooele,T-01,2
@@ -959,26 +959,26 @@ Merrill Nelson,State House ,68,,Tooele,STK-02:1-02:2,273
 ,Straight Party,,GRN,Tooele,T-01,2
 ,Straight Party,,DEM,Tooele,T-01,37
 ,Straight Party,,IAP,Tooele,T-01,16
-Tim Aalders,U.S. Senate,,,Tooele,T-01,7
-Craig R. Bowden,U.S. Senate,,,Tooele,T-01,7
-Reed C. McCandless,U.S. Senate,,,Tooele,T-01,6
-Jenny Wilson,U.S. Senate,,,Tooele,T-01,129
-Mitt Romney,U.S. Senate,,,Tooele,T-01,289
-Chris Stewart,U.S. House,2,,Tooele,T-01,279
-Jeffrey Whipple,U.S. House,2,,Tooele,T-01,21
-Shireen Ghorbani,U.S. House,2,,Tooele,T-01,135
-Clare Collard,State Senate,12,,Tooele,T-01,151
-Abrian B. Velarde,State Senate,12,,Tooele,T-01,12
-Daniel W. Thatcher,State Senate,12,,Tooele,T-01,268
-Scott Sandall,State Senate,17,,Tooele,T-01,0
-Michael A Keil,State Senate,17,,Tooele,T-01,0
-Douglas Sagers,State House ,21,,Tooele,T-01,276
-Debbie K. Vigil,State House ,21,,Tooele,T-01,155
-Denyse Housley Cox,State House ,68,,Tooele,T-01,0
-Merle Travis Wall,State House ,68,,Tooele,T-01,0
-Warren Rogers,State House ,68,,Tooele,T-01,0
-Kirk D Pearson,State House ,68,,Tooele,T-01,0
-Merrill Nelson,State House ,68,,Tooele,T-01,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-01,7
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-01,7
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-01,6
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-01,129
+Mitt Romney,U.S. Senate,,REP,Tooele,T-01,289
+Chris Stewart,U.S. House,2,REP,Tooele,T-01,279
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-01,21
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-01,135
+Clare Collard,State Senate,12,DEM,Tooele,T-01,151
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-01,12
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-01,268
+Scott Sandall,State Senate,17,REP,Tooele,T-01,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-01,0
+Douglas Sagers,State House ,21,REP,Tooele,T-01,276
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-01,155
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-01,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-01,0
+Warren Rogers,State House ,68,IAP,Tooele,T-01,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-01,0
+Merrill Nelson,State House ,68,REP,Tooele,T-01,0
 ,Registered Voters,,,Tooele,T-02,573
 ,Ballots Cast,,,Tooele,T-02,430
 ,Straight Party,,CON,Tooele,T-02,0
@@ -987,26 +987,26 @@ Merrill Nelson,State House ,68,,Tooele,T-01,0
 ,Straight Party,,GRN,Tooele,T-02,1
 ,Straight Party,,DEM,Tooele,T-02,42
 ,Straight Party,,IAP,Tooele,T-02,9
-Tim Aalders,U.S. Senate,,,Tooele,T-02,16
-Craig R. Bowden,U.S. Senate,,,Tooele,T-02,20
-Reed C. McCandless,U.S. Senate,,,Tooele,T-02,7
-Jenny Wilson,U.S. Senate,,,Tooele,T-02,157
-Mitt Romney,U.S. Senate,,,Tooele,T-02,222
-Chris Stewart,U.S. House,2,,Tooele,T-02,214
-Jeffrey Whipple,U.S. House,2,,Tooele,T-02,41
-Shireen Ghorbani,U.S. House,2,,Tooele,T-02,163
-Clare Collard,State Senate,12,,Tooele,T-02,191
-Abrian B. Velarde,State Senate,12,,Tooele,T-02,21
-Daniel W. Thatcher,State Senate,12,,Tooele,T-02,202
-Scott Sandall,State Senate,17,,Tooele,T-02,0
-Michael A Keil,State Senate,17,,Tooele,T-02,0
-Douglas Sagers,State House ,21,,Tooele,T-02,223
-Debbie K. Vigil,State House ,21,,Tooele,T-02,196
-Denyse Housley Cox,State House ,68,,Tooele,T-02,0
-Merle Travis Wall,State House ,68,,Tooele,T-02,0
-Warren Rogers,State House ,68,,Tooele,T-02,0
-Kirk D Pearson,State House ,68,,Tooele,T-02,0
-Merrill Nelson,State House ,68,,Tooele,T-02,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-02,16
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-02,20
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-02,7
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-02,157
+Mitt Romney,U.S. Senate,,REP,Tooele,T-02,222
+Chris Stewart,U.S. House,2,REP,Tooele,T-02,214
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-02,41
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-02,163
+Clare Collard,State Senate,12,DEM,Tooele,T-02,191
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-02,21
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-02,202
+Scott Sandall,State Senate,17,REP,Tooele,T-02,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-02,0
+Douglas Sagers,State House ,21,REP,Tooele,T-02,223
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-02,196
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-02,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-02,0
+Warren Rogers,State House ,68,IAP,Tooele,T-02,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-02,0
+Merrill Nelson,State House ,68,REP,Tooele,T-02,0
 ,Registered Voters,,,Tooele,T-03:1-03:2,541
 ,Ballots Cast,,,Tooele,T-03:1-03:2,427
 ,Straight Party,,CON,Tooele,T-03:1-03:2,2
@@ -1015,26 +1015,26 @@ Merrill Nelson,State House ,68,,Tooele,T-02,0
 ,Straight Party,,GRN,Tooele,T-03:1-03:2,0
 ,Straight Party,,DEM,Tooele,T-03:1-03:2,42
 ,Straight Party,,IAP,Tooele,T-03:1-03:2,6
-Tim Aalders,U.S. Senate,,,Tooele,T-03:1-03:2,10
-Craig R. Bowden,U.S. Senate,,,Tooele,T-03:1-03:2,8
-Reed C. McCandless,U.S. Senate,,,Tooele,T-03:1-03:2,1
-Jenny Wilson,U.S. Senate,,,Tooele,T-03:1-03:2,140
-Mitt Romney,U.S. Senate,,,Tooele,T-03:1-03:2,262
-Chris Stewart,U.S. House,2,,Tooele,T-03:1-03:2,258
-Jeffrey Whipple,U.S. House,2,,Tooele,T-03:1-03:2,14
-Shireen Ghorbani,U.S. House,2,,Tooele,T-03:1-03:2,153
-Clare Collard,State Senate,12,,Tooele,T-03:1-03:2,179
-Abrian B. Velarde,State Senate,12,,Tooele,T-03:1-03:2,7
-Daniel W. Thatcher,State Senate,12,,Tooele,T-03:1-03:2,231
-Scott Sandall,State Senate,17,,Tooele,T-03:1-03:2,0
-Michael A Keil,State Senate,17,,Tooele,T-03:1-03:2,0
-Douglas Sagers,State House ,21,,Tooele,T-03:1-03:2,256
-Debbie K. Vigil,State House ,21,,Tooele,T-03:1-03:2,164
-Denyse Housley Cox,State House ,68,,Tooele,T-03:1-03:2,0
-Merle Travis Wall,State House ,68,,Tooele,T-03:1-03:2,0
-Warren Rogers,State House ,68,,Tooele,T-03:1-03:2,0
-Kirk D Pearson,State House ,68,,Tooele,T-03:1-03:2,0
-Merrill Nelson,State House ,68,,Tooele,T-03:1-03:2,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-03:1-03:2,10
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-03:1-03:2,8
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-03:1-03:2,1
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-03:1-03:2,140
+Mitt Romney,U.S. Senate,,REP,Tooele,T-03:1-03:2,262
+Chris Stewart,U.S. House,2,REP,Tooele,T-03:1-03:2,258
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-03:1-03:2,14
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-03:1-03:2,153
+Clare Collard,State Senate,12,DEM,Tooele,T-03:1-03:2,179
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-03:1-03:2,7
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-03:1-03:2,231
+Scott Sandall,State Senate,17,REP,Tooele,T-03:1-03:2,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-03:1-03:2,0
+Douglas Sagers,State House ,21,REP,Tooele,T-03:1-03:2,256
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-03:1-03:2,164
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-03:1-03:2,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-03:1-03:2,0
+Warren Rogers,State House ,68,IAP,Tooele,T-03:1-03:2,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-03:1-03:2,0
+Merrill Nelson,State House ,68,REP,Tooele,T-03:1-03:2,0
 ,Registered Voters,,,Tooele,T-04:1-04:2,881
 ,Ballots Cast,,,Tooele,T-04:1-04:2,706
 ,Straight Party,,CON,Tooele,T-04:1-04:2,0
@@ -1043,26 +1043,26 @@ Merrill Nelson,State House ,68,,Tooele,T-03:1-03:2,0
 ,Straight Party,,GRN,Tooele,T-04:1-04:2,0
 ,Straight Party,,DEM,Tooele,T-04:1-04:2,57
 ,Straight Party,,IAP,Tooele,T-04:1-04:2,20
-Tim Aalders,U.S. Senate,,,Tooele,T-04:1-04:2,22
-Craig R. Bowden,U.S. Senate,,,Tooele,T-04:1-04:2,28
-Reed C. McCandless,U.S. Senate,,,Tooele,T-04:1-04:2,12
-Jenny Wilson,U.S. Senate,,,Tooele,T-04:1-04:2,195
-Mitt Romney,U.S. Senate,,,Tooele,T-04:1-04:2,436
-Chris Stewart,U.S. House,2,,Tooele,T-04:1-04:2,428
-Jeffrey Whipple,U.S. House,2,,Tooele,T-04:1-04:2,35
-Shireen Ghorbani,U.S. House,2,,Tooele,T-04:1-04:2,223
-Clare Collard,State Senate,12,,Tooele,T-04:1-04:2,254
-Abrian B. Velarde,State Senate,12,,Tooele,T-04:1-04:2,14
-Daniel W. Thatcher,State Senate,12,,Tooele,T-04:1-04:2,406
-Scott Sandall,State Senate,17,,Tooele,T-04:1-04:2,0
-Michael A Keil,State Senate,17,,Tooele,T-04:1-04:2,0
-Douglas Sagers,State House ,21,,Tooele,T-04:1-04:2,436
-Debbie K. Vigil,State House ,21,,Tooele,T-04:1-04:2,242
-Denyse Housley Cox,State House ,68,,Tooele,T-04:1-04:2,0
-Merle Travis Wall,State House ,68,,Tooele,T-04:1-04:2,0
-Warren Rogers,State House ,68,,Tooele,T-04:1-04:2,0
-Kirk D Pearson,State House ,68,,Tooele,T-04:1-04:2,0
-Merrill Nelson,State House ,68,,Tooele,T-04:1-04:2,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-04:1-04:2,22
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-04:1-04:2,28
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-04:1-04:2,12
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-04:1-04:2,195
+Mitt Romney,U.S. Senate,,REP,Tooele,T-04:1-04:2,436
+Chris Stewart,U.S. House,2,REP,Tooele,T-04:1-04:2,428
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-04:1-04:2,35
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-04:1-04:2,223
+Clare Collard,State Senate,12,DEM,Tooele,T-04:1-04:2,254
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-04:1-04:2,14
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-04:1-04:2,406
+Scott Sandall,State Senate,17,REP,Tooele,T-04:1-04:2,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-04:1-04:2,0
+Douglas Sagers,State House ,21,REP,Tooele,T-04:1-04:2,436
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-04:1-04:2,242
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-04:1-04:2,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-04:1-04:2,0
+Warren Rogers,State House ,68,IAP,Tooele,T-04:1-04:2,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-04:1-04:2,0
+Merrill Nelson,State House ,68,REP,Tooele,T-04:1-04:2,0
 ,Registered Voters,,,Tooele,T-05,534
 ,Ballots Cast,,,Tooele,T-05,348
 ,Straight Party,,CON,Tooele,T-05,4
@@ -1071,26 +1071,26 @@ Merrill Nelson,State House ,68,,Tooele,T-04:1-04:2,0
 ,Straight Party,,GRN,Tooele,T-05,1
 ,Straight Party,,DEM,Tooele,T-05,57
 ,Straight Party,,IAP,Tooele,T-05,18
-Tim Aalders,U.S. Senate,,,Tooele,T-05,11
-Craig R. Bowden,U.S. Senate,,,Tooele,T-05,12
-Reed C. McCandless,U.S. Senate,,,Tooele,T-05,15
-Jenny Wilson,U.S. Senate,,,Tooele,T-05,122
-Mitt Romney,U.S. Senate,,,Tooele,T-05,182
-Chris Stewart,U.S. House,2,,Tooele,T-05,168
-Jeffrey Whipple,U.S. House,2,,Tooele,T-05,26
-Shireen Ghorbani,U.S. House,2,,Tooele,T-05,140
-Clare Collard,State Senate,12,,Tooele,T-05,142
-Abrian B. Velarde,State Senate,12,,Tooele,T-05,24
-Daniel W. Thatcher,State Senate,12,,Tooele,T-05,164
-Scott Sandall,State Senate,17,,Tooele,T-05,0
-Michael A Keil,State Senate,17,,Tooele,T-05,0
-Douglas Sagers,State House ,21,,Tooele,T-05,191
-Debbie K. Vigil,State House ,21,,Tooele,T-05,139
-Denyse Housley Cox,State House ,68,,Tooele,T-05,0
-Merle Travis Wall,State House ,68,,Tooele,T-05,0
-Warren Rogers,State House ,68,,Tooele,T-05,0
-Kirk D Pearson,State House ,68,,Tooele,T-05,0
-Merrill Nelson,State House ,68,,Tooele,T-05,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-05,11
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-05,12
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-05,15
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-05,122
+Mitt Romney,U.S. Senate,,REP,Tooele,T-05,182
+Chris Stewart,U.S. House,2,REP,Tooele,T-05,168
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-05,26
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-05,140
+Clare Collard,State Senate,12,DEM,Tooele,T-05,142
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-05,24
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-05,164
+Scott Sandall,State Senate,17,REP,Tooele,T-05,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-05,0
+Douglas Sagers,State House ,21,REP,Tooele,T-05,191
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-05,139
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-05,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-05,0
+Warren Rogers,State House ,68,IAP,Tooele,T-05,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-05,0
+Merrill Nelson,State House ,68,REP,Tooele,T-05,0
 ,Registered Voters,,,Tooele,T-06,522
 ,Ballots Cast,,,Tooele,T-06,333
 ,Straight Party,,CON,Tooele,T-06,0
@@ -1099,26 +1099,26 @@ Merrill Nelson,State House ,68,,Tooele,T-05,0
 ,Straight Party,,GRN,Tooele,T-06,0
 ,Straight Party,,DEM,Tooele,T-06,29
 ,Straight Party,,IAP,Tooele,T-06,9
-Tim Aalders,U.S. Senate,,,Tooele,T-06,22
-Craig R. Bowden,U.S. Senate,,,Tooele,T-06,10
-Reed C. McCandless,U.S. Senate,,,Tooele,T-06,12
-Jenny Wilson,U.S. Senate,,,Tooele,T-06,104
-Mitt Romney,U.S. Senate,,,Tooele,T-06,181
-Chris Stewart,U.S. House,2,,Tooele,T-06,174
-Jeffrey Whipple,U.S. House,2,,Tooele,T-06,31
-Shireen Ghorbani,U.S. House,2,,Tooele,T-06,120
-Clare Collard,State Senate,12,,Tooele,T-06,125
-Abrian B. Velarde,State Senate,12,,Tooele,T-06,12
-Daniel W. Thatcher,State Senate,12,,Tooele,T-06,178
-Scott Sandall,State Senate,17,,Tooele,T-06,0
-Michael A Keil,State Senate,17,,Tooele,T-06,0
-Douglas Sagers,State House ,21,,Tooele,T-06,196
-Debbie K. Vigil,State House ,21,,Tooele,T-06,126
-Denyse Housley Cox,State House ,68,,Tooele,T-06,0
-Merle Travis Wall,State House ,68,,Tooele,T-06,0
-Warren Rogers,State House ,68,,Tooele,T-06,0
-Kirk D Pearson,State House ,68,,Tooele,T-06,0
-Merrill Nelson,State House ,68,,Tooele,T-06,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-06,22
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-06,10
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-06,12
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-06,104
+Mitt Romney,U.S. Senate,,REP,Tooele,T-06,181
+Chris Stewart,U.S. House,2,REP,Tooele,T-06,174
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-06,31
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-06,120
+Clare Collard,State Senate,12,DEM,Tooele,T-06,125
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-06,12
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-06,178
+Scott Sandall,State Senate,17,REP,Tooele,T-06,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-06,0
+Douglas Sagers,State House ,21,REP,Tooele,T-06,196
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-06,126
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-06,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-06,0
+Warren Rogers,State House ,68,IAP,Tooele,T-06,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-06,0
+Merrill Nelson,State House ,68,REP,Tooele,T-06,0
 ,Registered Voters,,,Tooele,T-07,567
 ,Ballots Cast,,,Tooele,T-07,368
 ,Straight Party,,CON,Tooele,T-07,3
@@ -1127,26 +1127,26 @@ Merrill Nelson,State House ,68,,Tooele,T-06,0
 ,Straight Party,,GRN,Tooele,T-07,0
 ,Straight Party,,DEM,Tooele,T-07,58
 ,Straight Party,,IAP,Tooele,T-07,17
-Tim Aalders,U.S. Senate,,,Tooele,T-07,17
-Craig R. Bowden,U.S. Senate,,,Tooele,T-07,8
-Reed C. McCandless,U.S. Senate,,,Tooele,T-07,12
-Jenny Wilson,U.S. Senate,,,Tooele,T-07,124
-Mitt Romney,U.S. Senate,,,Tooele,T-07,204
-Chris Stewart,U.S. House,2,,Tooele,T-07,188
-Jeffrey Whipple,U.S. House,2,,Tooele,T-07,25
-Shireen Ghorbani,U.S. House,2,,Tooele,T-07,146
-Clare Collard,State Senate,12,,Tooele,T-07,160
-Abrian B. Velarde,State Senate,12,,Tooele,T-07,14
-Daniel W. Thatcher,State Senate,12,,Tooele,T-07,182
-Scott Sandall,State Senate,17,,Tooele,T-07,0
-Michael A Keil,State Senate,17,,Tooele,T-07,0
-Douglas Sagers,State House ,21,,Tooele,T-07,202
-Debbie K. Vigil,State House ,21,,Tooele,T-07,155
-Denyse Housley Cox,State House ,68,,Tooele,T-07,0
-Merle Travis Wall,State House ,68,,Tooele,T-07,0
-Warren Rogers,State House ,68,,Tooele,T-07,0
-Kirk D Pearson,State House ,68,,Tooele,T-07,0
-Merrill Nelson,State House ,68,,Tooele,T-07,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-07,17
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-07,8
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-07,12
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-07,124
+Mitt Romney,U.S. Senate,,REP,Tooele,T-07,204
+Chris Stewart,U.S. House,2,REP,Tooele,T-07,188
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-07,25
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-07,146
+Clare Collard,State Senate,12,DEM,Tooele,T-07,160
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-07,14
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-07,182
+Scott Sandall,State Senate,17,REP,Tooele,T-07,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-07,0
+Douglas Sagers,State House ,21,REP,Tooele,T-07,202
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-07,155
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-07,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-07,0
+Warren Rogers,State House ,68,IAP,Tooele,T-07,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-07,0
+Merrill Nelson,State House ,68,REP,Tooele,T-07,0
 ,Registered Voters,,,Tooele,T-08,651
 ,Ballots Cast,,,Tooele,T-08,416
 ,Straight Party,,CON,Tooele,T-08,3
@@ -1155,26 +1155,26 @@ Merrill Nelson,State House ,68,,Tooele,T-07,0
 ,Straight Party,,GRN,Tooele,T-08,1
 ,Straight Party,,DEM,Tooele,T-08,49
 ,Straight Party,,IAP,Tooele,T-08,14
-Tim Aalders,U.S. Senate,,,Tooele,T-08,23
-Craig R. Bowden,U.S. Senate,,,Tooele,T-08,20
-Reed C. McCandless,U.S. Senate,,,Tooele,T-08,10
-Jenny Wilson,U.S. Senate,,,Tooele,T-08,136
-Mitt Romney,U.S. Senate,,,Tooele,T-08,214
-Chris Stewart,U.S. House,2,,Tooele,T-08,238
-Jeffrey Whipple,U.S. House,2,,Tooele,T-08,23
-Shireen Ghorbani,U.S. House,2,,Tooele,T-08,138
-Clare Collard,State Senate,12,,Tooele,T-08,159
-Abrian B. Velarde,State Senate,12,,Tooele,T-08,13
-Daniel W. Thatcher,State Senate,12,,Tooele,T-08,224
-Scott Sandall,State Senate,17,,Tooele,T-08,0
-Michael A Keil,State Senate,17,,Tooele,T-08,0
-Douglas Sagers,State House ,21,,Tooele,T-08,252
-Debbie K. Vigil,State House ,21,,Tooele,T-08,144
-Denyse Housley Cox,State House ,68,,Tooele,T-08,0
-Merle Travis Wall,State House ,68,,Tooele,T-08,0
-Warren Rogers,State House ,68,,Tooele,T-08,0
-Kirk D Pearson,State House ,68,,Tooele,T-08,0
-Merrill Nelson,State House ,68,,Tooele,T-08,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-08,23
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-08,20
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-08,10
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-08,136
+Mitt Romney,U.S. Senate,,REP,Tooele,T-08,214
+Chris Stewart,U.S. House,2,REP,Tooele,T-08,238
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-08,23
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-08,138
+Clare Collard,State Senate,12,DEM,Tooele,T-08,159
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-08,13
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-08,224
+Scott Sandall,State Senate,17,REP,Tooele,T-08,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-08,0
+Douglas Sagers,State House ,21,REP,Tooele,T-08,252
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-08,144
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-08,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-08,0
+Warren Rogers,State House ,68,IAP,Tooele,T-08,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-08,0
+Merrill Nelson,State House ,68,REP,Tooele,T-08,0
 ,Registered Voters,,,Tooele,T-09,912
 ,Ballots Cast,,,Tooele,T-09,662
 ,Straight Party,,CON,Tooele,T-09,2
@@ -1183,26 +1183,26 @@ Merrill Nelson,State House ,68,,Tooele,T-08,0
 ,Straight Party,,GRN,Tooele,T-09,2
 ,Straight Party,,DEM,Tooele,T-09,71
 ,Straight Party,,IAP,Tooele,T-09,21
-Tim Aalders,U.S. Senate,,,Tooele,T-09,33
-Craig R. Bowden,U.S. Senate,,,Tooele,T-09,27
-Reed C. McCandless,U.S. Senate,,,Tooele,T-09,8
-Jenny Wilson,U.S. Senate,,,Tooele,T-09,194
-Mitt Romney,U.S. Senate,,,Tooele,T-09,387
-Chris Stewart,U.S. House,2,,Tooele,T-09,383
-Jeffrey Whipple,U.S. House,2,,Tooele,T-09,52
-Shireen Ghorbani,U.S. House,2,,Tooele,T-09,211
-Clare Collard,State Senate,12,,Tooele,T-09,234
-Abrian B. Velarde,State Senate,12,,Tooele,T-09,29
-Daniel W. Thatcher,State Senate,12,,Tooele,T-09,372
-Scott Sandall,State Senate,17,,Tooele,T-09,0
-Michael A Keil,State Senate,17,,Tooele,T-09,0
-Douglas Sagers,State House ,21,,Tooele,T-09,400
-Debbie K. Vigil,State House ,21,,Tooele,T-09,236
-Denyse Housley Cox,State House ,68,,Tooele,T-09,0
-Merle Travis Wall,State House ,68,,Tooele,T-09,0
-Warren Rogers,State House ,68,,Tooele,T-09,0
-Kirk D Pearson,State House ,68,,Tooele,T-09,0
-Merrill Nelson,State House ,68,,Tooele,T-09,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-09,33
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-09,27
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-09,8
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-09,194
+Mitt Romney,U.S. Senate,,REP,Tooele,T-09,387
+Chris Stewart,U.S. House,2,REP,Tooele,T-09,383
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-09,52
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-09,211
+Clare Collard,State Senate,12,DEM,Tooele,T-09,234
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-09,29
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-09,372
+Scott Sandall,State Senate,17,REP,Tooele,T-09,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-09,0
+Douglas Sagers,State House ,21,REP,Tooele,T-09,400
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-09,236
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-09,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-09,0
+Warren Rogers,State House ,68,IAP,Tooele,T-09,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-09,0
+Merrill Nelson,State House ,68,REP,Tooele,T-09,0
 ,Registered Voters,,,Tooele,T-10,856
 ,Ballots Cast,,,Tooele,T-10,600
 ,Straight Party,,CON,Tooele,T-10,3
@@ -1211,26 +1211,26 @@ Merrill Nelson,State House ,68,,Tooele,T-09,0
 ,Straight Party,,GRN,Tooele,T-10,5
 ,Straight Party,,DEM,Tooele,T-10,62
 ,Straight Party,,IAP,Tooele,T-10,17
-Tim Aalders,U.S. Senate,,,Tooele,T-10,21
-Craig R. Bowden,U.S. Senate,,,Tooele,T-10,14
-Reed C. McCandless,U.S. Senate,,,Tooele,T-10,14
-Jenny Wilson,U.S. Senate,,,Tooele,T-10,171
-Mitt Romney,U.S. Senate,,,Tooele,T-10,370
-Chris Stewart,U.S. House,2,,Tooele,T-10,364
-Jeffrey Whipple,U.S. House,2,,Tooele,T-10,36
-Shireen Ghorbani,U.S. House,2,,Tooele,T-10,177
-Clare Collard,State Senate,12,,Tooele,T-10,197
-Abrian B. Velarde,State Senate,12,,Tooele,T-10,34
-Daniel W. Thatcher,State Senate,12,,Tooele,T-10,345
-Scott Sandall,State Senate,17,,Tooele,T-10,0
-Michael A Keil,State Senate,17,,Tooele,T-10,0
-Douglas Sagers,State House ,21,,Tooele,T-10,369
-Debbie K. Vigil,State House ,21,,Tooele,T-10,203
-Denyse Housley Cox,State House ,68,,Tooele,T-10,0
-Merle Travis Wall,State House ,68,,Tooele,T-10,0
-Warren Rogers,State House ,68,,Tooele,T-10,0
-Kirk D Pearson,State House ,68,,Tooele,T-10,0
-Merrill Nelson,State House ,68,,Tooele,T-10,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-10,21
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-10,14
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-10,14
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-10,171
+Mitt Romney,U.S. Senate,,REP,Tooele,T-10,370
+Chris Stewart,U.S. House,2,REP,Tooele,T-10,364
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-10,36
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-10,177
+Clare Collard,State Senate,12,DEM,Tooele,T-10,197
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-10,34
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-10,345
+Scott Sandall,State Senate,17,REP,Tooele,T-10,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-10,0
+Douglas Sagers,State House ,21,REP,Tooele,T-10,369
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-10,203
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-10,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-10,0
+Warren Rogers,State House ,68,IAP,Tooele,T-10,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-10,0
+Merrill Nelson,State House ,68,REP,Tooele,T-10,0
 ,Registered Voters,,,Tooele,T-11,476
 ,Ballots Cast,,,Tooele,T-11,354
 ,Straight Party,,CON,Tooele,T-11,2
@@ -1239,26 +1239,26 @@ Merrill Nelson,State House ,68,,Tooele,T-10,0
 ,Straight Party,,GRN,Tooele,T-11,1
 ,Straight Party,,DEM,Tooele,T-11,19
 ,Straight Party,,IAP,Tooele,T-11,10
-Tim Aalders,U.S. Senate,,,Tooele,T-11,9
-Craig R. Bowden,U.S. Senate,,,Tooele,T-11,5
-Reed C. McCandless,U.S. Senate,,,Tooele,T-11,6
-Jenny Wilson,U.S. Senate,,,Tooele,T-11,80
-Mitt Romney,U.S. Senate,,,Tooele,T-11,245
-Chris Stewart,U.S. House,2,,Tooele,T-11,229
-Jeffrey Whipple,U.S. House,2,,Tooele,T-11,20
-Shireen Ghorbani,U.S. House,2,,Tooele,T-11,93
-Clare Collard,State Senate,12,,Tooele,T-11,115
-Abrian B. Velarde,State Senate,12,,Tooele,T-11,10
-Daniel W. Thatcher,State Senate,12,,Tooele,T-11,210
-Scott Sandall,State Senate,17,,Tooele,T-11,0
-Michael A Keil,State Senate,17,,Tooele,T-11,0
-Douglas Sagers,State House ,21,,Tooele,T-11,231
-Debbie K. Vigil,State House ,21,,Tooele,T-11,103
-Denyse Housley Cox,State House ,68,,Tooele,T-11,0
-Merle Travis Wall,State House ,68,,Tooele,T-11,0
-Warren Rogers,State House ,68,,Tooele,T-11,0
-Kirk D Pearson,State House ,68,,Tooele,T-11,0
-Merrill Nelson,State House ,68,,Tooele,T-11,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-11,9
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-11,5
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-11,6
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-11,80
+Mitt Romney,U.S. Senate,,REP,Tooele,T-11,245
+Chris Stewart,U.S. House,2,REP,Tooele,T-11,229
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-11,20
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-11,93
+Clare Collard,State Senate,12,DEM,Tooele,T-11,115
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-11,10
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-11,210
+Scott Sandall,State Senate,17,REP,Tooele,T-11,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-11,0
+Douglas Sagers,State House ,21,REP,Tooele,T-11,231
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-11,103
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-11,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-11,0
+Warren Rogers,State House ,68,IAP,Tooele,T-11,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-11,0
+Merrill Nelson,State House ,68,REP,Tooele,T-11,0
 ,Registered Voters,,,Tooele,T-12,635
 ,Ballots Cast,,,Tooele,T-12,490
 ,Straight Party,,CON,Tooele,T-12,0
@@ -1267,26 +1267,26 @@ Merrill Nelson,State House ,68,,Tooele,T-11,0
 ,Straight Party,,GRN,Tooele,T-12,0
 ,Straight Party,,DEM,Tooele,T-12,42
 ,Straight Party,,IAP,Tooele,T-12,8
-Tim Aalders,U.S. Senate,,,Tooele,T-12,11
-Craig R. Bowden,U.S. Senate,,,Tooele,T-12,10
-Reed C. McCandless,U.S. Senate,,,Tooele,T-12,7
-Jenny Wilson,U.S. Senate,,,Tooele,T-12,140
-Mitt Romney,U.S. Senate,,,Tooele,T-12,313
-Chris Stewart,U.S. House,2,,Tooele,T-12,317
-Jeffrey Whipple,U.S. House,2,,Tooele,T-12,19
-Shireen Ghorbani,U.S. House,2,,Tooele,T-12,139
-Clare Collard,State Senate,12,,Tooele,T-12,167
-Abrian B. Velarde,State Senate,12,,Tooele,T-12,9
-Daniel W. Thatcher,State Senate,12,,Tooele,T-12,297
-Scott Sandall,State Senate,17,,Tooele,T-12,0
-Michael A Keil,State Senate,17,,Tooele,T-12,0
-Douglas Sagers,State House ,21,,Tooele,T-12,312
-Debbie K. Vigil,State House ,21,,Tooele,T-12,164
-Denyse Housley Cox,State House ,68,,Tooele,T-12,0
-Merle Travis Wall,State House ,68,,Tooele,T-12,0
-Warren Rogers,State House ,68,,Tooele,T-12,0
-Kirk D Pearson,State House ,68,,Tooele,T-12,0
-Merrill Nelson,State House ,68,,Tooele,T-12,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-12,11
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-12,10
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-12,7
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-12,140
+Mitt Romney,U.S. Senate,,REP,Tooele,T-12,313
+Chris Stewart,U.S. House,2,REP,Tooele,T-12,317
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-12,19
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-12,139
+Clare Collard,State Senate,12,DEM,Tooele,T-12,167
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-12,9
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-12,297
+Scott Sandall,State Senate,17,REP,Tooele,T-12,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-12,0
+Douglas Sagers,State House ,21,REP,Tooele,T-12,312
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-12,164
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-12,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-12,0
+Warren Rogers,State House ,68,IAP,Tooele,T-12,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-12,0
+Merrill Nelson,State House ,68,REP,Tooele,T-12,0
 ,Registered Voters,,,Tooele,T-13,592
 ,Ballots Cast,,,Tooele,T-13,383
 ,Straight Party,,CON,Tooele,T-13,1
@@ -1295,26 +1295,26 @@ Merrill Nelson,State House ,68,,Tooele,T-12,0
 ,Straight Party,,GRN,Tooele,T-13,4
 ,Straight Party,,DEM,Tooele,T-13,38
 ,Straight Party,,IAP,Tooele,T-13,12
-Tim Aalders,U.S. Senate,,,Tooele,T-13,26
-Craig R. Bowden,U.S. Senate,,,Tooele,T-13,18
-Reed C. McCandless,U.S. Senate,,,Tooele,T-13,7
-Jenny Wilson,U.S. Senate,,,Tooele,T-13,85
-Mitt Romney,U.S. Senate,,,Tooele,T-13,237
-Chris Stewart,U.S. House,2,,Tooele,T-13,243
-Jeffrey Whipple,U.S. House,2,,Tooele,T-13,27
-Shireen Ghorbani,U.S. House,2,,Tooele,T-13,108
-Clare Collard,State Senate,12,,Tooele,T-13,114
-Abrian B. Velarde,State Senate,12,,Tooele,T-13,23
-Daniel W. Thatcher,State Senate,12,,Tooele,T-13,239
-Scott Sandall,State Senate,17,,Tooele,T-13,0
-Michael A Keil,State Senate,17,,Tooele,T-13,0
-Douglas Sagers,State House ,21,,Tooele,T-13,249
-Debbie K. Vigil,State House ,21,,Tooele,T-13,123
-Denyse Housley Cox,State House ,68,,Tooele,T-13,0
-Merle Travis Wall,State House ,68,,Tooele,T-13,0
-Warren Rogers,State House ,68,,Tooele,T-13,0
-Kirk D Pearson,State House ,68,,Tooele,T-13,0
-Merrill Nelson,State House ,68,,Tooele,T-13,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-13,26
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-13,18
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-13,7
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-13,85
+Mitt Romney,U.S. Senate,,REP,Tooele,T-13,237
+Chris Stewart,U.S. House,2,REP,Tooele,T-13,243
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-13,27
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-13,108
+Clare Collard,State Senate,12,DEM,Tooele,T-13,114
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-13,23
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-13,239
+Scott Sandall,State Senate,17,REP,Tooele,T-13,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-13,0
+Douglas Sagers,State House ,21,REP,Tooele,T-13,249
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-13,123
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-13,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-13,0
+Warren Rogers,State House ,68,IAP,Tooele,T-13,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-13,0
+Merrill Nelson,State House ,68,REP,Tooele,T-13,0
 ,Registered Voters,,,Tooele,T-14,953
 ,Ballots Cast,,,Tooele,T-14,576
 ,Straight Party,,CON,Tooele,T-14,4
@@ -1323,26 +1323,26 @@ Merrill Nelson,State House ,68,,Tooele,T-13,0
 ,Straight Party,,GRN,Tooele,T-14,3
 ,Straight Party,,DEM,Tooele,T-14,46
 ,Straight Party,,IAP,Tooele,T-14,20
-Tim Aalders,U.S. Senate,,,Tooele,T-14,26
-Craig R. Bowden,U.S. Senate,,,Tooele,T-14,26
-Reed C. McCandless,U.S. Senate,,,Tooele,T-14,8
-Jenny Wilson,U.S. Senate,,,Tooele,T-14,154
-Mitt Romney,U.S. Senate,,,Tooele,T-14,349
-Chris Stewart,U.S. House,2,,Tooele,T-14,324
-Jeffrey Whipple,U.S. House,2,,Tooele,T-14,47
-Shireen Ghorbani,U.S. House,2,,Tooele,T-14,186
-Clare Collard,State Senate,12,,Tooele,T-14,202
-Abrian B. Velarde,State Senate,12,,Tooele,T-14,32
-Daniel W. Thatcher,State Senate,12,,Tooele,T-14,317
-Scott Sandall,State Senate,17,,Tooele,T-14,0
-Michael A Keil,State Senate,17,,Tooele,T-14,0
-Douglas Sagers,State House ,21,,Tooele,T-14,358
-Debbie K. Vigil,State House ,21,,Tooele,T-14,189
-Denyse Housley Cox,State House ,68,,Tooele,T-14,0
-Merle Travis Wall,State House ,68,,Tooele,T-14,0
-Warren Rogers,State House ,68,,Tooele,T-14,0
-Kirk D Pearson,State House ,68,,Tooele,T-14,0
-Merrill Nelson,State House ,68,,Tooele,T-14,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-14,26
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-14,26
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-14,8
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-14,154
+Mitt Romney,U.S. Senate,,REP,Tooele,T-14,349
+Chris Stewart,U.S. House,2,REP,Tooele,T-14,324
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-14,47
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-14,186
+Clare Collard,State Senate,12,DEM,Tooele,T-14,202
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-14,32
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-14,317
+Scott Sandall,State Senate,17,REP,Tooele,T-14,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-14,0
+Douglas Sagers,State House ,21,REP,Tooele,T-14,358
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-14,189
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-14,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-14,0
+Warren Rogers,State House ,68,IAP,Tooele,T-14,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-14,0
+Merrill Nelson,State House ,68,REP,Tooele,T-14,0
 ,Registered Voters,,,Tooele,T-15,960
 ,Ballots Cast,,,Tooele,T-15,650
 ,Straight Party,,CON,Tooele,T-15,3
@@ -1351,26 +1351,26 @@ Merrill Nelson,State House ,68,,Tooele,T-14,0
 ,Straight Party,,GRN,Tooele,T-15,1
 ,Straight Party,,DEM,Tooele,T-15,40
 ,Straight Party,,IAP,Tooele,T-15,19
-Tim Aalders,U.S. Senate,,,Tooele,T-15,22
-Craig R. Bowden,U.S. Senate,,,Tooele,T-15,25
-Reed C. McCandless,U.S. Senate,,,Tooele,T-15,8
-Jenny Wilson,U.S. Senate,,,Tooele,T-15,179
-Mitt Romney,U.S. Senate,,,Tooele,T-15,403
-Chris Stewart,U.S. House,2,,Tooele,T-15,394
-Jeffrey Whipple,U.S. House,2,,Tooele,T-15,42
-Shireen Ghorbani,U.S. House,2,,Tooele,T-15,191
-Clare Collard,State Senate,12,,Tooele,T-15,225
-Abrian B. Velarde,State Senate,12,,Tooele,T-15,24
-Daniel W. Thatcher,State Senate,12,,Tooele,T-15,370
-Scott Sandall,State Senate,17,,Tooele,T-15,0
-Michael A Keil,State Senate,17,,Tooele,T-15,0
-Douglas Sagers,State House ,21,,Tooele,T-15,406
-Debbie K. Vigil,State House ,21,,Tooele,T-15,213
-Denyse Housley Cox,State House ,68,,Tooele,T-15,0
-Merle Travis Wall,State House ,68,,Tooele,T-15,0
-Warren Rogers,State House ,68,,Tooele,T-15,0
-Kirk D Pearson,State House ,68,,Tooele,T-15,0
-Merrill Nelson,State House ,68,,Tooele,T-15,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-15,22
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-15,25
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-15,8
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-15,179
+Mitt Romney,U.S. Senate,,REP,Tooele,T-15,403
+Chris Stewart,U.S. House,2,REP,Tooele,T-15,394
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-15,42
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-15,191
+Clare Collard,State Senate,12,DEM,Tooele,T-15,225
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-15,24
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-15,370
+Scott Sandall,State Senate,17,REP,Tooele,T-15,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-15,0
+Douglas Sagers,State House ,21,REP,Tooele,T-15,406
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-15,213
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-15,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-15,0
+Warren Rogers,State House ,68,IAP,Tooele,T-15,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-15,0
+Merrill Nelson,State House ,68,REP,Tooele,T-15,0
 ,Registered Voters,,,Tooele,T-16,896
 ,Ballots Cast,,,Tooele,T-16,530
 ,Straight Party,,CON,Tooele,T-16,4
@@ -1379,26 +1379,26 @@ Merrill Nelson,State House ,68,,Tooele,T-15,0
 ,Straight Party,,GRN,Tooele,T-16,3
 ,Straight Party,,DEM,Tooele,T-16,70
 ,Straight Party,,IAP,Tooele,T-16,29
-Tim Aalders,U.S. Senate,,,Tooele,T-16,27
-Craig R. Bowden,U.S. Senate,,,Tooele,T-16,30
-Reed C. McCandless,U.S. Senate,,,Tooele,T-16,10
-Jenny Wilson,U.S. Senate,,,Tooele,T-16,154
-Mitt Romney,U.S. Senate,,,Tooele,T-16,301
-Chris Stewart,U.S. House,2,,Tooele,T-16,262
-Jeffrey Whipple,U.S. House,2,,Tooele,T-16,67
-Shireen Ghorbani,U.S. House,2,,Tooele,T-16,175
-Clare Collard,State Senate,12,,Tooele,T-16,188
-Abrian B. Velarde,State Senate,12,,Tooele,T-16,30
-Daniel W. Thatcher,State Senate,12,,Tooele,T-16,284
-Scott Sandall,State Senate,17,,Tooele,T-16,0
-Michael A Keil,State Senate,17,,Tooele,T-16,0
-Douglas Sagers,State House ,21,,Tooele,T-16,301
-Debbie K. Vigil,State House ,21,,Tooele,T-16,201
-Denyse Housley Cox,State House ,68,,Tooele,T-16,0
-Merle Travis Wall,State House ,68,,Tooele,T-16,0
-Warren Rogers,State House ,68,,Tooele,T-16,0
-Kirk D Pearson,State House ,68,,Tooele,T-16,0
-Merrill Nelson,State House ,68,,Tooele,T-16,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-16,27
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-16,30
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-16,10
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-16,154
+Mitt Romney,U.S. Senate,,REP,Tooele,T-16,301
+Chris Stewart,U.S. House,2,REP,Tooele,T-16,262
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-16,67
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-16,175
+Clare Collard,State Senate,12,DEM,Tooele,T-16,188
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-16,30
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-16,284
+Scott Sandall,State Senate,17,REP,Tooele,T-16,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-16,0
+Douglas Sagers,State House ,21,REP,Tooele,T-16,301
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-16,201
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-16,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-16,0
+Warren Rogers,State House ,68,IAP,Tooele,T-16,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-16,0
+Merrill Nelson,State House ,68,REP,Tooele,T-16,0
 ,Registered Voters,,,Tooele,T-17,972
 ,Ballots Cast,,,Tooele,T-17,678
 ,Straight Party,,CON,Tooele,T-17,1
@@ -1407,26 +1407,26 @@ Merrill Nelson,State House ,68,,Tooele,T-16,0
 ,Straight Party,,GRN,Tooele,T-17,1
 ,Straight Party,,DEM,Tooele,T-17,48
 ,Straight Party,,IAP,Tooele,T-17,26
-Tim Aalders,U.S. Senate,,,Tooele,T-17,34
-Craig R. Bowden,U.S. Senate,,,Tooele,T-17,21
-Reed C. McCandless,U.S. Senate,,,Tooele,T-17,17
-Jenny Wilson,U.S. Senate,,,Tooele,T-17,151
-Mitt Romney,U.S. Senate,,,Tooele,T-17,432
-Chris Stewart,U.S. House,2,,Tooele,T-17,417
-Jeffrey Whipple,U.S. House,2,,Tooele,T-17,45
-Shireen Ghorbani,U.S. House,2,,Tooele,T-17,182
-Clare Collard,State Senate,12,,Tooele,T-17,236
-Abrian B. Velarde,State Senate,12,,Tooele,T-17,24
-Daniel W. Thatcher,State Senate,12,,Tooele,T-17,379
-Scott Sandall,State Senate,17,,Tooele,T-17,0
-Michael A Keil,State Senate,17,,Tooele,T-17,0
-Douglas Sagers,State House ,21,,Tooele,T-17,433
-Debbie K. Vigil,State House ,21,,Tooele,T-17,214
-Denyse Housley Cox,State House ,68,,Tooele,T-17,0
-Merle Travis Wall,State House ,68,,Tooele,T-17,0
-Warren Rogers,State House ,68,,Tooele,T-17,0
-Kirk D Pearson,State House ,68,,Tooele,T-17,0
-Merrill Nelson,State House ,68,,Tooele,T-17,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-17,34
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-17,21
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-17,17
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-17,151
+Mitt Romney,U.S. Senate,,REP,Tooele,T-17,432
+Chris Stewart,U.S. House,2,REP,Tooele,T-17,417
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-17,45
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-17,182
+Clare Collard,State Senate,12,DEM,Tooele,T-17,236
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-17,24
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-17,379
+Scott Sandall,State Senate,17,REP,Tooele,T-17,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-17,0
+Douglas Sagers,State House ,21,REP,Tooele,T-17,433
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-17,214
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-17,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-17,0
+Warren Rogers,State House ,68,IAP,Tooele,T-17,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-17,0
+Merrill Nelson,State House ,68,REP,Tooele,T-17,0
 ,Registered Voters,,,Tooele,T-18,804
 ,Ballots Cast,,,Tooele,T-18,508
 ,Straight Party,,CON,Tooele,T-18,1
@@ -1435,26 +1435,26 @@ Merrill Nelson,State House ,68,,Tooele,T-17,0
 ,Straight Party,,GRN,Tooele,T-18,1
 ,Straight Party,,DEM,Tooele,T-18,56
 ,Straight Party,,IAP,Tooele,T-18,22
-Tim Aalders,U.S. Senate,,,Tooele,T-18,26
-Craig R. Bowden,U.S. Senate,,,Tooele,T-18,18
-Reed C. McCandless,U.S. Senate,,,Tooele,T-18,4
-Jenny Wilson,U.S. Senate,,,Tooele,T-18,161
-Mitt Romney,U.S. Senate,,,Tooele,T-18,285
-Chris Stewart,U.S. House,2,,Tooele,T-18,279
-Jeffrey Whipple,U.S. House,2,,Tooele,T-18,45
-Shireen Ghorbani,U.S. House,2,,Tooele,T-18,165
-Clare Collard,State Senate,12,,Tooele,T-18,197
-Abrian B. Velarde,State Senate,12,,Tooele,T-18,23
-Daniel W. Thatcher,State Senate,12,,Tooele,T-18,263
-Scott Sandall,State Senate,17,,Tooele,T-18,0
-Michael A Keil,State Senate,17,,Tooele,T-18,0
-Douglas Sagers,State House ,21,,Tooele,T-18,297
-Debbie K. Vigil,State House ,21,,Tooele,T-18,189
-Denyse Housley Cox,State House ,68,,Tooele,T-18,0
-Merle Travis Wall,State House ,68,,Tooele,T-18,0
-Warren Rogers,State House ,68,,Tooele,T-18,0
-Kirk D Pearson,State House ,68,,Tooele,T-18,0
-Merrill Nelson,State House ,68,,Tooele,T-18,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-18,26
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-18,18
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-18,4
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-18,161
+Mitt Romney,U.S. Senate,,REP,Tooele,T-18,285
+Chris Stewart,U.S. House,2,REP,Tooele,T-18,279
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-18,45
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-18,165
+Clare Collard,State Senate,12,DEM,Tooele,T-18,197
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-18,23
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-18,263
+Scott Sandall,State Senate,17,REP,Tooele,T-18,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-18,0
+Douglas Sagers,State House ,21,REP,Tooele,T-18,297
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-18,189
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-18,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-18,0
+Warren Rogers,State House ,68,IAP,Tooele,T-18,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-18,0
+Merrill Nelson,State House ,68,REP,Tooele,T-18,0
 ,Registered Voters,,,Tooele,T-19,589
 ,Ballots Cast,,,Tooele,T-19,446
 ,Straight Party,,CON,Tooele,T-19,1
@@ -1463,26 +1463,26 @@ Merrill Nelson,State House ,68,,Tooele,T-18,0
 ,Straight Party,,GRN,Tooele,T-19,0
 ,Straight Party,,DEM,Tooele,T-19,42
 ,Straight Party,,IAP,Tooele,T-19,10
-Tim Aalders,U.S. Senate,,,Tooele,T-19,26
-Craig R. Bowden,U.S. Senate,,,Tooele,T-19,12
-Reed C. McCandless,U.S. Senate,,,Tooele,T-19,6
-Jenny Wilson,U.S. Senate,,,Tooele,T-19,113
-Mitt Romney,U.S. Senate,,,Tooele,T-19,284
-Chris Stewart,U.S. House,2,,Tooele,T-19,267
-Jeffrey Whipple,U.S. House,2,,Tooele,T-19,29
-Shireen Ghorbani,U.S. House,2,,Tooele,T-19,137
-Clare Collard,State Senate,12,,Tooele,T-19,162
-Abrian B. Velarde,State Senate,12,,Tooele,T-19,13
-Daniel W. Thatcher,State Senate,12,,Tooele,T-19,258
-Scott Sandall,State Senate,17,,Tooele,T-19,0
-Michael A Keil,State Senate,17,,Tooele,T-19,0
-Douglas Sagers,State House ,21,,Tooele,T-19,281
-Debbie K. Vigil,State House ,21,,Tooele,T-19,145
-Denyse Housley Cox,State House ,68,,Tooele,T-19,0
-Merle Travis Wall,State House ,68,,Tooele,T-19,0
-Warren Rogers,State House ,68,,Tooele,T-19,0
-Kirk D Pearson,State House ,68,,Tooele,T-19,0
-Merrill Nelson,State House ,68,,Tooele,T-19,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-19,26
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-19,12
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-19,6
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-19,113
+Mitt Romney,U.S. Senate,,REP,Tooele,T-19,284
+Chris Stewart,U.S. House,2,REP,Tooele,T-19,267
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-19,29
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-19,137
+Clare Collard,State Senate,12,DEM,Tooele,T-19,162
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-19,13
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-19,258
+Scott Sandall,State Senate,17,REP,Tooele,T-19,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-19,0
+Douglas Sagers,State House ,21,REP,Tooele,T-19,281
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-19,145
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-19,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-19,0
+Warren Rogers,State House ,68,IAP,Tooele,T-19,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-19,0
+Merrill Nelson,State House ,68,REP,Tooele,T-19,0
 ,Registered Voters,,,Tooele,T-20,712
 ,Ballots Cast,,,Tooele,T-20,516
 ,Straight Party,,CON,Tooele,T-20,2
@@ -1491,26 +1491,26 @@ Merrill Nelson,State House ,68,,Tooele,T-19,0
 ,Straight Party,,GRN,Tooele,T-20,4
 ,Straight Party,,DEM,Tooele,T-20,41
 ,Straight Party,,IAP,Tooele,T-20,21
-Tim Aalders,U.S. Senate,,,Tooele,T-20,22
-Craig R. Bowden,U.S. Senate,,,Tooele,T-20,20
-Reed C. McCandless,U.S. Senate,,,Tooele,T-20,3
-Jenny Wilson,U.S. Senate,,,Tooele,T-20,132
-Mitt Romney,U.S. Senate,,,Tooele,T-20,330
-Chris Stewart,U.S. House,2,,Tooele,T-20,327
-Jeffrey Whipple,U.S. House,2,,Tooele,T-20,21
-Shireen Ghorbani,U.S. House,2,,Tooele,T-20,156
-Clare Collard,State Senate,12,,Tooele,T-20,178
-Abrian B. Velarde,State Senate,12,,Tooele,T-20,11
-Daniel W. Thatcher,State Senate,12,,Tooele,T-20,309
-Scott Sandall,State Senate,17,,Tooele,T-20,0
-Michael A Keil,State Senate,17,,Tooele,T-20,0
-Douglas Sagers,State House ,21,,Tooele,T-20,332
-Debbie K. Vigil,State House ,21,,Tooele,T-20,167
-Denyse Housley Cox,State House ,68,,Tooele,T-20,0
-Merle Travis Wall,State House ,68,,Tooele,T-20,0
-Warren Rogers,State House ,68,,Tooele,T-20,0
-Kirk D Pearson,State House ,68,,Tooele,T-20,0
-Merrill Nelson,State House ,68,,Tooele,T-20,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-20,22
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-20,20
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-20,3
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-20,132
+Mitt Romney,U.S. Senate,,REP,Tooele,T-20,330
+Chris Stewart,U.S. House,2,REP,Tooele,T-20,327
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-20,21
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-20,156
+Clare Collard,State Senate,12,DEM,Tooele,T-20,178
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-20,11
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-20,309
+Scott Sandall,State Senate,17,REP,Tooele,T-20,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-20,0
+Douglas Sagers,State House ,21,REP,Tooele,T-20,332
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-20,167
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-20,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-20,0
+Warren Rogers,State House ,68,IAP,Tooele,T-20,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-20,0
+Merrill Nelson,State House ,68,REP,Tooele,T-20,0
 ,Registered Voters,,,Tooele,T-21,1009
 ,Ballots Cast,,,Tooele,T-21,724
 ,Straight Party,,CON,Tooele,T-21,2
@@ -1519,26 +1519,26 @@ Merrill Nelson,State House ,68,,Tooele,T-20,0
 ,Straight Party,,GRN,Tooele,T-21,4
 ,Straight Party,,DEM,Tooele,T-21,86
 ,Straight Party,,IAP,Tooele,T-21,19
-Tim Aalders,U.S. Senate,,,Tooele,T-21,41
-Craig R. Bowden,U.S. Senate,,,Tooele,T-21,30
-Reed C. McCandless,U.S. Senate,,,Tooele,T-21,11
-Jenny Wilson,U.S. Senate,,,Tooele,T-21,219
-Mitt Romney,U.S. Senate,,,Tooele,T-21,408
-Chris Stewart,U.S. House,2,,Tooele,T-21,413
-Jeffrey Whipple,U.S. House,2,,Tooele,T-21,60
-Shireen Ghorbani,U.S. House,2,,Tooele,T-21,234
-Clare Collard,State Senate,12,,Tooele,T-21,262
-Abrian B. Velarde,State Senate,12,,Tooele,T-21,43
-Daniel W. Thatcher,State Senate,12,,Tooele,T-21,387
-Scott Sandall,State Senate,17,,Tooele,T-21,0
-Michael A Keil,State Senate,17,,Tooele,T-21,0
-Douglas Sagers,State House ,21,,Tooele,T-21,433
-Debbie K. Vigil,State House ,21,,Tooele,T-21,270
-Denyse Housley Cox,State House ,68,,Tooele,T-21,0
-Merle Travis Wall,State House ,68,,Tooele,T-21,0
-Warren Rogers,State House ,68,,Tooele,T-21,0
-Kirk D Pearson,State House ,68,,Tooele,T-21,0
-Merrill Nelson,State House ,68,,Tooele,T-21,0
+Tim Aalders,U.S. Senate,,CON,Tooele,T-21,41
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,T-21,30
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,T-21,11
+Jenny Wilson,U.S. Senate,,DEM,Tooele,T-21,219
+Mitt Romney,U.S. Senate,,REP,Tooele,T-21,408
+Chris Stewart,U.S. House,2,REP,Tooele,T-21,413
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,T-21,60
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,T-21,234
+Clare Collard,State Senate,12,DEM,Tooele,T-21,262
+Abrian B. Velarde,State Senate,12,GRN,Tooele,T-21,43
+Daniel W. Thatcher,State Senate,12,REP,Tooele,T-21,387
+Scott Sandall,State Senate,17,REP,Tooele,T-21,0
+Michael A Keil,State Senate,17,DEM,Tooele,T-21,0
+Douglas Sagers,State House ,21,REP,Tooele,T-21,433
+Debbie K. Vigil,State House ,21,DEM,Tooele,T-21,270
+Denyse Housley Cox,State House ,68,LIB,Tooele,T-21,0
+Merle Travis Wall,State House ,68,DEM,Tooele,T-21,0
+Warren Rogers,State House ,68,IAP,Tooele,T-21,0
+Kirk D Pearson,State House ,68,CON,Tooele,T-21,0
+Merrill Nelson,State House ,68,REP,Tooele,T-21,0
 ,Registered Voters,,,Tooele,TERRA,57
 ,Ballots Cast,,,Tooele,TERRA,36
 ,Straight Party,,CON,Tooele,TERRA,0
@@ -1547,26 +1547,26 @@ Merrill Nelson,State House ,68,,Tooele,T-21,0
 ,Straight Party,,GRN,Tooele,TERRA,0
 ,Straight Party,,DEM,Tooele,TERRA,1
 ,Straight Party,,IAP,Tooele,TERRA,0
-Tim Aalders,U.S. Senate,,,Tooele,TERRA,2
-Craig R. Bowden,U.S. Senate,,,Tooele,TERRA,4
-Reed C. McCandless,U.S. Senate,,,Tooele,TERRA,1
-Jenny Wilson,U.S. Senate,,,Tooele,TERRA,5
-Mitt Romney,U.S. Senate,,,Tooele,TERRA,24
-Chris Stewart,U.S. House,2,,Tooele,TERRA,29
-Jeffrey Whipple,U.S. House,2,,Tooele,TERRA,2
-Shireen Ghorbani,U.S. House,2,,Tooele,TERRA,5
-Clare Collard,State Senate,12,,Tooele,TERRA,0
-Abrian B. Velarde,State Senate,12,,Tooele,TERRA,0
-Daniel W. Thatcher,State Senate,12,,Tooele,TERRA,0
-Scott Sandall,State Senate,17,,Tooele,TERRA,28
-Michael A Keil,State Senate,17,,Tooele,TERRA,8
-Douglas Sagers,State House ,21,,Tooele,TERRA,0
-Debbie K. Vigil,State House ,21,,Tooele,TERRA,0
-Denyse Housley Cox,State House ,68,,Tooele,TERRA,4
-Merle Travis Wall,State House ,68,,Tooele,TERRA,4
-Warren Rogers,State House ,68,,Tooele,TERRA,0
-Kirk D Pearson,State House ,68,,Tooele,TERRA,1
-Merrill Nelson,State House ,68,,Tooele,TERRA,27
+Tim Aalders,U.S. Senate,,CON,Tooele,TERRA,2
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,TERRA,4
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,TERRA,1
+Jenny Wilson,U.S. Senate,,DEM,Tooele,TERRA,5
+Mitt Romney,U.S. Senate,,REP,Tooele,TERRA,24
+Chris Stewart,U.S. House,2,REP,Tooele,TERRA,29
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,TERRA,2
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,TERRA,5
+Clare Collard,State Senate,12,DEM,Tooele,TERRA,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,TERRA,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,TERRA,0
+Scott Sandall,State Senate,17,REP,Tooele,TERRA,28
+Michael A Keil,State Senate,17,DEM,Tooele,TERRA,8
+Douglas Sagers,State House ,21,REP,Tooele,TERRA,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,TERRA,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,TERRA,4
+Merle Travis Wall,State House ,68,DEM,Tooele,TERRA,4
+Warren Rogers,State House ,68,IAP,Tooele,TERRA,0
+Kirk D Pearson,State House ,68,CON,Tooele,TERRA,1
+Merrill Nelson,State House ,68,REP,Tooele,TERRA,27
 ,Registered Voters,,,Tooele,VRN-01:1-01:2,150
 ,Ballots Cast,,,Tooele,VRN-01:1-01:2,121
 ,Straight Party,,CON,Tooele,VRN-01:1-01:2,0
@@ -1575,26 +1575,26 @@ Merrill Nelson,State House ,68,,Tooele,TERRA,27
 ,Straight Party,,GRN,Tooele,VRN-01:1-01:2,0
 ,Straight Party,,DEM,Tooele,VRN-01:1-01:2,5
 ,Straight Party,,IAP,Tooele,VRN-01:1-01:2,0
-Tim Aalders,U.S. Senate,,,Tooele,VRN-01:1-01:2,8
-Craig R. Bowden,U.S. Senate,,,Tooele,VRN-01:1-01:2,1
-Reed C. McCandless,U.S. Senate,,,Tooele,VRN-01:1-01:2,2
-Jenny Wilson,U.S. Senate,,,Tooele,VRN-01:1-01:2,15
-Mitt Romney,U.S. Senate,,,Tooele,VRN-01:1-01:2,94
-Chris Stewart,U.S. House,2,,Tooele,VRN-01:1-01:2,97
-Jeffrey Whipple,U.S. House,2,,Tooele,VRN-01:1-01:2,4
-Shireen Ghorbani,U.S. House,2,,Tooele,VRN-01:1-01:2,16
-Clare Collard,State Senate,12,,Tooele,VRN-01:1-01:2,0
-Abrian B. Velarde,State Senate,12,,Tooele,VRN-01:1-01:2,0
-Daniel W. Thatcher,State Senate,12,,Tooele,VRN-01:1-01:2,0
-Scott Sandall,State Senate,17,,Tooele,VRN-01:1-01:2,95
-Michael A Keil,State Senate,17,,Tooele,VRN-01:1-01:2,20
-Douglas Sagers,State House ,21,,Tooele,VRN-01:1-01:2,0
-Debbie K. Vigil,State House ,21,,Tooele,VRN-01:1-01:2,0
-Denyse Housley Cox,State House ,68,,Tooele,VRN-01:1-01:2,1
-Merle Travis Wall,State House ,68,,Tooele,VRN-01:1-01:2,14
-Warren Rogers,State House ,68,,Tooele,VRN-01:1-01:2,0
-Kirk D Pearson,State House ,68,,Tooele,VRN-01:1-01:2,13
-Merrill Nelson,State House ,68,,Tooele,VRN-01:1-01:2,88
+Tim Aalders,U.S. Senate,,CON,Tooele,VRN-01:1-01:2,8
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,VRN-01:1-01:2,1
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,VRN-01:1-01:2,2
+Jenny Wilson,U.S. Senate,,DEM,Tooele,VRN-01:1-01:2,15
+Mitt Romney,U.S. Senate,,REP,Tooele,VRN-01:1-01:2,94
+Chris Stewart,U.S. House,2,REP,Tooele,VRN-01:1-01:2,97
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,VRN-01:1-01:2,4
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,VRN-01:1-01:2,16
+Clare Collard,State Senate,12,DEM,Tooele,VRN-01:1-01:2,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,VRN-01:1-01:2,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,VRN-01:1-01:2,0
+Scott Sandall,State Senate,17,REP,Tooele,VRN-01:1-01:2,95
+Michael A Keil,State Senate,17,DEM,Tooele,VRN-01:1-01:2,20
+Douglas Sagers,State House ,21,REP,Tooele,VRN-01:1-01:2,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,VRN-01:1-01:2,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,VRN-01:1-01:2,1
+Merle Travis Wall,State House ,68,DEM,Tooele,VRN-01:1-01:2,14
+Warren Rogers,State House ,68,IAP,Tooele,VRN-01:1-01:2,0
+Kirk D Pearson,State House ,68,CON,Tooele,VRN-01:1-01:2,13
+Merrill Nelson,State House ,68,REP,Tooele,VRN-01:1-01:2,88
 ,Registered Voters,,,Tooele,WEND,181
 ,Ballots Cast,,,Tooele,WEND,90
 ,Straight Party,,CON,Tooele,WEND,0
@@ -1603,107 +1603,23 @@ Merrill Nelson,State House ,68,,Tooele,VRN-01:1-01:2,88
 ,Straight Party,,GRN,Tooele,WEND,0
 ,Straight Party,,DEM,Tooele,WEND,18
 ,Straight Party,,IAP,Tooele,WEND,4
-Tim Aalders,U.S. Senate,,,Tooele,WEND,2
-Craig R. Bowden,U.S. Senate,,,Tooele,WEND,4
-Reed C. McCandless,U.S. Senate,,,Tooele,WEND,0
-Jenny Wilson,U.S. Senate,,,Tooele,WEND,21
-Mitt Romney,U.S. Senate,,,Tooele,WEND,59
-Chris Stewart,U.S. House,2,,Tooele,WEND,61
-Jeffrey Whipple,U.S. House,2,,Tooele,WEND,6
-Shireen Ghorbani,U.S. House,2,,Tooele,WEND,22
-Clare Collard,State Senate,12,,Tooele,WEND,0
-Abrian B. Velarde,State Senate,12,,Tooele,WEND,0
-Daniel W. Thatcher,State Senate,12,,Tooele,WEND,0
-Scott Sandall,State Senate,17,,Tooele,WEND,50
-Michael A Keil,State Senate,17,,Tooele,WEND,34
-Douglas Sagers,State House ,21,,Tooele,WEND,0
-Debbie K. Vigil,State House ,21,,Tooele,WEND,0
-Denyse Housley Cox,State House ,68,,Tooele,WEND,7
-Merle Travis Wall,State House ,68,,Tooele,WEND,26
-Warren Rogers,State House ,68,,Tooele,WEND,3
-Kirk D Pearson,State House ,68,,Tooele,WEND,2
-Merrill Nelson,State House ,68,,Tooele,WEND,49
-,Registered Voters,,,Tooele,CTY TOTALS ,31297
-,Ballots Cast,,,Tooele,CTY TOTALS ,22380
-,Straight Party,,CON,Tooele,CTY TOTALS ,75
-,Straight Party,,LIB,Tooele,CTY TOTALS ,117
-,Straight Party,,REP,Tooele,CTY TOTALS ,3934
-,Straight Party,,GRN,Tooele,CTY TOTALS ,50
-,Straight Party,,DEM,Tooele,CTY TOTALS ,1675
-,Straight Party,,IAP,Tooele,CTY TOTALS ,566
-Tim Aalders,U.S. Senate,,,Tooele,CTY TOTALS ,992
-Craig R. Bowden,U.S. Senate,,,Tooele,CTY TOTALS ,726
-Reed C. McCandless,U.S. Senate,,,Tooele,CTY TOTALS ,338
-Jenny Wilson,U.S. Senate,,,Tooele,CTY TOTALS ,5491
-Mitt Romney,U.S. Senate,,,Tooele,CTY TOTALS ,14407
-Chris Stewart,U.S. House,2,,Tooele,CTY TOTALS ,14160
-Jeffrey Whipple,U.S. House,2,,Tooele,CTY TOTALS ,1417
-Shireen Ghorbani,U.S. House,2,,Tooele,CTY TOTALS ,6142
-Clare Collard,State Senate,12,,Tooele,CTY TOTALS ,3974
-Abrian B. Velarde,State Senate,12,,Tooele,CTY TOTALS ,444
-Daniel W. Thatcher,State Senate,12,,Tooele,CTY TOTALS ,6230
-Scott Sandall,State Senate,17,,Tooele,CTY TOTALS ,7212
-Michael A Keil,State Senate,17,,Tooele,CTY TOTALS ,3511
-Douglas Sagers,State House ,21,,Tooele,CTY TOTALS ,7809
-Debbie K. Vigil,State House ,21,,Tooele,CTY TOTALS ,4397
-Denyse Housley Cox,State House ,68,,Tooele,CTY TOTALS ,459
-Merle Travis Wall,State House ,68,,Tooele,CTY TOTALS ,1689
-Warren Rogers,State House ,68,,Tooele,CTY TOTALS ,183
-Kirk D Pearson,State House ,68,,Tooele,CTY TOTALS ,748
-Merrill Nelson,State House ,68,,Tooele,CTY TOTALS ,6244
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+Tim Aalders,U.S. Senate,,CON,Tooele,WEND,2
+Craig R. Bowden,U.S. Senate,,LIB,Tooele,WEND,4
+Reed C. McCandless,U.S. Senate,,IAP,Tooele,WEND,0
+Jenny Wilson,U.S. Senate,,DEM,Tooele,WEND,21
+Mitt Romney,U.S. Senate,,REP,Tooele,WEND,59
+Chris Stewart,U.S. House,2,REP,Tooele,WEND,61
+Jeffrey Whipple,U.S. House,2,LIB,Tooele,WEND,6
+Shireen Ghorbani,U.S. House,2,DEM,Tooele,WEND,22
+Clare Collard,State Senate,12,DEM,Tooele,WEND,0
+Abrian B. Velarde,State Senate,12,GRN,Tooele,WEND,0
+Daniel W. Thatcher,State Senate,12,REP,Tooele,WEND,0
+Scott Sandall,State Senate,17,REP,Tooele,WEND,50
+Michael A Keil,State Senate,17,DEM,Tooele,WEND,34
+Douglas Sagers,State House ,21,REP,Tooele,WEND,0
+Debbie K. Vigil,State House ,21,DEM,Tooele,WEND,0
+Denyse Housley Cox,State House ,68,LIB,Tooele,WEND,7
+Merle Travis Wall,State House ,68,DEM,Tooele,WEND,26
+Warren Rogers,State House ,68,IAP,Tooele,WEND,3
+Kirk D Pearson,State House ,68,CON,Tooele,WEND,2
+Merrill Nelson,State House ,68,REP,Tooele,WEND,49
