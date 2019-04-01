@@ -1,0 +1,335 @@
+county,precinct,office,district,party,candidate,votes
+Grand,Moab 1:70,STRAIGHT PARTY,,LIBERTARIAN,,1
+Grand,Moab 1:70,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,3
+Grand,Moab 1:70,STRAIGHT PARTY,,REPUBLICAN,,11
+Grand,Moab 1:70,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Moab 1:70,STRAIGHT PARTY,,DEMOCRATIC ,,18
+Grand,Moab 2:69,STRAIGHT PARTY,,LIBERTARIAN,,3
+Grand,Moab 2:69,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,5
+Grand,Moab 2:69,STRAIGHT PARTY,,REPUBLICAN,,67
+Grand,Moab 2:69,STRAIGHT PARTY,,CONSTITUTION,,1
+Grand,Moab 2:69,STRAIGHT PARTY,,DEMOCRATIC ,,50
+Grand,Moab 2:70,STRAIGHT PARTY,,LIBERTARIAN,,0
+Grand,Moab 2:70,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,0
+Grand,Moab 2:70,STRAIGHT PARTY,,REPUBLICAN,,1
+Grand,Moab 2:70,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Moab 2:70,STRAIGHT PARTY,,DEMOCRATIC ,,1
+Grand,Moab 3:70,STRAIGHT PARTY,,LIBERTARIAN,,0
+Grand,Moab 3:70,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,4
+Grand,Moab 3:70,STRAIGHT PARTY,,REPUBLICAN,,10
+Grand,Moab 3:70,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Moab 3:70,STRAIGHT PARTY,,DEMOCRATIC ,,14
+Grand,Moab 4:69,STRAIGHT PARTY,,LIBERTARIAN,,0
+Grand,Moab 4:69,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,0
+Grand,Moab 4:69,STRAIGHT PARTY,,REPUBLICAN,,0
+Grand,Moab 4:69,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Moab 4:69,STRAIGHT PARTY,,DEMOCRATIC ,,0
+Grand,Moab 4:70,STRAIGHT PARTY,,LIBERTARIAN,,2
+Grand,Moab 4:70,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,12
+Grand,Moab 4:70,STRAIGHT PARTY,,REPUBLICAN,,50
+Grand,Moab 4:70,STRAIGHT PARTY,,CONSTITUTION,,1
+Grand,Moab 4:70,STRAIGHT PARTY,,DEMOCRATIC ,,25
+Grand,Moab 5:69,STRAIGHT PARTY,,LIBERTARIAN,,0
+Grand,Moab 5:69,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,0
+Grand,Moab 5:69,STRAIGHT PARTY,,REPUBLICAN,,0
+Grand,Moab 5:69,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Moab 5:69,STRAIGHT PARTY,,DEMOCRATIC ,,0
+Grand,Moab 5:70,STRAIGHT PARTY,,LIBERTARIAN,,2
+Grand,Moab 5:70,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,2
+Grand,Moab 5:70,STRAIGHT PARTY,,REPUBLICAN,,17
+Grand,Moab 5:70,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Moab 5:70,STRAIGHT PARTY,,DEMOCRATIC ,,19
+Grand,Thompson 6:69,STRAIGHT PARTY,,LIBERTARIAN,,1
+Grand,Thompson 6:69,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,0
+Grand,Thompson 6:69,STRAIGHT PARTY,,REPUBLICAN,,1
+Grand,Thompson 6:69,STRAIGHT PARTY,,CONSTITUTION,,1
+Grand,Thompson 6:69,STRAIGHT PARTY,,DEMOCRATIC ,,3
+Grand,Thompson 6:70,STRAIGHT PARTY,,LIBERTARIAN,,0
+Grand,Thompson 6:70,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,0
+Grand,Thompson 6:70,STRAIGHT PARTY,,REPUBLICAN,,0
+Grand,Thompson 6:70,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Thompson 6:70,STRAIGHT PARTY,,DEMOCRATIC ,,1
+Grand,Green River 7:69,STRAIGHT PARTY,,LIBERTARIAN,,0
+Grand,Green River 7:69,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,1
+Grand,Green River 7:69,STRAIGHT PARTY,,REPUBLICAN,,3
+Grand,Green River 7:69,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Green River 7:69,STRAIGHT PARTY,,DEMOCRATIC ,,2
+Grand,Green River 7:70,STRAIGHT PARTY,,LIBERTARIAN,,0
+Grand,Green River 7:70,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,0
+Grand,Green River 7:70,STRAIGHT PARTY,,REPUBLICAN,,2
+Grand,Green River 7:70,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Green River 7:70,STRAIGHT PARTY,,DEMOCRATIC ,,0
+Grand,Castle Valley 8:69,STRAIGHT PARTY,,LIBERTARIAN,,0
+Grand,Castle Valley 8:69,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,2
+Grand,Castle Valley 8:69,STRAIGHT PARTY,,REPUBLICAN,,11
+Grand,Castle Valley 8:69,STRAIGHT PARTY,,CONSTITUTION,,2
+Grand,Castle Valley 8:69,STRAIGHT PARTY,,DEMOCRATIC ,,13
+Grand,Moab 9:69,STRAIGHT PARTY,,LIBERTARIAN,,0
+Grand,Moab 9:69,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,3
+Grand,Moab 9:69,STRAIGHT PARTY,,REPUBLICAN,,10
+Grand,Moab 9:69,STRAIGHT PARTY,,CONSTITUTION,,1
+Grand,Moab 9:69,STRAIGHT PARTY,,DEMOCRATIC ,,0
+Grand,Moab 9:70,STRAIGHT PARTY,,LIBERTARIAN,,1
+Grand,Moab 9:70,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,9
+Grand,Moab 9:70,STRAIGHT PARTY,,REPUBLICAN,,29
+Grand,Moab 9:70,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Moab 9:70,STRAIGHT PARTY,,DEMOCRATIC ,,15
+Grand,Moab 10:70,STRAIGHT PARTY,,LIBERTARIAN,,2
+Grand,Moab 10:70,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,5
+Grand,Moab 10:70,STRAIGHT PARTY,,REPUBLICAN,,37
+Grand,Moab 10:70,STRAIGHT PARTY,,CONSTITUTION,,1
+Grand,Moab 10:70,STRAIGHT PARTY,,DEMOCRATIC ,,24
+Grand,Moab 11:69,STRAIGHT PARTY,,LIBERTARIAN,,2
+Grand,Moab 11:69,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,4
+Grand,Moab 11:69,STRAIGHT PARTY,,REPUBLICAN,,45
+Grand,Moab 11:69,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Moab 11:69,STRAIGHT PARTY,,DEMOCRATIC ,,23
+Grand,Moab 11:70,STRAIGHT PARTY,,LIBERTARIAN,,1
+Grand,Moab 11:70,STRAIGHT PARTY,,INDEPENDENT AMERICAN PARTY,,0
+Grand,Moab 11:70,STRAIGHT PARTY,,REPUBLICAN,,14
+Grand,Moab 11:70,STRAIGHT PARTY,,CONSTITUTION,,0
+Grand,Moab 11:70,STRAIGHT PARTY,,DEMOCRATIC ,,13
+Grand,Moab 1:70,US HOUSE,3,NP,Ben J. Mates,15
+Grand,Moab 1:70,US HOUSE,3,DEM,Brian Wonnacott,145
+Grand,Moab 1:70,US HOUSE,3,IAP,Zack Strong,9
+Grand,Moab 1:70,US HOUSE,3,REP,Jason Chaffetz,74
+Grand,Moab 1:70,US HOUSE,3,NP,Stephen P. Tryon,13
+Grand,Moab 1:70,US HOUSE,3,NP,Write-in 60,0
+Grand,Moab 2:69,US HOUSE,3,NP,Ben J. Mates,19
+Grand,Moab 2:69,US HOUSE,3,DEM,Brian Wonnacott,297
+Grand,Moab 2:69,US HOUSE,3,IAP,Zack Strong,20
+Grand,Moab 2:69,US HOUSE,3,REP,Jason Chaffetz,345
+Grand,Moab 2:69,US HOUSE,3,NP,Stephen P. Tryon,22
+Grand,Moab 2:69,US HOUSE,3,NP,Write-in 60,3
+Grand,Moab 2:70,US HOUSE,3,NP,Ben J. Mates,0
+Grand,Moab 2:70,US HOUSE,3,DEM,Brian Wonnacott,4
+Grand,Moab 2:70,US HOUSE,3,IAP,Zack Strong,0
+Grand,Moab 2:70,US HOUSE,3,REP,Jason Chaffetz,2
+Grand,Moab 2:70,US HOUSE,3,NP,Stephen P. Tryon,0
+Grand,Moab 2:70,US HOUSE,3,NP,Write-in 60,0
+Grand,Moab 3:70,US HOUSE,3,NP,Ben J. Mates,3
+Grand,Moab 3:70,US HOUSE,3,DEM,Brian Wonnacott,56
+Grand,Moab 3:70,US HOUSE,3,IAP,Zack Strong,7
+Grand,Moab 3:70,US HOUSE,3,REP,Jason Chaffetz,72
+Grand,Moab 3:70,US HOUSE,3,NP,Stephen P. Tryon,3
+Grand,Moab 3:70,US HOUSE,3,NP,Write-in 60,1
+Grand,Moab 4:69,US HOUSE,3,NP,Ben J. Mates,0
+Grand,Moab 4:69,US HOUSE,3,DEM,Brian Wonnacott,1
+Grand,Moab 4:69,US HOUSE,3,IAP,Zack Strong,0
+Grand,Moab 4:69,US HOUSE,3,REP,Jason Chaffetz,0
+Grand,Moab 4:69,US HOUSE,3,NP,Stephen P. Tryon,0
+Grand,Moab 4:69,US HOUSE,3,NP,Write-in 60,0
+Grand,Moab 4:70,US HOUSE,3,NP,Ben J. Mates,20
+Grand,Moab 4:70,US HOUSE,3,DEM,Brian Wonnacott,198
+Grand,Moab 4:70,US HOUSE,3,IAP,Zack Strong,12
+Grand,Moab 4:70,US HOUSE,3,REP,Jason Chaffetz,206
+Grand,Moab 4:70,US HOUSE,3,NP,Stephen P. Tryon,11
+Grand,Moab 4:70,US HOUSE,3,NP,Write-in 60,0
+Grand,Moab 5:69,US HOUSE,3,NP,Ben J. Mates,0
+Grand,Moab 5:69,US HOUSE,3,DEM,Brian Wonnacott,0
+Grand,Moab 5:69,US HOUSE,3,IAP,Zack Strong,0
+Grand,Moab 5:69,US HOUSE,3,REP,Jason Chaffetz,0
+Grand,Moab 5:69,US HOUSE,3,NP,Stephen P. Tryon,0
+Grand,Moab 5:69,US HOUSE,3,NP,Write-in 60,0
+Grand,Moab 5:70,US HOUSE,3,NP,Ben J. Mates,20
+Grand,Moab 5:70,US HOUSE,3,DEM,Brian Wonnacott,208
+Grand,Moab 5:70,US HOUSE,3,IAP,Zack Strong,7
+Grand,Moab 5:70,US HOUSE,3,REP,Jason Chaffetz,185
+Grand,Moab 5:70,US HOUSE,3,NP,Stephen P. Tryon,10
+Grand,Moab 5:70,US HOUSE,3,NP,Write-in 60,2
+Grand,Thompson 6:69,US HOUSE,3,NP,Ben J. Mates,0
+Grand,Thompson 6:69,US HOUSE,3,DEM,Brian Wonnacott,5
+Grand,Thompson 6:69,US HOUSE,3,IAP,Zack Strong,2
+Grand,Thompson 6:69,US HOUSE,3,REP,Jason Chaffetz,10
+Grand,Thompson 6:69,US HOUSE,3,NP,Stephen P. Tryon,0
+Grand,Thompson 6:69,US HOUSE,3,NP,Write-in 60,0
+Grand,Thompson 6:70,US HOUSE,3,NP,Ben J. Mates,0
+Grand,Thompson 6:70,US HOUSE,3,DEM,Brian Wonnacott,1
+Grand,Thompson 6:70,US HOUSE,3,IAP,Zack Strong,0
+Grand,Thompson 6:70,US HOUSE,3,REP,Jason Chaffetz,0
+Grand,Thompson 6:70,US HOUSE,3,NP,Stephen P. Tryon,0
+Grand,Thompson 6:70,US HOUSE,3,NP,Write-in 60,0
+Grand,Green River 7:69,US HOUSE,3,NP,Ben J. Mates,0
+Grand,Green River 7:69,US HOUSE,3,DEM,Brian Wonnacott,2
+Grand,Green River 7:69,US HOUSE,3,IAP,Zack Strong,0
+Grand,Green River 7:69,US HOUSE,3,REP,Jason Chaffetz,10
+Grand,Green River 7:69,US HOUSE,3,NP,Stephen P. Tryon,0
+Grand,Green River 7:69,US HOUSE,3,NP,Write-in 60,0
+Grand,Green River 7:70,US HOUSE,3,NP,Ben J. Mates,0
+Grand,Green River 7:70,US HOUSE,3,DEM,Brian Wonnacott,1
+Grand,Green River 7:70,US HOUSE,3,IAP,Zack Strong,0
+Grand,Green River 7:70,US HOUSE,3,REP,Jason Chaffetz,2
+Grand,Green River 7:70,US HOUSE,3,NP,Stephen P. Tryon,0
+Grand,Green River 7:70,US HOUSE,3,NP,Write-in 60,0
+Grand,Castle Valley 8:69,US HOUSE,3,NP,Ben J. Mates,22
+Grand,Castle Valley 8:69,US HOUSE,3,DEM,Brian Wonnacott,120
+Grand,Castle Valley 8:69,US HOUSE,3,IAP,Zack Strong,5
+Grand,Castle Valley 8:69,US HOUSE,3,REP,Jason Chaffetz,60
+Grand,Castle Valley 8:69,US HOUSE,3,NP,Stephen P. Tryon,4
+Grand,Castle Valley 8:69,US HOUSE,3,NP,Write-in 60,0
+Grand,Moab 9:69,US HOUSE,3,NP,Ben J. Mates,3
+Grand,Moab 9:69,US HOUSE,3,DEM,Brian Wonnacott,24
+Grand,Moab 9:69,US HOUSE,3,IAP,Zack Strong,2
+Grand,Moab 9:69,US HOUSE,3,REP,Jason Chaffetz,58
+Grand,Moab 9:69,US HOUSE,3,NP,Stephen P. Tryon,3
+Grand,Moab 9:69,US HOUSE,3,NP,Write-in 60,0
+Grand,Moab 9:70,US HOUSE,3,NP,Ben J. Mates,16
+Grand,Moab 9:70,US HOUSE,3,DEM,Brian Wonnacott,95
+Grand,Moab 9:70,US HOUSE,3,IAP,Zack Strong,16
+Grand,Moab 9:70,US HOUSE,3,REP,Jason Chaffetz,176
+Grand,Moab 9:70,US HOUSE,3,NP,Stephen P. Tryon,10
+Grand,Moab 9:70,US HOUSE,3,NP,Write-in 60,1
+Grand,Moab 10:70,US HOUSE,3,NP,Ben J. Mates,14
+Grand,Moab 10:70,US HOUSE,3,DEM,Brian Wonnacott,147
+Grand,Moab 10:70,US HOUSE,3,IAP,Zack Strong,10
+Grand,Moab 10:70,US HOUSE,3,REP,Jason Chaffetz,167
+Grand,Moab 10:70,US HOUSE,3,NP,Stephen P. Tryon,7
+Grand,Moab 10:70,US HOUSE,3,NP,Write-in 60,3
+Grand,Moab 11:69,US HOUSE,3,NP,Ben J. Mates,14
+Grand,Moab 11:69,US HOUSE,3,DEM,Brian Wonnacott,124
+Grand,Moab 11:69,US HOUSE,3,IAP,Zack Strong,9
+Grand,Moab 11:69,US HOUSE,3,REP,Jason Chaffetz,205
+Grand,Moab 11:69,US HOUSE,3,NP,Stephen P. Tryon,8
+Grand,Moab 11:69,US HOUSE,3,NP,Write-in 60,0
+Grand,Moab 11:70,US HOUSE,3,NP,Ben J. Mates,2
+Grand,Moab 11:70,US HOUSE,3,DEM,Brian Wonnacott,51
+Grand,Moab 11:70,US HOUSE,3,IAP,Zack Strong,3
+Grand,Moab 11:70,US HOUSE,3,REP,Jason Chaffetz,61
+Grand,Moab 11:70,US HOUSE,3,NP,Stephen P. Tryon,8
+Grand,Moab 11:70,US HOUSE,3,NP,Write-in 60,0
+Grand,Moab 1:70,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,24
+Grand,Moab 1:70,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,3
+Grand,Moab 1:70,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,143
+Grand,Moab 1:70,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,69
+Grand,Moab 1:70,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,13
+Grand,Moab 2:69,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,45
+Grand,Moab 2:69,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,11
+Grand,Moab 2:69,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,315
+Grand,Moab 2:69,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,303
+Grand,Moab 2:69,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,18
+Grand,Moab 2:70,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,0
+Grand,Moab 2:70,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,0
+Grand,Moab 2:70,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,4
+Grand,Moab 2:70,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,2
+Grand,Moab 2:70,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,0
+Grand,Moab 3:70,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,6
+Grand,Moab 3:70,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,4
+Grand,Moab 3:70,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,57
+Grand,Moab 3:70,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,64
+Grand,Moab 3:70,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,7
+Grand,Moab 4:69,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,0
+Grand,Moab 4:69,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,0
+Grand,Moab 4:69,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,1
+Grand,Moab 4:69,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,0
+Grand,Moab 4:69,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,0
+Grand,Moab 4:70,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,28
+Grand,Moab 4:70,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,12
+Grand,Moab 4:70,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,196
+Grand,Moab 4:70,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,193
+Grand,Moab 4:70,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,12
+Grand,Moab 5:69,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,0
+Grand,Moab 5:69,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,0
+Grand,Moab 5:69,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,0
+Grand,Moab 5:69,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,0
+Grand,Moab 5:69,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,0
+Grand,Moab 5:70,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,27
+Grand,Moab 5:70,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,11
+Grand,Moab 5:70,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,217
+Grand,Moab 5:70,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,164
+Grand,Moab 5:70,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,8
+Grand,Thompson 6:69,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,2
+Grand,Thompson 6:69,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,2
+Grand,Thompson 6:69,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,5
+Grand,Thompson 6:69,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,8
+Grand,Thompson 6:69,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,0
+Grand,Thompson 6:70,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,0
+Grand,Thompson 6:70,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,0
+Grand,Thompson 6:70,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,1
+Grand,Thompson 6:70,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,0
+Grand,Thompson 6:70,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,0
+Grand,Green River 7:69,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,0
+Grand,Green River 7:69,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,1
+Grand,Green River 7:69,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,2
+Grand,Green River 7:69,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,8
+Grand,Green River 7:69,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,1
+Grand,Green River 7:70,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,0
+Grand,Green River 7:70,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,0
+Grand,Green River 7:70,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,1
+Grand,Green River 7:70,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,2
+Grand,Green River 7:70,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,0
+Grand,Castle Valley 8:69,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,14
+Grand,Castle Valley 8:69,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,7
+Grand,Castle Valley 8:69,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,130
+Grand,Castle Valley 8:69,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,52
+Grand,Castle Valley 8:69,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,4
+Grand,Moab 9:69,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,8
+Grand,Moab 9:69,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,2
+Grand,Moab 9:69,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,21
+Grand,Moab 9:69,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,55
+Grand,Moab 9:69,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,4
+Grand,Moab 9:70,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,22
+Grand,Moab 9:70,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,12
+Grand,Moab 9:70,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,97
+Grand,Moab 9:70,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,169
+Grand,Moab 9:70,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,10
+Grand,Moab 10:70,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,19
+Grand,Moab 10:70,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,7
+Grand,Moab 10:70,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,158
+Grand,Moab 10:70,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,152
+Grand,Moab 10:70,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,13
+Grand,Moab 11:69,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,17
+Grand,Moab 11:69,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,0
+Grand,Moab 11:69,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,127
+Grand,Moab 11:69,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,199
+Grand,Moab 11:69,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,10
+Grand,Moab 11:70,ATTORNEY GENERAL ,,LIB ,W. Andrew McCullough ,16
+Grand,Moab 11:70,ATTORNEY GENERAL ,,CON ,Gregory G. Hansen ,2
+Grand,Moab 11:70,ATTORNEY GENERAL ,,DEM ,Charles A. Stormont ,44
+Grand,Moab 11:70,ATTORNEY GENERAL ,,REP ,Sean D. Reyes ,53
+Grand,Moab 11:70,ATTORNEY GENERAL ,,IAP ,Leslie D. Curtis ,3
+Grand,Moab 1:70,STATE REP,70,REP ,Kay L. McIff ,73
+Grand,Moab 1:70,STATE REP,70,DEM ,Kalen Jones ,171
+Grand,Moab 1:70,STATE REP,70,CON ,R. Glenn Stoneman ,7
+Grand,Moab 2:70,STATE REP,70,REP ,Kay L. McIff ,2
+Grand,Moab 2:70,STATE REP,70,DEM ,Kalen Jones ,4
+Grand,Moab 2:70,STATE REP,70,CON ,R. Glenn Stoneman ,0
+Grand,Moab 3:70,STATE REP,70,REP ,Kay L. McIff ,62
+Grand,Moab 3:70,STATE REP,70,DEM ,Kalen Jones ,69
+Grand,Moab 3:70,STATE REP,70,CON ,R. Glenn Stoneman ,7
+Grand,Moab 4:70,STATE REP,70,REP ,Kay L. McIff ,185
+Grand,Moab 4:70,STATE REP,70,DEM ,Kalen Jones ,224
+Grand,Moab 4:70,STATE REP,70,CON ,R. Glenn Stoneman ,28
+Grand,Moab 5:70,STATE REP,70,REP ,Kay L. McIff ,157
+Grand,Moab 5:70,STATE REP,70,DEM ,Kalen Jones ,255
+Grand,Moab 5:70,STATE REP,70,CON ,R. Glenn Stoneman ,16
+Grand,Thompson 6:70,STATE REP,70,REP ,Kay L. McIff ,0
+Grand,Thompson 6:70,STATE REP,70,DEM ,Kalen Jones ,1
+Grand,Thompson 6:70,STATE REP,70,CON ,R. Glenn Stoneman ,0
+Grand,Green River 7:70,STATE REP,70,REP ,Kay L. McIff ,2
+Grand,Green River 7:70,STATE REP,70,DEM ,Kalen Jones ,1
+Grand,Green River 7:70,STATE REP,70,CON ,R. Glenn Stoneman ,0
+Grand,Moab 9:70,STATE REP,70,REP ,Kay L. McIff ,146
+Grand,Moab 9:70,STATE REP,70,DEM ,Kalen Jones ,139
+Grand,Moab 9:70,STATE REP,70,CON ,R. Glenn Stoneman ,25
+Grand,Moab 10:70,STATE REP,70,REP ,Kay L. McIff ,151
+Grand,Moab 10:70,STATE REP,70,DEM ,Kalen Jones ,182
+Grand,Moab 10:70,STATE REP,70,CON ,R. Glenn Stoneman ,14
+Grand,Moab 11:70,STATE REP,70,REP ,Kay L. McIff ,52
+Grand,Moab 11:70,STATE REP,70,DEM ,Kalen Jones ,59
+Grand,Moab 11:70,STATE REP,70,CON ,R. Glenn Stoneman ,8
+Grand,Moab 2:69,STATE REP,69,REP ,Bill Labrum ,308
+Grand,Moab 2:69,STATE REP,69,DEM ,Brad King ,383
+Grand,Moab 4:69,STATE REP,69,REP ,Bill Labrum ,0
+Grand,Moab 4:69,STATE REP,69,DEM ,Brad King ,1
+Grand,Moab 5:69,STATE REP,69,REP ,Bill Labrum ,0
+Grand,Moab 5:69,STATE REP,69,DEM ,Brad King ,0
+Grand,Thompson 6:69,STATE REP,69,REP ,Bill Labrum ,7
+Grand,Thompson 6:69,STATE REP,69,DEM ,Brad King ,10
+Grand,Green River 7:69,STATE REP,69,REP ,Bill Labrum ,8
+Grand,Green River 7:69,STATE REP,69,DEM ,Brad King ,3
+Grand,Castle Valley 8:69,STATE REP,69,REP ,Bill Labrum ,61
+Grand,Castle Valley 8:69,STATE REP,69,DEM ,Brad King ,154
+Grand,Moab 9:69,STATE REP,69,REP ,Bill Labrum ,52
+Grand,Moab 9:69,STATE REP,69,DEM ,Brad King ,39
+Grand,Moab 11:69,STATE REP,69,REP ,Bill Labrum ,197
+Grand,Moab 11:69,STATE REP,69,DEM ,Brad King ,159
