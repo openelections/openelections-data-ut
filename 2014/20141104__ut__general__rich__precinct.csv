@@ -1,0 +1,81 @@
+county,precinct,office,district,party,candidate,votes
+Rich,Woodruff #1,STRAIGHT PARTY,,Libertarian,,0
+Rich,Woodruff #1,STRAIGHT PARTY,,Independent American,,0
+Rich,Woodruff #1,STRAIGHT PARTY,,Republican,,25
+Rich,Woodruff #1,STRAIGHT PARTY,,Constitution,,0
+Rich,Woodruff #1,STRAIGHT PARTY,,Democratic,,0
+Rich,Randolph South #2,STRAIGHT PARTY,,Libertarian,,0
+Rich,Randolph South #2,STRAIGHT PARTY,,Independent American,,0
+Rich,Randolph South #2,STRAIGHT PARTY,,Republican,,12
+Rich,Randolph South #2,STRAIGHT PARTY,,Constitution,,0
+Rich,Randolph South #2,STRAIGHT PARTY,,Democratic,,0
+Rich,Randolph North #3,STRAIGHT PARTY,,Libertarian,,3
+Rich,Randolph North #3,STRAIGHT PARTY,,Independent American,,1
+Rich,Randolph North #3,STRAIGHT PARTY,,Republican,,27
+Rich,Randolph North #3,STRAIGHT PARTY,,Constitution,,0
+Rich,Randolph North #3,STRAIGHT PARTY,,Democratic,,5
+Rich,Laketown #4,STRAIGHT PARTY,,Libertarian,,0
+Rich,Laketown #4,STRAIGHT PARTY,,Independent American,,1
+Rich,Laketown #4,STRAIGHT PARTY,,Republican,,34
+Rich,Laketown #4,STRAIGHT PARTY,,Constitution,,0
+Rich,Laketown #4,STRAIGHT PARTY,,Democratic,,7
+Rich,Garden City #5,STRAIGHT PARTY,,Libertarian,,0
+Rich,Garden City #5,STRAIGHT PARTY,,Independent American,,1
+Rich,Garden City #5,STRAIGHT PARTY,,Republican,,55
+Rich,Garden City #5,STRAIGHT PARTY,,Constitution,,0
+Rich,Garden City #5,STRAIGHT PARTY,,Democratic,,6
+Rich,Woodruff #1,US HOUSE,D1,DEM,Donna McAleer,12
+Rich,Woodruff #1,US HOUSE,D2,IAP,Dwayne A Vance,2
+Rich,Woodruff #1,US HOUSE,D3,REP,Rob Bishop,75
+Rich,Woodruff #1,US HOUSE,D4,LIB,Craig Bowden,4
+Rich,Randolph South #2,US HOUSE,D5,DEM,Donna McAleer,14
+Rich,Randolph South #2,US HOUSE,D6,IAP,Dwayne A Vance,2
+Rich,Randolph South #2,US HOUSE,D7,REP,Rob Bishop,86
+Rich,Randolph South #2,US HOUSE,D8,LIB,Craig Bowden,0
+Rich,Randolph North #3,US HOUSE,D9,DEM,Donna McAleer,18
+Rich,Randolph North #3,US HOUSE,D10,IAP,Dwayne A Vance,4
+Rich,Randolph North #3,US HOUSE,D11,REP,Rob Bishop,135
+Rich,Randolph North #3,US HOUSE,D12,LIB,Craig Bowden,4
+Rich,Laketown #4,US HOUSE,D13,DEM,Donna McAleer,21
+Rich,Laketown #4,US HOUSE,D14,IAP,Dwayne A Vance,3
+Rich,Laketown #4,US HOUSE,D15,REP,Rob Bishop,130
+Rich,Laketown #4,US HOUSE,D16,LIB,Craig Bowden,2
+Rich,Garden City #5,US HOUSE,D17,DEM,Donna McAleer,37
+Rich,Garden City #5,US HOUSE,D18,IAP,Dwayne A Vance,8
+Rich,Garden City #5,US HOUSE,D19,REP,Rob Bishop,165
+Rich,Garden City #5,US HOUSE,D20,LIB,Craig Bowden,10
+Rich,Woodruff #1,ATTORNEY GENERAL,,LIB,W. Andrew McCullough,0
+Rich,Woodruff #1,ATTORNEY GENERAL,,CON,Gregory G. Hansen,0
+Rich,Woodruff #1,ATTORNEY GENERAL,,DEM,Charles A. Stormont,9
+Rich,Woodruff #1,ATTORNEY GENERAL,,REP,Sean D. Reyes,83
+Rich,Woodruff #1,ATTORNEY GENERAL,,IAP,Leslie D. Curtis,1
+Rich,Randolph South #2,ATTORNEY GENERAL,,LIB,W. Andrew McCullough,3
+Rich,Randolph South #2,ATTORNEY GENERAL,,CON,Gregory G. Hansen,4
+Rich,Randolph South #2,ATTORNEY GENERAL,,DEM,Charles A. Stormont,8
+Rich,Randolph South #2,ATTORNEY GENERAL,,REP,Sean D. Reyes,79
+Rich,Randolph South #2,ATTORNEY GENERAL,,IAP,Leslie D. Curtis,3
+Rich,Randolph North #3,ATTORNEY GENERAL,,LIB,W. Andrew McCullough,6
+Rich,Randolph North #3,ATTORNEY GENERAL,,CON,Gregory G. Hansen,15
+Rich,Randolph North #3,ATTORNEY GENERAL,,DEM,Charles A. Stormont,18
+Rich,Randolph North #3,ATTORNEY GENERAL,,REP,Sean D. Reyes,112
+Rich,Randolph North #3,ATTORNEY GENERAL,,IAP,Leslie D. Curtis,5
+Rich,Laketown #4,ATTORNEY GENERAL,,LIB,W. Andrew McCullough,2
+Rich,Laketown #4,ATTORNEY GENERAL,,CON,Gregory G. Hansen,9
+Rich,Laketown #4,ATTORNEY GENERAL,,DEM,Charles A. Stormont,16
+Rich,Laketown #4,ATTORNEY GENERAL,,REP,Sean D. Reyes,125
+Rich,Laketown #4,ATTORNEY GENERAL,,IAP,Leslie D. Curtis,2
+Rich,Garden City #5,ATTORNEY GENERAL,,LIB,W. Andrew McCullough,9
+Rich,Garden City #5,ATTORNEY GENERAL,,CON,Gregory G. Hansen,9
+Rich,Garden City #5,ATTORNEY GENERAL,,DEM,Charles A. Stormont,25
+Rich,Garden City #5,ATTORNEY GENERAL,,REP,Sean D. Reyes,162
+Rich,Garden City #5,ATTORNEY GENERAL,,IAP,Leslie D. Curtis,13
+Rich,Woodruff #1,STATE REP,D53,DEM,Ray L. Worthen,9
+Rich,Woodruff #1,STATE REP,D54,REP,Melvin R. Brown,84
+Rich,Randolph South #2,STATE REP,D55,DEM,Ray L. Worthen,11
+Rich,Randolph South #2,STATE REP,D56,REP,Melvin R. Brown,89
+Rich,Randolph North #3,STATE REP,D57,DEM,Ray L. Worthen,17
+Rich,Randolph North #3,STATE REP,D58,REP,Melvin R. Brown,141
+Rich,Laketown #4,STATE REP,D59,DEM,Ray L. Worthen,18
+Rich,Laketown #4,STATE REP,D60,REP,Melvin R. Brown,141
+Rich,Garden City #5,STATE REP,D61,DEM,Ray L. Worthen,36
+Rich,Garden City #5,STATE REP,D62,REP,Melvin R. Brown,183
