@@ -1,0 +1,481 @@
+county,precinct,office,district,candidate,party,election_day,provisional,absentee,paper,early,mail,votes
+Carbon,Scofield,Registered Voters,,,,,,,,,,29
+Carbon,Scofield,Ballots Cast,,,,19,0,2,0,0,0,21
+Carbon,Scofield,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,Scofield,Straight,,,IAP,0,0,0,0,0,0,0
+Carbon,Scofield,Straight,,,REP,3,0,1,0,0,0,4
+Carbon,Scofield,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,Scofield,Straight,,,DEM,2,0,0,0,0,0,2
+Carbon,Scofield,U.S. House,3,Mates,,1,0,0,0,0,0,1
+Carbon,Scofield,U.S. House,3,Wonnacott,DEM,7,0,1,0,0,0,8
+Carbon,Scofield,U.S. House,3,Strong,IAP,0,0,0,0,0,0,0
+Carbon,Scofield,U.S. House,3,Chaffetz,REP,11,0,1,0,0,0,12
+Carbon,Scofield,U.S. House,3,Tryon,,0,0,0,0,0,0,0
+Carbon,Scofield,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Scofield,Attorney General,,McCullough ,LIB,0,0,0,0,0,0,0
+Carbon,Scofield,Attorney General,,Hansen,CON,0,0,0,0,0,0,0
+Carbon,Scofield,Attorney General,,Stormont,DEM,10,0,1,0,0,0,11
+Carbon,Scofield,Attorney General,,Reyes,REP,8,0,1,0,0,0,9
+Carbon,Scofield,Attorney General,,Curtis,IAP,1,0,0,0,0,0,1
+Carbon,Scofield,State House,69,Labrum,REP,7,0,1,0,0,0,8
+Carbon,Scofield,State House,69,King,DEM,11,0,1,0,0,0,12
+Carbon,Pleasant Valley,Registered Voters,,,,,,,,,,15
+Carbon,Pleasant Valley,Ballots Cast,,,,8,0,3,0,0,0,11
+Carbon,Pleasant Valley,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,Pleasant Valley,Straight,,,IAP,0,0,0,0,0,0,0
+Carbon,Pleasant Valley,Straight,,,REP,2,0,0,0,0,0,2
+Carbon,Pleasant Valley,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,Pleasant Valley,Straight,,,DEM,3,0,1,0,0,0,4
+Carbon,Pleasant Valley,U.S. House,3,Mates,,0,0,1,0,0,0,1
+Carbon,Pleasant Valley,U.S. House,3,Wonnacott,DEM,4,0,2,0,0,0,6
+Carbon,Pleasant Valley,U.S. House,3,Strong,IAP,0,0,0,0,0,0,0
+Carbon,Pleasant Valley,U.S. House,3,Chaffetz,REP,4,0,0,0,0,0,4
+Carbon,Pleasant Valley,U.S. House,3,Tryon,,0,0,0,0,0,0,0
+Carbon,Pleasant Valley,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Pleasant Valley,Attorney General,,McCullough ,LIB,0,0,0,0,0,0,0
+Carbon,Pleasant Valley,Attorney General,,Hansen,CON,0,0,0,0,0,0,0
+Carbon,Pleasant Valley,Attorney General,,Stormont,DEM,3,0,3,0,0,0,6
+Carbon,Pleasant Valley,Attorney General,,Reyes,REP,5,0,0,0,0,0,5
+Carbon,Pleasant Valley,Attorney General,,Curtis,IAP,0,0,0,0,0,0,0
+Carbon,Pleasant Valley,State House,69,Labrum,REP,3,0,0,0,0,0,3
+Carbon,Pleasant Valley,State House,69,King,DEM,5,0,3,0,0,0,8
+Carbon,East Helper,Registered Voters,,,,,,,,,,568
+Carbon,East Helper,Ballots Cast,,,,147,10,38,10,72,0,277
+Carbon,East Helper,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,East Helper,Straight,,,IAP,2,0,0,0,0,0,2
+Carbon,East Helper,Straight,,,REP,6,0,2,0,0,0,8
+Carbon,East Helper,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,East Helper,Straight,,,DEM,17,2,6,0,9,0,34
+Carbon,East Helper,U.S. House,3,Mates,,1,0,1,0,2,0,4
+Carbon,East Helper,U.S. House,3,Wonnacott,DEM,58,6,22,7,36,0,129
+Carbon,East Helper,U.S. House,3,Strong,IAP,10,0,1,0,4,0,15
+Carbon,East Helper,U.S. House,3,Chaffetz,REP,61,2,7,3,22,0,95
+Carbon,East Helper,U.S. House,3,Tryon,,11,2,7,0,4,0,24
+Carbon,East Helper,U.S. House,3,Write-In Votes,,3,0,0,0,0,0,3
+Carbon,East Helper,Attorney General,,McCullough ,LIB,5,0,0,0,3,0,8
+Carbon,East Helper,Attorney General,,Hansen,CON,4,0,1,0,2,0,7
+Carbon,East Helper,Attorney General,,Stormont,DEM,64,7,27,7,40,0,145
+Carbon,East Helper,Attorney General,,Reyes,REP,59,3,8,2,19,0,91
+Carbon,East Helper,Attorney General,,Curtis,IAP,11,0,2,0,2,0,15
+Carbon,East Helper,State House,69,Labrum,REP,31,2,6,0,6,0,45
+Carbon,East Helper,State House,69,King,DEM,113,8,32,9,66,0,228
+Carbon,Wellington South,Registered Voters,,,,,,,,,,439
+Carbon,Wellington South,Ballots Cast,,,,166,6,8,0,49,0,229
+Carbon,Wellington South,Straight,,,LIB,0,0,0,0,1,0,1
+Carbon,Wellington South,Straight,,,IAP,1,0,1,0,0,0,2
+Carbon,Wellington South,Straight,,,REP,13,2,0,0,2,0,17
+Carbon,Wellington South,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,Wellington South,Straight,,,DEM,12,1,0,0,5,0,18
+Carbon,Wellington South,U.S. House,3,Mates,,3,0,0,0,0,0,3
+Carbon,Wellington South,U.S. House,3,Wonnacott,DEM,46,0,2,0,13,0,61
+Carbon,Wellington South,U.S. House,3,Strong,IAP,8,1,1,0,0,0,10
+Carbon,Wellington South,U.S. House,3,Chaffetz,REP,90,5,4,0,31,0,130
+Carbon,Wellington South,U.S. House,3,Tryon,,9,0,1,0,2,0,12
+Carbon,Wellington South,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Wellington South,Attorney General,,McCullough ,LIB,3,1,0,0,3,0,7
+Carbon,Wellington South,Attorney General,,Hansen,CON,4,0,0,0,1,0,5
+Carbon,Wellington South,Attorney General,,Stormont,DEM,44,0,3,0,13,0,60
+Carbon,Wellington South,Attorney General,,Reyes,REP,97,4,5,0,24,0,130
+Carbon,Wellington South,Attorney General,,Curtis,IAP,11,1,0,0,4,0,16
+Carbon,Wellington South,State House,69,Labrum,REP,53,4,3,0,18,0,78
+Carbon,Wellington South,State House,69,King,DEM,111,2,5,0,27,0,145
+Carbon,Indian Hills,Registered Voters,,,,,,,,,,244
+Carbon,Indian Hills,Ballots Cast,,,,33,5,5,0,15,0,58
+Carbon,Indian Hills,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,Indian Hills,Straight,,,IAP,1,0,0,0,1,0,2
+Carbon,Indian Hills,Straight,,,REP,4,0,2,0,2,0,8
+Carbon,Indian Hills,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,Indian Hills,Straight,,,DEM,7,0,0,0,0,0,7
+Carbon,Indian Hills,U.S. House,3,Mates,,0,0,0,0,0,0,0
+Carbon,Indian Hills,U.S. House,3,Wonnacott,DEM,11,1,0,0,4,0,16
+Carbon,Indian Hills,U.S. House,3,Strong,IAP,3,0,0,0,2,0,5
+Carbon,Indian Hills,U.S. House,3,Chaffetz,REP,16,3,3,0,8,0,30
+Carbon,Indian Hills,U.S. House,3,Tryon,,1,1,1,0,0,0,3
+Carbon,Indian Hills,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Indian Hills,Attorney General,,McCullough ,LIB,2,0,0,0,1,0,3
+Carbon,Indian Hills,Attorney General,,Hansen,CON,0,1,0,0,1,0,2
+Carbon,Indian Hills,Attorney General,,Stormont,DEM,10,0,0,0,3,0,13
+Carbon,Indian Hills,Attorney General,,Reyes,REP,16,3,3,0,8,0,30
+Carbon,Indian Hills,Attorney General,,Curtis,IAP,3,1,,0,2,0,6
+Carbon,Indian Hills,State House,69,Labrum,REP,19,4,3,0,9,0,35
+Carbon,Indian Hills,State House,69,King,DEM,14,1,2,0,5,0,22
+Carbon,East Price,Registered Voters,,,,,,,,,,675
+Carbon,East Price,Ballots Cast,,,,132,4,20,0,107,0,263
+Carbon,East Price,Straight,,,LIB,1,0,0,0,2,0,3
+Carbon,East Price,Straight,,,IAP,2,0,0,0,0,0,2
+Carbon,East Price,Straight,,,REP,7,0,2,0,9,0,18
+Carbon,East Price,Straight,,,CON,1,0,0,0,1,0,2
+Carbon,East Price,Straight,,,DEM,11,0,1,0,10,0,22
+Carbon,East Price,U.S. House,3,Mates,,1,0,0,0,3,0,4
+Carbon,East Price,U.S. House,3,Wonnacott,DEM,44,1,10,0,44,0,99
+Carbon,East Price,U.S. House,3,Strong,IAP,5,0,0,0,3,0,8
+Carbon,East Price,U.S. House,3,Chaffetz,REP,63,2,7,0,42,0,114
+Carbon,East Price,U.S. House,3,Tryon,,16,0,1,0,11,0,28
+Carbon,East Price,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,East Price,Attorney General,,McCullough ,LIB,8,0,0,0,10,0,18
+Carbon,East Price,Attorney General,,Hansen,CON,7,0,0,0,5,0,12
+Carbon,East Price,Attorney General,,Stormont,DEM,39,1,10,0,38,0,88
+Carbon,East Price,Attorney General,,Reyes,REP,65,2,8,0,44,0,119
+Carbon,East Price,Attorney General,,Curtis,IAP,7,0,0,0,8,0,15
+Carbon,East Price,State House,69,Labrum,REP,34,0,6,0,18,0,58
+Carbon,East Price,State House,69,King,DEM,97,3,14,0,86,0,200
+Carbon,South Price,Registered Voters,,,,,,,,,,513
+Carbon,South Price,Ballots Cast,,,,148,12,36,1,71,0,268
+Carbon,South Price,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,South Price,Straight,,,IAP,2,1,0,0,1,0,4
+Carbon,South Price,Straight,,,REP,11,1,0,0,6,0,18
+Carbon,South Price,Straight,,,CON,1,0,0,0,0,0,1
+Carbon,South Price,Straight,,,DEM,7,1,1,0,2,0,11
+Carbon,South Price,U.S. House,3,Mates,,2,0,1,0,3,0,6
+Carbon,South Price,U.S. House,3,Wonnacott,DEM,43,1,17,0,28,0,89
+Carbon,South Price,U.S. House,3,Strong,IAP,6,1,2,0,5,0,14
+Carbon,South Price,U.S. House,3,Chaffetz,REP,87,8,11,0,30,0,136
+Carbon,South Price,U.S. House,3,Tryon,,3,0,4,1,4,0,12
+Carbon,South Price,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,South Price,Attorney General,,McCullough ,LIB,6,0,1,1,1,0,9
+Carbon,South Price,Attorney General,,Hansen,CON,7,1,2,0,4,0,14
+Carbon,South Price,Attorney General,,Stormont,DEM,38,1,16,0,34,0,89
+Carbon,South Price,Attorney General,,Reyes,REP,78,8,17,0,25,0,128
+Carbon,South Price,Attorney General,,Curtis,IAP,12,0,0,0,6,0,18
+Carbon,South Price,State House,69,Labrum,REP,48,3,10,1,15,0,77
+Carbon,South Price,State House,69,King,DEM,99,9,26,0,54,0,188
+Carbon,Wellington North,Registered Voters,,,,,,,,,,389
+Carbon,Wellington North,Ballots Cast,,,,137,3,12,0,57,0,209
+Carbon,Wellington North,Straight,,,LIB,1,0,0,0,0,0,1
+Carbon,Wellington North,Straight,,,IAP,2,1,0,0,0,0,3
+Carbon,Wellington North,Straight,,,REP,17,0,0,0,5,0,22
+Carbon,Wellington North,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,Wellington North,Straight,,,DEM,5,0,0,0,4,0,9
+Carbon,Wellington North,U.S. House,3,Mates,,3,0,0,0,0,0,0
+Carbon,Wellington North,U.S. House,3,Wonnacott,DEM,36,0,4,0,15,0,55
+Carbon,Wellington North,U.S. House,3,Strong,IAP,8,0,1,0,1,0,10
+Carbon,Wellington North,U.S. House,3,Chaffetz,REP,77,2,6,0,36,0,121
+Carbon,Wellington North,U.S. House,3,Tryon,,5,1,1,0,2,0,9
+Carbon,Wellington North,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Wellington North,Attorney General,,McCullough ,LIB,5,0,0,0,0,0,5
+Carbon,Wellington North,Attorney General,,Hansen,CON,3,1,0,0,2,0,6
+Carbon,Wellington North,Attorney General,,Stormont,DEM,32,0,2,0,18,0,52
+Carbon,Wellington North,Attorney General,,Reyes,REP,81,1,8,0,31,0,121
+Carbon,Wellington North,Attorney General,,Curtis,IAP,10,1,2,0,4,0,17
+Carbon,Wellington North,State House,69,Labrum,REP,53,3,6,0,18,0,80
+Carbon,Wellington North,State House,69,King,DEM,81,0,6,0,38,0,125
+Carbon,Sunnyside,Registered Voters,,,,,,,,,,199
+Carbon,Sunnyside,Ballots Cast,,,,71,0,14,0,10,0,95
+Carbon,Sunnyside,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,Sunnyside,Straight,,,IAP,0,0,0,0,0,0,0
+Carbon,Sunnyside,Straight,,,REP,6,0,3,0,1,0,10
+Carbon,Sunnyside,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,Sunnyside,Straight,,,DEM,5,0,3,0,1,0,9
+Carbon,Sunnyside,U.S. House,3,Mates,,1,0,0,0,0,0,1
+Carbon,Sunnyside,U.S. House,3,Wonnacott,DEM,29,0,5,0,3,0,37
+Carbon,Sunnyside,U.S. House,3,Strong,IAP,3,0,0,0,0,0,3
+Carbon,Sunnyside,U.S. House,3,Chaffetz,REP,33,0,8,0,4,0,45
+Carbon,Sunnyside,U.S. House,3,Tryon,,3,0,0,0,1,0,4
+Carbon,Sunnyside,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Sunnyside,Attorney General,,McCullough ,LIB,6,0,0,0,0,0,6
+Carbon,Sunnyside,Attorney General,,Hansen,CON,2,0,0,0,1,0,3
+Carbon,Sunnyside,Attorney General,,Stormont,DEM,29,0,5,0,4,0,38
+Carbon,Sunnyside,Attorney General,,Reyes,REP,29,0,8,0,3,0,40
+Carbon,Sunnyside,Attorney General,,Curtis,IAP,2,0,0,0,1,0,3
+Carbon,Sunnyside,State House,69,Labrum,REP,21,0,3,0,2,0,26
+Carbon,Sunnyside,State House,69,King,DEM,48,0,11,0,7,0,66
+Carbon,West Helper,Registered Voters,,,,,,,,,,644
+Carbon,West Helper,Ballots Cast,,,,205,4,17,0,102,0,328
+Carbon,West Helper,Straight,,,LIB,1,0,0,0,0,0,1
+Carbon,West Helper,Straight,,,IAP,5,0,0,0,1,0,6
+Carbon,West Helper,Straight,,,REP,16,0,1,0,9,0,26
+Carbon,West Helper,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,West Helper,Straight,,,DEM,31,0,2,0,14,0,47
+Carbon,West Helper,U.S. House,3,Mates,,2,0,0,0,1,0,3
+Carbon,West Helper,U.S. House,3,Wonnacott,DEM,91,0,6,0,54,0,151
+Carbon,West Helper,U.S. House,3,Strong,IAP,7,0,0,0,4,0,11
+Carbon,West Helper,U.S. House,3,Chaffetz,REP,82,3,8,0,28,0,121
+Carbon,West Helper,U.S. House,3,Tryon,,14,0,1,0,8,0,23
+Carbon,West Helper,U.S. House,3,Write-In Votes,,1,0,0,0,0,0,1
+Carbon,West Helper,Attorney General,,McCullough ,LIB,4,0,0,0,3,0,7
+Carbon,West Helper,Attorney General,,Hansen,CON,4,0,0,0,1,0,5
+Carbon,West Helper,Attorney General,,Stormont,DEM,100,1,8,0,57,0,166
+Carbon,West Helper,Attorney General,,Reyes,REP,76,2,6,0,30,0,114
+Carbon,West Helper,Attorney General,,Curtis,IAP,12,0,1,0,3,0,16
+Carbon,West Helper,State House,69,Labrum,REP,48,2,2,0,22,0,74
+Carbon,West Helper,State House,69,King,DEM,152,2,15,0,74,0,243
+Carbon,East County,Registered Voters,,,,,,,,,,692
+Carbon,East County,Ballots Cast,,,,205,15,37,0,143,0,400
+Carbon,East County,Straight,,,LIB,1,0,0,0,0,0,1
+Carbon,East County,Straight,,,IAP,1,0,1,0,2,0,4
+Carbon,East County,Straight,,,REP,16,0,6,0,14,0,36
+Carbon,East County,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,East County,Straight,,,DEM,10,1,3,0,2,0,16
+Carbon,East County,U.S. House,3,Mates,,4,2,0,0,0,0,6
+Carbon,East County,U.S. House,3,Wonnacott,DEM,45,2,7,0,25,0,79
+Carbon,East County,U.S. House,3,Strong,IAP,8,0,1,0,3,0,12
+Carbon,East County,U.S. House,3,Chaffetz,REP,120,8,27,0,91,0,246
+Carbon,East County,U.S. House,3,Tryon,,16,1,2,0,10,0,29
+Carbon,East County,U.S. House,3,Write-In Votes,,1,0,0,0,1,0,2
+Carbon,East County,Attorney General,,McCullough ,LIB,6,0,0,0,3,0,9
+Carbon,East County,Attorney General,,Hansen,CON,8,3,1,0,6,0,18
+Carbon,East County,Attorney General,,Stormont,DEM,42,5,11,0,26,0,84
+Carbon,East County,Attorney General,,Reyes,REP,128,6,22,0,84,0,240
+Carbon,East County,Attorney General,,Curtis,IAP,10,0,1,0,11,0,22
+Carbon,East County,State House,69,Labrum,REP,83,3,14,0,53,0,153
+Carbon,East County,State House,69,King,DEM,118,11,21,0,85,0,235
+Carbon,East Carbon North,Registered Voters,,,,,,,,,,341
+Carbon,East Carbon North,Ballots Cast,,,,123,0,6,0,14,0,143
+Carbon,East Carbon North,Straight,,,LIB,1,0,0,0,0,0,1
+Carbon,East Carbon North,Straight,,,IAP,2,0,0,0,0,0,2
+Carbon,East Carbon North,Straight,,,REP,10,0,0,0,3,0,13
+Carbon,East Carbon North,Straight,,,CON,1,0,0,0,0,0,1
+Carbon,East Carbon North,Straight,,,DEM,30,0,0,0,2,0,32
+Carbon,East Carbon North,U.S. House,3,Mates,,4,0,0,0,0,0,4
+Carbon,East Carbon North,U.S. House,3,Wonnacott,DEM,50,0,6,0,3,0,59
+Carbon,East Carbon North,U.S. House,3,Strong,IAP,7,0,0,0,0,0,7
+Carbon,East Carbon North,U.S. House,3,Chaffetz,REP,53,0,0,0,11,0,64
+Carbon,East Carbon North,U.S. House,3,Tryon,,4,0,0,0,0,0,4
+Carbon,East Carbon North,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,East Carbon North,Attorney General,,McCullough ,LIB,5,0,0,0,1,0,6
+Carbon,East Carbon North,Attorney General,,Hansen,CON,8,0,0,0,0,0,8
+Carbon,East Carbon North,Attorney General,,Stormont,DEM,55,0,6,0,4,0,65
+Carbon,East Carbon North,Attorney General,,Reyes,REP,41,0,0,0,9,0,50
+Carbon,East Carbon North,Attorney General,,Curtis,IAP,9,0,0,0,0,0,9
+Carbon,East Carbon North,State House,69,Labrum,REP,26,0,0,0,5,0,31
+Carbon,East Carbon North,State House,69,King,DEM,95,0,6,0,9,0,110
+Carbon,East Carbon South,Registered Voters,,,,,,,,,,388
+Carbon,East Carbon South,Ballots Cast,,,,138,7,10,0,15,0,170
+Carbon,East Carbon South,Straight,,,LIB,1,0,0,0,0,0,1
+Carbon,East Carbon South,Straight,,,IAP,1,1,0,0,0,0,2
+Carbon,East Carbon South,Straight,,,REP,22,0,1,0,5,0,28
+Carbon,East Carbon South,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,East Carbon South,Straight,,,DEM,33,0,3,0,2,0,38
+Carbon,East Carbon South,U.S. House,3,Mates,,1,0,0,0,0,0,1
+Carbon,East Carbon South,U.S. House,3,Wonnacott,DEM,64,1,5,0,2,0,72
+Carbon,East Carbon South,U.S. House,3,Strong,IAP,3,1,0,0,2,0,6
+Carbon,East Carbon South,U.S. House,3,Chaffetz,REP,60,3,5,0,10,0,78
+Carbon,East Carbon South,U.S. House,3,Tryon,,3,0,0,0,1,0,4
+Carbon,East Carbon South,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,East Carbon South,Attorney General,,McCullough ,LIB,3,0,1,0,0,0,4
+Carbon,East Carbon South,Attorney General,,Hansen,CON,3,1,1,0,0,0,3
+Carbon,East Carbon South,Attorney General,,Stormont,DEM,60,0,4,0,3,0,67
+Carbon,East Carbon South,Attorney General,,Reyes,REP,41,0,0,0,9,0,50
+Carbon,East Carbon South,Attorney General,,Curtis,IAP,9,0,0,0,0,0,9
+Carbon,East Carbon South,State House,69,Labrum,REP,39,2,3,0,7,0,51
+Carbon,East Carbon South,State House,69,King,DEM,90,4,7,0,8,0,109
+Carbon,Fairgrounds,Registered Voters,,,,,,,,,,259
+Carbon,Fairgrounds,Ballots Cast,,,,106,4,7,0,40,0,157
+Carbon,Fairgrounds,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,Fairgrounds,Straight,,,IAP,0,0,0,0,0,0,0
+Carbon,Fairgrounds,Straight,,,REP,9,0,0,0,3,0,12
+Carbon,Fairgrounds,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,Fairgrounds,Straight,,,DEM,6,0,0,0,3,0,9
+Carbon,Fairgrounds,U.S. House,3,Mates,,1,0,0,0,1,0,2
+Carbon,Fairgrounds,U.S. House,3,Wonnacott,DEM,27,1,1,0,17,0,46
+Carbon,Fairgrounds,U.S. House,3,Strong,IAP,1,0,0,0,1,0,2
+Carbon,Fairgrounds,U.S. House,3,Chaffetz,REP,75,3,6,0,15,0,99
+Carbon,Fairgrounds,U.S. House,3,Tryon,,1,0,0,0,4,0,5
+Carbon,Fairgrounds,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Fairgrounds,Attorney General,,McCullough ,LIB,9,0,0,0,0,0,9
+Carbon,Fairgrounds,Attorney General,,Hansen,CON,4,1,0,0,3,0,8
+Carbon,Fairgrounds,Attorney General,,Stormont,DEM,24,0,1,0,15,0,40
+Carbon,Fairgrounds,Attorney General,,Reyes,REP,63,1,6,0,16,0,86
+Carbon,Fairgrounds,Attorney General,,Curtis,IAP,3,1,0,0,2,0,6
+Carbon,Fairgrounds,State House,69,Labrum,REP,34,0,5,0,8,0,47
+Carbon,Fairgrounds,State House,69,King,DEM,71,4,2,0,32,0,109
+Carbon,Castle Heights North,Registered Voters,,,,,,,,,,731
+Carbon,Castle Heights North,Ballots Cast,,,,225,9,39,0,166,0,439
+Carbon,Castle Heights North,Straight,,,LIB,1,0,0,0,1,0,2
+Carbon,Castle Heights North,Straight,,,IAP,3,0,1,0,0,0,4
+Carbon,Castle Heights North,Straight,,,REP,14,2,2,0,6,0,24
+Carbon,Castle Heights North,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,Castle Heights North,Straight,,,DEM,4,1,1,0,8,0,14
+Carbon,Castle Heights North,U.S. House,3,Mates,,5,0,0,0,1,0,6
+Carbon,Castle Heights North,U.S. House,3,Wonnacott,DEM,37,3,13,0,49,0,102
+Carbon,Castle Heights North,U.S. House,3,Strong,IAP,11,0,4,0,3,0,18
+Carbon,Castle Heights North,U.S. House,3,Chaffetz,REP,149,6,19,0,93,0,267
+Carbon,Castle Heights North,U.S. House,3,Tryon,,7,0,3,0,7,0,17
+Carbon,Castle Heights North,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights North,Attorney General,,McCullough ,LIB,3,0,1,0,5,0,9
+Carbon,Castle Heights North,Attorney General,,Hansen,CON,12,1,2,0,5,0,20
+Carbon,Castle Heights North,Attorney General,,Stormont,DEM,41,2,9,0,48,0,100
+Carbon,Castle Heights North,Attorney General,,Reyes,REP,148,6,23,0,96,0,273
+Carbon,Castle Heights North,Attorney General,,Curtis,IAP,13,0,3,0,4,0,20
+Carbon,Castle Heights North,State House,69,Labrum,REP,57,4,9,0,24,0,94
+Carbon,Castle Heights North,State House,69,King,DEM,166,5,28,0,140,0,339
+Carbon,Central Price,Registered Voters,,,,,,,,,,427
+Carbon,Central Price,Ballots Cast,,,,104,6,24,0,72,0,206
+Carbon,Central Price,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,Central Price,Straight,,,IAP,0,0,0,0,2,0,2
+Carbon,Central Price,Straight,,,REP,8,2,1,0,2,0,13
+Carbon,Central Price,Straight,,,CON,0,0,0,0,1,0,1
+Carbon,Central Price,Straight,,,DEM,8,0,3,0,6,0,17
+Carbon,Central Price,U.S. House,3,Mates,,1,0,0,0,1,0,2
+Carbon,Central Price,U.S. House,3,Wonnacott,DEM,30,1,8,0,22,0,61
+Carbon,Central Price,U.S. House,3,Strong,IAP,6,0,1,0,7,0,14
+Carbon,Central Price,U.S. House,3,Chaffetz,REP,51,5,12,0,30,0,98
+Carbon,Central Price,U.S. House,3,Tryon,,8,0,2,0,10,0,20
+Carbon,Central Price,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Central Price,Attorney General,,McCullough ,LIB,1,0,1,0,3,0,5
+Carbon,Central Price,Attorney General,,Hansen,CON,4,0,1,0,6,0,11
+Carbon,Central Price,Attorney General,,Stormont,DEM,34,1,9,0,22,0,66
+Carbon,Central Price,Attorney General,,Reyes,REP,52,5,10,0,32,0,99
+Carbon,Central Price,Attorney General,,Curtis,IAP,6,0,2,0,8,0,16
+Carbon,Central Price,State House,69,Labrum,REP,34,2,7,0,16,0,59
+Carbon,Central Price,State House,69,King,DEM,66,4,16,0,56,0,142
+Carbon,North East Price,Registered Voters,,,,,,,,,,661
+Carbon,North East Price,Ballots Cast,,,,156,11,20,0,103,0,290
+Carbon,North East Price,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,North East Price,Straight,,,IAP,1,0,0,0,0,0,1
+Carbon,North East Price,Straight,,,REP,10,4,2,0,2,0,18
+Carbon,North East Price,Straight,,,CON,0,0,0,0,1,0,1
+Carbon,North East Price,Straight,,,DEM,9,2,0,0,6,0,17
+Carbon,North East Price,U.S. House,3,Mates,,2,0,0,0,2,0,4
+Carbon,North East Price,U.S. House,3,Wonnacott,DEM,48,2,6,0,30,0,86
+Carbon,North East Price,U.S. House,3,Strong,IAP,8,0,1,0,6,0,15
+Carbon,North East Price,U.S. House,3,Chaffetz,REP,81,9,10,0,52,0,152
+Carbon,North East Price,U.S. House,3,Tryon,,10,0,3,0,12,0,25
+Carbon,North East Price,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,North East Price,Attorney General,,McCullough ,LIB,7,0,0,0,3,0,10
+Carbon,North East Price,Attorney General,,Hansen,CON,6,0,0,0,0,1,7
+Carbon,North East Price,Attorney General,,Stormont,DEM,46,2,11,0,32,0,91
+Carbon,North East Price,Attorney General,,Reyes,REP,81,8,7,0,59,0,155
+Carbon,North East Price,Attorney General,,Curtis,IAP,7,1,2,0,5,0,15
+Carbon,North East Price,State House,69,Labrum,REP,38,6,3,0,25,0,72
+Carbon,North East Price,State House,69,King,DEM,116,5,17,0,78,0,216
+Carbon,North Price,Registered Voters,,,,,,,,,,531
+Carbon,North Price,Ballots Cast,,,,159,4,27,0,134,0,324
+Carbon,North Price,Straight,,,LIB,0,0,0,0,1,0,1
+Carbon,North Price,Straight,,,IAP,0,0,0,0,1,0,1
+Carbon,North Price,Straight,,,REP,8,0,1,0,10,0,19
+Carbon,North Price,Straight,,,CON,1,0,0,0,0,0,1
+Carbon,North Price,Straight,,,DEM,3,0,4,0,7,0,14
+Carbon,North Price,U.S. House,3,Mates,,1,0,0,0,2,0,3
+Carbon,North Price,U.S. House,3,Wonnacott,DEM,46,0,10,0,43,0,99
+Carbon,North Price,U.S. House,3,Strong,IAP,11,1,0,0,5,0,17
+Carbon,North Price,U.S. House,3,Chaffetz,REP,90,1,15,0,69,0,175
+Carbon,North Price,U.S. House,3,Tryon,,4,1,1,0,8,0,14
+Carbon,North Price,U.S. House,3,Write-In Votes,,0,0,1,0,1,0,2
+Carbon,North Price,Attorney General,,McCullough ,LIB,5,1,4,0,5,0,15
+Carbon,North Price,Attorney General,,Hansen,CON,10,0,0,0,3,0,13
+Carbon,North Price,Attorney General,,Stormont,DEM,35,1,11,0,49,0,96
+Carbon,North Price,Attorney General,,Reyes,REP,88,0,11,0,68,0,167
+Carbon,North Price,Attorney General,,Curtis,IAP,10,1,1,0,4,0,16
+Carbon,North Price,State House,69,Labrum,REP,36,1,9,0,34,0,80
+Carbon,North Price,State House,69,King,DEM,119,3,18,0,99,0,239
+Carbon,Castle Heights ,Registered Voters,,,,,,,,,,638
+Carbon,Castle Heights ,Ballots Cast,,,,185,11,22,0,110,0,328
+Carbon,Castle Heights ,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,Castle Heights ,Straight,,,IAP,4,0,0,0,0,0,4
+Carbon,Castle Heights ,Straight,,,REP,17,1,3,0,5,0,26
+Carbon,Castle Heights ,Straight,,,CON,1,1,0,0,0,0,2
+Carbon,Castle Heights ,Straight,,,DEM,9,0,3,0,3,0,15
+Carbon,Castle Heights ,U.S. House,3,Mates,,5,0,0,0,1,0,6
+Carbon,Castle Heights ,U.S. House,3,Wonnacott,DEM,38,1,8,0,34,0,81
+Carbon,Castle Heights ,U.S. House,3,Strong,IAP,11,0,0,0,4,0,15
+Carbon,Castle Heights ,U.S. House,3,Chaffetz,REP,120,7,13,0,68,0,208
+Carbon,Castle Heights ,U.S. House,3,Tryon,,5,2,0,0,3,0,10
+Carbon,Castle Heights ,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights ,Attorney General,,McCullough ,LIB,2,0,0,0,6,0,8
+Carbon,Castle Heights ,Attorney General,,Hansen,CON,12,0,0,0,1,0,13
+Carbon,Castle Heights ,Attorney General,,Stormont,DEM,39,1,9,0,28,0,77
+Carbon,Castle Heights ,Attorney General,,Reyes,REP,115,10,12,0,69,0,206
+Carbon,Castle Heights ,Attorney General,,Curtis,IAP,9,0,0,0,2,0,11
+Carbon,Castle Heights ,State House,69,Labrum,REP,41,5,9,0,21,0,76
+Carbon,Castle Heights ,State House,69,King,DEM,142,6,12,0,89,0,249
+Carbon,South County,Registered Voters,,,,,,,,,,590
+Carbon,South County,Ballots Cast,,,,158,7,28,0,118,0,311
+Carbon,South County,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,South County,Straight,,,IAP,1,1,0,0,0,0,2
+Carbon,South County,Straight,,,REP,12,0,1,0,8,0,21
+Carbon,South County,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,South County,Straight,,,DEM,5,0,2,0,5,0,12
+Carbon,South County,U.S. House,3,Mates,,2,0,0,0,0,0,2
+Carbon,South County,U.S. House,3,Wonnacott,DEM,33,1,8,0,40,0,82
+Carbon,South County,U.S. House,3,Strong,IAP,7,0,3,0,4,0,14
+Carbon,South County,U.S. House,3,Chaffetz,REP,99,4,15,0,64,0,182
+Carbon,South County,U.S. House,3,Tryon,,9,2,2,0,3,0,16
+Carbon,South County,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,South County,Attorney General,,McCullough ,LIB,7,0,6,0,5,0,18
+Carbon,South County,Attorney General,,Hansen,CON,7,0,0,0,3,0,10
+Carbon,South County,Attorney General,,Stormont,DEM,31,1,7,0,32,0,71
+Carbon,South County,Attorney General,,Reyes,REP,87,3,12,0,67,0,169
+Carbon,South County,Attorney General,,Curtis,IAP,12,3,3,0,5,0,23
+Carbon,South County,State House,69,Labrum,REP,56,3,8,0,41,0,108
+Carbon,South County,State House,69,King,DEM,98,4,20,0,75,0,197
+Carbon,Spring Glen,Registered Voters,,,,,,,,,,830
+Carbon,Spring Glen,Ballots Cast,,,,293,6,37,0,135,0,471
+Carbon,Spring Glen,Straight,,,LIB,1,0,0,0,0,0,1
+Carbon,Spring Glen,Straight,,,IAP,2,1,0,0,1,0,4
+Carbon,Spring Glen,Straight,,,REP,17,0,2,0,10,0,29
+Carbon,Spring Glen,Straight,,,CON,1,0,0,0,0,0,1
+Carbon,Spring Glen,Straight,,,DEM,24,1,2,0,10,0,37
+Carbon,Spring Glen,U.S. House,3,Mates,,5,0,0,0,1,0,6
+Carbon,Spring Glen,U.S. House,3,Wonnacott,DEM,108,1,10,0,50,0,169
+Carbon,Spring Glen,U.S. House,3,Strong,IAP,11,1,2,0,2,0,16
+Carbon,Spring Glen,U.S. House,3,Chaffetz,REP,141,3,23,0,71,0,238
+Carbon,Spring Glen,U.S. House,3,Tryon,,15,1,1,0,4,0,21
+Carbon,Spring Glen,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Spring Glen,Attorney General,,McCullough ,LIB,15,0,0,0,8,0,23
+Carbon,Spring Glen,Attorney General,,Hansen,CON,14,0,2,0,1,0,17
+Carbon,Spring Glen,Attorney General,,Stormont,DEM,96,2,9,0,51,0,158
+Carbon,Spring Glen,Attorney General,,Reyes,REP,146,3,23,0,59,0,231
+Carbon,Spring Glen,Attorney General,,Curtis,IAP,11,1,2,0,7,0,21
+Carbon,Spring Glen,State House,69,Labrum,REP,91,2,14,0,46,0,153
+Carbon,Spring Glen,State House,69,King,DEM,196,4,23,0,84,0,307
+Carbon,Carbonville,Registered Voters,,,,,,,,,,768
+Carbon,Carbonville,Ballots Cast,,,,189,10,34,0,155,0,388
+Carbon,Carbonville,Straight,,,LIB,2,0,0,0,0,0,2
+Carbon,Carbonville,Straight,,,IAP,0,1,0,0,2,0,3
+Carbon,Carbonville,Straight,,,REP,11,0,1,0,8,0,20
+Carbon,Carbonville,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,Carbonville,Straight,,,DEM,9,0,3,0,11,0,23
+Carbon,Carbonville,U.S. House,3,Mates,,2,0,0,0,2,0,4
+Carbon,Carbonville,U.S. House,3,Wonnacott,DEM,57,6,11,0,42,0,116
+Carbon,Carbonville,U.S. House,3,Strong,IAP,7,1,0,0,5,0,13
+Carbon,Carbonville,U.S. House,3,Chaffetz,REP,103,3,20,0,83,0,209
+Carbon,Carbonville,U.S. House,3,Tryon,,12,0,1,0,8,0,21
+Carbon,Carbonville,U.S. House,3,Write-In Votes,,0,0,1,0,0,0,1
+Carbon,Carbonville,Attorney General,,McCullough ,LIB,5,1,1,0,4,0,11
+Carbon,Carbonville,Attorney General,,Hansen,CON,9,0,0,0,8,0,17
+Carbon,Carbonville,Attorney General,,Stormont,DEM,50,4,14,0,44,0,112
+Carbon,Carbonville,Attorney General,,Reyes,REP,105,3,18,0,80,0,206
+Carbon,Carbonville,Attorney General,,Curtis,IAP,11,1,0,0,9,0,21
+Carbon,Carbonville,State House,69,Labrum,REP,65,1,7,0,42,0,115
+Carbon,Carbonville,State House,69,King,DEM,120,9,27,0,109,0,265
+Carbon,Westwood,Registered Voters,,,,,,,,,,649
+Carbon,Westwood,Ballots Cast,,,,259,11,26,0,116,0,412
+Carbon,Westwood,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,Westwood,Straight,,,IAP,0,0,0,0,2,0,2
+Carbon,Westwood,Straight,,,REP,18,1,3,0,8,0,30
+Carbon,Westwood,Straight,,,CON,1,0,0,0,0,0,1
+Carbon,Westwood,Straight,,,DEM,12,0,1,0,3,0,16
+Carbon,Westwood,U.S. House,3,Mates,,1,1,0,0,0,0,2
+Carbon,Westwood,U.S. House,3,Wonnacott,DEM,56,2,5,0,22,0,85
+Carbon,Westwood,U.S. House,3,Strong,IAP,4,1,2,0,4,0,11
+Carbon,Westwood,U.S. House,3,Chaffetz,REP,182,5,17,0,77,0,281
+Carbon,Westwood,U.S. House,3,Tryon,,8,0,2,0,8,0,18
+Carbon,Westwood,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Westwood,Attorney General,,McCullough ,LIB,8,1,0,0,5,0,14
+Carbon,Westwood,Attorney General,,Hansen,CON,17,0,1,0,2,0,20
+Carbon,Westwood,Attorney General,,Stormont,DEM,53,2,8,0,24,0,87
+Carbon,Westwood,Attorney General,,Reyes,REP,168,6,14,0,76,0,264
+Carbon,Westwood,Attorney General,,Curtis,IAP,6,0,3,0,4,0,13
+Carbon,Westwood,State House,69,Labrum,REP,91,2,7,0,31,0,131
+Carbon,Westwood,State House,69,King,DEM,167,8,19,0,83,0,277
+Carbon,Miller Creek Special,Registered Voters,,,,,,,,,,221
+Carbon,Miller Creek Special,Ballots Cast,,,,57,1,13,0,27,0,98
+Carbon,Miller Creek Special,Straight,,,LIB,0,0,0,0,0,0,0
+Carbon,Miller Creek Special,Straight,,,IAP,0,0,0,0,0,0,0
+Carbon,Miller Creek Special,Straight,,,REP,6,0,0,0,0,0,6
+Carbon,Miller Creek Special,Straight,,,CON,0,0,0,0,0,0,0
+Carbon,Miller Creek Special,Straight,,,DEM,4,0,1,0,4,0,9
+Carbon,Miller Creek Special,U.S. House,3,Mates,,1,0,1,0,0,0,2
+Carbon,Miller Creek Special,U.S. House,3,Wonnacott,DEM,11,1,2,0,9,0,23
+Carbon,Miller Creek Special,U.S. House,3,Strong,IAP,1,0,0,0,0,0,1
+Carbon,Miller Creek Special,U.S. House,3,Chaffetz,REP,40,0,9,0,18,0,67
+Carbon,Miller Creek Special,U.S. House,3,Tryon,,2,0,0,0,0,0,2
+Carbon,Miller Creek Special,U.S. House,3,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Miller Creek Special,Attorney General,,McCullough ,LIB,0,0,0,0,0,0,0
+Carbon,Miller Creek Special,Attorney General,,Hansen,CON,1,0,0,0,0,0,1
+Carbon,Miller Creek Special,Attorney General,,Stormont,DEM,8,1,4,0,9,0,22
+Carbon,Miller Creek Special,Attorney General,,Reyes,REP,39,0,8,0,18,0,65
+Carbon,Miller Creek Special,Attorney General,,Curtis,IAP,2,0,1,0,0,0,3
+Carbon,Miller Creek Special,State House,69,Labrum,REP,23,0,4,0,12,0,39
+Carbon,Miller Creek Special,State House,69,King,DEM,32,1,9,0,15,0,57
