@@ -1,0 +1,246 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Beaver,Beaver 1,Registered Voters,,,,,,,776
+Beaver,Beaver 2,Registered Voters,,,,,,,603
+Beaver,Beaver 3,Registered Voters,,,,,,,431
+Beaver,Beaver 4,Registered Voters,,,,,,,180
+Beaver,Greenville,Registered Voters,,,,,,,122
+Beaver,Milford City 1,Registered Voters,,,,,,,109
+Beaver,Milford City 2,Registered Voters,,,,,,,512
+Beaver,Milford City 3,Registered Voters,,,,,,,115
+Beaver,Minersville,Registered Voters,,,,,,,450
+Beaver,Total,Registered Voters,,,,,,,3298
+Beaver,Beaver 1,Ballots Cast,,,,331,0,32,363
+Beaver,Beaver 2,Ballots Cast,,,,241,1,29,271
+Beaver,Beaver 3,Ballots Cast,,,,178,1,16,195
+Beaver,Beaver 4,Ballots Cast,,,,88,1,9,98
+Beaver,Greenville,Ballots Cast,,,,56,1,3,60
+Beaver,Milford City 1,Ballots Cast,,,,33,0,5,38
+Beaver,Milford City 2,Ballots Cast,,,,214,1,20,235
+Beaver,Milford City 3,Ballots Cast,,,,66,0,0,66
+Beaver,Minersville,Ballots Cast,,,,194,1,38,233
+Beaver,Total,Ballots Cast,,,,1401,6,152,1559
+Beaver,Beaver 1,Straight Party,,Libertarian,,0,0,0,0
+Beaver,Beaver 2,Straight Party,,Libertarian,,1,0,0,1
+Beaver,Beaver 3,Straight Party,,Libertarian,,1,0,0,1
+Beaver,Beaver 4,Straight Party,,Libertarian,,0,0,0,0
+Beaver,Greenville,Straight Party,,Libertarian,,0,0,0,0
+Beaver,Milford City 1,Straight Party,,Libertarian,,1,0,0,1
+Beaver,Milford City 2,Straight Party,,Libertarian,,1,0,0,1
+Beaver,Milford City 3,Straight Party,,Libertarian,,0,0,0,0
+Beaver,Minersville,Straight Party,,Libertarian,,0,0,0,0
+Beaver,Total,Straight Party,,Libertarian,,4,0,0,4
+Beaver,Beaver 1,Straight Party,,Independent ,,3,0,0,3
+Beaver,Beaver 2,Straight Party,,Independent ,,3,0,0,3
+Beaver,Beaver 3,Straight Party,,Independent ,,4,0,0,4
+Beaver,Beaver 4,Straight Party,,Independent ,,1,0,0,1
+Beaver,Greenville,Straight Party,,Independent ,,1,0,0,1
+Beaver,Milford City 1,Straight Party,,Independent ,,1,0,0,1
+Beaver,Milford City 2,Straight Party,,Independent ,,3,0,0,3
+Beaver,Milford City 3,Straight Party,,Independent ,,1,0,0,1
+Beaver,Minersville,Straight Party,,Independent ,,0,0,0,0
+Beaver,Total,Straight Party,,Independent ,,17,0,0,17
+Beaver,Beaver 1,Straight Party,,Republican,,77,0,14,91
+Beaver,Beaver 2,Straight Party,,Republican,,47,0,10,57
+Beaver,Beaver 3,Straight Party,,Republican,,42,0,6,48
+Beaver,Beaver 4,Straight Party,,Republican,,25,1,4,30
+Beaver,Greenville,Straight Party,,Republican,,14,0,0,14
+Beaver,Milford City 1,Straight Party,,Republican,,3,0,2,5
+Beaver,Milford City 2,Straight Party,,Republican,,31,0,0,31
+Beaver,Milford City 3,Straight Party,,Republican,,18,0,0,18
+Beaver,Minersville,Straight Party,,Republican,,50,1,14,65
+Beaver,Total,Straight Party,,Republican,,307,2,50,359
+Beaver,Beaver 1,Straight Party,,Constitutional ,,2,0,0,2
+Beaver,Beaver 2,Straight Party,,Constitutional ,,0,0,0,0
+Beaver,Beaver 3,Straight Party,,Constitutional ,,1,0,0,1
+Beaver,Beaver 4,Straight Party,,Constitutional ,,0,0,1,1
+Beaver,Greenville,Straight Party,,Constitutional ,,0,0,0,0
+Beaver,Milford City 1,Straight Party,,Constitutional ,,0,0,0,0
+Beaver,Milford City 2,Straight Party,,Constitutional ,,0,0,0,0
+Beaver,Milford City 3,Straight Party,,Constitutional ,,0,0,0,0
+Beaver,Minersville,Straight Party,,Constitutional ,,3,0,0,3
+Beaver,Total,Straight Party,,Constitutional ,,6,0,1,7
+Beaver,Beaver 1,Straight Party,,Democratic ,,9,0,1,10
+Beaver,Beaver 2,Straight Party,,Democratic ,,5,1,3,9
+Beaver,Beaver 3,Straight Party,,Democratic ,,9,0,0,9
+Beaver,Beaver 4,Straight Party,,Democratic ,,5,0,0,5
+Beaver,Greenville,Straight Party,,Democratic ,,4,0,0,4
+Beaver,Milford City 1,Straight Party,,Democratic ,,0,0,0,0
+Beaver,Milford City 2,Straight Party,,Democratic ,,17,1,2,20
+Beaver,Milford City 3,Straight Party,,Democratic ,,7,0,0,7
+Beaver,Minersville,Straight Party,,Democratic ,,4,0,0,4
+Beaver,Total,Straight Party,,Democratic ,,60,2,6,68
+Beaver,Beaver 1,U.S.House,2,McCausland,CON,9,0,1,10
+Beaver,Beaver 2,U.S.House,2,McCausland,CON,4,0,0,4
+Beaver,Beaver 3,U.S.House,2,McCausland,CON,7,0,0,7
+Beaver,Beaver 4,U.S.House,2,McCausland,CON,6,0,4,10
+Beaver,Greenville,U.S.House,2,McCausland,CON,1,0,0,1
+Beaver,Milford City 1,U.S.House,2,McCausland,CON,1,0,0,1
+Beaver,Milford City 2,U.S.House,2,McCausland,CON,6,0,0,6
+Beaver,Milford City 3,U.S.House,2,McCausland,CON,0,0,0,0
+Beaver,Minersville,U.S.House,2,McCausland,CON,12,0,0,12
+Beaver,Total,U.S.House,2,McCausland,CON,46,0,5,51
+Beaver,Beaver 1,U.S.House,2,Wayne L. Hill,IAP,5,0,1,6
+Beaver,Beaver 2,U.S.House,2,Wayne L. Hill,IAP,4,0,0,4
+Beaver,Beaver 3,U.S.House,2,Wayne L. Hill,IAP,3,0,1,4
+Beaver,Beaver 4,U.S.House,2,Wayne L. Hill,IAP,1,0,0,1
+Beaver,Greenville,U.S.House,2,Wayne L. Hill,IAP,2,0,0,2
+Beaver,Milford City 1,U.S.House,2,Wayne L. Hill,IAP,2,0,0,2
+Beaver,Milford City 2,U.S.House,2,Wayne L. Hill,IAP,11,0,0,11
+Beaver,Milford City 3,U.S.House,2,Wayne L. Hill,IAP,2,0,0,2
+Beaver,Minersville,U.S.House,2,Wayne L. Hill,IAP,4,0,0,4
+Beaver,Total,U.S.House,2,Wayne L. Hill,IAP,34,0,2,36
+Beaver,Beaver 1,U.S.House,2,Chris Stewart,REP,268,0,29,297
+Beaver,Beaver 2,U.S.House,2,Chris Stewart,REP,200,0,23,223
+Beaver,Beaver 3,U.S.House,2,Chris Stewart,REP,139,0,13,152
+Beaver,Beaver 4,U.S.House,2,Chris Stewart,REP,67,1,5,73
+Beaver,Greenville,U.S.House,2,Chris Stewart,REP,40,0,3,43
+Beaver,Milford City 1,U.S.House,2,Chris Stewart,REP,18,0,4,22
+Beaver,Milford City 2,U.S.House,2,Chris Stewart,REP,124,0,14,138
+Beaver,Milford City 3,U.S.House,2,Chris Stewart,REP,47,0,0,47
+Beaver,Minersville,U.S.House,2,Chris Stewart,REP,167,1,36,204
+Beaver,Total,U.S.House,2,Chris Stewart,REP,1070,2,127,1199
+Beaver,Beaver 1,U.S.House,2,Luz Robles,DEM,37,0,1,38
+Beaver,Beaver 2,U.S.House,2,Luz Robles,DEM,24,0,5,29
+Beaver,Beaver 3,U.S.House,2,Luz Robles,DEM,18,1,0,19
+Beaver,Beaver 4,U.S.House,2,Luz Robles,DEM,9,0,0,9
+Beaver,Greenville,U.S.House,2,Luz Robles,DEM,6,0,0,6
+Beaver,Milford City 1,U.S.House,2,Luz Robles,DEM,9,0,1,10
+Beaver,Milford City 2,U.S.House,2,Luz Robles,DEM,65,1,6,72
+Beaver,Milford City 3,U.S.House,2,Luz Robles,DEM,16,0,0,16
+Beaver,Minersville,U.S.House,2,Luz Robles,DEM,9,0,2,11
+Beaver,Total,U.S.House,2,Luz Robles,DEM,193,2,15,210
+Beaver,Beaver 1,U.S.House,2,Bill Barron,UNA,2,0,0,2
+Beaver,Beaver 2,U.S.House,2,Bill Barron,UNA,1,1,1,3
+Beaver,Beaver 3,U.S.House,2,Bill Barron,UNA,3,0,2,5
+Beaver,Beaver 4,U.S.House,2,Bill Barron,UNA,0,0,0,0
+Beaver,Greenville,U.S.House,2,Bill Barron,UNA,2,0,0,2
+Beaver,Milford City 1,U.S.House,2,Bill Barron,UNA,1,0,0,1
+Beaver,Milford City 2,U.S.House,2,Bill Barron,UNA,2,0,0,2
+Beaver,Milford City 3,U.S.House,2,Bill Barron,UNA,0,0,0,0
+Beaver,Minersville,U.S.House,2,Bill Barron,UNA,0,0,0,0
+Beaver,Total,U.S.House,2,Bill Barron,UNA,11,1,3,15
+Beaver,Beaver 1,U.S.House,2,WRITE IN,,0,0,0,0
+Beaver,Beaver 2,U.S.House,2,WRITE IN,,1,0,0,1
+Beaver,Beaver 3,U.S.House,2,WRITE IN,,0,0,0,0
+Beaver,Beaver 4,U.S.House,2,WRITE IN,,0,0,0,0
+Beaver,Greenville,U.S.House,2,WRITE IN,,0,0,0,0
+Beaver,Milford City 1,U.S.House,2,WRITE IN,,0,0,0,0
+Beaver,Milford City 2,U.S.House,2,WRITE IN,,0,0,0,0
+Beaver,Milford City 3,U.S.House,2,WRITE IN,,0,0,0,0
+Beaver,Minersville,U.S.House,2,WRITE IN,,0,0,0,0
+Beaver,Total,U.S.House,2,WRITE IN,,1,0,0,1
+Beaver,Beaver 1,Attorney General,,W. Andrew McCullough,LIB,3,0,2,5
+Beaver,Beaver 2,Attorney General,,W. Andrew McCullough,LIB,5,0,1,6
+Beaver,Beaver 3,Attorney General,,W. Andrew McCullough,LIB,4,0,2,6
+Beaver,Beaver 4,Attorney General,,W. Andrew McCullough,LIB,4,0,1,5
+Beaver,Greenville,Attorney General,,W. Andrew McCullough,LIB,0,0,0,0
+Beaver,Milford City 1,Attorney General,,W. Andrew McCullough,LIB,3,0,0,3
+Beaver,Milford City 2,Attorney General,,W. Andrew McCullough,LIB,6,0,0,6
+Beaver,Milford City 3,Attorney General,,W. Andrew McCullough,LIB,1,0,0,1
+Beaver,Minersville,Attorney General,,W. Andrew McCullough,LIB,2,0,0,2
+Beaver,Total,Attorney General,,W. Andrew McCullough,LIB,28,0,6,34
+Beaver,Beaver 1,Attorney General,,Gregory G. Hansen,CON,14,0,1,15
+Beaver,Beaver 2,Attorney General,,Gregory G. Hansen,CON,6,0,1,7
+Beaver,Beaver 3,Attorney General,,Gregory G. Hansen,CON,13,0,1,14
+Beaver,Beaver 4,Attorney General,,Gregory G. Hansen,CON,6,0,3,9
+Beaver,Greenville,Attorney General,,Gregory G. Hansen,CON,2,1,0,3
+Beaver,Milford City 1,Attorney General,,Gregory G. Hansen,CON,2,0,0,2
+Beaver,Milford City 2,Attorney General,,Gregory G. Hansen,CON,7,0,0,7
+Beaver,Milford City 3,Attorney General,,Gregory G. Hansen,CON,2,0,0,2
+Beaver,Minersville,Attorney General,,Gregory G. Hansen,CON,19,0,3,22
+Beaver,Total,Attorney General,,Gregory G. Hansen,CON,71,1,9,81
+Beaver,Beaver 1,Attorney General,,Charles A. Stormont,DEM,38,0,2,40
+Beaver,Beaver 2,Attorney General,,Charles A. Stormont,DEM,25,1,5,31
+Beaver,Beaver 3,Attorney General,,Charles A. Stormont,DEM,16,0,0,16
+Beaver,Beaver 4,Attorney General,,Charles A. Stormont,DEM,9,0,0,9
+Beaver,Greenville,Attorney General,,Charles A. Stormont,DEM,9,0,0,9
+Beaver,Milford City 1,Attorney General,,Charles A. Stormont,DEM,9,0,1,10
+Beaver,Milford City 2,Attorney General,,Charles A. Stormont,DEM,74,1,7,82
+Beaver,Milford City 3,Attorney General,,Charles A. Stormont,DEM,16,0,0,16
+Beaver,Minersville,Attorney General,,Charles A. Stormont,DEM,9,0,1,10
+Beaver,Total,Attorney General,,Charles A. Stormont,DEM,205,2,16,223
+Beaver,Beaver 1,Attorney General,,Sean D. Reyes,REP,253,0,27,280
+Beaver,Beaver 2,Attorney General,,Sean D. Reyes,REP,191,0,22,213
+Beaver,Beaver 3,Attorney General,,Sean D. Reyes,REP,136,1,12,149
+Beaver,Beaver 4,Attorney General,,Sean D. Reyes,REP,64,1,4,69
+Beaver,Greenville,Attorney General,,Sean D. Reyes,REP,35,0,3,38
+Beaver,Milford City 1,Attorney General,,Sean D. Reyes,REP,15,0,4,19
+Beaver,Milford City 2,Attorney General,,Sean D. Reyes,REP,109,0,13,122
+Beaver,Milford City 3,Attorney General,,Sean D. Reyes,REP,41,0,0,41
+Beaver,Minersville,Attorney General,,Sean D. Reyes,REP,152,1,30,183
+Beaver,Total,Attorney General,,Sean D. Reyes,REP,996,3,115,1114
+Beaver,Beaver 1,Attorney General,,Leslie D. Curtis,IAP,6,0,0,6
+Beaver,Beaver 2,Attorney General,,Leslie D. Curtis,IAP,3,0,0,3
+Beaver,Beaver 3,Attorney General,,Leslie D. Curtis,IAP,3,0,1,4
+Beaver,Beaver 4,Attorney General,,Leslie D. Curtis,IAP,2,0,1,3
+Beaver,Greenville,Attorney General,,Leslie D. Curtis,IAP,6,0,0,6
+Beaver,Milford City 1,Attorney General,,Leslie D. Curtis,IAP,2,0,0,2
+Beaver,Milford City 2,Attorney General,,Leslie D. Curtis,IAP,13,0,0,13
+Beaver,Milford City 3,Attorney General,,Leslie D. Curtis,IAP,5,0,0,5
+Beaver,Minersville,Attorney General,,Leslie D. Curtis,IAP,6,0,1,7
+Beaver,Total,Attorney General,,Leslie D. Curtis,IAP,46,0,3,49
+Beaver,Beaver 1,State Senator,28,Evan J. Vickers,REP,300,0,30,330
+Beaver,Beaver 2,State Senator,28,Evan J. Vickers,REP,220,1,25,246
+Beaver,Beaver 3,State Senator,28,Evan J. Vickers,REP,161,1,15,177
+Beaver,Beaver 4,State Senator,28,Evan J. Vickers,REP,0,0,0,0
+Beaver,Greenville,State Senator,28,Evan J. Vickers,REP,43,0,3,46
+Beaver,Milford City 1,State Senator,28,Evan J. Vickers,REP,21,0,5,26
+Beaver,Milford City 2,State Senator,28,Evan J. Vickers,REP,172,1,17,190
+Beaver,Milford City 3,State Senator,28,Evan J. Vickers,REP,54,0,0,54
+Beaver,Minersville,State Senator,28,Evan J. Vickers,REP,178,1,32,211
+Beaver,Total,State Senator,28,Evan J. Vickers,REP,1149,4,127,1280
+Beaver,Milford City 1,State Representative,68,Merrill Nelson,REP,15,0,4,19
+Beaver,Milford City 2,State Representative,68,Merrill Nelson,REP,123,0,12,135
+Beaver,Total,State Representative,68,Merrill Nelson,REP,138,0,16,154
+Beaver,Milford City 1,State Representative,68,Rett Rowley,IAP,13,0,1,14
+Beaver,Milford City 2,State Representative,68,Rett Rowley,IAP,65,1,3,69
+Beaver,Total,State Representative,68,Rett Rowley,IAP,78,1,4,83
+Beaver,Beaver 1,State Representative,73,Michael Noel,REP,274,0,29,303
+Beaver,Beaver 2,State Representative,73,Michael Noel,REP,205,1,23,229
+Beaver,Beaver 3,State Representative,73,Michael Noel,REP,150,1,14,165
+Beaver,Beaver 4,State Representative,73,Michael Noel,REP,65,1,9,75
+Beaver,Greenville,State Representative,73,Michael Noel,REP,39,0,1,40
+Beaver,Milford City 3,State Representative,73,Michael Noel,REP,53,0,0,53
+Beaver,Minersville,State Representative,73,Michael Noel,REP,170,1,32,203
+Beaver,Total,State Representative,73,Michael Noel,REP,956,4,108,1068
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,Libertarian Party,,,,,,,
+,,Independent Party,,,,,,,
+,,Republican Party,,,,,,,
+,,Constitutional Party,,,,,,,
+,,Democratic Party,,,,,,,
+,,McCausland,CON,,,,,,
+,,Wayne L. Hill,IAP,,,,,,
+,,Chris Stewart,REP,,,,,,
+,,Luz Robles,DEM,,,,,,
+,,Bill Barron,UNA,,,,,,
+,,WRITE IN,,,,,,,
+,,W. Andrew McCullough,LIB,,,,,,
+,,Gregory G. Hansen,CON,,,,,,
+,,Charles A. Stormont,DEM,,,,,,
+,,Sean D. Reyes,REP,,,,,,
+,,Leslie D. Curtis,IAP,,,,,,
+,,Evan J. Vickers,REP,,,,,,
+,,Merrill Nelson,REP,,,,,,
+,,Rett Rowley,IAP,,,,,,
