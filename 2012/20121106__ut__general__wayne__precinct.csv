@@ -1,0 +1,513 @@
+county,precinct,office,district,candidate,party,election_day,absentee,mail,votes
+Wayne,Fremont,STRAIGHT PARTY,,CONSTITUTION,CON,1,0,0,1
+Wayne,Fremont,STRAIGHT PARTY,,LIBERTARIAN,LIB,0,0,0,0
+Wayne,Fremont,STRAIGHT PARTY,,DEMOCRATIC,DEM,3,1,0,4
+Wayne,Fremont,STRAIGHT PARTY,,REPUBLICAN,REP,20,4,6,30
+Wayne,Fremont,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
+Wayne,Fremont,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
+Wayne,Fremont,President,,Registered Voters,,0
+Wayne,Fremont,President,,Registered Voters,,0
+Wayne,Fremont,President,,Registered Voters,,0
+Wayne,Fremont,President,,Registered Voters,,150
+Wayne,Fremont,President,,Jill Stein,GRN,0,0,0,0
+Wayne,Fremont,President,,Gloria La Riva,,0,0,0,0
+Wayne,Fremont,President,,Mitt Romney,REP,71,15,14,100
+Wayne,Fremont,President,,Barack Obama,DEM,8,2,0,10
+Wayne,Fremont,President,,Gary Johnson,LIB,2,0,0,2
+Wayne,Fremont,President,,Virgil Goode,CON,0,0,0,0
+Wayne,Fremont,President,,Ross C. Anderson,JUS,0,0,0,0
+Wayne,Fremont,President,,Write-in 90,,0,0,0,0
+Wayne,Fremont,U.S. Senate,,Shaun McCausland,CON,1,0,1,2
+Wayne,Fremont,U.S. Senate,,Scott Howell,DEM,11,1,0,12
+Wayne,Fremont,U.S. Senate,,Orrin G. Hatch,REP,67,15,13,95
+Wayne,Fremont,U.S. Senate,,Daniel Geery,JUS,1,0,0,1
+Wayne,Fremont,U.S. Senate,,Bill Barron,,0,1,0,1
+Wayne,Fremont,U.S. Senate,,Write-in 60,,0,0,0,0
+Wayne,Fremont,U.S. House,2,Chris Stewart,REP,65,14,14,93
+Wayne,Fremont,U.S. House,2,Jay Seegmiller,DEM,11,1,0,12
+Wayne,Fremont,U.S. House,2,Charles E Kimball,,1,0,0,1
+Wayne,Fremont,U.S. House,2,Jonathan D. Garrard,CON,2,0,0,2
+Wayne,Fremont,U.S. House,2,Joseph Andrade,,1,1,0,2
+Wayne,Fremont,U.S. House,2,Write-in 60,,0,0,0,0
+Wayne,Fremont,GOVERNOR,,Peter S Cooke,DEM,9,2,0,11
+Wayne,Fremont,GOVERNOR,,Ken Larsen,LIB,3,0,0,3
+Wayne,Fremont,GOVERNOR,,Kirk D Pearson,CON,1,0,0,1
+Wayne,Fremont,GOVERNOR,,Gary R. Herbert,REP,67,15,14,96
+Wayne,Fremont,GOVERNOR,,Write-in 50,,0,0,0,0
+Wayne,Fremont,ATTORNEY GENERAL,,Dee W. Smith,DEM,11,4,0,15
+Wayne,Fremont,ATTORNEY GENERAL,,John Swallow,REP,63,12,14,89
+Wayne,Fremont,ATTORNEY GENERAL,,W. Andrew McCullough,LIB,4,0,0,4
+Wayne,Fremont,ATTORNEY GENERAL,,Write-in 40,,0,0,0,0
+Wayne,Fremont,STATE AUDITOR,,Mark Sage,DEM,9,3,0,12
+Wayne,Fremont,STATE AUDITOR,,John Dougall,REP,65,13,14,92
+Wayne,Fremont,STATE AUDITOR,,Richard Proctor,CON,3,0,0,3
+Wayne,Fremont,STATE AUDITOR,,Write-in 40,,0,0,0,0
+Wayne,Fremont,STATE TREASURER,,Christopher Stout,DEM,9,2,0,11
+Wayne,Fremont,STATE TREASURER,,Vincent C. Marcus,LIB,3,0,0,3
+Wayne,Fremont,STATE TREASURER,,Richard K. Ellis,REP,63,14,14,91
+Wayne,Fremont,STATE TREASURER,,Write-in 40,,0,0,0,0
+Wayne,Fremont,State Senate,24,Ralph Okerlund,REP,71,16,14,101
+Wayne,Fremont,State Senate,24,Trestin Meacham,CON,5,1,0,6
+Wayne,Fremont,State Senate,24,Write-in 30,,0,0,0,0
+Wayne,Fremont,State House,73,Michael Noel,REP,59,13,14,86
+Wayne,Fremont,State House,73,Ty Markham,JUS,20,3,0,23
+Wayne,Fremont,State House,73,Write-in 30,,0,0,0,0
+Wayne,Fremont,COUNTY COMMISSION,,Newell E. Harward,REP,34,7,12,53
+Wayne,Fremont,COUNTY COMMISSION,,Joe Brown,DEM,40,10,2,52
+Wayne,Fremont,COUNTY COMMISSION,,Write-in 30,,4,0,0,4
+Wayne,Fremont,SCHOOL BOARD D1,,David Chappell,,35,11,10,56
+Wayne,Fremont,SCHOOL BOARD D1,,Write-in 20,,42,5,2,49
+Wayne,Fremont,DISTRICT COURT -Bagley,,YES,,59,15,10,84
+Wayne,Fremont,DISTRICT COURT -Bagley,,NO,,20,2,2,24
+Wayne,Fremont,CONST AMEND A,,For,,35,4,7,46
+Wayne,Fremont,CONST AMEND A,,Against,,43,10,6,59
+Wayne,Fremont,CONST AMEND B,,For,,47,10,10,67
+Wayne,Fremont,CONST AMEND B,,Against,,32,5,4,41
+Wayne,Loa,STRAIGHT PARTY,,CONSTITUTION,CON,0,0,0,0
+Wayne,Loa,STRAIGHT PARTY,,LIBERTARIAN,LIB,0,0,0,0
+Wayne,Loa,STRAIGHT PARTY,,DEMOCRATIC,DEM,2,0,0,2
+Wayne,Loa,STRAIGHT PARTY,,REPUBLICAN,REP,58,19,17,94
+Wayne,Loa,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
+Wayne,Loa,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
+Wayne,Loa,President,,Registered Voters,,0
+Wayne,Loa,President,,Registered Voters,,0
+Wayne,Loa,President,,Registered Voters,,0
+Wayne,Loa,President,,Registered Voters,,426
+Wayne,Loa,President,,Jill Stein,GRN,0,0,0,0
+Wayne,Loa,President,,Gloria La Riva,,0,0,0,0
+Wayne,Loa,President,,Mitt Romney,REP,193,57,51,301
+Wayne,Loa,President,,Barack Obama,DEM,7,3,2,12
+Wayne,Loa,President,,Gary Johnson,LIB,0,0,0,0
+Wayne,Loa,President,,Virgil Goode,CON,1,0,0,1
+Wayne,Loa,President,,Ross C. Anderson,JUS,0,0,0,0
+Wayne,Loa,President,,Write-in 90,,1,0,0,1
+Wayne,Loa,U.S. Senate,,Shaun McCausland,CON,2,0,1,3
+Wayne,Loa,U.S. Senate,,Scott Howell,DEM,18,4,2,24
+Wayne,Loa,U.S. Senate,,Orrin G. Hatch,REP,179,55,47,281
+Wayne,Loa,U.S. Senate,,Daniel Geery,JUS,1,0,0,1
+Wayne,Loa,U.S. Senate,,Bill Barron,,0,0,0,0
+Wayne,Loa,U.S. Senate,,Write-in 60,,0,0,0,0
+Wayne,Loa,U.S. House,2,Chris Stewart,REP,183,56,47,286
+Wayne,Loa,U.S. House,2,Jay Seegmiller,DEM,10,4,1,15
+Wayne,Loa,U.S. House,2,Charles E Kimball,,2,0,0,2
+Wayne,Loa,U.S. House,2,Jonathan D. Garrard,CON,0,0,0,0
+Wayne,Loa,U.S. House,2,Joseph Andrade,,0,0,0,0
+Wayne,Loa,U.S. House,2,Write-in 60,,0,0,0,0
+Wayne,Loa,GOVERNOR,,Peter S Cooke,DEM,8,4,1,13
+Wayne,Loa,GOVERNOR,,Ken Larsen,LIB,0,0,0,0
+Wayne,Loa,GOVERNOR,,Kirk D Pearson,CON,3,0,1,4
+Wayne,Loa,GOVERNOR,,Gary R. Herbert,REP,188,55,48,291
+Wayne,Loa,GOVERNOR,,Write-in 50,,0,0,0,0
+Wayne,Loa,ATTORNEY GENERAL,,Dee W. Smith,DEM,10,4,5,19
+Wayne,Loa,ATTORNEY GENERAL,,John Swallow,REP,179,53,44,276
+Wayne,Loa,ATTORNEY GENERAL,,W. Andrew McCullough,LIB,5,0,0,5
+Wayne,Loa,ATTORNEY GENERAL,,Write-in 40,,1,0,0,1
+Wayne,Loa,STATE AUDITOR,,Mark Sage,DEM,13,3,2,18
+Wayne,Loa,STATE AUDITOR,,John Dougall,REP,173,52,47,272
+Wayne,Loa,STATE AUDITOR,,Richard Proctor,CON,7,0,0,7
+Wayne,Loa,STATE AUDITOR,,Write-in 40,,0,0,0,0
+Wayne,Loa,STATE TREASURER,,Christopher Stout,DEM,13,4,3,20
+Wayne,Loa,STATE TREASURER,,Vincent C. Marcus,LIB,6,1,2,9
+Wayne,Loa,STATE TREASURER,,Richard K. Ellis,REP,173,51,43,267
+Wayne,Loa,STATE TREASURER,,Write-in 40,,0,0,0,0
+Wayne,Loa,State Senate,24,Ralph Okerlund,REP,187,57,46,290
+Wayne,Loa,State Senate,24,Trestin Meacham,CON,9,1,3,13
+Wayne,Loa,State Senate,24,Write-in 30,,1,0,0,1
+Wayne,Loa,State House,73,Michael Noel,REP,162,45,44,251
+Wayne,Loa,State House,73,Ty Markham,JUS,33,15,6,54
+Wayne,Loa,State House,73,Write-in 30,,0,0,0,0
+Wayne,Loa,COUNTY COMMISSION,,Newell E. Harward,REP,150,39,36,225
+Wayne,Loa,COUNTY COMMISSION,,Joe Brown,DEM,49,22,16,87
+Wayne,Loa,COUNTY COMMISSION,,Write-in 30,,2,0,0,2
+Wayne,Loa,DISTRICT COURT -Bagley,,YES,,162,44,39,245
+Wayne,Loa,DISTRICT COURT -Bagley,,NO,,23,11,5,39
+Wayne,Loa,CONST AMEND A,,For,,91,25,17,133
+Wayne,Loa,CONST AMEND A,,Against,,99,32,25,156
+Wayne,Loa,CONST AMEND B,,For,,125,36,27,188
+Wayne,Loa,CONST AMEND B,,Against,,67,21,14,102
+Wayne,Lyman,STRAIGHT PARTY,,CONSTITUTION,CON,0,0,0,0
+Wayne,Lyman,STRAIGHT PARTY,,LIBERTARIAN,LIB,0,0,0,0
+Wayne,Lyman,STRAIGHT PARTY,,DEMOCRATIC,DEM,0,0,0,0
+Wayne,Lyman,STRAIGHT PARTY,,REPUBLICAN,REP,34,6,3,43
+Wayne,Lyman,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
+Wayne,Lyman,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
+Wayne,Lyman,President,,Registered Voters,,0
+Wayne,Lyman,President,,Registered Voters,,0
+Wayne,Lyman,President,,Registered Voters,,0
+Wayne,Lyman,President,,Registered Voters,,190
+Wayne,Lyman,President,,Jill Stein,GRN,0,0,0,0
+Wayne,Lyman,President,,Gloria La Riva,,0,0,0,0
+Wayne,Lyman,President,,Mitt Romney,REP,112,20,11,143
+Wayne,Lyman,President,,Barack Obama,DEM,4,2,0,6
+Wayne,Lyman,President,,Gary Johnson,LIB,0,0,0,0
+Wayne,Lyman,President,,Virgil Goode,CON,0,1,0,1
+Wayne,Lyman,President,,Ross C. Anderson,JUS,0,0,0,0
+Wayne,Lyman,President,,Write-in 90,,0,0,0,0
+Wayne,Lyman,U.S. Senate,,Shaun McCausland,CON,2,1,0,3
+Wayne,Lyman,U.S. Senate,,Scott Howell,DEM,13,3,0,16
+Wayne,Lyman,U.S. Senate,,Orrin G. Hatch,REP,98,18,10,126
+Wayne,Lyman,U.S. Senate,,Daniel Geery,JUS,1,0,0,1
+Wayne,Lyman,U.S. Senate,,Bill Barron,,0,0,1,1
+Wayne,Lyman,U.S. Senate,,Write-in 60,,0,0,0,0
+Wayne,Lyman,U.S. House,2,Chris Stewart,REP,102,19,11,132
+Wayne,Lyman,U.S. House,2,Jay Seegmiller,DEM,8,0,0,8
+Wayne,Lyman,U.S. House,2,Charles E Kimball,,2,0,0,2
+Wayne,Lyman,U.S. House,2,Jonathan D. Garrard,CON,0,1,0,1
+Wayne,Lyman,U.S. House,2,Joseph Andrade,,0,0,0,0
+Wayne,Lyman,U.S. House,2,Write-in 60,,0,0,0,0
+Wayne,Lyman,GOVERNOR,,Peter S Cooke,DEM,7,0,0,7
+Wayne,Lyman,GOVERNOR,,Ken Larsen,LIB,0,1,0,1
+Wayne,Lyman,GOVERNOR,,Kirk D Pearson,CON,2,1,2,5
+Wayne,Lyman,GOVERNOR,,Gary R. Herbert,REP,107,19,10,136
+Wayne,Lyman,GOVERNOR,,Write-in 50,,0,0,0,0
+Wayne,Lyman,ATTORNEY GENERAL,,Dee W. Smith,DEM,9,1,2,12
+Wayne,Lyman,ATTORNEY GENERAL,,John Swallow,REP,97,19,8,124
+Wayne,Lyman,ATTORNEY GENERAL,,W. Andrew McCullough,LIB,4,0,1,5
+Wayne,Lyman,ATTORNEY GENERAL,,Write-in 40,,0,0,0,0
+Wayne,Lyman,STATE AUDITOR,,Mark Sage,DEM,12,1,2,15
+Wayne,Lyman,STATE AUDITOR,,John Dougall,REP,94,17,9,120
+Wayne,Lyman,STATE AUDITOR,,Richard Proctor,CON,0,1,0,1
+Wayne,Lyman,STATE AUDITOR,,Write-in 40,,0,0,0,0
+Wayne,Lyman,STATE TREASURER,,Christopher Stout,DEM,11,2,0,13
+Wayne,Lyman,STATE TREASURER,,Vincent C. Marcus,LIB,1,1,1,3
+Wayne,Lyman,STATE TREASURER,,Richard K. Ellis,REP,96,17,10,123
+Wayne,Lyman,STATE TREASURER,,Write-in 40,,0,0,0,0
+Wayne,Lyman,State Senate,24,Ralph Okerlund,REP,110,20,9,139
+Wayne,Lyman,State Senate,24,Trestin Meacham,CON,5,1,2,8
+Wayne,Lyman,State Senate,24,Write-in 30,,0,0,0,0
+Wayne,Lyman,State House,73,Michael Noel,REP,96,19,9,124
+Wayne,Lyman,State House,73,Ty Markham,JUS,17,3,2,22
+Wayne,Lyman,State House,73,Write-in 30,,0,0,0,0
+Wayne,Lyman,COUNTY COMMISSION,,Newell E. Harward,REP,81,18,8,107
+Wayne,Lyman,COUNTY COMMISSION,,Joe Brown,DEM,36,3,3,42
+Wayne,Lyman,COUNTY COMMISSION,,Write-in 30,,0,0,0,0
+Wayne,Lyman,SCHOOL BOARD D1,,David Chappell,,77,12,7,96
+Wayne,Lyman,SCHOOL BOARD D1,,Write-in 20,,34,8,3,45
+Wayne,Lyman,DISTRICT COURT -Bagley,,YES,,90,12,9,111
+Wayne,Lyman,DISTRICT COURT -Bagley,,NO,,14,7,2,23
+Wayne,Lyman,CONST AMEND A,,For,,37,8,7,52
+Wayne,Lyman,CONST AMEND A,,Against,,62,12,4,78
+Wayne,Lyman,CONST AMEND B,,For,,54,17,7,78
+Wayne,Lyman,CONST AMEND B,,Against,,50,5,3,58
+Wayne,Bicknell,STRAIGHT PARTY,,CONSTITUTION,CON,0,0,0,0
+Wayne,Bicknell,STRAIGHT PARTY,,LIBERTARIAN,LIB,0,0,0,0
+Wayne,Bicknell,STRAIGHT PARTY,,DEMOCRATIC,DEM,4,1,0,5
+Wayne,Bicknell,STRAIGHT PARTY,,REPUBLICAN,REP,38,13,7,58
+Wayne,Bicknell,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
+Wayne,Bicknell,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
+Wayne,Bicknell,President,,Registered Voters,,0
+Wayne,Bicknell,President,,Registered Voters,,0
+Wayne,Bicknell,President,,Registered Voters,,0
+Wayne,Bicknell,President,,Registered Voters,,306
+Wayne,Bicknell,President,,Jill Stein,GRN,0,0,0,0
+Wayne,Bicknell,President,,Gloria La Riva,,1,0,0,1
+Wayne,Bicknell,President,,Mitt Romney,REP,148,26,35,209
+Wayne,Bicknell,President,,Barack Obama,DEM,13,2,2,17
+Wayne,Bicknell,President,,Gary Johnson,LIB,0,0,0,0
+Wayne,Bicknell,President,,Virgil Goode,CON,0,0,0,0
+Wayne,Bicknell,President,,Ross C. Anderson,JUS,0,0,0,0
+Wayne,Bicknell,President,,Write-in 90,,0,0,0,0
+Wayne,Bicknell,U.S. Senate,,Shaun McCausland,CON,2,0,0,2
+Wayne,Bicknell,U.S. Senate,,Scott Howell,DEM,22,1,2,25
+Wayne,Bicknell,U.S. Senate,,Orrin G. Hatch,REP,137,27,36,200
+Wayne,Bicknell,U.S. Senate,,Daniel Geery,JUS,0,0,0,0
+Wayne,Bicknell,U.S. Senate,,Bill Barron,,1,0,1,2
+Wayne,Bicknell,U.S. Senate,,Write-in 60,,0,0,0,0
+Wayne,Bicknell,U.S. House,2,Chris Stewart,REP,132,25,32,189
+Wayne,Bicknell,U.S. House,2,Jay Seegmiller,DEM,16,2,4,22
+Wayne,Bicknell,U.S. House,2,Charles E Kimball,,3,0,1,4
+Wayne,Bicknell,U.S. House,2,Jonathan D. Garrard,CON,1,0,0,1
+Wayne,Bicknell,U.S. House,2,Joseph Andrade,,2,0,0,2
+Wayne,Bicknell,U.S. House,2,Write-in 60,,0,0,0,0
+Wayne,Bicknell,GOVERNOR,,Peter S Cooke,DEM,20,2,4,26
+Wayne,Bicknell,GOVERNOR,,Ken Larsen,LIB,0,0,0,0
+Wayne,Bicknell,GOVERNOR,,Kirk D Pearson,CON,0,0,0,0
+Wayne,Bicknell,GOVERNOR,,Gary R. Herbert,REP,142,26,35,203
+Wayne,Bicknell,GOVERNOR,,Write-in 50,,0,0,0,0
+Wayne,Bicknell,ATTORNEY GENERAL,,Dee W. Smith,DEM,18,3,4,25
+Wayne,Bicknell,ATTORNEY GENERAL,,John Swallow,REP,136,24,35,195
+Wayne,Bicknell,ATTORNEY GENERAL,,W. Andrew McCullough,LIB,1,0,0,1
+Wayne,Bicknell,ATTORNEY GENERAL,,Write-in 40,,0,0,0,0
+Wayne,Bicknell,STATE AUDITOR,,Mark Sage,DEM,20,5,4,29
+Wayne,Bicknell,STATE AUDITOR,,John Dougall,REP,129,23,30,182
+Wayne,Bicknell,STATE AUDITOR,,Richard Proctor,CON,4,0,4,8
+Wayne,Bicknell,STATE AUDITOR,,Write-in 40,,0,0,0,0
+Wayne,Bicknell,STATE TREASURER,,Christopher Stout,DEM,19,3,4,26
+Wayne,Bicknell,STATE TREASURER,,Vincent C. Marcus,LIB,2,0,0,2
+Wayne,Bicknell,STATE TREASURER,,Richard K. Ellis,REP,130,24,34,188
+Wayne,Bicknell,STATE TREASURER,,Write-in 40,,0,0,0,0
+Wayne,Bicknell,State Senate,24,Ralph Okerlund,REP,145,26,36,207
+Wayne,Bicknell,State Senate,24,Trestin Meacham,CON,14,1,1,16
+Wayne,Bicknell,State Senate,24,Write-in 30,,0,0,0,0
+Wayne,Bicknell,State House,73,Michael Noel,REP,129,23,29,181
+Wayne,Bicknell,State House,73,Ty Markham,JUS,33,5,8,46
+Wayne,Bicknell,State House,73,Write-in 30,,0,0,0,0
+Wayne,Bicknell,COUNTY COMMISSION,,Newell E. Harward,REP,81,19,27,127
+Wayne,Bicknell,COUNTY COMMISSION,,Joe Brown,DEM,83,9,11,103
+Wayne,Bicknell,COUNTY COMMISSION,,Write-in 30,,0,0,0,0
+Wayne,Bicknell,SCHOOL BOARD D3,,Joni D. Taylor,,144,23,30,197
+Wayne,Bicknell,SCHOOL BOARD D3,,Write-in 20,,8,0,2,10
+Wayne,Bicknell,DISTRICT COURT -Bagley,,YES,,128,21,18,167
+Wayne,Bicknell,DISTRICT COURT -Bagley,,NO,,23,5,10,38
+Wayne,Bicknell,CONST AMEND A,,For,,60,14,10,84
+Wayne,Bicknell,CONST AMEND A,,Against,,86,11,16,113
+Wayne,Bicknell,CONST AMEND B,,For,,96,15,19,130
+Wayne,Bicknell,CONST AMEND B,,Against,,55,10,15,80
+Wayne,Teasdale,STRAIGHT PARTY,,CONSTITUTION,CON,0,0,0,0
+Wayne,Teasdale,STRAIGHT PARTY,,LIBERTARIAN,LIB,0,0,0,0
+Wayne,Teasdale,STRAIGHT PARTY,,DEMOCRATIC,DEM,11,3,0,14
+Wayne,Teasdale,STRAIGHT PARTY,,REPUBLICAN,REP,19,6,3,28
+Wayne,Teasdale,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
+Wayne,Teasdale,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
+Wayne,Teasdale,President,,Registered Voters,,0
+Wayne,Teasdale,President,,Registered Voters,,0
+Wayne,Teasdale,President,,Registered Voters,,0
+Wayne,Teasdale,President,,Registered Voters,,226
+Wayne,Teasdale,President,,Jill Stein,GRN,1,0,1,2
+Wayne,Teasdale,President,,Gloria La Riva,,0,0,0,0
+Wayne,Teasdale,President,,Mitt Romney,REP,66,21,15,102
+Wayne,Teasdale,President,,Barack Obama,DEM,34,13,10,57
+Wayne,Teasdale,President,,Gary Johnson,LIB,2,0,0,2
+Wayne,Teasdale,President,,Virgil Goode,CON,1,0,0,1
+Wayne,Teasdale,President,,Ross C. Anderson,JUS,3,0,0,3
+Wayne,Teasdale,President,,Write-in 90,,0,0,0,0
+Wayne,Teasdale,U.S. Senate,,Shaun McCausland,CON,2,0,0,2
+Wayne,Teasdale,U.S. Senate,,Scott Howell,DEM,42,12,6,60
+Wayne,Teasdale,U.S. Senate,,Orrin G. Hatch,REP,59,21,15,95
+Wayne,Teasdale,U.S. Senate,,Daniel Geery,JUS,2,1,0,3
+Wayne,Teasdale,U.S. Senate,,Bill Barron,,1,0,3,4
+Wayne,Teasdale,U.S. Senate,,Write-in 60,,0,0,0,0
+Wayne,Teasdale,U.S. House,2,Chris Stewart,REP,64,20,15,99
+Wayne,Teasdale,U.S. House,2,Jay Seegmiller,DEM,37,13,9,59
+Wayne,Teasdale,U.S. House,2,Charles E Kimball,,2,0,0,2
+Wayne,Teasdale,U.S. House,2,Jonathan D. Garrard,CON,3,0,0,3
+Wayne,Teasdale,U.S. House,2,Joseph Andrade,,0,1,2,3
+Wayne,Teasdale,U.S. House,2,Write-in 60,,0,0,0,0
+Wayne,Teasdale,GOVERNOR,,Peter S Cooke,DEM,35,11,11,57
+Wayne,Teasdale,GOVERNOR,,Ken Larsen,LIB,4,1,0,5
+Wayne,Teasdale,GOVERNOR,,Kirk D Pearson,CON,0,0,0,0
+Wayne,Teasdale,GOVERNOR,,Gary R. Herbert,REP,70,22,15,107
+Wayne,Teasdale,GOVERNOR,,Write-in 50,,0,0,0,0
+Wayne,Teasdale,ATTORNEY GENERAL,,Dee W. Smith,DEM,31,11,9,51
+Wayne,Teasdale,ATTORNEY GENERAL,,John Swallow,REP,65,20,13,98
+Wayne,Teasdale,ATTORNEY GENERAL,,W. Andrew McCullough,LIB,8,2,1,11
+Wayne,Teasdale,ATTORNEY GENERAL,,Write-in 40,,0,0,0,0
+Wayne,Teasdale,STATE AUDITOR,,Mark Sage,DEM,38,13,9,60
+Wayne,Teasdale,STATE AUDITOR,,John Dougall,REP,57,19,13,89
+Wayne,Teasdale,STATE AUDITOR,,Richard Proctor,CON,9,1,0,10
+Wayne,Teasdale,STATE AUDITOR,,Write-in 40,,0,0,0,0
+Wayne,Teasdale,STATE TREASURER,,Christopher Stout,DEM,36,11,9,56
+Wayne,Teasdale,STATE TREASURER,,Vincent C. Marcus,LIB,6,1,0,7
+Wayne,Teasdale,STATE TREASURER,,Richard K. Ellis,REP,63,20,13,96
+Wayne,Teasdale,STATE TREASURER,,Write-in 40,,0,0,0,0
+Wayne,Teasdale,State Senate,24,Ralph Okerlund,REP,75,21,17,113
+Wayne,Teasdale,State Senate,24,Trestin Meacham,CON,23,9,2,34
+Wayne,Teasdale,State Senate,24,Write-in 30,,1,0,1,2
+Wayne,Teasdale,State House,73,Michael Noel,REP,60,15,12,87
+Wayne,Teasdale,State House,73,Ty Markham,JUS,48,19,14,81
+Wayne,Teasdale,State House,73,Write-in 30,,0,0,0,0
+Wayne,Teasdale,COUNTY COMMISSION,,Newell E. Harward,REP,57,16,14,87
+Wayne,Teasdale,COUNTY COMMISSION,,Joe Brown,DEM,51,18,12,81
+Wayne,Teasdale,COUNTY COMMISSION,,Write-in 30,,0,0,0,0
+Wayne,Teasdale,SCHOOL BOARD D2,,April Torgerson,,79,28,20,127
+Wayne,Teasdale,SCHOOL BOARD D2,,Write-in 20,,16,0,0,16
+Wayne,Teasdale,DISTRICT COURT -Bagley,,YES,,81,24,19,124
+Wayne,Teasdale,DISTRICT COURT -Bagley,,NO,,18,7,6,31
+Wayne,Teasdale,CONST AMEND A,,For,,42,19,13,74
+Wayne,Teasdale,CONST AMEND A,,Against,,57,14,8,79
+Wayne,Teasdale,CONST AMEND B,,For,,55,22,14,91
+Wayne,Teasdale,CONST AMEND B,,Against,,51,11,9,71
+Wayne,Torrey,STRAIGHT PARTY,,CONSTITUTION,CON,0,0,0,0
+Wayne,Torrey,STRAIGHT PARTY,,LIBERTARIAN,LIB,0,1,0,1
+Wayne,Torrey,STRAIGHT PARTY,,DEMOCRATIC,DEM,16,6,4,26
+Wayne,Torrey,STRAIGHT PARTY,,REPUBLICAN,REP,24,11,1,36
+Wayne,Torrey,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
+Wayne,Torrey,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
+Wayne,Torrey,President,,Registered Voters,,0
+Wayne,Torrey,President,,Registered Voters,,0
+Wayne,Torrey,President,,Registered Voters,,0
+Wayne,Torrey,President,,Registered Voters,,329
+Wayne,Torrey,President,,Jill Stein,GRN,1,0,1,2
+Wayne,Torrey,President,,Gloria La Riva,,0,0,0,0
+Wayne,Torrey,President,,Mitt Romney,REP,67,33,19,119
+Wayne,Torrey,President,,Barack Obama,DEM,51,26,19,96
+Wayne,Torrey,President,,Gary Johnson,LIB,0,1,0,1
+Wayne,Torrey,President,,Virgil Goode,CON,0,0,0,0
+Wayne,Torrey,President,,Ross C. Anderson,JUS,1,1,4,6
+Wayne,Torrey,President,,Write-in 90,,0,0,0,0
+Wayne,Torrey,U.S. Senate,,Shaun McCausland,CON,3,2,0,5
+Wayne,Torrey,U.S. Senate,,Scott Howell,DEM,51,29,22,102
+Wayne,Torrey,U.S. Senate,,Orrin G. Hatch,REP,60,29,15,104
+Wayne,Torrey,U.S. Senate,,Daniel Geery,JUS,0,1,0,1
+Wayne,Torrey,U.S. Senate,,Bill Barron,,3,1,5,9
+Wayne,Torrey,U.S. Senate,,Write-in 60,,0,0,0,0
+Wayne,Torrey,U.S. House,2,Chris Stewart,REP,62,26,16,104
+Wayne,Torrey,U.S. House,2,Jay Seegmiller,DEM,49,30,20,99
+Wayne,Torrey,U.S. House,2,Charles E Kimball,,5,0,0,5
+Wayne,Torrey,U.S. House,2,Jonathan D. Garrard,CON,0,0,0,0
+Wayne,Torrey,U.S. House,2,Joseph Andrade,,1,1,5,7
+Wayne,Torrey,U.S. House,2,Write-in 60,,0,0,0,0
+Wayne,Torrey,GOVERNOR,,Peter S Cooke,DEM,51,27,25,103
+Wayne,Torrey,GOVERNOR,,Ken Larsen,LIB,1,0,1,2
+Wayne,Torrey,GOVERNOR,,Kirk D Pearson,CON,0,0,0,0
+Wayne,Torrey,GOVERNOR,,Gary R. Herbert,REP,66,33,15,114
+Wayne,Torrey,GOVERNOR,,Write-in 50,,0,0,0,0
+Wayne,Torrey,ATTORNEY GENERAL,,Dee W. Smith,DEM,47,28,23,98
+Wayne,Torrey,ATTORNEY GENERAL,,John Swallow,REP,61,31,16,108
+Wayne,Torrey,ATTORNEY GENERAL,,W. Andrew McCullough,LIB,9,0,3,12
+Wayne,Torrey,ATTORNEY GENERAL,,Write-in 40,,0,0,0,0
+Wayne,Torrey,STATE AUDITOR,,Mark Sage,DEM,48,29,21,98
+Wayne,Torrey,STATE AUDITOR,,John Dougall,REP,62,27,18,107
+Wayne,Torrey,STATE AUDITOR,,Richard Proctor,CON,6,0,2,8
+Wayne,Torrey,STATE AUDITOR,,Write-in 40,,0,0,0,0
+Wayne,Torrey,STATE TREASURER,,Christopher Stout,DEM,49,27,22,98
+Wayne,Torrey,STATE TREASURER,,Vincent C. Marcus,LIB,4,1,2,7
+Wayne,Torrey,STATE TREASURER,,Richard K. Ellis,REP,61,28,17,106
+Wayne,Torrey,STATE TREASURER,,Write-in 40,,0,0,0,0
+Wayne,Torrey,State Senate,24,Ralph Okerlund,REP,81,35,22,138
+Wayne,Torrey,State Senate,24,Trestin Meacham,CON,24,12,6,42
+Wayne,Torrey,State Senate,24,Write-in 30,,0,0,0,0
+Wayne,Torrey,State House,73,Michael Noel,REP,57,25,15,97
+Wayne,Torrey,State House,73,Ty Markham,JUS,57,36,25,118
+Wayne,Torrey,State House,73,Write-in 30,,0,0,0,0
+Wayne,Torrey,COUNTY COMMISSION,,Newell E. Harward,REP,54,18,13,85
+Wayne,Torrey,COUNTY COMMISSION,,Joe Brown,DEM,63,45,30,138
+Wayne,Torrey,COUNTY COMMISSION,,Write-in 30,,1,0,0,1
+Wayne,Torrey,SCHOOL BOARD D2,,April Torgerson,,85,48,29,162
+Wayne,Torrey,SCHOOL BOARD D2,,Write-in 20,,7,3,2,12
+Wayne,Torrey,DISTRICT COURT -Bagley,,YES,,79,34,23,136
+Wayne,Torrey,DISTRICT COURT -Bagley,,NO,,27,20,11,58
+Wayne,Torrey,CONST AMEND A,,For,,52,21,16,89
+Wayne,Torrey,CONST AMEND A,,Against,,54,31,16,101
+Wayne,Torrey,CONST AMEND B,,For,,76,33,18,127
+Wayne,Torrey,CONST AMEND B,,Against,,33,24,22,79
+Wayne,Hanksville,STRAIGHT PARTY,,CONSTITUTION,CON,0,0,0,0
+Wayne,Hanksville,STRAIGHT PARTY,,LIBERTARIAN,LIB,1,0,0,1
+Wayne,Hanksville,STRAIGHT PARTY,,DEMOCRATIC,DEM,6,0,0,6
+Wayne,Hanksville,STRAIGHT PARTY,,REPUBLICAN,REP,44,0,2,46
+Wayne,Hanksville,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
+Wayne,Hanksville,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
+Wayne,Hanksville,President,,Registered Voters,,0
+Wayne,Hanksville,President,,Registered Voters,,0
+Wayne,Hanksville,President,,Registered Voters,,0
+Wayne,Hanksville,President,,Registered Voters,,185
+Wayne,Hanksville,President,,Jill Stein,GRN,0,0,0,0
+Wayne,Hanksville,President,,Gloria La Riva,,0,0,0,0
+Wayne,Hanksville,President,,Mitt Romney,REP,105,1,9,115
+Wayne,Hanksville,President,,Barack Obama,DEM,13,2,2,17
+Wayne,Hanksville,President,,Gary Johnson,LIB,1,0,0,1
+Wayne,Hanksville,President,,Virgil Goode,CON,0,0,0,0
+Wayne,Hanksville,President,,Ross C. Anderson,JUS,0,0,0,0
+Wayne,Hanksville,President,,Write-in 90,,0,0,0,0
+Wayne,Hanksville,U.S. Senate,,Shaun McCausland,CON,4,0,0,4
+Wayne,Hanksville,U.S. Senate,,Scott Howell,DEM,16,2,2,20
+Wayne,Hanksville,U.S. Senate,,Orrin G. Hatch,REP,99,1,8,108
+Wayne,Hanksville,U.S. Senate,,Daniel Geery,JUS,0,0,0,0
+Wayne,Hanksville,U.S. Senate,,Bill Barron,,0,0,1,1
+Wayne,Hanksville,U.S. Senate,,Write-in 60,,0,0,0,0
+Wayne,Hanksville,U.S. House,2,Chris Stewart,REP,102,1,7,110
+Wayne,Hanksville,U.S. House,2,Jay Seegmiller,DEM,13,2,3,18
+Wayne,Hanksville,U.S. House,2,Charles E Kimball,,1,0,1,2
+Wayne,Hanksville,U.S. House,2,Jonathan D. Garrard,CON,1,0,0,1
+Wayne,Hanksville,U.S. House,2,Joseph Andrade,,0,0,0,0
+Wayne,Hanksville,U.S. House,2,Write-in 60,,0,0,0,0
+Wayne,Hanksville,GOVERNOR,,Peter S Cooke,DEM,17,2,3,22
+Wayne,Hanksville,GOVERNOR,,Ken Larsen,LIB,3,0,0,3
+Wayne,Hanksville,GOVERNOR,,Kirk D Pearson,CON,4,0,1,5
+Wayne,Hanksville,GOVERNOR,,Gary R. Herbert,REP,95,1,7,103
+Wayne,Hanksville,GOVERNOR,,Write-in 50,,0,0,0,0
+Wayne,Hanksville,ATTORNEY GENERAL,,Dee W. Smith,DEM,17,2,3,22
+Wayne,Hanksville,ATTORNEY GENERAL,,John Swallow,REP,94,1,8,103
+Wayne,Hanksville,ATTORNEY GENERAL,,W. Andrew McCullough,LIB,8,0,0,8
+Wayne,Hanksville,ATTORNEY GENERAL,,Write-in 40,,0,0,0,0
+Wayne,Hanksville,STATE AUDITOR,,Mark Sage,DEM,17,2,2,21
+Wayne,Hanksville,STATE AUDITOR,,John Dougall,REP,95,1,9,105
+Wayne,Hanksville,STATE AUDITOR,,Richard Proctor,CON,6,0,0,6
+Wayne,Hanksville,STATE AUDITOR,,Write-in 40,,0,0,0,0
+Wayne,Hanksville,STATE TREASURER,,Christopher Stout,DEM,15,2,2,19
+Wayne,Hanksville,STATE TREASURER,,Vincent C. Marcus,LIB,2,0,0,2
+Wayne,Hanksville,STATE TREASURER,,Richard K. Ellis,REP,100,1,9,110
+Wayne,Hanksville,STATE TREASURER,,Write-in 40,,0,0,0,0
+Wayne,Hanksville,State Senate,24,Ralph Okerlund,REP,98,2,9,109
+Wayne,Hanksville,State Senate,24,Trestin Meacham,CON,15,1,1,17
+Wayne,Hanksville,State Senate,24,Write-in 30,,0,0,0,0
+Wayne,Hanksville,State House,73,Michael Noel,REP,90,1,9,100
+Wayne,Hanksville,State House,73,Ty Markham,JUS,23,2,2,27
+Wayne,Hanksville,State House,73,Write-in 30,,0,0,0,0
+Wayne,Hanksville,COUNTY COMMISSION,,Newell E. Harward,REP,97,0,7,104
+Wayne,Hanksville,COUNTY COMMISSION,,Joe Brown,DEM,23,3,4,30
+Wayne,Hanksville,COUNTY COMMISSION,,Write-in 30,,0,0,0,0
+Wayne,Hanksville,DISTRICT COURT -Bagley,,YES,,85,2,8,95
+Wayne,Hanksville,DISTRICT COURT -Bagley,,NO,,30,0,3,33
+Wayne,Hanksville,CONST AMEND A,,For,,47,0,4,51
+Wayne,Hanksville,CONST AMEND A,,Against,,69,3,7,79
+Wayne,Hanksville,CONST AMEND B,,For,,90,2,7,99
+Wayne,Hanksville,CONST AMEND B,,Against,,26,1,4,31
+Wayne,Election Total,STRAIGHT PARTY,,CONSTITUTION,CON,1,0,0,1
+Wayne,Election Total,STRAIGHT PARTY,,LIBERTARIAN,LIB,1,1,0,2
+Wayne,Election Total,STRAIGHT PARTY,,DEMOCRATIC,DEM,42,11,4,57
+Wayne,Election Total,STRAIGHT PARTY,,REPUBLICAN,REP,237,59,39,335
+Wayne,Election Total,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
+Wayne,Election Total,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
+Wayne,Election Total,President,,Registered Voters,,0
+Wayne,Election Total,President,,Registered Voters,,0
+Wayne,Election Total,President,,Registered Voters,,0
+Wayne,Election Total,President,,Registered Voters,,1812
+Wayne,Election Total,President,,Jill Stein,GRN,2,0,2,4
+Wayne,Election Total,President,,Gloria La Riva,,1,0,0,1
+Wayne,Election Total,President,,Mitt Romney,REP,762,173,154,1089
+Wayne,Election Total,President,,Barack Obama,DEM,130,50,35,215
+Wayne,Election Total,President,,Gary Johnson,LIB,5,1,0,6
+Wayne,Election Total,President,,Virgil Goode,CON,2,1,0,3
+Wayne,Election Total,President,,Ross C. Anderson,JUS,4,1,4,9
+Wayne,Election Total,President,,Write-in 90,,1,0,0,1
+Wayne,Election Total,U.S. Senate,,Shaun McCausland,CON,16,3,2,21
+Wayne,Election Total,U.S. Senate,,Scott Howell,DEM,173,52,34,259
+Wayne,Election Total,U.S. Senate,,Orrin G. Hatch,REP,699,166,144,1009
+Wayne,Election Total,U.S. Senate,,Daniel Geery,JUS,5,2,0,7
+Wayne,Election Total,U.S. Senate,,Bill Barron,,5,2,11,18
+Wayne,Election Total,U.S. Senate,,Write-in 60,,0,0,0,0
+Wayne,Election Total,U.S. House,2,Chris Stewart,REP,710,161,142,1013
+Wayne,Election Total,U.S. House,2,Jay Seegmiller,DEM,144,52,37,233
+Wayne,Election Total,U.S. House,2,Charles E Kimball,,16,0,2,18
+Wayne,Election Total,U.S. House,2,Jonathan D. Garrard,CON,7,1,0,8
+Wayne,Election Total,U.S. House,2,Joseph Andrade,,4,3,7,14
+Wayne,Election Total,U.S. House,2,Write-in 60,,0,0,0,0
+Wayne,Election Total,GOVERNOR,,Peter S Cooke,DEM,147,48,44,239
+Wayne,Election Total,GOVERNOR,,Ken Larsen,LIB,11,2,1,14
+Wayne,Election Total,GOVERNOR,,Kirk D Pearson,CON,10,1,4,15
+Wayne,Election Total,GOVERNOR,,Gary R. Herbert,REP,735,171,144,1050
+Wayne,Election Total,GOVERNOR,,Write-in 50,,0,0,0,0
+Wayne,Election Total,ATTORNEY GENERAL,,Dee W. Smith,DEM,143,53,46,242
+Wayne,Election Total,ATTORNEY GENERAL,,John Swallow,REP,695,160,138,993
+Wayne,Election Total,ATTORNEY GENERAL,,W. Andrew McCullough,LIB,39,2,5,46
+Wayne,Election Total,ATTORNEY GENERAL,,Write-in 40,,1,0,0,1
+Wayne,Election Total,STATE AUDITOR,,Mark Sage,DEM,157,56,40,253
+Wayne,Election Total,STATE AUDITOR,,John Dougall,REP,675,152,140,967
+Wayne,Election Total,STATE AUDITOR,,Richard Proctor,CON,35,2,6,43
+Wayne,Election Total,STATE AUDITOR,,Write-in 40,,0,0,0,0
+Wayne,Election Total,STATE TREASURER,,Christopher Stout,DEM,152,51,40,243
+Wayne,Election Total,STATE TREASURER,,Vincent C. Marcus,LIB,24,4,5,33
+Wayne,Election Total,STATE TREASURER,,Richard K. Ellis,REP,686,155,140,981
+Wayne,Election Total,STATE TREASURER,,Write-in 40,,0,0,0,0
+Wayne,Election Total,State Senate,24,Ralph Okerlund,REP,767,177,153,1097
+Wayne,Election Total,State Senate,24,Trestin Meacham,CON,95,26,15,136
+Wayne,Election Total,State Senate,24,Write-in 30,,2,0,1,3
+Wayne,Election Total,State House,73,Michael Noel,REP,653,141,132,926
+Wayne,Election Total,State House,73,Ty Markham,JUS,231,83,57,371
+Wayne,Election Total,State House,73,Write-in 30,,0,0,0,0
+Wayne,Election Total,COUNTY COMMISSION,,Newell E. Harward,REP,554,117,117,788
+Wayne,Election Total,COUNTY COMMISSION,,Joe Brown,DEM,345,110,78,533
+Wayne,Election Total,COUNTY COMMISSION,,Write-in 30,,7,0,0,7
+Wayne,Election Total,SCHOOL BOARD D1,,David Chappell,,112,23,17,152
+Wayne,Election Total,SCHOOL BOARD D1,,Write-in 20,,76,13,5,94
+Wayne,Election Total,SCHOOL BOARD D2,,April Torgerson,,164,76,49,289
+Wayne,Election Total,SCHOOL BOARD D2,,Write-in 20,,23,3,2,28
+Wayne,Election Total,SCHOOL BOARD D3,,Joni D. Taylor,,144,23,30,197
+Wayne,Election Total,SCHOOL BOARD D3,,Write-in 20,,8,0,2,10
+Wayne,Election Total,DISTRICT COURT -Bagley,,YES,,684,152,126,962
+Wayne,Election Total,DISTRICT COURT -Bagley,,NO,,155,52,39,246
+Wayne,Election Total,CONST AMEND A,,For,,364,91,74,529
+Wayne,Election Total,CONST AMEND A,,Against,,470,113,82,665
+Wayne,Election Total,CONST AMEND B,,For,,543,135,102,780
+Wayne,Election Total,CONST AMEND B,,Against,,314,77,71,462
