@@ -1,0 +1,885 @@
+county,precinct,office,district,candidate,party,polling,early,absentee,provisional,votes
+Millard,Abraham,Registered Voters,,,,,,,,76
+Millard,Abraham,Ballots Cast,,,,53,1,5,0,59
+Millard,Abraham,Straight Party,,,CON,0,0,0,0,0
+Millard,Abraham,Straight Party,,,LIB,0,0,0,0,0
+Millard,Abraham,Straight Party,,,DEM,2,0,0,0,2
+Millard,Abraham,Straight Party,,,REP,8,1,2,0,11
+Millard,Abraham,Straight Party,,,JUS,0,0,0,0,0
+Millard,Abraham,Straight Party,,,GRN,0,0,0,0,0
+Millard,Abraham,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Abraham,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Abraham,President/Vice President,,Mitt Romney,REP,45,1,2,0,48
+Millard,Abraham,President/Vice President,,Barack Obama,DEM,4,0,1,0,5
+Millard,Abraham,President/Vice President,,Gary Johnson,LIB,0,0,0,0,0
+Millard,Abraham,President/Vice President,,Virgil Goode,CON,3,0,2,0,5
+Millard,Abraham,President/Vice President,,Ross C. Anderson,JUS,0,0,0,0,0
+Millard,Abraham,President/Vice President,,Write-In Votes,,0,0,0,0,0
+Millard,Abraham,U.S. Senate,,Shaun McCausland,CON,8,0,2,0,10
+Millard,Abraham,U.S. Senate,,Scott Howell,DEM,6,0,1,0,7
+Millard,Abraham,U.S. Senate,,Orrin G. Hatch,REP,36,1,2,0,39
+Millard,Abraham,U.S. Senate,,Daniel Geery,JUS,0,0,0,0,0
+Millard,Abraham,U.S. Senate,,Bill Barron,,0,0,0,0,0
+Millard,Abraham,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Abraham,U.S. House,2,Chris Stewart,REP,41,1,2,0,44
+Millard,Abraham,U.S. House,2,Jay Seegmiller,DEM,5,0,1,0,6
+Millard,Abraham,U.S. House,2,Charles E. Kimball,,0,0,0,0,0
+Millard,Abraham,U.S. House,2,Jonathan D. Garrard,CON,3,0,2,0,5
+Millard,Abraham,U.S. House,2,Joseph Andrade,,2,0,0,0,2
+Millard,Abraham,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Abraham,Governor,,Peter S. Cooke,DEM,6,0,0,0,6
+Millard,Abraham,Governor,,Ken Larsen,LIB,0,0,0,0,0
+Millard,Abraham,Governor,,Kirk D. Pearson,CON,3,0,2,0,5
+Millard,Abraham,Governor,,Gary R. Herbert,REP,42,1,3,0,46
+Millard,Abraham,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Abraham,Attorney General,,Dee W. Smith,DEM,6,0,1,0,7
+Millard,Abraham,Attorney General,,John Swallow,REP,41,1,3,0,45
+Millard,Abraham,Attorney General,,W. Andrew McCullough,LIB,1,0,0,0,1
+Millard,Abraham,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Abraham,State Auditor,,Mark Sage,DEM,4,0,1,0,5
+Millard,Abraham,State Auditor,,John Dougall,REP,37,1,2,0,40
+Millard,Abraham,State Auditor,,Richard Proctor,CON,7,0,2,0,9
+Millard,Abraham,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Abraham,State Treasurer,,Christopher Stout,DEM,4,0,1,0,5
+Millard,Abraham,State Treasurer,,Vincent C. Marcus,LIB,2,0,0,0,2
+Millard,Abraham,State Treasurer,,Richard K. Ellis,REP,41,1,3,0,45
+Millard,Abraham,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Abraham,State Senate,24,Ralph Okerlund,REP,43,1,2,0,46
+Millard,Abraham,State Senate,24,Trestin Meacham,CON,4,0,3,0,7
+Millard,Abraham,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Abraham,State House,68,Merrill Nelson,REP,29,1,2,0,32
+Millard,Abraham,State House,68,Thomas E. Nedreberg,DEM,3,0,1,0,4
+Millard,Abraham,State House,68,Paul J. McCollaum,CON,19,0,2,0,21
+Millard,Abraham,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Delta 17,Registered Voters,,,,,,,,866
+Millard,Delta 17,Ballots Cast,,,,473,120,76,3,672
+Millard,Delta 17,Straight Party,,,CON,2,0,1,0,3
+Millard,Delta 17,Straight Party,,,LIB,0,0,0,0,0
+Millard,Delta 17,Straight Party,,,DEM,18,3,4,0,25
+Millard,Delta 17,Straight Party,,,REP,98,24,17,1,140
+Millard,Delta 17,Straight Party,,,JUS,0,0,1,0,1
+Millard,Delta 17,Straight Party,,,GRN,0,0,0,0,0
+Millard,Delta 17,President/Vice President,,Jill Stein,GRN,0,0,1,0,1
+Millard,Delta 17,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Delta 17,President/Vice President,,Mitt Romney,REP,415,109,63,3,590
+Millard,Delta 17,President/Vice President,,Barack Obama,DEM,52,8,8,0,68
+Millard,Delta 17,President/Vice President,,Gary Johnson,LIB,1,0,0,0,1
+Millard,Delta 17,President/Vice President,,Virgil Goode,CON,2,1,0,0,3
+Millard,Delta 17,President/Vice President,,Ross C. Anderson,JUS,0,0,1,0,1
+Millard,Delta 17,President/Vice President,,Write-In Votes,,0,0,2,0,2
+Millard,Delta 17,U.S. Senate,,Shaun McCausland,CON,26,8,0,0,34
+Millard,Delta 17,U.S. Senate,,Scott Howell,DEM,102,17,16,0,135
+Millard,Delta 17,U.S. Senate,,Orrin G. Hatch,REP,336,95,58,3,492
+Millard,Delta 17,U.S. Senate,,Daniel Geery,JUS,1,0,1,0,2
+Millard,Delta 17,U.S. Senate,,Bill Barron,,0,0,0,0,0
+Millard,Delta 17,U.S. Senate,,Write-In Votes,,1,0,0,0,1
+Millard,Delta 17,U.S. House,2,Chris Stewart,REP,370,99,56,3,528
+Millard,Delta 17,U.S. House,2,Jay Seegmiller,DEM,70,15,16,0,101
+Millard,Delta 17,U.S. House,2,Charles E. Kimball,,4,0,0,0,4
+Millard,Delta 17,U.S. House,2,Jonathan D. Garrard,CON,13,4,0,0,17
+Millard,Delta 17,U.S. House,2,Joseph Andrade,,3,2,2,0,7
+Millard,Delta 17,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Delta 17,Governor,,Peter S. Cooke,DEM,76,20,15,0,111
+Millard,Delta 17,Governor,,Ken Larsen,LIB,2,2,0,0,4
+Millard,Delta 17,Governor,,Kirk D. Pearson,CON,19,1,0,0,20
+Millard,Delta 17,Governor,,Gary R. Herbert,REP,367,97,59,3,526
+Millard,Delta 17,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Delta 17,Attorney General,,Dee W. Smith,DEM,76,16,16,0,108
+Millard,Delta 17,Attorney General,,John Swallow,REP,360,100,58,3,521
+Millard,Delta 17,Attorney General,,W. Andrew McCullough,LIB,18,3,1,0,22
+Millard,Delta 17,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Delta 17,State Auditor,,Mark Sage,DEM,78,17,15,0,110
+Millard,Delta 17,State Auditor,,John Dougall,REP,348,95,57,3,503
+Millard,Delta 17,State Auditor,,Richard Proctor,CON,28,7,2,0,37
+Millard,Delta 17,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Delta 17,State Treasurer,,Christopher Stout,DEM,82,10,13,0,105
+Millard,Delta 17,State Treasurer,,Vincent C. Marcus,LIB,17,6,1,0,24
+Millard,Delta 17,State Treasurer,,Richard K. Ellis,REP,352,103,60,3,518
+Millard,Delta 17,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Delta 17,State Senate,24,Ralph Okerlund,REP,393,104,65,3,565
+Millard,Delta 17,State Senate,24,Trestin Meacham,CON,50,12,6,0,68
+Millard,Delta 17,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Delta 17,State House,68,Merrill Nelson,REP,356,94,53,2,505
+Millard,Delta 17,State House,68,Thomas E. Nedreberg,DEM,68,12,16,0,96
+Millard,Delta 17,State House,68,Paul J. McCollaum,CON,40,14,4,1,59
+Millard,Delta 17,State House,68,Write-In Votes,,0,0,1,0,1
+Millard,Delta 18,Registered Voters,,,,,,,,957
+Millard,Delta 18,Ballots Cast,,,,527,132,76,15,750
+Millard,Delta 18,Straight Party,,,CON,1,0,0,0,1
+Millard,Delta 18,Straight Party,,,LIB,2,0,0,0,2
+Millard,Delta 18,Straight Party,,,DEM,14,5,1,0,20
+Millard,Delta 18,Straight Party,,,REP,119,30,27,5,181
+Millard,Delta 18,Straight Party,,,JUS,2,0,0,0,2
+Millard,Delta 18,Straight Party,,,GRN,1,0,0,0,1
+Millard,Delta 18,President/Vice President,,Jill Stein,GRN,1,0,0,0,1
+Millard,Delta 18,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Delta 18,President/Vice President,,Mitt Romney,REP,457,119,70,13,659
+Millard,Delta 18,President/Vice President,,Barack Obama,DEM,48,12,5,2,67
+Millard,Delta 18,President/Vice President,,Gary Johnson,LIB,9,0,0,0,9
+Millard,Delta 18,President/Vice President,,Virgil Goode,CON,1,0,0,0,1
+Millard,Delta 18,President/Vice President,,Ross C. Anderson,JUS,3,0,0,0,3
+Millard,Delta 18,President/Vice President,,Write-In Votes,,1,0,0,0,1
+Millard,Delta 18,U.S. Senate,,Shaun McCausland,CON,36,5,2,0,43
+Millard,Delta 18,U.S. Senate,,Scott Howell,DEM,113,20,10,0,143
+Millard,Delta 18,U.S. Senate,,Orrin G. Hatch,REP,362,102,61,15,540
+Millard,Delta 18,U.S. Senate,,Daniel Geery,JUS,2,0,0,0,2
+Millard,Delta 18,U.S. Senate,,Bill Barron,,4,2,1,0,7
+Millard,Delta 18,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Delta 18,U.S. House,2,Chris Stewart,REP,412,108,62,14,596
+Millard,Delta 18,U.S. House,2,Jay Seegmiller,DEM,70,16,10,1,97
+Millard,Delta 18,U.S. House,2,Charles E. Kimball,,7,1,1,0,9
+Millard,Delta 18,U.S. House,2,Jonathan D. Garrard,CON,16,2,1,0,19
+Millard,Delta 18,U.S. House,2,Joseph Andrade,,7,0,0,0,7
+Millard,Delta 18,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Delta 18,Governor,,Peter S. Cooke,DEM,79,17,9,0,105
+Millard,Delta 18,Governor,,Ken Larsen,LIB,14,0,0,0,14
+Millard,Delta 18,Governor,,Kirk D. Pearson,CON,10,0,0,0,10
+Millard,Delta 18,Governor,,Gary R. Herbert,REP,415,111,64,15,605
+Millard,Delta 18,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Delta 18,Attorney General,,Dee W. Smith,DEM,74,15,12,3,104
+Millard,Delta 18,Attorney General,,John Swallow,REP,394,107,56,10,567
+Millard,Delta 18,Attorney General,,W. Andrew McCullough,LIB,37,4,2,2,45
+Millard,Delta 18,Attorney General,,Write-In Votes,,0,0,1,0,1
+Millard,Delta 18,State Auditor,,Mark Sage,DEM,81,16,11,4,112
+Millard,Delta 18,State Auditor,,John Dougall,REP,388,102,57,11,558
+Millard,Delta 18,State Auditor,,Richard Proctor,CON,32,5,4,0,41
+Millard,Delta 18,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Delta 18,State Treasurer,,Christopher Stout,DEM,77,23,8,1,109
+Millard,Delta 18,State Treasurer,,Vincent C. Marcus,LIB,30,2,3,3,38
+Millard,Delta 18,State Treasurer,,Richard K. Ellis,REP,395,99,61,11,566
+Millard,Delta 18,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Delta 18,State Senate,24,Ralph Okerlund,REP,433,109,67,14,623
+Millard,Delta 18,State Senate,24,Trestin Meacham,CON,59,13,5,1,78
+Millard,Delta 18,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Delta 18,State House,68,Merrill Nelson,REP,378,104,58,12,552
+Millard,Delta 18,State House,68,Thomas E. Nedreberg,DEM,71,13,7,2,93
+Millard,Delta 18,State House,68,Paul J. McCollaum,CON,61,7,8,1,77
+Millard,Delta 18,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Deseret-Oasis,Registered Voters,,,,,,,,356
+Millard,Deseret-Oasis,Ballots Cast,,,,249,22,23,1,295
+Millard,Deseret-Oasis,Straight Party,,,CON,0,0,1,0,1
+Millard,Deseret-Oasis,Straight Party,,,LIB,0,0,0,0,0
+Millard,Deseret-Oasis,Straight Party,,,DEM,17,0,4,0,21
+Millard,Deseret-Oasis,Straight Party,,,REP,55,0,0,0,55
+Millard,Deseret-Oasis,Straight Party,,,JUS,0,0,0,0,0
+Millard,Deseret-Oasis,Straight Party,,,GRN,0,0,0,0,0
+Millard,Deseret-Oasis,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Deseret-Oasis,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Deseret-Oasis,President/Vice President,,Mitt Romney,REP,212,18,20,1,251
+Millard,Deseret-Oasis,President/Vice President,,Barack Obama,DEM,28,3,2,0,33
+Millard,Deseret-Oasis,President/Vice President,,Gary Johnson,LIB,4,0,0,0,4
+Millard,Deseret-Oasis,President/Vice President,,Virgil Goode,CON,1,1,1,0,3
+Millard,Deseret-Oasis,President/Vice President,,Ross C. Anderson,JUS,0,0,0,0,0
+Millard,Deseret-Oasis,President/Vice President,,Write-In Votes,,1,0,0,0,1
+Millard,Deseret-Oasis,U.S. Senate,,Shaun McCausland,CON,16,2,1,0,19
+Millard,Deseret-Oasis,U.S. Senate,,Scott Howell,DEM,48,4,5,0,57
+Millard,Deseret-Oasis,U.S. Senate,,Orrin G. Hatch,REP,180,16,17,1,214
+Millard,Deseret-Oasis,U.S. Senate,,Daniel Geery,JUS,2,0,0,0,2
+Millard,Deseret-Oasis,U.S. Senate,,Bill Barron,,2,0,0,0,2
+Millard,Deseret-Oasis,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Deseret-Oasis,U.S. House,2,Chris Stewart,REP,195,18,16,1,230
+Millard,Deseret-Oasis,U.S. House,2,Jay Seegmiller,DEM,37,3,2,0,42
+Millard,Deseret-Oasis,U.S. House,2,Charles E. Kimball,,3,0,2,0,5
+Millard,Deseret-Oasis,U.S. House,2,Jonathan D. Garrard,CON,7,1,1,0,9
+Millard,Deseret-Oasis,U.S. House,2,Joseph Andrade,,2,0,2,0,4
+Millard,Deseret-Oasis,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Deseret-Oasis,Governor,,Peter S. Cooke,DEM,47,4,2,1,54
+Millard,Deseret-Oasis,Governor,,Ken Larsen,LIB,8,0,0,0,8
+Millard,Deseret-Oasis,Governor,,Kirk D. Pearson,CON,8,2,1,0,11
+Millard,Deseret-Oasis,Governor,,Gary R. Herbert,REP,184,15,20,0,219
+Millard,Deseret-Oasis,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Deseret-Oasis,Attorney General,,Dee W. Smith,DEM,37,4,2,0,43
+Millard,Deseret-Oasis,Attorney General,,John Swallow,REP,191,18,19,1,229
+Millard,Deseret-Oasis,Attorney General,,W. Andrew McCullough,LIB,15,0,1,0,16
+Millard,Deseret-Oasis,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Deseret-Oasis,State Auditor,,Mark Sage,DEM,36,4,6,0,46
+Millard,Deseret-Oasis,State Auditor,,John Dougall,REP,185,15,14,1,215
+Millard,Deseret-Oasis,State Auditor,,Richard Proctor,CON,20,3,2,0,25
+Millard,Deseret-Oasis,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Deseret-Oasis,State Treasurer,,Christopher Stout,DEM,43,5,6,0,54
+Millard,Deseret-Oasis,State Treasurer,,Vincent C. Marcus,LIB,18,2,0,0,20
+Millard,Deseret-Oasis,State Treasurer,,Richard K. Ellis,REP,182,14,16,1,213
+Millard,Deseret-Oasis,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Deseret-Oasis,State Senate,24,Ralph Okerlund,REP,200,18,19,1,238
+Millard,Deseret-Oasis,State Senate,24,Trestin Meacham,CON,29,4,2,0,35
+Millard,Deseret-Oasis,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Deseret-Oasis,State House,68,Merrill Nelson,REP,179,17,19,1,216
+Millard,Deseret-Oasis,State House,68,Thomas E. Nedreberg,DEM,34,2,2,0,38
+Millard,Deseret-Oasis,State House,68,Paul J. McCollaum,CON,31,2,2,0,35
+Millard,Deseret-Oasis,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 1,Registered Voters,,,,,,,,795
+Millard,Fillmore 1,Ballots Cast,,,,375,198,50,5,628
+Millard,Fillmore 1,Straight Party,,,CON,0,0,0,0,0
+Millard,Fillmore 1,Straight Party,,,LIB,0,1,0,0,1
+Millard,Fillmore 1,Straight Party,,,DEM,7,2,0,0,9
+Millard,Fillmore 1,Straight Party,,,REP,45,24,7,0,76
+Millard,Fillmore 1,Straight Party,,,JUS,2,0,0,0,2
+Millard,Fillmore 1,Straight Party,,,GRN,0,0,0,0,0
+Millard,Fillmore 1,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Fillmore 1,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Fillmore 1,President/Vice President,,Mitt Romney,REP,333,168,40,4,545
+Millard,Fillmore 1,President/Vice President,,Barack Obama,DEM,29,26,6,1,62
+Millard,Fillmore 1,President/Vice President,,Gary Johnson,LIB,1,1,1,0,3
+Millard,Fillmore 1,President/Vice President,,Virgil Goode,CON,1,1,0,0,2
+Millard,Fillmore 1,President/Vice President,,Ross C. Anderson,JUS,1,1,0,0,2
+Millard,Fillmore 1,President/Vice President,,Write-In Votes,,4,0,2,0,6
+Millard,Fillmore 1,U.S. Senate,,Shaun McCausland,CON,13,4,0,1,18
+Millard,Fillmore 1,U.S. Senate,,Scott Howell,DEM,52,30,14,1,97
+Millard,Fillmore 1,U.S. Senate,,Orrin G. Hatch,REP,299,158,34,3,494
+Millard,Fillmore 1,U.S. Senate,,Daniel Geery,JUS,3,4,0,0,7
+Millard,Fillmore 1,U.S. Senate,,Bill Barron,,1,0,0,0,1
+Millard,Fillmore 1,U.S. Senate,,Write-In Votes,,1,0,0,0,1
+Millard,Fillmore 1,U.S. House,2,Chris Stewart,REP,294,147,33,1,475
+Millard,Fillmore 1,U.S. House,2,Jay Seegmiller,DEM,46,34,11,3,94
+Millard,Fillmore 1,U.S. House,2,Charles E. Kimball,,8,3,1,1,13
+Millard,Fillmore 1,U.S. House,2,Jonathan D. Garrard,CON,13,2,1,0,16
+Millard,Fillmore 1,U.S. House,2,Joseph Andrade,,3,0,1,0,4
+Millard,Fillmore 1,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 1,Governor,,Peter S. Cooke,DEM,42,31,8,2,83
+Millard,Fillmore 1,Governor,,Ken Larsen,LIB,6,5,2,1,14
+Millard,Fillmore 1,Governor,,Kirk D. Pearson,CON,14,6,0,0,20
+Millard,Fillmore 1,Governor,,Gary R. Herbert,REP,308,153,37,2,500
+Millard,Fillmore 1,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 1,Attorney General,,Dee W. Smith,DEM,48,35,6,1,90
+Millard,Fillmore 1,Attorney General,,John Swallow,REP,296,142,39,2,479
+Millard,Fillmore 1,Attorney General,,W. Andrew McCullough,LIB,19,7,3,2,31
+Millard,Fillmore 1,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 1,State Auditor,,Mark Sage,DEM,41,37,8,2,88
+Millard,Fillmore 1,State Auditor,,John Dougall,REP,281,136,32,1,450
+Millard,Fillmore 1,State Auditor,,Richard Proctor,CON,31,12,4,2,49
+Millard,Fillmore 1,State Auditor,,Write-In Votes,,1,0,0,0,1
+Millard,Fillmore 1,State Treasurer,,Christopher Stout,DEM,47,35,8,1,91
+Millard,Fillmore 1,State Treasurer,,Vincent C. Marcus,LIB,18,10,2,2,32
+Millard,Fillmore 1,State Treasurer,,Richard K. Ellis,REP,287,138,36,2,463
+Millard,Fillmore 1,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 1,State Senate,24,Ralph Okerlund,REP,317,161,42,2,522
+Millard,Fillmore 1,State Senate,24,Trestin Meacham,CON,39,20,2,2,63
+Millard,Fillmore 1,State Senate,24,Write-In Votes,,0,2,1,0,3
+Millard,Fillmore 1,State House,68,Merrill Nelson,REP,290,136,36,3,465
+Millard,Fillmore 1,State House,68,Thomas E. Nedreberg,DEM,44,39,10,1,94
+Millard,Fillmore 1,State House,68,Paul J. McCollaum,CON,21,9,1,1,32
+Millard,Fillmore 1,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 2,Registered Voters,,,,,,,,494
+Millard,Fillmore 2,Ballots Cast,,,,240,93,35,0,368
+Millard,Fillmore 2,Straight Party,,,CON,0,0,0,0,0
+Millard,Fillmore 2,Straight Party,,,LIB,0,1,0,0,1
+Millard,Fillmore 2,Straight Party,,,DEM,7,2,0,0,9
+Millard,Fillmore 2,Straight Party,,,REP,45,24,7,0,76
+Millard,Fillmore 2,Straight Party,,,JUS,2,0,0,0,2
+Millard,Fillmore 2,Straight Party,,,GRN,0,0,0,0,0
+Millard,Fillmore 2,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Fillmore 2,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Fillmore 2,President/Vice President,,Mitt Romney,REP,218,82,32,0,332
+Millard,Fillmore 2,President/Vice President,,Barack Obama,DEM,16,8,2,0,26
+Millard,Fillmore 2,President/Vice President,,Gary Johnson,LIB,1,1,0,0,2
+Millard,Fillmore 2,President/Vice President,,Virgil Goode,CON,1,0,1,0,2
+Millard,Fillmore 2,President/Vice President,,Ross C. Anderson,JUS,1,2,0,0,3
+Millard,Fillmore 2,President/Vice President,,Write-In Votes,,1,0,0,0,1
+Millard,Fillmore 2,U.S. Senate,,Shaun McCausland,CON,11,2,1,0,14
+Millard,Fillmore 2,U.S. Senate,,Scott Howell,DEM,36,19,2,0,57
+Millard,Fillmore 2,U.S. Senate,,Orrin G. Hatch,REP,179,72,29,0,280
+Millard,Fillmore 2,U.S. Senate,,Daniel Geery,JUS,1,0,0,0,1
+Millard,Fillmore 2,U.S. Senate,,Bill Barron,,3,0,0,0,3
+Millard,Fillmore 2,U.S. Senate,,Write-In Votes,,2,0,1,0,3
+Millard,Fillmore 2,U.S. House,2,Chris Stewart,REP,185,77,26,0,288
+Millard,Fillmore 2,U.S. House,2,Jay Seegmiller,DEM,32,13,2,0,47
+Millard,Fillmore 2,U.S. House,2,Charles E. Kimball,,0,1,0,0,1
+Millard,Fillmore 2,U.S. House,2,Jonathan D. Garrard,CON,4,0,1,0,5
+Millard,Fillmore 2,U.S. House,2,Joseph Andrade,,5,0,1,0,6
+Millard,Fillmore 2,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 2,Governor,,Peter S. Cooke,DEM,32,14,1,0,47
+Millard,Fillmore 2,Governor,,Ken Larsen,LIB,4,0,0,0,4
+Millard,Fillmore 2,Governor,,Kirk D. Pearson,CON,4,2,1,0,7
+Millard,Fillmore 2,Governor,,Gary R. Herbert,REP,189,76,30,0,295
+Millard,Fillmore 2,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 2,Attorney General,,Dee W. Smith,DEM,30,14,3,0,47
+Millard,Fillmore 2,Attorney General,,John Swallow,REP,182,74,28,0,284
+Millard,Fillmore 2,Attorney General,,W. Andrew McCullough,LIB,14,3,1,0,18
+Millard,Fillmore 2,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 2,State Auditor,,Mark Sage,DEM,33,12,5,0,50
+Millard,Fillmore 2,State Auditor,,John Dougall,REP,177,79,23,0,279
+Millard,Fillmore 2,State Auditor,,Richard Proctor,CON,13,0,2,0,15
+Millard,Fillmore 2,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 2,State Treasurer,,Christopher Stout,DEM,35,14,1,0,50
+Millard,Fillmore 2,State Treasurer,,Vincent C. Marcus,LIB,9,1,2,0,12
+Millard,Fillmore 2,State Treasurer,,Richard K. Ellis,REP,174,75,27,0,276
+Millard,Fillmore 2,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 2,State Senate,24,Ralph Okerlund,REP,198,80,29,0,307
+Millard,Fillmore 2,State Senate,24,Trestin Meacham,CON,20,8,1,0,29
+Millard,Fillmore 2,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Fillmore 2,State House,68,Merrill Nelson,REP,178,71,27,0,276
+Millard,Fillmore 2,State House,68,Thomas E. Nedreberg,DEM,25,17,2,0,44
+Millard,Fillmore 2,State House,68,Paul J. McCollaum,CON,20,3,2,0,25
+Millard,Fillmore 2,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Flowell,Registered Voters,,,,,,,,147
+Millard,Flowell,Ballots Cast,,,,97,14,12,0,123
+Millard,Flowell,Straight Party,,,CON,0,0,2,0,2
+Millard,Flowell,Straight Party,,,LIB,0,0,0,0,0
+Millard,Flowell,Straight Party,,,DEM,0,0,0,0,0
+Millard,Flowell,Straight Party,,,REP,22,7,0,0,29
+Millard,Flowell,Straight Party,,,JUS,0,0,0,0,0
+Millard,Flowell,Straight Party,,,GRN,0,0,0,0,0
+Millard,Flowell,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Flowell,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Flowell,President/Vice President,,Mitt Romney,REP,88,14,9,0,111
+Millard,Flowell,President/Vice President,,Barack Obama,DEM,2,0,3,0,5
+Millard,Flowell,President/Vice President,,Gary Johnson,LIB,3,0,0,0,3
+Millard,Flowell,President/Vice President,,Virgil Goode,CON,0,0,0,0,0
+Millard,Flowell,President/Vice President,,Ross C. Anderson,JUS,1,0,0,0,1
+Millard,Flowell,President/Vice President,,Write-In Votes,,0,0,0,0,0
+Millard,Flowell,U.S. Senate,,Shaun McCausland,CON,4,1,3,0,8
+Millard,Flowell,U.S. Senate,,Scott Howell,DEM,4,1,2,0,7
+Millard,Flowell,U.S. Senate,,Orrin G. Hatch,REP,85,11,7,0,103
+Millard,Flowell,U.S. Senate,,Daniel Geery,JUS,1,1,0,0,2
+Millard,Flowell,U.S. Senate,,Bill Barron,,0,0,0,0,0
+Millard,Flowell,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Flowell,U.S. House,2,Chris Stewart,REP,80,14,8,0,102
+Millard,Flowell,U.S. House,2,Jay Seegmiller,DEM,5,0,3,0,8
+Millard,Flowell,U.S. House,2,Charles E. Kimball,,2,0,0,0,2
+Millard,Flowell,U.S. House,2,Jonathan D. Garrard,CON,3,0,0,0,3
+Millard,Flowell,U.S. House,2,Joseph Andrade,,1,0,0,0,1
+Millard,Flowell,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Flowell,Governor,,Peter S. Cooke,DEM,12,0,1,0,13
+Millard,Flowell,Governor,,Ken Larsen,LIB,3,0,0,0,3
+Millard,Flowell,Governor,,Kirk D. Pearson,CON,0,1,0,0,1
+Millard,Flowell,Governor,,Gary R. Herbert,REP,80,13,11,0,104
+Millard,Flowell,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Flowell,Attorney General,,Dee W. Smith,DEM,10,0,4,0,14
+Millard,Flowell,Attorney General,,John Swallow,REP,77,14,8,0,99
+Millard,Flowell,Attorney General,,W. Andrew McCullough,LIB,6,0,0,0,6
+Millard,Flowell,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Flowell,State Auditor,,Mark Sage,DEM,14,1,4,0,19
+Millard,Flowell,State Auditor,,John Dougall,REP,73,13,5,0,91
+Millard,Flowell,State Auditor,,Richard Proctor,CON,2,0,1,0,3
+Millard,Flowell,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Flowell,State Treasurer,,Christopher Stout,DEM,12,1,3,0,16
+Millard,Flowell,State Treasurer,,Vincent C. Marcus,LIB,2,0,1,0,3
+Millard,Flowell,State Treasurer,,Richard K. Ellis,REP,73,13,6,0,92
+Millard,Flowell,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Flowell,State Senate,24,Ralph Okerlund,REP,83,14,3,0,100
+Millard,Flowell,State Senate,24,Trestin Meacham,CON,5,0,6,0,11
+Millard,Flowell,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Flowell,State House,68,Merrill Nelson,REP,74,14,4,0,92
+Millard,Flowell,State House,68,Thomas E. Nedreberg,DEM,9,0,4,0,13
+Millard,Flowell,State House,68,Paul J. McCollaum,CON,4,0,2,0,6
+Millard,Flowell,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Garrison,Registered Voters,,,,,,,,86
+Millard,Garrison,Ballots Cast,,,,72,0,0,0,72
+Millard,Garrison,Straight Party,,,CON,0,0,0,0,0
+Millard,Garrison,Straight Party,,,LIB,0,0,0,0,0
+Millard,Garrison,Straight Party,,,DEM,0,0,0,0,0
+Millard,Garrison,Straight Party,,,REP,17,0,0,0,17
+Millard,Garrison,Straight Party,,,JUS,0,0,0,0,0
+Millard,Garrison,Straight Party,,,GRN,0,0,0,0,0
+Millard,Garrison,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Garrison,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Garrison,President/Vice President,,Mitt Romney,REP,70,0,0,0,70
+Millard,Garrison,President/Vice President,,Barack Obama,DEM,1,0,0,0,1
+Millard,Garrison,President/Vice President,,Gary Johnson,LIB,0,0,0,0,0
+Millard,Garrison,President/Vice President,,Virgil Goode,CON,0,0,0,0,0
+Millard,Garrison,President/Vice President,,Ross C. Anderson,JUS,0,0,0,0,0
+Millard,Garrison,President/Vice President,,Write-In Votes,,0,0,0,0,0
+Millard,Garrison,U.S. Senate,,Shaun McCausland,CON,4,0,0,0,4
+Millard,Garrison,U.S. Senate,,Scott Howell,DEM,1,0,0,0,1
+Millard,Garrison,U.S. Senate,,Orrin G. Hatch,REP,66,0,0,0,66
+Millard,Garrison,U.S. Senate,,Daniel Geery,JUS,0,0,0,0,0
+Millard,Garrison,U.S. Senate,,Bill Barron,,0,0,0,0,0
+Millard,Garrison,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Garrison,U.S. House,2,Chris Stewart,REP,65,0,0,0,65
+Millard,Garrison,U.S. House,2,Jay Seegmiller,DEM,1,0,0,0,1
+Millard,Garrison,U.S. House,2,Charles E. Kimball,,0,0,0,0,0
+Millard,Garrison,U.S. House,2,Jonathan D. Garrard,CON,5,0,0,0,5
+Millard,Garrison,U.S. House,2,Joseph Andrade,,0,0,0,0,0
+Millard,Garrison,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Garrison,Governor,,Peter S. Cooke,DEM,2,0,0,0,2
+Millard,Garrison,Governor,,Ken Larsen,LIB,1,0,0,0,1
+Millard,Garrison,Governor,,Kirk D. Pearson,CON,7,0,0,0,7
+Millard,Garrison,Governor,,Gary R. Herbert,REP,61,0,0,0,61
+Millard,Garrison,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Garrison,Attorney General,,Dee W. Smith,DEM,8,0,0,0,8
+Millard,Garrison,Attorney General,,John Swallow,REP,63,0,0,0,63
+Millard,Garrison,Attorney General,,W. Andrew McCullough,LIB,0,0,0,0,0
+Millard,Garrison,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Garrison,State Auditor,,Mark Sage,DEM,3,0,0,0,3
+Millard,Garrison,State Auditor,,John Dougall,REP,62,0,0,0,62
+Millard,Garrison,State Auditor,,Richard Proctor,CON,3,0,0,0,3
+Millard,Garrison,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Garrison,State Treasurer,,Christopher Stout,DEM,2,0,0,0,2
+Millard,Garrison,State Treasurer,,Vincent C. Marcus,LIB,1,0,0,0,1
+Millard,Garrison,State Treasurer,,Richard K. Ellis,REP,65,0,0,0,65
+Millard,Garrison,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Garrison,State Senate,24,Ralph Okerlund,REP,65,0,0,0,65
+Millard,Garrison,State Senate,24,Trestin Meacham,CON,2,0,0,0,2
+Millard,Garrison,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Garrison,State House,68,Merrill Nelson,REP,62,0,0,0,62
+Millard,Garrison,State House,68,Thomas E. Nedreberg,DEM,4,0,0,0,4
+Millard,Garrison,State House,68,Paul J. McCollaum,CON,5,0,0,0,5
+Millard,Garrison,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Hinckley,Registered Voters,,,,,,,,382
+Millard,Hinckley,Ballots Cast,,,,234,15,24,2,275
+Millard,Hinckley,Straight Party,,,CON,0,0,0,0,0
+Millard,Hinckley,Straight Party,,,LIB,0,0,0,0,0
+Millard,Hinckley,Straight Party,,,DEM,6,0,0,1,7
+Millard,Hinckley,Straight Party,,,REP,33,2,6,1,42
+Millard,Hinckley,Straight Party,,,JUS,0,0,0,0,0
+Millard,Hinckley,Straight Party,,,GRN,0,0,0,0,0
+Millard,Hinckley,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Hinckley,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Hinckley,President/Vice President,,Mitt Romney,REP,201,12,24,0,237
+Millard,Hinckley,President/Vice President,,Barack Obama,DEM,25,2,0,2,29
+Millard,Hinckley,President/Vice President,,Gary Johnson,LIB,2,0,0,0,2
+Millard,Hinckley,President/Vice President,,Virgil Goode,CON,2,0,0,0,2
+Millard,Hinckley,President/Vice President,,Ross C. Anderson,JUS,0,0,0,0,0
+Millard,Hinckley,President/Vice President,,Write-In Votes,,1,0,0,0,1
+Millard,Hinckley,U.S. Senate,,Shaun McCausland,CON,26,1,2,0,29
+Millard,Hinckley,U.S. Senate,,Scott Howell,DEM,36,2,1,1,40
+Millard,Hinckley,U.S. Senate,,Orrin G. Hatch,REP,168,12,19,1,200
+Millard,Hinckley,U.S. Senate,,Daniel Geery,JUS,1,0,1,0,2
+Millard,Hinckley,U.S. Senate,,Bill Barron,,0,0,0,0,0
+Millard,Hinckley,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Hinckley,U.S. House,2,Chris Stewart,REP,180,14,22,0,216
+Millard,Hinckley,U.S. House,2,Jay Seegmiller,DEM,28,0,0,1,29
+Millard,Hinckley,U.S. House,2,Charles E. Kimball,,5,0,0,1,6
+Millard,Hinckley,U.S. House,2,Jonathan D. Garrard,CON,9,0,0,0,9
+Millard,Hinckley,U.S. House,2,Joseph Andrade,,3,0,1,0,4
+Millard,Hinckley,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Hinckley,Governor,,Peter S. Cooke,DEM,38,3,0,1,42
+Millard,Hinckley,Governor,,Ken Larsen,LIB,6,0,1,0,7
+Millard,Hinckley,Governor,,Kirk D. Pearson,CON,14,1,1,0,16
+Millard,Hinckley,Governor,,Gary R. Herbert,REP,173,11,22,1,207
+Millard,Hinckley,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Hinckley,Attorney General,,Dee W. Smith,DEM,35,2,3,1,41
+Millard,Hinckley,Attorney General,,John Swallow,REP,169,11,20,1,201
+Millard,Hinckley,Attorney General,,W. Andrew McCullough,LIB,22,1,0,0,23
+Millard,Hinckley,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Hinckley,State Auditor,,Mark Sage,DEM,36,2,2,1,41
+Millard,Hinckley,State Auditor,,John Dougall,REP,154,10,18,1,183
+Millard,Hinckley,State Auditor,,Richard Proctor,CON,31,2,3,0,36
+Millard,Hinckley,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Hinckley,State Treasurer,,Christopher Stout,DEM,37,0,1,1,39
+Millard,Hinckley,State Treasurer,,Vincent C. Marcus,LIB,19,1,1,0,21
+Millard,Hinckley,State Treasurer,,Richard K. Ellis,REP,164,13,20,1,198
+Millard,Hinckley,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Hinckley,State Senate,24,Ralph Okerlund,REP,183,12,20,1,216
+Millard,Hinckley,State Senate,24,Trestin Meacham,CON,34,2,3,1,40
+Millard,Hinckley,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Hinckley,State House,68,Merrill Nelson,REP,163,10,20,1,194
+Millard,Hinckley,State House,68,Thomas E. Nedreberg,DEM,27,2,0,1,30
+Millard,Hinckley,State House,68,Paul J. McCollaum,CON,36,2,3,0,41
+Millard,Hinckley,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Holden,Registered Voters,,,,,,,,303
+Millard,Holden,Ballots Cast,,,,220,21,19,2,262
+Millard,Holden,Straight Party,,,CON,1,0,0,0,1
+Millard,Holden,Straight Party,,,LIB,0,0,0,0,0
+Millard,Holden,Straight Party,,,DEM,3,1,0,0,4
+Millard,Holden,Straight Party,,,REP,38,2,5,0,45
+Millard,Holden,Straight Party,,,JUS,0,0,0,0,0
+Millard,Holden,Straight Party,,,GRN,0,0,0,0,0
+Millard,Holden,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Holden,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Holden,President/Vice President,,Mitt Romney,REP,204,19,17,2,242
+Millard,Holden,President/Vice President,,Barack Obama,DEM,6,2,1,0,9
+Millard,Holden,President/Vice President,,Gary Johnson,LIB,0,0,1,0,1
+Millard,Holden,President/Vice President,,Virgil Goode,CON,5,0,0,0,5
+Millard,Holden,President/Vice President,,Ross C. Anderson,JUS,1,0,0,0,1
+Millard,Holden,President/Vice President,,Write-In Votes,,0,0,0,0,0
+Millard,Holden,U.S. Senate,,Shaun McCausland,CON,11,1,1,0,13
+Millard,Holden,U.S. Senate,,Scott Howell,DEM,17,5,3,0,25
+Millard,Holden,U.S. Senate,,Orrin G. Hatch,REP,185,15,14,2,216
+Millard,Holden,U.S. Senate,,Daniel Geery,JUS,1,0,0,0,1
+Millard,Holden,U.S. Senate,,Bill Barron,,1,0,1,0,2
+Millard,Holden,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Holden,U.S. House,2,Chris Stewart,REP,184,15,15,2,216
+Millard,Holden,U.S. House,2,Jay Seegmiller,DEM,18,6,1,0,25
+Millard,Holden,U.S. House,2,Charles E. Kimball,,5,0,2,0,7
+Millard,Holden,U.S. House,2,Jonathan D. Garrard,CON,6,0,0,0,6
+Millard,Holden,U.S. House,2,Joseph Andrade,,2,0,0,0,2
+Millard,Holden,U.S. House,2,Write-In Votes,,1,0,0,0,1
+Millard,Holden,Governor,,Peter S. Cooke,DEM,18,4,2,0,24
+Millard,Holden,Governor,,Ken Larsen,LIB,1,2,0,0,3
+Millard,Holden,Governor,,Kirk D. Pearson,CON,7,0,1,0,8
+Millard,Holden,Governor,,Gary R. Herbert,REP,189,15,16,2,222
+Millard,Holden,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Holden,Attorney General,,Dee W. Smith,DEM,18,3,1,0,22
+Millard,Holden,Attorney General,,John Swallow,REP,188,17,17,2,224
+Millard,Holden,Attorney General,,W. Andrew McCullough,LIB,5,1,1,0,7
+Millard,Holden,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Holden,State Auditor,,Mark Sage,DEM,15,5,4,0,24
+Millard,Holden,State Auditor,,John Dougall,REP,189,15,12,2,218
+Millard,Holden,State Auditor,,Richard Proctor,CON,7,0,3,0,10
+Millard,Holden,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Holden,State Treasurer,,Christopher Stout,DEM,20,3,3,0,26
+Millard,Holden,State Treasurer,,Vincent C. Marcus,LIB,5,0,4,0,9
+Millard,Holden,State Treasurer,,Richard K. Ellis,REP,184,18,12,2,216
+Millard,Holden,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Holden,State Senate,24,Ralph Okerlund,REP,192,18,17,2,229
+Millard,Holden,State Senate,24,Trestin Meacham,CON,17,1,0,0,18
+Millard,Holden,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Holden,State House,68,Merrill Nelson,REP,175,15,16,2,208
+Millard,Holden,State House,68,Thomas E. Nedreberg,DEM,22,5,1,0,28
+Millard,Holden,State House,68,Paul J. McCollaum,CON,15,1,0,0,16
+Millard,Holden,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Kanosh,Registered Voters,,,,,,,,410
+Millard,Kanosh,Ballots Cast,,,,238,41,46,1,326
+Millard,Kanosh,Straight Party,,,CON,1,0,0,0,1
+Millard,Kanosh,Straight Party,,,LIB,2,0,0,0,2
+Millard,Kanosh,Straight Party,,,DEM,9,0,5,0,14
+Millard,Kanosh,Straight Party,,,REP,48,7,9,0,64
+Millard,Kanosh,Straight Party,,,JUS,0,0,0,0,0
+Millard,Kanosh,Straight Party,,,GRN,0,0,0,0,0
+Millard,Kanosh,President/Vice President,,Jill Stein,GRN,1,0,0,0,1
+Millard,Kanosh,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Kanosh,President/Vice President,,Mitt Romney,REP,195,38,36,1,270
+Millard,Kanosh,President/Vice President,,Barack Obama,DEM,20,2,6,0,28
+Millard,Kanosh,President/Vice President,,Gary Johnson,LIB,9,0,0,0,9
+Millard,Kanosh,President/Vice President,,Virgil Goode,CON,3,0,0,0,3
+Millard,Kanosh,President/Vice President,,Ross C. Anderson,JUS,1,0,1,0,2
+Millard,Kanosh,President/Vice President,,Write-In Votes,,6,0,3,0,9
+Millard,Kanosh,U.S. Senate,,Shaun McCausland,CON,32,2,5,0,39
+Millard,Kanosh,U.S. Senate,,Scott Howell,DEM,35,12,5,0,52
+Millard,Kanosh,U.S. Senate,,Orrin G. Hatch,REP,162,26,33,1,222
+Millard,Kanosh,U.S. Senate,,Daniel Geery,JUS,2,0,2,0,4
+Millard,Kanosh,U.S. Senate,,Bill Barron,,2,0,1,0,3
+Millard,Kanosh,U.S. Senate,,Write-In Votes,,0,1,0,0,1
+Millard,Kanosh,U.S. House,2,Chris Stewart,REP,175,33,27,1,236
+Millard,Kanosh,U.S. House,2,Jay Seegmiller,DEM,24,5,10,0,39
+Millard,Kanosh,U.S. House,2,Charles E. Kimball,,15,0,4,0,19
+Millard,Kanosh,U.S. House,2,Jonathan D. Garrard,CON,15,1,5,0,21
+Millard,Kanosh,U.S. House,2,Joseph Andrade,,0,0,0,0,0
+Millard,Kanosh,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Kanosh,Governor,,Peter S. Cooke,DEM,33,7,11,0,51
+Millard,Kanosh,Governor,,Ken Larsen,LIB,10,0,1,0,11
+Millard,Kanosh,Governor,,Kirk D. Pearson,CON,16,2,6,0,24
+Millard,Kanosh,Governor,,Gary R. Herbert,REP,177,30,27,1,235
+Millard,Kanosh,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Kanosh,Attorney General,,Dee W. Smith,DEM,33,4,12,0,49
+Millard,Kanosh,Attorney General,,John Swallow,REP,175,33,30,1,239
+Millard,Kanosh,Attorney General,,W. Andrew McCullough,LIB,16,1,3,0,20
+Millard,Kanosh,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Kanosh,State Auditor,,Mark Sage,DEM,39,5,12,0,56
+Millard,Kanosh,State Auditor,,John Dougall,REP,153,27,25,1,206
+Millard,Kanosh,State Auditor,,Richard Proctor,CON,32,6,7,0,45
+Millard,Kanosh,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Kanosh,State Treasurer,,Christopher Stout,DEM,32,8,12,0,52
+Millard,Kanosh,State Treasurer,,Vincent C. Marcus,LIB,26,0,4,0,30
+Millard,Kanosh,State Treasurer,,Richard K. Ellis,REP,161,30,29,1,221
+Millard,Kanosh,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Kanosh,State Senate,24,Ralph Okerlund,REP,179,35,32,1,247
+Millard,Kanosh,State Senate,24,Trestin Meacham,CON,42,3,7,0,52
+Millard,Kanosh,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Kanosh,State House,68,Merrill Nelson,REP,170,29,27,1,227
+Millard,Kanosh,State House,68,Thomas E. Nedreberg,DEM,26,5,9,0,40
+Millard,Kanosh,State House,68,Paul J. McCollaum,CON,29,5,9,0,43
+Millard,Kanosh,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Leamington,Registered Voters,,,,,,,,175
+Millard,Leamington,Ballots Cast,,,,127,8,11,5,151
+Millard,Leamington,Straight Party,,,CON,0,0,0,0,0
+Millard,Leamington,Straight Party,,,LIB,0,0,0,0,0
+Millard,Leamington,Straight Party,,,DEM,2,0,0,0,2
+Millard,Leamington,Straight Party,,,REP,30,0,2,4,36
+Millard,Leamington,Straight Party,,,JUS,0,0,0,0,0
+Millard,Leamington,Straight Party,,,GRN,0,0,0,0,0
+Millard,Leamington,President/Vice President,,Jill Stein,GRN,1,0,0,0,1
+Millard,Leamington,President/Vice President,,Gloria La Riva,,1,0,0,0,1
+Millard,Leamington,President/Vice President,,Mitt Romney,REP,115,6,11,5,137
+Millard,Leamington,President/Vice President,,Barack Obama,DEM,8,2,0,0,10
+Millard,Leamington,President/Vice President,,Gary Johnson,LIB,1,0,0,0,1
+Millard,Leamington,President/Vice President,,Virgil Goode,CON,0,0,0,0,0
+Millard,Leamington,President/Vice President,,Ross C. Anderson,JUS,0,0,0,0,0
+Millard,Leamington,President/Vice President,,Write-In Votes,,0,0,0,0,0
+Millard,Leamington,U.S. Senate,,Shaun McCausland,CON,5,0,1,0,6
+Millard,Leamington,U.S. Senate,,Scott Howell,DEM,25,3,1,0,29
+Millard,Leamington,U.S. Senate,,Orrin G. Hatch,REP,91,5,9,5,110
+Millard,Leamington,U.S. Senate,,Daniel Geery,JUS,2,0,0,0,2
+Millard,Leamington,U.S. Senate,,Bill Barron,,0,0,0,0,0
+Millard,Leamington,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Leamington,U.S. House,2,Chris Stewart,REP,98,6,9,4,117
+Millard,Leamington,U.S. House,2,Jay Seegmiller,DEM,22,2,1,1,26
+Millard,Leamington,U.S. House,2,Charles E. Kimball,,2,0,0,0,2
+Millard,Leamington,U.S. House,2,Jonathan D. Garrard,CON,1,0,1,0,2
+Millard,Leamington,U.S. House,2,Joseph Andrade,,1,0,0,0,1
+Millard,Leamington,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Leamington,Governor,,Peter S. Cooke,DEM,17,2,2,0,21
+Millard,Leamington,Governor,,Ken Larsen,LIB,1,0,1,0,2
+Millard,Leamington,Governor,,Kirk D. Pearson,CON,5,0,0,0,5
+Millard,Leamington,Governor,,Gary R. Herbert,REP,101,6,8,5,120
+Millard,Leamington,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Leamington,Attorney General,,Dee W. Smith,DEM,21,2,2,0,25
+Millard,Leamington,Attorney General,,John Swallow,REP,97,6,8,5,116
+Millard,Leamington,Attorney General,,W. Andrew McCullough,LIB,5,0,1,0,6
+Millard,Leamington,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Leamington,State Auditor,,Mark Sage,DEM,23,1,2,0,26
+Millard,Leamington,State Auditor,,John Dougall,REP,84,4,8,5,101
+Millard,Leamington,State Auditor,,Richard Proctor,CON,12,3,1,0,16
+Millard,Leamington,State Auditor,,Write-In Votes,,1,0,0,0,1
+Millard,Leamington,State Treasurer,,Christopher Stout,DEM,20,1,1,0,22
+Millard,Leamington,State Treasurer,,Vincent C. Marcus,LIB,5,0,2,0,7
+Millard,Leamington,State Treasurer,,Richard K. Ellis,REP,95,7,8,5,115
+Millard,Leamington,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Leamington,State Senate,24,Ralph Okerlund,REP,102,8,10,5,125
+Millard,Leamington,State Senate,24,Trestin Meacham,CON,15,0,1,0,16
+Millard,Leamington,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Leamington,State House,68,Merrill Nelson,REP,102,6,8,5,121
+Millard,Leamington,State House,68,Thomas E. Nedreberg,DEM,9,1,1,0,11
+Millard,Leamington,State House,68,Paul J. McCollaum,CON,11,1,1,0,13
+Millard,Leamington,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Lynndyl,Registered Voters,,,,,,,,88
+Millard,Lynndyl,Ballots Cast,,,,63,3,2,1,69
+Millard,Lynndyl,Straight Party,,,CON,0,0,0,0,0
+Millard,Lynndyl,Straight Party,,,LIB,0,0,0,0,0
+Millard,Lynndyl,Straight Party,,,DEM,6,1,0,0,7
+Millard,Lynndyl,Straight Party,,,REP,10,1,1,1,13
+Millard,Lynndyl,Straight Party,,,JUS,0,0,0,0,0
+Millard,Lynndyl,Straight Party,,,GRN,0,0,0,0,0
+Millard,Lynndyl,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Lynndyl,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Lynndyl,President/Vice President,,Mitt Romney,REP,52,2,2,1,57
+Millard,Lynndyl,President/Vice President,,Barack Obama,DEM,7,1,0,0,8
+Millard,Lynndyl,President/Vice President,,Gary Johnson,LIB,1,0,0,0,1
+Millard,Lynndyl,President/Vice President,,Virgil Goode,CON,1,0,0,0,1
+Millard,Lynndyl,President/Vice President,,Ross C. Anderson,JUS,0,0,0,0,0
+Millard,Lynndyl,President/Vice President,,Write-In Votes,,0,0,0,0,0
+Millard,Lynndyl,U.S. Senate,,Shaun McCausland,CON,5,0,0,0,5
+Millard,Lynndyl,U.S. Senate,,Scott Howell,DEM,16,1,0,0,17
+Millard,Lynndyl,U.S. Senate,,Orrin G. Hatch,REP,42,2,1,1,46
+Millard,Lynndyl,U.S. Senate,,Daniel Geery,JUS,0,0,1,0,1
+Millard,Lynndyl,U.S. Senate,,Bill Barron,,0,0,0,0,0
+Millard,Lynndyl,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Lynndyl,U.S. House,2,Chris Stewart,REP,46,2,2,1,51
+Millard,Lynndyl,U.S. House,2,Jay Seegmiller,DEM,13,1,0,0,14
+Millard,Lynndyl,U.S. House,2,Charles E. Kimball,,1,0,0,0,1
+Millard,Lynndyl,U.S. House,2,Jonathan D. Garrard,CON,3,0,0,0,3
+Millard,Lynndyl,U.S. House,2,Joseph Andrade,,0,0,0,0,0
+Millard,Lynndyl,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Lynndyl,Governor,,Peter S. Cooke,DEM,14,1,0,0,15
+Millard,Lynndyl,Governor,,Ken Larsen,LIB,2,0,0,0,2
+Millard,Lynndyl,Governor,,Kirk D. Pearson,CON,1,0,0,0,1
+Millard,Lynndyl,Governor,,Gary R. Herbert,REP,46,2,2,1,51
+Millard,Lynndyl,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Lynndyl,Attorney General,,Dee W. Smith,DEM,12,1,0,0,13
+Millard,Lynndyl,Attorney General,,John Swallow,REP,46,2,2,1,51
+Millard,Lynndyl,Attorney General,,W. Andrew McCullough,LIB,4,0,0,0,4
+Millard,Lynndyl,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Lynndyl,State Auditor,,Mark Sage,DEM,16,1,0,0,17
+Millard,Lynndyl,State Auditor,,John Dougall,REP,39,2,1,1,43
+Millard,Lynndyl,State Auditor,,Richard Proctor,CON,5,0,1,0,6
+Millard,Lynndyl,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Lynndyl,State Treasurer,,Christopher Stout,DEM,14,1,0,0,15
+Millard,Lynndyl,State Treasurer,,Vincent C. Marcus,LIB,3,0,0,0,3
+Millard,Lynndyl,State Treasurer,,Richard K. Ellis,REP,42,2,2,1,47
+Millard,Lynndyl,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Lynndyl,State Senate,24,Ralph Okerlund,REP,47,2,1,1,51
+Millard,Lynndyl,State Senate,24,Trestin Meacham,CON,11,1,1,0,13
+Millard,Lynndyl,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Lynndyl,State House,68,Merrill Nelson,REP,47,2,1,1,51
+Millard,Lynndyl,State House,68,Thomas E. Nedreberg,DEM,7,1,0,0,8
+Millard,Lynndyl,State House,68,Paul J. McCollaum,CON,8,0,1,0,9
+Millard,Lynndyl,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Meadow,Registered Voters,,,,,,,,220
+Millard,Meadow,Ballots Cast,,,,154,8,15,1,178
+Millard,Meadow,Straight Party,,,CON,0,0,0,0,0
+Millard,Meadow,Straight Party,,,LIB,0,0,0,0,0
+Millard,Meadow,Straight Party,,,DEM,0,0,1,0,1
+Millard,Meadow,Straight Party,,,REP,27,2,2,1,32
+Millard,Meadow,Straight Party,,,JUS,0,0,0,0,0
+Millard,Meadow,Straight Party,,,GRN,1,0,0,0,1
+Millard,Meadow,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Meadow,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Meadow,President/Vice President,,Mitt Romney,REP,133,7,11,1,152
+Millard,Meadow,President/Vice President,,Barack Obama,DEM,9,1,4,0,14
+Millard,Meadow,President/Vice President,,Gary Johnson,LIB,0,0,0,0,0
+Millard,Meadow,President/Vice President,,Virgil Goode,CON,5,0,0,0,5
+Millard,Meadow,President/Vice President,,Ross C. Anderson,JUS,1,0,0,0,1
+Millard,Meadow,President/Vice President,,Write-In Votes,,2,0,0,0,2
+Millard,Meadow,U.S. Senate,,Shaun McCausland,CON,10,0,2,1,13
+Millard,Meadow,U.S. Senate,,Scott Howell,DEM,22,1,5,0,28
+Millard,Meadow,U.S. Senate,,Orrin G. Hatch,REP,116,7,8,0,131
+Millard,Meadow,U.S. Senate,,Daniel Geery,JUS,1,0,0,0,1
+Millard,Meadow,U.S. Senate,,Bill Barron,,1,0,0,0,1
+Millard,Meadow,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Meadow,U.S. House,2,Chris Stewart,REP,118,6,11,1,136
+Millard,Meadow,U.S. House,2,Jay Seegmiller,DEM,19,2,4,0,25
+Millard,Meadow,U.S. House,2,Charles E. Kimball,,5,0,0,0,5
+Millard,Meadow,U.S. House,2,Jonathan D. Garrard,CON,3,0,0,0,3
+Millard,Meadow,U.S. House,2,Joseph Andrade,,0,0,0,0,0
+Millard,Meadow,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Meadow,Governor,,Peter S. Cooke,DEM,16,1,4,1,22
+Millard,Meadow,Governor,,Ken Larsen,LIB,3,0,0,0,3
+Millard,Meadow,Governor,,Kirk D. Pearson,CON,4,0,2,0,6
+Millard,Meadow,Governor,,Gary R. Herbert,REP,125,7,9,0,141
+Millard,Meadow,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Meadow,Attorney General,,Dee W. Smith,DEM,18,1,5,0,24
+Millard,Meadow,Attorney General,,John Swallow,REP,118,7,10,1,136
+Millard,Meadow,Attorney General,,W. Andrew McCullough,LIB,7,0,0,0,7
+Millard,Meadow,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Meadow,State Auditor,,Mark Sage,DEM,21,0,4,1,26
+Millard,Meadow,State Auditor,,John Dougall,REP,109,7,9,0,125
+Millard,Meadow,State Auditor,,Richard Proctor,CON,13,1,2,0,16
+Millard,Meadow,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Meadow,State Treasurer,,Christopher Stout,DEM,23,1,3,0,27
+Millard,Meadow,State Treasurer,,Vincent C. Marcus,LIB,7,0,1,0,8
+Millard,Meadow,State Treasurer,,Richard K. Ellis,REP,110,7,11,1,129
+Millard,Meadow,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Meadow,State Senate,24,Ralph Okerlund,REP,124,8,9,1,142
+Millard,Meadow,State Senate,24,Trestin Meacham,CON,17,0,3,0,20
+Millard,Meadow,State Senate,24,Write-In Votes,,0,0,2,0,2
+Millard,Meadow,State House,68,Merrill Nelson,REP,112,7,8,0,127
+Millard,Meadow,State House,68,Thomas E. Nedreberg,DEM,22,0,4,0,26
+Millard,Meadow,State House,68,Paul J. McCollaum,CON,10,1,3,1,15
+Millard,Meadow,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Oak City,Registered Voters,,,,,,,,468
+Millard,Oak City,Ballots Cast,,,,331,17,27,4,379
+Millard,Oak City,Straight Party,,,CON,6,0,0,0,6
+Millard,Oak City,Straight Party,,,LIB,0,0,0,0,0
+Millard,Oak City,Straight Party,,,DEM,7,2,0,0,9
+Millard,Oak City,Straight Party,,,REP,57,1,8,1,67
+Millard,Oak City,Straight Party,,,JUS,0,0,0,0,0
+Millard,Oak City,Straight Party,,,GRN,0,0,0,0,0
+Millard,Oak City,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Oak City,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Oak City,President/Vice President,,Mitt Romney,REP,292,11,24,4,331
+Millard,Oak City,President/Vice President,,Barack Obama,DEM,18,3,0,0,21
+Millard,Oak City,President/Vice President,,Gary Johnson,LIB,3,0,1,0,4
+Millard,Oak City,President/Vice President,,Virgil Goode,CON,13,1,0,0,14
+Millard,Oak City,President/Vice President,,Ross C. Anderson,JUS,0,0,0,0,0
+Millard,Oak City,President/Vice President,,Write-In Votes,,3,1,2,0,6
+Millard,Oak City,U.S. Senate,,Shaun McCausland,CON,41,2,4,2,49
+Millard,Oak City,U.S. Senate,,Scott Howell,DEM,56,6,3,1,66
+Millard,Oak City,U.S. Senate,,Orrin G. Hatch,REP,225,8,17,1,251
+Millard,Oak City,U.S. Senate,,Daniel Geery,JUS,1,0,1,0,2
+Millard,Oak City,U.S. Senate,,Bill Barron,,3,0,2,0,5
+Millard,Oak City,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Oak City,U.S. House,2,Chris Stewart,REP,255,10,23,2,290
+Millard,Oak City,U.S. House,2,Jay Seegmiller,DEM,35,4,1,1,41
+Millard,Oak City,U.S. House,2,Charles E. Kimball,,3,0,1,0,4
+Millard,Oak City,U.S. House,2,Jonathan D. Garrard,CON,24,1,2,1,28
+Millard,Oak City,U.S. House,2,Joseph Andrade,,1,1,0,0,2
+Millard,Oak City,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Oak City,Governor,,Peter S. Cooke,DEM,38,5,1,1,45
+Millard,Oak City,Governor,,Ken Larsen,LIB,3,0,0,0,3
+Millard,Oak City,Governor,,Kirk D. Pearson,CON,24,1,3,0,28
+Millard,Oak City,Governor,,Gary R. Herbert,REP,259,11,23,3,296
+Millard,Oak City,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Oak City,Attorney General,,Dee W. Smith,DEM,42,6,1,0,49
+Millard,Oak City,Attorney General,,John Swallow,REP,257,9,23,1,290
+Millard,Oak City,Attorney General,,W. Andrew McCullough,LIB,22,2,3,3,30
+Millard,Oak City,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Oak City,State Auditor,,Mark Sage,DEM,31,3,2,0,36
+Millard,Oak City,State Auditor,,John Dougall,REP,239,11,20,1,271
+Millard,Oak City,State Auditor,,Richard Proctor,CON,43,2,5,3,53
+Millard,Oak City,State Auditor,,Write-In Votes,,3,0,0,0,3
+Millard,Oak City,State Treasurer,,Christopher Stout,DEM,47,3,1,1,52
+Millard,Oak City,State Treasurer,,Vincent C. Marcus,LIB,24,4,2,1,31
+Millard,Oak City,State Treasurer,,Richard K. Ellis,REP,238,10,23,2,273
+Millard,Oak City,State Treasurer,,Write-In Votes,,2,0,0,0,2
+Millard,Oak City,State Senate,24,Ralph Okerlund,REP,260,10,21,1,292
+Millard,Oak City,State Senate,24,Trestin Meacham,CON,53,3,5,3,64
+Millard,Oak City,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Oak City,State House,68,Merrill Nelson,REP,234,7,20,1,262
+Millard,Oak City,State House,68,Thomas E. Nedreberg,DEM,35,5,1,0,41
+Millard,Oak City,State House,68,Paul J. McCollaum,CON,51,4,5,3,63
+Millard,Oak City,State House,68,Write-In Votes,,4,0,1,0,5
+Millard,Scipio,Registered Voters,,,,,,,,208
+Millard,Scipio,Ballots Cast,,,,144,14,16,2,176
+Millard,Scipio,Straight Party,,,CON,0,0,0,0,0
+Millard,Scipio,Straight Party,,,LIB,0,0,0,0,0
+Millard,Scipio,Straight Party,,,DEM,3,0,3,0,6
+Millard,Scipio,Straight Party,,,REP,49,1,1,0,51
+Millard,Scipio,Straight Party,,,JUS,0,0,0,0,0
+Millard,Scipio,Straight Party,,,GRN,0,0,0,0,0
+Millard,Scipio,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Scipio,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Scipio,President/Vice President,,Mitt Romney,REP,129,10,7,2,148
+Millard,Scipio,President/Vice President,,Barack Obama,DEM,11,4,8,0,23
+Millard,Scipio,President/Vice President,,Gary Johnson,LIB,0,0,0,0,0
+Millard,Scipio,President/Vice President,,Virgil Goode,CON,1,0,0,0,1
+Millard,Scipio,President/Vice President,,Ross C. Anderson,JUS,1,0,0,0,1
+Millard,Scipio,President/Vice President,,Write-In Votes,,0,0,0,0,0
+Millard,Scipio,U.S. Senate,,Shaun McCausland,CON,7,1,0,0,8
+Millard,Scipio,U.S. Senate,,Scott Howell,DEM,25,4,9,0,38
+Millard,Scipio,U.S. Senate,,Orrin G. Hatch,REP,108,9,6,1,124
+Millard,Scipio,U.S. Senate,,Daniel Geery,JUS,2,0,0,0,2
+Millard,Scipio,U.S. Senate,,Bill Barron,,0,0,0,0,0
+Millard,Scipio,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Scipio,U.S. House,2,Chris Stewart,REP,122,10,4,1,137
+Millard,Scipio,U.S. House,2,Jay Seegmiller,DEM,15,3,11,0,29
+Millard,Scipio,U.S. House,2,Charles E. Kimball,,1,0,0,0,1
+Millard,Scipio,U.S. House,2,Jonathan D. Garrard,CON,0,0,0,0,0
+Millard,Scipio,U.S. House,2,Joseph Andrade,,0,0,0,0,0
+Millard,Scipio,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Scipio,Governor,,Peter S. Cooke,DEM,17,4,10,0,31
+Millard,Scipio,Governor,,Ken Larsen,LIB,1,0,0,0,1
+Millard,Scipio,Governor,,Kirk D. Pearson,CON,1,0,0,0,1
+Millard,Scipio,Governor,,Gary R. Herbert,REP,122,10,6,1,139
+Millard,Scipio,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Scipio,Attorney General,,Dee W. Smith,DEM,18,4,9,0,31
+Millard,Scipio,Attorney General,,John Swallow,REP,114,9,7,1,131
+Millard,Scipio,Attorney General,,W. Andrew McCullough,LIB,5,0,0,0,5
+Millard,Scipio,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Scipio,State Auditor,,Mark Sage,DEM,27,3,10,0,40
+Millard,Scipio,State Auditor,,John Dougall,REP,108,10,6,0,124
+Millard,Scipio,State Auditor,,Richard Proctor,CON,4,0,0,0,4
+Millard,Scipio,State Auditor,,Write-In Votes,,0,0,0,0,0
+Millard,Scipio,State Treasurer,,Christopher Stout,DEM,23,4,9,0,36
+Millard,Scipio,State Treasurer,,Vincent C. Marcus,LIB,2,1,0,0,3
+Millard,Scipio,State Treasurer,,Richard K. Ellis,REP,114,8,7,1,130
+Millard,Scipio,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Scipio,State Senate,24,Ralph Okerlund,REP,132,9,9,1,151
+Millard,Scipio,State Senate,24,Trestin Meacham,CON,8,4,4,0,16
+Millard,Scipio,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Scipio,State House,68,Merrill Nelson,REP,109,9,5,2,125
+Millard,Scipio,State House,68,Thomas E. Nedreberg,DEM,23,4,9,0,36
+Millard,Scipio,State House,68,Paul J. McCollaum,CON,7,0,2,0,9
+Millard,Scipio,State House,68,Write-In Votes,,0,0,0,0,0
+Millard,Sutherland,Registered Voters,,,,,,,,425
+Millard,Sutherland,Ballots Cast,,,,277,21,31,4,333
+Millard,Sutherland,Straight Party,,,CON,1,0,0,0,1
+Millard,Sutherland,Straight Party,,,LIB,1,0,0,0,1
+Millard,Sutherland,Straight Party,,,DEM,6,0,4,0,10
+Millard,Sutherland,Straight Party,,,REP,62,2,9,0,73
+Millard,Sutherland,Straight Party,,,JUS,0,0,0,0,0
+Millard,Sutherland,Straight Party,,,GRN,1,0,0,0,1
+Millard,Sutherland,President/Vice President,,Jill Stein,GRN,0,0,0,0,0
+Millard,Sutherland,President/Vice President,,Gloria La Riva,,0,0,0,0,0
+Millard,Sutherland,President/Vice President,,Mitt Romney,REP,249,20,25,4,298
+Millard,Sutherland,President/Vice President,,Barack Obama,DEM,16,0,6,0,22
+Millard,Sutherland,President/Vice President,,Gary Johnson,LIB,3,0,0,0,3
+Millard,Sutherland,President/Vice President,,Virgil Goode,CON,2,1,0,0,3
+Millard,Sutherland,President/Vice President,,Ross C. Anderson,JUS,4,0,0,0,4
+Millard,Sutherland,President/Vice President,,Write-In Votes,,0,0,0,0,0
+Millard,Sutherland,U.S. Senate,,Shaun McCausland,CON,20,0,0,0,20
+Millard,Sutherland,U.S. Senate,,Scott Howell,DEM,47,2,9,0,58
+Millard,Sutherland,U.S. Senate,,Orrin G. Hatch,REP,198,19,22,4,243
+Millard,Sutherland,U.S. Senate,,Daniel Geery,JUS,0,0,0,0,0
+Millard,Sutherland,U.S. Senate,,Bill Barron,,3,0,0,0,3
+Millard,Sutherland,U.S. Senate,,Write-In Votes,,0,0,0,0,0
+Millard,Sutherland,U.S. House,2,Chris Stewart,REP,231,19,20,4,274
+Millard,Sutherland,U.S. House,2,Jay Seegmiller,DEM,27,1,7,0,35
+Millard,Sutherland,U.S. House,2,Charles E. Kimball,,2,0,1,0,3
+Millard,Sutherland,U.S. House,2,Jonathan D. Garrard,CON,4,0,2,0,6
+Millard,Sutherland,U.S. House,2,Joseph Andrade,,5,0,1,0,6
+Millard,Sutherland,U.S. House,2,Write-In Votes,,0,0,0,0,0
+Millard,Sutherland,Governor,,Peter S. Cooke,DEM,25,0,7,0,32
+Millard,Sutherland,Governor,,Ken Larsen,LIB,8,0,0,0,8
+Millard,Sutherland,Governor,,Kirk D. Pearson,CON,6,0,1,0,7
+Millard,Sutherland,Governor,,Gary R. Herbert,REP,235,20,23,4,282
+Millard,Sutherland,Governor,,Write-In Votes,,0,0,0,0,0
+Millard,Sutherland,Attorney General,,Dee W. Smith,DEM,29,1,7,1,38
+Millard,Sutherland,Attorney General,,John Swallow,REP,233,19,24,3,279
+Millard,Sutherland,Attorney General,,W. Andrew McCullough,LIB,9,0,0,0,9
+Millard,Sutherland,Attorney General,,Write-In Votes,,0,0,0,0,0
+Millard,Sutherland,State Auditor,,Mark Sage,DEM,34,2,8,0,44
+Millard,Sutherland,State Auditor,,John Dougall,REP,209,17,22,3,251
+Millard,Sutherland,State Auditor,,Richard Proctor,CON,17,0,1,1,19
+Millard,Sutherland,State Auditor,,Write-In Votes,,2,0,0,0,2
+Millard,Sutherland,State Treasurer,,Christopher Stout,DEM,37,2,7,0,46
+Millard,Sutherland,State Treasurer,,Vincent C. Marcus,LIB,7,0,1,0,8
+Millard,Sutherland,State Treasurer,,Richard K. Ellis,REP,217,17,22,4,260
+Millard,Sutherland,State Treasurer,,Write-In Votes,,0,0,0,0,0
+Millard,Sutherland,State Senate,24,Ralph Okerlund,REP,235,19,24,2,280
+Millard,Sutherland,State Senate,24,Trestin Meacham,CON,30,0,3,2,35
+Millard,Sutherland,State Senate,24,Write-In Votes,,0,0,0,0,0
+Millard,Sutherland,State House,68,Merrill Nelson,REP,201,16,21,4,242
+Millard,Sutherland,State House,68,Thomas E. Nedreberg,DEM,28,1,5,0,34
+Millard,Sutherland,State House,68,Paul J. McCollaum,CON,42,3,5,0,50
+Millard,Sutherland,State House,68,Write-In Votes,,0,0,0,0,0
