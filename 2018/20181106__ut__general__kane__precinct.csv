@@ -1,270 +1,235 @@
-candidate,office,district,party,county,precinct,votes,winner
-,Registered Voters,,,Kane,K1,398,
-,Ballots Cast,,,Kane,K1,333,
-,Straight Party,,IAP,Kane,K1,9,
-,Straight Party,,DEM,Kane,K1,8,
-,Straight Party,,REP,Kane,K1,84,
-,Straight Party,,CON,Kane,K1,0,
-,Straight Party,,LIB,Kane,K1,1,
-Tim Aalders,U.S. Senate,,CON,Kane,K1,8,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,K1,4,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,K1,4,
-Jenny Wilson,U.S. Senate,,DEM,Kane,K1,70,
-Mitt Romney,U.S. Senate,,REP,Kane,K1,243,
-Write In,U.S. Senate,,,Kane,K1,0,
-Chris Stewart,U.S. House ,2,REP,Kane,K1,250,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,K1,4,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,K1,67,
-Phil Lyman,State House,73,REP,Kane,K1,221,
-Marsha M Holland,U.S. House ,73,UNA,Kane,K1,97,
-,Registered Voters,,,Kane,K2,674,
-,Ballots Cast,,,Kane,K2,574,
-,Straight Party,,IAP,Kane,K2,12,
-,Straight Party,,DEM,Kane,K2,34,
-,Straight Party,,REP,Kane,K2,128,
-,Straight Party,,CON,Kane,K2,1,
-,Straight Party,,LIB,Kane,K2,2,
-Tim Aalders,U.S. Senate,,CON,Kane,K2,11,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,K2,17,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,K2,3,
-Jenny Wilson,U.S. Senate,,DEM,Kane,K2,189,
-Mitt Romney,U.S. Senate,,REP,Kane,K2,340,
-Write In,U.S. Senate,,,Kane,K2,2,
-Chris Stewart,U.S. House ,2,REP,Kane,K2,340,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,K2,16,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,K2,197,
-Phil Lyman,State House,73,REP,Kane,K2,294,
-Marsha M Holland,U.S. House ,73,UNA,Kane,K2,252,
-,Registered Voters,,,Kane,K3,823,
-,Ballots Cast,,,Kane,K3,656,
-,Straight Party,,IAP,Kane,K3,8,
-,Straight Party,,DEM,Kane,K3,19,
-,Straight Party,,REP,Kane,K3,147,
-,Straight Party,,CON,Kane,K3,1,
-,Straight Party,,LIB,Kane,K3,3,
-Tim Aalders,U.S. Senate,,CON,Kane,K3,11,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,K3,17,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,K3,4,
-Jenny Wilson,U.S. Senate,,DEM,Kane,K3,133,
-Mitt Romney,U.S. Senate,,REP,Kane,K3,483,
-Write In,U.S. Senate,,,Kane,K3,1,
-Chris Stewart,U.S. House ,2,REP,Kane,K3,470,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,K3,16,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,K3,152,
-Phil Lyman,State House,73,REP,Kane,K3,414,
-Marsha M Holland,U.S. House ,73,UNA,Kane,K3,218,
-,Registered Voters,,,Kane,K4,834,
-,Ballots Cast,,,Kane,K4,692,
-,Straight Party,,IAP,Kane,K4,13,
-,Straight Party,,DEM,Kane,K4,26,
-,Straight Party,,REP,Kane,K4,134,
-,Straight Party,,CON,Kane,K4,1,
-,Straight Party,,LIB,Kane,K4,3,
-Tim Aalders,U.S. Senate,,CON,Kane,K4,22,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,K4,21,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,K4,15,
-Jenny Wilson,U.S. Senate,,DEM,Kane,K4,220,
-Mitt Romney,U.S. Senate,,REP,Kane,K4,405,
-Write In,U.S. Senate,,,Kane,K4,2,
-Chris Stewart,U.S. House ,2,REP,Kane,K4,416,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,K4,21,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,K4,241,
-Phil Lyman,State House,73,REP,Kane,K4,353,
-Marsha M Holland,U.S. House ,73,UNA,Kane,K4,318,
-,Registered Voters,,,Kane,AL,71,
-,Ballots Cast,,,Kane,AL,64,
-,Straight Party,,IAP,Kane,AL,0,
-,Straight Party,,DEM,Kane,AL,0,
-,Straight Party,,REP,Kane,AL,10,
-,Straight Party,,CON,Kane,AL,0,
-,Straight Party,,LIB,Kane,AL,0,
-Tim Aalders,U.S. Senate,,CON,Kane,AL,0,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,AL,0,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,AL,2,
-Jenny Wilson,U.S. Senate,,DEM,Kane,AL,6,
-Mitt Romney,U.S. Senate,,REP,Kane,AL,55,
-Write In,U.S. Senate,,,Kane,AL,0,
-Chris Stewart,U.S. House ,2,REP,Kane,AL,55,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,AL,3,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,AL,6,
-Phil Lyman,State House,73,REP,Kane,AL,51,
-Marsha M Holland,U.S. House ,73,UNA,Kane,AL,12,
-,Registered Voters,,,Kane,GL,225,
-,Ballots Cast,,,Kane,GL,182,
-,Straight Party,,IAP,Kane,GL,1,
-,Straight Party,,DEM,Kane,GL,3,
-,Straight Party,,REP,Kane,GL,44,
-,Straight Party,,CON,Kane,GL,0,
-,Straight Party,,LIB,Kane,GL,2,
-Tim Aalders,U.S. Senate,,CON,Kane,GL,14,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,GL,7,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,GL,0,
-Jenny Wilson,U.S. Senate,,DEM,Kane,GL,14,
-Mitt Romney,U.S. Senate,,REP,Kane,GL,143,
-Write In,U.S. Senate,,,Kane,GL,0,
-Chris Stewart,U.S. House ,2,REP,Kane,GL,164,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,GL,5,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,GL,13,
-Phil Lyman,State House,73,REP,Kane,GL,149,
-Marsha M Holland,U.S. House ,73,UNA,Kane,GL,27,
-,Registered Voters,,,Kane,OR,375,
-,Ballots Cast,,,Kane,OR,291,
-,Straight Party,,IAP,Kane,OR,7,
-,Straight Party,,DEM,Kane,OR,7,
-,Straight Party,,REP,Kane,OR,92,
-,Straight Party,,CON,Kane,OR,0,
-,Straight Party,,LIB,Kane,OR,0,
-Tim Aalders,U.S. Senate,,CON,Kane,OR,16,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,OR,8,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,OR,4,
-Jenny Wilson,U.S. Senate,,DEM,Kane,OR,28,
-Mitt Romney,U.S. Senate,,REP,Kane,OR,226,
-Write In,U.S. Senate,,,Kane,OR,1,
-Chris Stewart,U.S. House ,2,REP,Kane,OR,255,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,OR,4,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,OR,29,
-Phil Lyman,State House,73,REP,Kane,OR,222,
-Marsha M Holland,U.S. House ,73,UNA,Kane,OR,60,
-,Registered Voters,,,Kane,BU,23,
-,Ballots Cast,,,Kane,BU,14,
-,Straight Party,,IAP,Kane,BU,0,
-,Straight Party,,DEM,Kane,BU,2,
-,Straight Party,,REP,Kane,BU,0,
-,Straight Party,,CON,Kane,BU,0,
-,Straight Party,,LIB,Kane,BU,2,
-Tim Aalders,U.S. Senate,,CON,Kane,BU,0,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,BU,3,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,BU,1,
-Jenny Wilson,U.S. Senate,,DEM,Kane,BU,4,
-Mitt Romney,U.S. Senate,,REP,Kane,BU,6,
-Write In,U.S. Senate,,,Kane,BU,0,
-Chris Stewart,U.S. House ,2,REP,Kane,BU,4,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,BU,5,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,BU,4,
-Phil Lyman,State House,73,REP,Kane,BU,5,
-Marsha M Holland,U.S. House ,73,UNA,Kane,BU,6,
-,Registered Voters,,,Kane,BW,198,
-,Ballots Cast,,,Kane,BW,152,
-,Straight Party,,IAP,Kane,BW,6,
-,Straight Party,,DEM,Kane,BW,17,
-,Straight Party,,REP,Kane,BW,46,
-,Straight Party,,CON,Kane,BW,1,
-,Straight Party,,LIB,Kane,BW,2,
-Tim Aalders,U.S. Senate,,CON,Kane,BW,11,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,BW,6,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,BW,5,
-Jenny Wilson,U.S. Senate,,DEM,Kane,BW,44,
-Mitt Romney,U.S. Senate,,REP,Kane,BW,84,
-Write In,U.S. Senate,,,Kane,BW,0,
-Chris Stewart,U.S. House ,2,REP,Kane,BW,87,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,BW,10,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,BW,51,
-Phil Lyman,State House,73,REP,Kane,BW,91,
-Marsha M Holland,U.S. House ,73,UNA,Kane,BW,49,
-,Registered Voters,,,Kane,CM,203,
-,Ballots Cast,,,Kane,CM,154,
-,Straight Party,,IAP,Kane,CM,4,
-,Straight Party,,DEM,Kane,CM,7,
-,Straight Party,,REP,Kane,CM,50,
-,Straight Party,,CON,Kane,CM,0,
-,Straight Party,,LIB,Kane,CM,0,
-Tim Aalders,U.S. Senate,,CON,Kane,CM,5,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,CM,4,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,CM,0,
-Jenny Wilson,U.S. Senate,,DEM,Kane,CM,26,
-Mitt Romney,U.S. Senate,,REP,Kane,CM,116,
-Write In,U.S. Senate,,,Kane,CM,0,
-Chris Stewart,U.S. House ,2,REP,Kane,CM,119,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,CM,5,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,CM,27,
-Phil Lyman,State House,73,REP,Kane,CM,118,
-Marsha M Holland,U.S. House ,73,UNA,Kane,CM,24,
-,Registered Voters,,,Kane,CW:B,56,
-,Ballots Cast,,,Kane,CW:B,42,
-,Straight Party,,IAP,Kane,CW:B,0,
-,Straight Party,,DEM,Kane,CW:B,1,
-,Straight Party,,REP,Kane,CW:B,13,
-,Straight Party,,CON,Kane,CW:B,0,
-,Straight Party,,LIB,Kane,CW:B,1,
-Tim Aalders,U.S. Senate,,CON,Kane,CW:B,5,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,CW:B,2,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,CW:B,0,
-Jenny Wilson,U.S. Senate,,DEM,Kane,CW:B,6,
-Mitt Romney,U.S. Senate,,REP,Kane,CW:B,28,
-Write In,U.S. Senate,,,Kane,CW:B,0,
-Chris Stewart,U.S. House ,2,REP,Kane,CW:B,29,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,CW:B,5,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,CW:B,6,
-Phil Lyman,State House,73,REP,Kane,CW:B,35,
-Marsha M Holland,U.S. House ,73,UNA,Kane,CW:B,6,
-,Registered Voters,,,Kane,CW:C,21,
-,Ballots Cast,,,Kane,CW:C,18,
-,Straight Party,,IAP,Kane,CW:C,0,
-,Straight Party,,DEM,Kane,CW:C,0,
-,Straight Party,,REP,Kane,CW:C,1,
-,Straight Party,,CON,Kane,CW:C,0,
-,Straight Party,,LIB,Kane,CW:C,0,
-Tim Aalders,U.S. Senate,,CON,Kane,CW:C,6,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,CW:C,0,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,CW:C,0,
-Jenny Wilson,U.S. Senate,,DEM,Kane,CW:C,6,
-Mitt Romney,U.S. Senate,,REP,Kane,CW:C,6,
-Write In,U.S. Senate,,,Kane,CW:C,0,
-Chris Stewart,U.S. House ,2,REP,Kane,CW:C,11,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,CW:C,1,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,CW:C,5,
-Phil Lyman,State House,73,REP,Kane,CW:C,11,
-Marsha M Holland,U.S. House ,73,UNA,Kane,CW:C,7,
-,Registered Voters,,,Kane,TOTALS,3901,
-,Ballots Cast,,,Kane,TOTALS,3172,
-,Straight Party,,IAP,Kane,TOTALS,60,
-,Straight Party,,DEM,Kane,TOTALS,124,
-,Straight Party,,REP,Kane,TOTALS,749,
-,Straight Party,,CON,Kane,TOTALS,4,
-,Straight Party,,LIB,Kane,TOTALS,16,
-Tim Aalders,U.S. Senate,,CON,Kane,TOTALS,109,
-Craig R. Bowden,U.S. Senate,,LIB,Kane,TOTALS,89,
-Reed C. McCandless,U.S. Senate,,IAP,Kane,TOTALS,38,
-Jenny Wilson,U.S. Senate,,DEM,Kane,TOTALS,746,
-Mitt Romney,U.S. Senate,,REP,Kane,TOTALS,2135,
-Write In,U.S. Senate,,,Kane,TOTALS,6,
-Chris Stewart,U.S. House ,2,REP,Kane,TOTALS,2200,
-Jeffrey Whipple ,U.S. House ,2,LIB,Kane,TOTALS,95,
-Shireen Ghorbani ,U.S. House ,2,DEM,Kane,TOTALS,798,
-Phil Lyman,State House,73,REP,Kane,TOTALS,1964,
-Marsha M Holland,U.S. House ,73,UNA,Kane,TOTALS,1076,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+county,precinct,office,district,candidate,party,votes
+Kane,K1,Registered Voters,,,,398
+Kane,K1,Ballots Cast,,,,333
+Kane,K1,Straight Party,,,IAP,9
+Kane,K1,Straight Party,,,DEM,8
+Kane,K1,Straight Party,,,REP,84
+Kane,K1,Straight Party,,,CON,0
+Kane,K1,Straight Party,,,LIB,1
+Kane,K1,U.S. Senate,,Tim Aalders,CON,8
+Kane,K1,U.S. Senate,,Craig R. Bowden,LIB,4
+Kane,K1,U.S. Senate,,Reed C. McCandless,IAP,4
+Kane,K1,U.S. Senate,,Jenny Wilson,DEM,70
+Kane,K1,U.S. Senate,,Mitt Romney,REP,243
+Kane,K1,U.S. Senate,,Write In,,0
+Kane,K1,U.S. House,2,Chris Stewart,REP,250
+Kane,K1,U.S. House,2,Jeffrey Whipple ,LIB,4
+Kane,K1,U.S. House,2,Shireen Ghorbani ,DEM,67
+Kane,K1,State House,73,Phil Lyman,REP,221
+Kane,K1,U.S. House,73,Marsha M Holland,UNA,97
+Kane,K2,Registered Voters,,,,674
+Kane,K2,Ballots Cast,,,,574
+Kane,K2,Straight Party,,,IAP,12
+Kane,K2,Straight Party,,,DEM,34
+Kane,K2,Straight Party,,,REP,128
+Kane,K2,Straight Party,,,CON,1
+Kane,K2,Straight Party,,,LIB,2
+Kane,K2,U.S. Senate,,Tim Aalders,CON,11
+Kane,K2,U.S. Senate,,Craig R. Bowden,LIB,17
+Kane,K2,U.S. Senate,,Reed C. McCandless,IAP,3
+Kane,K2,U.S. Senate,,Jenny Wilson,DEM,189
+Kane,K2,U.S. Senate,,Mitt Romney,REP,340
+Kane,K2,U.S. Senate,,Write In,,2
+Kane,K2,U.S. House,2,Chris Stewart,REP,340
+Kane,K2,U.S. House,2,Jeffrey Whipple ,LIB,16
+Kane,K2,U.S. House,2,Shireen Ghorbani ,DEM,197
+Kane,K2,State House,73,Phil Lyman,REP,294
+Kane,K2,U.S. House,73,Marsha M Holland,UNA,252
+Kane,K3,Registered Voters,,,,823
+Kane,K3,Ballots Cast,,,,656
+Kane,K3,Straight Party,,,IAP,8
+Kane,K3,Straight Party,,,DEM,19
+Kane,K3,Straight Party,,,REP,147
+Kane,K3,Straight Party,,,CON,1
+Kane,K3,Straight Party,,,LIB,3
+Kane,K3,U.S. Senate,,Tim Aalders,CON,11
+Kane,K3,U.S. Senate,,Craig R. Bowden,LIB,17
+Kane,K3,U.S. Senate,,Reed C. McCandless,IAP,4
+Kane,K3,U.S. Senate,,Jenny Wilson,DEM,133
+Kane,K3,U.S. Senate,,Mitt Romney,REP,483
+Kane,K3,U.S. Senate,,Write In,,1
+Kane,K3,U.S. House,2,Chris Stewart,REP,470
+Kane,K3,U.S. House,2,Jeffrey Whipple ,LIB,16
+Kane,K3,U.S. House,2,Shireen Ghorbani ,DEM,152
+Kane,K3,State House,73,Phil Lyman,REP,414
+Kane,K3,U.S. House,73,Marsha M Holland,UNA,218
+Kane,K4,Registered Voters,,,,834
+Kane,K4,Ballots Cast,,,,692
+Kane,K4,Straight Party,,,IAP,13
+Kane,K4,Straight Party,,,DEM,26
+Kane,K4,Straight Party,,,REP,134
+Kane,K4,Straight Party,,,CON,1
+Kane,K4,Straight Party,,,LIB,3
+Kane,K4,U.S. Senate,,Tim Aalders,CON,22
+Kane,K4,U.S. Senate,,Craig R. Bowden,LIB,21
+Kane,K4,U.S. Senate,,Reed C. McCandless,IAP,15
+Kane,K4,U.S. Senate,,Jenny Wilson,DEM,220
+Kane,K4,U.S. Senate,,Mitt Romney,REP,405
+Kane,K4,U.S. Senate,,Write In,,2
+Kane,K4,U.S. House,2,Chris Stewart,REP,416
+Kane,K4,U.S. House,2,Jeffrey Whipple ,LIB,21
+Kane,K4,U.S. House,2,Shireen Ghorbani ,DEM,241
+Kane,K4,State House,73,Phil Lyman,REP,353
+Kane,K4,U.S. House,73,Marsha M Holland,UNA,318
+Kane,AL,Registered Voters,,,,71
+Kane,AL,Ballots Cast,,,,64
+Kane,AL,Straight Party,,,IAP,0
+Kane,AL,Straight Party,,,DEM,0
+Kane,AL,Straight Party,,,REP,10
+Kane,AL,Straight Party,,,CON,0
+Kane,AL,Straight Party,,,LIB,0
+Kane,AL,U.S. Senate,,Tim Aalders,CON,0
+Kane,AL,U.S. Senate,,Craig R. Bowden,LIB,0
+Kane,AL,U.S. Senate,,Reed C. McCandless,IAP,2
+Kane,AL,U.S. Senate,,Jenny Wilson,DEM,6
+Kane,AL,U.S. Senate,,Mitt Romney,REP,55
+Kane,AL,U.S. Senate,,Write In,,0
+Kane,AL,U.S. House,2,Chris Stewart,REP,55
+Kane,AL,U.S. House,2,Jeffrey Whipple ,LIB,3
+Kane,AL,U.S. House,2,Shireen Ghorbani ,DEM,6
+Kane,AL,State House,73,Phil Lyman,REP,51
+Kane,AL,U.S. House,73,Marsha M Holland,UNA,12
+Kane,GL,Registered Voters,,,,225
+Kane,GL,Ballots Cast,,,,182
+Kane,GL,Straight Party,,,IAP,1
+Kane,GL,Straight Party,,,DEM,3
+Kane,GL,Straight Party,,,REP,44
+Kane,GL,Straight Party,,,CON,0
+Kane,GL,Straight Party,,,LIB,2
+Kane,GL,U.S. Senate,,Tim Aalders,CON,14
+Kane,GL,U.S. Senate,,Craig R. Bowden,LIB,7
+Kane,GL,U.S. Senate,,Reed C. McCandless,IAP,0
+Kane,GL,U.S. Senate,,Jenny Wilson,DEM,14
+Kane,GL,U.S. Senate,,Mitt Romney,REP,143
+Kane,GL,U.S. Senate,,Write In,,0
+Kane,GL,U.S. House,2,Chris Stewart,REP,164
+Kane,GL,U.S. House,2,Jeffrey Whipple ,LIB,5
+Kane,GL,U.S. House,2,Shireen Ghorbani ,DEM,13
+Kane,GL,State House,73,Phil Lyman,REP,149
+Kane,GL,U.S. House,73,Marsha M Holland,UNA,27
+Kane,OR,Registered Voters,,,,375
+Kane,OR,Ballots Cast,,,,291
+Kane,OR,Straight Party,,,IAP,7
+Kane,OR,Straight Party,,,DEM,7
+Kane,OR,Straight Party,,,REP,92
+Kane,OR,Straight Party,,,CON,0
+Kane,OR,Straight Party,,,LIB,0
+Kane,OR,U.S. Senate,,Tim Aalders,CON,16
+Kane,OR,U.S. Senate,,Craig R. Bowden,LIB,8
+Kane,OR,U.S. Senate,,Reed C. McCandless,IAP,4
+Kane,OR,U.S. Senate,,Jenny Wilson,DEM,28
+Kane,OR,U.S. Senate,,Mitt Romney,REP,226
+Kane,OR,U.S. Senate,,Write In,,1
+Kane,OR,U.S. House,2,Chris Stewart,REP,255
+Kane,OR,U.S. House,2,Jeffrey Whipple ,LIB,4
+Kane,OR,U.S. House,2,Shireen Ghorbani ,DEM,29
+Kane,OR,State House,73,Phil Lyman,REP,222
+Kane,OR,U.S. House,73,Marsha M Holland,UNA,60
+Kane,BU,Registered Voters,,,,23
+Kane,BU,Ballots Cast,,,,14
+Kane,BU,Straight Party,,,IAP,0
+Kane,BU,Straight Party,,,DEM,2
+Kane,BU,Straight Party,,,REP,0
+Kane,BU,Straight Party,,,CON,0
+Kane,BU,Straight Party,,,LIB,2
+Kane,BU,U.S. Senate,,Tim Aalders,CON,0
+Kane,BU,U.S. Senate,,Craig R. Bowden,LIB,3
+Kane,BU,U.S. Senate,,Reed C. McCandless,IAP,1
+Kane,BU,U.S. Senate,,Jenny Wilson,DEM,4
+Kane,BU,U.S. Senate,,Mitt Romney,REP,6
+Kane,BU,U.S. Senate,,Write In,,0
+Kane,BU,U.S. House,2,Chris Stewart,REP,4
+Kane,BU,U.S. House,2,Jeffrey Whipple ,LIB,5
+Kane,BU,U.S. House,2,Shireen Ghorbani ,DEM,4
+Kane,BU,State House,73,Phil Lyman,REP,5
+Kane,BU,U.S. House,73,Marsha M Holland,UNA,6
+Kane,BW,Registered Voters,,,,198
+Kane,BW,Ballots Cast,,,,152
+Kane,BW,Straight Party,,,IAP,6
+Kane,BW,Straight Party,,,DEM,17
+Kane,BW,Straight Party,,,REP,46
+Kane,BW,Straight Party,,,CON,1
+Kane,BW,Straight Party,,,LIB,2
+Kane,BW,U.S. Senate,,Tim Aalders,CON,11
+Kane,BW,U.S. Senate,,Craig R. Bowden,LIB,6
+Kane,BW,U.S. Senate,,Reed C. McCandless,IAP,5
+Kane,BW,U.S. Senate,,Jenny Wilson,DEM,44
+Kane,BW,U.S. Senate,,Mitt Romney,REP,84
+Kane,BW,U.S. Senate,,Write In,,0
+Kane,BW,U.S. House,2,Chris Stewart,REP,87
+Kane,BW,U.S. House,2,Jeffrey Whipple ,LIB,10
+Kane,BW,U.S. House,2,Shireen Ghorbani ,DEM,51
+Kane,BW,State House,73,Phil Lyman,REP,91
+Kane,BW,U.S. House,73,Marsha M Holland,UNA,49
+Kane,CM,Registered Voters,,,,203
+Kane,CM,Ballots Cast,,,,154
+Kane,CM,Straight Party,,,IAP,4
+Kane,CM,Straight Party,,,DEM,7
+Kane,CM,Straight Party,,,REP,50
+Kane,CM,Straight Party,,,CON,0
+Kane,CM,Straight Party,,,LIB,0
+Kane,CM,U.S. Senate,,Tim Aalders,CON,5
+Kane,CM,U.S. Senate,,Craig R. Bowden,LIB,4
+Kane,CM,U.S. Senate,,Reed C. McCandless,IAP,0
+Kane,CM,U.S. Senate,,Jenny Wilson,DEM,26
+Kane,CM,U.S. Senate,,Mitt Romney,REP,116
+Kane,CM,U.S. Senate,,Write In,,0
+Kane,CM,U.S. House,2,Chris Stewart,REP,119
+Kane,CM,U.S. House,2,Jeffrey Whipple ,LIB,5
+Kane,CM,U.S. House,2,Shireen Ghorbani ,DEM,27
+Kane,CM,State House,73,Phil Lyman,REP,118
+Kane,CM,U.S. House,73,Marsha M Holland,UNA,24
+Kane,CW:B,Registered Voters,,,,56
+Kane,CW:B,Ballots Cast,,,,42
+Kane,CW:B,Straight Party,,,IAP,0
+Kane,CW:B,Straight Party,,,DEM,1
+Kane,CW:B,Straight Party,,,REP,13
+Kane,CW:B,Straight Party,,,CON,0
+Kane,CW:B,Straight Party,,,LIB,1
+Kane,CW:B,U.S. Senate,,Tim Aalders,CON,5
+Kane,CW:B,U.S. Senate,,Craig R. Bowden,LIB,2
+Kane,CW:B,U.S. Senate,,Reed C. McCandless,IAP,0
+Kane,CW:B,U.S. Senate,,Jenny Wilson,DEM,6
+Kane,CW:B,U.S. Senate,,Mitt Romney,REP,28
+Kane,CW:B,U.S. Senate,,Write In,,0
+Kane,CW:B,U.S. House,2,Chris Stewart,REP,29
+Kane,CW:B,U.S. House,2,Jeffrey Whipple ,LIB,5
+Kane,CW:B,U.S. House,2,Shireen Ghorbani ,DEM,6
+Kane,CW:B,State House,73,Phil Lyman,REP,35
+Kane,CW:B,U.S. House,73,Marsha M Holland,UNA,6
+Kane,CW:C,Registered Voters,,,,21
+Kane,CW:C,Ballots Cast,,,,18
+Kane,CW:C,Straight Party,,,IAP,0
+Kane,CW:C,Straight Party,,,DEM,0
+Kane,CW:C,Straight Party,,,REP,1
+Kane,CW:C,Straight Party,,,CON,0
+Kane,CW:C,Straight Party,,,LIB,0
+Kane,CW:C,U.S. Senate,,Tim Aalders,CON,6
+Kane,CW:C,U.S. Senate,,Craig R. Bowden,LIB,0
+Kane,CW:C,U.S. Senate,,Reed C. McCandless,IAP,0
+Kane,CW:C,U.S. Senate,,Jenny Wilson,DEM,6
+Kane,CW:C,U.S. Senate,,Mitt Romney,REP,6
+Kane,CW:C,U.S. Senate,,Write In,,0
+Kane,CW:C,U.S. House,2,Chris Stewart,REP,11
+Kane,CW:C,U.S. House,2,Jeffrey Whipple ,LIB,1
+Kane,CW:C,U.S. House,2,Shireen Ghorbani ,DEM,5
+Kane,CW:C,State House,73,Phil Lyman,REP,11
+Kane,CW:C,U.S. House,73,Marsha M Holland,UNA,7
+Kane,TOTALS,Registered Voters,,,,3901
+Kane,TOTALS,Ballots Cast,,,,3172
+Kane,TOTALS,Straight Party,,,IAP,60
+Kane,TOTALS,Straight Party,,,DEM,124
+Kane,TOTALS,Straight Party,,,REP,749
+Kane,TOTALS,Straight Party,,,CON,4
+Kane,TOTALS,Straight Party,,,LIB,16
+Kane,TOTALS,U.S. Senate,,Tim Aalders,CON,109
+Kane,TOTALS,U.S. Senate,,Craig R. Bowden,LIB,89
+Kane,TOTALS,U.S. Senate,,Reed C. McCandless,IAP,38
+Kane,TOTALS,U.S. Senate,,Jenny Wilson,DEM,746
+Kane,TOTALS,U.S. Senate,,Mitt Romney,REP,2135
+Kane,TOTALS,U.S. Senate,,Write In,,6
+Kane,TOTALS,U.S. House,2,Chris Stewart,REP,2200
+Kane,TOTALS,U.S. House,2,Jeffrey Whipple ,LIB,95
+Kane,TOTALS,U.S. House,2,Shireen Ghorbani ,DEM,798
+Kane,TOTALS,State House,73,Phil Lyman,REP,1964
+Kane,TOTALS,U.S. House,73,Marsha M Holland,UNA,1076

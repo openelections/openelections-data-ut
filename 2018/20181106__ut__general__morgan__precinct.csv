@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,By Mail,Polling,Provisional,Total
+candidate,office,district,party,county,precinct,mail,election_day,provisional,votes
 ,Registered Voters,,,Morgan,Mountain Green 1.1,,,,536
 ,Ballots Cast,,,Morgan,Mountain Green 1.1,409,6,0,415
 ,Straight Party,,CON,Morgan,Mountain Green 1.1,1,0,0,1

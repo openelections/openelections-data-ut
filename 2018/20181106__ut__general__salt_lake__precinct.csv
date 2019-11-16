@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,vbm,early_voting,vote_center
+county,precinct,office,district,party,candidate,votes,mail,early_voting,election_day
 Salt Lake,ALT001,Straight Party,,DEM,DEMOCRATIC,21,18,1,2
 Salt Lake,BLF001,Straight Party,,DEM,DEMOCRATIC,45,35,0,10
 Salt Lake,BLF003,Straight Party,,DEM,DEMOCRATIC,78,65,1,12
