@@ -1,0 +1,555 @@
+county,precinct,office,district,party,candidates,votes
+Cache,AMA,Registered Voters,,,,238
+Cache,AMA,Registered Voters,,REP,,156
+Cache,AMA,Registered Voters,,DEM,,82
+Cache,AMA,Ballots Cast,,,,87
+Cache,AMA,Ballots Cast,,REP,,80
+Cache,AMA,Ballots Cast,,DEM,,7
+Cache,AMA,U.S. Senate,,REP,Mitt Romney,63
+Cache,AMA,U.S. Senate,,REP,Mike Kennedy,17
+Cache,AMA,U.S. House,1,DEM,Lee Castillo,4
+Cache,AMA,U.S. House,1,DEM,Kurt Weiland,3
+Cache,BEN,Registered Voters,,,,360
+Cache,BEN,Registered Voters,,REP,,229
+Cache,BEN,Registered Voters,,DEM,,131
+Cache,BEN,Ballots Cast,,,,128
+Cache,BEN,Ballots Cast,,REP,,117
+Cache,BEN,Ballots Cast,,DEM,,11
+Cache,BEN,U.S. Senate,,REP,Mitt Romney,78
+Cache,BEN,U.S. Senate,,REP,Mike Kennedy,39
+Cache,BEN,U.S. House,1,DEM,Lee Castillo,5
+Cache,BEN,U.S. House,1,DEM,Kurt Weiland,6
+Cache,CLK,Registered Voters,,,,380
+Cache,CLK,Registered Voters,,REP,,255
+Cache,CLK,Registered Voters,,DEM,,125
+Cache,CLK,Ballots Cast,,,,129
+Cache,CLK,Ballots Cast,,REP,,120
+Cache,CLK,Ballots Cast,,DEM,,9
+Cache,CLK,U.S. Senate,,REP,Mitt Romney,93
+Cache,CLK,U.S. Senate,,REP,Mike Kennedy,27
+Cache,CLK,U.S. House,1,DEM,Lee Castillo,3
+Cache,CLK,U.S. House,1,DEM,Kurt Weiland,6
+Cache,COR,Registered Voters,,,,137
+Cache,COR,Registered Voters,,REP,,105
+Cache,COR,Registered Voters,,DEM,,32
+Cache,COR,Ballots Cast,,,,65
+Cache,COR,Ballots Cast,,REP,,61
+Cache,COR,Ballots Cast,,DEM,,4
+Cache,COR,U.S. Senate,,REP,Mitt Romney,38
+Cache,COR,U.S. Senate,,REP,Mike Kennedy,23
+Cache,COR,U.S. House,1,DEM,Lee Castillo,2
+Cache,COR,U.S. House,1,DEM,Kurt Weiland,2
+Cache,COV,Registered Voters,,,,291
+Cache,COV,Registered Voters,,REP,,201
+Cache,COV,Registered Voters,,DEM,,90
+Cache,COV,Ballots Cast,,,,126
+Cache,COV,Ballots Cast,,REP,,111
+Cache,COV,Ballots Cast,,DEM,,15
+Cache,COV,U.S. Senate,,REP,Mitt Romney,77
+Cache,COV,U.S. Senate,,REP,Mike Kennedy,34
+Cache,COV,U.S. House,1,DEM,Lee Castillo,8
+Cache,COV,U.S. House,1,DEM,Kurt Weiland,6
+Cache,CY,Registered Voters,,,,489
+Cache,CY,Registered Voters,,REP,,326
+Cache,CY,Registered Voters,,DEM,,163
+Cache,CY,Ballots Cast,,,,211
+Cache,CY,Ballots Cast,,REP,,190
+Cache,CY,Ballots Cast,,DEM,,21
+Cache,CY,U.S. Senate,,REP,Mitt Romney,155
+Cache,CY,U.S. Senate,,REP,Mike Kennedy,35
+Cache,CY,U.S. House,1,DEM,Lee Castillo,6
+Cache,CY,U.S. House,1,DEM,Kurt Weiland,15
+Cache,HYD01,Registered Voters,,,,1297
+Cache,HYD01,Registered Voters,,REP,,840
+Cache,HYD01,Registered Voters,,DEM,,457
+Cache,HYD01,Ballots Cast,,,,509
+Cache,HYD01,Ballots Cast,,REP,,457
+Cache,HYD01,Ballots Cast,,DEM,,52
+Cache,HYD01,U.S. Senate,,REP,Mitt Romney,373
+Cache,HYD01,U.S. Senate,,REP,Mike Kennedy,84
+Cache,HYD01,U.S. House,1,DEM,Lee Castillo,20
+Cache,HYD01,U.S. House,1,DEM,Kurt Weiland,32
+Cache,HYD02,Registered Voters,,,,1156
+Cache,HYD02,Registered Voters,,REP,,724
+Cache,HYD02,Registered Voters,,DEM,,432
+Cache,HYD02,Ballots Cast,,,,428
+Cache,HYD02,Ballots Cast,,REP,,373
+Cache,HYD02,Ballots Cast,,DEM,,55
+Cache,HYD02,U.S. Senate,,REP,Mitt Romney,281
+Cache,HYD02,U.S. Senate,,REP,Mike Kennedy,91
+Cache,HYD02,U.S. House,1,DEM,Lee Castillo,28
+Cache,HYD02,U.S. House,1,DEM,Kurt Weiland,25
+Cache,HYR01,Registered Voters,,,,763
+Cache,HYR01,Registered Voters,,REP,,415
+Cache,HYR01,Registered Voters,,DEM,,348
+Cache,HYR01,Ballots Cast,,,,234
+Cache,HYR01,Ballots Cast,,REP,,181
+Cache,HYR01,Ballots Cast,,DEM,,53
+Cache,HYR01,U.S. Senate,,REP,Mitt Romney,116
+Cache,HYR01,U.S. Senate,,REP,Mike Kennedy,65
+Cache,HYR01,State Senate,17,REP,Scott Sandall,103
+Cache,HYR01,State Senate,17,REP,Clark N. Davis,69
+Cache,HYR01,U.S. House,1,DEM,Lee Castillo,28
+Cache,HYR01,U.S. House,1,DEM,Kurt Weiland,25
+Cache,HYR02,Registered Voters,,,,405
+Cache,HYR02,Registered Voters,,REP,,240
+Cache,HYR02,Registered Voters,,DEM,,165
+Cache,HYR02,Ballots Cast,,,,135
+Cache,HYR02,Ballots Cast,,REP,,123
+Cache,HYR02,Ballots Cast,,DEM,,12
+Cache,HYR02,U.S. Senate,,REP,Mitt Romney,93
+Cache,HYR02,U.S. Senate,,REP,Mike Kennedy,30
+Cache,HYR02,State Senate,17,REP,Scott Sandall,63
+Cache,HYR02,State Senate,17,REP,Clark N. Davis,55
+Cache,HYR02,U.S. House,1,DEM,Lee Castillo,7
+Cache,HYR02,U.S. House,1,DEM,Kurt Weiland,5
+Cache,HYR03,Registered Voters,,,,809
+Cache,HYR03,Registered Voters,,REP,,495
+Cache,HYR03,Registered Voters,,DEM,,314
+Cache,HYR03,Ballots Cast,,,,239
+Cache,HYR03,Ballots Cast,,REP,,210
+Cache,HYR03,Ballots Cast,,DEM,,29
+Cache,HYR03,U.S. Senate,,REP,Mitt Romney,144
+Cache,HYR03,U.S. Senate,,REP,Mike Kennedy,66
+Cache,HYR03,State Senate,17,REP,Scott Sandall,115
+Cache,HYR03,State Senate,17,REP,Clark N. Davis,73
+Cache,HYR03,U.S. House,1,DEM,Lee Castillo,19
+Cache,HYR03,U.S. House,1,DEM,Kurt Weiland,10
+Cache,HYR04,Registered Voters,,,,971
+Cache,HYR04,Registered Voters,,REP,,595
+Cache,HYR04,Registered Voters,,DEM,,376
+Cache,HYR04,Ballots Cast,,,,325
+Cache,HYR04,Ballots Cast,,REP,,293
+Cache,HYR04,Ballots Cast,,DEM,,32
+Cache,HYR04,U.S. Senate,,REP,Mitt Romney,194
+Cache,HYR04,U.S. Senate,,REP,Mike Kennedy,99
+Cache,HYR04,State Senate,17,REP,Scott Sandall,155
+Cache,HYR04,State Senate,17,REP,Clark N. Davis,126
+Cache,HYR04,U.S. House,1,DEM,Lee Castillo,19
+Cache,HYR04,U.S. House,1,DEM,Kurt Weiland,13
+Cache,HYR05,Registered Voters,,,,666
+Cache,HYR05,Registered Voters,,REP,,374
+Cache,HYR05,Registered Voters,,DEM,,292
+Cache,HYR05,Ballots Cast,,,,161
+Cache,HYR05,Ballots Cast,,REP,,133
+Cache,HYR05,Ballots Cast,,DEM,,28
+Cache,HYR05,U.S. Senate,,REP,Mitt Romney,90
+Cache,HYR05,U.S. Senate,,REP,Mike Kennedy,43
+Cache,HYR05,State Senate,17,REP,Scott Sandall,55
+Cache,HYR05,State Senate,17,REP,Clark N. Davis,67
+Cache,HYR05,U.S. House,1,DEM,Lee Castillo,11
+Cache,HYR05,U.S. House,1,DEM,Kurt Weiland,17
+Cache,LEW01,Registered Voters,,,,542
+Cache,LEW01,Registered Voters,,REP,,366
+Cache,LEW01,Registered Voters,,DEM,,176
+Cache,LEW01,Ballots Cast,,,,176
+Cache,LEW01,Ballots Cast,,REP,,171
+Cache,LEW01,Ballots Cast,,DEM,,5
+Cache,LEW01,U.S. Senate,,REP,Mitt Romney,112
+Cache,LEW01,U.S. Senate,,REP,Mike Kennedy,59
+Cache,LEW01,U.S. House,1,DEM,Lee Castillo,5
+Cache,LEW01,U.S. House,1,DEM,Kurt Weiland,0
+Cache,LEW02,Registered Voters,,,,325
+Cache,LEW02,Registered Voters,,REP,,240
+Cache,LEW02,Registered Voters,,DEM,,85
+Cache,LEW02,Ballots Cast,,,,132
+Cache,LEW02,Ballots Cast,,REP,,119
+Cache,LEW02,Ballots Cast,,DEM,,13
+Cache,LEW02,U.S. Senate,,REP,Mitt Romney,86
+Cache,LEW02,U.S. Senate,,REP,Mike Kennedy,33
+Cache,LEW02,U.S. House,1,DEM,Lee Castillo,6
+Cache,LEW02,U.S. House,1,DEM,Kurt Weiland,7
+Cache,LOG01,Registered Voters,,,,437
+Cache,LOG01,Registered Voters,,REP,,170
+Cache,LOG01,Registered Voters,,DEM,,267
+Cache,LOG01,Ballots Cast,,,,107
+Cache,LOG01,Ballots Cast,,REP,,66
+Cache,LOG01,Ballots Cast,,DEM,,41
+Cache,LOG01,U.S. Senate,,REP,Mitt Romney,54
+Cache,LOG01,U.S. Senate,,REP,Mike Kennedy,12
+Cache,LOG01,State House,4,REP,Greg Merrill,25
+Cache,LOG01,State House,4,REP,Dan N. Johnson,41
+Cache,LOG01,U.S. House,1,DEM,Lee Castillo,24
+Cache,LOG01,U.S. House,1,DEM,Kurt Weiland,17
+Cache,LOG02,Registered Voters,,,,513
+Cache,LOG02,Registered Voters,,REP,,209
+Cache,LOG02,Registered Voters,,DEM,,304
+Cache,LOG02,Ballots Cast,,,,130
+Cache,LOG02,Ballots Cast,,REP,,89
+Cache,LOG02,Ballots Cast,,DEM,,41
+Cache,LOG02,U.S. Senate,,REP,Mitt Romney,58
+Cache,LOG02,U.S. Senate,,REP,Mike Kennedy,31
+Cache,LOG02,State House,4,REP,Greg Merrill,27
+Cache,LOG02,State House,4,REP,Dan N. Johnson,60
+Cache,LOG02,U.S. House,1,DEM,Lee Castillo,24
+Cache,LOG02,U.S. House,1,DEM,Kurt Weiland,17
+Cache,LOG03,Registered Voters,,,,644
+Cache,LOG03,Registered Voters,,REP,,297
+Cache,LOG03,Registered Voters,,DEM,,347
+Cache,LOG03,Ballots Cast,,,,181
+Cache,LOG03,Ballots Cast,,REP,,146
+Cache,LOG03,Ballots Cast,,DEM,,35
+Cache,LOG03,U.S. Senate,,REP,Mitt Romney,116
+Cache,LOG03,U.S. Senate,,REP,Mike Kennedy,30
+Cache,LOG03,State House,4,REP,Greg Merrill,25
+Cache,LOG03,State House,4,REP,Dan N. Johnson,117
+Cache,LOG03,U.S. House,1,DEM,Lee Castillo,24
+Cache,LOG03,U.S. House,1,DEM,Kurt Weiland,11
+Cache,LOG04,Registered Voters,,,,547
+Cache,LOG04,Registered Voters,,REP,,260
+Cache,LOG04,Registered Voters,,DEM,,287
+Cache,LOG04,Ballots Cast,,,,190
+Cache,LOG04,Ballots Cast,,REP,,137
+Cache,LOG04,Ballots Cast,,DEM,,53
+Cache,LOG04,U.S. Senate,,REP,Mitt Romney,99
+Cache,LOG04,U.S. Senate,,REP,Mike Kennedy,37
+Cache,LOG04,State House,4,REP,Greg Merrill,73
+Cache,LOG04,State House,4,REP,Dan N. Johnson,62
+Cache,LOG04,U.S. House,1,DEM,Lee Castillo,32
+Cache,LOG04,U.S. House,1,DEM,Kurt Weiland,21
+Cache,LOG05,Registered Voters,,,,846
+Cache,LOG05,Registered Voters,,REP,,359
+Cache,LOG05,Registered Voters,,DEM,,487
+Cache,LOG05,Ballots Cast,,,,270
+Cache,LOG05,Ballots Cast,,REP,,178
+Cache,LOG05,Ballots Cast,,DEM,,92
+Cache,LOG05,U.S. Senate,,REP,Mitt Romney,128
+Cache,LOG05,U.S. Senate,,REP,Mike Kennedy,49
+Cache,LOG05,State House,4,REP,Greg Merrill,47
+Cache,LOG05,State House,4,REP,Dan N. Johnson,131
+Cache,LOG05,U.S. House,1,DEM,Lee Castillo,49
+Cache,LOG05,U.S. House,1,DEM,Kurt Weiland,43
+Cache,LOG06,Registered Voters,,,,505
+Cache,LOG06,Registered Voters,,REP,,224
+Cache,LOG06,Registered Voters,,DEM,,281
+Cache,LOG06,Ballots Cast,,,,148
+Cache,LOG06,Ballots Cast,,REP,,99
+Cache,LOG06,Ballots Cast,,DEM,,49
+Cache,LOG06,U.S. Senate,,REP,Mitt Romney,70
+Cache,LOG06,U.S. Senate,,REP,Mike Kennedy,29
+Cache,LOG06,State House,4,REP,Greg Merrill,43
+Cache,LOG06,State House,4,REP,Dan N. Johnson,51
+Cache,LOG06,U.S. House,1,DEM,Lee Castillo,33
+Cache,LOG06,U.S. House,1,DEM,Kurt Weiland,16
+Cache,LOG07,Registered Voters,,,,307
+Cache,LOG07,Registered Voters,,REP,,110
+Cache,LOG07,Registered Voters,,DEM,,197
+Cache,LOG07,Ballots Cast,,,,58
+Cache,LOG07,Ballots Cast,,REP,,32
+Cache,LOG07,Ballots Cast,,DEM,,26
+Cache,LOG07,U.S. Senate,,REP,Mitt Romney,23
+Cache,LOG07,U.S. Senate,,REP,Mike Kennedy,9
+Cache,LOG07,State House,4,REP,Greg Merrill,17
+Cache,LOG07,State House,4,REP,Dan N. Johnson,13
+Cache,LOG07,U.S. House,1,DEM,Lee Castillo,16
+Cache,LOG07,U.S. House,1,DEM,Kurt Weiland,10
+Cache,LOG08,Registered Voters,,,,276
+Cache,LOG08,Registered Voters,,REP,,101
+Cache,LOG08,Registered Voters,,DEM,,175
+Cache,LOG08,Ballots Cast,,,,54
+Cache,LOG08,Ballots Cast,,REP,,32
+Cache,LOG08,Ballots Cast,,DEM,,22
+Cache,LOG08,U.S. Senate,,REP,Mitt Romney,24
+Cache,LOG08,U.S. Senate,,REP,Mike Kennedy,8
+Cache,LOG08,State House,4,REP,Greg Merrill,13
+Cache,LOG08,State House,4,REP,Dan N. Johnson,19
+Cache,LOG08,U.S. House,1,DEM,Lee Castillo,13
+Cache,LOG08,U.S. House,1,DEM,Kurt Weiland,9
+Cache,LOG09,Registered Voters,,,,421
+Cache,LOG09,Registered Voters,,REP,,162
+Cache,LOG09,Registered Voters,,DEM,,259
+Cache,LOG09,Ballots Cast,,,,111
+Cache,LOG09,Ballots Cast,,REP,,61
+Cache,LOG09,Ballots Cast,,DEM,,50
+Cache,LOG09,U.S. Senate,,REP,Mitt Romney,49
+Cache,LOG09,U.S. Senate,,REP,Mike Kennedy,12
+Cache,LOG09,State House,4,REP,Greg Merrill,24
+Cache,LOG09,State House,4,REP,Dan N. Johnson,37
+Cache,LOG09,U.S. House,1,DEM,Lee Castillo,32
+Cache,LOG09,U.S. House,1,DEM,Kurt Weiland,18
+Cache,LOG10,Registered Voters,,,,367
+Cache,LOG10,Registered Voters,,REP,,148
+Cache,LOG10,Registered Voters,,DEM,,219
+Cache,LOG10,Ballots Cast,,,,75
+Cache,LOG10,Ballots Cast,,REP,,52
+Cache,LOG10,Ballots Cast,,DEM,,23
+Cache,LOG10,U.S. Senate,,REP,Mitt Romney,38
+Cache,LOG10,U.S. Senate,,REP,Mike Kennedy,14
+Cache,LOG10,State House,4,REP,Greg Merrill,28
+Cache,LOG10,State House,4,REP,Dan N. Johnson,21
+Cache,LOG10,U.S. House,1,DEM,Lee Castillo,7
+Cache,LOG10,U.S. House,1,DEM,Kurt Weiland,15
+Cache,LOG11,Registered Voters,,,,423
+Cache,LOG11,Registered Voters,,REP,,217
+Cache,LOG11,Registered Voters,,DEM,,206
+Cache,LOG11,Ballots Cast,,,,92
+Cache,LOG11,Ballots Cast,,REP,,74
+Cache,LOG11,Ballots Cast,,DEM,,18
+Cache,LOG11,U.S. Senate,,REP,Mitt Romney,62
+Cache,LOG11,U.S. Senate,,REP,Mike Kennedy,11
+Cache,LOG11,State House,4,REP,Greg Merrill,38
+Cache,LOG11,State House,4,REP,Dan N. Johnson,35
+Cache,LOG11,U.S. House,1,DEM,Lee Castillo,10
+Cache,LOG11,U.S. House,1,DEM,Kurt Weiland,8
+Cache,LOG12,Registered Voters,,,,260
+Cache,LOG12,Registered Voters,,REP,,91
+Cache,LOG12,Registered Voters,,DEM,,169
+Cache,LOG12,Ballots Cast,,,,11
+Cache,LOG12,Ballots Cast,,REP,,3
+Cache,LOG12,Ballots Cast,,DEM,,7
+Cache,LOG12,U.S. Senate,,REP,Mitt Romney,2
+Cache,LOG12,U.S. Senate,,REP,Mike Kennedy,1
+Cache,LOG12,State House,4,REP,Greg Merrill,1
+Cache,LOG12,State House,4,REP,Dan N. Johnson,1
+Cache,LOG12,U.S. House,1,DEM,Lee Castillo,5
+Cache,LOG12,U.S. House,1,DEM,Kurt Weiland,1
+Cache,LOG13,Registered Voters,,,,767
+Cache,LOG13,Registered Voters,,REP,,378
+Cache,LOG13,Registered Voters,,DEM,,389
+Cache,LOG13,Ballots Cast,,,,425
+Cache,LOG13,Ballots Cast,,REP,,247
+Cache,LOG13,Ballots Cast,,DEM,,174
+Cache,LOG13,U.S. Senate,,REP,Mitt Romney,201
+Cache,LOG13,U.S. Senate,,REP,Mike Kennedy,46
+Cache,LOG13,State House,4,REP,Greg Merrill,139
+Cache,LOG13,State House,4,REP,Dan N. Johnson,104
+Cache,LOG13,U.S. House,1,DEM,Lee Castillo,82
+Cache,LOG13,U.S. House,1,DEM,Kurt Weiland,68
+Cache,LOG14,Registered Voters,,,,520
+Cache,LOG14,Registered Voters,,REP,,228
+Cache,LOG14,Registered Voters,,DEM,,292
+Cache,LOG14,Ballots Cast,,,,210
+Cache,LOG14,Ballots Cast,,REP,,142
+Cache,LOG14,Ballots Cast,,DEM,,68
+Cache,LOG14,U.S. Senate,,REP,Mitt Romney,118
+Cache,LOG14,U.S. Senate,,REP,Mike Kennedy,24
+Cache,LOG14,State House,4,REP,Greg Merrill,41
+Cache,LOG14,State House,4,REP,Dan N. Johnson,100
+Cache,LOG14,U.S. House,1,DEM,Lee Castillo,39
+Cache,LOG14,U.S. House,1,DEM,Kurt Weiland,29
+Cache,LOG15,Registered Voters,,,,459
+Cache,LOG15,Registered Voters,,REP,,219
+Cache,LOG15,Registered Voters,,DEM,,240
+Cache,LOG15,Ballots Cast,,,,60
+Cache,LOG15,Ballots Cast,,REP,,39
+Cache,LOG15,Ballots Cast,,DEM,,21
+Cache,LOG15,U.S. Senate,,REP,Mitt Romney,28
+Cache,LOG15,U.S. Senate,,REP,Mike Kennedy,11
+Cache,LOG15,State House,4,REP,Greg Merrill,22
+Cache,LOG15,State House,4,REP,Dan N. Johnson,16
+Cache,LOG15,U.S. House,1,DEM,Lee Castillo,15
+Cache,LOG15,U.S. House,1,DEM,Kurt Weiland,6
+Cache,LOG16,Registered Voters,,,,545
+Cache,LOG16,Registered Voters,,REP,,253
+Cache,LOG16,Registered Voters,,DEM,,292
+Cache,LOG16,Ballots Cast,,,,167
+Cache,LOG16,Ballots Cast,,REP,,120
+Cache,LOG16,Ballots Cast,,DEM,,47
+Cache,LOG16,U.S. Senate,,REP,Mitt Romney,91
+Cache,LOG16,U.S. Senate,,REP,Mike Kennedy,29
+Cache,LOG16,State House,4,REP,Greg Merrill,60
+Cache,LOG16,State House,4,REP,Dan N. Johnson,55
+Cache,LOG16,U.S. House,1,DEM,Lee Castillo,28
+Cache,LOG16,U.S. House,1,DEM,Kurt Weiland,18
+Cache,LOG17,Registered Voters,,,,629
+Cache,LOG17,Registered Voters,,REP,,306
+Cache,LOG17,Registered Voters,,DEM,,323
+Cache,LOG17,Ballots Cast,,,,127
+Cache,LOG17,Ballots Cast,,REP,,99
+Cache,LOG17,Ballots Cast,,DEM,,28
+Cache,LOG17,U.S. Senate,,REP,Mitt Romney,72
+Cache,LOG17,U.S. Senate,,REP,Mike Kennedy,27
+Cache,LOG17,U.S. House,1,DEM,Lee Castillo,18
+Cache,LOG17,U.S. House,1,DEM,Kurt Weiland,10
+Cache,LOG18,Registered Voters,,,,345
+Cache,LOG18,Registered Voters,,REP,,177
+Cache,LOG18,Registered Voters,,DEM,,168
+Cache,LOG18,Ballots Cast,,,,28
+Cache,LOG18,Ballots Cast,,REP,,24
+Cache,LOG18,Ballots Cast,,DEM,,4
+Cache,LOG18,U.S. Senate,,REP,Mitt Romney,18
+Cache,LOG18,U.S. Senate,,REP,Mike Kennedy,6
+Cache,LOG18,State House,4,REP,Greg Merrill,8
+Cache,LOG18,State House,4,REP,Dan N. Johnson,14
+Cache,LOG18,U.S. House,1,DEM,Lee Castillo,1
+Cache,LOG18,U.S. House,1,DEM,Kurt Weiland,3
+Cache,LOG19,Registered Voters,,,,343
+Cache,LOG19,Registered Voters,,REP,,173
+Cache,LOG19,Registered Voters,,DEM,,170
+Cache,LOG19,Ballots Cast,,,,44
+Cache,LOG19,Ballots Cast,,REP,,23
+Cache,LOG19,Ballots Cast,,DEM,,14
+Cache,LOG19,U.S. Senate,,REP,Mitt Romney,22
+Cache,LOG19,U.S. Senate,,REP,Mike Kennedy,1
+Cache,LOG19,State House,4,REP,Greg Merrill,8
+Cache,LOG19,State House,4,REP,Dan N. Johnson,15
+Cache,LOG19,U.S. House,1,DEM,Lee Castillo,7
+Cache,LOG19,U.S. House,1,DEM,Kurt Weiland,7
+Cache,LOG20,Registered Voters,,,,733
+Cache,LOG20,Registered Voters,,REP,,431
+Cache,LOG20,Registered Voters,,DEM,,302
+Cache,LOG20,Ballots Cast,,,,401
+Cache,LOG20,Ballots Cast,,REP,,290
+Cache,LOG20,Ballots Cast,,DEM,,106
+Cache,LOG20,U.S. Senate,,REP,Mitt Romney,248
+Cache,LOG20,U.S. Senate,,REP,Mike Kennedy,42
+Cache,LOG20,State House,4,REP,Greg Merrill,193
+Cache,LOG20,State House,4,REP,Dan N. Johnson,95
+Cache,LOG20,U.S. House,1,DEM,Lee Castillo,48
+Cache,LOG20,U.S. House,1,DEM,Kurt Weiland,29
+Cache,LOG21,Registered Voters,,,,491
+Cache,LOG21,Registered Voters,,REP,,232
+Cache,LOG21,Registered Voters,,DEM,,259
+Cache,LOG21,Ballots Cast,,,,264
+Cache,LOG21,Ballots Cast,,REP,,149
+Cache,LOG21,Ballots Cast,,DEM,,111
+Cache,LOG21,U.S. Senate,,REP,Mitt Romney,115
+Cache,LOG21,U.S. Senate,,REP,Mike Kennedy,33
+Cache,LOG21,State House,4,REP,Greg Merrill,86
+Cache,LOG21,State House,4,REP,Dan N. Johnson,61
+Cache,LOG21,U.S. House,1,DEM,Lee Castillo,48
+Cache,LOG21,U.S. House,1,DEM,Kurt Weiland,49
+Cache,LOG22,Registered Voters,,,,854
+Cache,LOG22,Registered Voters,,REP,,480
+Cache,LOG22,Registered Voters,,DEM,,374
+Cache,LOG22,Ballots Cast,,,,350
+Cache,LOG22,Ballots Cast,,REP,,268
+Cache,LOG22,Ballots Cast,,DEM,,82
+Cache,LOG22,U.S. Senate,,REP,Mitt Romney,219
+Cache,LOG22,U.S. Senate,,REP,Mike Kennedy,49
+Cache,LOG22,State House,4,REP,Greg Merrill,102
+Cache,LOG22,State House,4,REP,Dan N. Johnson,160
+Cache,LOG22,U.S. House,1,DEM,Lee Castillo,52
+Cache,LOG22,U.S. House,1,DEM,Kurt Weiland,30
+Cache,LOG23,Registered Voters,,,,498
+Cache,LOG23,Registered Voters,,REP,,206
+Cache,LOG23,Registered Voters,,DEM,,292
+Cache,LOG23,Ballots Cast,,,,26
+Cache,LOG23,Ballots Cast,,REP,,19
+Cache,LOG23,Ballots Cast,,DEM,,7
+Cache,LOG23,U.S. Senate,,REP,Mitt Romney,16
+Cache,LOG23,U.S. Senate,,REP,Mike Kennedy,3
+Cache,LOG23,State House,4,REP,Greg Merrill,8
+Cache,LOG23,State House,4,REP,Dan N. Johnson,9
+Cache,LOG23,U.S. House,1,DEM,Lee Castillo,2
+Cache,LOG23,U.S. House,1,DEM,Kurt Weiland,5
+Cache,LOG24,Registered Voters,,,,434
+Cache,LOG24,Registered Voters,,REP,,133
+Cache,LOG24,Registered Voters,,DEM,,301
+Cache,LOG24,Ballots Cast,,,,105
+Cache,LOG24,Ballots Cast,,REP,,72
+Cache,LOG24,Ballots Cast,,DEM,,33
+Cache,LOG24,U.S. Senate,,REP,Mitt Romney,54
+Cache,LOG24,U.S. Senate,,REP,Mike Kennedy,18
+Cache,LOG24,State House,4,REP,Greg Merrill,27
+Cache,LOG24,State House,4,REP,Dan N. Johnson,43
+Cache,LOG24,U.S. House,1,DEM,Lee Castillo,23
+Cache,LOG24,U.S. House,1,DEM,Kurt Weiland,10
+Cache,LOG25,Registered Voters,,,,601
+Cache,LOG25,Registered Voters,,REP,,286
+Cache,LOG25,Registered Voters,,DEM,,315
+Cache,LOG25,Ballots Cast,,,,170
+Cache,LOG25,Ballots Cast,,REP,,128
+Cache,LOG25,Ballots Cast,,DEM,,42
+Cache,LOG25,U.S. Senate,,REP,Mitt Romney,90
+Cache,LOG25,U.S. Senate,,REP,Mike Kennedy,38
+Cache,LOG25,U.S. House,1,DEM,Lee Castillo,23
+Cache,LOG25,U.S. House,1,DEM,Kurt Weiland,19
+Cache,LOG26,Registered Voters,,,,529
+Cache,LOG26,Registered Voters,,REP,,256
+Cache,LOG26,Registered Voters,,DEM,,273
+Cache,LOG26,Ballots Cast,,,,146
+Cache,LOG26,Ballots Cast,,REP,,110
+Cache,LOG26,Ballots Cast,,DEM,,36
+Cache,LOG26,U.S. Senate,,REP,Mitt Romney,80
+Cache,LOG26,U.S. Senate,,REP,Mike Kennedy,29
+Cache,LOG26,State House,4,REP,Greg Merrill,42
+Cache,LOG26,State House,4,REP,Dan N. Johnson,66
+Cache,LOG26,U.S. House,1,DEM,Lee Castillo,24
+Cache,LOG26,U.S. House,1,DEM,Kurt Weiland,12
+Cache,LOG27,Registered Voters,,,,718
+Cache,LOG27,Registered Voters,,REP,,367
+Cache,LOG27,Registered Voters,,DEM,,351
+Cache,LOG27,Ballots Cast,,,,171
+Cache,LOG27,Ballots Cast,,REP,,144
+Cache,LOG27,Ballots Cast,,DEM,,27
+Cache,LOG27,U.S. Senate,,REP,Mitt Romney,104
+Cache,LOG27,U.S. Senate,,REP,Mike Kennedy,40
+Cache,LOG27,U.S. House,1,DEM,Lee Castillo,19
+Cache,LOG27,U.S. House,1,DEM,Kurt Weiland,8
+Cache,LOG28,Registered Voters,,,,249
+Cache,LOG28,Registered Voters,,REP,,131
+Cache,LOG28,Registered Voters,,DEM,,118
+Cache,LOG28,Ballots Cast,,,,50
+Cache,LOG28,Ballots Cast,,REP,,44
+Cache,LOG28,Ballots Cast,,DEM,,6
+Cache,LOG28,U.S. Senate,,REP,Mitt Romney,41
+Cache,LOG28,U.S. Senate,,REP,Mike Kennedy,3
+Cache,LOG28,State House,4,REP,Greg Merrill,25
+Cache,LOG28,State House,4,REP,Dan N. Johnson,19
+Cache,LOG28,U.S. House,1,DEM,Lee Castillo,5
+Cache,LOG28,U.S. House,1,DEM,Kurt Weiland,1
+Cache,LOG29,Registered Voters,,,,798
+Cache,LOG29,Registered Voters,,REP,,451
+Cache,LOG29,Registered Voters,,DEM,,347
+Cache,LOG29,Ballots Cast,,,,364
+Cache,LOG29,Ballots Cast,,REP,,291
+Cache,LOG29,Ballots Cast,,DEM,,73
+Cache,LOG29,U.S. Senate,,REP,Mitt Romney,224
+Cache,LOG29,U.S. Senate,,REP,Mike Kennedy,67
+Cache,LOG29,State House,4,REP,Greg Merrill,121
+Cache,LOG29,State House,4,REP,Dan N. Johnson,165
+Cache,LOG29,U.S. House,1,DEM,Lee Castillo,42
+Cache,LOG29,U.S. House,1,DEM,Kurt Weiland,31
+Cache,LOG30,Registered Voters,,,,707
+Cache,LOG30,Registered Voters,,REP,,350
+Cache,LOG30,Registered Voters,,DEM,,357
+Cache,LOG30,Ballots Cast,,,,157
+Cache,LOG30,Ballots Cast,,REP,,116
+Cache,LOG30,Ballots Cast,,DEM,,41
+Cache,LOG30,U.S. Senate,,REP,Mitt Romney,85
+Cache,LOG30,U.S. Senate,,REP,Mike Kennedy,31
+Cache,LOG30,U.S. House,1,DEM,Lee Castillo,29
+Cache,LOG30,U.S. House,1,DEM,Kurt Weiland,12
+Cache,LOG31,Registered Voters,,,,511
+Cache,LOG31,Registered Voters,,REP,,233
+Cache,LOG31,Registered Voters,,DEM,,278
+Cache,LOG31,Ballots Cast,,,,89
+Cache,LOG31,Ballots Cast,,REP,,61
+Cache,LOG31,Ballots Cast,,DEM,,28
+Cache,LOG31,U.S. Senate,,REP,Mitt Romney,44
+Cache,LOG31,U.S. Senate,,REP,Mike Kennedy,17
+Cache,LOG31,U.S. House,1,DEM,Lee Castillo,20
+Cache,LOG31,U.S. House,1,DEM,Kurt Weiland,8
+Cache,LOG32,Registered Voters,,,,340
+Cache,LOG32,Registered Voters,,REP,,173
+Cache,LOG32,Registered Voters,,DEM,,167
+Cache,LOG32,Ballots Cast,,,,76
+Cache,LOG32,Ballots Cast,,REP,,59
+Cache,LOG32,Ballots Cast,,DEM,,17
+Cache,LOG32,U.S. Senate,,REP,Mitt Romney,34
+Cache,LOG32,U.S. Senate,,REP,Mike Kennedy,25
+Cache,LOG32,U.S. House,1,DEM,Lee Castillo,5
+Cache,LOG32,U.S. House,1,DEM,Kurt Weiland,12
+Cache,LOG33,Registered Voters,,,,569
+Cache,LOG33,Registered Voters,,REP,,287
+Cache,LOG33,Registered Voters,,DEM,,282
+Cache,LOG33,Ballots Cast,,,,209
+Cache,LOG33,Ballots Cast,,REP,,166
+Cache,LOG33,Ballots Cast,,DEM,,43
+Cache,LOG33,U.S. Senate,,REP,Mitt Romney,107
+Cache,LOG33,U.S. Senate,,REP,Mike Kennedy,59
+Cache,LOG33,State House,4,REP,Greg Merrill,38
+Cache,LOG33,State House,4,REP,Dan N. Johnson,122
+Cache,LOG33,U.S. House,1,DEM,Lee Castillo,27
+Cache,LOG33,U.S. House,1,DEM,Kurt Weiland,16
+Cache,MEN01,Registered Voters,,,,93
+Cache,MEN01,Registered Voters,,REP,,57
+Cache,MEN01,Registered Voters,,DEM,,36
+Cache,MEN01,Ballots Cast,,,,33
+Cache,MEN01,Ballots Cast,,REP,,29
+Cache,MEN01,Ballots Cast,,DEM,,4
+Cache,MEN01,U.S. Senate,,REP,Mitt Romney,12
+Cache,MEN01,U.S. Senate,,REP,Mike Kennedy,17
+Cache,MEN01,U.S. House,1,DEM,Lee Castillo,3
+Cache,MEN01,U.S. House,1,DEM,Kurt Weiland,1
