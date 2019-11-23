@@ -730,7 +730,6 @@ Utah,VI01S2,,,,Ballots,22
 Utah,VI01UL,,,,Ballots,0
 Utah,VI02,,,,Ballots,259
 Utah,WH01,,,,Ballots,644
-Utah,UTAH UT,,,,Ballots,178119
 Utah,UCLS2,,,,Registered,334
 Utah,UCLV,,,,Registered,0
 Utah,UCPC1,,,,Registered,137
@@ -744,7 +743,6 @@ Utah,VI01S2,,,,Registered,33
 Utah,VI01UL,,,,Registered,0
 Utah,VI02,,,,Registered,527
 Utah,WH01,,,,Registered,863
-Utah,UTAH UT,,,,Registered,261164
 Utah,AF01,U.S. Senate,,Con,Tim Aalders,23
 Utah,AF01:UN,U.S. Senate,,Con,Tim Aalders,2
 Utah,AF01S,U.S. Senate,,Con,Tim Aalders,0
@@ -2158,7 +2156,6 @@ Utah,VI01S2,U.S. Senate,,Con,Tim Aalders,1
 Utah,VI01UL,U.S. Senate,,Con,Tim Aalders,0
 Utah,VI02,U.S. Senate,,Con,Tim Aalders,7
 Utah,WH01,U.S. Senate,,Con,Tim Aalders,33
-Utah,UTAH UT,U.S. Senate,,Con,Tim Aalders,5097
 Utah,PR35,U.S. Senate,,Lbt,Craig Bowden,22
 Utah,PR36,U.S. Senate,,Lbt,Craig Bowden,15
 Utah,PR37,U.S. Senate,,Lbt,Craig Bowden,9
@@ -2271,7 +2268,6 @@ Utah,VI01S2,U.S. Senate,,Lbt,Craig Bowden,0
 Utah,VI01UL,U.S. Senate,,Lbt,Craig Bowden,0
 Utah,VI02,U.S. Senate,,Lbt,Craig Bowden,9
 Utah,WH01,U.S. Senate,,Lbt,Craig Bowden,15
-Utah,UTAH UT,U.S. Senate,,Lbt,Craig Bowden,4635
 Utah,PR35,U.S. Senate,,IAP,Reed McCandless,6
 Utah,PR36,U.S. Senate,,IAP,Reed McCandless,1
 Utah,PR37,U.S. Senate,,IAP,Reed McCandless,4
@@ -2384,7 +2380,6 @@ Utah,VI01S2,U.S. Senate,,IAP,Reed McCandless,0
 Utah,VI01UL,U.S. Senate,,IAP,Reed McCandless,0
 Utah,VI02,U.S. Senate,,IAP,Reed McCandless,7
 Utah,WH01,U.S. Senate,,IAP,Reed McCandless,4
-Utah,UTAH UT,U.S. Senate,,IAP,Reed McCandless,1739
 Utah,PR35,U.S. Senate,,Dem,Jenny Wilson,169
 Utah,PR36,U.S. Senate,,Dem,Jenny Wilson,202
 Utah,PR37,U.S. Senate,,Dem,Jenny Wilson,101
@@ -2497,7 +2492,6 @@ Utah,VI01S2,U.S. Senate,,Dem,Jenny Wilson,1
 Utah,VI01UL,U.S. Senate,,Dem,Jenny Wilson,0
 Utah,VI02,U.S. Senate,,Dem,Jenny Wilson,110
 Utah,WH01,U.S. Senate,,Dem,Jenny Wilson,72
-Utah,UTAH UT,U.S. Senate,,Dem,Jenny Wilson,28856
 Utah,PR35,U.S. Senate,,Rep,Mitt Romney,473
 Utah,PR36,U.S. Senate,,Rep,Mitt Romney,671
 Utah,PR37,U.S. Senate,,Rep,Mitt Romney,426
@@ -2610,7 +2604,6 @@ Utah,VI01S2,U.S. Senate,,Rep,Mitt Romney,20
 Utah,VI01UL,U.S. Senate,,Rep,Mitt Romney,0
 Utah,VI02,U.S. Senate,,Rep,Mitt Romney,124
 Utah,WH01,U.S. Senate,,Rep,Mitt Romney,511
-Utah,UTAH UT,U.S. Senate,,Rep,Mitt Romney,135240
 Utah,AF01,U.S. House,3,Rep,John Curtis,846
 Utah,AF01:UN,U.S. House,3,Rep,John Curtis,56
 Utah,AF01S,U.S. House,3,Rep,John Curtis,0
@@ -2910,7 +2903,6 @@ Utah,VI01S2,U.S. House,3,Rep,John Curtis,20
 Utah,VI01UL,U.S. House,3,Rep,John Curtis,0
 Utah,VI02,U.S. House,3,Rep,John Curtis,121
 Utah,WH01,U.S. House,3,Rep,John Curtis,534
-Utah,UTAH UT,U.S. House,3,Rep,John Curtis,108519
 Utah,AF01,U.S. House,3,Dem,James Singer,183
 Utah,AF01:UN,U.S. House,3,Dem,James Singer,22
 Utah,AF01S,U.S. House,3,Dem,James Singer,0
@@ -3210,7 +3202,6 @@ Utah,VI01S2,U.S. House,3,Dem,James Singer,0
 Utah,VI01UL,U.S. House,3,Dem,James Singer,0
 Utah,VI02,U.S. House,3,Dem,James Singer,111
 Utah,WH01,U.S. House,3,Dem,James Singer,73
-Utah,UTAH UT,U.S. House,3,Dem,James Singer,24005
 Utah,AF01,U.S. House,3,UUP,Tim Zeidner,25
 Utah,AF01:UN,U.S. House,3,UUP,Tim Zeidner,3
 Utah,AF01S,U.S. House,3,UUP,Tim Zeidner,0
@@ -3510,7 +3501,6 @@ Utah,VI01S2,U.S. House,3,UUP,Tim Zeidner,0
 Utah,VI01UL,U.S. House,3,UUP,Tim Zeidner,0
 Utah,VI02,U.S. House,3,UUP,Tim Zeidner,5
 Utah,WH01,U.S. House,3,UUP,Tim Zeidner,9
-Utah,UTAH UT,U.S. House,3,UUP,Tim Zeidner,4015
 Utah,AF01,U.S. House,3,IAP,Greg Duerden,25
 Utah,AF01:UN,U.S. House,3,IAP,Greg Duerden,2
 Utah,AF01S,U.S. House,3,IAP,Greg Duerden,0
@@ -3810,7 +3800,6 @@ Utah,VI01S2,U.S. House,3,IAP,Greg Duerden,0
 Utah,VI01UL,U.S. House,3,IAP,Greg Duerden,0
 Utah,VI02,U.S. House,3,IAP,Greg Duerden,14
 Utah,WH01,U.S. House,3,IAP,Greg Duerden,13
-Utah,UTAH UT,U.S. House,3,IAP,Greg Duerden,4285
 Utah,AF13,U.S. House,4,Rep,Mia Love,305
 Utah,AF13:UN,U.S. House,4,Rep,Mia Love,20
 Utah,AF14,U.S. House,4,Rep,Mia Love,18
@@ -3884,7 +3873,6 @@ Utah,UCLS1,U.S. House,4,Rep,Mia Love,420
 Utah,UCLS2,U.S. House,4,Rep,Mia Love,170
 Utah,UCUL1,U.S. House,4,Rep,Mia Love,0
 Utah,UCUL2,U.S. House,4,Rep,Mia Love,0
-Utah,UTAH UT,U.S. House,4,Rep,Mia Love,23432
 Utah,AF13,U.S. House,4,Dem,Ben McAdams,142
 Utah,AF13:UN,U.S. House,4,Dem,Ben McAdams,6
 Utah,AF14,U.S. House,4,Dem,Ben McAdams,6
@@ -3958,7 +3946,6 @@ Utah,UCLS1,U.S. House,4,Dem,Ben McAdams,104
 Utah,UCLS2,U.S. House,4,Dem,Ben McAdams,41
 Utah,UCUL1,U.S. House,4,Dem,Ben McAdams,0
 Utah,UCUL2,U.S. House,4,Dem,Ben McAdams,0
-Utah,UTAH UT,U.S. House,4,Dem,Ben McAdams,8516
 Utah,AF13,U.S. House,4,write-in,Jonathan Peterson,0
 Utah,AF13:UN,U.S. House,4,write-in,Jonathan Peterson,0
 Utah,AF14,U.S. House,4,write-in,Jonathan Peterson,0
@@ -4032,7 +4019,6 @@ Utah,UCLS1,U.S. House,4,write-in,Jonathan Peterson,0
 Utah,UCLS2,U.S. House,4,write-in,Jonathan Peterson,0
 Utah,UCUL1,U.S. House,4,write-in,Jonathan Peterson,0
 Utah,UCUL2,U.S. House,4,write-in,Jonathan Peterson,0
-Utah,UTAH UT,U.S. House,4,write-in,Jonathan Peterson,14
 Utah,DR01,State Senate,11,Dem,Christian Burridge,375
 Utah,LE18,State Senate,11,Dem,Christian Burridge,168
 Utah,LE18:UN,State Senate,11,Dem,Christian Burridge,0
@@ -4040,7 +4026,6 @@ Utah,LE20,State Senate,11,Dem,Christian Burridge,162
 Utah,LE20:UN,State Senate,11,Dem,Christian Burridge,0
 Utah,LE21,State Senate,11,Dem,Christian Burridge,0
 Utah,LE25,State Senate,11,Dem,Christian Burridge,173
-Utah,UTAH UT,State Senate,11,Dem,Christian Burridge,878
 Utah,DR01,State Senate,11,Rep,Dan McCay,538
 Utah,LE18,State Senate,11,Rep,Dan McCay,458
 Utah,LE18:UN,State Senate,11,Rep,Dan McCay,0
@@ -4048,7 +4033,6 @@ Utah,LE20,State Senate,11,Rep,Dan McCay,395
 Utah,LE20:UN,State Senate,11,Rep,Dan McCay,0
 Utah,LE21,State Senate,11,Rep,Dan McCay,0
 Utah,LE25,State Senate,11,Rep,Dan McCay,415
-Utah,UTAH UT,State Senate,11,Rep,Dan McCay,1806
 Utah,AF01S,State Senate,15,IAP,Tommy Williams,0
 Utah,LI01,State Senate,15,IAP,Tommy Williams,81
 Utah,LI02,State Senate,15,IAP,Tommy Williams,32
@@ -4104,7 +4088,6 @@ Utah,PR31,State Senate,15,IAP,Tommy Williams,43
 Utah,VI01S,State Senate,15,IAP,Tommy Williams,3
 Utah,VI01S2,State Senate,15,IAP,Tommy Williams,0
 Utah,VI02,State Senate,15,IAP,Tommy Williams,61
-Utah,UTAH UT,State Senate,15,IAP,Tommy Williams,2738
 Utah,AF01S,State Senate,15,UUP,Lee Houghton,0
 Utah,LI01,State Senate,15,UUP,Lee Houghton,94
 Utah,LI02,State Senate,15,UUP,Lee Houghton,23
@@ -4160,7 +4143,6 @@ Utah,PR31,State Senate,15,UUP,Lee Houghton,99
 Utah,VI01S,State Senate,15,UUP,Lee Houghton,7
 Utah,VI01S2,State Senate,15,UUP,Lee Houghton,1
 Utah,VI02,State Senate,15,UUP,Lee Houghton,41
-Utah,UTAH UT,State Senate,15,UUP,Lee Houghton,3425
 Utah,AF01S,State Senate,15,Rep,Keith Grover,0
 Utah,LI01,State Senate,15,Rep,Keith Grover,937
 Utah,LI02,State Senate,15,Rep,Keith Grover,392
@@ -4216,7 +4198,6 @@ Utah,PR31,State Senate,15,Rep,Keith Grover,626
 Utah,VI01S,State Senate,15,Rep,Keith Grover,33
 Utah,VI01S2,State Senate,15,Rep,Keith Grover,19
 Utah,VI02,State Senate,15,Rep,Keith Grover,126
-Utah,UTAH UT,State Senate,15,Rep,Keith Grover,20010
 Utah,EM01,State House,2,Dem,Tyler Allred,179
 Utah,EM02,State House,2,Dem,Tyler Allred,223
 Utah,EM03,State House,2,Dem,Tyler Allred,208
@@ -4238,7 +4219,6 @@ Utah,SR08:UN,State House,2,Dem,Tyler Allred,0
 Utah,SR09,State House,2,Dem,Tyler Allred,137
 Utah,SR10,State House,2,Dem,Tyler Allred,194
 Utah,UCCF1,State House,2,Dem,Tyler Allred,0
-Utah,UTAH UT,State House,2,Dem,Tyler Allred,2881
 Utah,EM01,State House,2,Rep,Jefferson Moss,684
 Utah,EM02,State House,2,Rep,Jefferson Moss,802
 Utah,EM03,State House,2,Rep,Jefferson Moss,830
@@ -4260,7 +4240,6 @@ Utah,SR08:UN,State House,2,Rep,Jefferson Moss,0
 Utah,SR09,State House,2,Rep,Jefferson Moss,788
 Utah,SR10,State House,2,Rep,Jefferson Moss,738
 Utah,UCCF1,State House,2,Rep,Jefferson Moss,0
-Utah,UTAH UT,State House,2,Rep,Jefferson Moss,11952
 Utah,LE01,State House,6,Rep,Cory Malloy,629
 Utah,LE01:UN,State House,6,Rep,Cory Malloy,13
 Utah,LE02,State House,6,Rep,Cory Malloy,576
@@ -4294,7 +4273,6 @@ Utah,LE26:UN,State House,6,Rep,Cory Malloy,14
 Utah,SR02,State House,6,Rep,Cory Malloy,613
 Utah,SR02:UN,State House,6,Rep,Cory Malloy,5
 Utah,SR04,State House,6,Rep,Cory Malloy,487
-Utah,UTAH UT,State House,6,Rep,Cory Malloy,12338
 Utah,AF10S,State House,27,IAP,Curt Crosby,1
 Utah,AF10S:UN,State House,27,IAP,Curt Crosby,0
 Utah,AL01,State House,27,IAP,Curt Crosby,6
@@ -4328,7 +4306,6 @@ Utah,HI09,State House,27,IAP,Curt Crosby,21
 Utah,HI09:UN,State House,27,IAP,Curt Crosby,0
 Utah,PG01S,State House,27,IAP,Curt Crosby,8
 Utah,UCPC2,State House,27,IAP,Curt Crosby,0
-Utah,UTAH UT,State House,27,IAP,Curt Crosby,344
 Utah,AF10S,State House,27,Lbt,Joseph Buchman,2
 Utah,AF10S:UN,State House,27,Lbt,Joseph Buchman,0
 Utah,AL01,State House,27,Lbt,Joseph Buchman,25
@@ -4362,7 +4339,6 @@ Utah,HI09,State House,27,Lbt,Joseph Buchman,40
 Utah,HI09:UN,State House,27,Lbt,Joseph Buchman,1
 Utah,PG01S,State House,27,Lbt,Joseph Buchman,0
 Utah,UCPC2,State House,27,Lbt,Joseph Buchman,0
-Utah,UTAH UT,State House,27,Lbt,Joseph Buchman,497
 Utah,AF10S,State House,27,Rep,Brady Brammer,66
 Utah,AF10S:UN,State House,27,Rep,Brady Brammer,2
 Utah,AL01,State House,27,Rep,Brady Brammer,493
@@ -4396,7 +4372,6 @@ Utah,HI09,State House,27,Rep,Brady Brammer,674
 Utah,HI09:UN,State House,27,Rep,Brady Brammer,1
 Utah,PG01S,State House,27,Rep,Brady Brammer,84
 Utah,UCPC2,State House,27,Rep,Brady Brammer,50
-Utah,UTAH UT,State House,27,Rep,Brady Brammer,12050
 Utah,AF10S,State House,27,Dem,Elizabeth Luntz,13
 Utah,AF10S:UN,State House,27,Dem,Elizabeth Luntz,0
 Utah,AL01,State House,27,Dem,Elizabeth Luntz,148
@@ -4430,7 +4405,6 @@ Utah,HI09,State House,27,Dem,Elizabeth Luntz,159
 Utah,HI09:UN,State House,27,Dem,Elizabeth Luntz,0
 Utah,PG01S,State House,27,Dem,Elizabeth Luntz,17
 Utah,UCPC2,State House,27,Dem,Elizabeth Luntz,35
-Utah,UTAH UT,State House,27,Dem,Elizabeth Luntz,3050
 Utah,LI03,State House,48,Rep,Keven Stratton,376
 Utah,LI04,State House,48,Rep,Keven Stratton,628
 Utah,LI06,State House,48,Rep,Keven Stratton,573
@@ -4458,7 +4432,6 @@ Utah,PR40,State House,48,Rep,Keven Stratton,437
 Utah,PR41,State House,48,Rep,Keven Stratton,452
 Utah,PR42,State House,48,Rep,Keven Stratton,533
 Utah,UCPC1,State House,48,Rep,Keven Stratton,86
-Utah,UTAH UT,State House,48,Rep,Keven Stratton,10736
 Utah,LI03,State House,48,IAP,Aaron Heineman,49
 Utah,LI04,State House,48,IAP,Aaron Heineman,78
 Utah,LI06,State House,48,IAP,Aaron Heineman,79
@@ -4486,7 +4459,6 @@ Utah,PR40,State House,48,IAP,Aaron Heineman,68
 Utah,PR41,State House,48,IAP,Aaron Heineman,71
 Utah,PR42,State House,48,IAP,Aaron Heineman,58
 Utah,UCPC1,State House,48,IAP,Aaron Heineman,14
-Utah,UTAH UT,State House,48,IAP,Aaron Heineman,1612
 Utah,AF02,State House,56,Rep,Kay Kristofferson,479
 Utah,AF03,State House,56,Rep,Kay Kristofferson,722
 Utah,AF03:UN,State House,56,Rep,Kay Kristofferson,0
@@ -4524,7 +4496,6 @@ Utah,LE16:UN,State House,56,Rep,Kay Kristofferson,17
 Utah,LE17,State House,56,Rep,Kay Kristofferson,486
 Utah,LE17:UN,State House,56,Rep,Kay Kristofferson,16
 Utah,LE21,State House,56,Rep,Kay Kristofferson,0
-Utah,UTAH UT,State House,56,Rep,Kay Kristofferson,11815
 Utah,AF01,State House,57,UUP,Hillary Stirling,264
 Utah,AF01:UN,State House,57,UUP,Hillary Stirling,20
 Utah,AF10,State House,57,UUP,Hillary Stirling,133
@@ -4546,7 +4517,6 @@ Utah,PG11,State House,57,UUP,Hillary Stirling,221
 Utah,PG12,State House,57,UUP,Hillary Stirling,174
 Utah,PG13,State House,57,UUP,Hillary Stirling,181
 Utah,PG14,State House,57,UUP,Hillary Stirling,124
-Utah,UTAH UT,State House,57,UUP,Hillary Stirling,2898
 Utah,AF01,State House,57,Rep,Jon Hawkins,775
 Utah,AF01:UN,State House,57,Rep,Jon Hawkins,54
 Utah,AF10,State House,57,Rep,Jon Hawkins,626
@@ -4568,7 +4538,6 @@ Utah,PG11,State House,57,Rep,Jon Hawkins,734
 Utah,PG12,State House,57,Rep,Jon Hawkins,441
 Utah,PG13,State House,57,Rep,Jon Hawkins,504
 Utah,PG14,State House,57,Rep,Jon Hawkins,579
-Utah,UTAH UT,State House,57,Rep,Jon Hawkins,9256
 Utah,AF01S,State House,59,UUP,Gregory Hmura,0
 Utah,AF14,State House,59,UUP,Gregory Hmura,3
 Utah,AF14:UN,State House,59,UUP,Gregory Hmura,3
@@ -4596,7 +4565,6 @@ Utah,PG05S:UN,State House,59,UUP,Gregory Hmura,0
 Utah,VI01,State House,59,UUP,Gregory Hmura,176
 Utah,VI01S2,State House,59,UUP,Gregory Hmura,1
 Utah,VI02,State House,59,UUP,Gregory Hmura,81
-Utah,UTAH UT,State House,59,UUP,Gregory Hmura,2026
 Utah,AF01S,State House,59,Rep,Val Peterson,0
 Utah,AF14,State House,59,Rep,Val Peterson,19
 Utah,AF14:UN,State House,59,Rep,Val Peterson,7
@@ -4624,7 +4592,6 @@ Utah,PG05S:UN,State House,59,Rep,Val Peterson,2
 Utah,VI01,State House,59,Rep,Val Peterson,938
 Utah,VI01S2,State House,59,Rep,Val Peterson,19
 Utah,VI02,State House,59,Rep,Val Peterson,147
-Utah,UTAH UT,State House,59,Rep,Val Peterson,9812
 Utah,OR05,State House,60,Dem,Alan Keele,250
 Utah,OR06,State House,60,Dem,Alan Keele,158
 Utah,OR07,State House,60,Dem,Alan Keele,133
@@ -4647,7 +4614,6 @@ Utah,OR45,State House,60,Dem,Alan Keele,114
 Utah,OR46,State House,60,Dem,Alan Keele,112
 Utah,OR49,State House,60,Dem,Alan Keele,105
 Utah,VI01S,State House,60,Dem,Alan Keele,14
-Utah,UTAH UT,State House,60,Dem,Alan Keele,3302
 Utah,OR05,State House,60,Rep,Brad Daw,719
 Utah,OR06,State House,60,Rep,Brad Daw,375
 Utah,OR07,State House,60,Rep,Brad Daw,511
@@ -4670,7 +4636,6 @@ Utah,OR45,State House,60,Rep,Brad Daw,382
 Utah,OR46,State House,60,Rep,Brad Daw,420
 Utah,OR49,State House,60,Rep,Brad Daw,403
 Utah,VI01S,State House,60,Rep,Brad Daw,30
-Utah,UTAH UT,State House,60,Rep,Brad Daw,8445
 Utah,OR11,State House,61,UUP,Eric Chase,79
 Utah,OR12,State House,61,UUP,Eric Chase,76
 Utah,OR13,State House,61,UUP,Eric Chase,93
@@ -4693,7 +4658,6 @@ Utah,PR35,State House,61,UUP,Eric Chase,102
 Utah,UCLV,State House,61,UUP,Eric Chase,0
 Utah,UCUL1,State House,61,UUP,Eric Chase,0
 Utah,VI01UL,State House,61,UUP,Eric Chase,0
-Utah,UTAH UT,State House,61,UUP,Eric Chase,1405
 Utah,OR11,State House,61,Grn,Matt Styles,50
 Utah,OR12,State House,61,Grn,Matt Styles,39
 Utah,OR13,State House,61,Grn,Matt Styles,78
@@ -4716,7 +4680,6 @@ Utah,PR35,State House,61,Grn,Matt Styles,82
 Utah,UCLV,State House,61,Grn,Matt Styles,0
 Utah,UCUL1,State House,61,Grn,Matt Styles,0
 Utah,VI01UL,State House,61,Grn,Matt Styles,0
-Utah,UTAH UT,State House,61,Grn,Matt Styles,859
 Utah,OR11,State House,61,Rep,Marsha Judkins,580
 Utah,OR12,State House,61,Rep,Marsha Judkins,205
 Utah,OR13,State House,61,Rep,Marsha Judkins,339
@@ -4739,7 +4702,6 @@ Utah,PR35,State House,61,Rep,Marsha Judkins,470
 Utah,UCLV,State House,61,Rep,Marsha Judkins,0
 Utah,UCUL1,State House,61,Rep,Marsha Judkins,0
 Utah,VI01UL,State House,61,Rep,Marsha Judkins,0
-Utah,UTAH UT,State House,61,Rep,Marsha Judkins,7407
 Utah,PR07,State House,63,Rep,Adam Robertson,407
 Utah,PR08,State House,63,Rep,Adam Robertson,152
 Utah,PR09,State House,63,Rep,Adam Robertson,456
@@ -4750,7 +4712,6 @@ Utah,PR33,State House,63,Rep,Adam Robertson,293
 Utah,PR34,State House,63,Rep,Adam Robertson,222
 Utah,PR36,State House,63,Rep,Adam Robertson,742
 Utah,PR38,State House,63,Rep,Adam Robertson,308
-Utah,UTAH UT,State House,63,Rep,Adam Robertson,3840
 Utah,PR01,State House,64,Dem,Daniel Friend,165
 Utah,PR01:UN,State House,64,Dem,Daniel Friend,0
 Utah,PR02,State House,64,Dem,Daniel Friend,138
@@ -4772,7 +4733,6 @@ Utah,SP11,State House,64,Dem,Daniel Friend,160
 Utah,SP12,State House,64,Dem,Daniel Friend,149
 Utah,SP16,State House,64,Dem,Daniel Friend,161
 Utah,SP17,State House,64,Dem,Daniel Friend,60
-Utah,UTAH UT,State House,64,Dem,Daniel Friend,2662
 Utah,PR01,State House,64,UUP,Hal Miller,61
 Utah,PR01:UN,State House,64,UUP,Hal Miller,0
 Utah,PR02,State House,64,UUP,Hal Miller,96
@@ -4794,7 +4754,6 @@ Utah,SP11,State House,64,UUP,Hal Miller,46
 Utah,SP12,State House,64,UUP,Hal Miller,92
 Utah,SP16,State House,64,UUP,Hal Miller,59
 Utah,SP17,State House,64,UUP,Hal Miller,20
-Utah,UTAH UT,State House,64,UUP,Hal Miller,1219
 Utah,PR01,State House,64,Rep,Norm Thurston,224
 Utah,PR01:UN,State House,64,Rep,Norm Thurston,0
 Utah,PR02,State House,64,Rep,Norm Thurston,237
@@ -4816,7 +4775,6 @@ Utah,SP11,State House,64,Rep,Norm Thurston,442
 Utah,SP12,State House,64,Rep,Norm Thurston,381
 Utah,SP16,State House,64,Rep,Norm Thurston,346
 Utah,SP17,State House,64,Rep,Norm Thurston,108
-Utah,UTAH UT,State House,64,Rep,Norm Thurston,4849
 Utah,MA01,State House,65,Dem,Sue Womack,177
 Utah,MA02,State House,65,Dem,Sue Womack,166
 Utah,MA02:UN,State House,65,Dem,Sue Womack,0
@@ -4849,7 +4807,6 @@ Utah,SP15,State House,65,Dem,Sue Womack,139
 Utah,SP18,State House,65,Dem,Sue Womack,86
 Utah,UCBE2,State House,65,Dem,Sue Womack,10
 Utah,UCCB1,State House,65,Dem,Sue Womack,23
-Utah,UTAH UT,State House,65,Dem,Sue Womack,3289
 Utah,MA01,State House,65,Rep,Francis Gibson,653
 Utah,MA02,State House,65,Rep,Francis Gibson,780
 Utah,MA02:UN,State House,65,Rep,Francis Gibson,0
@@ -4882,7 +4839,6 @@ Utah,SP15,State House,65,Rep,Francis Gibson,273
 Utah,SP18,State House,65,Rep,Francis Gibson,264
 Utah,UCBE2,State House,65,Rep,Francis Gibson,26
 Utah,UCCB1,State House,65,Rep,Francis Gibson,97
-Utah,UTAH UT,State House,65,Rep,Francis Gibson,10650
 Utah,ER01S,State House,66,Rep,Mike McKell,5
 Utah,SA02,State House,66,Rep,Mike McKell,1157
 Utah,SA02:UN,State House,66,Rep,Mike McKell,79
@@ -4910,7 +4866,6 @@ Utah,SF15,State House,66,Rep,Mike McKell,726
 Utah,SF16,State House,66,Rep,Mike McKell,750
 Utah,UCLS1,State House,66,Rep,Mike McKell,451
 Utah,WH01,State House,66,Rep,Mike McKell,536
-Utah,UTAH UT,State House,66,Rep,Mike McKell,10593
 Utah,ER01S,State House,66,Dem,Paul Dayton,0
 Utah,SA02,State House,66,Dem,Paul Dayton,150
 Utah,SA02:UN,State House,66,Dem,Paul Dayton,8
@@ -4938,7 +4893,6 @@ Utah,SF15,State House,66,Dem,Paul Dayton,140
 Utah,SF16,State House,66,Dem,Paul Dayton,179
 Utah,UCLS1,State House,66,Dem,Paul Dayton,69
 Utah,WH01,State House,66,Dem,Paul Dayton,89
-Utah,UTAH UT,State House,66,Dem,Paul Dayton,2109
 Utah,CF01,State House,67,Rep,Mark Roberts,130
 Utah,EM09,State House,67,Rep,Mark Roberts,105
 Utah,ER01,State House,67,Rep,Mark Roberts,865
@@ -4976,19 +4930,13 @@ Utah,UCFF,State House,67,Rep,Mark Roberts,5
 Utah,UCLS2,State House,67,Rep,Mark Roberts,195
 Utah,UCSL,State House,67,Rep,Mark Roberts,200
 Utah,UCUL2,State House,67,Rep,Mark Roberts,0
-Utah,UTAH UT,State House,67,Rep,Mark Roberts,11217
 Utah,GO02,State House,68,Lbt,Denyse Cox,19
 Utah,UCEL2,State House,68,Lbt,Denyse Cox,0
-Utah,UTAH UT,State House,68,Lbt,Denyse Cox,19
 Utah,GO02,State House,68,Dem,Merle Wall,20
 Utah,UCEL2,State House,68,Dem,Merle Wall,2
-Utah,UTAH UT,State House,68,Dem,Merle Wall,22
 Utah,GO02,State House,68,IAP,Warren Rogers,5
 Utah,UCEL2,State House,68,IAP,Warren Rogers,3
-Utah,UTAH UT,State House,68,IAP,Warren Rogers,8
 Utah,GO02,State House,68,Con,Kirk Pearson,11
 Utah,UCEL2,State House,68,Con,Kirk Pearson,5
-Utah,UTAH UT,State House,68,Con,Kirk Pearson,16
 Utah,GO02,State House,68,Rep,Merrill Nelson,85
 Utah,UCEL2,State House,68,Rep,Merrill Nelson,46
-Utah,UTAH UT,State House,68,Rep,Merrill Nelson,131

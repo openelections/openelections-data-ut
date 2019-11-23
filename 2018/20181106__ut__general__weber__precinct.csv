@@ -157,7 +157,6 @@ Weber,WHV008,U.S. Senate,,Dem,Jenny Wilson,46
 Weber,WNO001,U.S. Senate,,Dem,Jenny Wilson,8
 Weber,WNO002,U.S. Senate,,Dem,Jenny Wilson,*
 Weber,WNO003,U.S. Senate,,Dem,Jenny Wilson,17
-Weber,WEBER UT,U.S. Senate,,Dem,Jenny Wilson,24513
 Weber,CYN001,U.S. Senate,,Rep,Mitt Romney,37
 Weber,FRW001,U.S. Senate,,Rep,Mitt Romney,476
 Weber,FRW002,U.S. Senate,,Rep,Mitt Romney,304
@@ -316,7 +315,6 @@ Weber,WHV008,U.S. Senate,,Rep,Mitt Romney,90
 Weber,WNO001,U.S. Senate,,Rep,Mitt Romney,*
 Weber,WNO002,U.S. Senate,,Rep,Mitt Romney,*
 Weber,WNO003,U.S. Senate,,Rep,Mitt Romney,24
-Weber,WEBER UT,U.S. Senate,,Rep,Mitt Romney,49458
 Weber,CYN001,U.S. Senate,,Con ,Tim Aalders,3
 Weber,FRW001,U.S. Senate,,Con ,Tim Aalders,18
 Weber,FRW002,U.S. Senate,,Con ,Tim Aalders,24
@@ -475,7 +473,6 @@ Weber,WHV008,U.S. Senate,,Con ,Tim Aalders,10
 Weber,WNO001,U.S. Senate,,Con ,Tim Aalders,*
 Weber,WNO002,U.S. Senate,,Con ,Tim Aalders,*
 Weber,WNO003,U.S. Senate,,Con ,Tim Aalders,0
-Weber,WEBER UT,U.S. Senate,,Con ,Tim Aalders,2443
 Weber,CYN001,U.S. Senate,,Lbt,Craig Bowden,6
 Weber,FRW001,U.S. Senate,,Lbt,Craig Bowden,11
 Weber,FRW002,U.S. Senate,,Lbt,Craig Bowden,12
@@ -634,7 +631,6 @@ Weber,WHV008,U.S. Senate,,Lbt,Craig Bowden,9
 Weber,WNO001,U.S. Senate,,Lbt,Craig Bowden,*
 Weber,WNO002,U.S. Senate,,Lbt,Craig Bowden,*
 Weber,WNO003,U.S. Senate,,Lbt,Craig Bowden,0
-Weber,WEBER UT,U.S. Senate,,Lbt,Craig Bowden,2691
 Weber,CYN001,U.S. Senate,,IAP,Reed McCandless,2
 Weber,FRW001,U.S. Senate,,IAP,Reed McCandless,3
 Weber,FRW002,U.S. Senate,,IAP,Reed McCandless,5
@@ -793,7 +789,6 @@ Weber,WHV008,U.S. Senate,,IAP,Reed McCandless,6
 Weber,WNO001,U.S. Senate,,IAP,Reed McCandless,*
 Weber,WNO002,U.S. Senate,,IAP,Reed McCandless,*
 Weber,WNO003,U.S. Senate,,IAP,Reed McCandless,0
-Weber,WEBER UT,U.S. Senate,,IAP,Reed McCandless,1080
 Weber,CYN001,U.S. Senate,,,write-in,0
 Weber,FRW001,U.S. Senate,,,write-in,1
 Weber,FRW002,U.S. Senate,,,write-in,1
@@ -952,7 +947,6 @@ Weber,WHV008,U.S. Senate,,,write-in,1
 Weber,WNO001,U.S. Senate,,,write-in,*
 Weber,WNO002,U.S. Senate,,,write-in,*
 Weber,WNO003,U.S. Senate,,,write-in,0
-Weber,WEBER UT,U.S. Senate,,,write-in,284
 Weber,CYN001,U.S. House,1,Rep,Rob Bishop,37
 Weber,FRW001,U.S. House,1,Rep,Rob Bishop,453
 Weber,FRW002,U.S. House,1,Rep,Rob Bishop,309
@@ -1111,7 +1105,6 @@ Weber,WHV008,U.S. House,1,Rep,Rob Bishop,93
 Weber,WNO001,U.S. House,1,Rep,Rob Bishop,*
 Weber,WNO002,U.S. House,1,Rep,Rob Bishop,*
 Weber,WNO003,U.S. House,1,Rep,Rob Bishop,21
-Weber,WEBER UT,U.S. House,1,Rep,Rob Bishop,44864
 Weber,CYN001,U.S. House,1,Dem,Lee Castillo,41
 Weber,FRW001,U.S. House,1,Dem,Lee Castillo,81
 Weber,FRW002,U.S. House,1,Dem,Lee Castillo,110
@@ -1270,7 +1263,6 @@ Weber,WHV008,U.S. House,1,Dem,Lee Castillo,48
 Weber,WNO001,U.S. House,1,Dem,Lee Castillo,*
 Weber,WNO002,U.S. House,1,Dem,Lee Castillo,*
 Weber,WNO003,U.S. House,1,Dem,Lee Castillo,17
-Weber,WEBER UT,U.S. House,1,Dem,Lee Castillo,23592
 Weber,CYN001,U.S. House,1,UUP,Eric Eliason,20
 Weber,FRW001,U.S. House,1,UUP,Eric Eliason,44
 Weber,FRW002,U.S. House,1,UUP,Eric Eliason,44
@@ -1429,7 +1421,6 @@ Weber,WHV008,U.S. House,1,UUP,Eric Eliason,13
 Weber,WNO001,U.S. House,1,UUP,Eric Eliason,*
 Weber,WNO002,U.S. House,1,UUP,Eric Eliason,*
 Weber,WNO003,U.S. House,1,UUP,Eric Eliason,3
-Weber,WEBER UT,U.S. House,1,UUP,Eric Eliason,9719
 Weber,CYN001,U.S. House,1,Grn,Adam Davis,3
 Weber,FRW001,U.S. House,1,Grn,Adam Davis,6
 Weber,FRW002,U.S. House,1,Grn,Adam Davis,13
@@ -1588,7 +1579,6 @@ Weber,WHV008,U.S. House,1,Grn,Adam Davis,7
 Weber,WNO001,U.S. House,1,Grn,Adam Davis,*
 Weber,WNO002,U.S. House,1,Grn,Adam Davis,*
 Weber,WNO003,U.S. House,1,Grn,Adam Davis,0
-Weber,WEBER UT,U.S. House,1,Grn,Adam Davis,1716
 Weber,OGD021,State Senate,18,Rep,Ann Millner,209
 Weber,OGD026,State Senate,18,Rep,Ann Millner,133
 Weber,OGD027,State Senate,18,Rep,Ann Millner,145
@@ -1637,7 +1627,6 @@ Weber,WAT006,State Senate,18,Rep,Ann Millner,437
 Weber,WCS001,State Senate,18,Rep,Ann Millner,1
 Weber,WCU001,State Senate,18,Rep,Ann Millner,406
 Weber,WCU002,State Senate,18,Rep,Ann Millner,534
-Weber,WEBER UT,State Senate,18,Rep,Ann Millner,13627
 Weber,OGD021,State Senate,18,Dem,Jason Yu,173
 Weber,OGD026,State Senate,18,Dem,Jason Yu,209
 Weber,OGD027,State Senate,18,Dem,Jason Yu,190
@@ -1686,7 +1675,6 @@ Weber,WAT006,State Senate,18,Dem,Jason Yu,195
 Weber,WCS001,State Senate,18,Dem,Jason Yu,0
 Weber,WCU001,State Senate,18,Dem,Jason Yu,188
 Weber,WCU002,State Senate,18,Dem,Jason Yu,141
-Weber,WEBER UT,State Senate,18,Dem,Jason Yu,8053
 Weber,OGD021,State Senate,18,Lbt,Kevin Bryan,48
 Weber,OGD026,State Senate,18,Lbt,Kevin Bryan,30
 Weber,OGD027,State Senate,18,Lbt,Kevin Bryan,32
@@ -1735,7 +1723,6 @@ Weber,WAT006,State Senate,18,Lbt,Kevin Bryan,31
 Weber,WCS001,State Senate,18,Lbt,Kevin Bryan,0
 Weber,WCU001,State Senate,18,Lbt,Kevin Bryan,28
 Weber,WCU002,State Senate,18,Lbt,Kevin Bryan,25
-Weber,WEBER UT,State Senate,18,Lbt,Kevin Bryan,1566
 Weber,CYN001,State House,8,Rep,Steve Waldrip,36
 Weber,FRW001,State House,29,Rep,Lee Perry,484
 Weber,FRW002,State House,29,Rep,Lee Perry,319
@@ -1894,13 +1881,6 @@ Weber,WHV008,State House,9,Rep,Calvin Musselman,89
 Weber,WNO001,State House,8,Rep,Steve Waldrip,*
 Weber,WNO002,State House,7,Rep,Kyle Andersen,*
 Weber,WNO003,State House,7,Rep,Kyle Andersen,24
-Weber,WEBER UT,State House NOG,7,Rep,Kyle Andersen,9301
-Weber,WEBER UT,State House HSV,8,Rep,Steve Waldrip,6795
-Weber,WEBER UT,State House WHV,9,Rep,Calvin Musselman,5130
-Weber,WEBER UT,State House WAT,11,Rep,Kelly Miles,5639
-Weber,WEBER UT,State House HPR,12,Rep,Mike Schultz,7978
-Weber,WEBER UT,State House PLV,29,Rep,Lee Perry,7303
-Weber,WEBER UT,State House SOG,10,Rep,Lorraine Brown,4719
 Weber,CYN001,State House,8,Dem,Deana Froerer,67
 Weber,FRW001,State House,29,Dem,Kerry Wayne,91
 Weber,FRW002,State House,29,Dem,Kerry Wayne,152
@@ -2059,13 +2039,6 @@ Weber,WHV008,State House,9,Dem,Kerry Wayne,69
 Weber,WNO001,State House,8,Dem,Deana Froerer,*
 Weber,WNO002,State House,7,Dem,David Owen,*
 Weber,WNO003,State House,7,Dem,Deana Froerer,17
-Weber,WEBER UT,State House,7,Dem,David Owen,4793
-Weber,WEBER UT,State House,8,Dem,Deana Froerer,6581
-Weber,WEBER UT,State House,9,Dem,Kathie Darby,4555
-Weber,WEBER UT,State House,11,Dem,Jason Allen,4570
-Weber,WEBER UT,State House,12,Dem,Rick Jones,3503
-Weber,WEBER UT,State House,29,Dem,Kerry Wayne,2161
-Weber,WEBER UT,State House,10,Dem,Lawanna Shurtliff ,5516
 Weber,OGD029,State House,10,write-in,Terry Schow,3
 Weber,OGD030,State House,10,write-in,Terry Schow,9
 Weber,OGD031,State House,10,write-in,Terry Schow,4
@@ -2089,7 +2062,6 @@ Weber,SOG005,State House,10,write-in,Terry Schow,27
 Weber,SOG006,State House,10,write-in,Terry Schow,7
 Weber,SOG009,State House,10,write-in,Terry Schow,10
 Weber,WCU001,State House,10,write-in,Terry Schow,23
-Weber,WEBER UT,State House SOG,10,write-in,Terry Schow,325
 Weber,OGD029,State House,10,,other write-in,0
 Weber,OGD030,State House,10,,other write-in,6
 Weber,OGD031,State House,10,,other write-in,2
@@ -2113,4 +2085,3 @@ Weber,SOG005,State House,10,,other write-in,3
 Weber,SOG006,State House,10,,other write-in,0
 Weber,SOG009,State House,10,,other write-in,0
 Weber,WCU001,State House,10,,other write-in,1
-Weber,WEBER UT,State House SOG,10,,other write-in,27
