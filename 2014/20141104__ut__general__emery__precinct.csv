@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,candidate,party,election_day,absentee,mail,provisional,votes
+﻿county,precinct,office,district,candidate,party,election_day,early_voting,absentee,provisional,votes
 Emery,1,Registered Voters ,,Registered Voters ,,0,0,0,0,243
 Emery,1,STRAIGHT PARTY ,,LIBERTARIAN ,LIB ,0,0,0,0,0
 Emery,1,STRAIGHT PARTY ,,INDEPENDENT AMERICAN ,IAP ,0,0,0,0,0
