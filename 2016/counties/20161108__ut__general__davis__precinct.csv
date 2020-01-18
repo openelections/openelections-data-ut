@@ -1034,7 +1034,7 @@ Davis,Fruit Heights 4,President,,Constitution,Darrell Castle,3
 Davis,Fruit Heights 4,President,,Democratic,Hillary Clinton,91
 Davis,Hill AFB 1,President,,Libertarian,Gary Johnson,0
 Davis,Hill AFB 1,President,,Independent,Giordani,0
-Davis,Hill AFB 1,President,,Republican,Donald Trump,27
+Davis,Hill AFB 1,President,,Republican,Donald Trump,29
 Davis,Hill AFB 1,President,,Constitution,Darrell Castle,0
 Davis,Hill AFB 1,President,,Democratic,Hillary Clinton,7
 Davis,Hill AFB 2,President,,Libertarian,Gary Johnson,2
@@ -1643,14 +1643,14 @@ Davis,Bountiful 6,President,,,Stephen Park,0
 Davis,Bountiful 6,President,,,Mike Smith,0
 Davis,Bountiful 6,President,,,Laurence Kotlikoff,0
 Davis,Bountiful 6,President,,,Hoefling,1
-Davis,Bountiful 7,President,,Workers World,Monica Moorehead,166
-Davis,Bountiful 7,President,,Independent,Evan McMullin,0
+Davis,Bountiful 7,President,,Workers World,Monica Moorehead,1
+Davis,Bountiful 7,President,,Independent,Evan McMullin,166
 Davis,Bountiful 7,President,,,Stephen Park,0
 Davis,Bountiful 7,President,,,Mike Smith,0
 Davis,Bountiful 7,President,,,Laurence Kotlikoff,0
-Davis,Bountiful 7,President,,,Hoefling,282
+Davis,Bountiful 7,President,,,Hoefling,0
 Davis,Bountiful 8,President,,Workers World,Monica Moorehead,0
-Davis,Bountiful 8,President,,Independent,Evan McMullin,0
+Davis,Bountiful 8,President,,Independent,Evan McMullin,282
 Davis,Bountiful 8,President,,,Stephen Park,0
 Davis,Bountiful 8,President,,,Mike Smith,0
 Davis,Bountiful 8,President,,,Laurence Kotlikoff,0
@@ -2046,8 +2046,8 @@ Davis,Farmington 4,President,,,Mike Smith,0
 Davis,Farmington 4,President,,,Laurence Kotlikoff,0
 Davis,Farmington 4,President,,,Hoefling,0
 Davis,Farmington 5,President,,Workers World,Monica Moorehead,0
-Davis,Farmington 5,President,,Independent,Evan McMullin,0
-Davis,Farmington 5,President,,,Stephen Park,241
+Davis,Farmington 5,President,,Independent,Evan McMullin,241
+Davis,Farmington 5,President,,,Stephen Park,0
 Davis,Farmington 5,President,,,Mike Smith,0
 Davis,Farmington 5,President,,,Laurence Kotlikoff,0
 Davis,Farmington 5,President,,,Hoefling,0
@@ -6996,7 +6996,7 @@ Davis,Farmington 10,Governor,,Libertarian,Brian Kamerath,26
 Davis,Farmington 11,Governor,,Republican,Herbert,793
 Davis,Farmington 11,Governor,,Independent,Dell Schanze,12
 Davis,Farmington 11,Governor,,Libertarian,Brian Kamerath,37
-Davis,Farmington 12,Governor,,Republican,Herbert,168
+Davis,Farmington 12,Governor,,Republican,Herbert,468
 Davis,Farmington 12,Governor,,Independent,Dell Schanze,9
 Davis,Farmington 12,Governor,,Libertarian,Brian Kamerath,15
 Davis,Farmington 13,Governor,,Republican,Herbert,509
@@ -7963,607 +7963,607 @@ Davis,Woods Cross 6,Governor,,Democratic,Mike Weinholtz,266
 Davis,Woods Cross 6,Governor,,,L.S. Brown,0
 Davis,Woods Cross 6,Governor,,,Write-In,4
 Davis,Bountiful 1,Attorney General,,Independent American,Michael Isbell,24
-Davis,Bountiful 1,Attorney General,,Democratic,Harper,156
+Davis,Bountiful 1,Attorney General,,Democratic,Jon Harper,156
 Davis,Bountiful 1,Attorney General,,Republican,Sean Reyes,486
 Davis,Bountiful 2,Attorney General,,Independent American,Michael Isbell,17
-Davis,Bountiful 2,Attorney General,,Democratic,Harper,173
+Davis,Bountiful 2,Attorney General,,Democratic,Jon Harper,173
 Davis,Bountiful 2,Attorney General,,Republican,Sean Reyes,435
 Davis,Bountiful 3,Attorney General,,Independent American,Michael Isbell,16
-Davis,Bountiful 3,Attorney General,,Democratic,Harper,187
+Davis,Bountiful 3,Attorney General,,Democratic,Jon Harper,187
 Davis,Bountiful 3,Attorney General,,Republican,Sean Reyes,614
 Davis,Bountiful 4,Attorney General,,Independent American,Michael Isbell,20
-Davis,Bountiful 4,Attorney General,,Democratic,Harper,149
+Davis,Bountiful 4,Attorney General,,Democratic,Jon Harper,149
 Davis,Bountiful 4,Attorney General,,Republican,Sean Reyes,505
 Davis,Bountiful 5,Attorney General,,Independent American,Michael Isbell,31
-Davis,Bountiful 5,Attorney General,,Democratic,Harper,174
-Davis,Bountiful 5,Attorney General,,Republican,Sean Reyes,582
+Davis,Bountiful 5,Attorney General,,Democratic,Jon Harper,174
+Davis,Bountiful 5,Attorney General,,Republican,Sean Reyes,682
 Davis,Bountiful 6,Attorney General,,Independent American,Michael Isbell,31
-Davis,Bountiful 6,Attorney General,,Democratic,Harper,187
+Davis,Bountiful 6,Attorney General,,Democratic,Jon Harper,187
 Davis,Bountiful 6,Attorney General,,Republican,Sean Reyes,486
 Davis,Bountiful 7,Attorney General,,Independent American,Michael Isbell,22
-Davis,Bountiful 7,Attorney General,,Democratic,Harper,151
+Davis,Bountiful 7,Attorney General,,Democratic,Jon Harper,151
 Davis,Bountiful 7,Attorney General,,Republican,Sean Reyes,348
 Davis,Bountiful 8,Attorney General,,Independent American,Michael Isbell,22
-Davis,Bountiful 8,Attorney General,,Democratic,Harper,193
+Davis,Bountiful 8,Attorney General,,Democratic,Jon Harper,193
 Davis,Bountiful 8,Attorney General,,Republican,Sean Reyes,567
 Davis,Bountiful 9,Attorney General,,Independent American,Michael Isbell,14
-Davis,Bountiful 9,Attorney General,,Democratic,Harper,134
+Davis,Bountiful 9,Attorney General,,Democratic,Jon Harper,134
 Davis,Bountiful 9,Attorney General,,Republican,Sean Reyes,607
 Davis,Bountiful 10,Attorney General,,Independent American,Michael Isbell,25
-Davis,Bountiful 10,Attorney General,,Democratic,Harper,110
+Davis,Bountiful 10,Attorney General,,Democratic,Jon Harper,110
 Davis,Bountiful 10,Attorney General,,Republican,Sean Reyes,578
 Davis,Bountiful 11,Attorney General,,Independent American,Michael Isbell,13
-Davis,Bountiful 11,Attorney General,,Democratic,Harper,124
+Davis,Bountiful 11,Attorney General,,Democratic,Jon Harper,124
 Davis,Bountiful 11,Attorney General,,Republican,Sean Reyes,580
 Davis,Bountiful 12,Attorney General,,Independent American,Michael Isbell,19
-Davis,Bountiful 12,Attorney General,,Democratic,Harper,141
+Davis,Bountiful 12,Attorney General,,Democratic,Jon Harper,141
 Davis,Bountiful 12,Attorney General,,Republican,Sean Reyes,614
 Davis,Bountiful 13,Attorney General,,Independent American,Michael Isbell,11
-Davis,Bountiful 13,Attorney General,,Democratic,Harper,132
+Davis,Bountiful 13,Attorney General,,Democratic,Jon Harper,132
 Davis,Bountiful 13,Attorney General,,Republican,Sean Reyes,384
 Davis,Bountiful 14,Attorney General,,Independent American,Michael Isbell,17
-Davis,Bountiful 14,Attorney General,,Democratic,Harper,100
+Davis,Bountiful 14,Attorney General,,Democratic,Jon Harper,100
 Davis,Bountiful 14,Attorney General,,Republican,Sean Reyes,310
 Davis,Bountiful 15,Attorney General,,Independent American,Michael Isbell,17
-Davis,Bountiful 15,Attorney General,,Democratic,Harper,107
+Davis,Bountiful 15,Attorney General,,Democratic,Jon Harper,107
 Davis,Bountiful 15,Attorney General,,Republican,Sean Reyes,307
 Davis,Bountiful 16,Attorney General,,Independent American,Michael Isbell,14
-Davis,Bountiful 16,Attorney General,,Democratic,Harper,147
+Davis,Bountiful 16,Attorney General,,Democratic,Jon Harper,147
 Davis,Bountiful 16,Attorney General,,Republican,Sean Reyes,533
 Davis,Bountiful 17,Attorney General,,Independent American,Michael Isbell,12
-Davis,Bountiful 17,Attorney General,,Democratic,Harper,131
-Davis,Bountiful 17,Attorney General,,Republican,Sean Reyes,535
+Davis,Bountiful 17,Attorney General,,Democratic,Jon Harper,131
+Davis,Bountiful 17,Attorney General,,Republican,Sean Reyes,553
 Davis,Bountiful 18,Attorney General,,Independent American,Michael Isbell,17
-Davis,Bountiful 18,Attorney General,,Democratic,Harper,159
+Davis,Bountiful 18,Attorney General,,Democratic,Jon Harper,159
 Davis,Bountiful 18,Attorney General,,Republican,Sean Reyes,525
 Davis,Bountiful 19,Attorney General,,Independent American,Michael Isbell,9
-Davis,Bountiful 19,Attorney General,,Democratic,Harper,165
+Davis,Bountiful 19,Attorney General,,Democratic,Jon Harper,165
 Davis,Bountiful 19,Attorney General,,Republican,Sean Reyes,566
 Davis,Bountiful 20,Attorney General,,Independent American,Michael Isbell,9
-Davis,Bountiful 20,Attorney General,,Democratic,Harper,115
+Davis,Bountiful 20,Attorney General,,Democratic,Jon Harper,115
 Davis,Bountiful 20,Attorney General,,Republican,Sean Reyes,451
 Davis,Bountiful 21,Attorney General,,Independent American,Michael Isbell,17
-Davis,Bountiful 21,Attorney General,,Democratic,Harper,178
+Davis,Bountiful 21,Attorney General,,Democratic,Jon Harper,178
 Davis,Bountiful 21,Attorney General,,Republican,Sean Reyes,492
 Davis,Bountiful 22,Attorney General,,Independent American,Michael Isbell,16
-Davis,Bountiful 22,Attorney General,,Democratic,Harper,163
+Davis,Bountiful 22,Attorney General,,Democratic,Jon Harper,163
 Davis,Bountiful 22,Attorney General,,Republican,Sean Reyes,502
 Davis,Bountiful 23,Attorney General,,Independent American,Michael Isbell,27
-Davis,Bountiful 23,Attorney General,,Democratic,Harper,183
+Davis,Bountiful 23,Attorney General,,Democratic,Jon Harper,183
 Davis,Bountiful 23,Attorney General,,Republican,Sean Reyes,592
 Davis,Bountiful 24,Attorney General,,Independent American,Michael Isbell,10
-Davis,Bountiful 24,Attorney General,,Democratic,Harper,55
+Davis,Bountiful 24,Attorney General,,Democratic,Jon Harper,55
 Davis,Bountiful 24,Attorney General,,Republican,Sean Reyes,164
 Davis,Bountiful 25,Attorney General,,Independent American,Michael Isbell,31
-Davis,Bountiful 25,Attorney General,,Democratic,Harper,181
+Davis,Bountiful 25,Attorney General,,Democratic,Jon Harper,181
 Davis,Bountiful 25,Attorney General,,Republican,Sean Reyes,581
 Davis,Bountiful 26,Attorney General,,Independent American,Michael Isbell,17
-Davis,Bountiful 26,Attorney General,,Democratic,Harper,155
+Davis,Bountiful 26,Attorney General,,Democratic,Jon Harper,155
 Davis,Bountiful 26,Attorney General,,Republican,Sean Reyes,487
 Davis,Bountiful 27,Attorney General,,Independent American,Michael Isbell,13
-Davis,Bountiful 27,Attorney General,,Democratic,Harper,108
+Davis,Bountiful 27,Attorney General,,Democratic,Jon Harper,108
 Davis,Bountiful 27,Attorney General,,Republican,Sean Reyes,359
 Davis,Bountiful 28,Attorney General,,Independent American,Michael Isbell,23
-Davis,Bountiful 28,Attorney General,,Democratic,Harper,151
+Davis,Bountiful 28,Attorney General,,Democratic,Jon Harper,151
 Davis,Bountiful 28,Attorney General,,Republican,Sean Reyes,479
 Davis,Bountiful 29,Attorney General,,Independent American,Michael Isbell,11
-Davis,Bountiful 29,Attorney General,,Democratic,Harper,133
+Davis,Bountiful 29,Attorney General,,Democratic,Jon Harper,133
 Davis,Bountiful 29,Attorney General,,Republican,Sean Reyes,417
 Davis,Bountiful 30,Attorney General,,Independent American,Michael Isbell,14
-Davis,Bountiful 30,Attorney General,,Democratic,Harper,184
+Davis,Bountiful 30,Attorney General,,Democratic,Jon Harper,184
 Davis,Bountiful 30,Attorney General,,Republican,Sean Reyes,784
 Davis,Bountiful 31,Attorney General,,Independent American,Michael Isbell,9
-Davis,Bountiful 31,Attorney General,,Democratic,Harper,106
+Davis,Bountiful 31,Attorney General,,Democratic,Jon Harper,106
 Davis,Bountiful 31,Attorney General,,Republican,Sean Reyes,347
 Davis,Centerville 1,Attorney General,,Independent American,Michael Isbell,18
-Davis,Centerville 1,Attorney General,,Democratic,Harper,148
+Davis,Centerville 1,Attorney General,,Democratic,Jon Harper,147
 Davis,Centerville 1,Attorney General,,Republican,Sean Reyes,549
 Davis,Centerville 2,Attorney General,,Independent American,Michael Isbell,7
-Davis,Centerville 2,Attorney General,,Democratic,Harper,116
+Davis,Centerville 2,Attorney General,,Democratic,Jon Harper,116
 Davis,Centerville 2,Attorney General,,Republican,Sean Reyes,587
 Davis,Centerville 3,Attorney General,,Independent American,Michael Isbell,23
-Davis,Centerville 3,Attorney General,,Democratic,Harper,175
+Davis,Centerville 3,Attorney General,,Democratic,Jon Harper,175
 Davis,Centerville 3,Attorney General,,Republican,Sean Reyes,723
 Davis,Centerville 4,Attorney General,,Independent American,Michael Isbell,22
-Davis,Centerville 4,Attorney General,,Democratic,Harper,163
+Davis,Centerville 4,Attorney General,,Democratic,Jon Harper,163
 Davis,Centerville 4,Attorney General,,Republican,Sean Reyes,658
 Davis,Centerville 5,Attorney General,,Independent American,Michael Isbell,16
-Davis,Centerville 5,Attorney General,,Democratic,Harper,135
+Davis,Centerville 5,Attorney General,,Democratic,Jon Harper,135
 Davis,Centerville 5,Attorney General,,Republican,Sean Reyes,615
 Davis,Centerville 6,Attorney General,,Independent American,Michael Isbell,24
-Davis,Centerville 6,Attorney General,,Democratic,Harper,211
+Davis,Centerville 6,Attorney General,,Democratic,Jon Harper,211
 Davis,Centerville 6,Attorney General,,Republican,Sean Reyes,659
 Davis,Centerville 7,Attorney General,,Independent American,Michael Isbell,21
-Davis,Centerville 7,Attorney General,,Democratic,Harper,95
+Davis,Centerville 7,Attorney General,,Democratic,Jon Harper,95
 Davis,Centerville 7,Attorney General,,Republican,Sean Reyes,584
 Davis,Centerville 8,Attorney General,,Independent American,Michael Isbell,11
-Davis,Centerville 8,Attorney General,,Democratic,Harper,82
+Davis,Centerville 8,Attorney General,,Democratic,Jon Harper,82
 Davis,Centerville 8,Attorney General,,Republican,Sean Reyes,479
 Davis,Centerville 9,Attorney General,,Independent American,Michael Isbell,18
-Davis,Centerville 9,Attorney General,,Democratic,Harper,110
+Davis,Centerville 9,Attorney General,,Democratic,Jon Harper,110
 Davis,Centerville 9,Attorney General,,Republican,Sean Reyes,512
 Davis,Centerville 10,Attorney General,,Independent American,Michael Isbell,11
-Davis,Centerville 10,Attorney General,,Democratic,Harper,107
+Davis,Centerville 10,Attorney General,,Democratic,Jon Harper,107
 Davis,Centerville 10,Attorney General,,Republican,Sean Reyes,615
 Davis,Centerville 11,Attorney General,,Independent American,Michael Isbell,18
-Davis,Centerville 11,Attorney General,,Democratic,Harper,126
+Davis,Centerville 11,Attorney General,,Democratic,Jon Harper,126
 Davis,Centerville 11,Attorney General,,Republican,Sean Reyes,411
 Davis,Clearfield 1,Attorney General,,Independent American,Michael Isbell,42
-Davis,Clearfield 1,Attorney General,,Democratic,Harper,227
+Davis,Clearfield 1,Attorney General,,Democratic,Jon Harper,227
 Davis,Clearfield 1,Attorney General,,Republican,Sean Reyes,527
 Davis,Clearfield 2,Attorney General,,Independent American,Michael Isbell,30
-Davis,Clearfield 2,Attorney General,,Democratic,Harper,180
+Davis,Clearfield 2,Attorney General,,Democratic,Jon Harper,180
 Davis,Clearfield 2,Attorney General,,Republican,Sean Reyes,501
 Davis,Clearfield 3,Attorney General,,Independent American,Michael Isbell,24
-Davis,Clearfield 3,Attorney General,,Democratic,Harper,94
+Davis,Clearfield 3,Attorney General,,Democratic,Jon Harper,94
 Davis,Clearfield 3,Attorney General,,Republican,Sean Reyes,307
 Davis,Clearfield 4,Attorney General,,Independent American,Michael Isbell,28
-Davis,Clearfield 4,Attorney General,,Democratic,Harper,212
+Davis,Clearfield 4,Attorney General,,Democratic,Jon Harper,212
 Davis,Clearfield 4,Attorney General,,Republican,Sean Reyes,458
 Davis,Clearfield 5,Attorney General,,Independent American,Michael Isbell,23
-Davis,Clearfield 5,Attorney General,,Democratic,Harper,169
+Davis,Clearfield 5,Attorney General,,Democratic,Jon Harper,169
 Davis,Clearfield 5,Attorney General,,Republican,Sean Reyes,408
 Davis,Clearfield 6,Attorney General,,Independent American,Michael Isbell,25
-Davis,Clearfield 6,Attorney General,,Democratic,Harper,157
+Davis,Clearfield 6,Attorney General,,Democratic,Jon Harper,157
 Davis,Clearfield 6,Attorney General,,Republican,Sean Reyes,392
 Davis,Clearfield 7,Attorney General,,Independent American,Michael Isbell,24
-Davis,Clearfield 7,Attorney General,,Democratic,Harper,104
+Davis,Clearfield 7,Attorney General,,Democratic,Jon Harper,104
 Davis,Clearfield 7,Attorney General,,Republican,Sean Reyes,235
 Davis,Clearfield 8,Attorney General,,Independent American,Michael Isbell,23
-Davis,Clearfield 8,Attorney General,,Democratic,Harper,137
+Davis,Clearfield 8,Attorney General,,Democratic,Jon Harper,137
 Davis,Clearfield 8,Attorney General,,Republican,Sean Reyes,350
 Davis,Clearfield 9,Attorney General,,Independent American,Michael Isbell,42
-Davis,Clearfield 9,Attorney General,,Democratic,Harper,162
+Davis,Clearfield 9,Attorney General,,Democratic,Jon Harper,162
 Davis,Clearfield 9,Attorney General,,Republican,Sean Reyes,471
 Davis,Clearfield 10,Attorney General,,Independent American,Michael Isbell,23
-Davis,Clearfield 10,Attorney General,,Democratic,Harper,127
+Davis,Clearfield 10,Attorney General,,Democratic,Jon Harper,127
 Davis,Clearfield 10,Attorney General,,Republican,Sean Reyes,242
 Davis,Clearfield 11,Attorney General,,Independent American,Michael Isbell,28
-Davis,Clearfield 11,Attorney General,,Democratic,Harper,175
+Davis,Clearfield 11,Attorney General,,Democratic,Jon Harper,175
 Davis,Clearfield 11,Attorney General,,Republican,Sean Reyes,564
 Davis,Clearfield 12,Attorney General,,Independent American,Michael Isbell,17
-Davis,Clearfield 12,Attorney General,,Democratic,Harper,195
-Davis,Clearfield 12,Attorney General,,Republican,Sean Reyes,315
+Davis,Clearfield 12,Attorney General,,Democratic,Jon Harper,195
+Davis,Clearfield 12,Attorney General,,Republican,Sean Reyes,314
 Davis,Clearfield 13,Attorney General,,Independent American,Michael Isbell,2
-Davis,Clearfield 13,Attorney General,,Democratic,Harper,7
+Davis,Clearfield 13,Attorney General,,Democratic,Jon Harper,7
 Davis,Clearfield 13,Attorney General,,Republican,Sean Reyes,16
 Davis,Clearfield 14,Attorney General,,Independent American,Michael Isbell,7
-Davis,Clearfield 14,Attorney General,,Democratic,Harper,27
+Davis,Clearfield 14,Attorney General,,Democratic,Jon Harper,27
 Davis,Clearfield 14,Attorney General,,Republican,Sean Reyes,71
 Davis,Clearfield 15,Attorney General,,Independent American,Michael Isbell,3
-Davis,Clearfield 15,Attorney General,,Democratic,Harper,2
+Davis,Clearfield 15,Attorney General,,Democratic,Jon Harper,2
 Davis,Clearfield 15,Attorney General,,Republican,Sean Reyes,29
 Davis,Clinton 1,Attorney General,,Independent American,Michael Isbell,37
-Davis,Clinton 1,Attorney General,,Democratic,Harper,154
+Davis,Clinton 1,Attorney General,,Democratic,Jon Harper,154
 Davis,Clinton 1,Attorney General,,Republican,Sean Reyes,479
 Davis,Clinton 2,Attorney General,,Independent American,Michael Isbell,40
-Davis,Clinton 2,Attorney General,,Democratic,Harper,157
+Davis,Clinton 2,Attorney General,,Democratic,Jon Harper,157
 Davis,Clinton 2,Attorney General,,Republican,Sean Reyes,665
 Davis,Clinton 3,Attorney General,,Independent American,Michael Isbell,16
-Davis,Clinton 3,Attorney General,,Democratic,Harper,60
+Davis,Clinton 3,Attorney General,,Democratic,Jon Harper,60
 Davis,Clinton 3,Attorney General,,Republican,Sean Reyes,184
 Davis,Clinton 4,Attorney General,,Independent American,Michael Isbell,37
-Davis,Clinton 4,Attorney General,,Democratic,Harper,152
+Davis,Clinton 4,Attorney General,,Democratic,Jon Harper,152
 Davis,Clinton 4,Attorney General,,Republican,Sean Reyes,614
 Davis,Clinton 5,Attorney General,,Independent American,Michael Isbell,7
-Davis,Clinton 5,Attorney General,,Democratic,Harper,41
+Davis,Clinton 5,Attorney General,,Democratic,Jon Harper,41
 Davis,Clinton 5,Attorney General,,Republican,Sean Reyes,175
 Davis,Clinton 6,Attorney General,,Independent American,Michael Isbell,27
-Davis,Clinton 6,Attorney General,,Democratic,Harper,114
+Davis,Clinton 6,Attorney General,,Democratic,Jon Harper,114
 Davis,Clinton 6,Attorney General,,Republican,Sean Reyes,439
 Davis,Clinton 7,Attorney General,,Independent American,Michael Isbell,28
-Davis,Clinton 7,Attorney General,,Democratic,Harper,168
+Davis,Clinton 7,Attorney General,,Democratic,Jon Harper,168
 Davis,Clinton 7,Attorney General,,Republican,Sean Reyes,566
 Davis,Clinton 8,Attorney General,,Independent American,Michael Isbell,25
-Davis,Clinton 8,Attorney General,,Democratic,Harper,132
+Davis,Clinton 8,Attorney General,,Democratic,Jon Harper,132
 Davis,Clinton 8,Attorney General,,Republican,Sean Reyes,438
 Davis,Clinton 9,Attorney General,,Independent American,Michael Isbell,34
-Davis,Clinton 9,Attorney General,,Democratic,Harper,194
+Davis,Clinton 9,Attorney General,,Democratic,Jon Harper,194
 Davis,Clinton 9,Attorney General,,Republican,Sean Reyes,541
 Davis,Clinton 10,Attorney General,,Independent American,Michael Isbell,11
-Davis,Clinton 10,Attorney General,,Democratic,Harper,54
+Davis,Clinton 10,Attorney General,,Democratic,Jon Harper,54
 Davis,Clinton 10,Attorney General,,Republican,Sean Reyes,131
 Davis,Clinton 11,Attorney General,,Independent American,Michael Isbell,37
-Davis,Clinton 11,Attorney General,,Democratic,Harper,197
+Davis,Clinton 11,Attorney General,,Democratic,Jon Harper,197
 Davis,Clinton 11,Attorney General,,Republican,Sean Reyes,621
 Davis,Clinton 12,Attorney General,,Independent American,Michael Isbell,17
-Davis,Clinton 12,Attorney General,,Democratic,Harper,65
+Davis,Clinton 12,Attorney General,,Democratic,Jon Harper,65
 Davis,Clinton 12,Attorney General,,Republican,Sean Reyes,323
 Davis,Farmington 1,Attorney General,,Independent American,Michael Isbell,16
-Davis,Farmington 1,Attorney General,,Democratic,Harper,108
+Davis,Farmington 1,Attorney General,,Democratic,Jon Harper,108
 Davis,Farmington 1,Attorney General,,Republican,Sean Reyes,580
 Davis,Farmington 2,Attorney General,,Independent American,Michael Isbell,22
-Davis,Farmington 2,Attorney General,,Democratic,Harper,129
+Davis,Farmington 2,Attorney General,,Democratic,Jon Harper,129
 Davis,Farmington 2,Attorney General,,Republican,Sean Reyes,580
 Davis,Farmington 3,Attorney General,,Independent American,Michael Isbell,20
-Davis,Farmington 3,Attorney General,,Democratic,Harper,198
-Davis,Farmington 3,Attorney General,,Republican,Sean Reyes,189
+Davis,Farmington 3,Attorney General,,Democratic,Jon Harper,198
+Davis,Farmington 3,Attorney General,,Republican,Sean Reyes,489
 Davis,Farmington 4,Attorney General,,Independent American,Michael Isbell,24
-Davis,Farmington 4,Attorney General,,Democratic,Harper,166
+Davis,Farmington 4,Attorney General,,Democratic,Jon Harper,166
 Davis,Farmington 4,Attorney General,,Republican,Sean Reyes,660
 Davis,Farmington 5,Attorney General,,Independent American,Michael Isbell,11
-Davis,Farmington 5,Attorney General,,Democratic,Harper,112
+Davis,Farmington 5,Attorney General,,Democratic,Jon Harper,112
 Davis,Farmington 5,Attorney General,,Republican,Sean Reyes,561
 Davis,Farmington 6,Attorney General,,Independent American,Michael Isbell,8
-Davis,Farmington 6,Attorney General,,Democratic,Harper,121
+Davis,Farmington 6,Attorney General,,Democratic,Jon Harper,121
 Davis,Farmington 6,Attorney General,,Republican,Sean Reyes,679
 Davis,Farmington 7,Attorney General,,Independent American,Michael Isbell,15
-Davis,Farmington 7,Attorney General,,Democratic,Harper,106
+Davis,Farmington 7,Attorney General,,Democratic,Jon Harper,106
 Davis,Farmington 7,Attorney General,,Republican,Sean Reyes,497
 Davis,Farmington 8,Attorney General,,Independent American,Michael Isbell,15
-Davis,Farmington 8,Attorney General,,Democratic,Harper,124
+Davis,Farmington 8,Attorney General,,Democratic,Jon Harper,124
 Davis,Farmington 8,Attorney General,,Republican,Sean Reyes,444
 Davis,Farmington 9,Attorney General,,Independent American,Michael Isbell,13
-Davis,Farmington 9,Attorney General,,Democratic,Harper,141
+Davis,Farmington 9,Attorney General,,Democratic,Jon Harper,141
 Davis,Farmington 9,Attorney General,,Republican,Sean Reyes,663
 Davis,Farmington 10,Attorney General,,Independent American,Michael Isbell,16
-Davis,Farmington 10,Attorney General,,Democratic,Harper,139
+Davis,Farmington 10,Attorney General,,Democratic,Jon Harper,139
 Davis,Farmington 10,Attorney General,,Republican,Sean Reyes,661
 Davis,Farmington 11,Attorney General,,Independent American,Michael Isbell,26
-Davis,Farmington 11,Attorney General,,Democratic,Harper,175
+Davis,Farmington 11,Attorney General,,Democratic,Jon Harper,175
 Davis,Farmington 11,Attorney General,,Republican,Sean Reyes,791
 Davis,Farmington 12,Attorney General,,Independent American,Michael Isbell,12
-Davis,Farmington 12,Attorney General,,Democratic,Harper,72
+Davis,Farmington 12,Attorney General,,Democratic,Jon Harper,72
 Davis,Farmington 12,Attorney General,,Republican,Sean Reyes,470
 Davis,Farmington 13,Attorney General,,Independent American,Michael Isbell,12
-Davis,Farmington 13,Attorney General,,Democratic,Harper,16
+Davis,Farmington 13,Attorney General,,Democratic,Jon Harper,76
 Davis,Farmington 13,Attorney General,,Republican,Sean Reyes,507
 Davis,Fruit Heights 1,Attorney General,,Independent American,Michael Isbell,21
-Davis,Fruit Heights 1,Attorney General,,Democratic,Harper,135
+Davis,Fruit Heights 1,Attorney General,,Democratic,Jon Harper,135
 Davis,Fruit Heights 1,Attorney General,,Republican,Sean Reyes,741
 Davis,Fruit Heights 2,Attorney General,,Independent American,Michael Isbell,22
-Davis,Fruit Heights 2,Attorney General,,Democratic,Harper,107
+Davis,Fruit Heights 2,Attorney General,,Democratic,Jon Harper,107
 Davis,Fruit Heights 2,Attorney General,,Republican,Sean Reyes,537
 Davis,Fruit Heights 3,Attorney General,,Independent American,Michael Isbell,18
-Davis,Fruit Heights 3,Attorney General,,Democratic,Harper,129
+Davis,Fruit Heights 3,Attorney General,,Democratic,Jon Harper,129
 Davis,Fruit Heights 3,Attorney General,,Republican,Sean Reyes,637
 Davis,Fruit Heights 4,Attorney General,,Independent American,Michael Isbell,13
-Davis,Fruit Heights 4,Attorney General,,Democratic,Harper,78
+Davis,Fruit Heights 4,Attorney General,,Democratic,Jon Harper,78
 Davis,Fruit Heights 4,Attorney General,,Republican,Sean Reyes,543
 Davis,Hill AFB 1,Attorney General,,Independent American,Michael Isbell,0
-Davis,Hill AFB 1,Attorney General,,Democratic,Harper,6
+Davis,Hill AFB 1,Attorney General,,Democratic,Jon Harper,6
 Davis,Hill AFB 1,Attorney General,,Republican,Sean Reyes,32
 Davis,Hill AFB 2,Attorney General,,Independent American,Michael Isbell,1
-Davis,Hill AFB 2,Attorney General,,Democratic,Harper,3
+Davis,Hill AFB 2,Attorney General,,Democratic,Jon Harper,3
 Davis,Hill AFB 2,Attorney General,,Republican,Sean Reyes,7
 Davis,Kaysville 1,Attorney General,,Independent American,Michael Isbell,20
-Davis,Kaysville 1,Attorney General,,Democratic,Harper,127
+Davis,Kaysville 1,Attorney General,,Democratic,Jon Harper,127
 Davis,Kaysville 1,Attorney General,,Republican,Sean Reyes,648
 Davis,Kaysville 2,Attorney General,,Independent American,Michael Isbell,24
-Davis,Kaysville 2,Attorney General,,Democratic,Harper,108
+Davis,Kaysville 2,Attorney General,,Democratic,Jon Harper,108
 Davis,Kaysville 2,Attorney General,,Republican,Sean Reyes,685
 Davis,Kaysville 3,Attorney General,,Independent American,Michael Isbell,21
-Davis,Kaysville 3,Attorney General,,Democratic,Harper,102
+Davis,Kaysville 3,Attorney General,,Democratic,Jon Harper,102
 Davis,Kaysville 3,Attorney General,,Republican,Sean Reyes,553
 Davis,Kaysville 4,Attorney General,,Independent American,Michael Isbell,7
-Davis,Kaysville 4,Attorney General,,Democratic,Harper,82
+Davis,Kaysville 4,Attorney General,,Democratic,Jon Harper,82
 Davis,Kaysville 4,Attorney General,,Republican,Sean Reyes,403
 Davis,Kaysville 5,Attorney General,,Independent American,Michael Isbell,23
-Davis,Kaysville 5,Attorney General,,Democratic,Harper,155
+Davis,Kaysville 5,Attorney General,,Democratic,Jon Harper,155
 Davis,Kaysville 5,Attorney General,,Republican,Sean Reyes,461
 Davis,Kaysville 6,Attorney General,,Independent American,Michael Isbell,28
-Davis,Kaysville 6,Attorney General,,Democratic,Harper,124
+Davis,Kaysville 6,Attorney General,,Democratic,Jon Harper,124
 Davis,Kaysville 6,Attorney General,,Republican,Sean Reyes,677
 Davis,Kaysville 7,Attorney General,,Independent American,Michael Isbell,8
-Davis,Kaysville 7,Attorney General,,Democratic,Harper,83
+Davis,Kaysville 7,Attorney General,,Democratic,Jon Harper,83
 Davis,Kaysville 7,Attorney General,,Republican,Sean Reyes,476
 Davis,Kaysville 8,Attorney General,,Independent American,Michael Isbell,16
-Davis,Kaysville 8,Attorney General,,Democratic,Harper,88
+Davis,Kaysville 8,Attorney General,,Democratic,Jon Harper,88
 Davis,Kaysville 8,Attorney General,,Republican,Sean Reyes,490
 Davis,Kaysville 9,Attorney General,,Independent American,Michael Isbell,22
-Davis,Kaysville 9,Attorney General,,Democratic,Harper,92
+Davis,Kaysville 9,Attorney General,,Democratic,Jon Harper,92
 Davis,Kaysville 9,Attorney General,,Republican,Sean Reyes,449
 Davis,Kaysville 10,Attorney General,,Independent American,Michael Isbell,27
-Davis,Kaysville 10,Attorney General,,Democratic,Harper,143
+Davis,Kaysville 10,Attorney General,,Democratic,Jon Harper,143
 Davis,Kaysville 10,Attorney General,,Republican,Sean Reyes,574
 Davis,Kaysville 11,Attorney General,,Independent American,Michael Isbell,13
-Davis,Kaysville 11,Attorney General,,Democratic,Harper,80
+Davis,Kaysville 11,Attorney General,,Democratic,Jon Harper,80
 Davis,Kaysville 11,Attorney General,,Republican,Sean Reyes,721
 Davis,Kaysville 12,Attorney General,,Independent American,Michael Isbell,12
-Davis,Kaysville 12,Attorney General,,Democratic,Harper,102
+Davis,Kaysville 12,Attorney General,,Democratic,Jon Harper,102
 Davis,Kaysville 12,Attorney General,,Republican,Sean Reyes,790
 Davis,Kaysville 13,Attorney General,,Independent American,Michael Isbell,18
-Davis,Kaysville 13,Attorney General,,Democratic,Harper,85
+Davis,Kaysville 13,Attorney General,,Democratic,Jon Harper,85
 Davis,Kaysville 13,Attorney General,,Republican,Sean Reyes,480
 Davis,Kaysville 14,Attorney General,,Independent American,Michael Isbell,21
-Davis,Kaysville 14,Attorney General,,Democratic,Harper,59
+Davis,Kaysville 14,Attorney General,,Democratic,Jon Harper,59
 Davis,Kaysville 14,Attorney General,,Republican,Sean Reyes,511
 Davis,Kaysville 15,Attorney General,,Independent American,Michael Isbell,20
-Davis,Kaysville 15,Attorney General,,Democratic,Harper,60
+Davis,Kaysville 15,Attorney General,,Democratic,Jon Harper,60
 Davis,Kaysville 15,Attorney General,,Republican,Sean Reyes,510
 Davis,Kaysville 16,Attorney General,,Independent American,Michael Isbell,13
-Davis,Kaysville 16,Attorney General,,Democratic,Harper,62
+Davis,Kaysville 16,Attorney General,,Democratic,Jon Harper,62
 Davis,Kaysville 16,Attorney General,,Republican,Sean Reyes,474
 Davis,Kaysville 17,Attorney General,,Independent American,Michael Isbell,24
-Davis,Kaysville 17,Attorney General,,Democratic,Harper,74
+Davis,Kaysville 17,Attorney General,,Democratic,Jon Harper,74
 Davis,Kaysville 17,Attorney General,,Republican,Sean Reyes,582
 Davis,Kaysville 18,Attorney General,,Independent American,Michael Isbell,18
-Davis,Kaysville 18,Attorney General,,Democratic,Harper,80
+Davis,Kaysville 18,Attorney General,,Democratic,Jon Harper,80
 Davis,Kaysville 18,Attorney General,,Republican,Sean Reyes,771
 Davis,Kaysville 19,Attorney General,,Independent American,Michael Isbell,22
-Davis,Kaysville 19,Attorney General,,Democratic,Harper,71
+Davis,Kaysville 19,Attorney General,,Democratic,Jon Harper,71
 Davis,Kaysville 19,Attorney General,,Republican,Sean Reyes,751
 Davis,Kaysville 20,Attorney General,,Independent American,Michael Isbell,17
-Davis,Kaysville 20,Attorney General,,Democratic,Harper,41
+Davis,Kaysville 20,Attorney General,,Democratic,Jon Harper,41
 Davis,Kaysville 20,Attorney General,,Republican,Sean Reyes,544
 Davis,Layton 1,Attorney General,,Independent American,Michael Isbell,8
-Davis,Layton 1,Attorney General,,Democratic,Harper,96
+Davis,Layton 1,Attorney General,,Democratic,Jon Harper,96
 Davis,Layton 1,Attorney General,,Republican,Sean Reyes,360
 Davis,Layton 2,Attorney General,,Independent American,Michael Isbell,19
-Davis,Layton 2,Attorney General,,Democratic,Harper,180
+Davis,Layton 2,Attorney General,,Democratic,Jon Harper,180
 Davis,Layton 2,Attorney General,,Republican,Sean Reyes,592
 Davis,Layton 3,Attorney General,,Independent American,Michael Isbell,11
-Davis,Layton 3,Attorney General,,Democratic,Harper,80
+Davis,Layton 3,Attorney General,,Democratic,Jon Harper,80
 Davis,Layton 3,Attorney General,,Republican,Sean Reyes,331
 Davis,Layton 4,Attorney General,,Independent American,Michael Isbell,26
-Davis,Layton 4,Attorney General,,Democratic,Harper,98
+Davis,Layton 4,Attorney General,,Democratic,Jon Harper,98
 Davis,Layton 4,Attorney General,,Republican,Sean Reyes,372
 Davis,Layton 5,Attorney General,,Independent American,Michael Isbell,20
-Davis,Layton 5,Attorney General,,Democratic,Harper,123
+Davis,Layton 5,Attorney General,,Democratic,Jon Harper,123
 Davis,Layton 5,Attorney General,,Republican,Sean Reyes,388
 Davis,Layton 6,Attorney General,,Independent American,Michael Isbell,32
-Davis,Layton 6,Attorney General,,Democratic,Harper,128
+Davis,Layton 6,Attorney General,,Democratic,Jon Harper,128
 Davis,Layton 6,Attorney General,,Republican,Sean Reyes,599
 Davis,Layton 7,Attorney General,,Independent American,Michael Isbell,15
-Davis,Layton 7,Attorney General,,Democratic,Harper,170
+Davis,Layton 7,Attorney General,,Democratic,Jon Harper,170
 Davis,Layton 7,Attorney General,,Republican,Sean Reyes,517
 Davis,Layton 8,Attorney General,,Independent American,Michael Isbell,17
-Davis,Layton 8,Attorney General,,Democratic,Harper,92
+Davis,Layton 8,Attorney General,,Democratic,Jon Harper,92
 Davis,Layton 8,Attorney General,,Republican,Sean Reyes,294
 Davis,Layton 9,Attorney General,,Independent American,Michael Isbell,15
-Davis,Layton 9,Attorney General,,Democratic,Harper,115
+Davis,Layton 9,Attorney General,,Democratic,Jon Harper,115
 Davis,Layton 9,Attorney General,,Republican,Sean Reyes,450
 Davis,Layton 10,Attorney General,,Independent American,Michael Isbell,40
-Davis,Layton 10,Attorney General,,Democratic,Harper,152
+Davis,Layton 10,Attorney General,,Democratic,Jon Harper,152
 Davis,Layton 10,Attorney General,,Republican,Sean Reyes,318
 Davis,Layton 11,Attorney General,,Independent American,Michael Isbell,18
-Davis,Layton 11,Attorney General,,Democratic,Harper,142
+Davis,Layton 11,Attorney General,,Democratic,Jon Harper,142
 Davis,Layton 11,Attorney General,,Republican,Sean Reyes,369
 Davis,Layton 12,Attorney General,,Independent American,Michael Isbell,25
-Davis,Layton 12,Attorney General,,Democratic,Harper,215
+Davis,Layton 12,Attorney General,,Democratic,Jon Harper,215
 Davis,Layton 12,Attorney General,,Republican,Sean Reyes,523
 Davis,Layton 13,Attorney General,,Independent American,Michael Isbell,24
-Davis,Layton 13,Attorney General,,Democratic,Harper,111
+Davis,Layton 13,Attorney General,,Democratic,Jon Harper,111
 Davis,Layton 13,Attorney General,,Republican,Sean Reyes,318
 Davis,Layton 14,Attorney General,,Independent American,Michael Isbell,31
-Davis,Layton 14,Attorney General,,Democratic,Harper,174
+Davis,Layton 14,Attorney General,,Democratic,Jon Harper,174
 Davis,Layton 14,Attorney General,,Republican,Sean Reyes,287
 Davis,Layton 15,Attorney General,,Independent American,Michael Isbell,34
-Davis,Layton 15,Attorney General,,Democratic,Harper,217
+Davis,Layton 15,Attorney General,,Democratic,Jon Harper,217
 Davis,Layton 15,Attorney General,,Republican,Sean Reyes,512
 Davis,Layton 16,Attorney General,,Independent American,Michael Isbell,25
-Davis,Layton 16,Attorney General,,Democratic,Harper,102
+Davis,Layton 16,Attorney General,,Democratic,Jon Harper,102
 Davis,Layton 16,Attorney General,,Republican,Sean Reyes,302
 Davis,Layton 17,Attorney General,,Independent American,Michael Isbell,22
-Davis,Layton 17,Attorney General,,Democratic,Harper,133
+Davis,Layton 17,Attorney General,,Democratic,Jon Harper,133
 Davis,Layton 17,Attorney General,,Republican,Sean Reyes,370
 Davis,Layton 18,Attorney General,,Independent American,Michael Isbell,14
-Davis,Layton 18,Attorney General,,Democratic,Harper,105
+Davis,Layton 18,Attorney General,,Democratic,Jon Harper,105
 Davis,Layton 18,Attorney General,,Republican,Sean Reyes,362
 Davis,Layton 19,Attorney General,,Independent American,Michael Isbell,29
-Davis,Layton 19,Attorney General,,Democratic,Harper,129
+Davis,Layton 19,Attorney General,,Democratic,Jon Harper,129
 Davis,Layton 19,Attorney General,,Republican,Sean Reyes,430
 Davis,Layton 20,Attorney General,,Independent American,Michael Isbell,17
-Davis,Layton 20,Attorney General,,Democratic,Harper,152
+Davis,Layton 20,Attorney General,,Democratic,Jon Harper,152
 Davis,Layton 20,Attorney General,,Republican,Sean Reyes,589
 Davis,Layton 21,Attorney General,,Independent American,Michael Isbell,19
-Davis,Layton 21,Attorney General,,Democratic,Harper,124
+Davis,Layton 21,Attorney General,,Democratic,Jon Harper,124
 Davis,Layton 21,Attorney General,,Republican,Sean Reyes,419
 Davis,Layton 22,Attorney General,,Independent American,Michael Isbell,21
-Davis,Layton 22,Attorney General,,Democratic,Harper,151
+Davis,Layton 22,Attorney General,,Democratic,Jon Harper,151
 Davis,Layton 22,Attorney General,,Republican,Sean Reyes,550
 Davis,Layton 23,Attorney General,,Independent American,Michael Isbell,21
-Davis,Layton 23,Attorney General,,Democratic,Harper,183
+Davis,Layton 23,Attorney General,,Democratic,Jon Harper,183
 Davis,Layton 23,Attorney General,,Republican,Sean Reyes,574
 Davis,Layton 24,Attorney General,,Independent American,Michael Isbell,15
-Davis,Layton 24,Attorney General,,Democratic,Harper,148
+Davis,Layton 24,Attorney General,,Democratic,Jon Harper,148
 Davis,Layton 24,Attorney General,,Republican,Sean Reyes,654
 Davis,Layton 25,Attorney General,,Independent American,Michael Isbell,5
-Davis,Layton 25,Attorney General,,Democratic,Harper,68
+Davis,Layton 25,Attorney General,,Democratic,Jon Harper,68
 Davis,Layton 25,Attorney General,,Republican,Sean Reyes,249
 Davis,Layton 26,Attorney General,,Independent American,Michael Isbell,27
-Davis,Layton 26,Attorney General,,Democratic,Harper,171
+Davis,Layton 26,Attorney General,,Democratic,Jon Harper,171
 Davis,Layton 26,Attorney General,,Republican,Sean Reyes,646
 Davis,Layton 27,Attorney General,,Independent American,Michael Isbell,27
-Davis,Layton 27,Attorney General,,Democratic,Harper,151
+Davis,Layton 27,Attorney General,,Democratic,Jon Harper,151
 Davis,Layton 27,Attorney General,,Republican,Sean Reyes,346
 Davis,Layton 28,Attorney General,,Independent American,Michael Isbell,40
-Davis,Layton 28,Attorney General,,Democratic,Harper,186
+Davis,Layton 28,Attorney General,,Democratic,Jon Harper,186
 Davis,Layton 28,Attorney General,,Republican,Sean Reyes,576
 Davis,Layton 29,Attorney General,,Independent American,Michael Isbell,9
-Davis,Layton 29,Attorney General,,Democratic,Harper,44
+Davis,Layton 29,Attorney General,,Democratic,Jon Harper,44
 Davis,Layton 29,Attorney General,,Republican,Sean Reyes,123
 Davis,Layton 30,Attorney General,,Independent American,Michael Isbell,27
-Davis,Layton 30,Attorney General,,Democratic,Harper,175
+Davis,Layton 30,Attorney General,,Democratic,Jon Harper,175
 Davis,Layton 30,Attorney General,,Republican,Sean Reyes,369
 Davis,Layton 31,Attorney General,,Independent American,Michael Isbell,28
-Davis,Layton 31,Attorney General,,Democratic,Harper,132
+Davis,Layton 31,Attorney General,,Democratic,Jon Harper,132
 Davis,Layton 31,Attorney General,,Republican,Sean Reyes,425
 Davis,Layton 32,Attorney General,,Independent American,Michael Isbell,19
-Davis,Layton 32,Attorney General,,Democratic,Harper,114
+Davis,Layton 32,Attorney General,,Democratic,Jon Harper,114
 Davis,Layton 32,Attorney General,,Republican,Sean Reyes,493
 Davis,Layton 33,Attorney General,,Independent American,Michael Isbell,31
-Davis,Layton 33,Attorney General,,Democratic,Harper,117
+Davis,Layton 33,Attorney General,,Democratic,Jon Harper,117
 Davis,Layton 33,Attorney General,,Republican,Sean Reyes,702
 Davis,Layton 34,Attorney General,,Independent American,Michael Isbell,29
-Davis,Layton 34,Attorney General,,Democratic,Harper,111
+Davis,Layton 34,Attorney General,,Democratic,Jon Harper,111
 Davis,Layton 34,Attorney General,,Republican,Sean Reyes,831
 Davis,Layton 35,Attorney General,,Independent American,Michael Isbell,11
-Davis,Layton 35,Attorney General,,Democratic,Harper,66
+Davis,Layton 35,Attorney General,,Democratic,Jon Harper,66
 Davis,Layton 35,Attorney General,,Republican,Sean Reyes,457
 Davis,Layton 36,Attorney General,,Independent American,Michael Isbell,20
-Davis,Layton 36,Attorney General,,Democratic,Harper,122
+Davis,Layton 36,Attorney General,,Democratic,Jon Harper,122
 Davis,Layton 36,Attorney General,,Republican,Sean Reyes,614
 Davis,Layton 37,Attorney General,,Independent American,Michael Isbell,16
-Davis,Layton 37,Attorney General,,Democratic,Harper,119
+Davis,Layton 37,Attorney General,,Democratic,Jon Harper,119
 Davis,Layton 37,Attorney General,,Republican,Sean Reyes,567
 Davis,Layton 38,Attorney General,,Independent American,Michael Isbell,21
-Davis,Layton 38,Attorney General,,Democratic,Harper,134
+Davis,Layton 38,Attorney General,,Democratic,Jon Harper,134
 Davis,Layton 38,Attorney General,,Republican,Sean Reyes,394
 Davis,Layton 39,Attorney General,,Independent American,Michael Isbell,27
-Davis,Layton 39,Attorney General,,Democratic,Harper,133
+Davis,Layton 39,Attorney General,,Democratic,Jon Harper,133
 Davis,Layton 39,Attorney General,,Republican,Sean Reyes,466
 Davis,Layton 40,Attorney General,,Independent American,Michael Isbell,29
-Davis,Layton 40,Attorney General,,Democratic,Harper,203
+Davis,Layton 40,Attorney General,,Democratic,Jon Harper,203
 Davis,Layton 40,Attorney General,,Republican,Sean Reyes,509
 Davis,Layton 41,Attorney General,,Independent American,Michael Isbell,27
-Davis,Layton 41,Attorney General,,Democratic,Harper,155
+Davis,Layton 41,Attorney General,,Democratic,Jon Harper,155
 Davis,Layton 41,Attorney General,,Republican,Sean Reyes,629
 Davis,Layton 42,Attorney General,,Independent American,Michael Isbell,24
-Davis,Layton 42,Attorney General,,Democratic,Harper,118
+Davis,Layton 42,Attorney General,,Democratic,Jon Harper,118
 Davis,Layton 42,Attorney General,,Republican,Sean Reyes,380
 Davis,Layton 43,Attorney General,,Independent American,Michael Isbell,27
-Davis,Layton 43,Attorney General,,Democratic,Harper,165
+Davis,Layton 43,Attorney General,,Democratic,Jon Harper,165
 Davis,Layton 43,Attorney General,,Republican,Sean Reyes,336
 Davis,Layton 44,Attorney General,,Independent American,Michael Isbell,12
-Davis,Layton 44,Attorney General,,Democratic,Harper,68
+Davis,Layton 44,Attorney General,,Democratic,Jon Harper,68
 Davis,Layton 44,Attorney General,,Republican,Sean Reyes,534
 Davis,North Salt Lake 1,Attorney General,,Independent American,Michael Isbell,26
-Davis,North Salt Lake 1,Attorney General,,Democratic,Harper,240
+Davis,North Salt Lake 1,Attorney General,,Democratic,Jon Harper,240
 Davis,North Salt Lake 1,Attorney General,,Republican,Sean Reyes,496
 Davis,North Salt Lake 2,Attorney General,,Independent American,Michael Isbell,34
-Davis,North Salt Lake 2,Attorney General,,Democratic,Harper,194
+Davis,North Salt Lake 2,Attorney General,,Democratic,Jon Harper,294
 Davis,North Salt Lake 2,Attorney General,,Republican,Sean Reyes,597
 Davis,North Salt Lake 3,Attorney General,,Independent American,Michael Isbell,32
-Davis,North Salt Lake 3,Attorney General,,Democratic,Harper,221
+Davis,North Salt Lake 3,Attorney General,,Democratic,Jon Harper,221
 Davis,North Salt Lake 3,Attorney General,,Republican,Sean Reyes,441
 Davis,North Salt Lake 4,Attorney General,,Independent American,Michael Isbell,28
-Davis,North Salt Lake 4,Attorney General,,Democratic,Harper,201
+Davis,North Salt Lake 4,Attorney General,,Democratic,Jon Harper,201
 Davis,North Salt Lake 4,Attorney General,,Republican,Sean Reyes,552
 Davis,North Salt Lake 5,Attorney General,,Independent American,Michael Isbell,14
-Davis,North Salt Lake 5,Attorney General,,Democratic,Harper,133
+Davis,North Salt Lake 5,Attorney General,,Democratic,Jon Harper,133
 Davis,North Salt Lake 5,Attorney General,,Republican,Sean Reyes,811
 Davis,North Salt Lake 6,Attorney General,,Independent American,Michael Isbell,18
-Davis,North Salt Lake 6,Attorney General,,Democratic,Harper,175
+Davis,North Salt Lake 6,Attorney General,,Democratic,Jon Harper,175
 Davis,North Salt Lake 6,Attorney General,,Republican,Sean Reyes,602
 Davis,North Salt Lake 7,Attorney General,,Independent American,Michael Isbell,12
-Davis,North Salt Lake 7,Attorney General,,Democratic,Harper,104
+Davis,North Salt Lake 7,Attorney General,,Democratic,Jon Harper,104
 Davis,North Salt Lake 7,Attorney General,,Republican,Sean Reyes,274
 Davis,North Salt Lake 8,Attorney General,,Independent American,Michael Isbell,17
-Davis,North Salt Lake 8,Attorney General,,Democratic,Harper,198
+Davis,North Salt Lake 8,Attorney General,,Democratic,Jon Harper,198
 Davis,North Salt Lake 8,Attorney General,,Republican,Sean Reyes,544
 Davis,North Salt Lake 9,Attorney General,,Independent American,Michael Isbell,20
-Davis,North Salt Lake 9,Attorney General,,Democratic,Harper,272
+Davis,North Salt Lake 9,Attorney General,,Democratic,Jon Harper,272
 Davis,North Salt Lake 9,Attorney General,,Republican,Sean Reyes,441
 Davis,North Salt Lake 10,Attorney General,,Independent American,Michael Isbell,12
-Davis,North Salt Lake 10,Attorney General,,Democratic,Harper,217
+Davis,North Salt Lake 10,Attorney General,,Democratic,Jon Harper,217
 Davis,North Salt Lake 10,Attorney General,,Republican,Sean Reyes,437
 Davis,South Weber 1,Attorney General,,Independent American,Michael Isbell,48
-Davis,South Weber 1,Attorney General,,Democratic,Harper,163
+Davis,South Weber 1,Attorney General,,Democratic,Jon Harper,163
 Davis,South Weber 1,Attorney General,,Republican,Sean Reyes,752
 Davis,South Weber 2,Attorney General,,Independent American,Michael Isbell,25
-Davis,South Weber 2,Attorney General,,Democratic,Harper,167
+Davis,South Weber 2,Attorney General,,Democratic,Jon Harper,167
 Davis,South Weber 2,Attorney General,,Republican,Sean Reyes,737
 Davis,South Weber 3,Attorney General,,Independent American,Michael Isbell,33
-Davis,South Weber 3,Attorney General,,Democratic,Harper,177
+Davis,South Weber 3,Attorney General,,Democratic,Jon Harper,177
 Davis,South Weber 3,Attorney General,,Republican,Sean Reyes,813
 Davis,South Weber 4,Attorney General,,Independent American,Michael Isbell,0
-Davis,South Weber 4,Attorney General,,Democratic,Harper,2
+Davis,South Weber 4,Attorney General,,Democratic,Jon Harper,2
 Davis,South Weber 4,Attorney General,,Republican,Sean Reyes,4
 Davis,Sunset 1,Attorney General,,Independent American,Michael Isbell,18
-Davis,Sunset 1,Attorney General,,Democratic,Harper,119
+Davis,Sunset 1,Attorney General,,Democratic,Jon Harper,119
 Davis,Sunset 1,Attorney General,,Republican,Sean Reyes,229
 Davis,Sunset 2,Attorney General,,Independent American,Michael Isbell,42
-Davis,Sunset 2,Attorney General,,Democratic,Harper,163
+Davis,Sunset 2,Attorney General,,Democratic,Jon Harper,163
 Davis,Sunset 2,Attorney General,,Republican,Sean Reyes,331
 Davis,Sunset 3,Attorney General,,Independent American,Michael Isbell,30
-Davis,Sunset 3,Attorney General,,Democratic,Harper,147
+Davis,Sunset 3,Attorney General,,Democratic,Jon Harper,147
 Davis,Sunset 3,Attorney General,,Republican,Sean Reyes,450
 Davis,Syracuse 1,Attorney General,,Independent American,Michael Isbell,24
-Davis,Syracuse 1,Attorney General,,Democratic,Harper,139
+Davis,Syracuse 1,Attorney General,,Democratic,Jon Harper,139
 Davis,Syracuse 1,Attorney General,,Republican,Sean Reyes,616
 Davis,Syracuse 2,Attorney General,,Independent American,Michael Isbell,18
-Davis,Syracuse 2,Attorney General,,Democratic,Harper,83
+Davis,Syracuse 2,Attorney General,,Democratic,Jon Harper,83
 Davis,Syracuse 2,Attorney General,,Republican,Sean Reyes,371
 Davis,Syracuse 3,Attorney General,,Independent American,Michael Isbell,43
-Davis,Syracuse 3,Attorney General,,Democratic,Harper,137
+Davis,Syracuse 3,Attorney General,,Democratic,Jon Harper,137
 Davis,Syracuse 3,Attorney General,,Republican,Sean Reyes,730
 Davis,Syracuse 4,Attorney General,,Independent American,Michael Isbell,23
-Davis,Syracuse 4,Attorney General,,Democratic,Harper,108
+Davis,Syracuse 4,Attorney General,,Democratic,Jon Harper,108
 Davis,Syracuse 4,Attorney General,,Republican,Sean Reyes,383
 Davis,Syracuse 5,Attorney General,,Independent American,Michael Isbell,32
-Davis,Syracuse 5,Attorney General,,Democratic,Harper,157
+Davis,Syracuse 5,Attorney General,,Democratic,Jon Harper,157
 Davis,Syracuse 5,Attorney General,,Republican,Sean Reyes,736
 Davis,Syracuse 6,Attorney General,,Independent American,Michael Isbell,19
-Davis,Syracuse 6,Attorney General,,Democratic,Harper,117
+Davis,Syracuse 6,Attorney General,,Democratic,Jon Harper,117
 Davis,Syracuse 6,Attorney General,,Republican,Sean Reyes,648
 Davis,Syracuse 7,Attorney General,,Independent American,Michael Isbell,21
-Davis,Syracuse 7,Attorney General,,Democratic,Harper,143
+Davis,Syracuse 7,Attorney General,,Democratic,Jon Harper,143
 Davis,Syracuse 7,Attorney General,,Republican,Sean Reyes,640
 Davis,Syracuse 8,Attorney General,,Independent American,Michael Isbell,23
-Davis,Syracuse 8,Attorney General,,Democratic,Harper,108
+Davis,Syracuse 8,Attorney General,,Democratic,Jon Harper,108
 Davis,Syracuse 8,Attorney General,,Republican,Sean Reyes,558
 Davis,Syracuse 9,Attorney General,,Independent American,Michael Isbell,26
-Davis,Syracuse 9,Attorney General,,Democratic,Harper,118
+Davis,Syracuse 9,Attorney General,,Democratic,Jon Harper,118
 Davis,Syracuse 9,Attorney General,,Republican,Sean Reyes,736
 Davis,Syracuse 10,Attorney General,,Independent American,Michael Isbell,14
-Davis,Syracuse 10,Attorney General,,Democratic,Harper,63
+Davis,Syracuse 10,Attorney General,,Democratic,Jon Harper,63
 Davis,Syracuse 10,Attorney General,,Republican,Sean Reyes,404
 Davis,Syracuse 11,Attorney General,,Independent American,Michael Isbell,22
-Davis,Syracuse 11,Attorney General,,Democratic,Harper,111
+Davis,Syracuse 11,Attorney General,,Democratic,Jon Harper,111
 Davis,Syracuse 11,Attorney General,,Republican,Sean Reyes,591
 Davis,Syracuse 12,Attorney General,,Independent American,Michael Isbell,24
-Davis,Syracuse 12,Attorney General,,Democratic,Harper,106
+Davis,Syracuse 12,Attorney General,,Democratic,Jon Harper,106
 Davis,Syracuse 12,Attorney General,,Republican,Sean Reyes,780
 Davis,Syracuse 13,Attorney General,,Independent American,Michael Isbell,23
-Davis,Syracuse 13,Attorney General,,Democratic,Harper,148
+Davis,Syracuse 13,Attorney General,,Democratic,Jon Harper,148
 Davis,Syracuse 13,Attorney General,,Republican,Sean Reyes,626
 Davis,Syracuse 14,Attorney General,,Independent American,Michael Isbell,17
-Davis,Syracuse 14,Attorney General,,Democratic,Harper,82
+Davis,Syracuse 14,Attorney General,,Democratic,Jon Harper,82
 Davis,Syracuse 14,Attorney General,,Republican,Sean Reyes,449
 Davis,Syracuse 15,Attorney General,,Independent American,Michael Isbell,0
-Davis,Syracuse 15,Attorney General,,Democratic,Harper,0
+Davis,Syracuse 15,Attorney General,,Democratic,Jon Harper,0
 Davis,Syracuse 15,Attorney General,,Republican,Sean Reyes,0
 Davis,West Bountiful 1,Attorney General,,Independent American,Michael Isbell,13
-Davis,West Bountiful 1,Attorney General,,Democratic,Harper,108
+Davis,West Bountiful 1,Attorney General,,Democratic,Jon Harper,108
 Davis,West Bountiful 1,Attorney General,,Republican,Sean Reyes,416
 Davis,West Bountiful 2,Attorney General,,Independent American,Michael Isbell,21
-Davis,West Bountiful 2,Attorney General,,Democratic,Harper,142
+Davis,West Bountiful 2,Attorney General,,Democratic,Jon Harper,142
 Davis,West Bountiful 2,Attorney General,,Republican,Sean Reyes,605
 Davis,West Bountiful 3,Attorney General,,Independent American,Michael Isbell,23
-Davis,West Bountiful 3,Attorney General,,Democratic,Harper,121
+Davis,West Bountiful 3,Attorney General,,Democratic,Jon Harper,121
 Davis,West Bountiful 3,Attorney General,,Republican,Sean Reyes,615
 Davis,West Bountiful 4,Attorney General,,Independent American,Michael Isbell,12
-Davis,West Bountiful 4,Attorney General,,Democratic,Harper,97
+Davis,West Bountiful 4,Attorney General,,Democratic,Jon Harper,97
 Davis,West Bountiful 4,Attorney General,,Republican,Sean Reyes,270
 Davis,West Point 1,Attorney General,,Independent American,Michael Isbell,37
-Davis,West Point 1,Attorney General,,Democratic,Harper,101
+Davis,West Point 1,Attorney General,,Democratic,Jon Harper,101
 Davis,West Point 1,Attorney General,,Republican,Sean Reyes,589
 Davis,West Point 2,Attorney General,,Independent American,Michael Isbell,31
-Davis,West Point 2,Attorney General,,Democratic,Harper,82
+Davis,West Point 2,Attorney General,,Democratic,Jon Harper,82
 Davis,West Point 2,Attorney General,,Republican,Sean Reyes,414
 Davis,West Point 3,Attorney General,,Independent American,Michael Isbell,27
-Davis,West Point 3,Attorney General,,Democratic,Harper,145
+Davis,West Point 3,Attorney General,,Democratic,Jon Harper,145
 Davis,West Point 3,Attorney General,,Republican,Sean Reyes,647
 Davis,West Point 4,Attorney General,,Independent American,Michael Isbell,33
-Davis,West Point 4,Attorney General,,Democratic,Harper,96
+Davis,West Point 4,Attorney General,,Democratic,Jon Harper,96
 Davis,West Point 4,Attorney General,,Republican,Sean Reyes,512
 Davis,West Point 5,Attorney General,,Independent American,Michael Isbell,22
-Davis,West Point 5,Attorney General,,Democratic,Harper,98
+Davis,West Point 5,Attorney General,,Democratic,Jon Harper,98
 Davis,West Point 5,Attorney General,,Republican,Sean Reyes,553
 Davis,West Point 6,Attorney General,,Independent American,Michael Isbell,10
-Davis,West Point 6,Attorney General,,Democratic,Harper,111
+Davis,West Point 6,Attorney General,,Democratic,Jon Harper,111
 Davis,West Point 6,Attorney General,,Republican,Sean Reyes,354
 Davis,West Point 7,Attorney General,,Independent American,Michael Isbell,11
-Davis,West Point 7,Attorney General,,Democratic,Harper,48
+Davis,West Point 7,Attorney General,,Democratic,Jon Harper,48
 Davis,West Point 7,Attorney General,,Republican,Sean Reyes,172
 Davis,Woods Cross 1,Attorney General,,Independent American,Michael Isbell,18
-Davis,Woods Cross 1,Attorney General,,Democratic,Harper,81
+Davis,Woods Cross 1,Attorney General,,Democratic,Jon Harper,81
 Davis,Woods Cross 1,Attorney General,,Republican,Sean Reyes,255
 Davis,Woods Cross 2,Attorney General,,Independent American,Michael Isbell,18
-Davis,Woods Cross 2,Attorney General,,Democratic,Harper,157
+Davis,Woods Cross 2,Attorney General,,Democratic,Jon Harper,157
 Davis,Woods Cross 2,Attorney General,,Republican,Sean Reyes,564
 Davis,Woods Cross 3,Attorney General,,Independent American,Michael Isbell,29
-Davis,Woods Cross 3,Attorney General,,Democratic,Harper,202
+Davis,Woods Cross 3,Attorney General,,Democratic,Jon Harper,202
 Davis,Woods Cross 3,Attorney General,,Republican,Sean Reyes,621
 Davis,Woods Cross 4,Attorney General,,Independent American,Michael Isbell,18
-Davis,Woods Cross 4,Attorney General,,Democratic,Harper,87
+Davis,Woods Cross 4,Attorney General,,Democratic,Jon Harper,87
 Davis,Woods Cross 4,Attorney General,,Republican,Sean Reyes,208
 Davis,Woods Cross 5,Attorney General,,Independent American,Michael Isbell,17
-Davis,Woods Cross 5,Attorney General,,Democratic,Harper,146
+Davis,Woods Cross 5,Attorney General,,Democratic,Jon Harper,146
 Davis,Woods Cross 5,Attorney General,,Republican,Sean Reyes,397
 Davis,Woods Cross 6,Attorney General,,Independent American,Michael Isbell,21
-Davis,Woods Cross 6,Attorney General,,Democratic,Harper,232
+Davis,Woods Cross 6,Attorney General,,Democratic,Jon Harper,232
 Davis,Woods Cross 6,Attorney General,,Republican,Sean Reyes,735
 Davis,Bountiful 1,Attorney General,,Libertarian,W. Andrew McCullough,46
 Davis,Bountiful 2,Attorney General,,Libertarian,W. Andrew McCullough,46
@@ -8766,607 +8766,607 @@ Davis,Woods Cross 3,Attorney General,,Libertarian,W. Andrew McCullough,54
 Davis,Woods Cross 4,Attorney General,,Libertarian,W. Andrew McCullough,28
 Davis,Woods Cross 5,Attorney General,,Libertarian,W. Andrew McCullough,38
 Davis,Woods Cross 6,Attorney General,,Libertarian,W. Andrew McCullough,71
-Davis,Bountiful 1,State Auditor,,Republican,Dougall,466
+Davis,Bountiful 1,State Auditor,,Republican,John Dougall,466
 Davis,Bountiful 1,State Auditor,,Independent,Green,46
 Davis,Bountiful 1,State Auditor,,Democratic,Mike Mitchell,185
-Davis,Bountiful 2,State Auditor,,Republican,Dougall,429
+Davis,Bountiful 2,State Auditor,,Republican,John Dougall,429
 Davis,Bountiful 2,State Auditor,,Independent,Green,25
 Davis,Bountiful 2,State Auditor,,Democratic,Mike Mitchell,204
-Davis,Bountiful 3,State Auditor,,Republican,Dougall,592
+Davis,Bountiful 3,State Auditor,,Republican,John Dougall,594
 Davis,Bountiful 3,State Auditor,,Independent,Green,47
 Davis,Bountiful 3,State Auditor,,Democratic,Mike Mitchell,213
-Davis,Bountiful 4,State Auditor,,Republican,Dougall,469
+Davis,Bountiful 4,State Auditor,,Republican,John Dougall,469
 Davis,Bountiful 4,State Auditor,,Independent,Green,32
 Davis,Bountiful 4,State Auditor,,Democratic,Mike Mitchell,193
-Davis,Bountiful 5,State Auditor,,Republican,Dougall,649
+Davis,Bountiful 5,State Auditor,,Republican,John Dougall,649
 Davis,Bountiful 5,State Auditor,,Independent,Green,60
 Davis,Bountiful 5,State Auditor,,Democratic,Mike Mitchell,217
-Davis,Bountiful 6,State Auditor,,Republican,Dougall,468
+Davis,Bountiful 6,State Auditor,,Republican,John Dougall,468
 Davis,Bountiful 6,State Auditor,,Independent,Green,67
 Davis,Bountiful 6,State Auditor,,Democratic,Mike Mitchell,220
-Davis,Bountiful 7,State Auditor,,Republican,Dougall,330
+Davis,Bountiful 7,State Auditor,,Republican,John Dougall,330
 Davis,Bountiful 7,State Auditor,,Independent,Green,41
 Davis,Bountiful 7,State Auditor,,Democratic,Mike Mitchell,198
-Davis,Bountiful 8,State Auditor,,Republican,Dougall,534
+Davis,Bountiful 8,State Auditor,,Republican,John Dougall,534
 Davis,Bountiful 8,State Auditor,,Independent,Green,43
 Davis,Bountiful 8,State Auditor,,Democratic,Mike Mitchell,239
-Davis,Bountiful 9,State Auditor,,Republican,Dougall,569
+Davis,Bountiful 9,State Auditor,,Republican,John Dougall,569
 Davis,Bountiful 9,State Auditor,,Independent,Green,40
 Davis,Bountiful 9,State Auditor,,Democratic,Mike Mitchell,171
-Davis,Bountiful 10,State Auditor,,Republican,Dougall,569
+Davis,Bountiful 10,State Auditor,,Republican,John Dougall,569
 Davis,Bountiful 10,State Auditor,,Independent,Green,30
 Davis,Bountiful 10,State Auditor,,Democratic,Mike Mitchell,142
-Davis,Bountiful 11,State Auditor,,Republican,Dougall,544
+Davis,Bountiful 11,State Auditor,,Republican,John Dougall,544
 Davis,Bountiful 11,State Auditor,,Independent,Green,27
 Davis,Bountiful 11,State Auditor,,Democratic,Mike Mitchell,152
-Davis,Bountiful 12,State Auditor,,Republican,Dougall,576
+Davis,Bountiful 12,State Auditor,,Republican,John Dougall,576
 Davis,Bountiful 12,State Auditor,,Independent,Green,37
 Davis,Bountiful 12,State Auditor,,Democratic,Mike Mitchell,178
-Davis,Bountiful 13,State Auditor,,Republican,Dougall,358
+Davis,Bountiful 13,State Auditor,,Republican,John Dougall,358
 Davis,Bountiful 13,State Auditor,,Independent,Green,36
 Davis,Bountiful 13,State Auditor,,Democratic,Mike Mitchell,154
-Davis,Bountiful 14,State Auditor,,Republican,Dougall,304
+Davis,Bountiful 14,State Auditor,,Republican,John Dougall,304
 Davis,Bountiful 14,State Auditor,,Independent,Green,32
 Davis,Bountiful 14,State Auditor,,Democratic,Mike Mitchell,116
-Davis,Bountiful 15,State Auditor,,Republican,Dougall,287
+Davis,Bountiful 15,State Auditor,,Republican,John Dougall,287
 Davis,Bountiful 15,State Auditor,,Independent,Green,20
 Davis,Bountiful 15,State Auditor,,Democratic,Mike Mitchell,137
-Davis,Bountiful 16,State Auditor,,Republican,Dougall,528
+Davis,Bountiful 16,State Auditor,,Republican,John Dougall,528
 Davis,Bountiful 16,State Auditor,,Independent,Green,33
 Davis,Bountiful 16,State Auditor,,Democratic,Mike Mitchell,175
-Davis,Bountiful 17,State Auditor,,Republican,Dougall,536
+Davis,Bountiful 17,State Auditor,,Republican,John Dougall,536
 Davis,Bountiful 17,State Auditor,,Independent,Green,32
 Davis,Bountiful 17,State Auditor,,Democratic,Mike Mitchell,159
-Davis,Bountiful 18,State Auditor,,Republican,Dougall,513
+Davis,Bountiful 18,State Auditor,,Republican,John Dougall,513
 Davis,Bountiful 18,State Auditor,,Independent,Green,31
 Davis,Bountiful 18,State Auditor,,Democratic,Mike Mitchell,189
-Davis,Bountiful 19,State Auditor,,Republican,Dougall,545
+Davis,Bountiful 19,State Auditor,,Republican,John Dougall,545
 Davis,Bountiful 19,State Auditor,,Independent,Green,34
 Davis,Bountiful 19,State Auditor,,Democratic,Mike Mitchell,186
-Davis,Bountiful 20,State Auditor,,Republican,Dougall,430
+Davis,Bountiful 20,State Auditor,,Republican,John Dougall,430
 Davis,Bountiful 20,State Auditor,,Independent,Green,24
 Davis,Bountiful 20,State Auditor,,Democratic,Mike Mitchell,139
-Davis,Bountiful 21,State Auditor,,Republican,Dougall,459
+Davis,Bountiful 21,State Auditor,,Republican,John Dougall,459
 Davis,Bountiful 21,State Auditor,,Independent,Green,43
 Davis,Bountiful 21,State Auditor,,Democratic,Mike Mitchell,217
-Davis,Bountiful 22,State Auditor,,Republican,Dougall,474
+Davis,Bountiful 22,State Auditor,,Republican,John Dougall,474
 Davis,Bountiful 22,State Auditor,,Independent,Green,39
 Davis,Bountiful 22,State Auditor,,Democratic,Mike Mitchell,200
-Davis,Bountiful 23,State Auditor,,Republican,Dougall,563
+Davis,Bountiful 23,State Auditor,,Republican,John Dougall,563
 Davis,Bountiful 23,State Auditor,,Independent,Green,64
 Davis,Bountiful 23,State Auditor,,Democratic,Mike Mitchell,227
-Davis,Bountiful 24,State Auditor,,Republican,Dougall,163
+Davis,Bountiful 24,State Auditor,,Republican,John Dougall,163
 Davis,Bountiful 24,State Auditor,,Independent,Green,15
 Davis,Bountiful 24,State Auditor,,Democratic,Mike Mitchell,68
-Davis,Bountiful 25,State Auditor,,Republican,Dougall,554
+Davis,Bountiful 25,State Auditor,,Republican,John Dougall,554
 Davis,Bountiful 25,State Auditor,,Independent,Green,55
 Davis,Bountiful 25,State Auditor,,Democratic,Mike Mitchell,219
-Davis,Bountiful 26,State Auditor,,Republican,Dougall,442
+Davis,Bountiful 26,State Auditor,,Republican,John Dougall,442
 Davis,Bountiful 26,State Auditor,,Independent,Green,36
 Davis,Bountiful 26,State Auditor,,Democratic,Mike Mitchell,198
-Davis,Bountiful 27,State Auditor,,Republican,Dougall,335
+Davis,Bountiful 27,State Auditor,,Republican,John Dougall,335
 Davis,Bountiful 27,State Auditor,,Independent,Green,26
 Davis,Bountiful 27,State Auditor,,Democratic,Mike Mitchell,140
-Davis,Bountiful 28,State Auditor,,Republican,Dougall,465
+Davis,Bountiful 28,State Auditor,,Republican,John Dougall,465
 Davis,Bountiful 28,State Auditor,,Independent,Green,31
 Davis,Bountiful 28,State Auditor,,Democratic,Mike Mitchell,189
-Davis,Bountiful 29,State Auditor,,Republican,Dougall,389
+Davis,Bountiful 29,State Auditor,,Republican,John Dougall,389
 Davis,Bountiful 29,State Auditor,,Independent,Green,25
 Davis,Bountiful 29,State Auditor,,Democratic,Mike Mitchell,173
-Davis,Bountiful 30,State Auditor,,Republican,Dougall,759
+Davis,Bountiful 30,State Auditor,,Republican,John Dougall,759
 Davis,Bountiful 30,State Auditor,,Independent,Green,33
 Davis,Bountiful 30,State Auditor,,Democratic,Mike Mitchell,211
-Davis,Bountiful 31,State Auditor,,Republican,Dougall,314
+Davis,Bountiful 31,State Auditor,,Republican,John Dougall,314
 Davis,Bountiful 31,State Auditor,,Independent,Green,27
 Davis,Bountiful 31,State Auditor,,Democratic,Mike Mitchell,132
-Davis,Centerville 1,State Auditor,,Republican,Dougall,505
+Davis,Centerville 1,State Auditor,,Republican,John Dougall,505
 Davis,Centerville 1,State Auditor,,Independent,Green,38
 Davis,Centerville 1,State Auditor,,Democratic,Mike Mitchell,192
-Davis,Centerville 2,State Auditor,,Republican,Dougall,549
+Davis,Centerville 2,State Auditor,,Republican,John Dougall,549
 Davis,Centerville 2,State Auditor,,Independent,Green,25
 Davis,Centerville 2,State Auditor,,Democratic,Mike Mitchell,157
-Davis,Centerville 3,State Auditor,,Republican,Dougall,682
+Davis,Centerville 3,State Auditor,,Republican,John Dougall,682
 Davis,Centerville 3,State Auditor,,Independent,Green,58
 Davis,Centerville 3,State Auditor,,Democratic,Mike Mitchell,218
-Davis,Centerville 4,State Auditor,,Republican,Dougall,629
+Davis,Centerville 4,State Auditor,,Republican,John Dougall,629
 Davis,Centerville 4,State Auditor,,Independent,Green,38
 Davis,Centerville 4,State Auditor,,Democratic,Mike Mitchell,197
-Davis,Centerville 5,State Auditor,,Republican,Dougall,594
+Davis,Centerville 5,State Auditor,,Republican,John Dougall,594
 Davis,Centerville 5,State Auditor,,Independent,Green,42
 Davis,Centerville 5,State Auditor,,Democratic,Mike Mitchell,161
-Davis,Centerville 6,State Auditor,,Republican,Dougall,611
+Davis,Centerville 6,State Auditor,,Republican,John Dougall,611
 Davis,Centerville 6,State Auditor,,Independent,Green,53
 Davis,Centerville 6,State Auditor,,Democratic,Mike Mitchell,263
-Davis,Centerville 7,State Auditor,,Republican,Dougall,550
+Davis,Centerville 7,State Auditor,,Republican,John Dougall,550
 Davis,Centerville 7,State Auditor,,Independent,Green,35
 Davis,Centerville 7,State Auditor,,Democratic,Mike Mitchell,131
-Davis,Centerville 8,State Auditor,,Republican,Dougall,447
+Davis,Centerville 8,State Auditor,,Republican,John Dougall,447
 Davis,Centerville 8,State Auditor,,Independent,Green,21
 Davis,Centerville 8,State Auditor,,Democratic,Mike Mitchell,115
-Davis,Centerville 9,State Auditor,,Republican,Dougall,493
+Davis,Centerville 9,State Auditor,,Republican,John Dougall,493
 Davis,Centerville 9,State Auditor,,Independent,Green,25
 Davis,Centerville 9,State Auditor,,Democratic,Mike Mitchell,134
-Davis,Centerville 10,State Auditor,,Republican,Dougall,561
+Davis,Centerville 10,State Auditor,,Republican,John Dougall,561
 Davis,Centerville 10,State Auditor,,Independent,Green,39
 Davis,Centerville 10,State Auditor,,Democratic,Mike Mitchell,144
-Davis,Centerville 11,State Auditor,,Republican,Dougall,394
+Davis,Centerville 11,State Auditor,,Republican,John Dougall,394
 Davis,Centerville 11,State Auditor,,Independent,Green,36
 Davis,Centerville 11,State Auditor,,Democratic,Mike Mitchell,161
-Davis,Clearfield 1,State Auditor,,Republican,Dougall,486
+Davis,Clearfield 1,State Auditor,,Republican,John Dougall,486
 Davis,Clearfield 1,State Auditor,,Independent,Green,77
 Davis,Clearfield 1,State Auditor,,Democratic,Mike Mitchell,276
-Davis,Clearfield 2,State Auditor,,Republican,Dougall,494
+Davis,Clearfield 2,State Auditor,,Republican,John Dougall,494
 Davis,Clearfield 2,State Auditor,,Independent,Green,63
 Davis,Clearfield 2,State Auditor,,Democratic,Mike Mitchell,206
-Davis,Clearfield 3,State Auditor,,Republican,Dougall,287
+Davis,Clearfield 3,State Auditor,,Republican,John Dougall,287
 Davis,Clearfield 3,State Auditor,,Independent,Green,58
 Davis,Clearfield 3,State Auditor,,Democratic,Mike Mitchell,115
-Davis,Clearfield 4,State Auditor,,Republican,Dougall,408
+Davis,Clearfield 4,State Auditor,,Republican,John Dougall,408
 Davis,Clearfield 4,State Auditor,,Independent,Green,79
 Davis,Clearfield 4,State Auditor,,Democratic,Mike Mitchell,273
-Davis,Clearfield 5,State Auditor,,Republican,Dougall,367
+Davis,Clearfield 5,State Auditor,,Republican,John Dougall,367
 Davis,Clearfield 5,State Auditor,,Independent,Green,57
 Davis,Clearfield 5,State Auditor,,Democratic,Mike Mitchell,221
-Davis,Clearfield 6,State Auditor,,Republican,Dougall,361
+Davis,Clearfield 6,State Auditor,,Republican,John Dougall,361
 Davis,Clearfield 6,State Auditor,,Independent,Green,62
 Davis,Clearfield 6,State Auditor,,Democratic,Mike Mitchell,192
-Davis,Clearfield 7,State Auditor,,Republican,Dougall,220
+Davis,Clearfield 7,State Auditor,,Republican,John Dougall,220
 Davis,Clearfield 7,State Auditor,,Independent,Green,47
 Davis,Clearfield 7,State Auditor,,Democratic,Mike Mitchell,143
-Davis,Clearfield 8,State Auditor,,Republican,Dougall,327
+Davis,Clearfield 8,State Auditor,,Republican,John Dougall,327
 Davis,Clearfield 8,State Auditor,,Independent,Green,53
 Davis,Clearfield 8,State Auditor,,Democratic,Mike Mitchell,166
-Davis,Clearfield 9,State Auditor,,Republican,Dougall,451
+Davis,Clearfield 9,State Auditor,,Republican,John Dougall,451
 Davis,Clearfield 9,State Auditor,,Independent,Green,86
 Davis,Clearfield 9,State Auditor,,Democratic,Mike Mitchell,198
-Davis,Clearfield 10,State Auditor,,Republican,Dougall,233
+Davis,Clearfield 10,State Auditor,,Republican,John Dougall,233
 Davis,Clearfield 10,State Auditor,,Independent,Green,51
 Davis,Clearfield 10,State Auditor,,Democratic,Mike Mitchell,146
-Davis,Clearfield 11,State Auditor,,Republican,Dougall,548
+Davis,Clearfield 11,State Auditor,,Republican,John Dougall,548
 Davis,Clearfield 11,State Auditor,,Independent,Green,52
 Davis,Clearfield 11,State Auditor,,Democratic,Mike Mitchell,227
-Davis,Clearfield 12,State Auditor,,Republican,Dougall,311
+Davis,Clearfield 12,State Auditor,,Republican,John Dougall,311
 Davis,Clearfield 12,State Auditor,,Independent,Green,48
 Davis,Clearfield 12,State Auditor,,Democratic,Mike Mitchell,220
-Davis,Clearfield 13,State Auditor,,Republican,Dougall,17
+Davis,Clearfield 13,State Auditor,,Republican,John Dougall,17
 Davis,Clearfield 13,State Auditor,,Independent,Green,6
 Davis,Clearfield 13,State Auditor,,Democratic,Mike Mitchell,10
-Davis,Clearfield 14,State Auditor,,Republican,Dougall,69
+Davis,Clearfield 14,State Auditor,,Republican,John Dougall,69
 Davis,Clearfield 14,State Auditor,,Independent,Green,11
 Davis,Clearfield 14,State Auditor,,Democratic,Mike Mitchell,29
-Davis,Clearfield 15,State Auditor,,Republican,Dougall,30
+Davis,Clearfield 15,State Auditor,,Republican,John Dougall,30
 Davis,Clearfield 15,State Auditor,,Independent,Green,1
 Davis,Clearfield 15,State Auditor,,Democratic,Mike Mitchell,6
-Davis,Clinton 1,State Auditor,,Republican,Dougall,438
+Davis,Clinton 1,State Auditor,,Republican,John Dougall,438
 Davis,Clinton 1,State Auditor,,Independent,Green,74
 Davis,Clinton 1,State Auditor,,Democratic,Mike Mitchell,206
-Davis,Clinton 2,State Auditor,,Republican,Dougall,619
+Davis,Clinton 2,State Auditor,,Republican,John Dougall,619
 Davis,Clinton 2,State Auditor,,Independent,Green,79
 Davis,Clinton 2,State Auditor,,Democratic,Mike Mitchell,208
-Davis,Clinton 3,State Auditor,,Republican,Dougall,157
+Davis,Clinton 3,State Auditor,,Republican,John Dougall,157
 Davis,Clinton 3,State Auditor,,Independent,Green,30
 Davis,Clinton 3,State Auditor,,Democratic,Mike Mitchell,83
-Davis,Clinton 4,State Auditor,,Republican,Dougall,582
+Davis,Clinton 4,State Auditor,,Republican,John Dougall,582
 Davis,Clinton 4,State Auditor,,Independent,Green,75
 Davis,Clinton 4,State Auditor,,Democratic,Mike Mitchell,205
-Davis,Clinton 5,State Auditor,,Republican,Dougall,156
+Davis,Clinton 5,State Auditor,,Republican,John Dougall,156
 Davis,Clinton 5,State Auditor,,Independent,Green,11
 Davis,Clinton 5,State Auditor,,Democratic,Mike Mitchell,63
-Davis,Clinton 6,State Auditor,,Republican,Dougall,407
+Davis,Clinton 6,State Auditor,,Republican,John Dougall,407
 Davis,Clinton 6,State Auditor,,Independent,Green,58
 Davis,Clinton 6,State Auditor,,Democratic,Mike Mitchell,154
-Davis,Clinton 7,State Auditor,,Republican,Dougall,510
+Davis,Clinton 7,State Auditor,,Republican,John Dougall,510
 Davis,Clinton 7,State Auditor,,Independent,Green,58
 Davis,Clinton 7,State Auditor,,Democratic,Mike Mitchell,232
-Davis,Clinton 8,State Auditor,,Republican,Dougall,421
+Davis,Clinton 8,State Auditor,,Republican,John Dougall,421
 Davis,Clinton 8,State Auditor,,Independent,Green,51
 Davis,Clinton 8,State Auditor,,Democratic,Mike Mitchell,173
-Davis,Clinton 9,State Auditor,,Republican,Dougall,492
+Davis,Clinton 9,State Auditor,,Republican,John Dougall,492
 Davis,Clinton 9,State Auditor,,Independent,Green,71
 Davis,Clinton 9,State Auditor,,Democratic,Mike Mitchell,258
-Davis,Clinton 10,State Auditor,,Republican,Dougall,118
+Davis,Clinton 10,State Auditor,,Republican,John Dougall,118
 Davis,Clinton 10,State Auditor,,Independent,Green,27
 Davis,Clinton 10,State Auditor,,Democratic,Mike Mitchell,66
-Davis,Clinton 11,State Auditor,,Republican,Dougall,586
+Davis,Clinton 11,State Auditor,,Republican,John Dougall,586
 Davis,Clinton 11,State Auditor,,Independent,Green,57
 Davis,Clinton 11,State Auditor,,Democratic,Mike Mitchell,249
-Davis,Clinton 12,State Auditor,,Republican,Dougall,295
+Davis,Clinton 12,State Auditor,,Republican,John Dougall,295
 Davis,Clinton 12,State Auditor,,Independent,Green,26
 Davis,Clinton 12,State Auditor,,Democratic,Mike Mitchell,100
-Davis,Farmington 1,State Auditor,,Republican,Dougall,556
+Davis,Farmington 1,State Auditor,,Republican,John Dougall,556
 Davis,Farmington 1,State Auditor,,Independent,Green,38
 Davis,Farmington 1,State Auditor,,Democratic,Mike Mitchell,140
-Davis,Farmington 2,State Auditor,,Republican,Dougall,558
+Davis,Farmington 2,State Auditor,,Republican,John Dougall,558
 Davis,Farmington 2,State Auditor,,Independent,Green,51
 Davis,Farmington 2,State Auditor,,Democratic,Mike Mitchell,149
-Davis,Farmington 3,State Auditor,,Republican,Dougall,477
+Davis,Farmington 3,State Auditor,,Republican,John Dougall,477
 Davis,Farmington 3,State Auditor,,Independent,Green,42
 Davis,Farmington 3,State Auditor,,Democratic,Mike Mitchell,222
-Davis,Farmington 4,State Auditor,,Republican,Dougall,639
+Davis,Farmington 4,State Auditor,,Republican,John Dougall,639
 Davis,Farmington 4,State Auditor,,Independent,Green,44
 Davis,Farmington 4,State Auditor,,Democratic,Mike Mitchell,195
-Davis,Farmington 5,State Auditor,,Republican,Dougall,525
+Davis,Farmington 5,State Auditor,,Republican,John Dougall,525
 Davis,Farmington 5,State Auditor,,Independent,Green,31
 Davis,Farmington 5,State Auditor,,Democratic,Mike Mitchell,139
-Davis,Farmington 6,State Auditor,,Republican,Dougall,666
+Davis,Farmington 6,State Auditor,,Republican,John Dougall,666
 Davis,Farmington 6,State Auditor,,Independent,Green,30
 Davis,Farmington 6,State Auditor,,Democratic,Mike Mitchell,134
-Davis,Farmington 7,State Auditor,,Republican,Dougall,459
+Davis,Farmington 7,State Auditor,,Republican,John Dougall,459
 Davis,Farmington 7,State Auditor,,Independent,Green,34
 Davis,Farmington 7,State Auditor,,Democratic,Mike Mitchell,142
-Davis,Farmington 8,State Auditor,,Republican,Dougall,429
+Davis,Farmington 8,State Auditor,,Republican,John Dougall,429
 Davis,Farmington 8,State Auditor,,Independent,Green,43
 Davis,Farmington 8,State Auditor,,Democratic,Mike Mitchell,150
-Davis,Farmington 9,State Auditor,,Republican,Dougall,631
+Davis,Farmington 9,State Auditor,,Republican,John Dougall,631
 Davis,Farmington 9,State Auditor,,Independent,Green,35
 Davis,Farmington 9,State Auditor,,Democratic,Mike Mitchell,176
-Davis,Farmington 10,State Auditor,,Republican,Dougall,646
+Davis,Farmington 10,State Auditor,,Republican,John Dougall,646
 Davis,Farmington 10,State Auditor,,Independent,Green,42
 Davis,Farmington 10,State Auditor,,Democratic,Mike Mitchell,157
-Davis,Farmington 11,State Auditor,,Republican,Dougall,742
+Davis,Farmington 11,State Auditor,,Republican,John Dougall,742
 Davis,Farmington 11,State Auditor,,Independent,Green,50
 Davis,Farmington 11,State Auditor,,Democratic,Mike Mitchell,226
-Davis,Farmington 12,State Auditor,,Republican,Dougall,435
+Davis,Farmington 12,State Auditor,,Republican,John Dougall,435
 Davis,Farmington 12,State Auditor,,Independent,Green,40
 Davis,Farmington 12,State Auditor,,Democratic,Mike Mitchell,112
-Davis,Farmington 13,State Auditor,,Republican,Dougall,471
+Davis,Farmington 13,State Auditor,,Republican,John Dougall,471
 Davis,Farmington 13,State Auditor,,Independent,Green,29
 Davis,Farmington 13,State Auditor,,Democratic,Mike Mitchell,105
-Davis,Fruit Heights 1,State Auditor,,Republican,Dougall,688
+Davis,Fruit Heights 1,State Auditor,,Republican,John Dougall,688
 Davis,Fruit Heights 1,State Auditor,,Independent,Green,54
 Davis,Fruit Heights 1,State Auditor,,Democratic,Mike Mitchell,190
-Davis,Fruit Heights 2,State Auditor,,Republican,Dougall,527
+Davis,Fruit Heights 2,State Auditor,,Republican,John Dougall,527
 Davis,Fruit Heights 2,State Auditor,,Independent,Green,37
 Davis,Fruit Heights 2,State Auditor,,Democratic,Mike Mitchell,127
-Davis,Fruit Heights 3,State Auditor,,Republican,Dougall,615
+Davis,Fruit Heights 3,State Auditor,,Republican,John Dougall,615
 Davis,Fruit Heights 3,State Auditor,,Independent,Green,44
 Davis,Fruit Heights 3,State Auditor,,Democratic,Mike Mitchell,147
-Davis,Fruit Heights 4,State Auditor,,Republican,Dougall,524
+Davis,Fruit Heights 4,State Auditor,,Republican,John Dougall,524
 Davis,Fruit Heights 4,State Auditor,,Independent,Green,24
 Davis,Fruit Heights 4,State Auditor,,Democratic,Mike Mitchell,103
-Davis,Hill AFB 1,State Auditor,,Republican,Dougall,31
+Davis,Hill AFB 1,State Auditor,,Republican,John Dougall,31
 Davis,Hill AFB 1,State Auditor,,Independent,Green,1
 Davis,Hill AFB 1,State Auditor,,Democratic,Mike Mitchell,7
-Davis,Hill AFB 2,State Auditor,,Republican,Dougall,7
+Davis,Hill AFB 2,State Auditor,,Republican,John Dougall,7
 Davis,Hill AFB 2,State Auditor,,Independent,Green,1
 Davis,Hill AFB 2,State Auditor,,Democratic,Mike Mitchell,3
-Davis,Kaysville 1,State Auditor,,Republican,Dougall,613
+Davis,Kaysville 1,State Auditor,,Republican,John Dougall,613
 Davis,Kaysville 1,State Auditor,,Independent,Green,51
 Davis,Kaysville 1,State Auditor,,Democratic,Mike Mitchell,159
-Davis,Kaysville 2,State Auditor,,Republican,Dougall,646
+Davis,Kaysville 2,State Auditor,,Republican,John Dougall,646
 Davis,Kaysville 2,State Auditor,,Independent,Green,41
 Davis,Kaysville 2,State Auditor,,Democratic,Mike Mitchell,149
-Davis,Kaysville 3,State Auditor,,Republican,Dougall,511
+Davis,Kaysville 3,State Auditor,,Republican,John Dougall,511
 Davis,Kaysville 3,State Auditor,,Independent,Green,49
 Davis,Kaysville 3,State Auditor,,Democratic,Mike Mitchell,141
-Davis,Kaysville 4,State Auditor,,Republican,Dougall,388
+Davis,Kaysville 4,State Auditor,,Republican,John Dougall,388
 Davis,Kaysville 4,State Auditor,,Independent,Green,29
 Davis,Kaysville 4,State Auditor,,Democratic,Mike Mitchell,96
-Davis,Kaysville 5,State Auditor,,Republican,Dougall,448
+Davis,Kaysville 5,State Auditor,,Republican,John Dougall,448
 Davis,Kaysville 5,State Auditor,,Independent,Green,51
 Davis,Kaysville 5,State Auditor,,Democratic,Mike Mitchell,186
-Davis,Kaysville 6,State Auditor,,Republican,Dougall,630
+Davis,Kaysville 6,State Auditor,,Republican,John Dougall,630
 Davis,Kaysville 6,State Auditor,,Independent,Green,66
 Davis,Kaysville 6,State Auditor,,Democratic,Mike Mitchell,181
-Davis,Kaysville 7,State Auditor,,Republican,Dougall,458
+Davis,Kaysville 7,State Auditor,,Republican,John Dougall,458
 Davis,Kaysville 7,State Auditor,,Independent,Green,25
 Davis,Kaysville 7,State Auditor,,Democratic,Mike Mitchell,101
-Davis,Kaysville 8,State Auditor,,Republican,Dougall,163
+Davis,Kaysville 8,State Auditor,,Republican,John Dougall,463
 Davis,Kaysville 8,State Auditor,,Independent,Green,31
 Davis,Kaysville 8,State Auditor,,Democratic,Mike Mitchell,119
-Davis,Kaysville 9,State Auditor,,Republican,Dougall,409
+Davis,Kaysville 9,State Auditor,,Republican,John Dougall,409
 Davis,Kaysville 9,State Auditor,,Independent,Green,32
 Davis,Kaysville 9,State Auditor,,Democratic,Mike Mitchell,146
-Davis,Kaysville 10,State Auditor,,Republican,Dougall,533
+Davis,Kaysville 10,State Auditor,,Republican,John Dougall,533
 Davis,Kaysville 10,State Auditor,,Independent,Green,59
 Davis,Kaysville 10,State Auditor,,Democratic,Mike Mitchell,186
-Davis,Kaysville 11,State Auditor,,Republican,Dougall,677
+Davis,Kaysville 11,State Auditor,,Republican,John Dougall,677
 Davis,Kaysville 11,State Auditor,,Independent,Green,32
 Davis,Kaysville 11,State Auditor,,Democratic,Mike Mitchell,103
-Davis,Kaysville 12,State Auditor,,Republican,Dougall,714
+Davis,Kaysville 12,State Auditor,,Republican,John Dougall,714
 Davis,Kaysville 12,State Auditor,,Independent,Green,50
 Davis,Kaysville 12,State Auditor,,Democratic,Mike Mitchell,153
-Davis,Kaysville 13,State Auditor,,Republican,Dougall,466
+Davis,Kaysville 13,State Auditor,,Republican,John Dougall,466
 Davis,Kaysville 13,State Auditor,,Independent,Green,29
 Davis,Kaysville 13,State Auditor,,Democratic,Mike Mitchell,112
-Davis,Kaysville 14,State Auditor,,Republican,Dougall,497
+Davis,Kaysville 14,State Auditor,,Republican,John Dougall,497
 Davis,Kaysville 14,State Auditor,,Independent,Green,26
 Davis,Kaysville 14,State Auditor,,Democratic,Mike Mitchell,91
-Davis,Kaysville 15,State Auditor,,Republican,Dougall,470
+Davis,Kaysville 15,State Auditor,,Republican,John Dougall,470
 Davis,Kaysville 15,State Auditor,,Independent,Green,28
 Davis,Kaysville 15,State Auditor,,Democratic,Mike Mitchell,96
-Davis,Kaysville 16,State Auditor,,Republican,Dougall,440
+Davis,Kaysville 16,State Auditor,,Republican,John Dougall,440
 Davis,Kaysville 16,State Auditor,,Independent,Green,30
 Davis,Kaysville 16,State Auditor,,Democratic,Mike Mitchell,87
-Davis,Kaysville 17,State Auditor,,Republican,Dougall,559
+Davis,Kaysville 17,State Auditor,,Republican,John Dougall,559
 Davis,Kaysville 17,State Auditor,,Independent,Green,29
 Davis,Kaysville 17,State Auditor,,Democratic,Mike Mitchell,110
-Davis,Kaysville 18,State Auditor,,Republican,Dougall,738
+Davis,Kaysville 18,State Auditor,,Republican,John Dougall,738
 Davis,Kaysville 18,State Auditor,,Independent,Green,29
 Davis,Kaysville 18,State Auditor,,Democratic,Mike Mitchell,116
-Davis,Kaysville 19,State Auditor,,Republican,Dougall,715
+Davis,Kaysville 19,State Auditor,,Republican,John Dougall,715
 Davis,Kaysville 19,State Auditor,,Independent,Green,50
 Davis,Kaysville 19,State Auditor,,Democratic,Mike Mitchell,104
-Davis,Kaysville 20,State Auditor,,Republican,Dougall,524
+Davis,Kaysville 20,State Auditor,,Republican,John Dougall,524
 Davis,Kaysville 20,State Auditor,,Independent,Green,26
 Davis,Kaysville 20,State Auditor,,Democratic,Mike Mitchell,67
-Davis,Layton 1,State Auditor,,Republican,Dougall,351
+Davis,Layton 1,State Auditor,,Republican,John Dougall,351
 Davis,Layton 1,State Auditor,,Independent,Green,23
 Davis,Layton 1,State Auditor,,Democratic,Mike Mitchell,104
-Davis,Layton 2,State Auditor,,Republican,Dougall,544
+Davis,Layton 2,State Auditor,,Republican,John Dougall,544
 Davis,Layton 2,State Auditor,,Independent,Green,46
 Davis,Layton 2,State Auditor,,Democratic,Mike Mitchell,227
-Davis,Layton 3,State Auditor,,Republican,Dougall,314
+Davis,Layton 3,State Auditor,,Republican,John Dougall,314
 Davis,Layton 3,State Auditor,,Independent,Green,29
 Davis,Layton 3,State Auditor,,Democratic,Mike Mitchell,109
-Davis,Layton 4,State Auditor,,Republican,Dougall,360
+Davis,Layton 4,State Auditor,,Republican,John Dougall,360
 Davis,Layton 4,State Auditor,,Independent,Green,46
 Davis,Layton 4,State Auditor,,Democratic,Mike Mitchell,126
-Davis,Layton 5,State Auditor,,Republican,Dougall,395
+Davis,Layton 5,State Auditor,,Republican,John Dougall,395
 Davis,Layton 5,State Auditor,,Independent,Green,36
 Davis,Layton 5,State Auditor,,Democratic,Mike Mitchell,134
-Davis,Layton 6,State Auditor,,Republican,Dougall,591
+Davis,Layton 6,State Auditor,,Republican,John Dougall,591
 Davis,Layton 6,State Auditor,,Independent,Green,56
 Davis,Layton 6,State Auditor,,Democratic,Mike Mitchell,150
-Davis,Layton 7,State Auditor,,Republican,Dougall,478
+Davis,Layton 7,State Auditor,,Republican,John Dougall,478
 Davis,Layton 7,State Auditor,,Independent,Green,45
 Davis,Layton 7,State Auditor,,Democratic,Mike Mitchell,208
-Davis,Layton 8,State Auditor,,Republican,Dougall,285
+Davis,Layton 8,State Auditor,,Republican,John Dougall,285
 Davis,Layton 8,State Auditor,,Independent,Green,28
 Davis,Layton 8,State Auditor,,Democratic,Mike Mitchell,115
-Davis,Layton 9,State Auditor,,Republican,Dougall,410
+Davis,Layton 9,State Auditor,,Republican,John Dougall,410
 Davis,Layton 9,State Auditor,,Independent,Green,42
 Davis,Layton 9,State Auditor,,Democratic,Mike Mitchell,157
-Davis,Layton 10,State Auditor,,Republican,Dougall,307
+Davis,Layton 10,State Auditor,,Republican,John Dougall,307
 Davis,Layton 10,State Auditor,,Independent,Green,65
 Davis,Layton 10,State Auditor,,Democratic,Mike Mitchell,186
-Davis,Layton 11,State Auditor,,Republican,Dougall,350
+Davis,Layton 11,State Auditor,,Republican,John Dougall,350
 Davis,Layton 11,State Auditor,,Independent,Green,40
 Davis,Layton 11,State Auditor,,Democratic,Mike Mitchell,161
-Davis,Layton 12,State Auditor,,Republican,Dougall,503
+Davis,Layton 12,State Auditor,,Republican,John Dougall,503
 Davis,Layton 12,State Auditor,,Independent,Green,56
 Davis,Layton 12,State Auditor,,Democratic,Mike Mitchell,252
-Davis,Layton 13,State Auditor,,Republican,Dougall,286
+Davis,Layton 13,State Auditor,,Republican,John Dougall,286
 Davis,Layton 13,State Auditor,,Independent,Green,66
 Davis,Layton 13,State Auditor,,Democratic,Mike Mitchell,150
-Davis,Layton 14,State Auditor,,Republican,Dougall,266
+Davis,Layton 14,State Auditor,,Republican,John Dougall,266
 Davis,Layton 14,State Auditor,,Independent,Green,59
 Davis,Layton 14,State Auditor,,Democratic,Mike Mitchell,203
-Davis,Layton 15,State Auditor,,Republican,Dougall,501
+Davis,Layton 15,State Auditor,,Republican,John Dougall,501
 Davis,Layton 15,State Auditor,,Independent,Green,60
 Davis,Layton 15,State Auditor,,Democratic,Mike Mitchell,223
-Davis,Layton 16,State Auditor,,Republican,Dougall,301
+Davis,Layton 16,State Auditor,,Republican,John Dougall,301
 Davis,Layton 16,State Auditor,,Independent,Green,44
 Davis,Layton 16,State Auditor,,Democratic,Mike Mitchell,111
-Davis,Layton 17,State Auditor,,Republican,Dougall,346
+Davis,Layton 17,State Auditor,,Republican,John Dougall,346
 Davis,Layton 17,State Auditor,,Independent,Green,64
 Davis,Layton 17,State Auditor,,Democratic,Mike Mitchell,163
-Davis,Layton 18,State Auditor,,Republican,Dougall,347
+Davis,Layton 18,State Auditor,,Republican,John Dougall,347
 Davis,Layton 18,State Auditor,,Independent,Green,33
 Davis,Layton 18,State Auditor,,Democratic,Mike Mitchell,114
-Davis,Layton 19,State Auditor,,Republican,Dougall,411
+Davis,Layton 19,State Auditor,,Republican,John Dougall,411
 Davis,Layton 19,State Auditor,,Independent,Green,51
 Davis,Layton 19,State Auditor,,Democratic,Mike Mitchell,160
-Davis,Layton 20,State Auditor,,Republican,Dougall,554
+Davis,Layton 20,State Auditor,,Republican,John Dougall,554
 Davis,Layton 20,State Auditor,,Independent,Green,49
 Davis,Layton 20,State Auditor,,Democratic,Mike Mitchell,194
-Davis,Layton 21,State Auditor,,Republican,Dougall,408
+Davis,Layton 21,State Auditor,,Republican,John Dougall,408
 Davis,Layton 21,State Auditor,,Independent,Green,41
 Davis,Layton 21,State Auditor,,Democratic,Mike Mitchell,149
-Davis,Layton 22,State Auditor,,Republican,Dougall,510
+Davis,Layton 22,State Auditor,,Republican,John Dougall,510
 Davis,Layton 22,State Auditor,,Independent,Green,46
 Davis,Layton 22,State Auditor,,Democratic,Mike Mitchell,196
-Davis,Layton 23,State Auditor,,Republican,Dougall,521
+Davis,Layton 23,State Auditor,,Republican,John Dougall,521
 Davis,Layton 23,State Auditor,,Independent,Green,52
 Davis,Layton 23,State Auditor,,Democratic,Mike Mitchell,239
-Davis,Layton 24,State Auditor,,Republican,Dougall,615
+Davis,Layton 24,State Auditor,,Republican,John Dougall,615
 Davis,Layton 24,State Auditor,,Independent,Green,40
 Davis,Layton 24,State Auditor,,Democratic,Mike Mitchell,191
-Davis,Layton 25,State Auditor,,Republican,Dougall,225
+Davis,Layton 25,State Auditor,,Republican,John Dougall,225
 Davis,Layton 25,State Auditor,,Independent,Green,20
 Davis,Layton 25,State Auditor,,Democratic,Mike Mitchell,80
-Davis,Layton 26,State Auditor,,Republican,Dougall,622
+Davis,Layton 26,State Auditor,,Republican,John Dougall,622
 Davis,Layton 26,State Auditor,,Independent,Green,62
 Davis,Layton 26,State Auditor,,Democratic,Mike Mitchell,191
-Davis,Layton 27,State Auditor,,Republican,Dougall,315
+Davis,Layton 27,State Auditor,,Republican,John Dougall,315
 Davis,Layton 27,State Auditor,,Independent,Green,58
 Davis,Layton 27,State Auditor,,Democratic,Mike Mitchell,208
-Davis,Layton 28,State Auditor,,Republican,Dougall,555
+Davis,Layton 28,State Auditor,,Republican,John Dougall,555
 Davis,Layton 28,State Auditor,,Independent,Green,66
 Davis,Layton 28,State Auditor,,Democratic,Mike Mitchell,231
-Davis,Layton 29,State Auditor,,Republican,Dougall,95
+Davis,Layton 29,State Auditor,,Republican,John Dougall,95
 Davis,Layton 29,State Auditor,,Independent,Green,17
 Davis,Layton 29,State Auditor,,Democratic,Mike Mitchell,73
-Davis,Layton 30,State Auditor,,Republican,Dougall,354
+Davis,Layton 30,State Auditor,,Republican,John Dougall,354
 Davis,Layton 30,State Auditor,,Independent,Green,55
 Davis,Layton 30,State Auditor,,Democratic,Mike Mitchell,218
-Davis,Layton 31,State Auditor,,Republican,Dougall,385
+Davis,Layton 31,State Auditor,,Republican,John Dougall,385
 Davis,Layton 31,State Auditor,,Independent,Green,55
 Davis,Layton 31,State Auditor,,Democratic,Mike Mitchell,172
-Davis,Layton 32,State Auditor,,Republican,Dougall,472
+Davis,Layton 32,State Auditor,,Republican,John Dougall,472
 Davis,Layton 32,State Auditor,,Independent,Green,32
 Davis,Layton 32,State Auditor,,Democratic,Mike Mitchell,149
-Davis,Layton 33,State Auditor,,Republican,Dougall,663
+Davis,Layton 33,State Auditor,,Republican,John Dougall,663
 Davis,Layton 33,State Auditor,,Independent,Green,66
 Davis,Layton 33,State Auditor,,Democratic,Mike Mitchell,154
-Davis,Layton 34,State Auditor,,Republican,Dougall,798
+Davis,Layton 34,State Auditor,,Republican,John Dougall,798
 Davis,Layton 34,State Auditor,,Independent,Green,53
 Davis,Layton 34,State Auditor,,Democratic,Mike Mitchell,144
-Davis,Layton 35,State Auditor,,Republican,Dougall,432
+Davis,Layton 35,State Auditor,,Republican,John Dougall,432
 Davis,Layton 35,State Auditor,,Independent,Green,30
 Davis,Layton 35,State Auditor,,Democratic,Mike Mitchell,91
-Davis,Layton 36,State Auditor,,Republican,Dougall,585
+Davis,Layton 36,State Auditor,,Republican,John Dougall,585
 Davis,Layton 36,State Auditor,,Independent,Green,50
 Davis,Layton 36,State Auditor,,Democratic,Mike Mitchell,158
-Davis,Layton 37,State Auditor,,Republican,Dougall,532
+Davis,Layton 37,State Auditor,,Republican,John Dougall,532
 Davis,Layton 37,State Auditor,,Independent,Green,44
 Davis,Layton 37,State Auditor,,Democratic,Mike Mitchell,159
-Davis,Layton 38,State Auditor,,Republican,Dougall,381
+Davis,Layton 38,State Auditor,,Republican,John Dougall,381
 Davis,Layton 38,State Auditor,,Independent,Green,43
 Davis,Layton 38,State Auditor,,Democratic,Mike Mitchell,170
-Davis,Layton 39,State Auditor,,Republican,Dougall,459
+Davis,Layton 39,State Auditor,,Republican,John Dougall,459
 Davis,Layton 39,State Auditor,,Independent,Green,47
 Davis,Layton 39,State Auditor,,Democratic,Mike Mitchell,163
-Davis,Layton 40,State Auditor,,Republican,Dougall,496
+Davis,Layton 40,State Auditor,,Republican,John Dougall,496
 Davis,Layton 40,State Auditor,,Independent,Green,46
 Davis,Layton 40,State Auditor,,Democratic,Mike Mitchell,220
-Davis,Layton 41,State Auditor,,Republican,Dougall,607
+Davis,Layton 41,State Auditor,,Republican,John Dougall,607
 Davis,Layton 41,State Auditor,,Independent,Green,58
 Davis,Layton 41,State Auditor,,Democratic,Mike Mitchell,177
-Davis,Layton 42,State Auditor,,Republican,Dougall,367
+Davis,Layton 42,State Auditor,,Republican,John Dougall,367
 Davis,Layton 42,State Auditor,,Independent,Green,45
 Davis,Layton 42,State Auditor,,Democratic,Mike Mitchell,155
-Davis,Layton 43,State Auditor,,Republican,Dougall,292
+Davis,Layton 43,State Auditor,,Republican,John Dougall,292
 Davis,Layton 43,State Auditor,,Independent,Green,69
 Davis,Layton 43,State Auditor,,Democratic,Mike Mitchell,215
-Davis,Layton 44,State Auditor,,Republican,Dougall,491
+Davis,Layton 44,State Auditor,,Republican,John Dougall,491
 Davis,Layton 44,State Auditor,,Independent,Green,33
 Davis,Layton 44,State Auditor,,Democratic,Mike Mitchell,94
-Davis,North Salt Lake 1,State Auditor,,Republican,Dougall,480
+Davis,North Salt Lake 1,State Auditor,,Republican,John Dougall,480
 Davis,North Salt Lake 1,State Auditor,,Independent,Green,44
 Davis,North Salt Lake 1,State Auditor,,Democratic,Mike Mitchell,263
-Davis,North Salt Lake 2,State Auditor,,Republican,Dougall,573
+Davis,North Salt Lake 2,State Auditor,,Republican,John Dougall,573
 Davis,North Salt Lake 2,State Auditor,,Independent,Green,65
 Davis,North Salt Lake 2,State Auditor,,Democratic,Mike Mitchell,352
-Davis,North Salt Lake 3,State Auditor,,Republican,Dougall,425
+Davis,North Salt Lake 3,State Auditor,,Republican,John Dougall,425
 Davis,North Salt Lake 3,State Auditor,,Independent,Green,67
 Davis,North Salt Lake 3,State Auditor,,Democratic,Mike Mitchell,271
-Davis,North Salt Lake 4,State Auditor,,Republican,Dougall,533
+Davis,North Salt Lake 4,State Auditor,,Republican,John Dougall,533
 Davis,North Salt Lake 4,State Auditor,,Independent,Green,56
 Davis,North Salt Lake 4,State Auditor,,Democratic,Mike Mitchell,245
-Davis,North Salt Lake 5,State Auditor,,Republican,Dougall,759
+Davis,North Salt Lake 5,State Auditor,,Republican,John Dougall,759
 Davis,North Salt Lake 5,State Auditor,,Independent,Green,31
 Davis,North Salt Lake 5,State Auditor,,Democratic,Mike Mitchell,182
-Davis,North Salt Lake 6,State Auditor,,Republican,Dougall,565
+Davis,North Salt Lake 6,State Auditor,,Republican,John Dougall,565
 Davis,North Salt Lake 6,State Auditor,,Independent,Green,30
 Davis,North Salt Lake 6,State Auditor,,Democratic,Mike Mitchell,217
-Davis,North Salt Lake 7,State Auditor,,Republican,Dougall,265
+Davis,North Salt Lake 7,State Auditor,,Republican,John Dougall,265
 Davis,North Salt Lake 7,State Auditor,,Independent,Green,26
 Davis,North Salt Lake 7,State Auditor,,Democratic,Mike Mitchell,116
-Davis,North Salt Lake 8,State Auditor,,Republican,Dougall,513
+Davis,North Salt Lake 8,State Auditor,,Republican,John Dougall,513
 Davis,North Salt Lake 8,State Auditor,,Independent,Green,28
 Davis,North Salt Lake 8,State Auditor,,Democratic,Mike Mitchell,241
-Davis,North Salt Lake 9,State Auditor,,Republican,Dougall,468
+Davis,North Salt Lake 9,State Auditor,,Republican,John Dougall,468
 Davis,North Salt Lake 9,State Auditor,,Independent,Green,57
 Davis,North Salt Lake 9,State Auditor,,Democratic,Mike Mitchell,263
-Davis,North Salt Lake 10,State Auditor,,Republican,Dougall,388
+Davis,North Salt Lake 10,State Auditor,,Republican,John Dougall,388
 Davis,North Salt Lake 10,State Auditor,,Independent,Green,48
 Davis,North Salt Lake 10,State Auditor,,Democratic,Mike Mitchell,267
-Davis,South Weber 1,State Auditor,,Republican,Dougall,713
+Davis,South Weber 1,State Auditor,,Republican,John Dougall,713
 Davis,South Weber 1,State Auditor,,Independent,Green,78
 Davis,South Weber 1,State Auditor,,Democratic,Mike Mitchell,213
-Davis,South Weber 2,State Auditor,,Republican,Dougall,686
+Davis,South Weber 2,State Auditor,,Republican,John Dougall,686
 Davis,South Weber 2,State Auditor,,Independent,Green,62
 Davis,South Weber 2,State Auditor,,Democratic,Mike Mitchell,214
-Davis,South Weber 3,State Auditor,,Republican,Dougall,773
+Davis,South Weber 3,State Auditor,,Republican,John Dougall,773
 Davis,South Weber 3,State Auditor,,Independent,Green,65
 Davis,South Weber 3,State Auditor,,Democratic,Mike Mitchell,222
-Davis,South Weber 4,State Auditor,,Republican,Dougall,3
+Davis,South Weber 4,State Auditor,,Republican,John Dougall,3
 Davis,South Weber 4,State Auditor,,Independent,Green,0
 Davis,South Weber 4,State Auditor,,Democratic,Mike Mitchell,3
-Davis,Sunset 1,State Auditor,,Republican,Dougall,194
+Davis,Sunset 1,State Auditor,,Republican,John Dougall,194
 Davis,Sunset 1,State Auditor,,Independent,Green,42
 Davis,Sunset 1,State Auditor,,Democratic,Mike Mitchell,157
-Davis,Sunset 2,State Auditor,,Republican,Dougall,296
+Davis,Sunset 2,State Auditor,,Republican,John Dougall,296
 Davis,Sunset 2,State Auditor,,Independent,Green,74
 Davis,Sunset 2,State Auditor,,Democratic,Mike Mitchell,215
-Davis,Sunset 3,State Auditor,,Republican,Dougall,420
+Davis,Sunset 3,State Auditor,,Republican,John Dougall,420
 Davis,Sunset 3,State Auditor,,Independent,Green,70
 Davis,Sunset 3,State Auditor,,Democratic,Mike Mitchell,177
-Davis,Syracuse 1,State Auditor,,Republican,Dougall,599
+Davis,Syracuse 1,State Auditor,,Republican,John Dougall,599
 Davis,Syracuse 1,State Auditor,,Independent,Green,57
 Davis,Syracuse 1,State Auditor,,Democratic,Mike Mitchell,165
-Davis,Syracuse 2,State Auditor,,Republican,Dougall,351
+Davis,Syracuse 2,State Auditor,,Republican,John Dougall,351
 Davis,Syracuse 2,State Auditor,,Independent,Green,48
 Davis,Syracuse 2,State Auditor,,Democratic,Mike Mitchell,104
-Davis,Syracuse 3,State Auditor,,Republican,Dougall,697
+Davis,Syracuse 3,State Auditor,,Republican,John Dougall,697
 Davis,Syracuse 3,State Auditor,,Independent,Green,62
 Davis,Syracuse 3,State Auditor,,Democratic,Mike Mitchell,182
-Davis,Syracuse 4,State Auditor,,Republican,Dougall,352
+Davis,Syracuse 4,State Auditor,,Republican,John Dougall,352
 Davis,Syracuse 4,State Auditor,,Independent,Green,54
 Davis,Syracuse 4,State Auditor,,Democratic,Mike Mitchell,134
-Davis,Syracuse 5,State Auditor,,Republican,Dougall,716
+Davis,Syracuse 5,State Auditor,,Republican,John Dougall,716
 Davis,Syracuse 5,State Auditor,,Independent,Green,62
 Davis,Syracuse 5,State Auditor,,Democratic,Mike Mitchell,187
-Davis,Syracuse 6,State Auditor,,Republican,Dougall,601
+Davis,Syracuse 6,State Auditor,,Republican,John Dougall,601
 Davis,Syracuse 6,State Auditor,,Independent,Green,55
 Davis,Syracuse 6,State Auditor,,Democratic,Mike Mitchell,161
-Davis,Syracuse 7,State Auditor,,Republican,Dougall,595
+Davis,Syracuse 7,State Auditor,,Republican,John Dougall,595
 Davis,Syracuse 7,State Auditor,,Independent,Green,62
 Davis,Syracuse 7,State Auditor,,Democratic,Mike Mitchell,177
-Davis,Syracuse 8,State Auditor,,Republican,Dougall,518
+Davis,Syracuse 8,State Auditor,,Republican,John Dougall,518
 Davis,Syracuse 8,State Auditor,,Independent,Green,55
 Davis,Syracuse 8,State Auditor,,Democratic,Mike Mitchell,141
-Davis,Syracuse 9,State Auditor,,Republican,Dougall,724
+Davis,Syracuse 9,State Auditor,,Republican,John Dougall,724
 Davis,Syracuse 9,State Auditor,,Independent,Green,42
 Davis,Syracuse 9,State Auditor,,Democratic,Mike Mitchell,150
-Davis,Syracuse 10,State Auditor,,Republican,Dougall,386
+Davis,Syracuse 10,State Auditor,,Republican,John Dougall,386
 Davis,Syracuse 10,State Auditor,,Independent,Green,30
 Davis,Syracuse 10,State Auditor,,Democratic,Mike Mitchell,98
-Davis,Syracuse 11,State Auditor,,Republican,Dougall,547
+Davis,Syracuse 11,State Auditor,,Republican,John Dougall,547
 Davis,Syracuse 11,State Auditor,,Independent,Green,41
 Davis,Syracuse 11,State Auditor,,Democratic,Mike Mitchell,153
-Davis,Syracuse 12,State Auditor,,Republican,Dougall,741
+Davis,Syracuse 12,State Auditor,,Republican,John Dougall,741
 Davis,Syracuse 12,State Auditor,,Independent,Green,35
 Davis,Syracuse 12,State Auditor,,Democratic,Mike Mitchell,137
-Davis,Syracuse 13,State Auditor,,Republican,Dougall,482
+Davis,Syracuse 13,State Auditor,,Republican,John Dougall,582
 Davis,Syracuse 13,State Auditor,,Independent,Green,63
 Davis,Syracuse 13,State Auditor,,Democratic,Mike Mitchell,193
-Davis,Syracuse 14,State Auditor,,Republican,Dougall,411
+Davis,Syracuse 14,State Auditor,,Republican,John Dougall,411
 Davis,Syracuse 14,State Auditor,,Independent,Green,41
 Davis,Syracuse 14,State Auditor,,Democratic,Mike Mitchell,123
-Davis,Syracuse 15,State Auditor,,Republican,Dougall,0
+Davis,Syracuse 15,State Auditor,,Republican,John Dougall,0
 Davis,Syracuse 15,State Auditor,,Independent,Green,0
 Davis,Syracuse 15,State Auditor,,Democratic,Mike Mitchell,0
-Davis,West Bountiful 1,State Auditor,,Republican,Dougall,385
+Davis,West Bountiful 1,State Auditor,,Republican,John Dougall,385
 Davis,West Bountiful 1,State Auditor,,Independent,Green,32
 Davis,West Bountiful 1,State Auditor,,Democratic,Mike Mitchell,128
-Davis,West Bountiful 2,State Auditor,,Republican,Dougall,573
+Davis,West Bountiful 2,State Auditor,,Republican,John Dougall,573
 Davis,West Bountiful 2,State Auditor,,Independent,Green,47
 Davis,West Bountiful 2,State Auditor,,Democratic,Mike Mitchell,167
-Davis,West Bountiful 3,State Auditor,,Republican,Dougall,580
+Davis,West Bountiful 3,State Auditor,,Republican,John Dougall,580
 Davis,West Bountiful 3,State Auditor,,Independent,Green,54
 Davis,West Bountiful 3,State Auditor,,Democratic,Mike Mitchell,158
-Davis,West Bountiful 4,State Auditor,,Republican,Dougall,268
+Davis,West Bountiful 4,State Auditor,,Republican,John Dougall,268
 Davis,West Bountiful 4,State Auditor,,Independent,Green,42
 Davis,West Bountiful 4,State Auditor,,Democratic,Mike Mitchell,101
-Davis,West Point 1,State Auditor,,Republican,Dougall,552
+Davis,West Point 1,State Auditor,,Republican,John Dougall,552
 Davis,West Point 1,State Auditor,,Independent,Green,46
 Davis,West Point 1,State Auditor,,Democratic,Mike Mitchell,153
-Davis,West Point 2,State Auditor,,Republican,Dougall,392
+Davis,West Point 2,State Auditor,,Republican,John Dougall,392
 Davis,West Point 2,State Auditor,,Independent,Green,42
 Davis,West Point 2,State Auditor,,Democratic,Mike Mitchell,113
-Davis,West Point 3,State Auditor,,Republican,Dougall,592
+Davis,West Point 3,State Auditor,,Republican,John Dougall,592
 Davis,West Point 3,State Auditor,,Independent,Green,67
 Davis,West Point 3,State Auditor,,Democratic,Mike Mitchell,205
-Davis,West Point 4,State Auditor,,Republican,Dougall,491
+Davis,West Point 4,State Auditor,,Republican,John Dougall,491
 Davis,West Point 4,State Auditor,,Independent,Green,40
 Davis,West Point 4,State Auditor,,Democratic,Mike Mitchell,141
-Davis,West Point 5,State Auditor,,Republican,Dougall,538
+Davis,West Point 5,State Auditor,,Republican,John Dougall,538
 Davis,West Point 5,State Auditor,,Independent,Green,52
 Davis,West Point 5,State Auditor,,Democratic,Mike Mitchell,129
-Davis,West Point 6,State Auditor,,Republican,Dougall,330
+Davis,West Point 6,State Auditor,,Republican,John Dougall,330
 Davis,West Point 6,State Auditor,,Independent,Green,32
 Davis,West Point 6,State Auditor,,Democratic,Mike Mitchell,136
-Davis,West Point 7,State Auditor,,Republican,Dougall,165
+Davis,West Point 7,State Auditor,,Republican,John Dougall,165
 Davis,West Point 7,State Auditor,,Independent,Green,21
 Davis,West Point 7,State Auditor,,Democratic,Mike Mitchell,55
-Davis,Woods Cross 1,State Auditor,,Republican,Dougall,241
+Davis,Woods Cross 1,State Auditor,,Republican,John Dougall,241
 Davis,Woods Cross 1,State Auditor,,Independent,Green,35
 Davis,Woods Cross 1,State Auditor,,Democratic,Mike Mitchell,108
-Davis,Woods Cross 2,State Auditor,,Republican,Dougall,549
+Davis,Woods Cross 2,State Auditor,,Republican,John Dougall,549
 Davis,Woods Cross 2,State Auditor,,Independent,Green,42
 Davis,Woods Cross 2,State Auditor,,Democratic,Mike Mitchell,184
-Davis,Woods Cross 3,State Auditor,,Republican,Dougall,571
+Davis,Woods Cross 3,State Auditor,,Republican,John Dougall,571
 Davis,Woods Cross 3,State Auditor,,Independent,Green,61
 Davis,Woods Cross 3,State Auditor,,Democratic,Mike Mitchell,256
-Davis,Woods Cross 4,State Auditor,,Republican,Dougall,193
+Davis,Woods Cross 4,State Auditor,,Republican,John Dougall,193
 Davis,Woods Cross 4,State Auditor,,Independent,Green,29
 Davis,Woods Cross 4,State Auditor,,Democratic,Mike Mitchell,111
-Davis,Woods Cross 5,State Auditor,,Republican,Dougall,360
+Davis,Woods Cross 5,State Auditor,,Republican,John Dougall,360
 Davis,Woods Cross 5,State Auditor,,Independent,Green,42
 Davis,Woods Cross 5,State Auditor,,Democratic,Mike Mitchell,185
-Davis,Woods Cross 6,State Auditor,,Republican,Dougall,691
+Davis,Woods Cross 6,State Auditor,,Republican,John Dougall,691
 Davis,Woods Cross 6,State Auditor,,Independent,Green,80
 Davis,Woods Cross 6,State Auditor,,Democratic,Mike Mitchell,278
 Davis,Bountiful 1,State Treasurer,,Constitution,Richard Proctor,55
