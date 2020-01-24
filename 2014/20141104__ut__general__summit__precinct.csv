@@ -1,0 +1,939 @@
+﻿county,party,district,candidate,precinct,office,votes,early_voting,election_day
+Summit,,,,1 Deer Valley North,Registered Voters,414,,
+Summit,,,,2 Old Town South,Registered Voters,278,,
+Summit,,,,3 Prospector,Registered Voters,340,,
+Summit,,,,4 Thaynes Canyon,Registered Voters,486,,
+Summit,,,,5 Park Meadows South,Registered Voters,506,,
+Summit,,,,6 Quarry Mountain,Registered Voters,822,,
+Summit,,,,7 Park West,Registered Voters,1251,,
+Summit,,,,8 Silver Creek Upper,Registered Voters,335,,
+Summit,,,,9 Lower Pinebrook,Registered Voters,973,,
+Summit,,,,10 Summit Park West,Registered Voters,320,,
+Summit,,,,11 South Summit South,Registered Voters,346,,
+Summit,,,,12 Kamas,Registered Voters,779,,
+Summit,,,,13 South Summit East,Registered Voters,398,,
+Summit,,,,14 Oakley,Registered Voters,810,,
+Summit,,,,15:2 Peoa,Registered Voters,11,,
+Summit,,,,15:20 Peoa,Registered Voters,210,,
+Summit,,,,15:32 Peoa,Registered Voters,140,,
+Summit,,,,16 Silver Springs,Registered Voters,799,,
+Summit,,,,17:2 Wanship,Registered Voters,216,,
+Summit,,,,17:10 Wanship,Registered Voters,475,,
+Summit,,,,17:32 Wanship,Registered Voters,16,,
+Summit,,,,18 Hoytsville,Registered Voters,523,,
+Summit,,,,19 Coalville,Registered Voters,709,,
+Summit,,,,20 Chalk Creek,Registered Voters,282,,
+Summit,,,,21 Weber Canyon,Registered Voters,144,,
+Summit,,,,22 South Summit West,Registered Voters,301,,
+Summit,,,,23 Highland Estates West,Registered Voters,653,,
+Summit,,,,24 North Summit North,Registered Voters,206,,
+Summit,,,,25 Henefer,Registered Voters,424,,
+Summit,,,,26 Ranch Place,Registered Voters,740,,
+Summit,,,,27 Jeremy West,Registered Voters,559,,
+Summit,,,,28 Francis,Registered Voters,651,,
+Summit,,,,29 Wagon Wheel,Registered Voters,285,,
+Summit,,,,30 Summit Park East,Registered Voters,797,,
+Summit,,,,31 Deer Valley South,Registered Voters,882,,
+Summit,,,,32 Old Town North,Registered Voters,424,,
+Summit,,,,33 Sidewinder,Registered Voters,469,,
+Summit,,,,34 Bitner,Registered Voters,809,,
+Summit,,,,35 Park Meadows North,Registered Voters,814,,
+Summit,,,,36 Ranch Road South,Registered Voters,329,,
+Summit,,,,37 Jeremy East,Registered Voters,770,,
+Summit,,,,38 Highland Estates East,Registered Voters,738,,
+Summit,,,,39 Pinebrook North,Registered Voters,492,,
+Summit,,,,40 Moose Hollow,Registered Voters,707,,
+Summit,,,,41 Upper Pinebrook,Registered Voters,337,,
+Summit,,,,42 Snyders Mill,Registered Voters,566,,
+Summit,,,,43 Kimball Canyon,Registered Voters,93,,
+Summit,,,,44 Silver Creek Lower,Registered Voters,371,,
+Summit,,,,45 Promontory Ridge,Registered Voters,62,,
+Summit,,,,1 Deer Valley North,Ballots Cast,102,,
+Summit,,,,2 Old Town South,Ballots Cast,99,,
+Summit,,,,3 Prospector,Ballots Cast,108,,
+Summit,,,,4 Thaynes Canyon,Ballots Cast,185,,
+Summit,,,,5 Park Meadows South,Ballots Cast,203,,
+Summit,,,,6 Quarry Mountain,Ballots Cast,365,,
+Summit,,,,7 Park West,Ballots Cast,410,,
+Summit,,,,8 Silver Creek Upper,Ballots Cast,133,,
+Summit,,,,9 Lower Pinebrook,Ballots Cast,384,,
+Summit,,,,10 Summit Park West,Ballots Cast,142,,
+Summit,,,,11 South Summit South,Ballots Cast,170,,
+Summit,,,,12 Kamas,Ballots Cast,381,,
+Summit,,,,13 South Summit East,Ballots Cast,200,,
+Summit,,,,14 Oakley,Ballots Cast,447,,
+Summit,,,,15:2 Peoa,Ballots Cast,8,,
+Summit,,,,15:20 Peoa,Ballots Cast,106,,
+Summit,,,,15:32 Peoa,Ballots Cast,29,,
+Summit,,,,16 Silver Springs,Ballots Cast,373,,
+Summit,,,,17:2 Wanship,Ballots Cast,59,,
+Summit,,,,17:10 Wanship,Ballots Cast,201,,
+Summit,,,,17:32 Wanship,Ballots Cast,5,,
+Summit,,,,18 Hoytsville,Ballots Cast,266,,
+Summit,,,,19 Coalville,Ballots Cast,359,,
+Summit,,,,20 Chalk Creek,Ballots Cast,155,,
+Summit,,,,21 Weber Canyon,Ballots Cast,55,,
+Summit,,,,22 South Summit West,Ballots Cast,167,,
+Summit,,,,23 Highland Estates West,Ballots Cast,278,,
+Summit,,,,24 North Summit North,Ballots Cast,129,,
+Summit,,,,25 Henefer,Ballots Cast,233,,
+Summit,,,,26 Ranch Place,Ballots Cast,265,,
+Summit,,,,27 Jeremy West,Ballots Cast,227,,
+Summit,,,,28 Francis,Ballots Cast,313,,
+Summit,,,,29 Wagon Wheel,Ballots Cast,134,,
+Summit,,,,30 Summit Park East,Ballots Cast,353,,
+Summit,,,,31 Deer Valley South,Ballots Cast,253,,
+Summit,,,,32 Old Town North,Ballots Cast,129,,
+Summit,,,,33 Sidewinder,Ballots Cast,173,,
+Summit,,,,34 Bitner,Ballots Cast,276,,
+Summit,,,,35 Park Meadows North,Ballots Cast,329,,
+Summit,,,,36 Ranch Road South,Ballots Cast,134,,
+Summit,,,,37 Jeremy East,Ballots Cast,316,,
+Summit,,,,38 Highland Estates East,Ballots Cast,289,,
+Summit,,,,39 Pinebrook North,Ballots Cast,196,,
+Summit,,,,40 Moose Hollow,Ballots Cast,327,,
+Summit,,,,41 Upper Pinebrook,Ballots Cast,150,,
+Summit,,,,42 Snyders Mill,Ballots Cast,237,,
+Summit,,,,43 Kimball Canyon,Ballots Cast,39,,
+Summit,,,,44 Silver Creek Lower,Ballots Cast,164,,
+Summit,,,,45 Promontory Ridge,Ballots Cast,13,,
+Summit,LIB,,,1 Deer Valley North,Straight Party,0,0,0
+Summit,LIB,,,2 Old Town South,Straight Party,0,0,0
+Summit,LIB,,,3 Prospector,Straight Party,1,0,1
+Summit,LIB,,,4 Thaynes Canyon,Straight Party,0,0,0
+Summit,LIB,,,5 Park Meadows South,Straight Party,1,0,1
+Summit,LIB,,,6 Quarry Mountain,Straight Party,2,0,2
+Summit,LIB,,,7 Park West,Straight Party,2,0,2
+Summit,LIB,,,8 Silver Creek Upper,Straight Party,0,0,0
+Summit,LIB,,,9 Lower Pinebrook,Straight Party,0,0,0
+Summit,LIB,,,10 Summit Park West,Straight Party,1,0,1
+Summit,LIB,,,11 South Summit South,Straight Party,2,1,1
+Summit,LIB,,,12 Kamas,Straight Party,2,0,2
+Summit,LIB,,,13 South Summit East,Straight Party,2,0,2
+Summit,LIB,,,14 Oakley,Straight Party,3,0,3
+Summit,LIB,,,15:2 Peoa,Straight Party,0,0,0
+Summit,LIB,,,15:20 Peoa,Straight Party,0,0,0
+Summit,LIB,,,15:32 Peoa,Straight Party,0,0,0
+Summit,LIB,,,16 Silver Springs,Straight Party,0,0,0
+Summit,LIB,,,17:2 Wanship,Straight Party,0,0,0
+Summit,LIB,,,17:10 Wanship,Straight Party,1,0,1
+Summit,LIB,,,17:32 Wanship,Straight Party,0,0,0
+Summit,LIB,,,18 Hoytsville,Straight Party,2,1,1
+Summit,LIB,,,19 Coalville,Straight Party,1,0,1
+Summit,LIB,,,20 Chalk Creek,Straight Party,1,0,1
+Summit,LIB,,,21 Weber Canyon,Straight Party,0,0,0
+Summit,LIB,,,22 South Summit West,Straight Party,0,0,0
+Summit,LIB,,,23 Highland Estates West,Straight Party,2,0,2
+Summit,LIB,,,24 North Summit North,Straight Party,1,0,1
+Summit,LIB,,,25 Henefer,Straight Party,0,0,0
+Summit,LIB,,,26 Ranch Place,Straight Party,1,0,1
+Summit,LIB,,,27 Jeremy West,Straight Party,0,0,0
+Summit,LIB,,,28 Francis,Straight Party,0,0,0
+Summit,LIB,,,29 Wagon Wheel,Straight Party,0,0,0
+Summit,LIB,,,30 Summit Park East,Straight Party,1,0,1
+Summit,LIB,,,31 Deer Valley South,Straight Party,0,0,0
+Summit,LIB,,,32 Old Town North,Straight Party,0,0,0
+Summit,LIB,,,33 Sidewinder,Straight Party,1,0,1
+Summit,LIB,,,34 Bitner,Straight Party,3,0,3
+Summit,LIB,,,35 Park Meadows North,Straight Party,2,0,2
+Summit,LIB,,,36 Ranch Road South,Straight Party,1,0,1
+Summit,LIB,,,37 Jeremy East,Straight Party,1,0,1
+Summit,LIB,,,38 Highland Estates East,Straight Party,1,0,1
+Summit,LIB,,,39 Pinebrook North,Straight Party,1,0,1
+Summit,LIB,,,40 Moose Hollow,Straight Party,1,0,1
+Summit,LIB,,,41 Upper Pinebrook,Straight Party,2,0,2
+Summit,LIB,,,42 Snyders Mill,Straight Party,0,0,0
+Summit,LIB,,,43 Kimball Canyon,Straight Party,0,0,0
+Summit,LIB,,,44 Silver Creek Lower,Straight Party,0,0,0
+Summit,LIB,,,45 Promontory Ridge,Straight Party,0,0,0
+Summit,IAM,,,1 Deer Valley North,Straight Party,0,0,0
+Summit,IAM,,,2 Old Town South,Straight Party,1,0,1
+Summit,IAM,,,3 Prospector,Straight Party,1,0,1
+Summit,IAM,,,4 Thaynes Canyon,Straight Party,1,0,1
+Summit,IAM,,,5 Park Meadows South,Straight Party,4,0,4
+Summit,IAM,,,6 Quarry Mountain,Straight Party,0,0,0
+Summit,IAM,,,7 Park West,Straight Party,3,0,3
+Summit,IAM,,,8 Silver Creek Upper,Straight Party,1,0,1
+Summit,IAM,,,9 Lower Pinebrook,Straight Party,4,0,4
+Summit,IAM,,,10 Summit Park West,Straight Party,3,1,2
+Summit,IAM,,,11 South Summit South,Straight Party,5,3,2
+Summit,IAM,,,12 Kamas,Straight Party,7,1,6
+Summit,IAM,,,13 South Summit East,Straight Party,3,0,3
+Summit,IAM,,,14 Oakley,Straight Party,5,1,4
+Summit,IAM,,,15:2 Peoa,Straight Party,0,0,0
+Summit,IAM,,,15:20 Peoa,Straight Party,1,0,1
+Summit,IAM,,,15:32 Peoa,Straight Party,0,0,0
+Summit,IAM,,,16 Silver Springs,Straight Party,3,0,3
+Summit,IAM,,,17:2 Wanship,Straight Party,1,0,1
+Summit,IAM,,,17:10 Wanship,Straight Party,1,0,1
+Summit,IAM,,,17:32 Wanship,Straight Party,0,0,0
+Summit,IAM,,,18 Hoytsville,Straight Party,4,1,3
+Summit,IAM,,,19 Coalville,Straight Party,6,0,6
+Summit,IAM,,,20 Chalk Creek,Straight Party,3,0,3
+Summit,IAM,,,21 Weber Canyon,Straight Party,0,0,0
+Summit,IAM,,,22 South Summit West,Straight Party,1,0,1
+Summit,IAM,,,23 Highland Estates West,Straight Party,1,1,0
+Summit,IAM,,,24 North Summit North,Straight Party,2,0,2
+Summit,IAM,,,25 Henefer,Straight Party,5,0,5
+Summit,IAM,,,26 Ranch Place,Straight Party,3,0,3
+Summit,IAM,,,27 Jeremy West,Straight Party,2,0,2
+Summit,IAM,,,28 Francis,Straight Party,2,0,2
+Summit,IAM,,,29 Wagon Wheel,Straight Party,1,0,1
+Summit,IAM,,,30 Summit Park East,Straight Party,3,1,2
+Summit,IAM,,,31 Deer Valley South,Straight Party,2,0,2
+Summit,IAM,,,32 Old Town North,Straight Party,1,0,1
+Summit,IAM,,,33 Sidewinder,Straight Party,6,1,5
+Summit,IAM,,,34 Bitner,Straight Party,1,0,1
+Summit,IAM,,,35 Park Meadows North,Straight Party,6,3,3
+Summit,IAM,,,36 Ranch Road South,Straight Party,1,0,1
+Summit,IAM,,,37 Jeremy East,Straight Party,0,0,0
+Summit,IAM,,,38 Highland Estates East,Straight Party,5,0,5
+Summit,IAM,,,39 Pinebrook North,Straight Party,1,0,1
+Summit,IAM,,,40 Moose Hollow,Straight Party,0,0,0
+Summit,IAM,,,41 Upper Pinebrook,Straight Party,0,0,0
+Summit,IAM,,,42 Snyders Mill,Straight Party,1,0,1
+Summit,IAM,,,43 Kimball Canyon,Straight Party,1,0,1
+Summit,IAM,,,44 Silver Creek Lower,Straight Party,3,1,2
+Summit,IAM,,,45 Promontory Ridge,Straight Party,0,0,0
+Summit,REP,,,1 Deer Valley North,Straight Party,14,1,13
+Summit,REP,,,2 Old Town South,Straight Party,2,0,2
+Summit,REP,,,3 Prospector,Straight Party,9,1,8
+Summit,REP,,,4 Thaynes Canyon,Straight Party,23,5,18
+Summit,REP,,,5 Park Meadows South,Straight Party,22,7,15
+Summit,REP,,,6 Quarry Mountain,Straight Party,22,7,15
+Summit,REP,,,7 Park West,Straight Party,67,20,47
+Summit,REP,,,8 Silver Creek Upper,Straight Party,19,6,13
+Summit,REP,,,9 Lower Pinebrook,Straight Party,49,16,33
+Summit,REP,,,10 Summit Park West,Straight Party,7,2,5
+Summit,REP,,,11 South Summit South,Straight Party,37,3,34
+Summit,REP,,,12 Kamas,Straight Party,41,17,24
+Summit,REP,,,13 South Summit East,Straight Party,23,4,19
+Summit,REP,,,14 Oakley,Straight Party,44,4,40
+Summit,REP,,,15:2 Peoa,Straight Party,0,0,0
+Summit,REP,,,15:20 Peoa,Straight Party,14,2,12
+Summit,REP,,,15:32 Peoa,Straight Party,6,1,5
+Summit,REP,,,16 Silver Springs,Straight Party,29,1,28
+Summit,REP,,,17:2 Wanship,Straight Party,8,4,4
+Summit,REP,,,17:10 Wanship,Straight Party,22,1,21
+Summit,REP,,,17:32 Wanship,Straight Party,1,0,1
+Summit,REP,,,18 Hoytsville,Straight Party,25,3,22
+Summit,REP,,,19 Coalville,Straight Party,29,3,26
+Summit,REP,,,20 Chalk Creek,Straight Party,19,3,16
+Summit,REP,,,21 Weber Canyon,Straight Party,7,0,7
+Summit,REP,,,22 South Summit West,Straight Party,16,4,12
+Summit,REP,,,23 Highland Estates West,Straight Party,48,16,32
+Summit,REP,,,24 North Summit North,Straight Party,22,4,18
+Summit,REP,,,25 Henefer,Straight Party,21,0,21
+Summit,REP,,,26 Ranch Place,Straight Party,35,14,21
+Summit,REP,,,27 Jeremy West,Straight Party,28,5,23
+Summit,REP,,,28 Francis,Straight Party,62,10,52
+Summit,REP,,,29 Wagon Wheel,Straight Party,15,3,12
+Summit,REP,,,30 Summit Park East,Straight Party,19,8,11
+Summit,REP,,,31 Deer Valley South,Straight Party,42,16,26
+Summit,REP,,,32 Old Town North,Straight Party,17,1,16
+Summit,REP,,,33 Sidewinder,Straight Party,8,0,8
+Summit,REP,,,34 Bitner,Straight Party,36,10,26
+Summit,REP,,,35 Park Meadows North,Straight Party,57,15,42
+Summit,REP,,,36 Ranch Road South,Straight Party,16,4,12
+Summit,REP,,,37 Jeremy East,Straight Party,36,0,36
+Summit,REP,,,38 Highland Estates East,Straight Party,28,3,25
+Summit,REP,,,39 Pinebrook North,Straight Party,17,0,17
+Summit,REP,,,40 Moose Hollow,Straight Party,43,14,29
+Summit,REP,,,41 Upper Pinebrook,Straight Party,16,4,12
+Summit,REP,,,42 Snyders Mill,Straight Party,26,4,22
+Summit,REP,,,43 Kimball Canyon,Straight Party,8,1,7
+Summit,REP,,,44 Silver Creek Lower,Straight Party,18,4,14
+Summit,REP,,,45 Promontory Ridge,Straight Party,6,4,2
+Summit,CON,,,1 Deer Valley North,Straight Party,0,0,0
+Summit,CON,,,2 Old Town South,Straight Party,0,0,0
+Summit,CON,,,3 Prospector,Straight Party,0,0,0
+Summit,CON,,,4 Thaynes Canyon,Straight Party,0,0,0
+Summit,CON,,,5 Park Meadows South,Straight Party,0,0,0
+Summit,CON,,,6 Quarry Mountain,Straight Party,0,0,0
+Summit,CON,,,7 Park West,Straight Party,1,0,1
+Summit,CON,,,8 Silver Creek Upper,Straight Party,0,0,0
+Summit,CON,,,9 Lower Pinebrook,Straight Party,2,0,2
+Summit,CON,,,10 Summit Park West,Straight Party,0,0,0
+Summit,CON,,,11 South Summit South,Straight Party,0,0,0
+Summit,CON,,,12 Kamas,Straight Party,4,1,3
+Summit,CON,,,13 South Summit East,Straight Party,0,0,0
+Summit,CON,,,14 Oakley,Straight Party,0,0,0
+Summit,CON,,,15:2 Peoa,Straight Party,0,0,0
+Summit,CON,,,15:20 Peoa,Straight Party,1,0,1
+Summit,CON,,,15:32 Peoa,Straight Party,0,0,0
+Summit,CON,,,16 Silver Springs,Straight Party,0,0,0
+Summit,CON,,,17:2 Wanship,Straight Party,0,0,0
+Summit,CON,,,17:10 Wanship,Straight Party,0,0,0
+Summit,CON,,,17:32 Wanship,Straight Party,0,0,0
+Summit,CON,,,18 Hoytsville,Straight Party,0,0,0
+Summit,CON,,,19 Coalville,Straight Party,2,0,2
+Summit,CON,,,20 Chalk Creek,Straight Party,0,0,0
+Summit,CON,,,21 Weber Canyon,Straight Party,0,0,0
+Summit,CON,,,22 South Summit West,Straight Party,0,0,0
+Summit,CON,,,23 Highland Estates West,Straight Party,1,0,1
+Summit,CON,,,24 North Summit North,Straight Party,1,0,1
+Summit,CON,,,25 Henefer,Straight Party,0,0,0
+Summit,CON,,,26 Ranch Place,Straight Party,0,0,0
+Summit,CON,,,27 Jeremy West,Straight Party,0,0,0
+Summit,CON,,,28 Francis,Straight Party,0,0,0
+Summit,CON,,,29 Wagon Wheel,Straight Party,0,0,0
+Summit,CON,,,30 Summit Park East,Straight Party,0,0,0
+Summit,CON,,,31 Deer Valley South,Straight Party,0,0,0
+Summit,CON,,,32 Old Town North,Straight Party,0,0,0
+Summit,CON,,,33 Sidewinder,Straight Party,0,0,0
+Summit,CON,,,34 Bitner,Straight Party,1,0,1
+Summit,CON,,,35 Park Meadows North,Straight Party,0,0,0
+Summit,CON,,,36 Ranch Road South,Straight Party,0,0,0
+Summit,CON,,,37 Jeremy East,Straight Party,1,0,1
+Summit,CON,,,38 Highland Estates East,Straight Party,0,0,0
+Summit,CON,,,39 Pinebrook North,Straight Party,0,0,0
+Summit,CON,,,40 Moose Hollow,Straight Party,0,0,0
+Summit,CON,,,41 Upper Pinebrook,Straight Party,0,0,0
+Summit,CON,,,42 Snyders Mill,Straight Party,0,0,0
+Summit,CON,,,43 Kimball Canyon,Straight Party,0,0,0
+Summit,CON,,,44 Silver Creek Lower,Straight Party,0,0,0
+Summit,CON,,,45 Promontory Ridge,Straight Party,0,0,0
+Summit,DEM,,,1 Deer Valley North,Straight Party,21,6,15
+Summit,DEM,,,2 Old Town South,Straight Party,28,11,17
+Summit,DEM,,,3 Prospector,Straight Party,19,2,17
+Summit,DEM,,,4 Thaynes Canyon,Straight Party,45,9,36
+Summit,DEM,,,5 Park Meadows South,Straight Party,43,13,30
+Summit,DEM,,,6 Quarry Mountain,Straight Party,82,34,48
+Summit,DEM,,,7 Park West,Straight Party,87,26,61
+Summit,DEM,,,8 Silver Creek Upper,Straight Party,26,9,17
+Summit,DEM,,,9 Lower Pinebrook,Straight Party,75,18,57
+Summit,DEM,,,10 Summit Park West,Straight Party,47,10,37
+Summit,DEM,,,11 South Summit South,Straight Party,10,1,9
+Summit,DEM,,,12 Kamas,Straight Party,26,8,18
+Summit,DEM,,,13 South Summit East,Straight Party,21,8,13
+Summit,DEM,,,14 Oakley,Straight Party,29,6,23
+Summit,DEM,,,15:2 Peoa,Straight Party,0,0,0
+Summit,DEM,,,15:20 Peoa,Straight Party,1,0,1
+Summit,DEM,,,15:32 Peoa,Straight Party,2,1,1
+Summit,DEM,,,16 Silver Springs,Straight Party,71,18,53
+Summit,DEM,,,17:2 Wanship,Straight Party,10,0,10
+Summit,DEM,,,17:10 Wanship,Straight Party,21,2,19
+Summit,DEM,,,17:32 Wanship,Straight Party,0,0,0
+Summit,DEM,,,18 Hoytsville,Straight Party,11,4,7
+Summit,DEM,,,19 Coalville,Straight Party,18,2,16
+Summit,DEM,,,20 Chalk Creek,Straight Party,0,0,0
+Summit,DEM,,,21 Weber Canyon,Straight Party,3,1,2
+Summit,DEM,,,22 South Summit West,Straight Party,12,2,10
+Summit,DEM,,,23 Highland Estates West,Straight Party,47,11,36
+Summit,DEM,,,24 North Summit North,Straight Party,5,0,5
+Summit,DEM,,,25 Henefer,Straight Party,6,0,6
+Summit,DEM,,,26 Ranch Place,Straight Party,38,11,27
+Summit,DEM,,,27 Jeremy West,Straight Party,36,7,29
+Summit,DEM,,,28 Francis,Straight Party,16,2,14
+Summit,DEM,,,29 Wagon Wheel,Straight Party,20,5,15
+Summit,DEM,,,30 Summit Park East,Straight Party,96,22,74
+Summit,DEM,,,31 Deer Valley South,Straight Party,44,11,33
+Summit,DEM,,,32 Old Town North,Straight Party,25,5,20
+Summit,DEM,,,33 Sidewinder,Straight Party,36,4,32
+Summit,DEM,,,34 Bitner,Straight Party,78,18,60
+Summit,DEM,,,35 Park Meadows North,Straight Party,55,12,43
+Summit,DEM,,,36 Ranch Road South,Straight Party,22,8,14
+Summit,DEM,,,37 Jeremy East,Straight Party,60,12,48
+Summit,DEM,,,38 Highland Estates East,Straight Party,59,14,45
+Summit,DEM,,,39 Pinebrook North,Straight Party,42,13,29
+Summit,DEM,,,40 Moose Hollow,Straight Party,54,20,34
+Summit,DEM,,,41 Upper Pinebrook,Straight Party,28,7,21
+Summit,DEM,,,42 Snyders Mill,Straight Party,54,16,38
+Summit,DEM,,,43 Kimball Canyon,Straight Party,6,1,5
+Summit,DEM,,,44 Silver Creek Lower,Straight Party,30,8,22
+Summit,DEM,,,45 Promontory Ridge,Straight Party,3,0,3
+Summit,DEM,1,Donna McAleer,1 Deer Valley North,U.S. House,77,19,58
+Summit,DEM,1,Donna McAleer,2 Old Town South,U.S. House,82,18,64
+Summit,DEM,1,Donna McAleer,3 Prospector,U.S. House,76,12,64
+Summit,DEM,1,Donna McAleer,4 Thaynes Canyon,U.S. House,126,33,93
+Summit,DEM,1,Donna McAleer,5 Park Meadows South,U.S. House,147,54,93
+Summit,DEM,1,Donna McAleer,6 Quarry Mountain,U.S. House,277,91,186
+Summit,DEM,1,Donna McAleer,7 Park West,U.S. House,245,64,181
+Summit,DEM,1,Donna McAleer,8 Silver Creek Upper,U.S. House,80,31,49
+Summit,DEM,1,Donna McAleer,9 Lower Pinebrook,U.S. House,250,65,185
+Summit,DEM,1,Donna McAleer,10 Summit Park West,U.S. House,109,22,87
+Summit,DEM,1,Donna McAleer,11 South Summit South,U.S. House,36,8,28
+Summit,DEM,1,Donna McAleer,12 Kamas,U.S. House,129,46,83
+Summit,DEM,1,Donna McAleer,13 South Summit East,U.S. House,79,24,55
+Summit,DEM,1,Donna McAleer,14 Oakley,U.S. House,161,23,138
+Summit,DEM,1,Donna McAleer,15:2 Peoa,U.S. House,2,0,2
+Summit,DEM,1,Donna McAleer,15:20 Peoa,U.S. House,20,4,16
+Summit,DEM,1,Donna McAleer,15:32 Peoa,U.S. House,10,4,6
+Summit,DEM,1,Donna McAleer,16 Silver Springs,U.S. House,266,78,188
+Summit,DEM,1,Donna McAleer,17:2 Wanship,U.S. House,31,7,24
+Summit,DEM,1,Donna McAleer,17:10 Wanship,U.S. House,76,12,64
+Summit,DEM,1,Donna McAleer,17:32 Wanship,U.S. House,2,1,44
+Summit,DEM,1,Donna McAleer,18 Hoytsville,U.S. House,58,14,68
+Summit,DEM,1,Donna McAleer,19 Coalville,U.S. House,85,17,23
+Summit,DEM,1,Donna McAleer,20 Chalk Creek,U.S. House,33,10,8
+Summit,DEM,1,Donna McAleer,21 Weber Canyon,U.S. House,13,5,33
+Summit,DEM,1,Donna McAleer,22 South Summit West,U.S. House,52,19,118
+Summit,DEM,1,Donna McAleer,23 Highland Estates West,U.S. House,166,48,24
+Summit,DEM,1,Donna McAleer,24 North Summit North,U.S. House,29,5,30
+Summit,DEM,1,Donna McAleer,25 Henefer,U.S. House,32,2,130
+Summit,DEM,1,Donna McAleer,26 Ranch Place,U.S. House,182,52,98
+Summit,DEM,1,Donna McAleer,27 Jeremy West,U.S. House,124,7,67
+Summit,DEM,1,Donna McAleer,28 Francis,U.S. House,74,13,84
+Summit,DEM,1,Donna McAleer,29 Wagon Wheel,U.S. House,97,60,205
+Summit,DEM,1,Donna McAleer,30 Summit Park East,U.S. House,265,43,116
+Summit,DEM,1,Donna McAleer,31 Deer Valley South,U.S. House,159,19,70
+Summit,DEM,1,Donna McAleer,32 Old Town North,U.S. House,89,29,113
+Summit,DEM,1,Donna McAleer,33 Sidewinder,U.S. House,142,55,126
+Summit,DEM,1,Donna McAleer,34 Bitner,U.S. House,181,66,144
+Summit,DEM,1,Donna McAleer,35 Park Meadows North,U.S. House,210,23,63
+Summit,DEM,1,Donna McAleer,36 Ranch Road South,U.S. House,86,45,161
+Summit,DEM,1,Donna McAleer,38 Highland Estates East,U.S. House,213,45,168
+Summit,DEM,1,Donna McAleer,39 Pinebrook North,U.S. House,132,39,93
+Summit,DEM,1,Donna McAleer,40 Moose Hollow,U.S. House,200,65,135
+Summit,DEM,1,Donna McAleer,41 Upper Pinebrook,U.S. House,85,21,64
+Summit,DEM,1,Donna McAleer,42 Snyders Mill,U.S. House,169,53,116
+Summit,DEM,1,Donna McAleer,43 Kimball Canyon,U.S. House,26,3,23
+Summit,DEM,1,Donna McAleer,44 Silver Creek Lower,U.S. House,102,32,70
+Summit,DEM,1,Donna McAleer,45 Promontory Ridge,U.S. House,7,2,5
+Summit,IAM,1,Dwayne A. Vance,1 Deer Valley North,U.S. House,2,0,2
+Summit,IAM,1,Dwayne A. Vance,2 Old Town South,U.S. House,1,0,1
+Summit,IAM,1,Dwayne A. Vance,3 Prospector,U.S. House,4,2,2
+Summit,IAM,1,Dwayne A. Vance,4 Thaynes Canyon,U.S. House,5,1,4
+Summit,IAM,1,Dwayne A. Vance,5 Park Meadows South,U.S. House,5,1,4
+Summit,IAM,1,Dwayne A. Vance,6 Quarry Mountain,U.S. House,5,0,5
+Summit,IAM,1,Dwayne A. Vance,7 Park West,U.S. House,5,0,5
+Summit,IAM,1,Dwayne A. Vance,8 Silver Creek Upper,U.S. House,5,2,3
+Summit,IAM,1,Dwayne A. Vance,9 Lower Pinebrook,U.S. House,8,1,7
+Summit,IAM,1,Dwayne A. Vance,10 Summit Park West,U.S. House,4,1,3
+Summit,IAM,1,Dwayne A. Vance,11 South Summit South,U.S. House,4,1,3
+Summit,IAM,1,Dwayne A. Vance,12 Kamas,U.S. House,13,5,8
+Summit,IAM,1,Dwayne A. Vance,13 South Summit East,U.S. House,12,4,8
+Summit,IAM,1,Dwayne A. Vance,14 Oakley,U.S. House,24,0,24
+Summit,IAM,1,Dwayne A. Vance,15:2 Peoa,U.S. House,3,1,2
+Summit,IAM,1,Dwayne A. Vance,15:20 Peoa,U.S. House,11,0,11
+Summit,IAM,1,Dwayne A. Vance,15:32 Peoa,U.S. House,0,0,0
+Summit,IAM,1,Dwayne A. Vance,16 Silver Springs,U.S. House,5,0,5
+Summit,IAM,1,Dwayne A. Vance,17:2 Wanship,U.S. House,1,1,0
+Summit,IAM,1,Dwayne A. Vance,17:10 Wanship,U.S. House,6,0,6
+Summit,IAM,1,Dwayne A. Vance,17:32 Wanship,U.S. House,0,0,6
+Summit,IAM,1,Dwayne A. Vance,18 Hoytsville,U.S. House,9,3,13
+Summit,IAM,1,Dwayne A. Vance,19 Coalville,U.S. House,18,5,6
+Summit,IAM,1,Dwayne A. Vance,20 Chalk Creek,U.S. House,6,0,1
+Summit,IAM,1,Dwayne A. Vance,21 Weber Canyon,U.S. House,1,0,3
+Summit,IAM,1,Dwayne A. Vance,22 South Summit West,U.S. House,5,2,4
+Summit,IAM,1,Dwayne A. Vance,23 Highland Estates West,U.S. House,5,1,4
+Summit,IAM,1,Dwayne A. Vance,24 North Summit North,U.S. House,4,0,6
+Summit,IAM,1,Dwayne A. Vance,25 Henefer,U.S. House,6,0,2
+Summit,IAM,1,Dwayne A. Vance,26 Ranch Place,U.S. House,3,1,5
+Summit,IAM,1,Dwayne A. Vance,27 Jeremy West,U.S. House,6,5,7
+Summit,IAM,1,Dwayne A. Vance,28 Francis,U.S. House,12,0,2
+Summit,IAM,1,Dwayne A. Vance,29 Wagon Wheel,U.S. House,2,4,7
+Summit,IAM,1,Dwayne A. Vance,30 Summit Park East,U.S. House,11,3,7
+Summit,IAM,1,Dwayne A. Vance,31 Deer Valley South,U.S. House,10,0,1
+Summit,IAM,1,Dwayne A. Vance,32 Old Town North,U.S. House,1,1,2
+Summit,IAM,1,Dwayne A. Vance,33 Sidewinder,U.S. House,3,1,4
+Summit,IAM,1,Dwayne A. Vance,34 Bitner,U.S. House,5,4,4
+Summit,IAM,1,Dwayne A. Vance,35 Park Meadows North,U.S. House,8,0,1
+Summit,IAM,1,Dwayne A. Vance,36 Ranch Road South,U.S. House,1,1,7
+Summit,IAM,1,Dwayne A. Vance,38 Highland Estates East,U.S. House,7,0,7
+Summit,IAM,1,Dwayne A. Vance,39 Pinebrook North,U.S. House,2,1,1
+Summit,IAM,1,Dwayne A. Vance,40 Moose Hollow,U.S. House,4,0,4
+Summit,IAM,1,Dwayne A. Vance,41 Upper Pinebrook,U.S. House,6,0,6
+Summit,IAM,1,Dwayne A. Vance,42 Snyders Mill,U.S. House,6,0,6
+Summit,IAM,1,Dwayne A. Vance,43 Kimball Canyon,U.S. House,0,0,0
+Summit,IAM,1,Dwayne A. Vance,44 Silver Creek Lower,U.S. House,5,1,4
+Summit,IAM,1,Dwayne A. Vance,45 Promontory Ridge,U.S. House,0,0,0
+Summit,REP,1,Rob Bishop,1 Deer Valley North,U.S. House,21,3,18
+Summit,REP,1,Rob Bishop,2 Old Town South,U.S. House,12,2,10
+Summit,REP,1,Rob Bishop,3 Prospector,U.S. House,20,3,17
+Summit,REP,1,Rob Bishop,4 Thaynes Canyon,U.S. House,51,10,41
+Summit,REP,1,Rob Bishop,5 Park Meadows South,U.S. House,49,16,33
+Summit,REP,1,Rob Bishop,6 Quarry Mountain,U.S. House,73,23,50
+Summit,REP,1,Rob Bishop,7 Park West,U.S. House,144,43,101
+Summit,REP,1,Rob Bishop,8 Silver Creek Upper,U.S. House,44,9,35
+Summit,REP,1,Rob Bishop,9 Lower Pinebrook,U.S. House,116,36,80
+Summit,REP,1,Rob Bishop,10 Summit Park West,U.S. House,23,5,18
+Summit,REP,1,Rob Bishop,11 South Summit South,U.S. House,121,27,94
+Summit,REP,1,Rob Bishop,12 Kamas,U.S. House,215,58,157
+Summit,REP,1,Rob Bishop,13 South Summit East,U.S. House,97,32,65
+Summit,REP,1,Rob Bishop,14 Oakley,U.S. House,240,24,216
+Summit,REP,1,Rob Bishop,15:2 Peoa,U.S. House,3,1,2
+Summit,REP,1,Rob Bishop,15:20 Peoa,U.S. House,68,14,54
+Summit,REP,1,Rob Bishop,15:32 Peoa,U.S. House,17,7,10
+Summit,REP,1,Rob Bishop,16 Silver Springs,U.S. House,91,18,73
+Summit,REP,1,Rob Bishop,17:2 Wanship,U.S. House,25,7,18
+Summit,REP,1,Rob Bishop,17:10 Wanship,U.S. House,109,12,97
+Summit,REP,1,Rob Bishop,17:32 Wanship,U.S. House,1,0,163
+Summit,REP,1,Rob Bishop,18 Hoytsville,U.S. House,187,24,188
+Summit,REP,1,Rob Bishop,19 Coalville,U.S. House,234,46,85
+Summit,REP,1,Rob Bishop,20 Chalk Creek,U.S. House,112,27,28
+Summit,REP,1,Rob Bishop,21 Weber Canyon,U.S. House,40,12,72
+Summit,REP,1,Rob Bishop,22 South Summit West,U.S. House,104,32,72
+Summit,REP,1,Rob Bishop,23 Highland Estates West,U.S. House,96,24,76
+Summit,REP,1,Rob Bishop,24 North Summit North,U.S. House,87,11,173
+Summit,REP,1,Rob Bishop,25 Henefer,U.S. House,184,11,49
+Summit,REP,1,Rob Bishop,26 Ranch Place,U.S. House,70,21,69
+Summit,REP,1,Rob Bishop,27 Jeremy West,U.S. House,89,35,179
+Summit,REP,1,Rob Bishop,28 Francis,U.S. House,214,6,25
+Summit,REP,1,Rob Bishop,29 Wagon Wheel,U.S. House,31,19,48
+Summit,REP,1,Rob Bishop,30 Summit Park East,U.S. House,67,22,54
+Summit,REP,1,Rob Bishop,31 Deer Valley South,U.S. House,76,4,28
+Summit,REP,1,Rob Bishop,32 Old Town North,U.S. House,32,2,19
+Summit,REP,1,Rob Bishop,33 Sidewinder,U.S. House,21,19,57
+Summit,REP,1,Rob Bishop,34 Bitner,U.S. House,76,30,78
+Summit,REP,1,Rob Bishop,35 Park Meadows North,U.S. House,108,10,36
+Summit,REP,1,Rob Bishop,36 Ranch Road South,U.S. House,46,13,80
+Summit,REP,1,Rob Bishop,38 Highland Estates East,U.S. House,62,7,55
+Summit,REP,1,Rob Bishop,39 Pinebrook North,U.S. House,56,4,52
+Summit,REP,1,Rob Bishop,40 Moose Hollow,U.S. House,115,24,91
+Summit,REP,1,Rob Bishop,41 Upper Pinebrook,U.S. House,55,13,42
+Summit,REP,1,Rob Bishop,42 Snyders Mill,U.S. House,59,17,42
+Summit,REP,1,Rob Bishop,43 Kimball Canyon,U.S. House,12,2,10
+Summit,REP,1,Rob Bishop,44 Silver Creek Lower,U.S. House,54,12,42
+Summit,REP,1,Rob Bishop,45 Promontory Ridge,U.S. House,6,4,2
+Summit,LIB,1,Craig Bowden,1 Deer Valley North,U.S. House,2,0,2
+Summit,LIB,1,Craig Bowden,2 Old Town South,U.S. House,0,0,0
+Summit,LIB,1,Craig Bowden,3 Prospector,U.S. House,8,0,8
+Summit,LIB,1,Craig Bowden,4 Thaynes Canyon,U.S. House,3,0,3
+Summit,LIB,1,Craig Bowden,5 Park Meadows South,U.S. House,2,0,2
+Summit,LIB,1,Craig Bowden,6 Quarry Mountain,U.S. House,7,2,5
+Summit,LIB,1,Craig Bowden,7 Park West,U.S. House,11,0,11
+Summit,LIB,1,Craig Bowden,8 Silver Creek Upper,U.S. House,4,0,4
+Summit,LIB,1,Craig Bowden,9 Lower Pinebrook,U.S. House,6,1,5
+Summit,LIB,1,Craig Bowden,10 Summit Park West,U.S. House,6,2,4
+Summit,LIB,1,Craig Bowden,11 South Summit South,U.S. House,5,3,2
+Summit,LIB,1,Craig Bowden,12 Kamas,U.S. House,16,5,11
+Summit,LIB,1,Craig Bowden,13 South Summit East,U.S. House,7,1,6
+Summit,LIB,1,Craig Bowden,14 Oakley,U.S. House,17,4,13
+Summit,LIB,1,Craig Bowden,15:2 Peoa,U.S. House,0,0,0
+Summit,LIB,1,Craig Bowden,15:20 Peoa,U.S. House,5,1,4
+Summit,LIB,1,Craig Bowden,15:32 Peoa,U.S. House,1,1,0
+Summit,LIB,1,Craig Bowden,16 Silver Springs,U.S. House,4,1,3
+Summit,LIB,1,Craig Bowden,17:2 Wanship,U.S. House,2,1,1
+Summit,LIB,1,Craig Bowden,17:10 Wanship,U.S. House,8,0,8
+Summit,LIB,1,Craig Bowden,17:32 Wanship,U.S. House,2,1,5
+Summit,LIB,1,Craig Bowden,18 Hoytsville,U.S. House,6,1,13
+Summit,LIB,1,Craig Bowden,19 Coalville,U.S. House,14,1,3
+Summit,LIB,1,Craig Bowden,20 Chalk Creek,U.S. House,3,0,1
+Summit,LIB,1,Craig Bowden,21 Weber Canyon,U.S. House,1,0,2
+Summit,LIB,1,Craig Bowden,22 South Summit West,U.S. House,3,1,9
+Summit,LIB,1,Craig Bowden,23 Highland Estates West,U.S. House,9,0,3
+Summit,LIB,1,Craig Bowden,24 North Summit North,U.S. House,3,0,9
+Summit,LIB,1,Craig Bowden,25 Henefer,U.S. House,9,0,3
+Summit,LIB,1,Craig Bowden,26 Ranch Place,U.S. House,3,0,5
+Summit,LIB,1,Craig Bowden,27 Jeremy West,U.S. House,5,0,6
+Summit,LIB,1,Craig Bowden,28 Francis,U.S. House,6,1,1
+Summit,LIB,1,Craig Bowden,29 Wagon Wheel,U.S. House,2,1,8
+Summit,LIB,1,Craig Bowden,30 Summit Park East,U.S. House,9,1,4
+Summit,LIB,1,Craig Bowden,31 Deer Valley South,U.S. House,5,0,4
+Summit,LIB,1,Craig Bowden,32 Old Town North,U.S. House,4,2,3
+Summit,LIB,1,Craig Bowden,33 Sidewinder,U.S. House,5,2,8
+Summit,LIB,1,Craig Bowden,34 Bitner,U.S. House,10,0,2
+Summit,LIB,1,Craig Bowden,35 Park Meadows North,U.S. House,2,0,0
+Summit,LIB,1,Craig Bowden,36 Ranch Road South,U.S. House,0,2,4
+Summit,LIB,1,Craig Bowden,38 Highland Estates East,U.S. House,6,0,6
+Summit,LIB,1,Craig Bowden,39 Pinebrook North,U.S. House,5,0,5
+Summit,LIB,1,Craig Bowden,40 Moose Hollow,U.S. House,4,0,4
+Summit,LIB,1,Craig Bowden,41 Upper Pinebrook,U.S. House,3,0,3
+Summit,LIB,1,Craig Bowden,42 Snyders Mill,U.S. House,3,0,3
+Summit,LIB,1,Craig Bowden,43 Kimball Canyon,U.S. House,1,0,1
+Summit,LIB,1,Craig Bowden,44 Silver Creek Lower,U.S. House,2,0,2
+Summit,LIB,1,Craig Bowden,45 Promontory Ridge,U.S. House,0,0,0
+Summit,LIB,,W. Andrew McCullough,1 Deer Valley North,Attorney General,10,2,8
+Summit,LIB,,W. Andrew McCullough,2 Old Town South,Attorney General,7,0,7
+Summit,LIB,,W. Andrew McCullough,3 Prospector,Attorney General,9,2,7
+Summit,LIB,,W. Andrew McCullough,4 Thaynes Canyon,Attorney General,4,0,4
+Summit,LIB,,W. Andrew McCullough,5 Park Meadows South,Attorney General,4,0,4
+Summit,LIB,,W. Andrew McCullough,6 Quarry Mountain,Attorney General,20,5,15
+Summit,LIB,,W. Andrew McCullough,7 Park West,Attorney General,25,3,22
+Summit,LIB,,W. Andrew McCullough,8 Silver Creek Upper,Attorney General,8,1,7
+Summit,LIB,,W. Andrew McCullough,9 Lower Pinebrook,Attorney General,25,1,24
+Summit,LIB,,W. Andrew McCullough,10 Summit Park West,Attorney General,10,2,8
+Summit,LIB,,W. Andrew McCullough,11 South Summit South,Attorney General,4,1,3
+Summit,LIB,,W. Andrew McCullough,12 Kamas,Attorney General,26,7,19
+Summit,LIB,,W. Andrew McCullough,13 South Summit East,Attorney General,12,1,11
+Summit,LIB,,W. Andrew McCullough,14 Oakley,Attorney General,24,1,23
+Summit,LIB,,W. Andrew McCullough,15:2 Peoa,Attorney General,0,0,0
+Summit,LIB,,W. Andrew McCullough,15:20 Peoa,Attorney General,8,1,7
+Summit,LIB,,W. Andrew McCullough,15:32 Peoa,Attorney General,0,0,0
+Summit,LIB,,W. Andrew McCullough,16 Silver Springs,Attorney General,19,3,16
+Summit,LIB,,W. Andrew McCullough,17:2 Wanship,Attorney General,5,1,4
+Summit,LIB,,W. Andrew McCullough,17:10 Wanship,Attorney General,9,0,9
+Summit,LIB,,W. Andrew McCullough,17:32 Wanship,Attorney General,2,1,1
+Summit,LIB,,W. Andrew McCullough,18 Hoytsville,Attorney General,7,2,5
+Summit,LIB,,W. Andrew McCullough,19 Coalville,Attorney General,18,1,17
+Summit,LIB,,W. Andrew McCullough,20 Chalk Creek,Attorney General,4,1,3
+Summit,LIB,,W. Andrew McCullough,21 Weber Canyon,Attorney General,2,1,1
+Summit,LIB,,W. Andrew McCullough,22 South Summit West,Attorney General,5,2,3
+Summit,LIB,,W. Andrew McCullough,23 Highland Estates West,Attorney General,12,0,12
+Summit,LIB,,W. Andrew McCullough,24 North Summit North,Attorney General,2,0,2
+Summit,LIB,,W. Andrew McCullough,25 Henefer,Attorney General,10,0,10
+Summit,LIB,,W. Andrew McCullough,26 Ranch Place,Attorney General,9,2,7
+Summit,LIB,,W. Andrew McCullough,27 Jeremy West,Attorney General,9,1,8
+Summit,LIB,,W. Andrew McCullough,28 Francis,Attorney General,13,3,10
+Summit,LIB,,W. Andrew McCullough,29 Wagon Wheel,Attorney General,8,2,6
+Summit,LIB,,W. Andrew McCullough,30 Summit Park East,Attorney General,24,1,23
+Summit,LIB,,W. Andrew McCullough,31 Deer Valley South,Attorney General,9,3,6
+Summit,LIB,,W. Andrew McCullough,32 Old Town North,Attorney General,5,0,5
+Summit,LIB,,W. Andrew McCullough,33 Sidewinder,Attorney General,9,1,8
+Summit,LIB,,W. Andrew McCullough,34 Bitner,Attorney General,18,1,17
+Summit,LIB,,W. Andrew McCullough,35 Park Meadows North,Attorney General,15,2,13
+Summit,LIB,,W. Andrew McCullough,36 Ranch Road South,Attorney General,5,1,4
+Summit,LIB,,W. Andrew McCullough,37 Jeremy East,Attorney General,16,5,11
+Summit,LIB,,W. Andrew McCullough,38 Highland Estates East,Attorney General,15,2,13
+Summit,LIB,,W. Andrew McCullough,39 Pinebrook North,Attorney General,5,0,5
+Summit,LIB,,W. Andrew McCullough,40 Moose Hollow,Attorney General,16,3,13
+Summit,LIB,,W. Andrew McCullough,41 Upper Pinebrook,Attorney General,5,0,5
+Summit,LIB,,W. Andrew McCullough,42 Snyders Mill,Attorney General,11,2,9
+Summit,LIB,,W. Andrew McCullough,43 Kimball Canyon,Attorney General,3,0,3
+Summit,LIB,,W. Andrew McCullough,44 Silver Creek Lower,Attorney General,9,2,7
+Summit,LIB,,W. Andrew McCullough,45 Promontory Ridge,Attorney General,1,1,0
+Summit,CON,,Gregory G. Hansen,1 Deer Valley North,Attorney General,1,0,1
+Summit,CON,,Gregory G. Hansen,2 Old Town South,Attorney General,0,0,0
+Summit,CON,,Gregory G. Hansen,3 Prospector,Attorney General,1,0,1
+Summit,CON,,Gregory G. Hansen,4 Thaynes Canyon,Attorney General,2,1,1
+Summit,CON,,Gregory G. Hansen,5 Park Meadows South,Attorney General,2,1,1
+Summit,CON,,Gregory G. Hansen,6 Quarry Mountain,Attorney General,6,1,5
+Summit,CON,,Gregory G. Hansen,7 Park West,Attorney General,6,0,6
+Summit,CON,,Gregory G. Hansen,8 Silver Creek Upper,Attorney General,2,1,1
+Summit,CON,,Gregory G. Hansen,9 Lower Pinebrook,Attorney General,9,1,8
+Summit,CON,,Gregory G. Hansen,10 Summit Park West,Attorney General,3,1,2
+Summit,CON,,Gregory G. Hansen,11 South Summit South,Attorney General,4,1,3
+Summit,CON,,Gregory G. Hansen,12 Kamas,Attorney General,19,8,11
+Summit,CON,,Gregory G. Hansen,13 South Summit East,Attorney General,9,3,6
+Summit,CON,,Gregory G. Hansen,14 Oakley,Attorney General,16,0,16
+Summit,CON,,Gregory G. Hansen,15:2 Peoa,Attorney General,0,0,0
+Summit,CON,,Gregory G. Hansen,15:20 Peoa,Attorney General,6,1,5
+Summit,CON,,Gregory G. Hansen,15:32 Peoa,Attorney General,1,1,0
+Summit,CON,,Gregory G. Hansen,16 Silver Springs,Attorney General,2,0,2
+Summit,CON,,Gregory G. Hansen,17:2 Wanship,Attorney General,0,0,0
+Summit,CON,,Gregory G. Hansen,17:10 Wanship,Attorney General,7,1,6
+Summit,CON,,Gregory G. Hansen,17:32 Wanship,Attorney General,0,0,0
+Summit,CON,,Gregory G. Hansen,18 Hoytsville,Attorney General,11,1,10
+Summit,CON,,Gregory G. Hansen,19 Coalville,Attorney General,24,6,18
+Summit,CON,,Gregory G. Hansen,20 Chalk Creek,Attorney General,9,4,5
+Summit,CON,,Gregory G. Hansen,21 Weber Canyon,Attorney General,3,1,2
+Summit,CON,,Gregory G. Hansen,22 South Summit West,Attorney General,4,2,2
+Summit,CON,,Gregory G. Hansen,23 Highland Estates West,Attorney General,6,2,4
+Summit,CON,,Gregory G. Hansen,24 North Summit North,Attorney General,5,1,4
+Summit,CON,,Gregory G. Hansen,25 Henefer,Attorney General,13,3,10
+Summit,CON,,Gregory G. Hansen,26 Ranch Place,Attorney General,1,0,1
+Summit,CON,,Gregory G. Hansen,27 Jeremy West,Attorney General,1,0,1
+Summit,CON,,Gregory G. Hansen,28 Francis,Attorney General,9,2,7
+Summit,CON,,Gregory G. Hansen,29 Wagon Wheel,Attorney General,0,0,0
+Summit,CON,,Gregory G. Hansen,30 Summit Park East,Attorney General,6,3,3
+Summit,CON,,Gregory G. Hansen,31 Deer Valley South,Attorney General,1,0,1
+Summit,CON,,Gregory G. Hansen,32 Old Town North,Attorney General,2,0,2
+Summit,CON,,Gregory G. Hansen,33 Sidewinder,Attorney General,2,0,2
+Summit,CON,,Gregory G. Hansen,34 Bitner,Attorney General,3,1,2
+Summit,CON,,Gregory G. Hansen,35 Park Meadows North,Attorney General,5,3,2
+Summit,CON,,Gregory G. Hansen,36 Ranch Road South,Attorney General,1,0,1
+Summit,CON,,Gregory G. Hansen,37 Jeremy East,Attorney General,4,2,2
+Summit,CON,,Gregory G. Hansen,38 Highland Estates East,Attorney General,2,0,2
+Summit,CON,,Gregory G. Hansen,39 Pinebrook North,Attorney General,2,2,0
+Summit,CON,,Gregory G. Hansen,40 Moose Hollow,Attorney General,2,1,1
+Summit,CON,,Gregory G. Hansen,41 Upper Pinebrook,Attorney General,4,1,3
+Summit,CON,,Gregory G. Hansen,42 Snyders Mill,Attorney General,4,1,3
+Summit,CON,,Gregory G. Hansen,43 Kimball Canyon,Attorney General,1,0,1
+Summit,CON,,Gregory G. Hansen,44 Silver Creek Lower,Attorney General,2,0,2
+Summit,CON,,Gregory G. Hansen,45 Promontory Ridge,Attorney General,0,0,0
+Summit,DEM,,Charles A. Stormont,1 Deer Valley North,Attorney General,64,13,51
+Summit,DEM,,Charles A. Stormont,2 Old Town South,Attorney General,71,18,53
+Summit,DEM,,Charles A. Stormont,3 Prospector,Attorney General,60,9,51
+Summit,DEM,,Charles A. Stormont,4 Thaynes Canyon,Attorney General,110,30,80
+Summit,DEM,,Charles A. Stormont,5 Park Meadows South,Attorney General,118,49,69
+Summit,DEM,,Charles A. Stormont,6 Quarry Mountain,Attorney General,218,76,142
+Summit,DEM,,Charles A. Stormont,7 Park West,Attorney General,203,59,144
+Summit,DEM,,Charles A. Stormont,8 Silver Creek Upper,Attorney General,64,26,38
+Summit,DEM,,Charles A. Stormont,9 Lower Pinebrook,Attorney General,189,54,135
+Summit,DEM,,Charles A. Stormont,10 Summit Park West,Attorney General,94,20,74
+Summit,DEM,,Charles A. Stormont,11 South Summit South,Attorney General,29,10,19
+Summit,DEM,,Charles A. Stormont,12 Kamas,Attorney General,106,40,66
+Summit,DEM,,Charles A. Stormont,13 South Summit East,Attorney General,61,16,45
+Summit,DEM,,Charles A. Stormont,14 Oakley,Attorney General,125,22,103
+Summit,DEM,,Charles A. Stormont,15:2 Peoa,Attorney General,3,0,3
+Summit,DEM,,Charles A. Stormont,15:20 Peoa,Attorney General,16,4,12
+Summit,DEM,,Charles A. Stormont,15:32 Peoa,Attorney General,7,4,3
+Summit,DEM,,Charles A. Stormont,16 Silver Springs,Attorney General,207,67,140
+Summit,DEM,,Charles A. Stormont,17:2 Wanship,Attorney General,28,7,21
+Summit,DEM,,Charles A. Stormont,17:10 Wanship,Attorney General,53,9,44
+Summit,DEM,,Charles A. Stormont,17:32 Wanship,Attorney General,2,1,1
+Summit,DEM,,Charles A. Stormont,18 Hoytsville,Attorney General,54,11,43
+Summit,DEM,,Charles A. Stormont,19 Coalville,Attorney General,64,17,47
+Summit,DEM,,Charles A. Stormont,20 Chalk Creek,Attorney General,25,6,19
+Summit,DEM,,Charles A. Stormont,21 Weber Canyon,Attorney General,16,6,10
+Summit,DEM,,Charles A. Stormont,22 South Summit West,Attorney General,42,11,31
+Summit,DEM,,Charles A. Stormont,23 Highland Estates West,Attorney General,141,40,101
+Summit,DEM,,Charles A. Stormont,24 North Summit North,Attorney General,15,4,11
+Summit,DEM,,Charles A. Stormont,25 Henefer,Attorney General,24,0,24
+Summit,DEM,,Charles A. Stormont,26 Ranch Place,Attorney General,134,44,90
+Summit,DEM,,Charles A. Stormont,27 Jeremy West,Attorney General,98,24,74
+Summit,DEM,,Charles A. Stormont,28 Francis,Attorney General,58,6,52
+Summit,DEM,,Charles A. Stormont,29 Wagon Wheel,Attorney General,74,9,65
+Summit,DEM,,Charles A. Stormont,30 Summit Park East,Attorney General,225,55,170
+Summit,DEM,,Charles A. Stormont,31 Deer Valley South,Attorney General,136,35,101
+Summit,DEM,,Charles A. Stormont,32 Old Town North,Attorney General,73,17,56
+Summit,DEM,,Charles A. Stormont,33 Sidewinder,Attorney General,120,27,93
+Summit,DEM,,Charles A. Stormont,34 Bitner,Attorney General,149,48,101
+Summit,DEM,,Charles A. Stormont,35 Park Meadows North,Attorney General,158,55,103
+Summit,DEM,,Charles A. Stormont,36 Ranch Road South,Attorney General,68,20,48
+Summit,DEM,,Charles A. Stormont,37 Jeremy East,Attorney General,152,35,117
+Summit,DEM,,Charles A. Stormont,38 Highland Estates East,Attorney General,169,39,130
+Summit,DEM,,Charles A. Stormont,39 Pinebrook North,Attorney General,112,35,77
+Summit,DEM,,Charles A. Stormont,40 Moose Hollow,Attorney General,148,56,92
+Summit,DEM,,Charles A. Stormont,41 Upper Pinebrook,Attorney General,71,19,52
+Summit,DEM,,Charles A. Stormont,42 Snyders Mill,Attorney General,137,43,94
+Summit,DEM,,Charles A. Stormont,43 Kimball Canyon,Attorney General,20,3,17
+Summit,DEM,,Charles A. Stormont,44 Silver Creek Lower,Attorney General,80,28,52
+Summit,DEM,,Charles A. Stormont,45 Promontory Ridge,Attorney General,6,1,5
+Summit,REP,,Sean D. Reyes,1 Deer Valley North,Attorney General,25,6,19
+Summit,REP,,Sean D. Reyes,2 Old Town South,Attorney General,14,1,13
+Summit,REP,,Sean D. Reyes,3 Prospector,Attorney General,25,4,21
+Summit,REP,,Sean D. Reyes,4 Thaynes Canyon,Attorney General,61,12,49
+Summit,REP,,Sean D. Reyes,5 Park Meadows South,Attorney General,63,20,43
+Summit,REP,,Sean D. Reyes,6 Quarry Mountain,Attorney General,93,28,65
+Summit,REP,,Sean D. Reyes,7 Park West,Attorney General,157,41,116
+Summit,REP,,Sean D. Reyes,8 Silver Creek Upper,Attorney General,52,12,40
+Summit,REP,,Sean D. Reyes,9 Lower Pinebrook,Attorney General,131,40,91
+Summit,REP,,Sean D. Reyes,10 Summit Park West,Attorney General,26,5,21
+Summit,REP,,Sean D. Reyes,11 South Summit South,Attorney General,120,26,94
+Summit,REP,,Sean D. Reyes,12 Kamas,Attorney General,196,55,141
+Summit,REP,,Sean D. Reyes,13 South Summit East,Attorney General,105,39,66
+Summit,REP,,Sean D. Reyes,14 Oakley,Attorney General,246,23,223
+Summit,REP,,Sean D. Reyes,15:2 Peoa,Attorney General,4,1,3
+Summit,REP,,Sean D. Reyes,15:20 Peoa,Attorney General,69,12,57
+Summit,REP,,Sean D. Reyes,15:32 Peoa,Attorney General,19,7,12
+Summit,REP,,Sean D. Reyes,16 Silver Springs,Attorney General,113,23,90
+Summit,REP,,Sean D. Reyes,17:2 Wanship,Attorney General,22,8,14
+Summit,REP,,Sean D. Reyes,17:10 Wanship,Attorney General,121,13,108
+Summit,REP,,Sean D. Reyes,17:32 Wanship,Attorney General,1,0,1
+Summit,REP,,Sean D. Reyes,18 Hoytsville,Attorney General,169,25,144
+Summit,REP,,Sean D. Reyes,19 Coalville,Attorney General,219,43,176
+Summit,REP,,Sean D. Reyes,20 Chalk Creek,Attorney General,105,22,83
+Summit,REP,,Sean D. Reyes,21 Weber Canyon,Attorney General,33,9,24
+Summit,REP,,Sean D. Reyes,22 South Summit West,Attorney General,103,38,65
+Summit,REP,,Sean D. Reyes,23 Highland Estates West,Attorney General,99,27,72
+Summit,REP,,Sean D. Reyes,24 North Summit North,Attorney General,89,8,81
+Summit,REP,,Sean D. Reyes,25 Henefer,Attorney General,169,9,160
+Summit,REP,,Sean D. Reyes,26 Ranch Place,Attorney General,91,27,64
+Summit,REP,,Sean D. Reyes,27 Jeremy West,Attorney General,103,19,84
+Summit,REP,,Sean D. Reyes,28 Francis,Attorney General,222,34,188
+Summit,REP,,Sean D. Reyes,29 Wagon Wheel,Attorney General,40,7,33
+Summit,REP,,Sean D. Reyes,30 Summit Park East,Attorney General,78,19,59
+Summit,REP,,Sean D. Reyes,31 Deer Valley South,Attorney General,93,29,64
+Summit,REP,,Sean D. Reyes,32 Old Town North,Attorney General,40,7,33
+Summit,REP,,Sean D. Reyes,33 Sidewinder,Attorney General,28,4,24
+Summit,REP,,Sean D. Reyes,34 Bitner,Attorney General,86,25,61
+Summit,REP,,Sean D. Reyes,35 Park Meadows North,Attorney General,132,35,97
+Summit,REP,,Sean D. Reyes,36 Ranch Road South,Attorney General,54,12,42
+Summit,REP,,Sean D. Reyes,37 Jeremy East,Attorney General,124,17,107
+Summit,REP,,Sean D. Reyes,38 Highland Estates East,Attorney General,75,8,67
+Summit,REP,,Sean D. Reyes,39 Pinebrook North,Attorney General,64,5,59
+Summit,REP,,Sean D. Reyes,40 Moose Hollow,Attorney General,141,28,113
+Summit,REP,,Sean D. Reyes,41 Upper Pinebrook,Attorney General,60,13,47
+Summit,REP,,Sean D. Reyes,42 Snyders Mill,Attorney General,74,23,51
+Summit,REP,,Sean D. Reyes,43 Kimball Canyon,Attorney General,13,2,11
+Summit,REP,,Sean D. Reyes,44 Silver Creek Lower,Attorney General,65,14,51
+Summit,REP,,Sean D. Reyes,45 Promontory Ridge,Attorney General,6,4,2
+Summit,IAM,,Leslie D. Curtis,1 Deer Valley North,Attorney General,0,0,0
+Summit,IAM,,Leslie D. Curtis,2 Old Town South,Attorney General,2,0,2
+Summit,IAM,,Leslie D. Curtis,3 Prospector,Attorney General,9,0,9
+Summit,IAM,,Leslie D. Curtis,4 Thaynes Canyon,Attorney General,3,1,2
+Summit,IAM,,Leslie D. Curtis,5 Park Meadows South,Attorney General,5,0,5
+Summit,IAM,,Leslie D. Curtis,6 Quarry Mountain,Attorney General,4,2,2
+Summit,IAM,,Leslie D. Curtis,7 Park West,Attorney General,8,3,5
+Summit,IAM,,Leslie D. Curtis,8 Silver Creek Upper,Attorney General,3,1,2
+Summit,IAM,,Leslie D. Curtis,9 Lower Pinebrook,Attorney General,17,5,12
+Summit,IAM,,Leslie D. Curtis,10 Summit Park West,Attorney General,6,2,4
+Summit,IAM,,Leslie D. Curtis,11 South Summit South,Attorney General,4,1,3
+Summit,IAM,,Leslie D. Curtis,12 Kamas,Attorney General,19,2,17
+Summit,IAM,,Leslie D. Curtis,13 South Summit East,Attorney General,6,2,4
+Summit,IAM,,Leslie D. Curtis,14 Oakley,Attorney General,26,3,23
+Summit,IAM,,Leslie D. Curtis,15:2 Peoa,Attorney General,1,1,0
+Summit,IAM,,Leslie D. Curtis,15:20 Peoa,Attorney General,5,1,4
+Summit,IAM,,Leslie D. Curtis,15:32 Peoa,Attorney General,0,0,0
+Summit,IAM,,Leslie D. Curtis,16 Silver Springs,Attorney General,6,1,5
+Summit,IAM,,Leslie D. Curtis,17:2 Wanship,Attorney General,2,0,2
+Summit,IAM,,Leslie D. Curtis,17:10 Wanship,Attorney General,8,0,8
+Summit,IAM,,Leslie D. Curtis,17:32 Wanship,Attorney General,0,0,0
+Summit,IAM,,Leslie D. Curtis,18 Hoytsville,Attorney General,13,3,10
+Summit,IAM,,Leslie D. Curtis,19 Coalville,Attorney General,19,2,17
+Summit,IAM,,Leslie D. Curtis,20 Chalk Creek,Attorney General,8,2,6
+Summit,IAM,,Leslie D. Curtis,21 Weber Canyon,Attorney General,1,0,1
+Summit,IAM,,Leslie D. Curtis,22 South Summit West,Attorney General,6,1,5
+Summit,IAM,,Leslie D. Curtis,23 Highland Estates West,Attorney General,8,3,5
+Summit,IAM,,Leslie D. Curtis,24 North Summit North,Attorney General,9,2,7
+Summit,IAM,,Leslie D. Curtis,25 Henefer,Attorney General,10,1,9
+Summit,IAM,,Leslie D. Curtis,26 Ranch Place,Attorney General,8,0,8
+Summit,IAM,,Leslie D. Curtis,27 Jeremy West,Attorney General,2,0,2
+Summit,IAM,,Leslie D. Curtis,28 Francis,Attorney General,5,2,3
+Summit,IAM,,Leslie D. Curtis,29 Wagon Wheel,Attorney General,1,0,1
+Summit,IAM,,Leslie D. Curtis,30 Summit Park East,Attorney General,13,5,8
+Summit,IAM,,Leslie D. Curtis,31 Deer Valley South,Attorney General,5,0,5
+Summit,IAM,,Leslie D. Curtis,32 Old Town North,Attorney General,3,0,3
+Summit,IAM,,Leslie D. Curtis,33 Sidewinder,Attorney General,5,2,3
+Summit,IAM,,Leslie D. Curtis,34 Bitner,Attorney General,7,1,6
+Summit,IAM,,Leslie D. Curtis,35 Park Meadows North,Attorney General,8,3,5
+Summit,IAM,,Leslie D. Curtis,36 Ranch Road South,Attorney General,3,0,3
+Summit,IAM,,Leslie D. Curtis,37 Jeremy East,Attorney General,3,0,3
+Summit,IAM,,Leslie D. Curtis,38 Highland Estates East,Attorney General,14,1,13
+Summit,IAM,,Leslie D. Curtis,39 Pinebrook North,Attorney General,4,2,2
+Summit,IAM,,Leslie D. Curtis,40 Moose Hollow,Attorney General,6,0,6
+Summit,IAM,,Leslie D. Curtis,41 Upper Pinebrook,Attorney General,4,0,4
+Summit,IAM,,Leslie D. Curtis,42 Snyders Mill,Attorney General,4,0,4
+Summit,IAM,,Leslie D. Curtis,43 Kimball Canyon,Attorney General,2,0,2
+Summit,IAM,,Leslie D. Curtis,44 Silver Creek Lower,Attorney General,4,0,4
+Summit,IAM,,Leslie D. Curtis,45 Promontory Ridge,Attorney General,0,0,0
+Summit,DEM,26,Wayne Stevens,1 Deer Valley North,State Senate,73,17,56
+Summit,DEM,26,Wayne Stevens,2 Old Town South,State Senate,77,17,60
+Summit,DEM,26,Wayne Stevens,3 Prospector,State Senate,80,11,69
+Summit,DEM,26,Wayne Stevens,4 Thaynes Canyon,State Senate,120,34,86
+Summit,DEM,26,Wayne Stevens,5 Park Meadows South,State Senate,135,50,85
+Summit,DEM,26,Wayne Stevens,6 Quarry Mountain,State Senate,253,90,163
+Summit,DEM,26,Wayne Stevens,7 Park West,State Senate,235,64,171
+Summit,DEM,26,Wayne Stevens,9 Lower Pinebrook,State Senate,242,63,179
+Summit,DEM,26,Wayne Stevens,11 South Summit South,State Senate,44,11,33
+Summit,DEM,26,Wayne Stevens,12 Kamas,State Senate,125,41,84
+Summit,DEM,26,Wayne Stevens,13 South Summit East,State Senate,81,25,56
+Summit,DEM,26,Wayne Stevens,14 Oakley,State Senate,137,20,117
+Summit,DEM,26,Wayne Stevens,15:2 Peoa,State Senate,2,0,2
+Summit,DEM,26,Wayne Stevens,15:20 Peoa,State Senate,23,4,19
+Summit,DEM,26,Wayne Stevens,15:32 Peoa,State Senate,7,4,3
+Summit,DEM,26,Wayne Stevens,16 Silver Springs,State Senate,235,71,164
+Summit,DEM,26,Wayne Stevens,21 Weber Canyon,State Senate,22,10,12
+Summit,DEM,26,Wayne Stevens,22 South Summit West,State Senate,57,16,41
+Summit,DEM,26,Wayne Stevens,23 Highland Estates West,State Senate,160,43,117
+Summit,DEM,26,Wayne Stevens,26 Ranch Place,State Senate,157,45,112
+Summit,DEM,26,Wayne Stevens,28 Francis,State Senate,77,7,70
+Summit,DEM,26,Wayne Stevens,31 Deer Valley South,State Senate,159,43,116
+Summit,DEM,26,Wayne Stevens,32 Old Town North,State Senate,85,19,66
+Summit,DEM,26,Wayne Stevens,33 Sidewinder,State Senate,131,27,104
+Summit,DEM,26,Wayne Stevens,35 Park Meadows North,State Senate,182,56,126
+Summit,DEM,26,Wayne Stevens,36 Ranch Road South,State Senate,79,20,59
+Summit,DEM,26,Wayne Stevens,38 Highland Estates East,State Senate,200,45,155
+Summit,DEM,26,Wayne Stevens,41 Upper Pinebrook,State Senate,84,21,63
+Summit,DEM,26,Wayne Stevens,42 Snyders Mill,State Senate,154,47,107
+Summit,DEM,26,Wayne Stevens,45 Promontory Ridge,State Senate,6,1,5
+Summit,REP,26,Kevin T. Van Tassell,1 Deer Valley North,State Senate,27,5,22
+Summit,REP,26,Kevin T. Van Tassell,2 Old Town South,State Senate,11,1,10
+Summit,REP,26,Kevin T. Van Tassell,3 Prospector,State Senate,24,4,20
+Summit,REP,26,Kevin T. Van Tassell,4 Thaynes Canyon,State Senate,61,10,51
+Summit,REP,26,Kevin T. Van Tassell,5 Park Meadows South,State Senate,59,21,38
+Summit,REP,26,Kevin T. Van Tassell,6 Quarry Mountain,State Senate,90,25,65
+Summit,REP,26,Kevin T. Van Tassell,7 Park West,State Senate,158,41,117
+Summit,REP,26,Kevin T. Van Tassell,9 Lower Pinebrook,State Senate,130,40,90
+Summit,REP,26,Kevin T. Van Tassell,11 South Summit South,State Senate,123,27,96
+Summit,REP,26,Kevin T. Van Tassell,12 Kamas,State Senate,245,73,172
+Summit,REP,26,Kevin T. Van Tassell,13 South Summit East,State Senate,114,36,78
+Summit,REP,26,Kevin T. Van Tassell,14 Oakley,State Senate,295,31,264
+Summit,REP,26,Kevin T. Van Tassell,15:2 Peoa,State Senate,6,2,4
+Summit,REP,26,Kevin T. Van Tassell,15:20 Peoa,State Senate,78,14,64
+Summit,REP,26,Kevin T. Van Tassell,15:32 Peoa,State Senate,19,8,11
+Summit,REP,26,Kevin T. Van Tassell,16 Silver Springs,State Senate,112,23,89
+Summit,REP,26,Kevin T. Van Tassell,21 Weber Canyon,State Senate,32,7,25
+Summit,REP,26,Kevin T. Van Tassell,22 South Summit West,State Senate,104,37,67
+Summit,REP,26,Kevin T. Van Tassell,23 Highland Estates West,State Senate,109,29,80
+Summit,REP,26,Kevin T. Van Tassell,26 Ranch Place,State Senate,86,28,58
+Summit,REP,26,Kevin T. Van Tassell,28 Francis,State Senate,231,39,192
+Summit,REP,26,Kevin T. Van Tassell,31 Deer Valley South,State Senate,87,24,63
+Summit,REP,26,Kevin T. Van Tassell,32 Old Town North,State Senate,39,5,34
+Summit,REP,26,Kevin T. Van Tassell,33 Sidewinder,State Senate,33,6,27
+Summit,REP,26,Kevin T. Van Tassell,35 Park Meadows North,State Senate,135,40,95
+Summit,REP,26,Kevin T. Van Tassell,36 Ranch Road South,State Senate,49,12,37
+Summit,REP,26,Kevin T. Van Tassell,38 Highland Estates East,State Senate,75,7,68
+Summit,REP,26,Kevin T. Van Tassell,41 Upper Pinebrook,State Senate,60,13,47
+Summit,REP,26,Kevin T. Van Tassell,42 Snyders Mill,State Senate,75,20,55
+Summit,REP,26,Kevin T. Van Tassell,45 Promontory Ridge,State Senate,7,5,2
+Summit,DEM,28,Brian S. King,10 Summit Park West,State House,113,25,88
+Summit,DEM,28,Brian S. King,30 Summit Park East,State House,274,61,213
+Summit,DEM,28,Brian S. King,39 Pinebrook North,State House,133,37,96
+Summit,DEM,53,Ray L. Worthen,7 Park West,State House,235,64,171
+Summit,DEM,53,Ray L. Worthen,9 Lower Pinebrook,State House,236,64,172
+Summit,DEM,53,Ray L. Worthen,11 South Summit South,State House,46,16,30
+Summit,DEM,53,Ray L. Worthen,12 Kamas,State House,136,51,85
+Summit,DEM,53,Ray L. Worthen,13 South Summit East,State House,83,27,56
+Summit,DEM,53,Ray L. Worthen,14 Oakley,State House,146,23,123
+Summit,DEM,53,Ray L. Worthen,15:2 Peoa,State House,4,1,3
+Summit,DEM,53,Ray L. Worthen,15:20 Peoa,State House,18,3,15
+Summit,DEM,53,Ray L. Worthen,15:32 Peoa,State House,7,4,3
+Summit,DEM,53,Ray L. Worthen,16 Silver Springs,State House,229,73,156
+Summit,DEM,53,Ray L. Worthen,17:2 Wanship,State House,34,8,26
+Summit,DEM,53,Ray L. Worthen,17:10 Wanship,State House,89,14,75
+Summit,DEM,53,Ray L. Worthen,17:32 Wanship,State House,3,1,2
+Summit,DEM,53,Ray L. Worthen,18 Hoytsville,State House,53,10,43
+Summit,DEM,53,Ray L. Worthen,19 Coalville,State House,74,11,63
+Summit,DEM,53,Ray L. Worthen,20 Chalk Creek,State House,27,6,21
+Summit,DEM,53,Ray L. Worthen,21 Weber Canyon,State House,15,5,10
+Summit,DEM,53,Ray L. Worthen,22 South Summit West,State House,55,16,39
+Summit,DEM,53,Ray L. Worthen,24 North Summit North,State House,22,4,18
+Summit,DEM,53,Ray L. Worthen,25 Henefer,State House,30,0,30
+Summit,DEM,53,Ray L. Worthen,27 Jeremy West,State House,115,25,90
+Summit,DEM,53,Ray L. Worthen,28 Francis,State House,80,12,68
+Summit,DEM,53,Ray L. Worthen,29 Wagon Wheel,State House,79,9,70
+Summit,DEM,53,Ray L. Worthen,37 Jeremy East,State House,179,44,135
+Summit,DEM,53,Ray L. Worthen,40 Moose Hollow,State House,182,64,118
+Summit,DEM,53,Ray L. Worthen,41 Upper Pinebrook,State House,83,21,62
+Summit,DEM,53,Ray L. Worthen,42 Snyders Mill,State House,156,47,109
+Summit,DEM,53,Ray L. Worthen,43 Kimball Canyon,State House,24,3,21
+Summit,DEM,53,Ray L. Worthen,45 Promontory Ridge,State House,5,0,5
+Summit,REP,53,Melvin R. Brown,7 Park West,State House,161,41,120
+Summit,REP,53,Melvin R. Brown,9 Lower Pinebrook,State House,132,38,94
+Summit,REP,53,Melvin R. Brown,11 South Summit South,State House,118,22,96
+Summit,REP,53,Melvin R. Brown,12 Kamas,State House,232,63,169
+Summit,REP,53,Melvin R. Brown,13 South Summit East,State House,106,31,75
+Summit,REP,53,Melvin R. Brown,14 Oakley,State House,290,29,261
+Summit,REP,53,Melvin R. Brown,15:2 Peoa,State House,4,1,3
+Summit,REP,53,Melvin R. Brown,15:20 Peoa,State House,86,16,70
+Summit,REP,53,Melvin R. Brown,15:32 Peoa,State House,20,8,12
+Summit,REP,53,Melvin R. Brown,16 Silver Springs,State House,115,22,93
+Summit,REP,53,Melvin R. Brown,17:2 Wanship,State House,23,8,15
+Summit,REP,53,Melvin R. Brown,17:10 Wanship,State House,110,11,99
+Summit,REP,53,Melvin R. Brown,17:32 Wanship,State House,2,1,1
+Summit,REP,53,Melvin R. Brown,18 Hoytsville,State House,205,32,173
+Summit,REP,53,Melvin R. Brown,19 Coalville,State House,280,57,223
+Summit,REP,53,Melvin R. Brown,20 Chalk Creek,State House,125,31,94
+Summit,REP,53,Melvin R. Brown,21 Weber Canyon,State House,40,12,28
+Summit,REP,53,Melvin R. Brown,22 South Summit West,State House,107,38,69
+Summit,REP,53,Melvin R. Brown,24 North Summit North,State House,103,12,91
+Summit,REP,53,Melvin R. Brown,25 Henefer,State House,202,13,189
+Summit,REP,53,Melvin R. Brown,27 Jeremy West,State House,105,22,83
+Summit,REP,53,Melvin R. Brown,28 Francis,State House,229,35,194
+Summit,REP,53,Melvin R. Brown,29 Wagon Wheel,State House,45,8,37
+Summit,REP,53,Melvin R. Brown,37 Jeremy East,State House,120,15,105
+Summit,REP,53,Melvin R. Brown,40 Moose Hollow,State House,133,24,109
+Summit,REP,53,Melvin R. Brown,41 Upper Pinebrook,State House,59,12,47
+Summit,REP,53,Melvin R. Brown,42 Snyders Mill,State House,74,21,53
+Summit,REP,53,Melvin R. Brown,43 Kimball Canyon,State House,14,2,12
+Summit,REP,53,Melvin R. Brown,45 Promontory Ridge,State House,8,6,2
+Summit,DEM,54,Glenn J. Wright,1 Deer Valley North,State House,68,15,53
+Summit,DEM,54,Glenn J. Wright,2 Old Town South,State House,77,18,59
+Summit,DEM,54,Glenn J. Wright,3 Prospector,State House,73,11,62
+Summit,DEM,54,Glenn J. Wright,4 Thaynes Canyon,State House,112,27,85
+Summit,DEM,54,Glenn J. Wright,5 Park Meadows South,State House,133,49,84
+Summit,DEM,54,Glenn J. Wright,6 Quarry Mountain,State House,245,82,163
+Summit,DEM,54,Glenn J. Wright,8 Silver Creek Upper,State House,80,30,50
+Summit,DEM,54,Glenn J. Wright,23 Highland Estates West,State House,155,41,114
+Summit,DEM,54,Glenn J. Wright,26 Ranch Place,State House,149,40,109
+Summit,DEM,54,Glenn J. Wright,31 Deer Valley South,State House,149,38,111
+Summit,DEM,54,Glenn J. Wright,32 Old Town North,State House,88,21,67
+Summit,DEM,54,Glenn J. Wright,33 Sidewinder,State House,136,31,105
+Summit,DEM,54,Glenn J. Wright,34 Bitner,State House,173,51,122
+Summit,DEM,54,Glenn J. Wright,35 Park Meadows North,State House,177,58,119
+Summit,DEM,54,Glenn J. Wright,36 Ranch Road South,State House,80,21,59
+Summit,DEM,54,Glenn J. Wright,38 Highland Estates East,State House,193,41,152
+Summit,DEM,54,Glenn J. Wright,44 Silver Creek Lower,State House,79,26,53
+Summit,REP,54,Kraig Powell,1 Deer Valley North,State House,32,7,25
+Summit,REP,54,Kraig Powell,2 Old Town South,State House,17,2,15
+Summit,REP,54,Kraig Powell,3 Prospector,State House,32,5,27
+Summit,REP,54,Kraig Powell,4 Thaynes Canyon,State House,70,16,54
+Summit,REP,54,Kraig Powell,5 Park Meadows South,State House,67,22,45
+Summit,REP,54,Kraig Powell,6 Quarry Mountain,State House,104,33,71
+Summit,REP,54,Kraig Powell,8 Silver Creek Upper,State House,50,11,39
+Summit,REP,54,Kraig Powell,10 Summit Park West,State House,,,
+Summit,REP,54,Kraig Powell,23 Highland Estates West,State House,112,31,81
+Summit,REP,54,Kraig Powell,26 Ranch Place,State House,102,33,69
+Summit,REP,54,Kraig Powell,30 Summit Park East,State House,,,
+Summit,REP,54,Kraig Powell,31 Deer Valley South,State House,97,30,67
+Summit,REP,54,Kraig Powell,32 Old Town North,State House,39,4,35
+Summit,REP,54,Kraig Powell,33 Sidewinder,State House,33,4,29
+Summit,REP,54,Kraig Powell,34 Bitner,State House,92,26,66
+Summit,REP,54,Kraig Powell,35 Park Meadows North,State House,143,40,103
+Summit,REP,54,Kraig Powell,36 Ranch Road South,State House,49,12,37
+Summit,REP,54,Kraig Powell,38 Highland Estates East,State House,83,10,73
+Summit,REP,54,Kraig Powell,39 Pinebrook North,State House,,,
+Summit,REP,54,Kraig Powell,44 Silver Creek Lower,State House,83,19,64
