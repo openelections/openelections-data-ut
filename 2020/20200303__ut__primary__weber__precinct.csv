@@ -1,0 +1,3047 @@
+county,office,district,party,precinct,Attribute,Value
+Weber,President,,Republican,FRW001,ROBERT ARDINI,3
+Weber,President,,Republican,FRW001,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,FRW001,BOB ELY,1
+Weber,President,,Republican,FRW001,JOE WALSH,5
+Weber,President,,Republican,FRW001,BILL WELD,16
+Weber,President,,Republican,FRW001,DONALD J. TRUMP,263
+Weber,President,,Republican,FRW002,ROBERT ARDINI,4
+Weber,President,,Republican,FRW002,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,FRW002,BOB ELY,0
+Weber,President,,Republican,FRW002,JOE WALSH,13
+Weber,President,,Republican,FRW002,BILL WELD,5
+Weber,President,,Republican,FRW002,DONALD J. TRUMP,185
+Weber,President,,Republican,FRW003,ROBERT ARDINI,6
+Weber,President,,Republican,FRW003,MATTHEW JOHN MATERN,6
+Weber,President,,Republican,FRW003,BOB ELY,1
+Weber,President,,Republican,FRW003,JOE WALSH,4
+Weber,President,,Republican,FRW003,BILL WELD,9
+Weber,President,,Republican,FRW003,DONALD J. TRUMP,258
+Weber,President,,Republican,FRW004,ROBERT ARDINI,4
+Weber,President,,Republican,FRW004,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,FRW004,BOB ELY,0
+Weber,President,,Republican,FRW004,JOE WALSH,4
+Weber,President,,Republican,FRW004,BILL WELD,19
+Weber,President,,Republican,FRW004,DONALD J. TRUMP,286
+Weber,President,,Republican,HPR001,ROBERT ARDINI,1
+Weber,President,,Republican,HPR001,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,HPR001,BOB ELY,0
+Weber,President,,Republican,HPR001,JOE WALSH,5
+Weber,President,,Republican,HPR001,BILL WELD,15
+Weber,President,,Republican,HPR001,DONALD J. TRUMP,273
+Weber,President,,Republican,HPR002,ROBERT ARDINI,0
+Weber,President,,Republican,HPR002,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,HPR002,BOB ELY,1
+Weber,President,,Republican,HPR002,JOE WALSH,4
+Weber,President,,Republican,HPR002,BILL WELD,5
+Weber,President,,Republican,HPR002,DONALD J. TRUMP,107
+Weber,President,,Republican,HPR003,ROBERT ARDINI,2
+Weber,President,,Republican,HPR003,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,HPR003,BOB ELY,0
+Weber,President,,Republican,HPR003,JOE WALSH,2
+Weber,President,,Republican,HPR003,BILL WELD,5
+Weber,President,,Republican,HPR003,DONALD J. TRUMP,206
+Weber,President,,Republican,HPR004,ROBERT ARDINI,0
+Weber,President,,Republican,HPR004,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,HPR004,BOB ELY,0
+Weber,President,,Republican,HPR004,JOE WALSH,4
+Weber,President,,Republican,HPR004,BILL WELD,7
+Weber,President,,Republican,HPR004,DONALD J. TRUMP,173
+Weber,President,,Republican,HPR005,ROBERT ARDINI,4
+Weber,President,,Republican,HPR005,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,HPR005,BOB ELY,0
+Weber,President,,Republican,HPR005,JOE WALSH,4
+Weber,President,,Republican,HPR005,BILL WELD,13
+Weber,President,,Republican,HPR005,DONALD J. TRUMP,165
+Weber,President,,Republican,HPR006,ROBERT ARDINI,0
+Weber,President,,Republican,HPR006,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,HPR006,BOB ELY,0
+Weber,President,,Republican,HPR006,JOE WALSH,1
+Weber,President,,Republican,HPR006,BILL WELD,7
+Weber,President,,Republican,HPR006,DONALD J. TRUMP,228
+Weber,President,,Republican,HSV001,ROBERT ARDINI,0
+Weber,President,,Republican,HSV001,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,HSV001,BOB ELY,0
+Weber,President,,Republican,HSV001,JOE WALSH,6
+Weber,President,,Republican,HSV001,BILL WELD,3
+Weber,President,,Republican,HSV001,DONALD J. TRUMP,218
+Weber,President,,Republican,HSV002,ROBERT ARDINI,1
+Weber,President,,Republican,HSV002,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,HSV002,BOB ELY,0
+Weber,President,,Republican,HSV002,JOE WALSH,9
+Weber,President,,Republican,HSV002,BILL WELD,7
+Weber,President,,Republican,HSV002,DONALD J. TRUMP,152
+Weber,President,,Republican,HSV003,ROBERT ARDINI,0
+Weber,President,,Republican,HSV003,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,HSV003,BOB ELY,0
+Weber,President,,Republican,HSV003,JOE WALSH,0
+Weber,President,,Republican,HSV003,BILL WELD,3
+Weber,President,,Republican,HSV003,DONALD J. TRUMP,50
+Weber,President,,Republican,HSV004,ROBERT ARDINI,3
+Weber,President,,Republican,HSV004,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,HSV004,BOB ELY,1
+Weber,President,,Republican,HSV004,JOE WALSH,5
+Weber,President,,Republican,HSV004,BILL WELD,12
+Weber,President,,Republican,HSV004,DONALD J. TRUMP,226
+Weber,President,,Republican,HTV001,ROBERT ARDINI,2
+Weber,President,,Republican,HTV001,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,HTV001,BOB ELY,0
+Weber,President,,Republican,HTV001,JOE WALSH,2
+Weber,President,,Republican,HTV001,BILL WELD,12
+Weber,President,,Republican,HTV001,DONALD J. TRUMP,102
+Weber,President,,Republican,MSC002,ROBERT ARDINI,1
+Weber,President,,Republican,MSC002,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,MSC002,BOB ELY,2
+Weber,President,,Republican,MSC002,JOE WALSH,2
+Weber,President,,Republican,MSC002,BILL WELD,5
+Weber,President,,Republican,MSC002,DONALD J. TRUMP,87
+Weber,President,,Republican,MSC003,ROBERT ARDINI,0
+Weber,President,,Republican,MSC003,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,MSC003,BOB ELY,0
+Weber,President,,Republican,MSC003,JOE WALSH,5
+Weber,President,,Republican,MSC003,BILL WELD,4
+Weber,President,,Republican,MSC003,DONALD J. TRUMP,57
+Weber,President,,Republican,MSC004,ROBERT ARDINI,1
+Weber,President,,Republican,MSC004,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,MSC004,BOB ELY,1
+Weber,President,,Republican,MSC004,JOE WALSH,2
+Weber,President,,Republican,MSC004,BILL WELD,4
+Weber,President,,Republican,MSC004,DONALD J. TRUMP,73
+Weber,President,,Republican,NOG001,ROBERT ARDINI,1
+Weber,President,,Republican,NOG001,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,NOG001,BOB ELY,0
+Weber,President,,Republican,NOG001,JOE WALSH,7
+Weber,President,,Republican,NOG001,BILL WELD,7
+Weber,President,,Republican,NOG001,DONALD J. TRUMP,159
+Weber,President,,Republican,NOG002,ROBERT ARDINI,8
+Weber,President,,Republican,NOG002,MATTHEW JOHN MATERN,6
+Weber,President,,Republican,NOG002,BOB ELY,0
+Weber,President,,Republican,NOG002,JOE WALSH,9
+Weber,President,,Republican,NOG002,BILL WELD,8
+Weber,President,,Republican,NOG002,DONALD J. TRUMP,135
+Weber,President,,Republican,NOG003,ROBERT ARDINI,5
+Weber,President,,Republican,NOG003,MATTHEW JOHN MATERN,10
+Weber,President,,Republican,NOG003,BOB ELY,0
+Weber,President,,Republican,NOG003,JOE WALSH,6
+Weber,President,,Republican,NOG003,BILL WELD,11
+Weber,President,,Republican,NOG003,DONALD J. TRUMP,186
+Weber,President,,Republican,NOG004,ROBERT ARDINI,3
+Weber,President,,Republican,NOG004,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,NOG004,BOB ELY,0
+Weber,President,,Republican,NOG004,JOE WALSH,2
+Weber,President,,Republican,NOG004,BILL WELD,5
+Weber,President,,Republican,NOG004,DONALD J. TRUMP,145
+Weber,President,,Republican,NOG005,ROBERT ARDINI,8
+Weber,President,,Republican,NOG005,MATTHEW JOHN MATERN,6
+Weber,President,,Republican,NOG005,BOB ELY,1
+Weber,President,,Republican,NOG005,JOE WALSH,4
+Weber,President,,Republican,NOG005,BILL WELD,20
+Weber,President,,Republican,NOG005,DONALD J. TRUMP,230
+Weber,President,,Republican,NOG006,ROBERT ARDINI,1
+Weber,President,,Republican,NOG006,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,NOG006,BOB ELY,2
+Weber,President,,Republican,NOG006,JOE WALSH,4
+Weber,President,,Republican,NOG006,BILL WELD,6
+Weber,President,,Republican,NOG006,DONALD J. TRUMP,127
+Weber,President,,Republican,NOG007,ROBERT ARDINI,2
+Weber,President,,Republican,NOG007,MATTHEW JOHN MATERN,5
+Weber,President,,Republican,NOG007,BOB ELY,1
+Weber,President,,Republican,NOG007,JOE WALSH,10
+Weber,President,,Republican,NOG007,BILL WELD,13
+Weber,President,,Republican,NOG007,DONALD J. TRUMP,145
+Weber,President,,Republican,NOG008,ROBERT ARDINI,5
+Weber,President,,Republican,NOG008,MATTHEW JOHN MATERN,15
+Weber,President,,Republican,NOG008,BOB ELY,0
+Weber,President,,Republican,NOG008,JOE WALSH,5
+Weber,President,,Republican,NOG008,BILL WELD,19
+Weber,President,,Republican,NOG008,DONALD J. TRUMP,255
+Weber,President,,Republican,NOG009,ROBERT ARDINI,4
+Weber,President,,Republican,NOG009,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,NOG009,BOB ELY,0
+Weber,President,,Republican,NOG009,JOE WALSH,1
+Weber,President,,Republican,NOG009,BILL WELD,13
+Weber,President,,Republican,NOG009,DONALD J. TRUMP,223
+Weber,President,,Republican,NOG010,ROBERT ARDINI,3
+Weber,President,,Republican,NOG010,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,NOG010,BOB ELY,0
+Weber,President,,Republican,NOG010,JOE WALSH,8
+Weber,President,,Republican,NOG010,BILL WELD,18
+Weber,President,,Republican,NOG010,DONALD J. TRUMP,239
+Weber,President,,Republican,NOG011,ROBERT ARDINI,3
+Weber,President,,Republican,NOG011,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,NOG011,BOB ELY,1
+Weber,President,,Republican,NOG011,JOE WALSH,8
+Weber,President,,Republican,NOG011,BILL WELD,19
+Weber,President,,Republican,NOG011,DONALD J. TRUMP,158
+Weber,President,,Republican,NOG012,ROBERT ARDINI,3
+Weber,President,,Republican,NOG012,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,NOG012,BOB ELY,0
+Weber,President,,Republican,NOG012,JOE WALSH,6
+Weber,President,,Republican,NOG012,BILL WELD,19
+Weber,President,,Republican,NOG012,DONALD J. TRUMP,185
+Weber,President,,Republican,NOG013,ROBERT ARDINI,2
+Weber,President,,Republican,NOG013,MATTHEW JOHN MATERN,9
+Weber,President,,Republican,NOG013,BOB ELY,0
+Weber,President,,Republican,NOG013,JOE WALSH,4
+Weber,President,,Republican,NOG013,BILL WELD,8
+Weber,President,,Republican,NOG013,DONALD J. TRUMP,222
+Weber,President,,Republican,OGD001,ROBERT ARDINI,3
+Weber,President,,Republican,OGD001,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,OGD001,BOB ELY,0
+Weber,President,,Republican,OGD001,JOE WALSH,5
+Weber,President,,Republican,OGD001,BILL WELD,8
+Weber,President,,Republican,OGD001,DONALD J. TRUMP,82
+Weber,President,,Republican,OGD002,ROBERT ARDINI,1
+Weber,President,,Republican,OGD002,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,OGD002,BOB ELY,0
+Weber,President,,Republican,OGD002,JOE WALSH,8
+Weber,President,,Republican,OGD002,BILL WELD,7
+Weber,President,,Republican,OGD002,DONALD J. TRUMP,147
+Weber,President,,Republican,OGD003,ROBERT ARDINI,1
+Weber,President,,Republican,OGD003,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD003,BOB ELY,1
+Weber,President,,Republican,OGD003,JOE WALSH,2
+Weber,President,,Republican,OGD003,BILL WELD,5
+Weber,President,,Republican,OGD003,DONALD J. TRUMP,112
+Weber,President,,Republican,OGD004,ROBERT ARDINI,3
+Weber,President,,Republican,OGD004,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD004,BOB ELY,0
+Weber,President,,Republican,OGD004,JOE WALSH,3
+Weber,President,,Republican,OGD004,BILL WELD,8
+Weber,President,,Republican,OGD004,DONALD J. TRUMP,88
+Weber,President,,Republican,OGD005,ROBERT ARDINI,0
+Weber,President,,Republican,OGD005,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD005,BOB ELY,3
+Weber,President,,Republican,OGD005,JOE WALSH,6
+Weber,President,,Republican,OGD005,BILL WELD,4
+Weber,President,,Republican,OGD005,DONALD J. TRUMP,98
+Weber,President,,Republican,OGD006,ROBERT ARDINI,0
+Weber,President,,Republican,OGD006,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,OGD006,BOB ELY,0
+Weber,President,,Republican,OGD006,JOE WALSH,2
+Weber,President,,Republican,OGD006,BILL WELD,4
+Weber,President,,Republican,OGD006,DONALD J. TRUMP,88
+Weber,President,,Republican,OGD007,ROBERT ARDINI,2
+Weber,President,,Republican,OGD007,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,OGD007,BOB ELY,0
+Weber,President,,Republican,OGD007,JOE WALSH,3
+Weber,President,,Republican,OGD007,BILL WELD,2
+Weber,President,,Republican,OGD007,DONALD J. TRUMP,62
+Weber,President,,Republican,OGD008,ROBERT ARDINI,0
+Weber,President,,Republican,OGD008,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,OGD008,BOB ELY,1
+Weber,President,,Republican,OGD008,JOE WALSH,1
+Weber,President,,Republican,OGD008,BILL WELD,4
+Weber,President,,Republican,OGD008,DONALD J. TRUMP,99
+Weber,President,,Republican,OGD009,ROBERT ARDINI,2
+Weber,President,,Republican,OGD009,MATTHEW JOHN MATERN,5
+Weber,President,,Republican,OGD009,BOB ELY,1
+Weber,President,,Republican,OGD009,JOE WALSH,2
+Weber,President,,Republican,OGD009,BILL WELD,7
+Weber,President,,Republican,OGD009,DONALD J. TRUMP,116
+Weber,President,,Republican,OGD010,ROBERT ARDINI,1
+Weber,President,,Republican,OGD010,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD010,BOB ELY,0
+Weber,President,,Republican,OGD010,JOE WALSH,2
+Weber,President,,Republican,OGD010,BILL WELD,2
+Weber,President,,Republican,OGD010,DONALD J. TRUMP,105
+Weber,President,,Republican,OGD011,ROBERT ARDINI,2
+Weber,President,,Republican,OGD011,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD011,BOB ELY,1
+Weber,President,,Republican,OGD011,JOE WALSH,7
+Weber,President,,Republican,OGD011,BILL WELD,17
+Weber,President,,Republican,OGD011,DONALD J. TRUMP,87
+Weber,President,,Republican,OGD012,ROBERT ARDINI,0
+Weber,President,,Republican,OGD012,MATTHEW JOHN MATERN,5
+Weber,President,,Republican,OGD012,BOB ELY,0
+Weber,President,,Republican,OGD012,JOE WALSH,4
+Weber,President,,Republican,OGD012,BILL WELD,2
+Weber,President,,Republican,OGD012,DONALD J. TRUMP,85
+Weber,President,,Republican,OGD013,ROBERT ARDINI,1
+Weber,President,,Republican,OGD013,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD013,BOB ELY,3
+Weber,President,,Republican,OGD013,JOE WALSH,8
+Weber,President,,Republican,OGD013,BILL WELD,8
+Weber,President,,Republican,OGD013,DONALD J. TRUMP,90
+Weber,President,,Republican,OGD014,ROBERT ARDINI,2
+Weber,President,,Republican,OGD014,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,OGD014,BOB ELY,1
+Weber,President,,Republican,OGD014,JOE WALSH,4
+Weber,President,,Republican,OGD014,BILL WELD,5
+Weber,President,,Republican,OGD014,DONALD J. TRUMP,146
+Weber,President,,Republican,OGD015,ROBERT ARDINI,0
+Weber,President,,Republican,OGD015,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD015,BOB ELY,0
+Weber,President,,Republican,OGD015,JOE WALSH,3
+Weber,President,,Republican,OGD015,BILL WELD,7
+Weber,President,,Republican,OGD015,DONALD J. TRUMP,68
+Weber,President,,Republican,OGD016,ROBERT ARDINI,1
+Weber,President,,Republican,OGD016,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,OGD016,BOB ELY,1
+Weber,President,,Republican,OGD016,JOE WALSH,1
+Weber,President,,Republican,OGD016,BILL WELD,2
+Weber,President,,Republican,OGD016,DONALD J. TRUMP,51
+Weber,President,,Republican,OGD017,ROBERT ARDINI,1
+Weber,President,,Republican,OGD017,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,OGD017,BOB ELY,0
+Weber,President,,Republican,OGD017,JOE WALSH,1
+Weber,President,,Republican,OGD017,BILL WELD,1
+Weber,President,,Republican,OGD017,DONALD J. TRUMP,80
+Weber,President,,Republican,OGD018,ROBERT ARDINI,2
+Weber,President,,Republican,OGD018,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,OGD018,BOB ELY,0
+Weber,President,,Republican,OGD018,JOE WALSH,4
+Weber,President,,Republican,OGD018,BILL WELD,4
+Weber,President,,Republican,OGD018,DONALD J. TRUMP,136
+Weber,President,,Republican,OGD019,ROBERT ARDINI,0
+Weber,President,,Republican,OGD019,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,OGD019,BOB ELY,0
+Weber,President,,Republican,OGD019,JOE WALSH,0
+Weber,President,,Republican,OGD019,BILL WELD,0
+Weber,President,,Republican,OGD019,DONALD J. TRUMP,27
+Weber,President,,Republican,OGD020,ROBERT ARDINI,0
+Weber,President,,Republican,OGD020,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD020,BOB ELY,0
+Weber,President,,Republican,OGD020,JOE WALSH,1
+Weber,President,,Republican,OGD020,BILL WELD,2
+Weber,President,,Republican,OGD020,DONALD J. TRUMP,26
+Weber,President,,Republican,OGD021,ROBERT ARDINI,1
+Weber,President,,Republican,OGD021,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,OGD021,BOB ELY,0
+Weber,President,,Republican,OGD021,JOE WALSH,7
+Weber,President,,Republican,OGD021,BILL WELD,6
+Weber,President,,Republican,OGD021,DONALD J. TRUMP,66
+Weber,President,,Republican,OGD022,ROBERT ARDINI,0
+Weber,President,,Republican,OGD022,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD022,BOB ELY,0
+Weber,President,,Republican,OGD022,JOE WALSH,0
+Weber,President,,Republican,OGD022,BILL WELD,2
+Weber,President,,Republican,OGD022,DONALD J. TRUMP,69
+Weber,President,,Republican,OGD023,ROBERT ARDINI,6
+Weber,President,,Republican,OGD023,MATTHEW JOHN MATERN,7
+Weber,President,,Republican,OGD023,BOB ELY,3
+Weber,President,,Republican,OGD023,JOE WALSH,3
+Weber,President,,Republican,OGD023,BILL WELD,11
+Weber,President,,Republican,OGD023,DONALD J. TRUMP,102
+Weber,President,,Republican,OGD024,ROBERT ARDINI,2
+Weber,President,,Republican,OGD024,MATTHEW JOHN MATERN,5
+Weber,President,,Republican,OGD024,BOB ELY,0
+Weber,President,,Republican,OGD024,JOE WALSH,4
+Weber,President,,Republican,OGD024,BILL WELD,7
+Weber,President,,Republican,OGD024,DONALD J. TRUMP,96
+Weber,President,,Republican,OGD025,ROBERT ARDINI,1
+Weber,President,,Republican,OGD025,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,OGD025,BOB ELY,0
+Weber,President,,Republican,OGD025,JOE WALSH,3
+Weber,President,,Republican,OGD025,BILL WELD,16
+Weber,President,,Republican,OGD025,DONALD J. TRUMP,84
+Weber,President,,Republican,OGD026,ROBERT ARDINI,1
+Weber,President,,Republican,OGD026,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,OGD026,BOB ELY,0
+Weber,President,,Republican,OGD026,JOE WALSH,4
+Weber,President,,Republican,OGD026,BILL WELD,3
+Weber,President,,Republican,OGD026,DONALD J. TRUMP,41
+Weber,President,,Republican,OGD027,ROBERT ARDINI,4
+Weber,President,,Republican,OGD027,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD027,BOB ELY,0
+Weber,President,,Republican,OGD027,JOE WALSH,1
+Weber,President,,Republican,OGD027,BILL WELD,7
+Weber,President,,Republican,OGD027,DONALD J. TRUMP,47
+Weber,President,,Republican,OGD028,ROBERT ARDINI,5
+Weber,President,,Republican,OGD028,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,OGD028,BOB ELY,0
+Weber,President,,Republican,OGD028,JOE WALSH,2
+Weber,President,,Republican,OGD028,BILL WELD,11
+Weber,President,,Republican,OGD028,DONALD J. TRUMP,49
+Weber,President,,Republican,OGD029,ROBERT ARDINI,1
+Weber,President,,Republican,OGD029,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD029,BOB ELY,2
+Weber,President,,Republican,OGD029,JOE WALSH,2
+Weber,President,,Republican,OGD029,BILL WELD,3
+Weber,President,,Republican,OGD029,DONALD J. TRUMP,48
+Weber,President,,Republican,OGD030,ROBERT ARDINI,1
+Weber,President,,Republican,OGD030,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,OGD030,BOB ELY,3
+Weber,President,,Republican,OGD030,JOE WALSH,1
+Weber,President,,Republican,OGD030,BILL WELD,5
+Weber,President,,Republican,OGD030,DONALD J. TRUMP,53
+Weber,President,,Republican,OGD031,ROBERT ARDINI,0
+Weber,President,,Republican,OGD031,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD031,BOB ELY,1
+Weber,President,,Republican,OGD031,JOE WALSH,0
+Weber,President,,Republican,OGD031,BILL WELD,3
+Weber,President,,Republican,OGD031,DONALD J. TRUMP,36
+Weber,President,,Republican,OGD032,ROBERT ARDINI,1
+Weber,President,,Republican,OGD032,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD032,BOB ELY,0
+Weber,President,,Republican,OGD032,JOE WALSH,3
+Weber,President,,Republican,OGD032,BILL WELD,8
+Weber,President,,Republican,OGD032,DONALD J. TRUMP,88
+Weber,President,,Republican,OGD033,ROBERT ARDINI,1
+Weber,President,,Republican,OGD033,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,OGD033,BOB ELY,0
+Weber,President,,Republican,OGD033,JOE WALSH,3
+Weber,President,,Republican,OGD033,BILL WELD,6
+Weber,President,,Republican,OGD033,DONALD J. TRUMP,70
+Weber,President,,Republican,OGD034,ROBERT ARDINI,0
+Weber,President,,Republican,OGD034,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,OGD034,BOB ELY,0
+Weber,President,,Republican,OGD034,JOE WALSH,7
+Weber,President,,Republican,OGD034,BILL WELD,11
+Weber,President,,Republican,OGD034,DONALD J. TRUMP,64
+Weber,President,,Republican,OGD035,ROBERT ARDINI,2
+Weber,President,,Republican,OGD035,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD035,BOB ELY,0
+Weber,President,,Republican,OGD035,JOE WALSH,2
+Weber,President,,Republican,OGD035,BILL WELD,2
+Weber,President,,Republican,OGD035,DONALD J. TRUMP,84
+Weber,President,,Republican,OGD036,ROBERT ARDINI,2
+Weber,President,,Republican,OGD036,MATTHEW JOHN MATERN,5
+Weber,President,,Republican,OGD036,BOB ELY,0
+Weber,President,,Republican,OGD036,JOE WALSH,0
+Weber,President,,Republican,OGD036,BILL WELD,14
+Weber,President,,Republican,OGD036,DONALD J. TRUMP,144
+Weber,President,,Republican,OGD037,ROBERT ARDINI,4
+Weber,President,,Republican,OGD037,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,OGD037,BOB ELY,0
+Weber,President,,Republican,OGD037,JOE WALSH,5
+Weber,President,,Republican,OGD037,BILL WELD,21
+Weber,President,,Republican,OGD037,DONALD J. TRUMP,69
+Weber,President,,Republican,OGD038,ROBERT ARDINI,4
+Weber,President,,Republican,OGD038,MATTHEW JOHN MATERN,5
+Weber,President,,Republican,OGD038,BOB ELY,0
+Weber,President,,Republican,OGD038,JOE WALSH,3
+Weber,President,,Republican,OGD038,BILL WELD,16
+Weber,President,,Republican,OGD038,DONALD J. TRUMP,104
+Weber,President,,Republican,OGD039,ROBERT ARDINI,1
+Weber,President,,Republican,OGD039,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,OGD039,BOB ELY,2
+Weber,President,,Republican,OGD039,JOE WALSH,9
+Weber,President,,Republican,OGD039,BILL WELD,14
+Weber,President,,Republican,OGD039,DONALD J. TRUMP,103
+Weber,President,,Republican,OGD040,ROBERT ARDINI,3
+Weber,President,,Republican,OGD040,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,OGD040,BOB ELY,1
+Weber,President,,Republican,OGD040,JOE WALSH,4
+Weber,President,,Republican,OGD040,BILL WELD,13
+Weber,President,,Republican,OGD040,DONALD J. TRUMP,96
+Weber,President,,Republican,OGD041,ROBERT ARDINI,0
+Weber,President,,Republican,OGD041,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,OGD041,BOB ELY,0
+Weber,President,,Republican,OGD041,JOE WALSH,1
+Weber,President,,Republican,OGD041,BILL WELD,13
+Weber,President,,Republican,OGD041,DONALD J. TRUMP,48
+Weber,President,,Republican,OGD042,ROBERT ARDINI,2
+Weber,President,,Republican,OGD042,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,OGD042,BOB ELY,0
+Weber,President,,Republican,OGD042,JOE WALSH,2
+Weber,President,,Republican,OGD042,BILL WELD,18
+Weber,President,,Republican,OGD042,DONALD J. TRUMP,109
+Weber,President,,Republican,OGD043,ROBERT ARDINI,2
+Weber,President,,Republican,OGD043,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,OGD043,BOB ELY,0
+Weber,President,,Republican,OGD043,JOE WALSH,4
+Weber,President,,Republican,OGD043,BILL WELD,13
+Weber,President,,Republican,OGD043,DONALD J. TRUMP,137
+Weber,President,,Republican,OGD044,ROBERT ARDINI,3
+Weber,President,,Republican,OGD044,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,OGD044,BOB ELY,1
+Weber,President,,Republican,OGD044,JOE WALSH,6
+Weber,President,,Republican,OGD044,BILL WELD,13
+Weber,President,,Republican,OGD044,DONALD J. TRUMP,164
+Weber,President,,Republican,OGD045,ROBERT ARDINI,2
+Weber,President,,Republican,OGD045,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,OGD045,BOB ELY,1
+Weber,President,,Republican,OGD045,JOE WALSH,2
+Weber,President,,Republican,OGD045,BILL WELD,17
+Weber,President,,Republican,OGD045,DONALD J. TRUMP,169
+Weber,President,,Republican,PLC001,ROBERT ARDINI,3
+Weber,President,,Republican,PLC001,MATTHEW JOHN MATERN,7
+Weber,President,,Republican,PLC001,BOB ELY,0
+Weber,President,,Republican,PLC001,JOE WALSH,4
+Weber,President,,Republican,PLC001,BILL WELD,8
+Weber,President,,Republican,PLC001,DONALD J. TRUMP,277
+Weber,President,,Republican,PLC002,ROBERT ARDINI,6
+Weber,President,,Republican,PLC002,MATTHEW JOHN MATERN,7
+Weber,President,,Republican,PLC002,BOB ELY,1
+Weber,President,,Republican,PLC002,JOE WALSH,9
+Weber,President,,Republican,PLC002,BILL WELD,17
+Weber,President,,Republican,PLC002,DONALD J. TRUMP,337
+Weber,President,,Republican,PLC003,ROBERT ARDINI,1
+Weber,President,,Republican,PLC003,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,PLC003,BOB ELY,0
+Weber,President,,Republican,PLC003,JOE WALSH,2
+Weber,President,,Republican,PLC003,BILL WELD,5
+Weber,President,,Republican,PLC003,DONALD J. TRUMP,100
+Weber,President,,Republican,PLC004,ROBERT ARDINI,4
+Weber,President,,Republican,PLC004,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,PLC004,BOB ELY,1
+Weber,President,,Republican,PLC004,JOE WALSH,3
+Weber,President,,Republican,PLC004,BILL WELD,13
+Weber,President,,Republican,PLC004,DONALD J. TRUMP,249
+Weber,President,,Republican,PLV001,ROBERT ARDINI,1
+Weber,President,,Republican,PLV001,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,PLV001,BOB ELY,2
+Weber,President,,Republican,PLV001,JOE WALSH,8
+Weber,President,,Republican,PLV001,BILL WELD,11
+Weber,President,,Republican,PLV001,DONALD J. TRUMP,245
+Weber,President,,Republican,PLV002,ROBERT ARDINI,5
+Weber,President,,Republican,PLV002,MATTHEW JOHN MATERN,5
+Weber,President,,Republican,PLV002,BOB ELY,2
+Weber,President,,Republican,PLV002,JOE WALSH,3
+Weber,President,,Republican,PLV002,BILL WELD,12
+Weber,President,,Republican,PLV002,DONALD J. TRUMP,262
+Weber,President,,Republican,PLV003,ROBERT ARDINI,1
+Weber,President,,Republican,PLV003,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,PLV003,BOB ELY,0
+Weber,President,,Republican,PLV003,JOE WALSH,5
+Weber,President,,Republican,PLV003,BILL WELD,29
+Weber,President,,Republican,PLV003,DONALD J. TRUMP,242
+Weber,President,,Republican,PLV004,ROBERT ARDINI,2
+Weber,President,,Republican,PLV004,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,PLV004,BOB ELY,1
+Weber,President,,Republican,PLV004,JOE WALSH,6
+Weber,President,,Republican,PLV004,BILL WELD,14
+Weber,President,,Republican,PLV004,DONALD J. TRUMP,180
+Weber,President,,Republican,PLV005,ROBERT ARDINI,4
+Weber,President,,Republican,PLV005,MATTHEW JOHN MATERN,6
+Weber,President,,Republican,PLV005,BOB ELY,0
+Weber,President,,Republican,PLV005,JOE WALSH,14
+Weber,President,,Republican,PLV005,BILL WELD,18
+Weber,President,,Republican,PLV005,DONALD J. TRUMP,322
+Weber,President,,Republican,PLV006,ROBERT ARDINI,1
+Weber,President,,Republican,PLV006,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,PLV006,BOB ELY,0
+Weber,President,,Republican,PLV006,JOE WALSH,5
+Weber,President,,Republican,PLV006,BILL WELD,1
+Weber,President,,Republican,PLV006,DONALD J. TRUMP,41
+Weber,President,,Republican,RIV001,ROBERT ARDINI,4
+Weber,President,,Republican,RIV001,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,RIV001,BOB ELY,1
+Weber,President,,Republican,RIV001,JOE WALSH,4
+Weber,President,,Republican,RIV001,BILL WELD,22
+Weber,President,,Republican,RIV001,DONALD J. TRUMP,161
+Weber,President,,Republican,RIV002,ROBERT ARDINI,2
+Weber,President,,Republican,RIV002,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,RIV002,BOB ELY,0
+Weber,President,,Republican,RIV002,JOE WALSH,6
+Weber,President,,Republican,RIV002,BILL WELD,10
+Weber,President,,Republican,RIV002,DONALD J. TRUMP,133
+Weber,President,,Republican,RIV003,ROBERT ARDINI,1
+Weber,President,,Republican,RIV003,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,RIV003,BOB ELY,2
+Weber,President,,Republican,RIV003,JOE WALSH,4
+Weber,President,,Republican,RIV003,BILL WELD,9
+Weber,President,,Republican,RIV003,DONALD J. TRUMP,150
+Weber,President,,Republican,RIV004,ROBERT ARDINI,3
+Weber,President,,Republican,RIV004,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,RIV004,BOB ELY,1
+Weber,President,,Republican,RIV004,JOE WALSH,2
+Weber,President,,Republican,RIV004,BILL WELD,9
+Weber,President,,Republican,RIV004,DONALD J. TRUMP,116
+Weber,President,,Republican,RIV005,ROBERT ARDINI,1
+Weber,President,,Republican,RIV005,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,RIV005,BOB ELY,4
+Weber,President,,Republican,RIV005,JOE WALSH,4
+Weber,President,,Republican,RIV005,BILL WELD,11
+Weber,President,,Republican,RIV005,DONALD J. TRUMP,153
+Weber,President,,Republican,ROY001,ROBERT ARDINI,2
+Weber,President,,Republican,ROY001,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,ROY001,BOB ELY,0
+Weber,President,,Republican,ROY001,JOE WALSH,4
+Weber,President,,Republican,ROY001,BILL WELD,17
+Weber,President,,Republican,ROY001,DONALD J. TRUMP,163
+Weber,President,,Republican,ROY002,ROBERT ARDINI,3
+Weber,President,,Republican,ROY002,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,ROY002,BOB ELY,0
+Weber,President,,Republican,ROY002,JOE WALSH,13
+Weber,President,,Republican,ROY002,BILL WELD,8
+Weber,President,,Republican,ROY002,DONALD J. TRUMP,207
+Weber,President,,Republican,ROY003,ROBERT ARDINI,3
+Weber,President,,Republican,ROY003,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,ROY003,BOB ELY,1
+Weber,President,,Republican,ROY003,JOE WALSH,5
+Weber,President,,Republican,ROY003,BILL WELD,9
+Weber,President,,Republican,ROY003,DONALD J. TRUMP,145
+Weber,President,,Republican,ROY004,ROBERT ARDINI,0
+Weber,President,,Republican,ROY004,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,ROY004,BOB ELY,0
+Weber,President,,Republican,ROY004,JOE WALSH,6
+Weber,President,,Republican,ROY004,BILL WELD,8
+Weber,President,,Republican,ROY004,DONALD J. TRUMP,169
+Weber,President,,Republican,ROY005,ROBERT ARDINI,3
+Weber,President,,Republican,ROY005,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,ROY005,BOB ELY,0
+Weber,President,,Republican,ROY005,JOE WALSH,4
+Weber,President,,Republican,ROY005,BILL WELD,16
+Weber,President,,Republican,ROY005,DONALD J. TRUMP,208
+Weber,President,,Republican,ROY006,ROBERT ARDINI,0
+Weber,President,,Republican,ROY006,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,ROY006,BOB ELY,3
+Weber,President,,Republican,ROY006,JOE WALSH,8
+Weber,President,,Republican,ROY006,BILL WELD,8
+Weber,President,,Republican,ROY006,DONALD J. TRUMP,216
+Weber,President,,Republican,ROY007,ROBERT ARDINI,0
+Weber,President,,Republican,ROY007,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,ROY007,BOB ELY,0
+Weber,President,,Republican,ROY007,JOE WALSH,4
+Weber,President,,Republican,ROY007,BILL WELD,11
+Weber,President,,Republican,ROY007,DONALD J. TRUMP,171
+Weber,President,,Republican,ROY008,ROBERT ARDINI,1
+Weber,President,,Republican,ROY008,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,ROY008,BOB ELY,1
+Weber,President,,Republican,ROY008,JOE WALSH,0
+Weber,President,,Republican,ROY008,BILL WELD,9
+Weber,President,,Republican,ROY008,DONALD J. TRUMP,125
+Weber,President,,Republican,ROY009,ROBERT ARDINI,2
+Weber,President,,Republican,ROY009,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,ROY009,BOB ELY,1
+Weber,President,,Republican,ROY009,JOE WALSH,3
+Weber,President,,Republican,ROY009,BILL WELD,6
+Weber,President,,Republican,ROY009,DONALD J. TRUMP,161
+Weber,President,,Republican,ROY010,ROBERT ARDINI,3
+Weber,President,,Republican,ROY010,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,ROY010,BOB ELY,0
+Weber,President,,Republican,ROY010,JOE WALSH,3
+Weber,President,,Republican,ROY010,BILL WELD,4
+Weber,President,,Republican,ROY010,DONALD J. TRUMP,145
+Weber,President,,Republican,ROY011,ROBERT ARDINI,1
+Weber,President,,Republican,ROY011,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,ROY011,BOB ELY,2
+Weber,President,,Republican,ROY011,JOE WALSH,4
+Weber,President,,Republican,ROY011,BILL WELD,5
+Weber,President,,Republican,ROY011,DONALD J. TRUMP,159
+Weber,President,,Republican,ROY012,ROBERT ARDINI,5
+Weber,President,,Republican,ROY012,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,ROY012,BOB ELY,1
+Weber,President,,Republican,ROY012,JOE WALSH,6
+Weber,President,,Republican,ROY012,BILL WELD,17
+Weber,President,,Republican,ROY012,DONALD J. TRUMP,170
+Weber,President,,Republican,ROY013,ROBERT ARDINI,6
+Weber,President,,Republican,ROY013,MATTHEW JOHN MATERN,8
+Weber,President,,Republican,ROY013,BOB ELY,0
+Weber,President,,Republican,ROY013,JOE WALSH,9
+Weber,President,,Republican,ROY013,BILL WELD,5
+Weber,President,,Republican,ROY013,DONALD J. TRUMP,146
+Weber,President,,Republican,ROY014,ROBERT ARDINI,4
+Weber,President,,Republican,ROY014,MATTHEW JOHN MATERN,9
+Weber,President,,Republican,ROY014,BOB ELY,1
+Weber,President,,Republican,ROY014,JOE WALSH,7
+Weber,President,,Republican,ROY014,BILL WELD,12
+Weber,President,,Republican,ROY014,DONALD J. TRUMP,179
+Weber,President,,Republican,ROY015,ROBERT ARDINI,4
+Weber,President,,Republican,ROY015,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,ROY015,BOB ELY,0
+Weber,President,,Republican,ROY015,JOE WALSH,1
+Weber,President,,Republican,ROY015,BILL WELD,5
+Weber,President,,Republican,ROY015,DONALD J. TRUMP,111
+Weber,President,,Republican,ROY016,ROBERT ARDINI,3
+Weber,President,,Republican,ROY016,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,ROY016,BOB ELY,2
+Weber,President,,Republican,ROY016,JOE WALSH,2
+Weber,President,,Republican,ROY016,BILL WELD,5
+Weber,President,,Republican,ROY016,DONALD J. TRUMP,121
+Weber,President,,Republican,ROY017,ROBERT ARDINI,1
+Weber,President,,Republican,ROY017,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,ROY017,BOB ELY,0
+Weber,President,,Republican,ROY017,JOE WALSH,11
+Weber,President,,Republican,ROY017,BILL WELD,6
+Weber,President,,Republican,ROY017,DONALD J. TRUMP,162
+Weber,President,,Republican,ROY018,ROBERT ARDINI,8
+Weber,President,,Republican,ROY018,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,ROY018,BOB ELY,1
+Weber,President,,Republican,ROY018,JOE WALSH,6
+Weber,President,,Republican,ROY018,BILL WELD,8
+Weber,President,,Republican,ROY018,DONALD J. TRUMP,147
+Weber,President,,Republican,ROY019,ROBERT ARDINI,3
+Weber,President,,Republican,ROY019,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,ROY019,BOB ELY,1
+Weber,President,,Republican,ROY019,JOE WALSH,4
+Weber,President,,Republican,ROY019,BILL WELD,14
+Weber,President,,Republican,ROY019,DONALD J. TRUMP,163
+Weber,President,,Republican,SOG001,ROBERT ARDINI,0
+Weber,President,,Republican,SOG001,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,SOG001,BOB ELY,0
+Weber,President,,Republican,SOG001,JOE WALSH,2
+Weber,President,,Republican,SOG001,BILL WELD,5
+Weber,President,,Republican,SOG001,DONALD J. TRUMP,41
+Weber,President,,Republican,SOG002,ROBERT ARDINI,0
+Weber,President,,Republican,SOG002,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,SOG002,BOB ELY,0
+Weber,President,,Republican,SOG002,JOE WALSH,1
+Weber,President,,Republican,SOG002,BILL WELD,7
+Weber,President,,Republican,SOG002,DONALD J. TRUMP,69
+Weber,President,,Republican,SOG003,ROBERT ARDINI,3
+Weber,President,,Republican,SOG003,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,SOG003,BOB ELY,2
+Weber,President,,Republican,SOG003,JOE WALSH,6
+Weber,President,,Republican,SOG003,BILL WELD,12
+Weber,President,,Republican,SOG003,DONALD J. TRUMP,91
+Weber,President,,Republican,SOG004,ROBERT ARDINI,1
+Weber,President,,Republican,SOG004,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,SOG004,BOB ELY,3
+Weber,President,,Republican,SOG004,JOE WALSH,5
+Weber,President,,Republican,SOG004,BILL WELD,11
+Weber,President,,Republican,SOG004,DONALD J. TRUMP,121
+Weber,President,,Republican,SOG005,ROBERT ARDINI,1
+Weber,President,,Republican,SOG005,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,SOG005,BOB ELY,1
+Weber,President,,Republican,SOG005,JOE WALSH,4
+Weber,President,,Republican,SOG005,BILL WELD,10
+Weber,President,,Republican,SOG005,DONALD J. TRUMP,114
+Weber,President,,Republican,SOG006,ROBERT ARDINI,0
+Weber,President,,Republican,SOG006,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,SOG006,BOB ELY,0
+Weber,President,,Republican,SOG006,JOE WALSH,0
+Weber,President,,Republican,SOG006,BILL WELD,7
+Weber,President,,Republican,SOG006,DONALD J. TRUMP,72
+Weber,President,,Republican,SOG007,ROBERT ARDINI,2
+Weber,President,,Republican,SOG007,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,SOG007,BOB ELY,0
+Weber,President,,Republican,SOG007,JOE WALSH,1
+Weber,President,,Republican,SOG007,BILL WELD,9
+Weber,President,,Republican,SOG007,DONALD J. TRUMP,149
+Weber,President,,Republican,SOG008,ROBERT ARDINI,4
+Weber,President,,Republican,SOG008,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,SOG008,BOB ELY,1
+Weber,President,,Republican,SOG008,JOE WALSH,5
+Weber,President,,Republican,SOG008,BILL WELD,20
+Weber,President,,Republican,SOG008,DONALD J. TRUMP,164
+Weber,President,,Republican,SOG009,ROBERT ARDINI,1
+Weber,President,,Republican,SOG009,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,SOG009,BOB ELY,0
+Weber,President,,Republican,SOG009,JOE WALSH,4
+Weber,President,,Republican,SOG009,BILL WELD,9
+Weber,President,,Republican,SOG009,DONALD J. TRUMP,69
+Weber,President,,Republican,SOG010,ROBERT ARDINI,1
+Weber,President,,Republican,SOG010,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,SOG010,BOB ELY,0
+Weber,President,,Republican,SOG010,JOE WALSH,12
+Weber,President,,Republican,SOG010,BILL WELD,11
+Weber,President,,Republican,SOG010,DONALD J. TRUMP,164
+Weber,President,,Republican,SOG011,ROBERT ARDINI,6
+Weber,President,,Republican,SOG011,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,SOG011,BOB ELY,0
+Weber,President,,Republican,SOG011,JOE WALSH,4
+Weber,President,,Republican,SOG011,BILL WELD,17
+Weber,President,,Republican,SOG011,DONALD J. TRUMP,188
+Weber,President,,Republican,SOG012,ROBERT ARDINI,1
+Weber,President,,Republican,SOG012,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,SOG012,BOB ELY,1
+Weber,President,,Republican,SOG012,JOE WALSH,4
+Weber,President,,Republican,SOG012,BILL WELD,23
+Weber,President,,Republican,SOG012,DONALD J. TRUMP,152
+Weber,President,,Republican,TAY001,ROBERT ARDINI,4
+Weber,President,,Republican,TAY001,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,TAY001,BOB ELY,0
+Weber,President,,Republican,TAY001,JOE WALSH,1
+Weber,President,,Republican,TAY001,BILL WELD,6
+Weber,President,,Republican,TAY001,DONALD J. TRUMP,118
+Weber,President,,Republican,TAY002,ROBERT ARDINI,7
+Weber,President,,Republican,TAY002,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,TAY002,BOB ELY,0
+Weber,President,,Republican,TAY002,JOE WALSH,6
+Weber,President,,Republican,TAY002,BILL WELD,5
+Weber,President,,Republican,TAY002,DONALD J. TRUMP,222
+Weber,President,,Republican,UIN001,ROBERT ARDINI,3
+Weber,President,,Republican,UIN001,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,UIN001,BOB ELY,0
+Weber,President,,Republican,UIN001,JOE WALSH,5
+Weber,President,,Republican,UIN001,BILL WELD,11
+Weber,President,,Republican,UIN001,DONALD J. TRUMP,185
+Weber,President,,Republican,VLY001,ROBERT ARDINI,2
+Weber,President,,Republican,VLY001,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,VLY001,BOB ELY,1
+Weber,President,,Republican,VLY001,JOE WALSH,2
+Weber,President,,Republican,VLY001,BILL WELD,9
+Weber,President,,Republican,VLY001,DONALD J. TRUMP,206
+Weber,President,,Republican,VLY002,ROBERT ARDINI,4
+Weber,President,,Republican,VLY002,MATTHEW JOHN MATERN,9
+Weber,President,,Republican,VLY002,BOB ELY,2
+Weber,President,,Republican,VLY002,JOE WALSH,3
+Weber,President,,Republican,VLY002,BILL WELD,25
+Weber,President,,Republican,VLY002,DONALD J. TRUMP,243
+Weber,President,,Republican,VLY003,ROBERT ARDINI,2
+Weber,President,,Republican,VLY003,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,VLY003,BOB ELY,1
+Weber,President,,Republican,VLY003,JOE WALSH,3
+Weber,President,,Republican,VLY003,BILL WELD,34
+Weber,President,,Republican,VLY003,DONALD J. TRUMP,182
+Weber,President,,Republican,VLY004,ROBERT ARDINI,2
+Weber,President,,Republican,VLY004,MATTHEW JOHN MATERN,4
+Weber,President,,Republican,VLY004,BOB ELY,2
+Weber,President,,Republican,VLY004,JOE WALSH,11
+Weber,President,,Republican,VLY004,BILL WELD,27
+Weber,President,,Republican,VLY004,DONALD J. TRUMP,319
+Weber,President,,Republican,WAT001,ROBERT ARDINI,0
+Weber,President,,Republican,WAT001,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,WAT001,BOB ELY,1
+Weber,President,,Republican,WAT001,JOE WALSH,6
+Weber,President,,Republican,WAT001,BILL WELD,9
+Weber,President,,Republican,WAT001,DONALD J. TRUMP,115
+Weber,President,,Republican,WAT002,ROBERT ARDINI,1
+Weber,President,,Republican,WAT002,MATTHEW JOHN MATERN,5
+Weber,President,,Republican,WAT002,BOB ELY,1
+Weber,President,,Republican,WAT002,JOE WALSH,7
+Weber,President,,Republican,WAT002,BILL WELD,6
+Weber,President,,Republican,WAT002,DONALD J. TRUMP,116
+Weber,President,,Republican,WAT003,ROBERT ARDINI,3
+Weber,President,,Republican,WAT003,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,WAT003,BOB ELY,0
+Weber,President,,Republican,WAT003,JOE WALSH,3
+Weber,President,,Republican,WAT003,BILL WELD,0
+Weber,President,,Republican,WAT003,DONALD J. TRUMP,83
+Weber,President,,Republican,WAT004,ROBERT ARDINI,0
+Weber,President,,Republican,WAT004,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,WAT004,BOB ELY,2
+Weber,President,,Republican,WAT004,JOE WALSH,3
+Weber,President,,Republican,WAT004,BILL WELD,6
+Weber,President,,Republican,WAT004,DONALD J. TRUMP,116
+Weber,President,,Republican,WAT005,ROBERT ARDINI,2
+Weber,President,,Republican,WAT005,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,WAT005,BOB ELY,0
+Weber,President,,Republican,WAT005,JOE WALSH,3
+Weber,President,,Republican,WAT005,BILL WELD,10
+Weber,President,,Republican,WAT005,DONALD J. TRUMP,124
+Weber,President,,Republican,WAT006,ROBERT ARDINI,6
+Weber,President,,Republican,WAT006,MATTHEW JOHN MATERN,10
+Weber,President,,Republican,WAT006,BOB ELY,1
+Weber,President,,Republican,WAT006,JOE WALSH,11
+Weber,President,,Republican,WAT006,BILL WELD,8
+Weber,President,,Republican,WAT006,DONALD J. TRUMP,210
+Weber,President,,Republican,WCO001,ROBERT ARDINI,0
+Weber,President,,Republican,WCO001,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,WCO001,BOB ELY,0
+Weber,President,,Republican,WCO001,JOE WALSH,0
+Weber,President,,Republican,WCO001,BILL WELD,0
+Weber,President,,Republican,WCO001,DONALD J. TRUMP,0
+Weber,President,,Republican,WCP001,ROBERT ARDINI,0
+Weber,President,,Republican,WCP001,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,WCP001,BOB ELY,0
+Weber,President,,Republican,WCP001,JOE WALSH,0
+Weber,President,,Republican,WCP001,BILL WELD,0
+Weber,President,,Republican,WCP001,DONALD J. TRUMP,60
+Weber,President,,Republican,WCU001,ROBERT ARDINI,0
+Weber,President,,Republican,WCU001,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,WCU001,BOB ELY,0
+Weber,President,,Republican,WCU001,JOE WALSH,2
+Weber,President,,Republican,WCU001,BILL WELD,14
+Weber,President,,Republican,WCU001,DONALD J. TRUMP,196
+Weber,President,,Republican,WCU002,ROBERT ARDINI,0
+Weber,President,,Republican,WCU002,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,WCU002,BOB ELY,1
+Weber,President,,Republican,WCU002,JOE WALSH,5
+Weber,President,,Republican,WCU002,BILL WELD,9
+Weber,President,,Republican,WCU002,DONALD J. TRUMP,212
+Weber,President,,Republican,WCW001,ROBERT ARDINI,0
+Weber,President,,Republican,WCW001,MATTHEW JOHN MATERN,3
+Weber,President,,Republican,WCW001,BOB ELY,2
+Weber,President,,Republican,WCW001,JOE WALSH,6
+Weber,President,,Republican,WCW001,BILL WELD,4
+Weber,President,,Republican,WCW001,DONALD J. TRUMP,156
+Weber,President,,Republican,WCW002,ROBERT ARDINI,4
+Weber,President,,Republican,WCW002,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,WCW002,BOB ELY,0
+Weber,President,,Republican,WCW002,JOE WALSH,6
+Weber,President,,Republican,WCW002,BILL WELD,7
+Weber,President,,Republican,WCW002,DONALD J. TRUMP,237
+Weber,President,,Republican,WHV001,ROBERT ARDINI,3
+Weber,President,,Republican,WHV001,MATTHEW JOHN MATERN,6
+Weber,President,,Republican,WHV001,BOB ELY,1
+Weber,President,,Republican,WHV001,JOE WALSH,6
+Weber,President,,Republican,WHV001,BILL WELD,12
+Weber,President,,Republican,WHV001,DONALD J. TRUMP,407
+Weber,President,,Republican,WHV002,ROBERT ARDINI,4
+Weber,President,,Republican,WHV002,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,WHV002,BOB ELY,0
+Weber,President,,Republican,WHV002,JOE WALSH,1
+Weber,President,,Republican,WHV002,BILL WELD,6
+Weber,President,,Republican,WHV002,DONALD J. TRUMP,195
+Weber,President,,Republican,WHV003,ROBERT ARDINI,2
+Weber,President,,Republican,WHV003,MATTHEW JOHN MATERN,6
+Weber,President,,Republican,WHV003,BOB ELY,0
+Weber,President,,Republican,WHV003,JOE WALSH,0
+Weber,President,,Republican,WHV003,BILL WELD,5
+Weber,President,,Republican,WHV003,DONALD J. TRUMP,197
+Weber,President,,Republican,WHV004,ROBERT ARDINI,0
+Weber,President,,Republican,WHV004,MATTHEW JOHN MATERN,6
+Weber,President,,Republican,WHV004,BOB ELY,1
+Weber,President,,Republican,WHV004,JOE WALSH,5
+Weber,President,,Republican,WHV004,BILL WELD,19
+Weber,President,,Republican,WHV004,DONALD J. TRUMP,331
+Weber,President,,Republican,WHV005,ROBERT ARDINI,0
+Weber,President,,Republican,WHV005,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,WHV005,BOB ELY,0
+Weber,President,,Republican,WHV005,JOE WALSH,4
+Weber,President,,Republican,WHV005,BILL WELD,2
+Weber,President,,Republican,WHV005,DONALD J. TRUMP,55
+Weber,President,,Republican,WHV006,ROBERT ARDINI,0
+Weber,President,,Republican,WHV006,MATTHEW JOHN MATERN,2
+Weber,President,,Republican,WHV006,BOB ELY,0
+Weber,President,,Republican,WHV006,JOE WALSH,0
+Weber,President,,Republican,WHV006,BILL WELD,8
+Weber,President,,Republican,WHV006,DONALD J. TRUMP,114
+Weber,President,,Republican,WHV007,ROBERT ARDINI,4
+Weber,President,,Republican,WHV007,MATTHEW JOHN MATERN,1
+Weber,President,,Republican,WHV007,BOB ELY,0
+Weber,President,,Republican,WHV007,JOE WALSH,7
+Weber,President,,Republican,WHV007,BILL WELD,2
+Weber,President,,Republican,WHV007,DONALD J. TRUMP,180
+Weber,President,,Republican,WHV008,ROBERT ARDINI,0
+Weber,President,,Republican,WHV008,MATTHEW JOHN MATERN,0
+Weber,President,,Republican,WHV008,BOB ELY,0
+Weber,President,,Republican,WHV008,JOE WALSH,0
+Weber,President,,Republican,WHV008,BILL WELD,2
+Weber,President,,Republican,WHV008,DONALD J. TRUMP,32
+Weber,President,,Democrat,FRW001,JULIAN CASTRO,0
+Weber,President,,Democrat,FRW001,ANDREW YANG,0
+Weber,President,,Democrat,FRW001,CORY BOOKER,0
+Weber,President,,Democrat,FRW001,PETE BUTTIGIEG,5
+Weber,President,,Democrat,FRW001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,FRW001,MICHAEL R. BLOOMBERG,9
+Weber,President,,Democrat,FRW001,JOSEPH R. BIDEN,15
+Weber,President,,Democrat,FRW001,BERNIE SANDERS,7
+Weber,President,,Democrat,FRW001,TOM STEYER,0
+Weber,President,,Democrat,FRW001,ELIZABETH WARREN,1
+Weber,President,,Democrat,FRW001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,FRW001,TULSI GABBARD,0
+Weber,President,,Democrat,FRW001,AMY KLOBUCHAR,3
+Weber,President,,Democrat,FRW001,DEVAL PATRICK,0
+Weber,President,,Democrat,FRW002,JULIAN CASTRO,0
+Weber,President,,Democrat,FRW002,ANDREW YANG,0
+Weber,President,,Democrat,FRW002,CORY BOOKER,0
+Weber,President,,Democrat,FRW002,PETE BUTTIGIEG,15
+Weber,President,,Democrat,FRW002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,FRW002,MICHAEL R. BLOOMBERG,25
+Weber,President,,Democrat,FRW002,JOSEPH R. BIDEN,14
+Weber,President,,Democrat,FRW002,BERNIE SANDERS,11
+Weber,President,,Democrat,FRW002,TOM STEYER,1
+Weber,President,,Democrat,FRW002,ELIZABETH WARREN,13
+Weber,President,,Democrat,FRW002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,FRW002,TULSI GABBARD,0
+Weber,President,,Democrat,FRW002,AMY KLOBUCHAR,5
+Weber,President,,Democrat,FRW002,DEVAL PATRICK,0
+Weber,President,,Democrat,FRW003,JULIAN CASTRO,0
+Weber,President,,Democrat,FRW003,ANDREW YANG,0
+Weber,President,,Democrat,FRW003,CORY BOOKER,0
+Weber,President,,Democrat,FRW003,PETE BUTTIGIEG,7
+Weber,President,,Democrat,FRW003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,FRW003,MICHAEL R. BLOOMBERG,17
+Weber,President,,Democrat,FRW003,JOSEPH R. BIDEN,13
+Weber,President,,Democrat,FRW003,BERNIE SANDERS,15
+Weber,President,,Democrat,FRW003,TOM STEYER,2
+Weber,President,,Democrat,FRW003,ELIZABETH WARREN,8
+Weber,President,,Democrat,FRW003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,FRW003,TULSI GABBARD,0
+Weber,President,,Democrat,FRW003,AMY KLOBUCHAR,4
+Weber,President,,Democrat,FRW003,DEVAL PATRICK,0
+Weber,President,,Democrat,FRW004,JULIAN CASTRO,0
+Weber,President,,Democrat,FRW004,ANDREW YANG,0
+Weber,President,,Democrat,FRW004,CORY BOOKER,0
+Weber,President,,Democrat,FRW004,PETE BUTTIGIEG,5
+Weber,President,,Democrat,FRW004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,FRW004,MICHAEL R. BLOOMBERG,14
+Weber,President,,Democrat,FRW004,JOSEPH R. BIDEN,23
+Weber,President,,Democrat,FRW004,BERNIE SANDERS,25
+Weber,President,,Democrat,FRW004,TOM STEYER,2
+Weber,President,,Democrat,FRW004,ELIZABETH WARREN,5
+Weber,President,,Democrat,FRW004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,FRW004,TULSI GABBARD,2
+Weber,President,,Democrat,FRW004,AMY KLOBUCHAR,2
+Weber,President,,Democrat,FRW004,DEVAL PATRICK,0
+Weber,President,,Democrat,HPR001,JULIAN CASTRO,1
+Weber,President,,Democrat,HPR001,ANDREW YANG,0
+Weber,President,,Democrat,HPR001,CORY BOOKER,0
+Weber,President,,Democrat,HPR001,PETE BUTTIGIEG,2
+Weber,President,,Democrat,HPR001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,HPR001,MICHAEL R. BLOOMBERG,10
+Weber,President,,Democrat,HPR001,JOSEPH R. BIDEN,8
+Weber,President,,Democrat,HPR001,BERNIE SANDERS,13
+Weber,President,,Democrat,HPR001,TOM STEYER,0
+Weber,President,,Democrat,HPR001,ELIZABETH WARREN,3
+Weber,President,,Democrat,HPR001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,HPR001,TULSI GABBARD,1
+Weber,President,,Democrat,HPR001,AMY KLOBUCHAR,0
+Weber,President,,Democrat,HPR001,DEVAL PATRICK,0
+Weber,President,,Democrat,HPR002,JULIAN CASTRO,0
+Weber,President,,Democrat,HPR002,ANDREW YANG,1
+Weber,President,,Democrat,HPR002,CORY BOOKER,0
+Weber,President,,Democrat,HPR002,PETE BUTTIGIEG,3
+Weber,President,,Democrat,HPR002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,HPR002,MICHAEL R. BLOOMBERG,6
+Weber,President,,Democrat,HPR002,JOSEPH R. BIDEN,4
+Weber,President,,Democrat,HPR002,BERNIE SANDERS,3
+Weber,President,,Democrat,HPR002,TOM STEYER,0
+Weber,President,,Democrat,HPR002,ELIZABETH WARREN,0
+Weber,President,,Democrat,HPR002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,HPR002,TULSI GABBARD,0
+Weber,President,,Democrat,HPR002,AMY KLOBUCHAR,2
+Weber,President,,Democrat,HPR002,DEVAL PATRICK,0
+Weber,President,,Democrat,HPR003,JULIAN CASTRO,0
+Weber,President,,Democrat,HPR003,ANDREW YANG,1
+Weber,President,,Democrat,HPR003,CORY BOOKER,0
+Weber,President,,Democrat,HPR003,PETE BUTTIGIEG,7
+Weber,President,,Democrat,HPR003,NATHAN BLOXHAM,1
+Weber,President,,Democrat,HPR003,MICHAEL R. BLOOMBERG,9
+Weber,President,,Democrat,HPR003,JOSEPH R. BIDEN,11
+Weber,President,,Democrat,HPR003,BERNIE SANDERS,18
+Weber,President,,Democrat,HPR003,TOM STEYER,0
+Weber,President,,Democrat,HPR003,ELIZABETH WARREN,5
+Weber,President,,Democrat,HPR003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,HPR003,TULSI GABBARD,0
+Weber,President,,Democrat,HPR003,AMY KLOBUCHAR,2
+Weber,President,,Democrat,HPR003,DEVAL PATRICK,0
+Weber,President,,Democrat,HPR004,JULIAN CASTRO,0
+Weber,President,,Democrat,HPR004,ANDREW YANG,0
+Weber,President,,Democrat,HPR004,CORY BOOKER,0
+Weber,President,,Democrat,HPR004,PETE BUTTIGIEG,2
+Weber,President,,Democrat,HPR004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,HPR004,MICHAEL R. BLOOMBERG,13
+Weber,President,,Democrat,HPR004,JOSEPH R. BIDEN,12
+Weber,President,,Democrat,HPR004,BERNIE SANDERS,23
+Weber,President,,Democrat,HPR004,TOM STEYER,0
+Weber,President,,Democrat,HPR004,ELIZABETH WARREN,7
+Weber,President,,Democrat,HPR004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,HPR004,TULSI GABBARD,0
+Weber,President,,Democrat,HPR004,AMY KLOBUCHAR,2
+Weber,President,,Democrat,HPR004,DEVAL PATRICK,0
+Weber,President,,Democrat,HPR005,JULIAN CASTRO,0
+Weber,President,,Democrat,HPR005,ANDREW YANG,0
+Weber,President,,Democrat,HPR005,CORY BOOKER,0
+Weber,President,,Democrat,HPR005,PETE BUTTIGIEG,2
+Weber,President,,Democrat,HPR005,NATHAN BLOXHAM,0
+Weber,President,,Democrat,HPR005,MICHAEL R. BLOOMBERG,7
+Weber,President,,Democrat,HPR005,JOSEPH R. BIDEN,10
+Weber,President,,Democrat,HPR005,BERNIE SANDERS,28
+Weber,President,,Democrat,HPR005,TOM STEYER,0
+Weber,President,,Democrat,HPR005,ELIZABETH WARREN,8
+Weber,President,,Democrat,HPR005,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,HPR005,TULSI GABBARD,0
+Weber,President,,Democrat,HPR005,AMY KLOBUCHAR,1
+Weber,President,,Democrat,HPR005,DEVAL PATRICK,0
+Weber,President,,Democrat,HPR006,JULIAN CASTRO,0
+Weber,President,,Democrat,HPR006,ANDREW YANG,0
+Weber,President,,Democrat,HPR006,CORY BOOKER,0
+Weber,President,,Democrat,HPR006,PETE BUTTIGIEG,7
+Weber,President,,Democrat,HPR006,NATHAN BLOXHAM,0
+Weber,President,,Democrat,HPR006,MICHAEL R. BLOOMBERG,4
+Weber,President,,Democrat,HPR006,JOSEPH R. BIDEN,5
+Weber,President,,Democrat,HPR006,BERNIE SANDERS,18
+Weber,President,,Democrat,HPR006,TOM STEYER,1
+Weber,President,,Democrat,HPR006,ELIZABETH WARREN,5
+Weber,President,,Democrat,HPR006,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,HPR006,TULSI GABBARD,0
+Weber,President,,Democrat,HPR006,AMY KLOBUCHAR,2
+Weber,President,,Democrat,HPR006,DEVAL PATRICK,0
+Weber,President,,Democrat,HSV001,JULIAN CASTRO,0
+Weber,President,,Democrat,HSV001,ANDREW YANG,1
+Weber,President,,Democrat,HSV001,CORY BOOKER,0
+Weber,President,,Democrat,HSV001,PETE BUTTIGIEG,6
+Weber,President,,Democrat,HSV001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,HSV001,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,HSV001,JOSEPH R. BIDEN,16
+Weber,President,,Democrat,HSV001,BERNIE SANDERS,21
+Weber,President,,Democrat,HSV001,TOM STEYER,0
+Weber,President,,Democrat,HSV001,ELIZABETH WARREN,6
+Weber,President,,Democrat,HSV001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,HSV001,TULSI GABBARD,0
+Weber,President,,Democrat,HSV001,AMY KLOBUCHAR,1
+Weber,President,,Democrat,HSV001,DEVAL PATRICK,0
+Weber,President,,Democrat,HSV002,JULIAN CASTRO,0
+Weber,President,,Democrat,HSV002,ANDREW YANG,1
+Weber,President,,Democrat,HSV002,CORY BOOKER,1
+Weber,President,,Democrat,HSV002,PETE BUTTIGIEG,8
+Weber,President,,Democrat,HSV002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,HSV002,MICHAEL R. BLOOMBERG,7
+Weber,President,,Democrat,HSV002,JOSEPH R. BIDEN,17
+Weber,President,,Democrat,HSV002,BERNIE SANDERS,29
+Weber,President,,Democrat,HSV002,TOM STEYER,1
+Weber,President,,Democrat,HSV002,ELIZABETH WARREN,6
+Weber,President,,Democrat,HSV002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,HSV002,TULSI GABBARD,1
+Weber,President,,Democrat,HSV002,AMY KLOBUCHAR,1
+Weber,President,,Democrat,HSV002,DEVAL PATRICK,0
+Weber,President,,Democrat,HSV004,JULIAN CASTRO,0
+Weber,President,,Democrat,HSV004,ANDREW YANG,2
+Weber,President,,Democrat,HSV004,CORY BOOKER,0
+Weber,President,,Democrat,HSV004,PETE BUTTIGIEG,17
+Weber,President,,Democrat,HSV004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,HSV004,MICHAEL R. BLOOMBERG,13
+Weber,President,,Democrat,HSV004,JOSEPH R. BIDEN,15
+Weber,President,,Democrat,HSV004,BERNIE SANDERS,52
+Weber,President,,Democrat,HSV004,TOM STEYER,0
+Weber,President,,Democrat,HSV004,ELIZABETH WARREN,18
+Weber,President,,Democrat,HSV004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,HSV004,TULSI GABBARD,1
+Weber,President,,Democrat,HSV004,AMY KLOBUCHAR,1
+Weber,President,,Democrat,HSV004,DEVAL PATRICK,0
+Weber,President,,Democrat,HTV001,JULIAN CASTRO,0
+Weber,President,,Democrat,HTV001,ANDREW YANG,0
+Weber,President,,Democrat,HTV001,CORY BOOKER,0
+Weber,President,,Democrat,HTV001,PETE BUTTIGIEG,1
+Weber,President,,Democrat,HTV001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,HTV001,MICHAEL R. BLOOMBERG,9
+Weber,President,,Democrat,HTV001,JOSEPH R. BIDEN,17
+Weber,President,,Democrat,HTV001,BERNIE SANDERS,13
+Weber,President,,Democrat,HTV001,TOM STEYER,0
+Weber,President,,Democrat,HTV001,ELIZABETH WARREN,8
+Weber,President,,Democrat,HTV001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,HTV001,TULSI GABBARD,1
+Weber,President,,Democrat,HTV001,AMY KLOBUCHAR,1
+Weber,President,,Democrat,HTV001,DEVAL PATRICK,0
+Weber,President,,Democrat,MSC002,JULIAN CASTRO,0
+Weber,President,,Democrat,MSC002,ANDREW YANG,0
+Weber,President,,Democrat,MSC002,CORY BOOKER,0
+Weber,President,,Democrat,MSC002,PETE BUTTIGIEG,3
+Weber,President,,Democrat,MSC002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,MSC002,MICHAEL R. BLOOMBERG,14
+Weber,President,,Democrat,MSC002,JOSEPH R. BIDEN,7
+Weber,President,,Democrat,MSC002,BERNIE SANDERS,16
+Weber,President,,Democrat,MSC002,TOM STEYER,0
+Weber,President,,Democrat,MSC002,ELIZABETH WARREN,4
+Weber,President,,Democrat,MSC002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,MSC002,TULSI GABBARD,0
+Weber,President,,Democrat,MSC002,AMY KLOBUCHAR,3
+Weber,President,,Democrat,MSC002,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG001,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG001,ANDREW YANG,1
+Weber,President,,Democrat,NOG001,CORY BOOKER,0
+Weber,President,,Democrat,NOG001,PETE BUTTIGIEG,8
+Weber,President,,Democrat,NOG001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG001,MICHAEL R. BLOOMBERG,8
+Weber,President,,Democrat,NOG001,JOSEPH R. BIDEN,11
+Weber,President,,Democrat,NOG001,BERNIE SANDERS,22
+Weber,President,,Democrat,NOG001,TOM STEYER,0
+Weber,President,,Democrat,NOG001,ELIZABETH WARREN,9
+Weber,President,,Democrat,NOG001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG001,TULSI GABBARD,1
+Weber,President,,Democrat,NOG001,AMY KLOBUCHAR,2
+Weber,President,,Democrat,NOG001,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG002,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG002,ANDREW YANG,0
+Weber,President,,Democrat,NOG002,CORY BOOKER,0
+Weber,President,,Democrat,NOG002,PETE BUTTIGIEG,9
+Weber,President,,Democrat,NOG002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG002,MICHAEL R. BLOOMBERG,16
+Weber,President,,Democrat,NOG002,JOSEPH R. BIDEN,17
+Weber,President,,Democrat,NOG002,BERNIE SANDERS,29
+Weber,President,,Democrat,NOG002,TOM STEYER,0
+Weber,President,,Democrat,NOG002,ELIZABETH WARREN,8
+Weber,President,,Democrat,NOG002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG002,TULSI GABBARD,0
+Weber,President,,Democrat,NOG002,AMY KLOBUCHAR,2
+Weber,President,,Democrat,NOG002,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG003,JULIAN CASTRO,1
+Weber,President,,Democrat,NOG003,ANDREW YANG,0
+Weber,President,,Democrat,NOG003,CORY BOOKER,0
+Weber,President,,Democrat,NOG003,PETE BUTTIGIEG,7
+Weber,President,,Democrat,NOG003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG003,MICHAEL R. BLOOMBERG,11
+Weber,President,,Democrat,NOG003,JOSEPH R. BIDEN,14
+Weber,President,,Democrat,NOG003,BERNIE SANDERS,31
+Weber,President,,Democrat,NOG003,TOM STEYER,0
+Weber,President,,Democrat,NOG003,ELIZABETH WARREN,13
+Weber,President,,Democrat,NOG003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG003,TULSI GABBARD,0
+Weber,President,,Democrat,NOG003,AMY KLOBUCHAR,5
+Weber,President,,Democrat,NOG003,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG004,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG004,ANDREW YANG,0
+Weber,President,,Democrat,NOG004,CORY BOOKER,0
+Weber,President,,Democrat,NOG004,PETE BUTTIGIEG,3
+Weber,President,,Democrat,NOG004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG004,MICHAEL R. BLOOMBERG,10
+Weber,President,,Democrat,NOG004,JOSEPH R. BIDEN,11
+Weber,President,,Democrat,NOG004,BERNIE SANDERS,19
+Weber,President,,Democrat,NOG004,TOM STEYER,0
+Weber,President,,Democrat,NOG004,ELIZABETH WARREN,2
+Weber,President,,Democrat,NOG004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG004,TULSI GABBARD,0
+Weber,President,,Democrat,NOG004,AMY KLOBUCHAR,2
+Weber,President,,Democrat,NOG004,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG005,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG005,ANDREW YANG,0
+Weber,President,,Democrat,NOG005,CORY BOOKER,0
+Weber,President,,Democrat,NOG005,PETE BUTTIGIEG,5
+Weber,President,,Democrat,NOG005,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG005,MICHAEL R. BLOOMBERG,28
+Weber,President,,Democrat,NOG005,JOSEPH R. BIDEN,14
+Weber,President,,Democrat,NOG005,BERNIE SANDERS,26
+Weber,President,,Democrat,NOG005,TOM STEYER,0
+Weber,President,,Democrat,NOG005,ELIZABETH WARREN,8
+Weber,President,,Democrat,NOG005,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG005,TULSI GABBARD,0
+Weber,President,,Democrat,NOG005,AMY KLOBUCHAR,0
+Weber,President,,Democrat,NOG005,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG006,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG006,ANDREW YANG,0
+Weber,President,,Democrat,NOG006,CORY BOOKER,0
+Weber,President,,Democrat,NOG006,PETE BUTTIGIEG,8
+Weber,President,,Democrat,NOG006,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG006,MICHAEL R. BLOOMBERG,16
+Weber,President,,Democrat,NOG006,JOSEPH R. BIDEN,18
+Weber,President,,Democrat,NOG006,BERNIE SANDERS,24
+Weber,President,,Democrat,NOG006,TOM STEYER,0
+Weber,President,,Democrat,NOG006,ELIZABETH WARREN,12
+Weber,President,,Democrat,NOG006,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG006,TULSI GABBARD,0
+Weber,President,,Democrat,NOG006,AMY KLOBUCHAR,3
+Weber,President,,Democrat,NOG006,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG007,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG007,ANDREW YANG,0
+Weber,President,,Democrat,NOG007,CORY BOOKER,0
+Weber,President,,Democrat,NOG007,PETE BUTTIGIEG,4
+Weber,President,,Democrat,NOG007,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG007,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,NOG007,JOSEPH R. BIDEN,8
+Weber,President,,Democrat,NOG007,BERNIE SANDERS,19
+Weber,President,,Democrat,NOG007,TOM STEYER,0
+Weber,President,,Democrat,NOG007,ELIZABETH WARREN,7
+Weber,President,,Democrat,NOG007,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG007,TULSI GABBARD,0
+Weber,President,,Democrat,NOG007,AMY KLOBUCHAR,1
+Weber,President,,Democrat,NOG007,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG008,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG008,ANDREW YANG,1
+Weber,President,,Democrat,NOG008,CORY BOOKER,0
+Weber,President,,Democrat,NOG008,PETE BUTTIGIEG,6
+Weber,President,,Democrat,NOG008,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG008,MICHAEL R. BLOOMBERG,22
+Weber,President,,Democrat,NOG008,JOSEPH R. BIDEN,12
+Weber,President,,Democrat,NOG008,BERNIE SANDERS,28
+Weber,President,,Democrat,NOG008,TOM STEYER,0
+Weber,President,,Democrat,NOG008,ELIZABETH WARREN,15
+Weber,President,,Democrat,NOG008,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG008,TULSI GABBARD,0
+Weber,President,,Democrat,NOG008,AMY KLOBUCHAR,3
+Weber,President,,Democrat,NOG008,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG009,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG009,ANDREW YANG,0
+Weber,President,,Democrat,NOG009,CORY BOOKER,0
+Weber,President,,Democrat,NOG009,PETE BUTTIGIEG,18
+Weber,President,,Democrat,NOG009,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG009,MICHAEL R. BLOOMBERG,19
+Weber,President,,Democrat,NOG009,JOSEPH R. BIDEN,15
+Weber,President,,Democrat,NOG009,BERNIE SANDERS,22
+Weber,President,,Democrat,NOG009,TOM STEYER,0
+Weber,President,,Democrat,NOG009,ELIZABETH WARREN,8
+Weber,President,,Democrat,NOG009,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG009,TULSI GABBARD,0
+Weber,President,,Democrat,NOG009,AMY KLOBUCHAR,1
+Weber,President,,Democrat,NOG009,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG010,JULIAN CASTRO,1
+Weber,President,,Democrat,NOG010,ANDREW YANG,0
+Weber,President,,Democrat,NOG010,CORY BOOKER,0
+Weber,President,,Democrat,NOG010,PETE BUTTIGIEG,5
+Weber,President,,Democrat,NOG010,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG010,MICHAEL R. BLOOMBERG,13
+Weber,President,,Democrat,NOG010,JOSEPH R. BIDEN,20
+Weber,President,,Democrat,NOG010,BERNIE SANDERS,19
+Weber,President,,Democrat,NOG010,TOM STEYER,1
+Weber,President,,Democrat,NOG010,ELIZABETH WARREN,19
+Weber,President,,Democrat,NOG010,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG010,TULSI GABBARD,0
+Weber,President,,Democrat,NOG010,AMY KLOBUCHAR,3
+Weber,President,,Democrat,NOG010,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG011,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG011,ANDREW YANG,0
+Weber,President,,Democrat,NOG011,CORY BOOKER,0
+Weber,President,,Democrat,NOG011,PETE BUTTIGIEG,16
+Weber,President,,Democrat,NOG011,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG011,MICHAEL R. BLOOMBERG,21
+Weber,President,,Democrat,NOG011,JOSEPH R. BIDEN,29
+Weber,President,,Democrat,NOG011,BERNIE SANDERS,23
+Weber,President,,Democrat,NOG011,TOM STEYER,1
+Weber,President,,Democrat,NOG011,ELIZABETH WARREN,2
+Weber,President,,Democrat,NOG011,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG011,TULSI GABBARD,0
+Weber,President,,Democrat,NOG011,AMY KLOBUCHAR,1
+Weber,President,,Democrat,NOG011,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG012,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG012,ANDREW YANG,0
+Weber,President,,Democrat,NOG012,CORY BOOKER,1
+Weber,President,,Democrat,NOG012,PETE BUTTIGIEG,8
+Weber,President,,Democrat,NOG012,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG012,MICHAEL R. BLOOMBERG,13
+Weber,President,,Democrat,NOG012,JOSEPH R. BIDEN,21
+Weber,President,,Democrat,NOG012,BERNIE SANDERS,29
+Weber,President,,Democrat,NOG012,TOM STEYER,1
+Weber,President,,Democrat,NOG012,ELIZABETH WARREN,17
+Weber,President,,Democrat,NOG012,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG012,TULSI GABBARD,0
+Weber,President,,Democrat,NOG012,AMY KLOBUCHAR,6
+Weber,President,,Democrat,NOG012,DEVAL PATRICK,0
+Weber,President,,Democrat,NOG013,JULIAN CASTRO,0
+Weber,President,,Democrat,NOG013,ANDREW YANG,1
+Weber,President,,Democrat,NOG013,CORY BOOKER,0
+Weber,President,,Democrat,NOG013,PETE BUTTIGIEG,11
+Weber,President,,Democrat,NOG013,NATHAN BLOXHAM,0
+Weber,President,,Democrat,NOG013,MICHAEL R. BLOOMBERG,24
+Weber,President,,Democrat,NOG013,JOSEPH R. BIDEN,24
+Weber,President,,Democrat,NOG013,BERNIE SANDERS,39
+Weber,President,,Democrat,NOG013,TOM STEYER,0
+Weber,President,,Democrat,NOG013,ELIZABETH WARREN,13
+Weber,President,,Democrat,NOG013,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,NOG013,TULSI GABBARD,0
+Weber,President,,Democrat,NOG013,AMY KLOBUCHAR,5
+Weber,President,,Democrat,NOG013,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD001,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD001,ANDREW YANG,2
+Weber,President,,Democrat,OGD001,CORY BOOKER,0
+Weber,President,,Democrat,OGD001,PETE BUTTIGIEG,5
+Weber,President,,Democrat,OGD001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD001,MICHAEL R. BLOOMBERG,21
+Weber,President,,Democrat,OGD001,JOSEPH R. BIDEN,24
+Weber,President,,Democrat,OGD001,BERNIE SANDERS,36
+Weber,President,,Democrat,OGD001,TOM STEYER,0
+Weber,President,,Democrat,OGD001,ELIZABETH WARREN,10
+Weber,President,,Democrat,OGD001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD001,TULSI GABBARD,0
+Weber,President,,Democrat,OGD001,AMY KLOBUCHAR,0
+Weber,President,,Democrat,OGD001,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD002,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD002,ANDREW YANG,1
+Weber,President,,Democrat,OGD002,CORY BOOKER,0
+Weber,President,,Democrat,OGD002,PETE BUTTIGIEG,15
+Weber,President,,Democrat,OGD002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD002,MICHAEL R. BLOOMBERG,21
+Weber,President,,Democrat,OGD002,JOSEPH R. BIDEN,25
+Weber,President,,Democrat,OGD002,BERNIE SANDERS,57
+Weber,President,,Democrat,OGD002,TOM STEYER,0
+Weber,President,,Democrat,OGD002,ELIZABETH WARREN,25
+Weber,President,,Democrat,OGD002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD002,TULSI GABBARD,0
+Weber,President,,Democrat,OGD002,AMY KLOBUCHAR,0
+Weber,President,,Democrat,OGD002,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD003,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD003,ANDREW YANG,0
+Weber,President,,Democrat,OGD003,CORY BOOKER,0
+Weber,President,,Democrat,OGD003,PETE BUTTIGIEG,4
+Weber,President,,Democrat,OGD003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD003,MICHAEL R. BLOOMBERG,17
+Weber,President,,Democrat,OGD003,JOSEPH R. BIDEN,20
+Weber,President,,Democrat,OGD003,BERNIE SANDERS,37
+Weber,President,,Democrat,OGD003,TOM STEYER,0
+Weber,President,,Democrat,OGD003,ELIZABETH WARREN,9
+Weber,President,,Democrat,OGD003,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,OGD003,TULSI GABBARD,0
+Weber,President,,Democrat,OGD003,AMY KLOBUCHAR,7
+Weber,President,,Democrat,OGD003,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD004,JULIAN CASTRO,1
+Weber,President,,Democrat,OGD004,ANDREW YANG,1
+Weber,President,,Democrat,OGD004,CORY BOOKER,0
+Weber,President,,Democrat,OGD004,PETE BUTTIGIEG,16
+Weber,President,,Democrat,OGD004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD004,MICHAEL R. BLOOMBERG,17
+Weber,President,,Democrat,OGD004,JOSEPH R. BIDEN,21
+Weber,President,,Democrat,OGD004,BERNIE SANDERS,45
+Weber,President,,Democrat,OGD004,TOM STEYER,2
+Weber,President,,Democrat,OGD004,ELIZABETH WARREN,17
+Weber,President,,Democrat,OGD004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD004,TULSI GABBARD,2
+Weber,President,,Democrat,OGD004,AMY KLOBUCHAR,3
+Weber,President,,Democrat,OGD004,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD005,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD005,ANDREW YANG,2
+Weber,President,,Democrat,OGD005,CORY BOOKER,0
+Weber,President,,Democrat,OGD005,PETE BUTTIGIEG,6
+Weber,President,,Democrat,OGD005,NATHAN BLOXHAM,1
+Weber,President,,Democrat,OGD005,MICHAEL R. BLOOMBERG,19
+Weber,President,,Democrat,OGD005,JOSEPH R. BIDEN,25
+Weber,President,,Democrat,OGD005,BERNIE SANDERS,42
+Weber,President,,Democrat,OGD005,TOM STEYER,0
+Weber,President,,Democrat,OGD005,ELIZABETH WARREN,9
+Weber,President,,Democrat,OGD005,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD005,TULSI GABBARD,0
+Weber,President,,Democrat,OGD005,AMY KLOBUCHAR,0
+Weber,President,,Democrat,OGD005,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD006,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD006,ANDREW YANG,0
+Weber,President,,Democrat,OGD006,CORY BOOKER,0
+Weber,President,,Democrat,OGD006,PETE BUTTIGIEG,5
+Weber,President,,Democrat,OGD006,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD006,MICHAEL R. BLOOMBERG,14
+Weber,President,,Democrat,OGD006,JOSEPH R. BIDEN,25
+Weber,President,,Democrat,OGD006,BERNIE SANDERS,36
+Weber,President,,Democrat,OGD006,TOM STEYER,0
+Weber,President,,Democrat,OGD006,ELIZABETH WARREN,10
+Weber,President,,Democrat,OGD006,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD006,TULSI GABBARD,0
+Weber,President,,Democrat,OGD006,AMY KLOBUCHAR,2
+Weber,President,,Democrat,OGD006,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD007,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD007,ANDREW YANG,0
+Weber,President,,Democrat,OGD007,CORY BOOKER,0
+Weber,President,,Democrat,OGD007,PETE BUTTIGIEG,5
+Weber,President,,Democrat,OGD007,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD007,MICHAEL R. BLOOMBERG,9
+Weber,President,,Democrat,OGD007,JOSEPH R. BIDEN,20
+Weber,President,,Democrat,OGD007,BERNIE SANDERS,33
+Weber,President,,Democrat,OGD007,TOM STEYER,0
+Weber,President,,Democrat,OGD007,ELIZABETH WARREN,14
+Weber,President,,Democrat,OGD007,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD007,TULSI GABBARD,0
+Weber,President,,Democrat,OGD007,AMY KLOBUCHAR,2
+Weber,President,,Democrat,OGD007,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD008,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD008,ANDREW YANG,0
+Weber,President,,Democrat,OGD008,CORY BOOKER,0
+Weber,President,,Democrat,OGD008,PETE BUTTIGIEG,9
+Weber,President,,Democrat,OGD008,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD008,MICHAEL R. BLOOMBERG,16
+Weber,President,,Democrat,OGD008,JOSEPH R. BIDEN,21
+Weber,President,,Democrat,OGD008,BERNIE SANDERS,48
+Weber,President,,Democrat,OGD008,TOM STEYER,0
+Weber,President,,Democrat,OGD008,ELIZABETH WARREN,19
+Weber,President,,Democrat,OGD008,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,OGD008,TULSI GABBARD,0
+Weber,President,,Democrat,OGD008,AMY KLOBUCHAR,4
+Weber,President,,Democrat,OGD008,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD009,JULIAN CASTRO,1
+Weber,President,,Democrat,OGD009,ANDREW YANG,1
+Weber,President,,Democrat,OGD009,CORY BOOKER,0
+Weber,President,,Democrat,OGD009,PETE BUTTIGIEG,13
+Weber,President,,Democrat,OGD009,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD009,MICHAEL R. BLOOMBERG,13
+Weber,President,,Democrat,OGD009,JOSEPH R. BIDEN,25
+Weber,President,,Democrat,OGD009,BERNIE SANDERS,56
+Weber,President,,Democrat,OGD009,TOM STEYER,2
+Weber,President,,Democrat,OGD009,ELIZABETH WARREN,21
+Weber,President,,Democrat,OGD009,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD009,TULSI GABBARD,0
+Weber,President,,Democrat,OGD009,AMY KLOBUCHAR,4
+Weber,President,,Democrat,OGD009,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD010,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD010,ANDREW YANG,0
+Weber,President,,Democrat,OGD010,CORY BOOKER,0
+Weber,President,,Democrat,OGD010,PETE BUTTIGIEG,8
+Weber,President,,Democrat,OGD010,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD010,MICHAEL R. BLOOMBERG,20
+Weber,President,,Democrat,OGD010,JOSEPH R. BIDEN,27
+Weber,President,,Democrat,OGD010,BERNIE SANDERS,67
+Weber,President,,Democrat,OGD010,TOM STEYER,0
+Weber,President,,Democrat,OGD010,ELIZABETH WARREN,10
+Weber,President,,Democrat,OGD010,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD010,TULSI GABBARD,1
+Weber,President,,Democrat,OGD010,AMY KLOBUCHAR,1
+Weber,President,,Democrat,OGD010,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD011,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD011,ANDREW YANG,4
+Weber,President,,Democrat,OGD011,CORY BOOKER,0
+Weber,President,,Democrat,OGD011,PETE BUTTIGIEG,8
+Weber,President,,Democrat,OGD011,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD011,MICHAEL R. BLOOMBERG,14
+Weber,President,,Democrat,OGD011,JOSEPH R. BIDEN,16
+Weber,President,,Democrat,OGD011,BERNIE SANDERS,31
+Weber,President,,Democrat,OGD011,TOM STEYER,0
+Weber,President,,Democrat,OGD011,ELIZABETH WARREN,17
+Weber,President,,Democrat,OGD011,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,OGD011,TULSI GABBARD,0
+Weber,President,,Democrat,OGD011,AMY KLOBUCHAR,3
+Weber,President,,Democrat,OGD011,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD012,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD012,ANDREW YANG,0
+Weber,President,,Democrat,OGD012,CORY BOOKER,0
+Weber,President,,Democrat,OGD012,PETE BUTTIGIEG,2
+Weber,President,,Democrat,OGD012,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD012,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,OGD012,JOSEPH R. BIDEN,15
+Weber,President,,Democrat,OGD012,BERNIE SANDERS,37
+Weber,President,,Democrat,OGD012,TOM STEYER,0
+Weber,President,,Democrat,OGD012,ELIZABETH WARREN,9
+Weber,President,,Democrat,OGD012,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD012,TULSI GABBARD,1
+Weber,President,,Democrat,OGD012,AMY KLOBUCHAR,2
+Weber,President,,Democrat,OGD012,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD013,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD013,ANDREW YANG,0
+Weber,President,,Democrat,OGD013,CORY BOOKER,0
+Weber,President,,Democrat,OGD013,PETE BUTTIGIEG,11
+Weber,President,,Democrat,OGD013,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD013,MICHAEL R. BLOOMBERG,21
+Weber,President,,Democrat,OGD013,JOSEPH R. BIDEN,21
+Weber,President,,Democrat,OGD013,BERNIE SANDERS,56
+Weber,President,,Democrat,OGD013,TOM STEYER,0
+Weber,President,,Democrat,OGD013,ELIZABETH WARREN,15
+Weber,President,,Democrat,OGD013,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD013,TULSI GABBARD,1
+Weber,President,,Democrat,OGD013,AMY KLOBUCHAR,4
+Weber,President,,Democrat,OGD013,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD014,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD014,ANDREW YANG,0
+Weber,President,,Democrat,OGD014,CORY BOOKER,0
+Weber,President,,Democrat,OGD014,PETE BUTTIGIEG,17
+Weber,President,,Democrat,OGD014,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD014,MICHAEL R. BLOOMBERG,33
+Weber,President,,Democrat,OGD014,JOSEPH R. BIDEN,38
+Weber,President,,Democrat,OGD014,BERNIE SANDERS,79
+Weber,President,,Democrat,OGD014,TOM STEYER,0
+Weber,President,,Democrat,OGD014,ELIZABETH WARREN,21
+Weber,President,,Democrat,OGD014,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD014,TULSI GABBARD,1
+Weber,President,,Democrat,OGD014,AMY KLOBUCHAR,7
+Weber,President,,Democrat,OGD014,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD015,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD015,ANDREW YANG,0
+Weber,President,,Democrat,OGD015,CORY BOOKER,0
+Weber,President,,Democrat,OGD015,PETE BUTTIGIEG,18
+Weber,President,,Democrat,OGD015,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD015,MICHAEL R. BLOOMBERG,22
+Weber,President,,Democrat,OGD015,JOSEPH R. BIDEN,17
+Weber,President,,Democrat,OGD015,BERNIE SANDERS,88
+Weber,President,,Democrat,OGD015,TOM STEYER,0
+Weber,President,,Democrat,OGD015,ELIZABETH WARREN,24
+Weber,President,,Democrat,OGD015,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD015,TULSI GABBARD,1
+Weber,President,,Democrat,OGD015,AMY KLOBUCHAR,5
+Weber,President,,Democrat,OGD015,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD016,JULIAN CASTRO,1
+Weber,President,,Democrat,OGD016,ANDREW YANG,0
+Weber,President,,Democrat,OGD016,CORY BOOKER,0
+Weber,President,,Democrat,OGD016,PETE BUTTIGIEG,6
+Weber,President,,Democrat,OGD016,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD016,MICHAEL R. BLOOMBERG,8
+Weber,President,,Democrat,OGD016,JOSEPH R. BIDEN,10
+Weber,President,,Democrat,OGD016,BERNIE SANDERS,53
+Weber,President,,Democrat,OGD016,TOM STEYER,0
+Weber,President,,Democrat,OGD016,ELIZABETH WARREN,4
+Weber,President,,Democrat,OGD016,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD016,TULSI GABBARD,4
+Weber,President,,Democrat,OGD016,AMY KLOBUCHAR,4
+Weber,President,,Democrat,OGD016,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD017,JULIAN CASTRO,2
+Weber,President,,Democrat,OGD017,ANDREW YANG,0
+Weber,President,,Democrat,OGD017,CORY BOOKER,0
+Weber,President,,Democrat,OGD017,PETE BUTTIGIEG,10
+Weber,President,,Democrat,OGD017,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD017,MICHAEL R. BLOOMBERG,5
+Weber,President,,Democrat,OGD017,JOSEPH R. BIDEN,15
+Weber,President,,Democrat,OGD017,BERNIE SANDERS,55
+Weber,President,,Democrat,OGD017,TOM STEYER,1
+Weber,President,,Democrat,OGD017,ELIZABETH WARREN,15
+Weber,President,,Democrat,OGD017,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD017,TULSI GABBARD,0
+Weber,President,,Democrat,OGD017,AMY KLOBUCHAR,2
+Weber,President,,Democrat,OGD017,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD018,JULIAN CASTRO,1
+Weber,President,,Democrat,OGD018,ANDREW YANG,2
+Weber,President,,Democrat,OGD018,CORY BOOKER,0
+Weber,President,,Democrat,OGD018,PETE BUTTIGIEG,9
+Weber,President,,Democrat,OGD018,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD018,MICHAEL R. BLOOMBERG,18
+Weber,President,,Democrat,OGD018,JOSEPH R. BIDEN,18
+Weber,President,,Democrat,OGD018,BERNIE SANDERS,69
+Weber,President,,Democrat,OGD018,TOM STEYER,0
+Weber,President,,Democrat,OGD018,ELIZABETH WARREN,20
+Weber,President,,Democrat,OGD018,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,OGD018,TULSI GABBARD,2
+Weber,President,,Democrat,OGD018,AMY KLOBUCHAR,2
+Weber,President,,Democrat,OGD018,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD019,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD019,ANDREW YANG,0
+Weber,President,,Democrat,OGD019,CORY BOOKER,0
+Weber,President,,Democrat,OGD019,PETE BUTTIGIEG,1
+Weber,President,,Democrat,OGD019,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD019,MICHAEL R. BLOOMBERG,4
+Weber,President,,Democrat,OGD019,JOSEPH R. BIDEN,4
+Weber,President,,Democrat,OGD019,BERNIE SANDERS,9
+Weber,President,,Democrat,OGD019,TOM STEYER,0
+Weber,President,,Democrat,OGD019,ELIZABETH WARREN,3
+Weber,President,,Democrat,OGD019,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD019,TULSI GABBARD,0
+Weber,President,,Democrat,OGD019,AMY KLOBUCHAR,0
+Weber,President,,Democrat,OGD019,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD020,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD020,ANDREW YANG,0
+Weber,President,,Democrat,OGD020,CORY BOOKER,0
+Weber,President,,Democrat,OGD020,PETE BUTTIGIEG,1
+Weber,President,,Democrat,OGD020,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD020,MICHAEL R. BLOOMBERG,14
+Weber,President,,Democrat,OGD020,JOSEPH R. BIDEN,7
+Weber,President,,Democrat,OGD020,BERNIE SANDERS,29
+Weber,President,,Democrat,OGD020,TOM STEYER,0
+Weber,President,,Democrat,OGD020,ELIZABETH WARREN,1
+Weber,President,,Democrat,OGD020,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD020,TULSI GABBARD,0
+Weber,President,,Democrat,OGD020,AMY KLOBUCHAR,0
+Weber,President,,Democrat,OGD020,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD021,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD021,ANDREW YANG,2
+Weber,President,,Democrat,OGD021,CORY BOOKER,0
+Weber,President,,Democrat,OGD021,PETE BUTTIGIEG,7
+Weber,President,,Democrat,OGD021,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD021,MICHAEL R. BLOOMBERG,16
+Weber,President,,Democrat,OGD021,JOSEPH R. BIDEN,11
+Weber,President,,Democrat,OGD021,BERNIE SANDERS,58
+Weber,President,,Democrat,OGD021,TOM STEYER,0
+Weber,President,,Democrat,OGD021,ELIZABETH WARREN,13
+Weber,President,,Democrat,OGD021,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD021,TULSI GABBARD,2
+Weber,President,,Democrat,OGD021,AMY KLOBUCHAR,3
+Weber,President,,Democrat,OGD021,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD022,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD022,ANDREW YANG,0
+Weber,President,,Democrat,OGD022,CORY BOOKER,0
+Weber,President,,Democrat,OGD022,PETE BUTTIGIEG,12
+Weber,President,,Democrat,OGD022,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD022,MICHAEL R. BLOOMBERG,14
+Weber,President,,Democrat,OGD022,JOSEPH R. BIDEN,16
+Weber,President,,Democrat,OGD022,BERNIE SANDERS,69
+Weber,President,,Democrat,OGD022,TOM STEYER,0
+Weber,President,,Democrat,OGD022,ELIZABETH WARREN,18
+Weber,President,,Democrat,OGD022,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,OGD022,TULSI GABBARD,1
+Weber,President,,Democrat,OGD022,AMY KLOBUCHAR,0
+Weber,President,,Democrat,OGD022,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD023,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD023,ANDREW YANG,2
+Weber,President,,Democrat,OGD023,CORY BOOKER,0
+Weber,President,,Democrat,OGD023,PETE BUTTIGIEG,11
+Weber,President,,Democrat,OGD023,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD023,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,OGD023,JOSEPH R. BIDEN,24
+Weber,President,,Democrat,OGD023,BERNIE SANDERS,82
+Weber,President,,Democrat,OGD023,TOM STEYER,0
+Weber,President,,Democrat,OGD023,ELIZABETH WARREN,20
+Weber,President,,Democrat,OGD023,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,OGD023,TULSI GABBARD,0
+Weber,President,,Democrat,OGD023,AMY KLOBUCHAR,4
+Weber,President,,Democrat,OGD023,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD024,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD024,ANDREW YANG,0
+Weber,President,,Democrat,OGD024,CORY BOOKER,0
+Weber,President,,Democrat,OGD024,PETE BUTTIGIEG,15
+Weber,President,,Democrat,OGD024,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD024,MICHAEL R. BLOOMBERG,21
+Weber,President,,Democrat,OGD024,JOSEPH R. BIDEN,28
+Weber,President,,Democrat,OGD024,BERNIE SANDERS,76
+Weber,President,,Democrat,OGD024,TOM STEYER,0
+Weber,President,,Democrat,OGD024,ELIZABETH WARREN,27
+Weber,President,,Democrat,OGD024,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD024,TULSI GABBARD,2
+Weber,President,,Democrat,OGD024,AMY KLOBUCHAR,3
+Weber,President,,Democrat,OGD024,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD025,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD025,ANDREW YANG,1
+Weber,President,,Democrat,OGD025,CORY BOOKER,0
+Weber,President,,Democrat,OGD025,PETE BUTTIGIEG,16
+Weber,President,,Democrat,OGD025,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD025,MICHAEL R. BLOOMBERG,28
+Weber,President,,Democrat,OGD025,JOSEPH R. BIDEN,32
+Weber,President,,Democrat,OGD025,BERNIE SANDERS,86
+Weber,President,,Democrat,OGD025,TOM STEYER,1
+Weber,President,,Democrat,OGD025,ELIZABETH WARREN,57
+Weber,President,,Democrat,OGD025,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD025,TULSI GABBARD,4
+Weber,President,,Democrat,OGD025,AMY KLOBUCHAR,9
+Weber,President,,Democrat,OGD025,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD026,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD026,ANDREW YANG,1
+Weber,President,,Democrat,OGD026,CORY BOOKER,0
+Weber,President,,Democrat,OGD026,PETE BUTTIGIEG,10
+Weber,President,,Democrat,OGD026,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD026,MICHAEL R. BLOOMBERG,10
+Weber,President,,Democrat,OGD026,JOSEPH R. BIDEN,27
+Weber,President,,Democrat,OGD026,BERNIE SANDERS,63
+Weber,President,,Democrat,OGD026,TOM STEYER,1
+Weber,President,,Democrat,OGD026,ELIZABETH WARREN,21
+Weber,President,,Democrat,OGD026,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD026,TULSI GABBARD,0
+Weber,President,,Democrat,OGD026,AMY KLOBUCHAR,0
+Weber,President,,Democrat,OGD026,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD027,JULIAN CASTRO,1
+Weber,President,,Democrat,OGD027,ANDREW YANG,0
+Weber,President,,Democrat,OGD027,CORY BOOKER,0
+Weber,President,,Democrat,OGD027,PETE BUTTIGIEG,8
+Weber,President,,Democrat,OGD027,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD027,MICHAEL R. BLOOMBERG,18
+Weber,President,,Democrat,OGD027,JOSEPH R. BIDEN,13
+Weber,President,,Democrat,OGD027,BERNIE SANDERS,67
+Weber,President,,Democrat,OGD027,TOM STEYER,0
+Weber,President,,Democrat,OGD027,ELIZABETH WARREN,30
+Weber,President,,Democrat,OGD027,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD027,TULSI GABBARD,0
+Weber,President,,Democrat,OGD027,AMY KLOBUCHAR,2
+Weber,President,,Democrat,OGD027,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD028,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD028,ANDREW YANG,1
+Weber,President,,Democrat,OGD028,CORY BOOKER,0
+Weber,President,,Democrat,OGD028,PETE BUTTIGIEG,10
+Weber,President,,Democrat,OGD028,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD028,MICHAEL R. BLOOMBERG,15
+Weber,President,,Democrat,OGD028,JOSEPH R. BIDEN,16
+Weber,President,,Democrat,OGD028,BERNIE SANDERS,53
+Weber,President,,Democrat,OGD028,TOM STEYER,0
+Weber,President,,Democrat,OGD028,ELIZABETH WARREN,20
+Weber,President,,Democrat,OGD028,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,OGD028,TULSI GABBARD,1
+Weber,President,,Democrat,OGD028,AMY KLOBUCHAR,2
+Weber,President,,Democrat,OGD028,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD029,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD029,ANDREW YANG,0
+Weber,President,,Democrat,OGD029,CORY BOOKER,0
+Weber,President,,Democrat,OGD029,PETE BUTTIGIEG,3
+Weber,President,,Democrat,OGD029,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD029,MICHAEL R. BLOOMBERG,15
+Weber,President,,Democrat,OGD029,JOSEPH R. BIDEN,13
+Weber,President,,Democrat,OGD029,BERNIE SANDERS,84
+Weber,President,,Democrat,OGD029,TOM STEYER,0
+Weber,President,,Democrat,OGD029,ELIZABETH WARREN,26
+Weber,President,,Democrat,OGD029,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD029,TULSI GABBARD,0
+Weber,President,,Democrat,OGD029,AMY KLOBUCHAR,3
+Weber,President,,Democrat,OGD029,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD030,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD030,ANDREW YANG,0
+Weber,President,,Democrat,OGD030,CORY BOOKER,1
+Weber,President,,Democrat,OGD030,PETE BUTTIGIEG,4
+Weber,President,,Democrat,OGD030,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD030,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,OGD030,JOSEPH R. BIDEN,22
+Weber,President,,Democrat,OGD030,BERNIE SANDERS,64
+Weber,President,,Democrat,OGD030,TOM STEYER,0
+Weber,President,,Democrat,OGD030,ELIZABETH WARREN,17
+Weber,President,,Democrat,OGD030,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,OGD030,TULSI GABBARD,0
+Weber,President,,Democrat,OGD030,AMY KLOBUCHAR,1
+Weber,President,,Democrat,OGD030,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD031,JULIAN CASTRO,5
+Weber,President,,Democrat,OGD031,ANDREW YANG,0
+Weber,President,,Democrat,OGD031,CORY BOOKER,1
+Weber,President,,Democrat,OGD031,PETE BUTTIGIEG,5
+Weber,President,,Democrat,OGD031,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD031,MICHAEL R. BLOOMBERG,17
+Weber,President,,Democrat,OGD031,JOSEPH R. BIDEN,23
+Weber,President,,Democrat,OGD031,BERNIE SANDERS,56
+Weber,President,,Democrat,OGD031,TOM STEYER,0
+Weber,President,,Democrat,OGD031,ELIZABETH WARREN,11
+Weber,President,,Democrat,OGD031,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD031,TULSI GABBARD,0
+Weber,President,,Democrat,OGD031,AMY KLOBUCHAR,4
+Weber,President,,Democrat,OGD031,DEVAL PATRICK,1
+Weber,President,,Democrat,OGD032,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD032,ANDREW YANG,0
+Weber,President,,Democrat,OGD032,CORY BOOKER,0
+Weber,President,,Democrat,OGD032,PETE BUTTIGIEG,9
+Weber,President,,Democrat,OGD032,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD032,MICHAEL R. BLOOMBERG,14
+Weber,President,,Democrat,OGD032,JOSEPH R. BIDEN,18
+Weber,President,,Democrat,OGD032,BERNIE SANDERS,87
+Weber,President,,Democrat,OGD032,TOM STEYER,0
+Weber,President,,Democrat,OGD032,ELIZABETH WARREN,19
+Weber,President,,Democrat,OGD032,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD032,TULSI GABBARD,2
+Weber,President,,Democrat,OGD032,AMY KLOBUCHAR,0
+Weber,President,,Democrat,OGD032,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD033,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD033,ANDREW YANG,0
+Weber,President,,Democrat,OGD033,CORY BOOKER,0
+Weber,President,,Democrat,OGD033,PETE BUTTIGIEG,6
+Weber,President,,Democrat,OGD033,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD033,MICHAEL R. BLOOMBERG,7
+Weber,President,,Democrat,OGD033,JOSEPH R. BIDEN,16
+Weber,President,,Democrat,OGD033,BERNIE SANDERS,33
+Weber,President,,Democrat,OGD033,TOM STEYER,0
+Weber,President,,Democrat,OGD033,ELIZABETH WARREN,14
+Weber,President,,Democrat,OGD033,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,OGD033,TULSI GABBARD,1
+Weber,President,,Democrat,OGD033,AMY KLOBUCHAR,2
+Weber,President,,Democrat,OGD033,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD034,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD034,ANDREW YANG,1
+Weber,President,,Democrat,OGD034,CORY BOOKER,0
+Weber,President,,Democrat,OGD034,PETE BUTTIGIEG,7
+Weber,President,,Democrat,OGD034,NATHAN BLOXHAM,1
+Weber,President,,Democrat,OGD034,MICHAEL R. BLOOMBERG,11
+Weber,President,,Democrat,OGD034,JOSEPH R. BIDEN,15
+Weber,President,,Democrat,OGD034,BERNIE SANDERS,58
+Weber,President,,Democrat,OGD034,TOM STEYER,1
+Weber,President,,Democrat,OGD034,ELIZABETH WARREN,14
+Weber,President,,Democrat,OGD034,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD034,TULSI GABBARD,1
+Weber,President,,Democrat,OGD034,AMY KLOBUCHAR,1
+Weber,President,,Democrat,OGD034,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD035,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD035,ANDREW YANG,0
+Weber,President,,Democrat,OGD035,CORY BOOKER,0
+Weber,President,,Democrat,OGD035,PETE BUTTIGIEG,7
+Weber,President,,Democrat,OGD035,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD035,MICHAEL R. BLOOMBERG,18
+Weber,President,,Democrat,OGD035,JOSEPH R. BIDEN,12
+Weber,President,,Democrat,OGD035,BERNIE SANDERS,62
+Weber,President,,Democrat,OGD035,TOM STEYER,1
+Weber,President,,Democrat,OGD035,ELIZABETH WARREN,18
+Weber,President,,Democrat,OGD035,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD035,TULSI GABBARD,0
+Weber,President,,Democrat,OGD035,AMY KLOBUCHAR,3
+Weber,President,,Democrat,OGD035,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD036,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD036,ANDREW YANG,3
+Weber,President,,Democrat,OGD036,CORY BOOKER,0
+Weber,President,,Democrat,OGD036,PETE BUTTIGIEG,9
+Weber,President,,Democrat,OGD036,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD036,MICHAEL R. BLOOMBERG,23
+Weber,President,,Democrat,OGD036,JOSEPH R. BIDEN,33
+Weber,President,,Democrat,OGD036,BERNIE SANDERS,38
+Weber,President,,Democrat,OGD036,TOM STEYER,1
+Weber,President,,Democrat,OGD036,ELIZABETH WARREN,26
+Weber,President,,Democrat,OGD036,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD036,TULSI GABBARD,0
+Weber,President,,Democrat,OGD036,AMY KLOBUCHAR,1
+Weber,President,,Democrat,OGD036,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD037,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD037,ANDREW YANG,0
+Weber,President,,Democrat,OGD037,CORY BOOKER,0
+Weber,President,,Democrat,OGD037,PETE BUTTIGIEG,16
+Weber,President,,Democrat,OGD037,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD037,MICHAEL R. BLOOMBERG,18
+Weber,President,,Democrat,OGD037,JOSEPH R. BIDEN,18
+Weber,President,,Democrat,OGD037,BERNIE SANDERS,47
+Weber,President,,Democrat,OGD037,TOM STEYER,2
+Weber,President,,Democrat,OGD037,ELIZABETH WARREN,26
+Weber,President,,Democrat,OGD037,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD037,TULSI GABBARD,1
+Weber,President,,Democrat,OGD037,AMY KLOBUCHAR,5
+Weber,President,,Democrat,OGD037,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD038,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD038,ANDREW YANG,1
+Weber,President,,Democrat,OGD038,CORY BOOKER,1
+Weber,President,,Democrat,OGD038,PETE BUTTIGIEG,13
+Weber,President,,Democrat,OGD038,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD038,MICHAEL R. BLOOMBERG,24
+Weber,President,,Democrat,OGD038,JOSEPH R. BIDEN,31
+Weber,President,,Democrat,OGD038,BERNIE SANDERS,63
+Weber,President,,Democrat,OGD038,TOM STEYER,0
+Weber,President,,Democrat,OGD038,ELIZABETH WARREN,40
+Weber,President,,Democrat,OGD038,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD038,TULSI GABBARD,3
+Weber,President,,Democrat,OGD038,AMY KLOBUCHAR,7
+Weber,President,,Democrat,OGD038,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD039,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD039,ANDREW YANG,0
+Weber,President,,Democrat,OGD039,CORY BOOKER,0
+Weber,President,,Democrat,OGD039,PETE BUTTIGIEG,10
+Weber,President,,Democrat,OGD039,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD039,MICHAEL R. BLOOMBERG,21
+Weber,President,,Democrat,OGD039,JOSEPH R. BIDEN,28
+Weber,President,,Democrat,OGD039,BERNIE SANDERS,38
+Weber,President,,Democrat,OGD039,TOM STEYER,0
+Weber,President,,Democrat,OGD039,ELIZABETH WARREN,27
+Weber,President,,Democrat,OGD039,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD039,TULSI GABBARD,0
+Weber,President,,Democrat,OGD039,AMY KLOBUCHAR,15
+Weber,President,,Democrat,OGD039,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD040,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD040,ANDREW YANG,0
+Weber,President,,Democrat,OGD040,CORY BOOKER,0
+Weber,President,,Democrat,OGD040,PETE BUTTIGIEG,11
+Weber,President,,Democrat,OGD040,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD040,MICHAEL R. BLOOMBERG,20
+Weber,President,,Democrat,OGD040,JOSEPH R. BIDEN,20
+Weber,President,,Democrat,OGD040,BERNIE SANDERS,37
+Weber,President,,Democrat,OGD040,TOM STEYER,0
+Weber,President,,Democrat,OGD040,ELIZABETH WARREN,36
+Weber,President,,Democrat,OGD040,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD040,TULSI GABBARD,1
+Weber,President,,Democrat,OGD040,AMY KLOBUCHAR,3
+Weber,President,,Democrat,OGD040,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD041,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD041,ANDREW YANG,0
+Weber,President,,Democrat,OGD041,CORY BOOKER,0
+Weber,President,,Democrat,OGD041,PETE BUTTIGIEG,5
+Weber,President,,Democrat,OGD041,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD041,MICHAEL R. BLOOMBERG,5
+Weber,President,,Democrat,OGD041,JOSEPH R. BIDEN,19
+Weber,President,,Democrat,OGD041,BERNIE SANDERS,22
+Weber,President,,Democrat,OGD041,TOM STEYER,1
+Weber,President,,Democrat,OGD041,ELIZABETH WARREN,22
+Weber,President,,Democrat,OGD041,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD041,TULSI GABBARD,2
+Weber,President,,Democrat,OGD041,AMY KLOBUCHAR,2
+Weber,President,,Democrat,OGD041,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD042,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD042,ANDREW YANG,2
+Weber,President,,Democrat,OGD042,CORY BOOKER,0
+Weber,President,,Democrat,OGD042,PETE BUTTIGIEG,11
+Weber,President,,Democrat,OGD042,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD042,MICHAEL R. BLOOMBERG,26
+Weber,President,,Democrat,OGD042,JOSEPH R. BIDEN,22
+Weber,President,,Democrat,OGD042,BERNIE SANDERS,30
+Weber,President,,Democrat,OGD042,TOM STEYER,1
+Weber,President,,Democrat,OGD042,ELIZABETH WARREN,26
+Weber,President,,Democrat,OGD042,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD042,TULSI GABBARD,1
+Weber,President,,Democrat,OGD042,AMY KLOBUCHAR,5
+Weber,President,,Democrat,OGD042,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD043,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD043,ANDREW YANG,0
+Weber,President,,Democrat,OGD043,CORY BOOKER,0
+Weber,President,,Democrat,OGD043,PETE BUTTIGIEG,17
+Weber,President,,Democrat,OGD043,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD043,MICHAEL R. BLOOMBERG,26
+Weber,President,,Democrat,OGD043,JOSEPH R. BIDEN,24
+Weber,President,,Democrat,OGD043,BERNIE SANDERS,41
+Weber,President,,Democrat,OGD043,TOM STEYER,1
+Weber,President,,Democrat,OGD043,ELIZABETH WARREN,20
+Weber,President,,Democrat,OGD043,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD043,TULSI GABBARD,0
+Weber,President,,Democrat,OGD043,AMY KLOBUCHAR,2
+Weber,President,,Democrat,OGD043,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD044,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD044,ANDREW YANG,0
+Weber,President,,Democrat,OGD044,CORY BOOKER,0
+Weber,President,,Democrat,OGD044,PETE BUTTIGIEG,26
+Weber,President,,Democrat,OGD044,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD044,MICHAEL R. BLOOMBERG,29
+Weber,President,,Democrat,OGD044,JOSEPH R. BIDEN,20
+Weber,President,,Democrat,OGD044,BERNIE SANDERS,27
+Weber,President,,Democrat,OGD044,TOM STEYER,0
+Weber,President,,Democrat,OGD044,ELIZABETH WARREN,19
+Weber,President,,Democrat,OGD044,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD044,TULSI GABBARD,0
+Weber,President,,Democrat,OGD044,AMY KLOBUCHAR,12
+Weber,President,,Democrat,OGD044,DEVAL PATRICK,0
+Weber,President,,Democrat,OGD045,JULIAN CASTRO,0
+Weber,President,,Democrat,OGD045,ANDREW YANG,1
+Weber,President,,Democrat,OGD045,CORY BOOKER,0
+Weber,President,,Democrat,OGD045,PETE BUTTIGIEG,21
+Weber,President,,Democrat,OGD045,NATHAN BLOXHAM,0
+Weber,President,,Democrat,OGD045,MICHAEL R. BLOOMBERG,28
+Weber,President,,Democrat,OGD045,JOSEPH R. BIDEN,16
+Weber,President,,Democrat,OGD045,BERNIE SANDERS,24
+Weber,President,,Democrat,OGD045,TOM STEYER,0
+Weber,President,,Democrat,OGD045,ELIZABETH WARREN,16
+Weber,President,,Democrat,OGD045,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,OGD045,TULSI GABBARD,0
+Weber,President,,Democrat,OGD045,AMY KLOBUCHAR,4
+Weber,President,,Democrat,OGD045,DEVAL PATRICK,0
+Weber,President,,Democrat,PLC001,JULIAN CASTRO,0
+Weber,President,,Democrat,PLC001,ANDREW YANG,0
+Weber,President,,Democrat,PLC001,CORY BOOKER,0
+Weber,President,,Democrat,PLC001,PETE BUTTIGIEG,4
+Weber,President,,Democrat,PLC001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,PLC001,MICHAEL R. BLOOMBERG,11
+Weber,President,,Democrat,PLC001,JOSEPH R. BIDEN,16
+Weber,President,,Democrat,PLC001,BERNIE SANDERS,10
+Weber,President,,Democrat,PLC001,TOM STEYER,1
+Weber,President,,Democrat,PLC001,ELIZABETH WARREN,8
+Weber,President,,Democrat,PLC001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,PLC001,TULSI GABBARD,0
+Weber,President,,Democrat,PLC001,AMY KLOBUCHAR,2
+Weber,President,,Democrat,PLC001,DEVAL PATRICK,0
+Weber,President,,Democrat,PLC002,JULIAN CASTRO,0
+Weber,President,,Democrat,PLC002,ANDREW YANG,1
+Weber,President,,Democrat,PLC002,CORY BOOKER,0
+Weber,President,,Democrat,PLC002,PETE BUTTIGIEG,9
+Weber,President,,Democrat,PLC002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,PLC002,MICHAEL R. BLOOMBERG,18
+Weber,President,,Democrat,PLC002,JOSEPH R. BIDEN,17
+Weber,President,,Democrat,PLC002,BERNIE SANDERS,22
+Weber,President,,Democrat,PLC002,TOM STEYER,0
+Weber,President,,Democrat,PLC002,ELIZABETH WARREN,11
+Weber,President,,Democrat,PLC002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,PLC002,TULSI GABBARD,1
+Weber,President,,Democrat,PLC002,AMY KLOBUCHAR,2
+Weber,President,,Democrat,PLC002,DEVAL PATRICK,0
+Weber,President,,Democrat,PLC003,JULIAN CASTRO,0
+Weber,President,,Democrat,PLC003,ANDREW YANG,0
+Weber,President,,Democrat,PLC003,CORY BOOKER,0
+Weber,President,,Democrat,PLC003,PETE BUTTIGIEG,1
+Weber,President,,Democrat,PLC003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,PLC003,MICHAEL R. BLOOMBERG,6
+Weber,President,,Democrat,PLC003,JOSEPH R. BIDEN,6
+Weber,President,,Democrat,PLC003,BERNIE SANDERS,10
+Weber,President,,Democrat,PLC003,TOM STEYER,0
+Weber,President,,Democrat,PLC003,ELIZABETH WARREN,4
+Weber,President,,Democrat,PLC003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,PLC003,TULSI GABBARD,0
+Weber,President,,Democrat,PLC003,AMY KLOBUCHAR,1
+Weber,President,,Democrat,PLC003,DEVAL PATRICK,0
+Weber,President,,Democrat,PLC004,JULIAN CASTRO,0
+Weber,President,,Democrat,PLC004,ANDREW YANG,0
+Weber,President,,Democrat,PLC004,CORY BOOKER,0
+Weber,President,,Democrat,PLC004,PETE BUTTIGIEG,3
+Weber,President,,Democrat,PLC004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,PLC004,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,PLC004,JOSEPH R. BIDEN,13
+Weber,President,,Democrat,PLC004,BERNIE SANDERS,20
+Weber,President,,Democrat,PLC004,TOM STEYER,0
+Weber,President,,Democrat,PLC004,ELIZABETH WARREN,6
+Weber,President,,Democrat,PLC004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,PLC004,TULSI GABBARD,0
+Weber,President,,Democrat,PLC004,AMY KLOBUCHAR,2
+Weber,President,,Democrat,PLC004,DEVAL PATRICK,0
+Weber,President,,Democrat,PLV001,JULIAN CASTRO,0
+Weber,President,,Democrat,PLV001,ANDREW YANG,0
+Weber,President,,Democrat,PLV001,CORY BOOKER,0
+Weber,President,,Democrat,PLV001,PETE BUTTIGIEG,2
+Weber,President,,Democrat,PLV001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,PLV001,MICHAEL R. BLOOMBERG,10
+Weber,President,,Democrat,PLV001,JOSEPH R. BIDEN,24
+Weber,President,,Democrat,PLV001,BERNIE SANDERS,21
+Weber,President,,Democrat,PLV001,TOM STEYER,0
+Weber,President,,Democrat,PLV001,ELIZABETH WARREN,9
+Weber,President,,Democrat,PLV001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,PLV001,TULSI GABBARD,0
+Weber,President,,Democrat,PLV001,AMY KLOBUCHAR,3
+Weber,President,,Democrat,PLV001,DEVAL PATRICK,0
+Weber,President,,Democrat,PLV002,JULIAN CASTRO,0
+Weber,President,,Democrat,PLV002,ANDREW YANG,1
+Weber,President,,Democrat,PLV002,CORY BOOKER,0
+Weber,President,,Democrat,PLV002,PETE BUTTIGIEG,9
+Weber,President,,Democrat,PLV002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,PLV002,MICHAEL R. BLOOMBERG,10
+Weber,President,,Democrat,PLV002,JOSEPH R. BIDEN,17
+Weber,President,,Democrat,PLV002,BERNIE SANDERS,20
+Weber,President,,Democrat,PLV002,TOM STEYER,0
+Weber,President,,Democrat,PLV002,ELIZABETH WARREN,7
+Weber,President,,Democrat,PLV002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,PLV002,TULSI GABBARD,1
+Weber,President,,Democrat,PLV002,AMY KLOBUCHAR,2
+Weber,President,,Democrat,PLV002,DEVAL PATRICK,0
+Weber,President,,Democrat,PLV003,JULIAN CASTRO,0
+Weber,President,,Democrat,PLV003,ANDREW YANG,0
+Weber,President,,Democrat,PLV003,CORY BOOKER,0
+Weber,President,,Democrat,PLV003,PETE BUTTIGIEG,3
+Weber,President,,Democrat,PLV003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,PLV003,MICHAEL R. BLOOMBERG,11
+Weber,President,,Democrat,PLV003,JOSEPH R. BIDEN,16
+Weber,President,,Democrat,PLV003,BERNIE SANDERS,24
+Weber,President,,Democrat,PLV003,TOM STEYER,1
+Weber,President,,Democrat,PLV003,ELIZABETH WARREN,12
+Weber,President,,Democrat,PLV003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,PLV003,TULSI GABBARD,0
+Weber,President,,Democrat,PLV003,AMY KLOBUCHAR,2
+Weber,President,,Democrat,PLV003,DEVAL PATRICK,0
+Weber,President,,Democrat,PLV004,JULIAN CASTRO,0
+Weber,President,,Democrat,PLV004,ANDREW YANG,1
+Weber,President,,Democrat,PLV004,CORY BOOKER,0
+Weber,President,,Democrat,PLV004,PETE BUTTIGIEG,14
+Weber,President,,Democrat,PLV004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,PLV004,MICHAEL R. BLOOMBERG,21
+Weber,President,,Democrat,PLV004,JOSEPH R. BIDEN,32
+Weber,President,,Democrat,PLV004,BERNIE SANDERS,32
+Weber,President,,Democrat,PLV004,TOM STEYER,0
+Weber,President,,Democrat,PLV004,ELIZABETH WARREN,13
+Weber,President,,Democrat,PLV004,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,PLV004,TULSI GABBARD,0
+Weber,President,,Democrat,PLV004,AMY KLOBUCHAR,3
+Weber,President,,Democrat,PLV004,DEVAL PATRICK,0
+Weber,President,,Democrat,PLV005,JULIAN CASTRO,0
+Weber,President,,Democrat,PLV005,ANDREW YANG,0
+Weber,President,,Democrat,PLV005,CORY BOOKER,0
+Weber,President,,Democrat,PLV005,PETE BUTTIGIEG,5
+Weber,President,,Democrat,PLV005,NATHAN BLOXHAM,0
+Weber,President,,Democrat,PLV005,MICHAEL R. BLOOMBERG,26
+Weber,President,,Democrat,PLV005,JOSEPH R. BIDEN,17
+Weber,President,,Democrat,PLV005,BERNIE SANDERS,25
+Weber,President,,Democrat,PLV005,TOM STEYER,0
+Weber,President,,Democrat,PLV005,ELIZABETH WARREN,8
+Weber,President,,Democrat,PLV005,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,PLV005,TULSI GABBARD,1
+Weber,President,,Democrat,PLV005,AMY KLOBUCHAR,0
+Weber,President,,Democrat,PLV005,DEVAL PATRICK,0
+Weber,President,,Democrat,PLV006,JULIAN CASTRO,0
+Weber,President,,Democrat,PLV006,ANDREW YANG,0
+Weber,President,,Democrat,PLV006,CORY BOOKER,0
+Weber,President,,Democrat,PLV006,PETE BUTTIGIEG,1
+Weber,President,,Democrat,PLV006,NATHAN BLOXHAM,0
+Weber,President,,Democrat,PLV006,MICHAEL R. BLOOMBERG,8
+Weber,President,,Democrat,PLV006,JOSEPH R. BIDEN,5
+Weber,President,,Democrat,PLV006,BERNIE SANDERS,18
+Weber,President,,Democrat,PLV006,TOM STEYER,0
+Weber,President,,Democrat,PLV006,ELIZABETH WARREN,3
+Weber,President,,Democrat,PLV006,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,PLV006,TULSI GABBARD,0
+Weber,President,,Democrat,PLV006,AMY KLOBUCHAR,0
+Weber,President,,Democrat,PLV006,DEVAL PATRICK,0
+Weber,President,,Democrat,RIV001,JULIAN CASTRO,1
+Weber,President,,Democrat,RIV001,ANDREW YANG,0
+Weber,President,,Democrat,RIV001,CORY BOOKER,0
+Weber,President,,Democrat,RIV001,PETE BUTTIGIEG,10
+Weber,President,,Democrat,RIV001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,RIV001,MICHAEL R. BLOOMBERG,28
+Weber,President,,Democrat,RIV001,JOSEPH R. BIDEN,28
+Weber,President,,Democrat,RIV001,BERNIE SANDERS,21
+Weber,President,,Democrat,RIV001,TOM STEYER,1
+Weber,President,,Democrat,RIV001,ELIZABETH WARREN,10
+Weber,President,,Democrat,RIV001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,RIV001,TULSI GABBARD,0
+Weber,President,,Democrat,RIV001,AMY KLOBUCHAR,1
+Weber,President,,Democrat,RIV001,DEVAL PATRICK,0
+Weber,President,,Democrat,RIV002,JULIAN CASTRO,0
+Weber,President,,Democrat,RIV002,ANDREW YANG,0
+Weber,President,,Democrat,RIV002,CORY BOOKER,0
+Weber,President,,Democrat,RIV002,PETE BUTTIGIEG,13
+Weber,President,,Democrat,RIV002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,RIV002,MICHAEL R. BLOOMBERG,15
+Weber,President,,Democrat,RIV002,JOSEPH R. BIDEN,22
+Weber,President,,Democrat,RIV002,BERNIE SANDERS,36
+Weber,President,,Democrat,RIV002,TOM STEYER,0
+Weber,President,,Democrat,RIV002,ELIZABETH WARREN,14
+Weber,President,,Democrat,RIV002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,RIV002,TULSI GABBARD,0
+Weber,President,,Democrat,RIV002,AMY KLOBUCHAR,6
+Weber,President,,Democrat,RIV002,DEVAL PATRICK,1
+Weber,President,,Democrat,RIV003,JULIAN CASTRO,0
+Weber,President,,Democrat,RIV003,ANDREW YANG,0
+Weber,President,,Democrat,RIV003,CORY BOOKER,0
+Weber,President,,Democrat,RIV003,PETE BUTTIGIEG,11
+Weber,President,,Democrat,RIV003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,RIV003,MICHAEL R. BLOOMBERG,21
+Weber,President,,Democrat,RIV003,JOSEPH R. BIDEN,19
+Weber,President,,Democrat,RIV003,BERNIE SANDERS,31
+Weber,President,,Democrat,RIV003,TOM STEYER,2
+Weber,President,,Democrat,RIV003,ELIZABETH WARREN,10
+Weber,President,,Democrat,RIV003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,RIV003,TULSI GABBARD,2
+Weber,President,,Democrat,RIV003,AMY KLOBUCHAR,2
+Weber,President,,Democrat,RIV003,DEVAL PATRICK,0
+Weber,President,,Democrat,RIV004,JULIAN CASTRO,0
+Weber,President,,Democrat,RIV004,ANDREW YANG,0
+Weber,President,,Democrat,RIV004,CORY BOOKER,0
+Weber,President,,Democrat,RIV004,PETE BUTTIGIEG,4
+Weber,President,,Democrat,RIV004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,RIV004,MICHAEL R. BLOOMBERG,11
+Weber,President,,Democrat,RIV004,JOSEPH R. BIDEN,26
+Weber,President,,Democrat,RIV004,BERNIE SANDERS,35
+Weber,President,,Democrat,RIV004,TOM STEYER,0
+Weber,President,,Democrat,RIV004,ELIZABETH WARREN,4
+Weber,President,,Democrat,RIV004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,RIV004,TULSI GABBARD,2
+Weber,President,,Democrat,RIV004,AMY KLOBUCHAR,4
+Weber,President,,Democrat,RIV004,DEVAL PATRICK,0
+Weber,President,,Democrat,RIV005,JULIAN CASTRO,0
+Weber,President,,Democrat,RIV005,ANDREW YANG,0
+Weber,President,,Democrat,RIV005,CORY BOOKER,0
+Weber,President,,Democrat,RIV005,PETE BUTTIGIEG,3
+Weber,President,,Democrat,RIV005,NATHAN BLOXHAM,0
+Weber,President,,Democrat,RIV005,MICHAEL R. BLOOMBERG,10
+Weber,President,,Democrat,RIV005,JOSEPH R. BIDEN,19
+Weber,President,,Democrat,RIV005,BERNIE SANDERS,28
+Weber,President,,Democrat,RIV005,TOM STEYER,0
+Weber,President,,Democrat,RIV005,ELIZABETH WARREN,9
+Weber,President,,Democrat,RIV005,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,RIV005,TULSI GABBARD,0
+Weber,President,,Democrat,RIV005,AMY KLOBUCHAR,1
+Weber,President,,Democrat,RIV005,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY001,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY001,ANDREW YANG,1
+Weber,President,,Democrat,ROY001,CORY BOOKER,0
+Weber,President,,Democrat,ROY001,PETE BUTTIGIEG,6
+Weber,President,,Democrat,ROY001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY001,MICHAEL R. BLOOMBERG,15
+Weber,President,,Democrat,ROY001,JOSEPH R. BIDEN,22
+Weber,President,,Democrat,ROY001,BERNIE SANDERS,35
+Weber,President,,Democrat,ROY001,TOM STEYER,1
+Weber,President,,Democrat,ROY001,ELIZABETH WARREN,4
+Weber,President,,Democrat,ROY001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY001,TULSI GABBARD,1
+Weber,President,,Democrat,ROY001,AMY KLOBUCHAR,3
+Weber,President,,Democrat,ROY001,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY002,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY002,ANDREW YANG,1
+Weber,President,,Democrat,ROY002,CORY BOOKER,0
+Weber,President,,Democrat,ROY002,PETE BUTTIGIEG,11
+Weber,President,,Democrat,ROY002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY002,MICHAEL R. BLOOMBERG,18
+Weber,President,,Democrat,ROY002,JOSEPH R. BIDEN,24
+Weber,President,,Democrat,ROY002,BERNIE SANDERS,31
+Weber,President,,Democrat,ROY002,TOM STEYER,0
+Weber,President,,Democrat,ROY002,ELIZABETH WARREN,13
+Weber,President,,Democrat,ROY002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY002,TULSI GABBARD,1
+Weber,President,,Democrat,ROY002,AMY KLOBUCHAR,2
+Weber,President,,Democrat,ROY002,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY003,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY003,ANDREW YANG,0
+Weber,President,,Democrat,ROY003,CORY BOOKER,0
+Weber,President,,Democrat,ROY003,PETE BUTTIGIEG,11
+Weber,President,,Democrat,ROY003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY003,MICHAEL R. BLOOMBERG,14
+Weber,President,,Democrat,ROY003,JOSEPH R. BIDEN,18
+Weber,President,,Democrat,ROY003,BERNIE SANDERS,24
+Weber,President,,Democrat,ROY003,TOM STEYER,1
+Weber,President,,Democrat,ROY003,ELIZABETH WARREN,6
+Weber,President,,Democrat,ROY003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY003,TULSI GABBARD,0
+Weber,President,,Democrat,ROY003,AMY KLOBUCHAR,0
+Weber,President,,Democrat,ROY003,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY004,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY004,ANDREW YANG,0
+Weber,President,,Democrat,ROY004,CORY BOOKER,0
+Weber,President,,Democrat,ROY004,PETE BUTTIGIEG,10
+Weber,President,,Democrat,ROY004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY004,MICHAEL R. BLOOMBERG,26
+Weber,President,,Democrat,ROY004,JOSEPH R. BIDEN,18
+Weber,President,,Democrat,ROY004,BERNIE SANDERS,48
+Weber,President,,Democrat,ROY004,TOM STEYER,1
+Weber,President,,Democrat,ROY004,ELIZABETH WARREN,5
+Weber,President,,Democrat,ROY004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY004,TULSI GABBARD,0
+Weber,President,,Democrat,ROY004,AMY KLOBUCHAR,2
+Weber,President,,Democrat,ROY004,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY005,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY005,ANDREW YANG,0
+Weber,President,,Democrat,ROY005,CORY BOOKER,1
+Weber,President,,Democrat,ROY005,PETE BUTTIGIEG,10
+Weber,President,,Democrat,ROY005,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY005,MICHAEL R. BLOOMBERG,10
+Weber,President,,Democrat,ROY005,JOSEPH R. BIDEN,21
+Weber,President,,Democrat,ROY005,BERNIE SANDERS,36
+Weber,President,,Democrat,ROY005,TOM STEYER,0
+Weber,President,,Democrat,ROY005,ELIZABETH WARREN,10
+Weber,President,,Democrat,ROY005,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY005,TULSI GABBARD,2
+Weber,President,,Democrat,ROY005,AMY KLOBUCHAR,3
+Weber,President,,Democrat,ROY005,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY006,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY006,ANDREW YANG,0
+Weber,President,,Democrat,ROY006,CORY BOOKER,0
+Weber,President,,Democrat,ROY006,PETE BUTTIGIEG,5
+Weber,President,,Democrat,ROY006,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY006,MICHAEL R. BLOOMBERG,22
+Weber,President,,Democrat,ROY006,JOSEPH R. BIDEN,23
+Weber,President,,Democrat,ROY006,BERNIE SANDERS,42
+Weber,President,,Democrat,ROY006,TOM STEYER,0
+Weber,President,,Democrat,ROY006,ELIZABETH WARREN,10
+Weber,President,,Democrat,ROY006,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY006,TULSI GABBARD,1
+Weber,President,,Democrat,ROY006,AMY KLOBUCHAR,1
+Weber,President,,Democrat,ROY006,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY007,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY007,ANDREW YANG,0
+Weber,President,,Democrat,ROY007,CORY BOOKER,0
+Weber,President,,Democrat,ROY007,PETE BUTTIGIEG,4
+Weber,President,,Democrat,ROY007,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY007,MICHAEL R. BLOOMBERG,11
+Weber,President,,Democrat,ROY007,JOSEPH R. BIDEN,13
+Weber,President,,Democrat,ROY007,BERNIE SANDERS,29
+Weber,President,,Democrat,ROY007,TOM STEYER,0
+Weber,President,,Democrat,ROY007,ELIZABETH WARREN,9
+Weber,President,,Democrat,ROY007,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY007,TULSI GABBARD,0
+Weber,President,,Democrat,ROY007,AMY KLOBUCHAR,3
+Weber,President,,Democrat,ROY007,DEVAL PATRICK,1
+Weber,President,,Democrat,ROY008,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY008,ANDREW YANG,0
+Weber,President,,Democrat,ROY008,CORY BOOKER,0
+Weber,President,,Democrat,ROY008,PETE BUTTIGIEG,7
+Weber,President,,Democrat,ROY008,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY008,MICHAEL R. BLOOMBERG,15
+Weber,President,,Democrat,ROY008,JOSEPH R. BIDEN,27
+Weber,President,,Democrat,ROY008,BERNIE SANDERS,34
+Weber,President,,Democrat,ROY008,TOM STEYER,0
+Weber,President,,Democrat,ROY008,ELIZABETH WARREN,22
+Weber,President,,Democrat,ROY008,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY008,TULSI GABBARD,1
+Weber,President,,Democrat,ROY008,AMY KLOBUCHAR,2
+Weber,President,,Democrat,ROY008,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY009,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY009,ANDREW YANG,2
+Weber,President,,Democrat,ROY009,CORY BOOKER,0
+Weber,President,,Democrat,ROY009,PETE BUTTIGIEG,8
+Weber,President,,Democrat,ROY009,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY009,MICHAEL R. BLOOMBERG,14
+Weber,President,,Democrat,ROY009,JOSEPH R. BIDEN,7
+Weber,President,,Democrat,ROY009,BERNIE SANDERS,45
+Weber,President,,Democrat,ROY009,TOM STEYER,0
+Weber,President,,Democrat,ROY009,ELIZABETH WARREN,20
+Weber,President,,Democrat,ROY009,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY009,TULSI GABBARD,0
+Weber,President,,Democrat,ROY009,AMY KLOBUCHAR,2
+Weber,President,,Democrat,ROY009,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY010,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY010,ANDREW YANG,0
+Weber,President,,Democrat,ROY010,CORY BOOKER,0
+Weber,President,,Democrat,ROY010,PETE BUTTIGIEG,3
+Weber,President,,Democrat,ROY010,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY010,MICHAEL R. BLOOMBERG,23
+Weber,President,,Democrat,ROY010,JOSEPH R. BIDEN,23
+Weber,President,,Democrat,ROY010,BERNIE SANDERS,36
+Weber,President,,Democrat,ROY010,TOM STEYER,0
+Weber,President,,Democrat,ROY010,ELIZABETH WARREN,8
+Weber,President,,Democrat,ROY010,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY010,TULSI GABBARD,0
+Weber,President,,Democrat,ROY010,AMY KLOBUCHAR,4
+Weber,President,,Democrat,ROY010,DEVAL PATRICK,1
+Weber,President,,Democrat,ROY011,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY011,ANDREW YANG,0
+Weber,President,,Democrat,ROY011,CORY BOOKER,0
+Weber,President,,Democrat,ROY011,PETE BUTTIGIEG,8
+Weber,President,,Democrat,ROY011,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY011,MICHAEL R. BLOOMBERG,17
+Weber,President,,Democrat,ROY011,JOSEPH R. BIDEN,20
+Weber,President,,Democrat,ROY011,BERNIE SANDERS,30
+Weber,President,,Democrat,ROY011,TOM STEYER,0
+Weber,President,,Democrat,ROY011,ELIZABETH WARREN,7
+Weber,President,,Democrat,ROY011,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,ROY011,TULSI GABBARD,1
+Weber,President,,Democrat,ROY011,AMY KLOBUCHAR,3
+Weber,President,,Democrat,ROY011,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY012,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY012,ANDREW YANG,0
+Weber,President,,Democrat,ROY012,CORY BOOKER,0
+Weber,President,,Democrat,ROY012,PETE BUTTIGIEG,9
+Weber,President,,Democrat,ROY012,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY012,MICHAEL R. BLOOMBERG,11
+Weber,President,,Democrat,ROY012,JOSEPH R. BIDEN,12
+Weber,President,,Democrat,ROY012,BERNIE SANDERS,26
+Weber,President,,Democrat,ROY012,TOM STEYER,0
+Weber,President,,Democrat,ROY012,ELIZABETH WARREN,5
+Weber,President,,Democrat,ROY012,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY012,TULSI GABBARD,0
+Weber,President,,Democrat,ROY012,AMY KLOBUCHAR,2
+Weber,President,,Democrat,ROY012,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY013,JULIAN CASTRO,1
+Weber,President,,Democrat,ROY013,ANDREW YANG,1
+Weber,President,,Democrat,ROY013,CORY BOOKER,0
+Weber,President,,Democrat,ROY013,PETE BUTTIGIEG,4
+Weber,President,,Democrat,ROY013,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY013,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,ROY013,JOSEPH R. BIDEN,15
+Weber,President,,Democrat,ROY013,BERNIE SANDERS,22
+Weber,President,,Democrat,ROY013,TOM STEYER,0
+Weber,President,,Democrat,ROY013,ELIZABETH WARREN,13
+Weber,President,,Democrat,ROY013,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY013,TULSI GABBARD,1
+Weber,President,,Democrat,ROY013,AMY KLOBUCHAR,10
+Weber,President,,Democrat,ROY013,DEVAL PATRICK,2
+Weber,President,,Democrat,ROY014,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY014,ANDREW YANG,0
+Weber,President,,Democrat,ROY014,CORY BOOKER,0
+Weber,President,,Democrat,ROY014,PETE BUTTIGIEG,14
+Weber,President,,Democrat,ROY014,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY014,MICHAEL R. BLOOMBERG,27
+Weber,President,,Democrat,ROY014,JOSEPH R. BIDEN,22
+Weber,President,,Democrat,ROY014,BERNIE SANDERS,32
+Weber,President,,Democrat,ROY014,TOM STEYER,0
+Weber,President,,Democrat,ROY014,ELIZABETH WARREN,12
+Weber,President,,Democrat,ROY014,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY014,TULSI GABBARD,1
+Weber,President,,Democrat,ROY014,AMY KLOBUCHAR,2
+Weber,President,,Democrat,ROY014,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY015,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY015,ANDREW YANG,0
+Weber,President,,Democrat,ROY015,CORY BOOKER,0
+Weber,President,,Democrat,ROY015,PETE BUTTIGIEG,2
+Weber,President,,Democrat,ROY015,NATHAN BLOXHAM,1
+Weber,President,,Democrat,ROY015,MICHAEL R. BLOOMBERG,18
+Weber,President,,Democrat,ROY015,JOSEPH R. BIDEN,10
+Weber,President,,Democrat,ROY015,BERNIE SANDERS,21
+Weber,President,,Democrat,ROY015,TOM STEYER,0
+Weber,President,,Democrat,ROY015,ELIZABETH WARREN,7
+Weber,President,,Democrat,ROY015,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY015,TULSI GABBARD,0
+Weber,President,,Democrat,ROY015,AMY KLOBUCHAR,4
+Weber,President,,Democrat,ROY015,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY016,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY016,ANDREW YANG,0
+Weber,President,,Democrat,ROY016,CORY BOOKER,0
+Weber,President,,Democrat,ROY016,PETE BUTTIGIEG,5
+Weber,President,,Democrat,ROY016,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY016,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,ROY016,JOSEPH R. BIDEN,23
+Weber,President,,Democrat,ROY016,BERNIE SANDERS,28
+Weber,President,,Democrat,ROY016,TOM STEYER,0
+Weber,President,,Democrat,ROY016,ELIZABETH WARREN,5
+Weber,President,,Democrat,ROY016,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY016,TULSI GABBARD,2
+Weber,President,,Democrat,ROY016,AMY KLOBUCHAR,3
+Weber,President,,Democrat,ROY016,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY017,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY017,ANDREW YANG,1
+Weber,President,,Democrat,ROY017,CORY BOOKER,0
+Weber,President,,Democrat,ROY017,PETE BUTTIGIEG,7
+Weber,President,,Democrat,ROY017,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY017,MICHAEL R. BLOOMBERG,13
+Weber,President,,Democrat,ROY017,JOSEPH R. BIDEN,23
+Weber,President,,Democrat,ROY017,BERNIE SANDERS,26
+Weber,President,,Democrat,ROY017,TOM STEYER,0
+Weber,President,,Democrat,ROY017,ELIZABETH WARREN,12
+Weber,President,,Democrat,ROY017,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,ROY017,TULSI GABBARD,0
+Weber,President,,Democrat,ROY017,AMY KLOBUCHAR,3
+Weber,President,,Democrat,ROY017,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY018,JULIAN CASTRO,1
+Weber,President,,Democrat,ROY018,ANDREW YANG,0
+Weber,President,,Democrat,ROY018,CORY BOOKER,0
+Weber,President,,Democrat,ROY018,PETE BUTTIGIEG,9
+Weber,President,,Democrat,ROY018,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY018,MICHAEL R. BLOOMBERG,20
+Weber,President,,Democrat,ROY018,JOSEPH R. BIDEN,13
+Weber,President,,Democrat,ROY018,BERNIE SANDERS,35
+Weber,President,,Democrat,ROY018,TOM STEYER,0
+Weber,President,,Democrat,ROY018,ELIZABETH WARREN,14
+Weber,President,,Democrat,ROY018,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY018,TULSI GABBARD,2
+Weber,President,,Democrat,ROY018,AMY KLOBUCHAR,2
+Weber,President,,Democrat,ROY018,DEVAL PATRICK,0
+Weber,President,,Democrat,ROY019,JULIAN CASTRO,0
+Weber,President,,Democrat,ROY019,ANDREW YANG,0
+Weber,President,,Democrat,ROY019,CORY BOOKER,0
+Weber,President,,Democrat,ROY019,PETE BUTTIGIEG,9
+Weber,President,,Democrat,ROY019,NATHAN BLOXHAM,0
+Weber,President,,Democrat,ROY019,MICHAEL R. BLOOMBERG,17
+Weber,President,,Democrat,ROY019,JOSEPH R. BIDEN,28
+Weber,President,,Democrat,ROY019,BERNIE SANDERS,25
+Weber,President,,Democrat,ROY019,TOM STEYER,0
+Weber,President,,Democrat,ROY019,ELIZABETH WARREN,12
+Weber,President,,Democrat,ROY019,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,ROY019,TULSI GABBARD,0
+Weber,President,,Democrat,ROY019,AMY KLOBUCHAR,2
+Weber,President,,Democrat,ROY019,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG001,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG001,ANDREW YANG,1
+Weber,President,,Democrat,SOG001,CORY BOOKER,0
+Weber,President,,Democrat,SOG001,PETE BUTTIGIEG,4
+Weber,President,,Democrat,SOG001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG001,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,SOG001,JOSEPH R. BIDEN,14
+Weber,President,,Democrat,SOG001,BERNIE SANDERS,35
+Weber,President,,Democrat,SOG001,TOM STEYER,0
+Weber,President,,Democrat,SOG001,ELIZABETH WARREN,8
+Weber,President,,Democrat,SOG001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG001,TULSI GABBARD,1
+Weber,President,,Democrat,SOG001,AMY KLOBUCHAR,2
+Weber,President,,Democrat,SOG001,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG002,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG002,ANDREW YANG,0
+Weber,President,,Democrat,SOG002,CORY BOOKER,0
+Weber,President,,Democrat,SOG002,PETE BUTTIGIEG,4
+Weber,President,,Democrat,SOG002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG002,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,SOG002,JOSEPH R. BIDEN,14
+Weber,President,,Democrat,SOG002,BERNIE SANDERS,47
+Weber,President,,Democrat,SOG002,TOM STEYER,2
+Weber,President,,Democrat,SOG002,ELIZABETH WARREN,17
+Weber,President,,Democrat,SOG002,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,SOG002,TULSI GABBARD,0
+Weber,President,,Democrat,SOG002,AMY KLOBUCHAR,1
+Weber,President,,Democrat,SOG002,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG003,JULIAN CASTRO,1
+Weber,President,,Democrat,SOG003,ANDREW YANG,0
+Weber,President,,Democrat,SOG003,CORY BOOKER,1
+Weber,President,,Democrat,SOG003,PETE BUTTIGIEG,7
+Weber,President,,Democrat,SOG003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG003,MICHAEL R. BLOOMBERG,15
+Weber,President,,Democrat,SOG003,JOSEPH R. BIDEN,11
+Weber,President,,Democrat,SOG003,BERNIE SANDERS,40
+Weber,President,,Democrat,SOG003,TOM STEYER,0
+Weber,President,,Democrat,SOG003,ELIZABETH WARREN,8
+Weber,President,,Democrat,SOG003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG003,TULSI GABBARD,3
+Weber,President,,Democrat,SOG003,AMY KLOBUCHAR,3
+Weber,President,,Democrat,SOG003,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG004,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG004,ANDREW YANG,0
+Weber,President,,Democrat,SOG004,CORY BOOKER,0
+Weber,President,,Democrat,SOG004,PETE BUTTIGIEG,5
+Weber,President,,Democrat,SOG004,NATHAN BLOXHAM,1
+Weber,President,,Democrat,SOG004,MICHAEL R. BLOOMBERG,23
+Weber,President,,Democrat,SOG004,JOSEPH R. BIDEN,20
+Weber,President,,Democrat,SOG004,BERNIE SANDERS,27
+Weber,President,,Democrat,SOG004,TOM STEYER,0
+Weber,President,,Democrat,SOG004,ELIZABETH WARREN,11
+Weber,President,,Democrat,SOG004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG004,TULSI GABBARD,0
+Weber,President,,Democrat,SOG004,AMY KLOBUCHAR,1
+Weber,President,,Democrat,SOG004,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG005,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG005,ANDREW YANG,0
+Weber,President,,Democrat,SOG005,CORY BOOKER,0
+Weber,President,,Democrat,SOG005,PETE BUTTIGIEG,10
+Weber,President,,Democrat,SOG005,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG005,MICHAEL R. BLOOMBERG,16
+Weber,President,,Democrat,SOG005,JOSEPH R. BIDEN,33
+Weber,President,,Democrat,SOG005,BERNIE SANDERS,41
+Weber,President,,Democrat,SOG005,TOM STEYER,1
+Weber,President,,Democrat,SOG005,ELIZABETH WARREN,11
+Weber,President,,Democrat,SOG005,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG005,TULSI GABBARD,0
+Weber,President,,Democrat,SOG005,AMY KLOBUCHAR,9
+Weber,President,,Democrat,SOG005,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG006,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG006,ANDREW YANG,0
+Weber,President,,Democrat,SOG006,CORY BOOKER,0
+Weber,President,,Democrat,SOG006,PETE BUTTIGIEG,4
+Weber,President,,Democrat,SOG006,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG006,MICHAEL R. BLOOMBERG,11
+Weber,President,,Democrat,SOG006,JOSEPH R. BIDEN,4
+Weber,President,,Democrat,SOG006,BERNIE SANDERS,16
+Weber,President,,Democrat,SOG006,TOM STEYER,0
+Weber,President,,Democrat,SOG006,ELIZABETH WARREN,9
+Weber,President,,Democrat,SOG006,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG006,TULSI GABBARD,0
+Weber,President,,Democrat,SOG006,AMY KLOBUCHAR,4
+Weber,President,,Democrat,SOG006,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG007,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG007,ANDREW YANG,0
+Weber,President,,Democrat,SOG007,CORY BOOKER,0
+Weber,President,,Democrat,SOG007,PETE BUTTIGIEG,8
+Weber,President,,Democrat,SOG007,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG007,MICHAEL R. BLOOMBERG,11
+Weber,President,,Democrat,SOG007,JOSEPH R. BIDEN,24
+Weber,President,,Democrat,SOG007,BERNIE SANDERS,41
+Weber,President,,Democrat,SOG007,TOM STEYER,1
+Weber,President,,Democrat,SOG007,ELIZABETH WARREN,11
+Weber,President,,Democrat,SOG007,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG007,TULSI GABBARD,1
+Weber,President,,Democrat,SOG007,AMY KLOBUCHAR,5
+Weber,President,,Democrat,SOG007,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG008,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG008,ANDREW YANG,0
+Weber,President,,Democrat,SOG008,CORY BOOKER,2
+Weber,President,,Democrat,SOG008,PETE BUTTIGIEG,26
+Weber,President,,Democrat,SOG008,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG008,MICHAEL R. BLOOMBERG,34
+Weber,President,,Democrat,SOG008,JOSEPH R. BIDEN,35
+Weber,President,,Democrat,SOG008,BERNIE SANDERS,37
+Weber,President,,Democrat,SOG008,TOM STEYER,1
+Weber,President,,Democrat,SOG008,ELIZABETH WARREN,13
+Weber,President,,Democrat,SOG008,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG008,TULSI GABBARD,1
+Weber,President,,Democrat,SOG008,AMY KLOBUCHAR,5
+Weber,President,,Democrat,SOG008,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG009,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG009,ANDREW YANG,0
+Weber,President,,Democrat,SOG009,CORY BOOKER,0
+Weber,President,,Democrat,SOG009,PETE BUTTIGIEG,5
+Weber,President,,Democrat,SOG009,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG009,MICHAEL R. BLOOMBERG,20
+Weber,President,,Democrat,SOG009,JOSEPH R. BIDEN,25
+Weber,President,,Democrat,SOG009,BERNIE SANDERS,47
+Weber,President,,Democrat,SOG009,TOM STEYER,0
+Weber,President,,Democrat,SOG009,ELIZABETH WARREN,20
+Weber,President,,Democrat,SOG009,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG009,TULSI GABBARD,0
+Weber,President,,Democrat,SOG009,AMY KLOBUCHAR,1
+Weber,President,,Democrat,SOG009,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG010,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG010,ANDREW YANG,0
+Weber,President,,Democrat,SOG010,CORY BOOKER,0
+Weber,President,,Democrat,SOG010,PETE BUTTIGIEG,14
+Weber,President,,Democrat,SOG010,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG010,MICHAEL R. BLOOMBERG,48
+Weber,President,,Democrat,SOG010,JOSEPH R. BIDEN,28
+Weber,President,,Democrat,SOG010,BERNIE SANDERS,38
+Weber,President,,Democrat,SOG010,TOM STEYER,2
+Weber,President,,Democrat,SOG010,ELIZABETH WARREN,25
+Weber,President,,Democrat,SOG010,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG010,TULSI GABBARD,0
+Weber,President,,Democrat,SOG010,AMY KLOBUCHAR,8
+Weber,President,,Democrat,SOG010,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG011,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG011,ANDREW YANG,0
+Weber,President,,Democrat,SOG011,CORY BOOKER,0
+Weber,President,,Democrat,SOG011,PETE BUTTIGIEG,7
+Weber,President,,Democrat,SOG011,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG011,MICHAEL R. BLOOMBERG,27
+Weber,President,,Democrat,SOG011,JOSEPH R. BIDEN,25
+Weber,President,,Democrat,SOG011,BERNIE SANDERS,27
+Weber,President,,Democrat,SOG011,TOM STEYER,0
+Weber,President,,Democrat,SOG011,ELIZABETH WARREN,16
+Weber,President,,Democrat,SOG011,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG011,TULSI GABBARD,1
+Weber,President,,Democrat,SOG011,AMY KLOBUCHAR,8
+Weber,President,,Democrat,SOG011,DEVAL PATRICK,0
+Weber,President,,Democrat,SOG012,JULIAN CASTRO,0
+Weber,President,,Democrat,SOG012,ANDREW YANG,0
+Weber,President,,Democrat,SOG012,CORY BOOKER,0
+Weber,President,,Democrat,SOG012,PETE BUTTIGIEG,13
+Weber,President,,Democrat,SOG012,NATHAN BLOXHAM,0
+Weber,President,,Democrat,SOG012,MICHAEL R. BLOOMBERG,28
+Weber,President,,Democrat,SOG012,JOSEPH R. BIDEN,32
+Weber,President,,Democrat,SOG012,BERNIE SANDERS,39
+Weber,President,,Democrat,SOG012,TOM STEYER,0
+Weber,President,,Democrat,SOG012,ELIZABETH WARREN,25
+Weber,President,,Democrat,SOG012,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,SOG012,TULSI GABBARD,1
+Weber,President,,Democrat,SOG012,AMY KLOBUCHAR,3
+Weber,President,,Democrat,SOG012,DEVAL PATRICK,0
+Weber,President,,Democrat,TAY002,JULIAN CASTRO,0
+Weber,President,,Democrat,TAY002,ANDREW YANG,0
+Weber,President,,Democrat,TAY002,CORY BOOKER,0
+Weber,President,,Democrat,TAY002,PETE BUTTIGIEG,8
+Weber,President,,Democrat,TAY002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,TAY002,MICHAEL R. BLOOMBERG,4
+Weber,President,,Democrat,TAY002,JOSEPH R. BIDEN,11
+Weber,President,,Democrat,TAY002,BERNIE SANDERS,9
+Weber,President,,Democrat,TAY002,TOM STEYER,0
+Weber,President,,Democrat,TAY002,ELIZABETH WARREN,9
+Weber,President,,Democrat,TAY002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,TAY002,TULSI GABBARD,0
+Weber,President,,Democrat,TAY002,AMY KLOBUCHAR,1
+Weber,President,,Democrat,TAY002,DEVAL PATRICK,0
+Weber,President,,Democrat,UIN001,JULIAN CASTRO,0
+Weber,President,,Democrat,UIN001,ANDREW YANG,0
+Weber,President,,Democrat,UIN001,CORY BOOKER,1
+Weber,President,,Democrat,UIN001,PETE BUTTIGIEG,7
+Weber,President,,Democrat,UIN001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,UIN001,MICHAEL R. BLOOMBERG,9
+Weber,President,,Democrat,UIN001,JOSEPH R. BIDEN,11
+Weber,President,,Democrat,UIN001,BERNIE SANDERS,15
+Weber,President,,Democrat,UIN001,TOM STEYER,0
+Weber,President,,Democrat,UIN001,ELIZABETH WARREN,4
+Weber,President,,Democrat,UIN001,MARIANNE WILLIAMSON,1
+Weber,President,,Democrat,UIN001,TULSI GABBARD,0
+Weber,President,,Democrat,UIN001,AMY KLOBUCHAR,2
+Weber,President,,Democrat,UIN001,DEVAL PATRICK,0
+Weber,President,,Democrat,VLY001,JULIAN CASTRO,0
+Weber,President,,Democrat,VLY001,ANDREW YANG,0
+Weber,President,,Democrat,VLY001,CORY BOOKER,0
+Weber,President,,Democrat,VLY001,PETE BUTTIGIEG,10
+Weber,President,,Democrat,VLY001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,VLY001,MICHAEL R. BLOOMBERG,24
+Weber,President,,Democrat,VLY001,JOSEPH R. BIDEN,15
+Weber,President,,Democrat,VLY001,BERNIE SANDERS,30
+Weber,President,,Democrat,VLY001,TOM STEYER,0
+Weber,President,,Democrat,VLY001,ELIZABETH WARREN,17
+Weber,President,,Democrat,VLY001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,VLY001,TULSI GABBARD,0
+Weber,President,,Democrat,VLY001,AMY KLOBUCHAR,8
+Weber,President,,Democrat,VLY001,DEVAL PATRICK,0
+Weber,President,,Democrat,VLY002,JULIAN CASTRO,0
+Weber,President,,Democrat,VLY002,ANDREW YANG,1
+Weber,President,,Democrat,VLY002,CORY BOOKER,0
+Weber,President,,Democrat,VLY002,PETE BUTTIGIEG,13
+Weber,President,,Democrat,VLY002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,VLY002,MICHAEL R. BLOOMBERG,39
+Weber,President,,Democrat,VLY002,JOSEPH R. BIDEN,29
+Weber,President,,Democrat,VLY002,BERNIE SANDERS,47
+Weber,President,,Democrat,VLY002,TOM STEYER,1
+Weber,President,,Democrat,VLY002,ELIZABETH WARREN,27
+Weber,President,,Democrat,VLY002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,VLY002,TULSI GABBARD,3
+Weber,President,,Democrat,VLY002,AMY KLOBUCHAR,13
+Weber,President,,Democrat,VLY002,DEVAL PATRICK,0
+Weber,President,,Democrat,VLY003,JULIAN CASTRO,0
+Weber,President,,Democrat,VLY003,ANDREW YANG,0
+Weber,President,,Democrat,VLY003,CORY BOOKER,0
+Weber,President,,Democrat,VLY003,PETE BUTTIGIEG,14
+Weber,President,,Democrat,VLY003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,VLY003,MICHAEL R. BLOOMBERG,16
+Weber,President,,Democrat,VLY003,JOSEPH R. BIDEN,34
+Weber,President,,Democrat,VLY003,BERNIE SANDERS,23
+Weber,President,,Democrat,VLY003,TOM STEYER,0
+Weber,President,,Democrat,VLY003,ELIZABETH WARREN,19
+Weber,President,,Democrat,VLY003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,VLY003,TULSI GABBARD,0
+Weber,President,,Democrat,VLY003,AMY KLOBUCHAR,7
+Weber,President,,Democrat,VLY003,DEVAL PATRICK,0
+Weber,President,,Democrat,VLY004,JULIAN CASTRO,0
+Weber,President,,Democrat,VLY004,ANDREW YANG,0
+Weber,President,,Democrat,VLY004,CORY BOOKER,1
+Weber,President,,Democrat,VLY004,PETE BUTTIGIEG,13
+Weber,President,,Democrat,VLY004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,VLY004,MICHAEL R. BLOOMBERG,30
+Weber,President,,Democrat,VLY004,JOSEPH R. BIDEN,53
+Weber,President,,Democrat,VLY004,BERNIE SANDERS,48
+Weber,President,,Democrat,VLY004,TOM STEYER,0
+Weber,President,,Democrat,VLY004,ELIZABETH WARREN,24
+Weber,President,,Democrat,VLY004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,VLY004,TULSI GABBARD,0
+Weber,President,,Democrat,VLY004,AMY KLOBUCHAR,8
+Weber,President,,Democrat,VLY004,DEVAL PATRICK,0
+Weber,President,,Democrat,WAT001,JULIAN CASTRO,1
+Weber,President,,Democrat,WAT001,ANDREW YANG,1
+Weber,President,,Democrat,WAT001,CORY BOOKER,0
+Weber,President,,Democrat,WAT001,PETE BUTTIGIEG,2
+Weber,President,,Democrat,WAT001,NATHAN BLOXHAM,1
+Weber,President,,Democrat,WAT001,MICHAEL R. BLOOMBERG,7
+Weber,President,,Democrat,WAT001,JOSEPH R. BIDEN,11
+Weber,President,,Democrat,WAT001,BERNIE SANDERS,38
+Weber,President,,Democrat,WAT001,TOM STEYER,0
+Weber,President,,Democrat,WAT001,ELIZABETH WARREN,24
+Weber,President,,Democrat,WAT001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WAT001,TULSI GABBARD,1
+Weber,President,,Democrat,WAT001,AMY KLOBUCHAR,2
+Weber,President,,Democrat,WAT001,DEVAL PATRICK,0
+Weber,President,,Democrat,WAT002,JULIAN CASTRO,1
+Weber,President,,Democrat,WAT002,ANDREW YANG,0
+Weber,President,,Democrat,WAT002,CORY BOOKER,1
+Weber,President,,Democrat,WAT002,PETE BUTTIGIEG,2
+Weber,President,,Democrat,WAT002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WAT002,MICHAEL R. BLOOMBERG,19
+Weber,President,,Democrat,WAT002,JOSEPH R. BIDEN,11
+Weber,President,,Democrat,WAT002,BERNIE SANDERS,32
+Weber,President,,Democrat,WAT002,TOM STEYER,1
+Weber,President,,Democrat,WAT002,ELIZABETH WARREN,17
+Weber,President,,Democrat,WAT002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WAT002,TULSI GABBARD,0
+Weber,President,,Democrat,WAT002,AMY KLOBUCHAR,4
+Weber,President,,Democrat,WAT002,DEVAL PATRICK,0
+Weber,President,,Democrat,WAT003,JULIAN CASTRO,0
+Weber,President,,Democrat,WAT003,ANDREW YANG,0
+Weber,President,,Democrat,WAT003,CORY BOOKER,0
+Weber,President,,Democrat,WAT003,PETE BUTTIGIEG,5
+Weber,President,,Democrat,WAT003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WAT003,MICHAEL R. BLOOMBERG,10
+Weber,President,,Democrat,WAT003,JOSEPH R. BIDEN,16
+Weber,President,,Democrat,WAT003,BERNIE SANDERS,32
+Weber,President,,Democrat,WAT003,TOM STEYER,0
+Weber,President,,Democrat,WAT003,ELIZABETH WARREN,7
+Weber,President,,Democrat,WAT003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WAT003,TULSI GABBARD,0
+Weber,President,,Democrat,WAT003,AMY KLOBUCHAR,0
+Weber,President,,Democrat,WAT003,DEVAL PATRICK,0
+Weber,President,,Democrat,WAT004,JULIAN CASTRO,0
+Weber,President,,Democrat,WAT004,ANDREW YANG,0
+Weber,President,,Democrat,WAT004,CORY BOOKER,0
+Weber,President,,Democrat,WAT004,PETE BUTTIGIEG,10
+Weber,President,,Democrat,WAT004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WAT004,MICHAEL R. BLOOMBERG,13
+Weber,President,,Democrat,WAT004,JOSEPH R. BIDEN,20
+Weber,President,,Democrat,WAT004,BERNIE SANDERS,50
+Weber,President,,Democrat,WAT004,TOM STEYER,0
+Weber,President,,Democrat,WAT004,ELIZABETH WARREN,12
+Weber,President,,Democrat,WAT004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WAT004,TULSI GABBARD,0
+Weber,President,,Democrat,WAT004,AMY KLOBUCHAR,1
+Weber,President,,Democrat,WAT004,DEVAL PATRICK,0
+Weber,President,,Democrat,WAT005,JULIAN CASTRO,0
+Weber,President,,Democrat,WAT005,ANDREW YANG,0
+Weber,President,,Democrat,WAT005,CORY BOOKER,0
+Weber,President,,Democrat,WAT005,PETE BUTTIGIEG,4
+Weber,President,,Democrat,WAT005,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WAT005,MICHAEL R. BLOOMBERG,18
+Weber,President,,Democrat,WAT005,JOSEPH R. BIDEN,27
+Weber,President,,Democrat,WAT005,BERNIE SANDERS,19
+Weber,President,,Democrat,WAT005,TOM STEYER,2
+Weber,President,,Democrat,WAT005,ELIZABETH WARREN,12
+Weber,President,,Democrat,WAT005,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WAT005,TULSI GABBARD,0
+Weber,President,,Democrat,WAT005,AMY KLOBUCHAR,0
+Weber,President,,Democrat,WAT005,DEVAL PATRICK,0
+Weber,President,,Democrat,WAT006,JULIAN CASTRO,0
+Weber,President,,Democrat,WAT006,ANDREW YANG,0
+Weber,President,,Democrat,WAT006,CORY BOOKER,0
+Weber,President,,Democrat,WAT006,PETE BUTTIGIEG,9
+Weber,President,,Democrat,WAT006,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WAT006,MICHAEL R. BLOOMBERG,27
+Weber,President,,Democrat,WAT006,JOSEPH R. BIDEN,39
+Weber,President,,Democrat,WAT006,BERNIE SANDERS,25
+Weber,President,,Democrat,WAT006,TOM STEYER,0
+Weber,President,,Democrat,WAT006,ELIZABETH WARREN,13
+Weber,President,,Democrat,WAT006,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WAT006,TULSI GABBARD,0
+Weber,President,,Democrat,WAT006,AMY KLOBUCHAR,7
+Weber,President,,Democrat,WAT006,DEVAL PATRICK,0
+Weber,President,,Democrat,WCU001,JULIAN CASTRO,0
+Weber,President,,Democrat,WCU001,ANDREW YANG,0
+Weber,President,,Democrat,WCU001,CORY BOOKER,0
+Weber,President,,Democrat,WCU001,PETE BUTTIGIEG,14
+Weber,President,,Democrat,WCU001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WCU001,MICHAEL R. BLOOMBERG,32
+Weber,President,,Democrat,WCU001,JOSEPH R. BIDEN,22
+Weber,President,,Democrat,WCU001,BERNIE SANDERS,40
+Weber,President,,Democrat,WCU001,TOM STEYER,0
+Weber,President,,Democrat,WCU001,ELIZABETH WARREN,20
+Weber,President,,Democrat,WCU001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WCU001,TULSI GABBARD,0
+Weber,President,,Democrat,WCU001,AMY KLOBUCHAR,6
+Weber,President,,Democrat,WCU001,DEVAL PATRICK,0
+Weber,President,,Democrat,WCU002,JULIAN CASTRO,0
+Weber,President,,Democrat,WCU002,ANDREW YANG,2
+Weber,President,,Democrat,WCU002,CORY BOOKER,0
+Weber,President,,Democrat,WCU002,PETE BUTTIGIEG,7
+Weber,President,,Democrat,WCU002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WCU002,MICHAEL R. BLOOMBERG,14
+Weber,President,,Democrat,WCU002,JOSEPH R. BIDEN,21
+Weber,President,,Democrat,WCU002,BERNIE SANDERS,21
+Weber,President,,Democrat,WCU002,TOM STEYER,0
+Weber,President,,Democrat,WCU002,ELIZABETH WARREN,10
+Weber,President,,Democrat,WCU002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WCU002,TULSI GABBARD,0
+Weber,President,,Democrat,WCU002,AMY KLOBUCHAR,1
+Weber,President,,Democrat,WCU002,DEVAL PATRICK,0
+Weber,President,,Democrat,WCV001,JULIAN CASTRO,0
+Weber,President,,Democrat,WCV001,ANDREW YANG,0
+Weber,President,,Democrat,WCV001,CORY BOOKER,0
+Weber,President,,Democrat,WCV001,PETE BUTTIGIEG,0
+Weber,President,,Democrat,WCV001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WCV001,MICHAEL R. BLOOMBERG,0
+Weber,President,,Democrat,WCV001,JOSEPH R. BIDEN,0
+Weber,President,,Democrat,WCV001,BERNIE SANDERS,0
+Weber,President,,Democrat,WCV001,TOM STEYER,0
+Weber,President,,Democrat,WCV001,ELIZABETH WARREN,0
+Weber,President,,Democrat,WCV001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WCV001,TULSI GABBARD,0
+Weber,President,,Democrat,WCV001,AMY KLOBUCHAR,0
+Weber,President,,Democrat,WCV001,DEVAL PATRICK,0
+Weber,President,,Democrat,WCW001,JULIAN CASTRO,0
+Weber,President,,Democrat,WCW001,ANDREW YANG,0
+Weber,President,,Democrat,WCW001,CORY BOOKER,0
+Weber,President,,Democrat,WCW001,PETE BUTTIGIEG,5
+Weber,President,,Democrat,WCW001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WCW001,MICHAEL R. BLOOMBERG,8
+Weber,President,,Democrat,WCW001,JOSEPH R. BIDEN,3
+Weber,President,,Democrat,WCW001,BERNIE SANDERS,6
+Weber,President,,Democrat,WCW001,TOM STEYER,0
+Weber,President,,Democrat,WCW001,ELIZABETH WARREN,3
+Weber,President,,Democrat,WCW001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WCW001,TULSI GABBARD,0
+Weber,President,,Democrat,WCW001,AMY KLOBUCHAR,0
+Weber,President,,Democrat,WCW001,DEVAL PATRICK,0
+Weber,President,,Democrat,WCW002,JULIAN CASTRO,0
+Weber,President,,Democrat,WCW002,ANDREW YANG,0
+Weber,President,,Democrat,WCW002,CORY BOOKER,0
+Weber,President,,Democrat,WCW002,PETE BUTTIGIEG,1
+Weber,President,,Democrat,WCW002,NATHAN BLOXHAM,1
+Weber,President,,Democrat,WCW002,MICHAEL R. BLOOMBERG,12
+Weber,President,,Democrat,WCW002,JOSEPH R. BIDEN,4
+Weber,President,,Democrat,WCW002,BERNIE SANDERS,8
+Weber,President,,Democrat,WCW002,TOM STEYER,0
+Weber,President,,Democrat,WCW002,ELIZABETH WARREN,6
+Weber,President,,Democrat,WCW002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WCW002,TULSI GABBARD,0
+Weber,President,,Democrat,WCW002,AMY KLOBUCHAR,0
+Weber,President,,Democrat,WCW002,DEVAL PATRICK,0
+Weber,President,,Democrat,WHV001,JULIAN CASTRO,0
+Weber,President,,Democrat,WHV001,ANDREW YANG,0
+Weber,President,,Democrat,WHV001,CORY BOOKER,0
+Weber,President,,Democrat,WHV001,PETE BUTTIGIEG,9
+Weber,President,,Democrat,WHV001,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WHV001,MICHAEL R. BLOOMBERG,22
+Weber,President,,Democrat,WHV001,JOSEPH R. BIDEN,16
+Weber,President,,Democrat,WHV001,BERNIE SANDERS,27
+Weber,President,,Democrat,WHV001,TOM STEYER,2
+Weber,President,,Democrat,WHV001,ELIZABETH WARREN,10
+Weber,President,,Democrat,WHV001,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WHV001,TULSI GABBARD,1
+Weber,President,,Democrat,WHV001,AMY KLOBUCHAR,3
+Weber,President,,Democrat,WHV001,DEVAL PATRICK,0
+Weber,President,,Democrat,WHV002,JULIAN CASTRO,0
+Weber,President,,Democrat,WHV002,ANDREW YANG,0
+Weber,President,,Democrat,WHV002,CORY BOOKER,0
+Weber,President,,Democrat,WHV002,PETE BUTTIGIEG,3
+Weber,President,,Democrat,WHV002,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WHV002,MICHAEL R. BLOOMBERG,6
+Weber,President,,Democrat,WHV002,JOSEPH R. BIDEN,18
+Weber,President,,Democrat,WHV002,BERNIE SANDERS,22
+Weber,President,,Democrat,WHV002,TOM STEYER,0
+Weber,President,,Democrat,WHV002,ELIZABETH WARREN,10
+Weber,President,,Democrat,WHV002,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WHV002,TULSI GABBARD,1
+Weber,President,,Democrat,WHV002,AMY KLOBUCHAR,2
+Weber,President,,Democrat,WHV002,DEVAL PATRICK,0
+Weber,President,,Democrat,WHV003,JULIAN CASTRO,0
+Weber,President,,Democrat,WHV003,ANDREW YANG,1
+Weber,President,,Democrat,WHV003,CORY BOOKER,0
+Weber,President,,Democrat,WHV003,PETE BUTTIGIEG,15
+Weber,President,,Democrat,WHV003,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WHV003,MICHAEL R. BLOOMBERG,19
+Weber,President,,Democrat,WHV003,JOSEPH R. BIDEN,25
+Weber,President,,Democrat,WHV003,BERNIE SANDERS,27
+Weber,President,,Democrat,WHV003,TOM STEYER,0
+Weber,President,,Democrat,WHV003,ELIZABETH WARREN,9
+Weber,President,,Democrat,WHV003,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WHV003,TULSI GABBARD,1
+Weber,President,,Democrat,WHV003,AMY KLOBUCHAR,4
+Weber,President,,Democrat,WHV003,DEVAL PATRICK,0
+Weber,President,,Democrat,WHV004,JULIAN CASTRO,0
+Weber,President,,Democrat,WHV004,ANDREW YANG,0
+Weber,President,,Democrat,WHV004,CORY BOOKER,0
+Weber,President,,Democrat,WHV004,PETE BUTTIGIEG,16
+Weber,President,,Democrat,WHV004,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WHV004,MICHAEL R. BLOOMBERG,27
+Weber,President,,Democrat,WHV004,JOSEPH R. BIDEN,27
+Weber,President,,Democrat,WHV004,BERNIE SANDERS,68
+Weber,President,,Democrat,WHV004,TOM STEYER,1
+Weber,President,,Democrat,WHV004,ELIZABETH WARREN,20
+Weber,President,,Democrat,WHV004,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WHV004,TULSI GABBARD,2
+Weber,President,,Democrat,WHV004,AMY KLOBUCHAR,9
+Weber,President,,Democrat,WHV004,DEVAL PATRICK,0
+Weber,President,,Democrat,WHV005,JULIAN CASTRO,0
+Weber,President,,Democrat,WHV005,ANDREW YANG,0
+Weber,President,,Democrat,WHV005,CORY BOOKER,0
+Weber,President,,Democrat,WHV005,PETE BUTTIGIEG,7
+Weber,President,,Democrat,WHV005,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WHV005,MICHAEL R. BLOOMBERG,5
+Weber,President,,Democrat,WHV005,JOSEPH R. BIDEN,4
+Weber,President,,Democrat,WHV005,BERNIE SANDERS,8
+Weber,President,,Democrat,WHV005,TOM STEYER,0
+Weber,President,,Democrat,WHV005,ELIZABETH WARREN,4
+Weber,President,,Democrat,WHV005,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WHV005,TULSI GABBARD,0
+Weber,President,,Democrat,WHV005,AMY KLOBUCHAR,1
+Weber,President,,Democrat,WHV005,DEVAL PATRICK,0
+Weber,President,,Democrat,WHV006,JULIAN CASTRO,0
+Weber,President,,Democrat,WHV006,ANDREW YANG,0
+Weber,President,,Democrat,WHV006,CORY BOOKER,0
+Weber,President,,Democrat,WHV006,PETE BUTTIGIEG,1
+Weber,President,,Democrat,WHV006,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WHV006,MICHAEL R. BLOOMBERG,2
+Weber,President,,Democrat,WHV006,JOSEPH R. BIDEN,4
+Weber,President,,Democrat,WHV006,BERNIE SANDERS,10
+Weber,President,,Democrat,WHV006,TOM STEYER,0
+Weber,President,,Democrat,WHV006,ELIZABETH WARREN,1
+Weber,President,,Democrat,WHV006,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WHV006,TULSI GABBARD,1
+Weber,President,,Democrat,WHV006,AMY KLOBUCHAR,0
+Weber,President,,Democrat,WHV006,DEVAL PATRICK,0
+Weber,President,,Democrat,WHV007,JULIAN CASTRO,0
+Weber,President,,Democrat,WHV007,ANDREW YANG,1
+Weber,President,,Democrat,WHV007,CORY BOOKER,0
+Weber,President,,Democrat,WHV007,PETE BUTTIGIEG,2
+Weber,President,,Democrat,WHV007,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WHV007,MICHAEL R. BLOOMBERG,2
+Weber,President,,Democrat,WHV007,JOSEPH R. BIDEN,14
+Weber,President,,Democrat,WHV007,BERNIE SANDERS,22
+Weber,President,,Democrat,WHV007,TOM STEYER,0
+Weber,President,,Democrat,WHV007,ELIZABETH WARREN,7
+Weber,President,,Democrat,WHV007,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WHV007,TULSI GABBARD,2
+Weber,President,,Democrat,WHV007,AMY KLOBUCHAR,2
+Weber,President,,Democrat,WHV007,DEVAL PATRICK,0
+Weber,President,,Democrat,WHV008,JULIAN CASTRO,0
+Weber,President,,Democrat,WHV008,ANDREW YANG,1
+Weber,President,,Democrat,WHV008,CORY BOOKER,0
+Weber,President,,Democrat,WHV008,PETE BUTTIGIEG,1
+Weber,President,,Democrat,WHV008,NATHAN BLOXHAM,0
+Weber,President,,Democrat,WHV008,MICHAEL R. BLOOMBERG,4
+Weber,President,,Democrat,WHV008,JOSEPH R. BIDEN,0
+Weber,President,,Democrat,WHV008,BERNIE SANDERS,22
+Weber,President,,Democrat,WHV008,TOM STEYER,0
+Weber,President,,Democrat,WHV008,ELIZABETH WARREN,6
+Weber,President,,Democrat,WHV008,MARIANNE WILLIAMSON,0
+Weber,President,,Democrat,WHV008,TULSI GABBARD,0
+Weber,President,,Democrat,WHV008,AMY KLOBUCHAR,1
+Weber,President,,Democrat,WHV008,DEVAL PATRICK,0
+Weber,President,,Democrat,FRW001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,FRW002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,FRW003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,FRW004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,HPR001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,HPR002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,HPR003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,HPR004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,HPR005,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,HPR006,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,HSV001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,HSV002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,HSV004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,HTV001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG005,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG006,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG007,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG008,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG009,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG010,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG011,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,NOG012,ROQUE DE LA FUENTE,1
+Weber,President,,Democrat,NOG013,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD003,ROQUE DE LA FUENTE,1
+Weber,President,,Democrat,OGD004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD005,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD006,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD007,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD008,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD009,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD010,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD011,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD012,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD013,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD014,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD015,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD016,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD017,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD018,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD020,ROQUE DE LA FUENTE,1
+Weber,President,,Democrat,OGD021,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD022,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD023,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD024,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD025,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD026,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD027,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD028,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD029,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD030,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD031,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD032,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD033,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD034,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD035,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD037,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD038,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD039,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD040,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD041,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD042,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD043,ROQUE DE LA FUENTE,1
+Weber,President,,Democrat,OGD044,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,OGD045,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,PLC001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,PLC002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,PLC003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,PLC004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,PLV001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,PLV002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,PLV003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,PLV005,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,PLV006,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,RIV001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,RIV002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,RIV003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,RIV004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,RIV005,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY005,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY006,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY007,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY008,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY009,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY011,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY012,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY013,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY014,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY015,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY016,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY017,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY018,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,ROY019,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG005,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG006,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG007,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG009,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG010,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG011,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,SOG012,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,TAY002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,UIN001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,VLY001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,VLY002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,VLY003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,VLY004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WAT001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WAT002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WAT003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WAT004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WAT005,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WCU001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WCU002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WCV001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WCW001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WCW002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WHV001,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WHV002,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WHV003,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WHV004,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WHV005,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WHV006,ROQUE DE LA FUENTE,1
+Weber,President,,Democrat,WHV007,ROQUE DE LA FUENTE,0
+Weber,President,,Democrat,WHV008,ROQUE DE LA FUENTE,0

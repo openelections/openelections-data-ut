@@ -1,0 +1,1956 @@
+county,precinct,office,district,party,candidate,votes
+Cache,Amalga,President,,Republican,ROBERT ARDINI,3
+Cache,Amalga,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Amalga,President,,Republican,BOB ELY,0
+Cache,Amalga,President,,Republican,JOE WALSH,1
+Cache,Amalga,President,,Republican,BILL WELD,8
+Cache,Amalga,President,,Republican,WITHDRAWN,0
+Cache,Amalga,President,,Republican,DONALD J. TRUMP,90
+Cache,Amalga,President,,Democrat,JULIÁN CASTRO,0
+Cache,Amalga,President,,Democrat,ANDREW YANG,0
+Cache,Amalga,President,,Democrat,CORY BOOKER,0
+Cache,Amalga,President,,Democrat,PETE BUTTIGIEG,0
+Cache,Amalga,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Amalga,President,,Democrat,MICHAEL R. BLOOMBERG,3
+Cache,Amalga,President,,Democrat,WITHDRAWN,0
+Cache,Amalga,President,,Democrat,JOSEPH R. BIDEN,1
+Cache,Amalga,President,,Democrat,BERNIE SANDERS,0
+Cache,Amalga,President,,Democrat,TOM STEYER,0
+Cache,Amalga,President,,Democrat,ELIZABETH WARREN,0
+Cache,Amalga,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Amalga,President,,Democrat,TULSI GABBARD,0
+Cache,Amalga,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Amalga,President,,Democrat,DEVAL PATRICK,0
+Cache,Amalga,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Benson,President,,Republican,ROBERT ARDINI,0
+Cache,Benson,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,Benson,President,,Republican,BOB ELY,0
+Cache,Benson,President,,Republican,JOE WALSH,0
+Cache,Benson,President,,Republican,BILL WELD,11
+Cache,Benson,President,,Republican,WITHDRAWN,1
+Cache,Benson,President,,Republican,DONALD J. TRUMP,126
+Cache,Benson,President,,Democrat,JULIÁN CASTRO,0
+Cache,Benson,President,,Democrat,ANDREW YANG,0
+Cache,Benson,President,,Democrat,CORY BOOKER,0
+Cache,Benson,President,,Democrat,PETE BUTTIGIEG,11
+Cache,Benson,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Benson,President,,Democrat,MICHAEL R. BLOOMBERG,1
+Cache,Benson,President,,Democrat,WITHDRAWN,0
+Cache,Benson,President,,Democrat,JOSEPH R. BIDEN,2
+Cache,Benson,President,,Democrat,BERNIE SANDERS,5
+Cache,Benson,President,,Democrat,TOM STEYER,0
+Cache,Benson,President,,Democrat,ELIZABETH WARREN,3
+Cache,Benson,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Benson,President,,Democrat,TULSI GABBARD,1
+Cache,Benson,President,,Democrat,AMY KLOBUCHAR,4
+Cache,Benson,President,,Democrat,DEVAL PATRICK,0
+Cache,Benson,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Clarkston,President,,Republican,ROBERT ARDINI,0
+Cache,Clarkston,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Clarkston,President,,Republican,BOB ELY,0
+Cache,Clarkston,President,,Republican,JOE WALSH,1
+Cache,Clarkston,President,,Republican,BILL WELD,4
+Cache,Clarkston,President,,Republican,WITHDRAWN,0
+Cache,Clarkston,President,,Republican,DONALD J. TRUMP,134
+Cache,Clarkston,President,,Democrat,JULIÁN CASTRO,0
+Cache,Clarkston,President,,Democrat,ANDREW YANG,0
+Cache,Clarkston,President,,Democrat,CORY BOOKER,0
+Cache,Clarkston,President,,Democrat,PETE BUTTIGIEG,1
+Cache,Clarkston,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Clarkston,President,,Democrat,MICHAEL R. BLOOMBERG,8
+Cache,Clarkston,President,,Democrat,WITHDRAWN,0
+Cache,Clarkston,President,,Democrat,JOSEPH R. BIDEN,1
+Cache,Clarkston,President,,Democrat,BERNIE SANDERS,5
+Cache,Clarkston,President,,Democrat,TOM STEYER,0
+Cache,Clarkston,President,,Democrat,ELIZABETH WARREN,3
+Cache,Clarkston,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Clarkston,President,,Democrat,TULSI GABBARD,1
+Cache,Clarkston,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Clarkston,President,,Democrat,DEVAL PATRICK,0
+Cache,Clarkston,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Cornish,President,,Republican,ROBERT ARDINI,0
+Cache,Cornish,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Cornish,President,,Republican,BOB ELY,1
+Cache,Cornish,President,,Republican,JOE WALSH,0
+Cache,Cornish,President,,Republican,BILL WELD,4
+Cache,Cornish,President,,Republican,WITHDRAWN,0
+Cache,Cornish,President,,Republican,DONALD J. TRUMP,61
+Cache,Cornish,President,,Democrat,JULIÁN CASTRO,0
+Cache,Cornish,President,,Democrat,ANDREW YANG,0
+Cache,Cornish,President,,Democrat,CORY BOOKER,0
+Cache,Cornish,President,,Democrat,PETE BUTTIGIEG,0
+Cache,Cornish,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Cornish,President,,Democrat,MICHAEL R. BLOOMBERG,0
+Cache,Cornish,President,,Democrat,WITHDRAWN,0
+Cache,Cornish,President,,Democrat,JOSEPH R. BIDEN,0
+Cache,Cornish,President,,Democrat,BERNIE SANDERS,1
+Cache,Cornish,President,,Democrat,TOM STEYER,0
+Cache,Cornish,President,,Democrat,ELIZABETH WARREN,0
+Cache,Cornish,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Cornish,President,,Democrat,TULSI GABBARD,0
+Cache,Cornish,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Cornish,President,,Democrat,DEVAL PATRICK,0
+Cache,Cornish,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Cove,President,,Republican,ROBERT ARDINI,0
+Cache,Cove,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,Cove,President,,Republican,BOB ELY,0
+Cache,Cove,President,,Republican,JOE WALSH,2
+Cache,Cove,President,,Republican,BILL WELD,4
+Cache,Cove,President,,Republican,WITHDRAWN,1
+Cache,Cove,President,,Republican,DONALD J. TRUMP,118
+Cache,Cove,President,,Democrat,JULIÁN CASTRO,0
+Cache,Cove,President,,Democrat,ANDREW YANG,0
+Cache,Cove,President,,Democrat,CORY BOOKER,0
+Cache,Cove,President,,Democrat,PETE BUTTIGIEG,4
+Cache,Cove,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Cove,President,,Democrat,MICHAEL R. BLOOMBERG,1
+Cache,Cove,President,,Democrat,WITHDRAWN,0
+Cache,Cove,President,,Democrat,JOSEPH R. BIDEN,1
+Cache,Cove,President,,Democrat,BERNIE SANDERS,6
+Cache,Cove,President,,Democrat,TOM STEYER,0
+Cache,Cove,President,,Democrat,ELIZABETH WARREN,3
+Cache,Cove,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Cove,President,,Democrat,TULSI GABBARD,0
+Cache,Cove,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Cove,President,,Democrat,DEVAL PATRICK,0
+Cache,Cove,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,College Young,President,,Republican,ROBERT ARDINI,0
+Cache,College Young,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,College Young,President,,Republican,BOB ELY,2
+Cache,College Young,President,,Republican,JOE WALSH,4
+Cache,College Young,President,,Republican,BILL WELD,7
+Cache,College Young,President,,Republican,WITHDRAWN,1
+Cache,College Young,President,,Republican,DONALD J. TRUMP,183
+Cache,College Young,President,,Democrat,JULIÁN CASTRO,0
+Cache,College Young,President,,Democrat,ANDREW YANG,0
+Cache,College Young,President,,Democrat,CORY BOOKER,0
+Cache,College Young,President,,Democrat,PETE BUTTIGIEG,3
+Cache,College Young,President,,Democrat,NATHAN BLOXHAM,0
+Cache,College Young,President,,Democrat,MICHAEL R. BLOOMBERG,5
+Cache,College Young,President,,Democrat,WITHDRAWN,0
+Cache,College Young,President,,Democrat,JOSEPH R. BIDEN,2
+Cache,College Young,President,,Democrat,BERNIE SANDERS,9
+Cache,College Young,President,,Democrat,TOM STEYER,0
+Cache,College Young,President,,Democrat,ELIZABETH WARREN,3
+Cache,College Young,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,College Young,President,,Democrat,TULSI GABBARD,0
+Cache,College Young,President,,Democrat,AMY KLOBUCHAR,1
+Cache,College Young,President,,Democrat,DEVAL PATRICK,0
+Cache,College Young,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Hyde Park 01,President,,Republican,ROBERT ARDINI,5
+Cache,Hyde Park 01,President,,Republican,MATTHEW JOHN MATERN,8
+Cache,Hyde Park 01,President,,Republican,BOB ELY,2
+Cache,Hyde Park 01,President,,Republican,JOE WALSH,13
+Cache,Hyde Park 01,President,,Republican,BILL WELD,50
+Cache,Hyde Park 01,President,,Republican,WITHDRAWN,2
+Cache,Hyde Park 01,President,,Republican,DONALD J. TRUMP,401
+Cache,Hyde Park 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,Hyde Park 01,President,,Democrat,ANDREW YANG,1
+Cache,Hyde Park 01,President,,Democrat,CORY BOOKER,0
+Cache,Hyde Park 01,President,,Democrat,PETE BUTTIGIEG,9
+Cache,Hyde Park 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Hyde Park 01,President,,Democrat,MICHAEL R. BLOOMBERG,19
+Cache,Hyde Park 01,President,,Democrat,WITHDRAWN,0
+Cache,Hyde Park 01,President,,Democrat,JOSEPH R. BIDEN,21
+Cache,Hyde Park 01,President,,Democrat,BERNIE SANDERS,13
+Cache,Hyde Park 01,President,,Democrat,TOM STEYER,0
+Cache,Hyde Park 01,President,,Democrat,ELIZABETH WARREN,13
+Cache,Hyde Park 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Hyde Park 01,President,,Democrat,TULSI GABBARD,0
+Cache,Hyde Park 01,President,,Democrat,AMY KLOBUCHAR,14
+Cache,Hyde Park 01,President,,Democrat,DEVAL PATRICK,0
+Cache,Hyde Park 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Hyde Park 02,President,,Republican,ROBERT ARDINI,4
+Cache,Hyde Park 02,President,,Republican,MATTHEW JOHN MATERN,12
+Cache,Hyde Park 02,President,,Republican,BOB ELY,1
+Cache,Hyde Park 02,President,,Republican,JOE WALSH,10
+Cache,Hyde Park 02,President,,Republican,BILL WELD,30
+Cache,Hyde Park 02,President,,Republican,WITHDRAWN,3
+Cache,Hyde Park 02,President,,Republican,DONALD J. TRUMP,328
+Cache,Hyde Park 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,Hyde Park 02,President,,Democrat,ANDREW YANG,0
+Cache,Hyde Park 02,President,,Democrat,CORY BOOKER,0
+Cache,Hyde Park 02,President,,Democrat,PETE BUTTIGIEG,8
+Cache,Hyde Park 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Hyde Park 02,President,,Democrat,MICHAEL R. BLOOMBERG,14
+Cache,Hyde Park 02,President,,Democrat,WITHDRAWN,0
+Cache,Hyde Park 02,President,,Democrat,JOSEPH R. BIDEN,25
+Cache,Hyde Park 02,President,,Democrat,BERNIE SANDERS,27
+Cache,Hyde Park 02,President,,Democrat,TOM STEYER,0
+Cache,Hyde Park 02,President,,Democrat,ELIZABETH WARREN,15
+Cache,Hyde Park 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Hyde Park 02,President,,Democrat,TULSI GABBARD,1
+Cache,Hyde Park 02,President,,Democrat,AMY KLOBUCHAR,7
+Cache,Hyde Park 02,President,,Democrat,DEVAL PATRICK,0
+Cache,Hyde Park 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Hyrum 01,President,,Republican,ROBERT ARDINI,1
+Cache,Hyrum 01,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,Hyrum 01,President,,Republican,BOB ELY,0
+Cache,Hyrum 01,President,,Republican,JOE WALSH,6
+Cache,Hyrum 01,President,,Republican,BILL WELD,8
+Cache,Hyrum 01,President,,Republican,WITHDRAWN,0
+Cache,Hyrum 01,President,,Republican,DONALD J. TRUMP,220
+Cache,Hyrum 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,Hyrum 01,President,,Democrat,ANDREW YANG,0
+Cache,Hyrum 01,President,,Democrat,CORY BOOKER,0
+Cache,Hyrum 01,President,,Democrat,PETE BUTTIGIEG,0
+Cache,Hyrum 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Hyrum 01,President,,Democrat,MICHAEL R. BLOOMBERG,6
+Cache,Hyrum 01,President,,Democrat,WITHDRAWN,0
+Cache,Hyrum 01,President,,Democrat,JOSEPH R. BIDEN,16
+Cache,Hyrum 01,President,,Democrat,BERNIE SANDERS,28
+Cache,Hyrum 01,President,,Democrat,TOM STEYER,1
+Cache,Hyrum 01,President,,Democrat,ELIZABETH WARREN,9
+Cache,Hyrum 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Hyrum 01,President,,Democrat,TULSI GABBARD,1
+Cache,Hyrum 01,President,,Democrat,AMY KLOBUCHAR,4
+Cache,Hyrum 01,President,,Democrat,DEVAL PATRICK,0
+Cache,Hyrum 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Hyrum 02,President,,Republican,ROBERT ARDINI,1
+Cache,Hyrum 02,President,,Republican,MATTHEW JOHN MATERN,2
+Cache,Hyrum 02,President,,Republican,BOB ELY,0
+Cache,Hyrum 02,President,,Republican,JOE WALSH,2
+Cache,Hyrum 02,President,,Republican,BILL WELD,3
+Cache,Hyrum 02,President,,Republican,WITHDRAWN,0
+Cache,Hyrum 02,President,,Republican,DONALD J. TRUMP,133
+Cache,Hyrum 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,Hyrum 02,President,,Democrat,ANDREW YANG,0
+Cache,Hyrum 02,President,,Democrat,CORY BOOKER,1
+Cache,Hyrum 02,President,,Democrat,PETE BUTTIGIEG,2
+Cache,Hyrum 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Hyrum 02,President,,Democrat,MICHAEL R. BLOOMBERG,4
+Cache,Hyrum 02,President,,Democrat,WITHDRAWN,0
+Cache,Hyrum 02,President,,Democrat,JOSEPH R. BIDEN,4
+Cache,Hyrum 02,President,,Democrat,BERNIE SANDERS,13
+Cache,Hyrum 02,President,,Democrat,TOM STEYER,0
+Cache,Hyrum 02,President,,Democrat,ELIZABETH WARREN,3
+Cache,Hyrum 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Hyrum 02,President,,Democrat,TULSI GABBARD,0
+Cache,Hyrum 02,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Hyrum 02,President,,Democrat,DEVAL PATRICK,0
+Cache,Hyrum 02,President,,Democrat,ROQUE DE LA FUENTE,1
+Cache,Hyrum 02,President,,Republican,ROBERT ARDINI,3
+Cache,Hyrum 02,President,,Republican,MATTHEW JOHN MATERN,2
+Cache,Hyrum 02,President,,Republican,BOB ELY,0
+Cache,Hyrum 02,President,,Republican,JOE WALSH,3
+Cache,Hyrum 02,President,,Republican,BILL WELD,12
+Cache,Hyrum 02,President,,Republican,WITHDRAWN,0
+Cache,Hyrum 02,President,,Republican,DONALD J. TRUMP,244
+Cache,Hyrum 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,Hyrum 02,President,,Democrat,ANDREW YANG,0
+Cache,Hyrum 02,President,,Democrat,CORY BOOKER,0
+Cache,Hyrum 02,President,,Democrat,PETE BUTTIGIEG,1
+Cache,Hyrum 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Hyrum 02,President,,Democrat,MICHAEL R. BLOOMBERG,7
+Cache,Hyrum 02,President,,Democrat,WITHDRAWN,0
+Cache,Hyrum 02,President,,Democrat,JOSEPH R. BIDEN,7
+Cache,Hyrum 02,President,,Democrat,BERNIE SANDERS,31
+Cache,Hyrum 02,President,,Democrat,TOM STEYER,0
+Cache,Hyrum 02,President,,Democrat,ELIZABETH WARREN,7
+Cache,Hyrum 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Hyrum 02,President,,Democrat,TULSI GABBARD,0
+Cache,Hyrum 02,President,,Democrat,AMY KLOBUCHAR,4
+Cache,Hyrum 02,President,,Democrat,DEVAL PATRICK,0
+Cache,Hyrum 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Hyrum 04,President,,Republican,ROBERT ARDINI,3
+Cache,Hyrum 04,President,,Republican,MATTHEW JOHN MATERN,4
+Cache,Hyrum 04,President,,Republican,BOB ELY,0
+Cache,Hyrum 04,President,,Republican,JOE WALSH,6
+Cache,Hyrum 04,President,,Republican,BILL WELD,19
+Cache,Hyrum 04,President,,Republican,WITHDRAWN,0
+Cache,Hyrum 04,President,,Republican,DONALD J. TRUMP,316
+Cache,Hyrum 04,President,,Democrat,JULIÁN CASTRO,1
+Cache,Hyrum 04,President,,Democrat,ANDREW YANG,0
+Cache,Hyrum 04,President,,Democrat,CORY BOOKER,0
+Cache,Hyrum 04,President,,Democrat,PETE BUTTIGIEG,6
+Cache,Hyrum 04,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Hyrum 04,President,,Democrat,MICHAEL R. BLOOMBERG,8
+Cache,Hyrum 04,President,,Democrat,WITHDRAWN,0
+Cache,Hyrum 04,President,,Democrat,JOSEPH R. BIDEN,5
+Cache,Hyrum 04,President,,Democrat,BERNIE SANDERS,14
+Cache,Hyrum 04,President,,Democrat,TOM STEYER,0
+Cache,Hyrum 04,President,,Democrat,ELIZABETH WARREN,4
+Cache,Hyrum 04,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Hyrum 04,President,,Democrat,TULSI GABBARD,1
+Cache,Hyrum 04,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Hyrum 04,President,,Democrat,DEVAL PATRICK,0
+Cache,Hyrum 04,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Hyrum 05,President,,Republican,ROBERT ARDINI,0
+Cache,Hyrum 05,President,,Republican,MATTHEW JOHN MATERN,6
+Cache,Hyrum 05,President,,Republican,BOB ELY,0
+Cache,Hyrum 05,President,,Republican,JOE WALSH,4
+Cache,Hyrum 05,President,,Republican,BILL WELD,14
+Cache,Hyrum 05,President,,Republican,WITHDRAWN,0
+Cache,Hyrum 05,President,,Republican,DONALD J. TRUMP,156
+Cache,Hyrum 05,President,,Democrat,JULIÁN CASTRO,0
+Cache,Hyrum 05,President,,Democrat,ANDREW YANG,0
+Cache,Hyrum 05,President,,Democrat,CORY BOOKER,0
+Cache,Hyrum 05,President,,Democrat,PETE BUTTIGIEG,4
+Cache,Hyrum 05,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Hyrum 05,President,,Democrat,MICHAEL R. BLOOMBERG,5
+Cache,Hyrum 05,President,,Democrat,WITHDRAWN,0
+Cache,Hyrum 05,President,,Democrat,JOSEPH R. BIDEN,10
+Cache,Hyrum 05,President,,Democrat,BERNIE SANDERS,14
+Cache,Hyrum 05,President,,Democrat,TOM STEYER,1
+Cache,Hyrum 05,President,,Democrat,ELIZABETH WARREN,9
+Cache,Hyrum 05,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Hyrum 05,President,,Democrat,TULSI GABBARD,2
+Cache,Hyrum 05,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Hyrum 05,President,,Democrat,DEVAL PATRICK,0
+Cache,Hyrum 05,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Lewiston 01,President,,Republican,ROBERT ARDINI,1
+Cache,Lewiston 01,President,,Republican,MATTHEW JOHN MATERN,4
+Cache,Lewiston 01,President,,Republican,BOB ELY,0
+Cache,Lewiston 01,President,,Republican,JOE WALSH,2
+Cache,Lewiston 01,President,,Republican,BILL WELD,5
+Cache,Lewiston 01,President,,Republican,WITHDRAWN,2
+Cache,Lewiston 01,President,,Republican,DONALD J. TRUMP,193
+Cache,Lewiston 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,Lewiston 01,President,,Democrat,ANDREW YANG,0
+Cache,Lewiston 01,President,,Democrat,CORY BOOKER,0
+Cache,Lewiston 01,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Lewiston 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Lewiston 01,President,,Democrat,MICHAEL R. BLOOMBERG,4
+Cache,Lewiston 01,President,,Democrat,WITHDRAWN,0
+Cache,Lewiston 01,President,,Democrat,JOSEPH R. BIDEN,10
+Cache,Lewiston 01,President,,Democrat,BERNIE SANDERS,7
+Cache,Lewiston 01,President,,Democrat,TOM STEYER,0
+Cache,Lewiston 01,President,,Democrat,ELIZABETH WARREN,3
+Cache,Lewiston 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Lewiston 01,President,,Democrat,TULSI GABBARD,0
+Cache,Lewiston 01,President,,Democrat,AMY KLOBUCHAR,2
+Cache,Lewiston 01,President,,Democrat,DEVAL PATRICK,0
+Cache,Lewiston 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Lewiston 02,President,,Republican,ROBERT ARDINI,1
+Cache,Lewiston 02,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,Lewiston 02,President,,Republican,BOB ELY,0
+Cache,Lewiston 02,President,,Republican,JOE WALSH,1
+Cache,Lewiston 02,President,,Republican,BILL WELD,5
+Cache,Lewiston 02,President,,Republican,WITHDRAWN,0
+Cache,Lewiston 02,President,,Republican,DONALD J. TRUMP,126
+Cache,Lewiston 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,Lewiston 02,President,,Democrat,ANDREW YANG,0
+Cache,Lewiston 02,President,,Democrat,CORY BOOKER,0
+Cache,Lewiston 02,President,,Democrat,PETE BUTTIGIEG,0
+Cache,Lewiston 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Lewiston 02,President,,Democrat,MICHAEL R. BLOOMBERG,3
+Cache,Lewiston 02,President,,Democrat,WITHDRAWN,0
+Cache,Lewiston 02,President,,Democrat,JOSEPH R. BIDEN,4
+Cache,Lewiston 02,President,,Democrat,BERNIE SANDERS,7
+Cache,Lewiston 02,President,,Democrat,TOM STEYER,0
+Cache,Lewiston 02,President,,Democrat,ELIZABETH WARREN,1
+Cache,Lewiston 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Lewiston 02,President,,Democrat,TULSI GABBARD,3
+Cache,Lewiston 02,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Lewiston 02,President,,Democrat,DEVAL PATRICK,0
+Cache,Lewiston 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 01,President,,Republican,ROBERT ARDINI,0
+Cache,Logan 01,President,,Republican,MATTHEW JOHN MATERN,2
+Cache,Logan 01,President,,Republican,BOB ELY,0
+Cache,Logan 01,President,,Republican,JOE WALSH,7
+Cache,Logan 01,President,,Republican,BILL WELD,3
+Cache,Logan 01,President,,Republican,WITHDRAWN,0
+Cache,Logan 01,President,,Republican,DONALD J. TRUMP,55
+Cache,Logan 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 01,President,,Democrat,ANDREW YANG,1
+Cache,Logan 01,President,,Democrat,CORY BOOKER,0
+Cache,Logan 01,President,,Democrat,PETE BUTTIGIEG,6
+Cache,Logan 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 01,President,,Democrat,MICHAEL R. BLOOMBERG,2
+Cache,Logan 01,President,,Democrat,WITHDRAWN,0
+Cache,Logan 01,President,,Democrat,JOSEPH R. BIDEN,13
+Cache,Logan 01,President,,Democrat,BERNIE SANDERS,46
+Cache,Logan 01,President,,Democrat,TOM STEYER,0
+Cache,Logan 01,President,,Democrat,ELIZABETH WARREN,25
+Cache,Logan 01,President,,Democrat,MARIANNE WILLIAMSON,1
+Cache,Logan 01,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 01,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Logan 01,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 02,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 02,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,Logan 02,President,,Republican,BOB ELY,0
+Cache,Logan 02,President,,Republican,JOE WALSH,4
+Cache,Logan 02,President,,Republican,BILL WELD,6
+Cache,Logan 02,President,,Republican,WITHDRAWN,0
+Cache,Logan 02,President,,Republican,DONALD J. TRUMP,79
+Cache,Logan 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 02,President,,Democrat,ANDREW YANG,0
+Cache,Logan 02,President,,Democrat,CORY BOOKER,0
+Cache,Logan 02,President,,Democrat,PETE BUTTIGIEG,14
+Cache,Logan 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 02,President,,Democrat,MICHAEL R. BLOOMBERG,8
+Cache,Logan 02,President,,Democrat,WITHDRAWN,0
+Cache,Logan 02,President,,Democrat,JOSEPH R. BIDEN,11
+Cache,Logan 02,President,,Democrat,BERNIE SANDERS,35
+Cache,Logan 02,President,,Democrat,TOM STEYER,1
+Cache,Logan 02,President,,Democrat,ELIZABETH WARREN,20
+Cache,Logan 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 02,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 02,President,,Democrat,AMY KLOBUCHAR,2
+Cache,Logan 02,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 03,President,,Republican,ROBERT ARDINI,3
+Cache,Logan 03,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,Logan 03,President,,Republican,BOB ELY,0
+Cache,Logan 03,President,,Republican,JOE WALSH,6
+Cache,Logan 03,President,,Republican,BILL WELD,7
+Cache,Logan 03,President,,Republican,WITHDRAWN,3
+Cache,Logan 03,President,,Republican,DONALD J. TRUMP,110
+Cache,Logan 03,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 03,President,,Democrat,ANDREW YANG,1
+Cache,Logan 03,President,,Democrat,CORY BOOKER,0
+Cache,Logan 03,President,,Democrat,PETE BUTTIGIEG,4
+Cache,Logan 03,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 03,President,,Democrat,MICHAEL R. BLOOMBERG,4
+Cache,Logan 03,President,,Democrat,WITHDRAWN,0
+Cache,Logan 03,President,,Democrat,JOSEPH R. BIDEN,11
+Cache,Logan 03,President,,Democrat,BERNIE SANDERS,43
+Cache,Logan 03,President,,Democrat,TOM STEYER,1
+Cache,Logan 03,President,,Democrat,ELIZABETH WARREN,8
+Cache,Logan 03,President,,Democrat,MARIANNE WILLIAMSON,1
+Cache,Logan 03,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 03,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Logan 03,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 03,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 04,President,,Republican,ROBERT ARDINI,2
+Cache,Logan 04,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,Logan 04,President,,Republican,BOB ELY,0
+Cache,Logan 04,President,,Republican,JOE WALSH,6
+Cache,Logan 04,President,,Republican,BILL WELD,4
+Cache,Logan 04,President,,Republican,WITHDRAWN,3
+Cache,Logan 04,President,,Republican,DONALD J. TRUMP,108
+Cache,Logan 04,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 04,President,,Democrat,ANDREW YANG,0
+Cache,Logan 04,President,,Democrat,CORY BOOKER,0
+Cache,Logan 04,President,,Democrat,PETE BUTTIGIEG,6
+Cache,Logan 04,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 04,President,,Democrat,MICHAEL R. BLOOMBERG,7
+Cache,Logan 04,President,,Democrat,WITHDRAWN,0
+Cache,Logan 04,President,,Democrat,JOSEPH R. BIDEN,12
+Cache,Logan 04,President,,Democrat,BERNIE SANDERS,47
+Cache,Logan 04,President,,Democrat,TOM STEYER,1
+Cache,Logan 04,President,,Democrat,ELIZABETH WARREN,20
+Cache,Logan 04,President,,Democrat,MARIANNE WILLIAMSON,1
+Cache,Logan 04,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 04,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Logan 04,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 04,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 05,President,,Republican,ROBERT ARDINI,6
+Cache,Logan 05,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,Logan 05,President,,Republican,BOB ELY,0
+Cache,Logan 05,President,,Republican,JOE WALSH,6
+Cache,Logan 05,President,,Republican,BILL WELD,20
+Cache,Logan 05,President,,Republican,WITHDRAWN,2
+Cache,Logan 05,President,,Republican,DONALD J. TRUMP,116
+Cache,Logan 05,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 05,President,,Democrat,ANDREW YANG,0
+Cache,Logan 05,President,,Democrat,CORY BOOKER,0
+Cache,Logan 05,President,,Democrat,PETE BUTTIGIEG,6
+Cache,Logan 05,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 05,President,,Democrat,MICHAEL R. BLOOMBERG,17
+Cache,Logan 05,President,,Democrat,WITHDRAWN,0
+Cache,Logan 05,President,,Democrat,JOSEPH R. BIDEN,9
+Cache,Logan 05,President,,Democrat,BERNIE SANDERS,80
+Cache,Logan 05,President,,Democrat,TOM STEYER,1
+Cache,Logan 05,President,,Democrat,ELIZABETH WARREN,46
+Cache,Logan 05,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 05,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 05,President,,Democrat,AMY KLOBUCHAR,4
+Cache,Logan 05,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 05,President,,Democrat,ROQUE DE LA FUENTE,1
+Cache,Logan 05,President,,Republican,ROBERT ARDINI,2
+Cache,Logan 05,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,Logan 05,President,,Republican,BOB ELY,0
+Cache,Logan 05,President,,Republican,JOE WALSH,4
+Cache,Logan 05,President,,Republican,BILL WELD,6
+Cache,Logan 05,President,,Republican,WITHDRAWN,2
+Cache,Logan 05,President,,Republican,DONALD J. TRUMP,73
+Cache,Logan 05,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 05,President,,Democrat,ANDREW YANG,0
+Cache,Logan 05,President,,Democrat,CORY BOOKER,0
+Cache,Logan 05,President,,Democrat,PETE BUTTIGIEG,13
+Cache,Logan 05,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 05,President,,Democrat,MICHAEL R. BLOOMBERG,5
+Cache,Logan 05,President,,Democrat,WITHDRAWN,0
+Cache,Logan 05,President,,Democrat,JOSEPH R. BIDEN,13
+Cache,Logan 05,President,,Democrat,BERNIE SANDERS,56
+Cache,Logan 05,President,,Democrat,TOM STEYER,0
+Cache,Logan 05,President,,Democrat,ELIZABETH WARREN,24
+Cache,Logan 05,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 05,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 05,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Logan 05,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 05,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 07,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 07,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,Logan 07,President,,Republican,BOB ELY,0
+Cache,Logan 07,President,,Republican,JOE WALSH,1
+Cache,Logan 07,President,,Republican,BILL WELD,5
+Cache,Logan 07,President,,Republican,WITHDRAWN,1
+Cache,Logan 07,President,,Republican,DONALD J. TRUMP,37
+Cache,Logan 07,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 07,President,,Democrat,ANDREW YANG,1
+Cache,Logan 07,President,,Democrat,CORY BOOKER,1
+Cache,Logan 07,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Logan 07,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 07,President,,Democrat,MICHAEL R. BLOOMBERG,3
+Cache,Logan 07,President,,Democrat,WITHDRAWN,0
+Cache,Logan 07,President,,Democrat,JOSEPH R. BIDEN,9
+Cache,Logan 07,President,,Democrat,BERNIE SANDERS,52
+Cache,Logan 07,President,,Democrat,TOM STEYER,0
+Cache,Logan 07,President,,Democrat,ELIZABETH WARREN,12
+Cache,Logan 07,President,,Democrat,MARIANNE WILLIAMSON,1
+Cache,Logan 07,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 07,President,,Democrat,AMY KLOBUCHAR,4
+Cache,Logan 07,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 07,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 08,President,,Republican,ROBERT ARDINI,0
+Cache,Logan 08,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 08,President,,Republican,BOB ELY,0
+Cache,Logan 08,President,,Republican,JOE WALSH,1
+Cache,Logan 08,President,,Republican,BILL WELD,5
+Cache,Logan 08,President,,Republican,WITHDRAWN,1
+Cache,Logan 08,President,,Republican,DONALD J. TRUMP,20
+Cache,Logan 08,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 08,President,,Democrat,ANDREW YANG,0
+Cache,Logan 08,President,,Democrat,CORY BOOKER,0
+Cache,Logan 08,President,,Democrat,PETE BUTTIGIEG,2
+Cache,Logan 08,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 08,President,,Democrat,MICHAEL R. BLOOMBERG,2
+Cache,Logan 08,President,,Democrat,WITHDRAWN,0
+Cache,Logan 08,President,,Democrat,JOSEPH R. BIDEN,8
+Cache,Logan 08,President,,Democrat,BERNIE SANDERS,39
+Cache,Logan 08,President,,Democrat,TOM STEYER,0
+Cache,Logan 08,President,,Democrat,ELIZABETH WARREN,12
+Cache,Logan 08,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 08,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 08,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Logan 08,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 08,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 09,President,,Republican,ROBERT ARDINI,0
+Cache,Logan 09,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 09,President,,Republican,BOB ELY,1
+Cache,Logan 09,President,,Republican,JOE WALSH,0
+Cache,Logan 09,President,,Republican,BILL WELD,8
+Cache,Logan 09,President,,Republican,WITHDRAWN,1
+Cache,Logan 09,President,,Republican,DONALD J. TRUMP,56
+Cache,Logan 09,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 09,President,,Democrat,ANDREW YANG,0
+Cache,Logan 09,President,,Democrat,CORY BOOKER,1
+Cache,Logan 09,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Logan 09,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 09,President,,Democrat,MICHAEL R. BLOOMBERG,8
+Cache,Logan 09,President,,Democrat,WITHDRAWN,0
+Cache,Logan 09,President,,Democrat,JOSEPH R. BIDEN,12
+Cache,Logan 09,President,,Democrat,BERNIE SANDERS,47
+Cache,Logan 09,President,,Democrat,TOM STEYER,0
+Cache,Logan 09,President,,Democrat,ELIZABETH WARREN,15
+Cache,Logan 09,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 09,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 09,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Logan 09,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 09,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 10,President,,Republican,ROBERT ARDINI,0
+Cache,Logan 10,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 10,President,,Republican,BOB ELY,0
+Cache,Logan 10,President,,Republican,JOE WALSH,2
+Cache,Logan 10,President,,Republican,BILL WELD,7
+Cache,Logan 10,President,,Republican,WITHDRAWN,4
+Cache,Logan 10,President,,Republican,DONALD J. TRUMP,52
+Cache,Logan 10,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 10,President,,Democrat,ANDREW YANG,0
+Cache,Logan 10,President,,Democrat,CORY BOOKER,0
+Cache,Logan 10,President,,Democrat,PETE BUTTIGIEG,5
+Cache,Logan 10,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 10,President,,Democrat,MICHAEL R. BLOOMBERG,8
+Cache,Logan 10,President,,Democrat,WITHDRAWN,0
+Cache,Logan 10,President,,Democrat,JOSEPH R. BIDEN,7
+Cache,Logan 10,President,,Democrat,BERNIE SANDERS,30
+Cache,Logan 10,President,,Democrat,TOM STEYER,0
+Cache,Logan 10,President,,Democrat,ELIZABETH WARREN,21
+Cache,Logan 10,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 10,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 10,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Logan 10,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 10,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 11,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 11,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 11,President,,Republican,BOB ELY,1
+Cache,Logan 11,President,,Republican,JOE WALSH,5
+Cache,Logan 11,President,,Republican,BILL WELD,9
+Cache,Logan 11,President,,Republican,WITHDRAWN,0
+Cache,Logan 11,President,,Republican,DONALD J. TRUMP,62
+Cache,Logan 11,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 11,President,,Democrat,ANDREW YANG,2
+Cache,Logan 11,President,,Democrat,CORY BOOKER,1
+Cache,Logan 11,President,,Democrat,PETE BUTTIGIEG,1
+Cache,Logan 11,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 11,President,,Democrat,MICHAEL R. BLOOMBERG,2
+Cache,Logan 11,President,,Democrat,WITHDRAWN,0
+Cache,Logan 11,President,,Democrat,JOSEPH R. BIDEN,4
+Cache,Logan 11,President,,Democrat,BERNIE SANDERS,31
+Cache,Logan 11,President,,Democrat,TOM STEYER,0
+Cache,Logan 11,President,,Democrat,ELIZABETH WARREN,10
+Cache,Logan 11,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 11,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 11,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Logan 11,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 11,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 12,President,,Republican,ROBERT ARDINI,0
+Cache,Logan 12,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 12,President,,Republican,BOB ELY,0
+Cache,Logan 12,President,,Republican,JOE WALSH,0
+Cache,Logan 12,President,,Republican,BILL WELD,3
+Cache,Logan 12,President,,Republican,WITHDRAWN,1
+Cache,Logan 12,President,,Republican,DONALD J. TRUMP,17
+Cache,Logan 12,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 12,President,,Democrat,ANDREW YANG,2
+Cache,Logan 12,President,,Democrat,CORY BOOKER,0
+Cache,Logan 12,President,,Democrat,PETE BUTTIGIEG,5
+Cache,Logan 12,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 12,President,,Democrat,MICHAEL R. BLOOMBERG,1
+Cache,Logan 12,President,,Democrat,WITHDRAWN,0
+Cache,Logan 12,President,,Democrat,JOSEPH R. BIDEN,0
+Cache,Logan 12,President,,Democrat,BERNIE SANDERS,26
+Cache,Logan 12,President,,Democrat,TOM STEYER,0
+Cache,Logan 12,President,,Democrat,ELIZABETH WARREN,13
+Cache,Logan 12,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 12,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 12,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Logan 12,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 12,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 13,President,,Republican,ROBERT ARDINI,8
+Cache,Logan 13,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 13,President,,Republican,BOB ELY,1
+Cache,Logan 13,President,,Republican,JOE WALSH,4
+Cache,Logan 13,President,,Republican,BILL WELD,29
+Cache,Logan 13,President,,Republican,WITHDRAWN,1
+Cache,Logan 13,President,,Republican,DONALD J. TRUMP,150
+Cache,Logan 13,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 13,President,,Democrat,ANDREW YANG,0
+Cache,Logan 13,President,,Democrat,CORY BOOKER,0
+Cache,Logan 13,President,,Democrat,PETE BUTTIGIEG,13
+Cache,Logan 13,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 13,President,,Democrat,MICHAEL R. BLOOMBERG,17
+Cache,Logan 13,President,,Democrat,WITHDRAWN,0
+Cache,Logan 13,President,,Democrat,JOSEPH R. BIDEN,41
+Cache,Logan 13,President,,Democrat,BERNIE SANDERS,43
+Cache,Logan 13,President,,Democrat,TOM STEYER,0
+Cache,Logan 13,President,,Democrat,ELIZABETH WARREN,55
+Cache,Logan 13,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 13,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 13,President,,Democrat,AMY KLOBUCHAR,13
+Cache,Logan 13,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 13,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 14,President,,Republican,ROBERT ARDINI,0
+Cache,Logan 14,President,,Republican,MATTHEW JOHN MATERN,9
+Cache,Logan 14,President,,Republican,BOB ELY,0
+Cache,Logan 14,President,,Republican,JOE WALSH,4
+Cache,Logan 14,President,,Republican,BILL WELD,10
+Cache,Logan 14,President,,Republican,WITHDRAWN,1
+Cache,Logan 14,President,,Republican,DONALD J. TRUMP,95
+Cache,Logan 14,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 14,President,,Democrat,ANDREW YANG,1
+Cache,Logan 14,President,,Democrat,CORY BOOKER,0
+Cache,Logan 14,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Logan 14,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 14,President,,Democrat,MICHAEL R. BLOOMBERG,12
+Cache,Logan 14,President,,Democrat,WITHDRAWN,0
+Cache,Logan 14,President,,Democrat,JOSEPH R. BIDEN,17
+Cache,Logan 14,President,,Democrat,BERNIE SANDERS,59
+Cache,Logan 14,President,,Democrat,TOM STEYER,0
+Cache,Logan 14,President,,Democrat,ELIZABETH WARREN,30
+Cache,Logan 14,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 14,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 14,President,,Democrat,AMY KLOBUCHAR,2
+Cache,Logan 14,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 14,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 15,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 15,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 15,President,,Republican,BOB ELY,0
+Cache,Logan 15,President,,Republican,JOE WALSH,2
+Cache,Logan 15,President,,Republican,BILL WELD,0
+Cache,Logan 15,President,,Republican,WITHDRAWN,4
+Cache,Logan 15,President,,Republican,DONALD J. TRUMP,30
+Cache,Logan 15,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 15,President,,Democrat,ANDREW YANG,0
+Cache,Logan 15,President,,Democrat,CORY BOOKER,0
+Cache,Logan 15,President,,Democrat,PETE BUTTIGIEG,7
+Cache,Logan 15,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 15,President,,Democrat,MICHAEL R. BLOOMBERG,2
+Cache,Logan 15,President,,Democrat,WITHDRAWN,0
+Cache,Logan 15,President,,Democrat,JOSEPH R. BIDEN,8
+Cache,Logan 15,President,,Democrat,BERNIE SANDERS,51
+Cache,Logan 15,President,,Democrat,TOM STEYER,0
+Cache,Logan 15,President,,Democrat,ELIZABETH WARREN,19
+Cache,Logan 15,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 15,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 15,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Logan 15,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 15,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 16,President,,Republican,ROBERT ARDINI,4
+Cache,Logan 16,President,,Republican,MATTHEW JOHN MATERN,3
+Cache,Logan 16,President,,Republican,BOB ELY,1
+Cache,Logan 16,President,,Republican,JOE WALSH,3
+Cache,Logan 16,President,,Republican,BILL WELD,6
+Cache,Logan 16,President,,Republican,WITHDRAWN,0
+Cache,Logan 16,President,,Republican,DONALD J. TRUMP,99
+Cache,Logan 16,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 16,President,,Democrat,ANDREW YANG,0
+Cache,Logan 16,President,,Democrat,CORY BOOKER,0
+Cache,Logan 16,President,,Democrat,PETE BUTTIGIEG,9
+Cache,Logan 16,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 16,President,,Democrat,MICHAEL R. BLOOMBERG,14
+Cache,Logan 16,President,,Democrat,WITHDRAWN,0
+Cache,Logan 16,President,,Democrat,JOSEPH R. BIDEN,13
+Cache,Logan 16,President,,Democrat,BERNIE SANDERS,35
+Cache,Logan 16,President,,Democrat,TOM STEYER,1
+Cache,Logan 16,President,,Democrat,ELIZABETH WARREN,25
+Cache,Logan 16,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 16,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 16,President,,Democrat,AMY KLOBUCHAR,5
+Cache,Logan 16,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 16,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 17,President,,Republican,ROBERT ARDINI,2
+Cache,Logan 17,President,,Republican,MATTHEW JOHN MATERN,3
+Cache,Logan 17,President,,Republican,BOB ELY,0
+Cache,Logan 17,President,,Republican,JOE WALSH,2
+Cache,Logan 17,President,,Republican,BILL WELD,7
+Cache,Logan 17,President,,Republican,WITHDRAWN,1
+Cache,Logan 17,President,,Republican,DONALD J. TRUMP,96
+Cache,Logan 17,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 17,President,,Democrat,ANDREW YANG,1
+Cache,Logan 17,President,,Democrat,CORY BOOKER,1
+Cache,Logan 17,President,,Democrat,PETE BUTTIGIEG,5
+Cache,Logan 17,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 17,President,,Democrat,MICHAEL R. BLOOMBERG,4
+Cache,Logan 17,President,,Democrat,WITHDRAWN,0
+Cache,Logan 17,President,,Democrat,JOSEPH R. BIDEN,17
+Cache,Logan 17,President,,Democrat,BERNIE SANDERS,36
+Cache,Logan 17,President,,Democrat,TOM STEYER,0
+Cache,Logan 17,President,,Democrat,ELIZABETH WARREN,10
+Cache,Logan 17,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 17,President,,Democrat,TULSI GABBARD,2
+Cache,Logan 17,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Logan 17,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 17,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 18,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 18,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 18,President,,Republican,BOB ELY,1
+Cache,Logan 18,President,,Republican,JOE WALSH,1
+Cache,Logan 18,President,,Republican,BILL WELD,6
+Cache,Logan 18,President,,Republican,WITHDRAWN,1
+Cache,Logan 18,President,,Republican,DONALD J. TRUMP,27
+Cache,Logan 18,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 18,President,,Democrat,ANDREW YANG,0
+Cache,Logan 18,President,,Democrat,CORY BOOKER,0
+Cache,Logan 18,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Logan 18,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 18,President,,Democrat,MICHAEL R. BLOOMBERG,0
+Cache,Logan 18,President,,Democrat,WITHDRAWN,0
+Cache,Logan 18,President,,Democrat,JOSEPH R. BIDEN,6
+Cache,Logan 18,President,,Democrat,BERNIE SANDERS,26
+Cache,Logan 18,President,,Democrat,TOM STEYER,0
+Cache,Logan 18,President,,Democrat,ELIZABETH WARREN,6
+Cache,Logan 18,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 18,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 18,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Logan 18,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 18,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 19,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 19,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,Logan 19,President,,Republican,BOB ELY,0
+Cache,Logan 19,President,,Republican,JOE WALSH,0
+Cache,Logan 19,President,,Republican,BILL WELD,6
+Cache,Logan 19,President,,Republican,WITHDRAWN,0
+Cache,Logan 19,President,,Republican,DONALD J. TRUMP,37
+Cache,Logan 19,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 19,President,,Democrat,ANDREW YANG,0
+Cache,Logan 19,President,,Democrat,CORY BOOKER,0
+Cache,Logan 19,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Logan 19,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 19,President,,Democrat,MICHAEL R. BLOOMBERG,2
+Cache,Logan 19,President,,Democrat,WITHDRAWN,0
+Cache,Logan 19,President,,Democrat,JOSEPH R. BIDEN,2
+Cache,Logan 19,President,,Democrat,BERNIE SANDERS,30
+Cache,Logan 19,President,,Democrat,TOM STEYER,0
+Cache,Logan 19,President,,Democrat,ELIZABETH WARREN,9
+Cache,Logan 19,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 19,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 19,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Logan 19,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 19,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 20,President,,Republican,ROBERT ARDINI,5
+Cache,Logan 20,President,,Republican,MATTHEW JOHN MATERN,3
+Cache,Logan 20,President,,Republican,BOB ELY,0
+Cache,Logan 20,President,,Republican,JOE WALSH,7
+Cache,Logan 20,President,,Republican,BILL WELD,21
+Cache,Logan 20,President,,Republican,WITHDRAWN,3
+Cache,Logan 20,President,,Republican,DONALD J. TRUMP,161
+Cache,Logan 20,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 20,President,,Democrat,ANDREW YANG,0
+Cache,Logan 20,President,,Democrat,CORY BOOKER,0
+Cache,Logan 20,President,,Democrat,PETE BUTTIGIEG,7
+Cache,Logan 20,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 20,President,,Democrat,MICHAEL R. BLOOMBERG,15
+Cache,Logan 20,President,,Democrat,WITHDRAWN,0
+Cache,Logan 20,President,,Democrat,JOSEPH R. BIDEN,26
+Cache,Logan 20,President,,Democrat,BERNIE SANDERS,28
+Cache,Logan 20,President,,Democrat,TOM STEYER,1
+Cache,Logan 20,President,,Democrat,ELIZABETH WARREN,21
+Cache,Logan 20,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 20,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 20,President,,Democrat,AMY KLOBUCHAR,8
+Cache,Logan 20,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 20,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 21,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 21,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 21,President,,Republican,BOB ELY,3
+Cache,Logan 21,President,,Republican,JOE WALSH,3
+Cache,Logan 21,President,,Republican,BILL WELD,16
+Cache,Logan 21,President,,Republican,WITHDRAWN,0
+Cache,Logan 21,President,,Republican,DONALD J. TRUMP,88
+Cache,Logan 21,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 21,President,,Democrat,ANDREW YANG,1
+Cache,Logan 21,President,,Democrat,CORY BOOKER,0
+Cache,Logan 21,President,,Democrat,PETE BUTTIGIEG,7
+Cache,Logan 21,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 21,President,,Democrat,MICHAEL R. BLOOMBERG,9
+Cache,Logan 21,President,,Democrat,WITHDRAWN,0
+Cache,Logan 21,President,,Democrat,JOSEPH R. BIDEN,16
+Cache,Logan 21,President,,Democrat,BERNIE SANDERS,31
+Cache,Logan 21,President,,Democrat,TOM STEYER,0
+Cache,Logan 21,President,,Democrat,ELIZABETH WARREN,41
+Cache,Logan 21,President,,Democrat,MARIANNE WILLIAMSON,1
+Cache,Logan 21,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 21,President,,Democrat,AMY KLOBUCHAR,11
+Cache,Logan 21,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 21,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 22,President,,Republican,ROBERT ARDINI,0
+Cache,Logan 22,President,,Republican,MATTHEW JOHN MATERN,2
+Cache,Logan 22,President,,Republican,BOB ELY,0
+Cache,Logan 22,President,,Republican,JOE WALSH,7
+Cache,Logan 22,President,,Republican,BILL WELD,29
+Cache,Logan 22,President,,Republican,WITHDRAWN,5
+Cache,Logan 22,President,,Republican,DONALD J. TRUMP,214
+Cache,Logan 22,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 22,President,,Democrat,ANDREW YANG,1
+Cache,Logan 22,President,,Democrat,CORY BOOKER,0
+Cache,Logan 22,President,,Democrat,PETE BUTTIGIEG,16
+Cache,Logan 22,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 22,President,,Democrat,MICHAEL R. BLOOMBERG,26
+Cache,Logan 22,President,,Democrat,WITHDRAWN,0
+Cache,Logan 22,President,,Democrat,JOSEPH R. BIDEN,32
+Cache,Logan 22,President,,Democrat,BERNIE SANDERS,38
+Cache,Logan 22,President,,Democrat,TOM STEYER,0
+Cache,Logan 22,President,,Democrat,ELIZABETH WARREN,26
+Cache,Logan 22,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 22,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 22,President,,Democrat,AMY KLOBUCHAR,9
+Cache,Logan 22,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 22,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 23,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 23,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,Logan 23,President,,Republican,BOB ELY,0
+Cache,Logan 23,President,,Republican,JOE WALSH,2
+Cache,Logan 23,President,,Republican,BILL WELD,1
+Cache,Logan 23,President,,Republican,WITHDRAWN,0
+Cache,Logan 23,President,,Republican,DONALD J. TRUMP,16
+Cache,Logan 23,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 23,President,,Democrat,ANDREW YANG,0
+Cache,Logan 23,President,,Democrat,CORY BOOKER,0
+Cache,Logan 23,President,,Democrat,PETE BUTTIGIEG,2
+Cache,Logan 23,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 23,President,,Democrat,MICHAEL R. BLOOMBERG,1
+Cache,Logan 23,President,,Democrat,WITHDRAWN,0
+Cache,Logan 23,President,,Democrat,JOSEPH R. BIDEN,10
+Cache,Logan 23,President,,Democrat,BERNIE SANDERS,31
+Cache,Logan 23,President,,Democrat,TOM STEYER,0
+Cache,Logan 23,President,,Democrat,ELIZABETH WARREN,13
+Cache,Logan 23,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 23,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 23,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Logan 23,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 23,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 24,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 24,President,,Republican,MATTHEW JOHN MATERN,4
+Cache,Logan 24,President,,Republican,BOB ELY,1
+Cache,Logan 24,President,,Republican,JOE WALSH,4
+Cache,Logan 24,President,,Republican,BILL WELD,3
+Cache,Logan 24,President,,Republican,WITHDRAWN,0
+Cache,Logan 24,President,,Republican,DONALD J. TRUMP,52
+Cache,Logan 24,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 24,President,,Democrat,ANDREW YANG,0
+Cache,Logan 24,President,,Democrat,CORY BOOKER,1
+Cache,Logan 24,President,,Democrat,PETE BUTTIGIEG,2
+Cache,Logan 24,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 24,President,,Democrat,MICHAEL R. BLOOMBERG,5
+Cache,Logan 24,President,,Democrat,WITHDRAWN,0
+Cache,Logan 24,President,,Democrat,JOSEPH R. BIDEN,9
+Cache,Logan 24,President,,Democrat,BERNIE SANDERS,31
+Cache,Logan 24,President,,Democrat,TOM STEYER,1
+Cache,Logan 24,President,,Democrat,ELIZABETH WARREN,13
+Cache,Logan 24,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 24,President,,Democrat,TULSI GABBARD,3
+Cache,Logan 24,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Logan 24,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 24,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 25,President,,Republican,ROBERT ARDINI,3
+Cache,Logan 25,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,Logan 25,President,,Republican,BOB ELY,1
+Cache,Logan 25,President,,Republican,JOE WALSH,4
+Cache,Logan 25,President,,Republican,BILL WELD,10
+Cache,Logan 25,President,,Republican,WITHDRAWN,2
+Cache,Logan 25,President,,Republican,DONALD J. TRUMP,109
+Cache,Logan 25,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 25,President,,Democrat,ANDREW YANG,0
+Cache,Logan 25,President,,Democrat,CORY BOOKER,0
+Cache,Logan 25,President,,Democrat,PETE BUTTIGIEG,8
+Cache,Logan 25,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 25,President,,Democrat,MICHAEL R. BLOOMBERG,10
+Cache,Logan 25,President,,Democrat,WITHDRAWN,0
+Cache,Logan 25,President,,Democrat,JOSEPH R. BIDEN,5
+Cache,Logan 25,President,,Democrat,BERNIE SANDERS,30
+Cache,Logan 25,President,,Democrat,TOM STEYER,1
+Cache,Logan 25,President,,Democrat,ELIZABETH WARREN,19
+Cache,Logan 25,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 25,President,,Democrat,TULSI GABBARD,2
+Cache,Logan 25,President,,Democrat,AMY KLOBUCHAR,6
+Cache,Logan 25,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 25,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 26,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 26,President,,Republican,MATTHEW JOHN MATERN,4
+Cache,Logan 26,President,,Republican,BOB ELY,0
+Cache,Logan 26,President,,Republican,JOE WALSH,3
+Cache,Logan 26,President,,Republican,BILL WELD,12
+Cache,Logan 26,President,,Republican,WITHDRAWN,0
+Cache,Logan 26,President,,Republican,DONALD J. TRUMP,109
+Cache,Logan 26,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 26,President,,Democrat,ANDREW YANG,0
+Cache,Logan 26,President,,Democrat,CORY BOOKER,0
+Cache,Logan 26,President,,Democrat,PETE BUTTIGIEG,7
+Cache,Logan 26,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 26,President,,Democrat,MICHAEL R. BLOOMBERG,10
+Cache,Logan 26,President,,Democrat,WITHDRAWN,0
+Cache,Logan 26,President,,Democrat,JOSEPH R. BIDEN,12
+Cache,Logan 26,President,,Democrat,BERNIE SANDERS,36
+Cache,Logan 26,President,,Democrat,TOM STEYER,0
+Cache,Logan 26,President,,Democrat,ELIZABETH WARREN,11
+Cache,Logan 26,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 26,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 26,President,,Democrat,AMY KLOBUCHAR,2
+Cache,Logan 26,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 26,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 27,President,,Republican,ROBERT ARDINI,1
+Cache,Logan 27,President,,Republican,MATTHEW JOHN MATERN,3
+Cache,Logan 27,President,,Republican,BOB ELY,0
+Cache,Logan 27,President,,Republican,JOE WALSH,4
+Cache,Logan 27,President,,Republican,BILL WELD,7
+Cache,Logan 27,President,,Republican,WITHDRAWN,1
+Cache,Logan 27,President,,Republican,DONALD J. TRUMP,137
+Cache,Logan 27,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 27,President,,Democrat,ANDREW YANG,0
+Cache,Logan 27,President,,Democrat,CORY BOOKER,0
+Cache,Logan 27,President,,Democrat,PETE BUTTIGIEG,6
+Cache,Logan 27,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 27,President,,Democrat,MICHAEL R. BLOOMBERG,10
+Cache,Logan 27,President,,Democrat,WITHDRAWN,0
+Cache,Logan 27,President,,Democrat,JOSEPH R. BIDEN,7
+Cache,Logan 27,President,,Democrat,BERNIE SANDERS,35
+Cache,Logan 27,President,,Democrat,TOM STEYER,0
+Cache,Logan 27,President,,Democrat,ELIZABETH WARREN,14
+Cache,Logan 27,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 27,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 27,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Logan 27,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 27,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 28,President,,Republican,ROBERT ARDINI,2
+Cache,Logan 28,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 28,President,,Republican,BOB ELY,1
+Cache,Logan 28,President,,Republican,JOE WALSH,3
+Cache,Logan 28,President,,Republican,BILL WELD,6
+Cache,Logan 28,President,,Republican,WITHDRAWN,0
+Cache,Logan 28,President,,Republican,DONALD J. TRUMP,25
+Cache,Logan 28,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 28,President,,Democrat,ANDREW YANG,0
+Cache,Logan 28,President,,Democrat,CORY BOOKER,0
+Cache,Logan 28,President,,Democrat,PETE BUTTIGIEG,2
+Cache,Logan 28,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 28,President,,Democrat,MICHAEL R. BLOOMBERG,0
+Cache,Logan 28,President,,Democrat,WITHDRAWN,0
+Cache,Logan 28,President,,Democrat,JOSEPH R. BIDEN,2
+Cache,Logan 28,President,,Democrat,BERNIE SANDERS,11
+Cache,Logan 28,President,,Democrat,TOM STEYER,0
+Cache,Logan 28,President,,Democrat,ELIZABETH WARREN,2
+Cache,Logan 28,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 28,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 28,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Logan 28,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 28,President,,Democrat,ROQUE DE LA FUENTE,1
+Cache,Logan 28,President,,Republican,ROBERT ARDINI,4
+Cache,Logan 28,President,,Republican,MATTHEW JOHN MATERN,7
+Cache,Logan 28,President,,Republican,BOB ELY,5
+Cache,Logan 28,President,,Republican,JOE WALSH,7
+Cache,Logan 28,President,,Republican,BILL WELD,15
+Cache,Logan 28,President,,Republican,WITHDRAWN,2
+Cache,Logan 28,President,,Republican,DONALD J. TRUMP,191
+Cache,Logan 28,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 28,President,,Democrat,ANDREW YANG,0
+Cache,Logan 28,President,,Democrat,CORY BOOKER,0
+Cache,Logan 28,President,,Democrat,PETE BUTTIGIEG,7
+Cache,Logan 28,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 28,President,,Democrat,MICHAEL R. BLOOMBERG,18
+Cache,Logan 28,President,,Democrat,WITHDRAWN,0
+Cache,Logan 28,President,,Democrat,JOSEPH R. BIDEN,28
+Cache,Logan 28,President,,Democrat,BERNIE SANDERS,35
+Cache,Logan 28,President,,Democrat,TOM STEYER,0
+Cache,Logan 28,President,,Democrat,ELIZABETH WARREN,21
+Cache,Logan 28,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 28,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 28,President,,Democrat,AMY KLOBUCHAR,8
+Cache,Logan 28,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 28,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 30,President,,Republican,ROBERT ARDINI,2
+Cache,Logan 30,President,,Republican,MATTHEW JOHN MATERN,3
+Cache,Logan 30,President,,Republican,BOB ELY,2
+Cache,Logan 30,President,,Republican,JOE WALSH,0
+Cache,Logan 30,President,,Republican,BILL WELD,17
+Cache,Logan 30,President,,Republican,WITHDRAWN,1
+Cache,Logan 30,President,,Republican,DONALD J. TRUMP,104
+Cache,Logan 30,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 30,President,,Democrat,ANDREW YANG,3
+Cache,Logan 30,President,,Democrat,CORY BOOKER,0
+Cache,Logan 30,President,,Democrat,PETE BUTTIGIEG,8
+Cache,Logan 30,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 30,President,,Democrat,MICHAEL R. BLOOMBERG,8
+Cache,Logan 30,President,,Democrat,WITHDRAWN,0
+Cache,Logan 30,President,,Democrat,JOSEPH R. BIDEN,15
+Cache,Logan 30,President,,Democrat,BERNIE SANDERS,57
+Cache,Logan 30,President,,Democrat,TOM STEYER,0
+Cache,Logan 30,President,,Democrat,ELIZABETH WARREN,17
+Cache,Logan 30,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 30,President,,Democrat,TULSI GABBARD,2
+Cache,Logan 30,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Logan 30,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 30,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 31,President,,Republican,ROBERT ARDINI,0
+Cache,Logan 31,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Logan 31,President,,Republican,BOB ELY,1
+Cache,Logan 31,President,,Republican,JOE WALSH,2
+Cache,Logan 31,President,,Republican,BILL WELD,10
+Cache,Logan 31,President,,Republican,WITHDRAWN,0
+Cache,Logan 31,President,,Republican,DONALD J. TRUMP,48
+Cache,Logan 31,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 31,President,,Democrat,ANDREW YANG,1
+Cache,Logan 31,President,,Democrat,CORY BOOKER,0
+Cache,Logan 31,President,,Democrat,PETE BUTTIGIEG,4
+Cache,Logan 31,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 31,President,,Democrat,MICHAEL R. BLOOMBERG,7
+Cache,Logan 31,President,,Democrat,WITHDRAWN,0
+Cache,Logan 31,President,,Democrat,JOSEPH R. BIDEN,10
+Cache,Logan 31,President,,Democrat,BERNIE SANDERS,47
+Cache,Logan 31,President,,Democrat,TOM STEYER,0
+Cache,Logan 31,President,,Democrat,ELIZABETH WARREN,25
+Cache,Logan 31,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 31,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 31,President,,Democrat,AMY KLOBUCHAR,2
+Cache,Logan 31,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 31,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 32,President,,Republican,ROBERT ARDINI,0
+Cache,Logan 32,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,Logan 32,President,,Republican,BOB ELY,0
+Cache,Logan 32,President,,Republican,JOE WALSH,2
+Cache,Logan 32,President,,Republican,BILL WELD,4
+Cache,Logan 32,President,,Republican,WITHDRAWN,0
+Cache,Logan 32,President,,Republican,DONALD J. TRUMP,50
+Cache,Logan 32,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 32,President,,Democrat,ANDREW YANG,0
+Cache,Logan 32,President,,Democrat,CORY BOOKER,0
+Cache,Logan 32,President,,Democrat,PETE BUTTIGIEG,1
+Cache,Logan 32,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 32,President,,Democrat,MICHAEL R. BLOOMBERG,4
+Cache,Logan 32,President,,Democrat,WITHDRAWN,0
+Cache,Logan 32,President,,Democrat,JOSEPH R. BIDEN,6
+Cache,Logan 32,President,,Democrat,BERNIE SANDERS,16
+Cache,Logan 32,President,,Democrat,TOM STEYER,0
+Cache,Logan 32,President,,Democrat,ELIZABETH WARREN,13
+Cache,Logan 32,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 32,President,,Democrat,TULSI GABBARD,0
+Cache,Logan 32,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Logan 32,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 32,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Logan 33,President,,Republican,ROBERT ARDINI,3
+Cache,Logan 33,President,,Republican,MATTHEW JOHN MATERN,2
+Cache,Logan 33,President,,Republican,BOB ELY,0
+Cache,Logan 33,President,,Republican,JOE WALSH,0
+Cache,Logan 33,President,,Republican,BILL WELD,14
+Cache,Logan 33,President,,Republican,WITHDRAWN,4
+Cache,Logan 33,President,,Republican,DONALD J. TRUMP,139
+Cache,Logan 33,President,,Democrat,JULIÁN CASTRO,0
+Cache,Logan 33,President,,Democrat,ANDREW YANG,0
+Cache,Logan 33,President,,Democrat,CORY BOOKER,0
+Cache,Logan 33,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Logan 33,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Logan 33,President,,Democrat,MICHAEL R. BLOOMBERG,11
+Cache,Logan 33,President,,Democrat,WITHDRAWN,0
+Cache,Logan 33,President,,Democrat,JOSEPH R. BIDEN,20
+Cache,Logan 33,President,,Democrat,BERNIE SANDERS,36
+Cache,Logan 33,President,,Democrat,TOM STEYER,0
+Cache,Logan 33,President,,Democrat,ELIZABETH WARREN,15
+Cache,Logan 33,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Logan 33,President,,Democrat,TULSI GABBARD,1
+Cache,Logan 33,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Logan 33,President,,Democrat,DEVAL PATRICK,0
+Cache,Logan 33,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Mendon 01,President,,Republican,ROBERT ARDINI,0
+Cache,Mendon 01,President,,Republican,MATTHEW JOHN MATERN,2
+Cache,Mendon 01,President,,Republican,BOB ELY,0
+Cache,Mendon 01,President,,Republican,JOE WALSH,1
+Cache,Mendon 01,President,,Republican,BILL WELD,0
+Cache,Mendon 01,President,,Republican,WITHDRAWN,0
+Cache,Mendon 01,President,,Republican,DONALD J. TRUMP,43
+Cache,Mendon 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,Mendon 01,President,,Democrat,ANDREW YANG,0
+Cache,Mendon 01,President,,Democrat,CORY BOOKER,0
+Cache,Mendon 01,President,,Democrat,PETE BUTTIGIEG,0
+Cache,Mendon 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Mendon 01,President,,Democrat,MICHAEL R. BLOOMBERG,1
+Cache,Mendon 01,President,,Democrat,WITHDRAWN,0
+Cache,Mendon 01,President,,Democrat,JOSEPH R. BIDEN,1
+Cache,Mendon 01,President,,Democrat,BERNIE SANDERS,2
+Cache,Mendon 01,President,,Democrat,TOM STEYER,0
+Cache,Mendon 01,President,,Democrat,ELIZABETH WARREN,3
+Cache,Mendon 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Mendon 01,President,,Democrat,TULSI GABBARD,0
+Cache,Mendon 01,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Mendon 01,President,,Democrat,DEVAL PATRICK,0
+Cache,Mendon 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Mendon 02,President,,Republican,ROBERT ARDINI,8
+Cache,Mendon 02,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,Mendon 02,President,,Republican,BOB ELY,0
+Cache,Mendon 02,President,,Republican,JOE WALSH,9
+Cache,Mendon 02,President,,Republican,BILL WELD,37
+Cache,Mendon 02,President,,Republican,WITHDRAWN,5
+Cache,Mendon 02,President,,Republican,DONALD J. TRUMP,390
+Cache,Mendon 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,Mendon 02,President,,Democrat,ANDREW YANG,0
+Cache,Mendon 02,President,,Democrat,CORY BOOKER,0
+Cache,Mendon 02,President,,Democrat,PETE BUTTIGIEG,5
+Cache,Mendon 02,President,,Democrat,NATHAN BLOXHAM,1
+Cache,Mendon 02,President,,Democrat,MICHAEL R. BLOOMBERG,9
+Cache,Mendon 02,President,,Democrat,WITHDRAWN,0
+Cache,Mendon 02,President,,Democrat,JOSEPH R. BIDEN,6
+Cache,Mendon 02,President,,Democrat,BERNIE SANDERS,15
+Cache,Mendon 02,President,,Democrat,TOM STEYER,0
+Cache,Mendon 02,President,,Democrat,ELIZABETH WARREN,10
+Cache,Mendon 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Mendon 02,President,,Democrat,TULSI GABBARD,3
+Cache,Mendon 02,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Mendon 02,President,,Democrat,DEVAL PATRICK,0
+Cache,Mendon 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Millville 17,President,,Republican,ROBERT ARDINI,0
+Cache,Millville 17,President,,Republican,MATTHEW JOHN MATERN,2
+Cache,Millville 17,President,,Republican,BOB ELY,0
+Cache,Millville 17,President,,Republican,JOE WALSH,0
+Cache,Millville 17,President,,Republican,BILL WELD,0
+Cache,Millville 17,President,,Republican,WITHDRAWN,0
+Cache,Millville 17,President,,Republican,DONALD J. TRUMP,34
+Cache,Millville 17,President,,Democrat,JULIÁN CASTRO,0
+Cache,Millville 17,President,,Democrat,ANDREW YANG,0
+Cache,Millville 17,President,,Democrat,CORY BOOKER,0
+Cache,Millville 17,President,,Democrat,PETE BUTTIGIEG,2
+Cache,Millville 17,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Millville 17,President,,Democrat,MICHAEL R. BLOOMBERG,0
+Cache,Millville 17,President,,Democrat,WITHDRAWN,0
+Cache,Millville 17,President,,Democrat,JOSEPH R. BIDEN,1
+Cache,Millville 17,President,,Democrat,BERNIE SANDERS,4
+Cache,Millville 17,President,,Democrat,TOM STEYER,0
+Cache,Millville 17,President,,Democrat,ELIZABETH WARREN,2
+Cache,Millville 17,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Millville 17,President,,Democrat,TULSI GABBARD,0
+Cache,Millville 17,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Millville 17,President,,Democrat,DEVAL PATRICK,0
+Cache,Millville 17,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Millville 25,President,,Republican,ROBERT ARDINI,1
+Cache,Millville 25,President,,Republican,MATTHEW JOHN MATERN,7
+Cache,Millville 25,President,,Republican,BOB ELY,0
+Cache,Millville 25,President,,Republican,JOE WALSH,1
+Cache,Millville 25,President,,Republican,BILL WELD,11
+Cache,Millville 25,President,,Republican,WITHDRAWN,3
+Cache,Millville 25,President,,Republican,DONALD J. TRUMP,267
+Cache,Millville 25,President,,Democrat,JULIÁN CASTRO,0
+Cache,Millville 25,President,,Democrat,ANDREW YANG,3
+Cache,Millville 25,President,,Democrat,CORY BOOKER,0
+Cache,Millville 25,President,,Democrat,PETE BUTTIGIEG,4
+Cache,Millville 25,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Millville 25,President,,Democrat,MICHAEL R. BLOOMBERG,6
+Cache,Millville 25,President,,Democrat,WITHDRAWN,1
+Cache,Millville 25,President,,Democrat,JOSEPH R. BIDEN,9
+Cache,Millville 25,President,,Democrat,BERNIE SANDERS,15
+Cache,Millville 25,President,,Democrat,TOM STEYER,0
+Cache,Millville 25,President,,Democrat,ELIZABETH WARREN,7
+Cache,Millville 25,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Millville 25,President,,Democrat,TULSI GABBARD,0
+Cache,Millville 25,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Millville 25,President,,Democrat,DEVAL PATRICK,0
+Cache,Millville 25,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Newton,President,,Republican,ROBERT ARDINI,1
+Cache,Newton,President,,Republican,MATTHEW JOHN MATERN,2
+Cache,Newton,President,,Republican,BOB ELY,0
+Cache,Newton,President,,Republican,JOE WALSH,5
+Cache,Newton,President,,Republican,BILL WELD,6
+Cache,Newton,President,,Republican,WITHDRAWN,2
+Cache,Newton,President,,Republican,DONALD J. TRUMP,177
+Cache,Newton,President,,Democrat,JULIÁN CASTRO,0
+Cache,Newton,President,,Democrat,ANDREW YANG,0
+Cache,Newton,President,,Democrat,CORY BOOKER,0
+Cache,Newton,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Newton,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Newton,President,,Democrat,MICHAEL R. BLOOMBERG,6
+Cache,Newton,President,,Democrat,WITHDRAWN,0
+Cache,Newton,President,,Democrat,JOSEPH R. BIDEN,3
+Cache,Newton,President,,Democrat,BERNIE SANDERS,11
+Cache,Newton,President,,Democrat,TOM STEYER,1
+Cache,Newton,President,,Democrat,ELIZABETH WARREN,3
+Cache,Newton,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Newton,President,,Democrat,TULSI GABBARD,2
+Cache,Newton,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Newton,President,,Democrat,DEVAL PATRICK,0
+Cache,Newton,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Nibley 01,President,,Republican,ROBERT ARDINI,4
+Cache,Nibley 01,President,,Republican,MATTHEW JOHN MATERN,6
+Cache,Nibley 01,President,,Republican,BOB ELY,1
+Cache,Nibley 01,President,,Republican,JOE WALSH,3
+Cache,Nibley 01,President,,Republican,BILL WELD,25
+Cache,Nibley 01,President,,Republican,WITHDRAWN,0
+Cache,Nibley 01,President,,Republican,DONALD J. TRUMP,242
+Cache,Nibley 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,Nibley 01,President,,Democrat,ANDREW YANG,1
+Cache,Nibley 01,President,,Democrat,CORY BOOKER,0
+Cache,Nibley 01,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Nibley 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Nibley 01,President,,Democrat,MICHAEL R. BLOOMBERG,9
+Cache,Nibley 01,President,,Democrat,WITHDRAWN,0
+Cache,Nibley 01,President,,Democrat,JOSEPH R. BIDEN,19
+Cache,Nibley 01,President,,Democrat,BERNIE SANDERS,28
+Cache,Nibley 01,President,,Democrat,TOM STEYER,0
+Cache,Nibley 01,President,,Democrat,ELIZABETH WARREN,15
+Cache,Nibley 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Nibley 01,President,,Democrat,TULSI GABBARD,0
+Cache,Nibley 01,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Nibley 01,President,,Democrat,DEVAL PATRICK,0
+Cache,Nibley 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Nibley 03,President,,Republican,ROBERT ARDINI,3
+Cache,Nibley 03,President,,Republican,MATTHEW JOHN MATERN,3
+Cache,Nibley 03,President,,Republican,BOB ELY,0
+Cache,Nibley 03,President,,Republican,JOE WALSH,3
+Cache,Nibley 03,President,,Republican,BILL WELD,18
+Cache,Nibley 03,President,,Republican,WITHDRAWN,0
+Cache,Nibley 03,President,,Republican,DONALD J. TRUMP,282
+Cache,Nibley 03,President,,Democrat,JULIÁN CASTRO,0
+Cache,Nibley 03,President,,Democrat,ANDREW YANG,0
+Cache,Nibley 03,President,,Democrat,CORY BOOKER,0
+Cache,Nibley 03,President,,Democrat,PETE BUTTIGIEG,8
+Cache,Nibley 03,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Nibley 03,President,,Democrat,MICHAEL R. BLOOMBERG,9
+Cache,Nibley 03,President,,Democrat,WITHDRAWN,0
+Cache,Nibley 03,President,,Democrat,JOSEPH R. BIDEN,11
+Cache,Nibley 03,President,,Democrat,BERNIE SANDERS,17
+Cache,Nibley 03,President,,Democrat,TOM STEYER,1
+Cache,Nibley 03,President,,Democrat,ELIZABETH WARREN,8
+Cache,Nibley 03,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Nibley 03,President,,Democrat,TULSI GABBARD,0
+Cache,Nibley 03,President,,Democrat,AMY KLOBUCHAR,6
+Cache,Nibley 03,President,,Democrat,DEVAL PATRICK,0
+Cache,Nibley 03,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Nibley 17,President,,Republican,ROBERT ARDINI,1
+Cache,Nibley 17,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,Nibley 17,President,,Republican,BOB ELY,0
+Cache,Nibley 17,President,,Republican,JOE WALSH,0
+Cache,Nibley 17,President,,Republican,BILL WELD,13
+Cache,Nibley 17,President,,Republican,WITHDRAWN,3
+Cache,Nibley 17,President,,Republican,DONALD J. TRUMP,178
+Cache,Nibley 17,President,,Democrat,JULIÁN CASTRO,0
+Cache,Nibley 17,President,,Democrat,ANDREW YANG,0
+Cache,Nibley 17,President,,Democrat,CORY BOOKER,0
+Cache,Nibley 17,President,,Democrat,PETE BUTTIGIEG,6
+Cache,Nibley 17,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Nibley 17,President,,Democrat,MICHAEL R. BLOOMBERG,3
+Cache,Nibley 17,President,,Democrat,WITHDRAWN,0
+Cache,Nibley 17,President,,Democrat,JOSEPH R. BIDEN,9
+Cache,Nibley 17,President,,Democrat,BERNIE SANDERS,30
+Cache,Nibley 17,President,,Democrat,TOM STEYER,0
+Cache,Nibley 17,President,,Democrat,ELIZABETH WARREN,3
+Cache,Nibley 17,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Nibley 17,President,,Democrat,TULSI GABBARD,0
+Cache,Nibley 17,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Nibley 17,President,,Democrat,DEVAL PATRICK,0
+Cache,Nibley 17,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Nibley 25,President,,Republican,ROBERT ARDINI,0
+Cache,Nibley 25,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Nibley 25,President,,Republican,BOB ELY,0
+Cache,Nibley 25,President,,Republican,JOE WALSH,0
+Cache,Nibley 25,President,,Republican,BILL WELD,0
+Cache,Nibley 25,President,,Republican,WITHDRAWN,0
+Cache,Nibley 25,President,,Republican,DONALD J. TRUMP,9
+Cache,Nibley 25,President,,Democrat,JULIÁN CASTRO,0
+Cache,Nibley 25,President,,Democrat,ANDREW YANG,0
+Cache,Nibley 25,President,,Democrat,CORY BOOKER,0
+Cache,Nibley 25,President,,Democrat,PETE BUTTIGIEG,0
+Cache,Nibley 25,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Nibley 25,President,,Democrat,MICHAEL R. BLOOMBERG,0
+Cache,Nibley 25,President,,Democrat,WITHDRAWN,0
+Cache,Nibley 25,President,,Democrat,JOSEPH R. BIDEN,0
+Cache,Nibley 25,President,,Democrat,BERNIE SANDERS,0
+Cache,Nibley 25,President,,Democrat,TOM STEYER,0
+Cache,Nibley 25,President,,Democrat,ELIZABETH WARREN,0
+Cache,Nibley 25,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Nibley 25,President,,Democrat,TULSI GABBARD,0
+Cache,Nibley 25,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Nibley 25,President,,Democrat,DEVAL PATRICK,0
+Cache,Nibley 25,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,North Logan 01,President,,Republican,ROBERT ARDINI,2
+Cache,North Logan 01,President,,Republican,MATTHEW JOHN MATERN,11
+Cache,North Logan 01,President,,Republican,BOB ELY,2
+Cache,North Logan 01,President,,Republican,JOE WALSH,6
+Cache,North Logan 01,President,,Republican,BILL WELD,10
+Cache,North Logan 01,President,,Republican,WITHDRAWN,7
+Cache,North Logan 01,President,,Republican,DONALD J. TRUMP,180
+Cache,North Logan 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,North Logan 01,President,,Democrat,ANDREW YANG,1
+Cache,North Logan 01,President,,Democrat,CORY BOOKER,0
+Cache,North Logan 01,President,,Democrat,PETE BUTTIGIEG,17
+Cache,North Logan 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,North Logan 01,President,,Democrat,MICHAEL R. BLOOMBERG,18
+Cache,North Logan 01,President,,Democrat,WITHDRAWN,0
+Cache,North Logan 01,President,,Democrat,JOSEPH R. BIDEN,20
+Cache,North Logan 01,President,,Democrat,BERNIE SANDERS,85
+Cache,North Logan 01,President,,Democrat,TOM STEYER,1
+Cache,North Logan 01,President,,Democrat,ELIZABETH WARREN,31
+Cache,North Logan 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,North Logan 01,President,,Democrat,TULSI GABBARD,0
+Cache,North Logan 01,President,,Democrat,AMY KLOBUCHAR,0
+Cache,North Logan 01,President,,Democrat,DEVAL PATRICK,0
+Cache,North Logan 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,North Logan 02,President,,Republican,ROBERT ARDINI,3
+Cache,North Logan 02,President,,Republican,MATTHEW JOHN MATERN,6
+Cache,North Logan 02,President,,Republican,BOB ELY,0
+Cache,North Logan 02,President,,Republican,JOE WALSH,4
+Cache,North Logan 02,President,,Republican,BILL WELD,16
+Cache,North Logan 02,President,,Republican,WITHDRAWN,3
+Cache,North Logan 02,President,,Republican,DONALD J. TRUMP,148
+Cache,North Logan 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,North Logan 02,President,,Democrat,ANDREW YANG,0
+Cache,North Logan 02,President,,Democrat,CORY BOOKER,0
+Cache,North Logan 02,President,,Democrat,PETE BUTTIGIEG,9
+Cache,North Logan 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,North Logan 02,President,,Democrat,MICHAEL R. BLOOMBERG,14
+Cache,North Logan 02,President,,Democrat,WITHDRAWN,0
+Cache,North Logan 02,President,,Democrat,JOSEPH R. BIDEN,13
+Cache,North Logan 02,President,,Democrat,BERNIE SANDERS,28
+Cache,North Logan 02,President,,Democrat,TOM STEYER,0
+Cache,North Logan 02,President,,Democrat,ELIZABETH WARREN,9
+Cache,North Logan 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,North Logan 02,President,,Democrat,TULSI GABBARD,0
+Cache,North Logan 02,President,,Democrat,AMY KLOBUCHAR,5
+Cache,North Logan 02,President,,Democrat,DEVAL PATRICK,0
+Cache,North Logan 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,North Logan 03,President,,Republican,ROBERT ARDINI,3
+Cache,North Logan 03,President,,Republican,MATTHEW JOHN MATERN,2
+Cache,North Logan 03,President,,Republican,BOB ELY,0
+Cache,North Logan 03,President,,Republican,JOE WALSH,8
+Cache,North Logan 03,President,,Republican,BILL WELD,21
+Cache,North Logan 03,President,,Republican,WITHDRAWN,0
+Cache,North Logan 03,President,,Republican,DONALD J. TRUMP,179
+Cache,North Logan 03,President,,Democrat,JULIÁN CASTRO,0
+Cache,North Logan 03,President,,Democrat,ANDREW YANG,0
+Cache,North Logan 03,President,,Democrat,CORY BOOKER,0
+Cache,North Logan 03,President,,Democrat,PETE BUTTIGIEG,2
+Cache,North Logan 03,President,,Democrat,NATHAN BLOXHAM,0
+Cache,North Logan 03,President,,Democrat,MICHAEL R. BLOOMBERG,6
+Cache,North Logan 03,President,,Democrat,WITHDRAWN,0
+Cache,North Logan 03,President,,Democrat,JOSEPH R. BIDEN,15
+Cache,North Logan 03,President,,Democrat,BERNIE SANDERS,9
+Cache,North Logan 03,President,,Democrat,TOM STEYER,1
+Cache,North Logan 03,President,,Democrat,ELIZABETH WARREN,6
+Cache,North Logan 03,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,North Logan 03,President,,Democrat,TULSI GABBARD,1
+Cache,North Logan 03,President,,Democrat,AMY KLOBUCHAR,5
+Cache,North Logan 03,President,,Democrat,DEVAL PATRICK,0
+Cache,North Logan 03,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,North Logan 04,President,,Republican,ROBERT ARDINI,5
+Cache,North Logan 04,President,,Republican,MATTHEW JOHN MATERN,6
+Cache,North Logan 04,President,,Republican,BOB ELY,0
+Cache,North Logan 04,President,,Republican,JOE WALSH,6
+Cache,North Logan 04,President,,Republican,BILL WELD,18
+Cache,North Logan 04,President,,Republican,WITHDRAWN,0
+Cache,North Logan 04,President,,Republican,DONALD J. TRUMP,277
+Cache,North Logan 04,President,,Democrat,JULIÁN CASTRO,0
+Cache,North Logan 04,President,,Democrat,ANDREW YANG,1
+Cache,North Logan 04,President,,Democrat,CORY BOOKER,0
+Cache,North Logan 04,President,,Democrat,PETE BUTTIGIEG,11
+Cache,North Logan 04,President,,Democrat,NATHAN BLOXHAM,0
+Cache,North Logan 04,President,,Democrat,MICHAEL R. BLOOMBERG,15
+Cache,North Logan 04,President,,Democrat,WITHDRAWN,0
+Cache,North Logan 04,President,,Democrat,JOSEPH R. BIDEN,18
+Cache,North Logan 04,President,,Democrat,BERNIE SANDERS,26
+Cache,North Logan 04,President,,Democrat,TOM STEYER,0
+Cache,North Logan 04,President,,Democrat,ELIZABETH WARREN,11
+Cache,North Logan 04,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,North Logan 04,President,,Democrat,TULSI GABBARD,0
+Cache,North Logan 04,President,,Democrat,AMY KLOBUCHAR,5
+Cache,North Logan 04,President,,Democrat,DEVAL PATRICK,0
+Cache,North Logan 04,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,North Logan 05,President,,Republican,ROBERT ARDINI,1
+Cache,North Logan 05,President,,Republican,MATTHEW JOHN MATERN,4
+Cache,North Logan 05,President,,Republican,BOB ELY,3
+Cache,North Logan 05,President,,Republican,JOE WALSH,2
+Cache,North Logan 05,President,,Republican,BILL WELD,33
+Cache,North Logan 05,President,,Republican,WITHDRAWN,2
+Cache,North Logan 05,President,,Republican,DONALD J. TRUMP,223
+Cache,North Logan 05,President,,Democrat,JULIÁN CASTRO,0
+Cache,North Logan 05,President,,Democrat,ANDREW YANG,1
+Cache,North Logan 05,President,,Democrat,CORY BOOKER,0
+Cache,North Logan 05,President,,Democrat,PETE BUTTIGIEG,4
+Cache,North Logan 05,President,,Democrat,NATHAN BLOXHAM,0
+Cache,North Logan 05,President,,Democrat,MICHAEL R. BLOOMBERG,9
+Cache,North Logan 05,President,,Democrat,WITHDRAWN,0
+Cache,North Logan 05,President,,Democrat,JOSEPH R. BIDEN,25
+Cache,North Logan 05,President,,Democrat,BERNIE SANDERS,23
+Cache,North Logan 05,President,,Democrat,TOM STEYER,0
+Cache,North Logan 05,President,,Democrat,ELIZABETH WARREN,21
+Cache,North Logan 05,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,North Logan 05,President,,Democrat,TULSI GABBARD,1
+Cache,North Logan 05,President,,Democrat,AMY KLOBUCHAR,8
+Cache,North Logan 05,President,,Democrat,DEVAL PATRICK,0
+Cache,North Logan 05,President,,Democrat,ROQUE DE LA FUENTE,1
+Cache,North Logan 05,President,,Republican,ROBERT ARDINI,3
+Cache,North Logan 05,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,North Logan 05,President,,Republican,BOB ELY,0
+Cache,North Logan 05,President,,Republican,JOE WALSH,6
+Cache,North Logan 05,President,,Republican,BILL WELD,21
+Cache,North Logan 05,President,,Republican,WITHDRAWN,2
+Cache,North Logan 05,President,,Republican,DONALD J. TRUMP,167
+Cache,North Logan 05,President,,Democrat,JULIÁN CASTRO,0
+Cache,North Logan 05,President,,Democrat,ANDREW YANG,1
+Cache,North Logan 05,President,,Democrat,CORY BOOKER,0
+Cache,North Logan 05,President,,Democrat,PETE BUTTIGIEG,7
+Cache,North Logan 05,President,,Democrat,NATHAN BLOXHAM,0
+Cache,North Logan 05,President,,Democrat,MICHAEL R. BLOOMBERG,16
+Cache,North Logan 05,President,,Democrat,WITHDRAWN,0
+Cache,North Logan 05,President,,Democrat,JOSEPH R. BIDEN,21
+Cache,North Logan 05,President,,Democrat,BERNIE SANDERS,33
+Cache,North Logan 05,President,,Democrat,TOM STEYER,0
+Cache,North Logan 05,President,,Democrat,ELIZABETH WARREN,24
+Cache,North Logan 05,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,North Logan 05,President,,Democrat,TULSI GABBARD,1
+Cache,North Logan 05,President,,Democrat,AMY KLOBUCHAR,12
+Cache,North Logan 05,President,,Democrat,DEVAL PATRICK,0
+Cache,North Logan 05,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Paradise,President,,Republican,ROBERT ARDINI,2
+Cache,Paradise,President,,Republican,MATTHEW JOHN MATERN,8
+Cache,Paradise,President,,Republican,BOB ELY,0
+Cache,Paradise,President,,Republican,JOE WALSH,9
+Cache,Paradise,President,,Republican,BILL WELD,10
+Cache,Paradise,President,,Republican,WITHDRAWN,4
+Cache,Paradise,President,,Republican,DONALD J. TRUMP,344
+Cache,Paradise,President,,Democrat,JULIÁN CASTRO,0
+Cache,Paradise,President,,Democrat,ANDREW YANG,1
+Cache,Paradise,President,,Democrat,CORY BOOKER,0
+Cache,Paradise,President,,Democrat,PETE BUTTIGIEG,9
+Cache,Paradise,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Paradise,President,,Democrat,MICHAEL R. BLOOMBERG,10
+Cache,Paradise,President,,Democrat,WITHDRAWN,1
+Cache,Paradise,President,,Democrat,JOSEPH R. BIDEN,8
+Cache,Paradise,President,,Democrat,BERNIE SANDERS,18
+Cache,Paradise,President,,Democrat,TOM STEYER,0
+Cache,Paradise,President,,Democrat,ELIZABETH WARREN,12
+Cache,Paradise,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Paradise,President,,Democrat,TULSI GABBARD,0
+Cache,Paradise,President,,Democrat,AMY KLOBUCHAR,4
+Cache,Paradise,President,,Democrat,DEVAL PATRICK,0
+Cache,Paradise,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Providence 01,President,,Republican,ROBERT ARDINI,2
+Cache,Providence 01,President,,Republican,MATTHEW JOHN MATERN,7
+Cache,Providence 01,President,,Republican,BOB ELY,2
+Cache,Providence 01,President,,Republican,JOE WALSH,6
+Cache,Providence 01,President,,Republican,BILL WELD,19
+Cache,Providence 01,President,,Republican,WITHDRAWN,0
+Cache,Providence 01,President,,Republican,DONALD J. TRUMP,236
+Cache,Providence 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,Providence 01,President,,Democrat,ANDREW YANG,0
+Cache,Providence 01,President,,Democrat,CORY BOOKER,0
+Cache,Providence 01,President,,Democrat,PETE BUTTIGIEG,9
+Cache,Providence 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Providence 01,President,,Democrat,MICHAEL R. BLOOMBERG,11
+Cache,Providence 01,President,,Democrat,WITHDRAWN,0
+Cache,Providence 01,President,,Democrat,JOSEPH R. BIDEN,10
+Cache,Providence 01,President,,Democrat,BERNIE SANDERS,20
+Cache,Providence 01,President,,Democrat,TOM STEYER,0
+Cache,Providence 01,President,,Democrat,ELIZABETH WARREN,15
+Cache,Providence 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Providence 01,President,,Democrat,TULSI GABBARD,0
+Cache,Providence 01,President,,Democrat,AMY KLOBUCHAR,9
+Cache,Providence 01,President,,Democrat,DEVAL PATRICK,0
+Cache,Providence 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Providence 02,President,,Republican,ROBERT ARDINI,2
+Cache,Providence 02,President,,Republican,MATTHEW JOHN MATERN,2
+Cache,Providence 02,President,,Republican,BOB ELY,3
+Cache,Providence 02,President,,Republican,JOE WALSH,15
+Cache,Providence 02,President,,Republican,BILL WELD,16
+Cache,Providence 02,President,,Republican,WITHDRAWN,3
+Cache,Providence 02,President,,Republican,DONALD J. TRUMP,308
+Cache,Providence 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,Providence 02,President,,Democrat,ANDREW YANG,0
+Cache,Providence 02,President,,Democrat,CORY BOOKER,0
+Cache,Providence 02,President,,Democrat,PETE BUTTIGIEG,11
+Cache,Providence 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Providence 02,President,,Democrat,MICHAEL R. BLOOMBERG,12
+Cache,Providence 02,President,,Democrat,WITHDRAWN,0
+Cache,Providence 02,President,,Democrat,JOSEPH R. BIDEN,20
+Cache,Providence 02,President,,Democrat,BERNIE SANDERS,23
+Cache,Providence 02,President,,Democrat,TOM STEYER,0
+Cache,Providence 02,President,,Democrat,ELIZABETH WARREN,25
+Cache,Providence 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Providence 02,President,,Democrat,TULSI GABBARD,0
+Cache,Providence 02,President,,Democrat,AMY KLOBUCHAR,8
+Cache,Providence 02,President,,Democrat,DEVAL PATRICK,0
+Cache,Providence 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Providence 03,President,,Republican,ROBERT ARDINI,1
+Cache,Providence 03,President,,Republican,MATTHEW JOHN MATERN,10
+Cache,Providence 03,President,,Republican,BOB ELY,2
+Cache,Providence 03,President,,Republican,JOE WALSH,5
+Cache,Providence 03,President,,Republican,BILL WELD,13
+Cache,Providence 03,President,,Republican,WITHDRAWN,6
+Cache,Providence 03,President,,Republican,DONALD J. TRUMP,228
+Cache,Providence 03,President,,Democrat,JULIÁN CASTRO,0
+Cache,Providence 03,President,,Democrat,ANDREW YANG,1
+Cache,Providence 03,President,,Democrat,CORY BOOKER,0
+Cache,Providence 03,President,,Democrat,PETE BUTTIGIEG,9
+Cache,Providence 03,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Providence 03,President,,Democrat,MICHAEL R. BLOOMBERG,8
+Cache,Providence 03,President,,Democrat,WITHDRAWN,0
+Cache,Providence 03,President,,Democrat,JOSEPH R. BIDEN,8
+Cache,Providence 03,President,,Democrat,BERNIE SANDERS,13
+Cache,Providence 03,President,,Democrat,TOM STEYER,0
+Cache,Providence 03,President,,Democrat,ELIZABETH WARREN,13
+Cache,Providence 03,President,,Democrat,MARIANNE WILLIAMSON,1
+Cache,Providence 03,President,,Democrat,TULSI GABBARD,0
+Cache,Providence 03,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Providence 03,President,,Democrat,DEVAL PATRICK,0
+Cache,Providence 03,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Providence 04,President,,Republican,ROBERT ARDINI,1
+Cache,Providence 04,President,,Republican,MATTHEW JOHN MATERN,6
+Cache,Providence 04,President,,Republican,BOB ELY,2
+Cache,Providence 04,President,,Republican,JOE WALSH,1
+Cache,Providence 04,President,,Republican,BILL WELD,21
+Cache,Providence 04,President,,Republican,WITHDRAWN,0
+Cache,Providence 04,President,,Republican,DONALD J. TRUMP,171
+Cache,Providence 04,President,,Democrat,JULIÁN CASTRO,0
+Cache,Providence 04,President,,Democrat,ANDREW YANG,1
+Cache,Providence 04,President,,Democrat,CORY BOOKER,0
+Cache,Providence 04,President,,Democrat,PETE BUTTIGIEG,4
+Cache,Providence 04,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Providence 04,President,,Democrat,MICHAEL R. BLOOMBERG,17
+Cache,Providence 04,President,,Democrat,WITHDRAWN,0
+Cache,Providence 04,President,,Democrat,JOSEPH R. BIDEN,7
+Cache,Providence 04,President,,Democrat,BERNIE SANDERS,15
+Cache,Providence 04,President,,Democrat,TOM STEYER,1
+Cache,Providence 04,President,,Democrat,ELIZABETH WARREN,20
+Cache,Providence 04,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Providence 04,President,,Democrat,TULSI GABBARD,0
+Cache,Providence 04,President,,Democrat,AMY KLOBUCHAR,9
+Cache,Providence 04,President,,Democrat,DEVAL PATRICK,0
+Cache,Providence 04,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Providence 05,President,,Republican,ROBERT ARDINI,0
+Cache,Providence 05,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Providence 05,President,,Republican,BOB ELY,0
+Cache,Providence 05,President,,Republican,JOE WALSH,6
+Cache,Providence 05,President,,Republican,BILL WELD,10
+Cache,Providence 05,President,,Republican,WITHDRAWN,1
+Cache,Providence 05,President,,Republican,DONALD J. TRUMP,186
+Cache,Providence 05,President,,Democrat,JULIÁN CASTRO,0
+Cache,Providence 05,President,,Democrat,ANDREW YANG,1
+Cache,Providence 05,President,,Democrat,CORY BOOKER,0
+Cache,Providence 05,President,,Democrat,PETE BUTTIGIEG,7
+Cache,Providence 05,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Providence 05,President,,Democrat,MICHAEL R. BLOOMBERG,10
+Cache,Providence 05,President,,Democrat,WITHDRAWN,0
+Cache,Providence 05,President,,Democrat,JOSEPH R. BIDEN,15
+Cache,Providence 05,President,,Democrat,BERNIE SANDERS,17
+Cache,Providence 05,President,,Democrat,TOM STEYER,2
+Cache,Providence 05,President,,Democrat,ELIZABETH WARREN,6
+Cache,Providence 05,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Providence 05,President,,Democrat,TULSI GABBARD,3
+Cache,Providence 05,President,,Democrat,AMY KLOBUCHAR,8
+Cache,Providence 05,President,,Democrat,DEVAL PATRICK,0
+Cache,Providence 05,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Richmond 01,President,,Republican,ROBERT ARDINI,1
+Cache,Richmond 01,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,Richmond 01,President,,Republican,BOB ELY,1
+Cache,Richmond 01,President,,Republican,JOE WALSH,0
+Cache,Richmond 01,President,,Republican,BILL WELD,15
+Cache,Richmond 01,President,,Republican,WITHDRAWN,0
+Cache,Richmond 01,President,,Republican,DONALD J. TRUMP,206
+Cache,Richmond 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,Richmond 01,President,,Democrat,ANDREW YANG,0
+Cache,Richmond 01,President,,Democrat,CORY BOOKER,0
+Cache,Richmond 01,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Richmond 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Richmond 01,President,,Democrat,MICHAEL R. BLOOMBERG,4
+Cache,Richmond 01,President,,Democrat,WITHDRAWN,0
+Cache,Richmond 01,President,,Democrat,JOSEPH R. BIDEN,0
+Cache,Richmond 01,President,,Democrat,BERNIE SANDERS,9
+Cache,Richmond 01,President,,Democrat,TOM STEYER,0
+Cache,Richmond 01,President,,Democrat,ELIZABETH WARREN,5
+Cache,Richmond 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Richmond 01,President,,Democrat,TULSI GABBARD,0
+Cache,Richmond 01,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Richmond 01,President,,Democrat,DEVAL PATRICK,0
+Cache,Richmond 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Richmond 02,President,,Republican,ROBERT ARDINI,5
+Cache,Richmond 02,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,Richmond 02,President,,Republican,BOB ELY,0
+Cache,Richmond 02,President,,Republican,JOE WALSH,4
+Cache,Richmond 02,President,,Republican,BILL WELD,8
+Cache,Richmond 02,President,,Republican,WITHDRAWN,2
+Cache,Richmond 02,President,,Republican,DONALD J. TRUMP,238
+Cache,Richmond 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,Richmond 02,President,,Democrat,ANDREW YANG,0
+Cache,Richmond 02,President,,Democrat,CORY BOOKER,0
+Cache,Richmond 02,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Richmond 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Richmond 02,President,,Democrat,MICHAEL R. BLOOMBERG,5
+Cache,Richmond 02,President,,Democrat,WITHDRAWN,1
+Cache,Richmond 02,President,,Democrat,JOSEPH R. BIDEN,4
+Cache,Richmond 02,President,,Democrat,BERNIE SANDERS,19
+Cache,Richmond 02,President,,Democrat,TOM STEYER,0
+Cache,Richmond 02,President,,Democrat,ELIZABETH WARREN,8
+Cache,Richmond 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Richmond 02,President,,Democrat,TULSI GABBARD,0
+Cache,Richmond 02,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Richmond 02,President,,Democrat,DEVAL PATRICK,0
+Cache,Richmond 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,River Heights 01,President,,Republican,ROBERT ARDINI,3
+Cache,River Heights 01,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,River Heights 01,President,,Republican,BOB ELY,3
+Cache,River Heights 01,President,,Republican,JOE WALSH,1
+Cache,River Heights 01,President,,Republican,BILL WELD,3
+Cache,River Heights 01,President,,Republican,WITHDRAWN,1
+Cache,River Heights 01,President,,Republican,DONALD J. TRUMP,100
+Cache,River Heights 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,River Heights 01,President,,Democrat,ANDREW YANG,0
+Cache,River Heights 01,President,,Democrat,CORY BOOKER,0
+Cache,River Heights 01,President,,Democrat,PETE BUTTIGIEG,8
+Cache,River Heights 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,River Heights 01,President,,Democrat,MICHAEL R. BLOOMBERG,3
+Cache,River Heights 01,President,,Democrat,WITHDRAWN,0
+Cache,River Heights 01,President,,Democrat,JOSEPH R. BIDEN,8
+Cache,River Heights 01,President,,Democrat,BERNIE SANDERS,27
+Cache,River Heights 01,President,,Democrat,TOM STEYER,0
+Cache,River Heights 01,President,,Democrat,ELIZABETH WARREN,14
+Cache,River Heights 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,River Heights 01,President,,Democrat,TULSI GABBARD,0
+Cache,River Heights 01,President,,Democrat,AMY KLOBUCHAR,2
+Cache,River Heights 01,President,,Democrat,DEVAL PATRICK,0
+Cache,River Heights 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,River Heights 02,President,,Republican,ROBERT ARDINI,2
+Cache,River Heights 02,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,River Heights 02,President,,Republican,BOB ELY,1
+Cache,River Heights 02,President,,Republican,JOE WALSH,4
+Cache,River Heights 02,President,,Republican,BILL WELD,20
+Cache,River Heights 02,President,,Republican,WITHDRAWN,0
+Cache,River Heights 02,President,,Republican,DONALD J. TRUMP,142
+Cache,River Heights 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,River Heights 02,President,,Democrat,ANDREW YANG,0
+Cache,River Heights 02,President,,Democrat,CORY BOOKER,0
+Cache,River Heights 02,President,,Democrat,PETE BUTTIGIEG,5
+Cache,River Heights 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,River Heights 02,President,,Democrat,MICHAEL R. BLOOMBERG,12
+Cache,River Heights 02,President,,Democrat,WITHDRAWN,0
+Cache,River Heights 02,President,,Democrat,JOSEPH R. BIDEN,11
+Cache,River Heights 02,President,,Democrat,BERNIE SANDERS,28
+Cache,River Heights 02,President,,Democrat,TOM STEYER,0
+Cache,River Heights 02,President,,Democrat,ELIZABETH WARREN,22
+Cache,River Heights 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,River Heights 02,President,,Democrat,TULSI GABBARD,0
+Cache,River Heights 02,President,,Democrat,AMY KLOBUCHAR,3
+Cache,River Heights 02,President,,Democrat,DEVAL PATRICK,0
+Cache,River Heights 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Smithfield 01,President,,Republican,ROBERT ARDINI,1
+Cache,Smithfield 01,President,,Republican,MATTHEW JOHN MATERN,4
+Cache,Smithfield 01,President,,Republican,BOB ELY,0
+Cache,Smithfield 01,President,,Republican,JOE WALSH,3
+Cache,Smithfield 01,President,,Republican,BILL WELD,15
+Cache,Smithfield 01,President,,Republican,WITHDRAWN,3
+Cache,Smithfield 01,President,,Republican,DONALD J. TRUMP,226
+Cache,Smithfield 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,Smithfield 01,President,,Democrat,ANDREW YANG,0
+Cache,Smithfield 01,President,,Democrat,CORY BOOKER,0
+Cache,Smithfield 01,President,,Democrat,PETE BUTTIGIEG,2
+Cache,Smithfield 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Smithfield 01,President,,Democrat,MICHAEL R. BLOOMBERG,2
+Cache,Smithfield 01,President,,Democrat,WITHDRAWN,0
+Cache,Smithfield 01,President,,Democrat,JOSEPH R. BIDEN,2
+Cache,Smithfield 01,President,,Democrat,BERNIE SANDERS,11
+Cache,Smithfield 01,President,,Democrat,TOM STEYER,0
+Cache,Smithfield 01,President,,Democrat,ELIZABETH WARREN,5
+Cache,Smithfield 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Smithfield 01,President,,Democrat,TULSI GABBARD,1
+Cache,Smithfield 01,President,,Democrat,AMY KLOBUCHAR,5
+Cache,Smithfield 01,President,,Democrat,DEVAL PATRICK,0
+Cache,Smithfield 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Smithfield 02,President,,Republican,ROBERT ARDINI,4
+Cache,Smithfield 02,President,,Republican,MATTHEW JOHN MATERN,4
+Cache,Smithfield 02,President,,Republican,BOB ELY,1
+Cache,Smithfield 02,President,,Republican,JOE WALSH,8
+Cache,Smithfield 02,President,,Republican,BILL WELD,13
+Cache,Smithfield 02,President,,Republican,WITHDRAWN,1
+Cache,Smithfield 02,President,,Republican,DONALD J. TRUMP,252
+Cache,Smithfield 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,Smithfield 02,President,,Democrat,ANDREW YANG,0
+Cache,Smithfield 02,President,,Democrat,CORY BOOKER,0
+Cache,Smithfield 02,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Smithfield 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Smithfield 02,President,,Democrat,MICHAEL R. BLOOMBERG,3
+Cache,Smithfield 02,President,,Democrat,WITHDRAWN,0
+Cache,Smithfield 02,President,,Democrat,JOSEPH R. BIDEN,10
+Cache,Smithfield 02,President,,Democrat,BERNIE SANDERS,25
+Cache,Smithfield 02,President,,Democrat,TOM STEYER,0
+Cache,Smithfield 02,President,,Democrat,ELIZABETH WARREN,8
+Cache,Smithfield 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Smithfield 02,President,,Democrat,TULSI GABBARD,0
+Cache,Smithfield 02,President,,Democrat,AMY KLOBUCHAR,6
+Cache,Smithfield 02,President,,Democrat,DEVAL PATRICK,0
+Cache,Smithfield 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Smithfield 03,President,,Republican,ROBERT ARDINI,5
+Cache,Smithfield 03,President,,Republican,MATTHEW JOHN MATERN,10
+Cache,Smithfield 03,President,,Republican,BOB ELY,1
+Cache,Smithfield 03,President,,Republican,JOE WALSH,6
+Cache,Smithfield 03,President,,Republican,BILL WELD,24
+Cache,Smithfield 03,President,,Republican,WITHDRAWN,1
+Cache,Smithfield 03,President,,Republican,DONALD J. TRUMP,235
+Cache,Smithfield 03,President,,Democrat,JULIÁN CASTRO,0
+Cache,Smithfield 03,President,,Democrat,ANDREW YANG,2
+Cache,Smithfield 03,President,,Democrat,CORY BOOKER,0
+Cache,Smithfield 03,President,,Democrat,PETE BUTTIGIEG,3
+Cache,Smithfield 03,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Smithfield 03,President,,Democrat,MICHAEL R. BLOOMBERG,9
+Cache,Smithfield 03,President,,Democrat,WITHDRAWN,0
+Cache,Smithfield 03,President,,Democrat,JOSEPH R. BIDEN,9
+Cache,Smithfield 03,President,,Democrat,BERNIE SANDERS,16
+Cache,Smithfield 03,President,,Democrat,TOM STEYER,0
+Cache,Smithfield 03,President,,Democrat,ELIZABETH WARREN,8
+Cache,Smithfield 03,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Smithfield 03,President,,Democrat,TULSI GABBARD,1
+Cache,Smithfield 03,President,,Democrat,AMY KLOBUCHAR,6
+Cache,Smithfield 03,President,,Democrat,DEVAL PATRICK,0
+Cache,Smithfield 03,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Smithfield 04,President,,Republican,ROBERT ARDINI,1
+Cache,Smithfield 04,President,,Republican,MATTHEW JOHN MATERN,4
+Cache,Smithfield 04,President,,Republican,BOB ELY,0
+Cache,Smithfield 04,President,,Republican,JOE WALSH,6
+Cache,Smithfield 04,President,,Republican,BILL WELD,25
+Cache,Smithfield 04,President,,Republican,WITHDRAWN,7
+Cache,Smithfield 04,President,,Republican,DONALD J. TRUMP,257
+Cache,Smithfield 04,President,,Democrat,JULIÁN CASTRO,0
+Cache,Smithfield 04,President,,Democrat,ANDREW YANG,0
+Cache,Smithfield 04,President,,Democrat,CORY BOOKER,0
+Cache,Smithfield 04,President,,Democrat,PETE BUTTIGIEG,2
+Cache,Smithfield 04,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Smithfield 04,President,,Democrat,MICHAEL R. BLOOMBERG,8
+Cache,Smithfield 04,President,,Democrat,WITHDRAWN,0
+Cache,Smithfield 04,President,,Democrat,JOSEPH R. BIDEN,13
+Cache,Smithfield 04,President,,Democrat,BERNIE SANDERS,17
+Cache,Smithfield 04,President,,Democrat,TOM STEYER,0
+Cache,Smithfield 04,President,,Democrat,ELIZABETH WARREN,7
+Cache,Smithfield 04,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Smithfield 04,President,,Democrat,TULSI GABBARD,3
+Cache,Smithfield 04,President,,Democrat,AMY KLOBUCHAR,4
+Cache,Smithfield 04,President,,Democrat,DEVAL PATRICK,0
+Cache,Smithfield 04,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Smithfield 05,President,,Republican,ROBERT ARDINI,1
+Cache,Smithfield 05,President,,Republican,MATTHEW JOHN MATERN,7
+Cache,Smithfield 05,President,,Republican,BOB ELY,2
+Cache,Smithfield 05,President,,Republican,JOE WALSH,4
+Cache,Smithfield 05,President,,Republican,BILL WELD,24
+Cache,Smithfield 05,President,,Republican,WITHDRAWN,1
+Cache,Smithfield 05,President,,Republican,DONALD J. TRUMP,208
+Cache,Smithfield 05,President,,Democrat,JULIÁN CASTRO,0
+Cache,Smithfield 05,President,,Democrat,ANDREW YANG,2
+Cache,Smithfield 05,President,,Democrat,CORY BOOKER,0
+Cache,Smithfield 05,President,,Democrat,PETE BUTTIGIEG,6
+Cache,Smithfield 05,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Smithfield 05,President,,Democrat,MICHAEL R. BLOOMBERG,2
+Cache,Smithfield 05,President,,Democrat,WITHDRAWN,0
+Cache,Smithfield 05,President,,Democrat,JOSEPH R. BIDEN,9
+Cache,Smithfield 05,President,,Democrat,BERNIE SANDERS,22
+Cache,Smithfield 05,President,,Democrat,TOM STEYER,0
+Cache,Smithfield 05,President,,Democrat,ELIZABETH WARREN,5
+Cache,Smithfield 05,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Smithfield 05,President,,Democrat,TULSI GABBARD,0
+Cache,Smithfield 05,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Smithfield 05,President,,Democrat,DEVAL PATRICK,0
+Cache,Smithfield 05,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Smithfield 06,President,,Republican,ROBERT ARDINI,3
+Cache,Smithfield 06,President,,Republican,MATTHEW JOHN MATERN,4
+Cache,Smithfield 06,President,,Republican,BOB ELY,3
+Cache,Smithfield 06,President,,Republican,JOE WALSH,7
+Cache,Smithfield 06,President,,Republican,BILL WELD,10
+Cache,Smithfield 06,President,,Republican,WITHDRAWN,0
+Cache,Smithfield 06,President,,Republican,DONALD J. TRUMP,191
+Cache,Smithfield 06,President,,Democrat,JULIÁN CASTRO,0
+Cache,Smithfield 06,President,,Democrat,ANDREW YANG,0
+Cache,Smithfield 06,President,,Democrat,CORY BOOKER,0
+Cache,Smithfield 06,President,,Democrat,PETE BUTTIGIEG,5
+Cache,Smithfield 06,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Smithfield 06,President,,Democrat,MICHAEL R. BLOOMBERG,5
+Cache,Smithfield 06,President,,Democrat,WITHDRAWN,0
+Cache,Smithfield 06,President,,Democrat,JOSEPH R. BIDEN,11
+Cache,Smithfield 06,President,,Democrat,BERNIE SANDERS,9
+Cache,Smithfield 06,President,,Democrat,TOM STEYER,0
+Cache,Smithfield 06,President,,Democrat,ELIZABETH WARREN,11
+Cache,Smithfield 06,President,,Democrat,MARIANNE WILLIAMSON,1
+Cache,Smithfield 06,President,,Democrat,TULSI GABBARD,0
+Cache,Smithfield 06,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Smithfield 06,President,,Democrat,DEVAL PATRICK,0
+Cache,Smithfield 06,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Smithfield 07,President,,Republican,ROBERT ARDINI,2
+Cache,Smithfield 07,President,,Republican,MATTHEW JOHN MATERN,4
+Cache,Smithfield 07,President,,Republican,BOB ELY,1
+Cache,Smithfield 07,President,,Republican,JOE WALSH,8
+Cache,Smithfield 07,President,,Republican,BILL WELD,11
+Cache,Smithfield 07,President,,Republican,WITHDRAWN,2
+Cache,Smithfield 07,President,,Republican,DONALD J. TRUMP,253
+Cache,Smithfield 07,President,,Democrat,JULIÁN CASTRO,0
+Cache,Smithfield 07,President,,Democrat,ANDREW YANG,0
+Cache,Smithfield 07,President,,Democrat,CORY BOOKER,0
+Cache,Smithfield 07,President,,Democrat,PETE BUTTIGIEG,2
+Cache,Smithfield 07,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Smithfield 07,President,,Democrat,MICHAEL R. BLOOMBERG,3
+Cache,Smithfield 07,President,,Democrat,WITHDRAWN,0
+Cache,Smithfield 07,President,,Democrat,JOSEPH R. BIDEN,9
+Cache,Smithfield 07,President,,Democrat,BERNIE SANDERS,30
+Cache,Smithfield 07,President,,Democrat,TOM STEYER,1
+Cache,Smithfield 07,President,,Democrat,ELIZABETH WARREN,8
+Cache,Smithfield 07,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Smithfield 07,President,,Democrat,TULSI GABBARD,0
+Cache,Smithfield 07,President,,Democrat,AMY KLOBUCHAR,5
+Cache,Smithfield 07,President,,Democrat,DEVAL PATRICK,0
+Cache,Smithfield 07,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Trenton,President,,Republican,ROBERT ARDINI,0
+Cache,Trenton,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Trenton,President,,Republican,BOB ELY,0
+Cache,Trenton,President,,Republican,JOE WALSH,3
+Cache,Trenton,President,,Republican,BILL WELD,2
+Cache,Trenton,President,,Republican,WITHDRAWN,0
+Cache,Trenton,President,,Republican,DONALD J. TRUMP,74
+Cache,Trenton,President,,Democrat,JULIÁN CASTRO,0
+Cache,Trenton,President,,Democrat,ANDREW YANG,0
+Cache,Trenton,President,,Democrat,CORY BOOKER,0
+Cache,Trenton,President,,Democrat,PETE BUTTIGIEG,0
+Cache,Trenton,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Trenton,President,,Democrat,MICHAEL R. BLOOMBERG,1
+Cache,Trenton,President,,Democrat,WITHDRAWN,0
+Cache,Trenton,President,,Democrat,JOSEPH R. BIDEN,1
+Cache,Trenton,President,,Democrat,BERNIE SANDERS,3
+Cache,Trenton,President,,Democrat,TOM STEYER,0
+Cache,Trenton,President,,Democrat,ELIZABETH WARREN,1
+Cache,Trenton,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Trenton,President,,Democrat,TULSI GABBARD,0
+Cache,Trenton,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Trenton,President,,Democrat,DEVAL PATRICK,0
+Cache,Trenton,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Wellsville 01,President,,Republican,ROBERT ARDINI,1
+Cache,Wellsville 01,President,,Republican,MATTHEW JOHN MATERN,0
+Cache,Wellsville 01,President,,Republican,BOB ELY,0
+Cache,Wellsville 01,President,,Republican,JOE WALSH,2
+Cache,Wellsville 01,President,,Republican,BILL WELD,6
+Cache,Wellsville 01,President,,Republican,WITHDRAWN,1
+Cache,Wellsville 01,President,,Republican,DONALD J. TRUMP,152
+Cache,Wellsville 01,President,,Democrat,JULIÁN CASTRO,0
+Cache,Wellsville 01,President,,Democrat,ANDREW YANG,0
+Cache,Wellsville 01,President,,Democrat,CORY BOOKER,0
+Cache,Wellsville 01,President,,Democrat,PETE BUTTIGIEG,0
+Cache,Wellsville 01,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Wellsville 01,President,,Democrat,MICHAEL R. BLOOMBERG,0
+Cache,Wellsville 01,President,,Democrat,WITHDRAWN,0
+Cache,Wellsville 01,President,,Democrat,JOSEPH R. BIDEN,4
+Cache,Wellsville 01,President,,Democrat,BERNIE SANDERS,4
+Cache,Wellsville 01,President,,Democrat,TOM STEYER,0
+Cache,Wellsville 01,President,,Democrat,ELIZABETH WARREN,4
+Cache,Wellsville 01,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Wellsville 01,President,,Democrat,TULSI GABBARD,0
+Cache,Wellsville 01,President,,Democrat,AMY KLOBUCHAR,1
+Cache,Wellsville 01,President,,Democrat,DEVAL PATRICK,0
+Cache,Wellsville 01,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Wellsville 02,President,,Republican,ROBERT ARDINI,4
+Cache,Wellsville 02,President,,Republican,MATTHEW JOHN MATERN,1
+Cache,Wellsville 02,President,,Republican,BOB ELY,0
+Cache,Wellsville 02,President,,Republican,JOE WALSH,3
+Cache,Wellsville 02,President,,Republican,BILL WELD,10
+Cache,Wellsville 02,President,,Republican,WITHDRAWN,2
+Cache,Wellsville 02,President,,Republican,DONALD J. TRUMP,220
+Cache,Wellsville 02,President,,Democrat,JULIÁN CASTRO,0
+Cache,Wellsville 02,President,,Democrat,ANDREW YANG,0
+Cache,Wellsville 02,President,,Democrat,CORY BOOKER,0
+Cache,Wellsville 02,President,,Democrat,PETE BUTTIGIEG,4
+Cache,Wellsville 02,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Wellsville 02,President,,Democrat,MICHAEL R. BLOOMBERG,10
+Cache,Wellsville 02,President,,Democrat,WITHDRAWN,0
+Cache,Wellsville 02,President,,Democrat,JOSEPH R. BIDEN,11
+Cache,Wellsville 02,President,,Democrat,BERNIE SANDERS,7
+Cache,Wellsville 02,President,,Democrat,TOM STEYER,0
+Cache,Wellsville 02,President,,Democrat,ELIZABETH WARREN,3
+Cache,Wellsville 02,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Wellsville 02,President,,Democrat,TULSI GABBARD,0
+Cache,Wellsville 02,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Wellsville 02,President,,Democrat,DEVAL PATRICK,0
+Cache,Wellsville 02,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Wellsville 03,President,,Republican,ROBERT ARDINI,2
+Cache,Wellsville 03,President,,Republican,MATTHEW JOHN MATERN,5
+Cache,Wellsville 03,President,,Republican,BOB ELY,0
+Cache,Wellsville 03,President,,Republican,JOE WALSH,3
+Cache,Wellsville 03,President,,Republican,BILL WELD,2
+Cache,Wellsville 03,President,,Republican,WITHDRAWN,2
+Cache,Wellsville 03,President,,Republican,DONALD J. TRUMP,144
+Cache,Wellsville 03,President,,Democrat,JULIÁN CASTRO,0
+Cache,Wellsville 03,President,,Democrat,ANDREW YANG,0
+Cache,Wellsville 03,President,,Democrat,CORY BOOKER,0
+Cache,Wellsville 03,President,,Democrat,PETE BUTTIGIEG,0
+Cache,Wellsville 03,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Wellsville 03,President,,Democrat,MICHAEL R. BLOOMBERG,8
+Cache,Wellsville 03,President,,Democrat,WITHDRAWN,0
+Cache,Wellsville 03,President,,Democrat,JOSEPH R. BIDEN,3
+Cache,Wellsville 03,President,,Democrat,BERNIE SANDERS,10
+Cache,Wellsville 03,President,,Democrat,TOM STEYER,0
+Cache,Wellsville 03,President,,Democrat,ELIZABETH WARREN,1
+Cache,Wellsville 03,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Wellsville 03,President,,Democrat,TULSI GABBARD,0
+Cache,Wellsville 03,President,,Democrat,AMY KLOBUCHAR,0
+Cache,Wellsville 03,President,,Democrat,DEVAL PATRICK,0
+Cache,Wellsville 03,President,,Democrat,ROQUE DE LA FUENTE,0
+Cache,Wellsville 04,President,,Republican,ROBERT ARDINI,1
+Cache,Wellsville 04,President,,Republican,MATTHEW JOHN MATERN,3
+Cache,Wellsville 04,President,,Republican,BOB ELY,0
+Cache,Wellsville 04,President,,Republican,JOE WALSH,1
+Cache,Wellsville 04,President,,Republican,BILL WELD,7
+Cache,Wellsville 04,President,,Republican,WITHDRAWN,0
+Cache,Wellsville 04,President,,Republican,DONALD J. TRUMP,220
+Cache,Wellsville 04,President,,Democrat,JULIÁN CASTRO,0
+Cache,Wellsville 04,President,,Democrat,ANDREW YANG,0
+Cache,Wellsville 04,President,,Democrat,CORY BOOKER,0
+Cache,Wellsville 04,President,,Democrat,PETE BUTTIGIEG,6
+Cache,Wellsville 04,President,,Democrat,NATHAN BLOXHAM,0
+Cache,Wellsville 04,President,,Democrat,MICHAEL R. BLOOMBERG,8
+Cache,Wellsville 04,President,,Democrat,WITHDRAWN,0
+Cache,Wellsville 04,President,,Democrat,JOSEPH R. BIDEN,10
+Cache,Wellsville 04,President,,Democrat,BERNIE SANDERS,8
+Cache,Wellsville 04,President,,Democrat,TOM STEYER,0
+Cache,Wellsville 04,President,,Democrat,ELIZABETH WARREN,3
+Cache,Wellsville 04,President,,Democrat,MARIANNE WILLIAMSON,0
+Cache,Wellsville 04,President,,Democrat,TULSI GABBARD,1
+Cache,Wellsville 04,President,,Democrat,AMY KLOBUCHAR,3
+Cache,Wellsville 04,President,,Democrat,DEVAL PATRICK,0
+Cache,Wellsville 04,President,,Democrat,ROQUE DE LA FUENTE,0
