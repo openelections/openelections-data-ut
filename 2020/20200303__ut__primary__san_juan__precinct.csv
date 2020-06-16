@@ -1,0 +1,530 @@
+county,precinct,office,district,party,candidate,votes
+San Juan,1,President,,Democrat,JULIAN CASTRO,0
+San Juan,2GD,President,,Democrat,JULIAN CASTRO,0
+San Juan,2,President,,Democrat,JULIAN CASTRO,0
+San Juan,2MC,President,,Democrat,JULIAN CASTRO,1
+San Juan,3,President,,Democrat,JULIAN CASTRO,2
+San Juan,4,President,,Democrat,JULIAN CASTRO,0
+San Juan,4BD,President,,Democrat,JULIAN CASTRO,0
+San Juan,5,President,,Democrat,JULIAN CASTRO,0
+San Juan,5BD,President,,Democrat,JULIAN CASTRO,0
+San Juan,6,President,,Democrat,JULIAN CASTRO,0
+San Juan,6BD,President,,Democrat,JULIAN CASTRO,0
+San Juan,7BD,President,,Democrat,JULIAN CASTRO,0
+San Juan,7BD2,President,,Democrat,JULIAN CASTRO,0
+San Juan,8,President,,Democrat,JULIAN CASTRO,0
+San Juan,8BD,President,,Democrat,JULIAN CASTRO,0
+San Juan,8BF,President,,Democrat,JULIAN CASTRO,0
+San Juan,9,President,,Democrat,JULIAN CASTRO,0
+San Juan,10,President,,Democrat,JULIAN CASTRO,0
+San Juan,10BF,President,,Democrat,JULIAN CASTRO,0
+San Juan,11,President,,Democrat,JULIAN CASTRO,2
+San Juan,11BF,President,,Democrat,JULIAN CASTRO,0
+San Juan,12BD,President,,Democrat,JULIAN CASTRO,0
+San Juan,12,President,,Democrat,JULIAN CASTRO,0
+San Juan,1,President,,Democrat,ANDREW YANG,0
+San Juan,2GD,President,,Democrat,ANDREW YANG,0
+San Juan,2,President,,Democrat,ANDREW YANG,0
+San Juan,2MC,President,,Democrat,ANDREW YANG,1
+San Juan,3,President,,Democrat,ANDREW YANG,3
+San Juan,4,President,,Democrat,ANDREW YANG,0
+San Juan,4BD,President,,Democrat,ANDREW YANG,0
+San Juan,5,President,,Democrat,ANDREW YANG,0
+San Juan,5BD,President,,Democrat,ANDREW YANG,1
+San Juan,6,President,,Democrat,ANDREW YANG,0
+San Juan,6BD,President,,Democrat,ANDREW YANG,0
+San Juan,7BD,President,,Democrat,ANDREW YANG,0
+San Juan,7BD2,President,,Democrat,ANDREW YANG,0
+San Juan,8,President,,Democrat,ANDREW YANG,1
+San Juan,8BD,President,,Democrat,ANDREW YANG,0
+San Juan,8BF,President,,Democrat,ANDREW YANG,0
+San Juan,9,President,,Democrat,ANDREW YANG,0
+San Juan,10,President,,Democrat,ANDREW YANG,0
+San Juan,10BF,President,,Democrat,ANDREW YANG,0
+San Juan,11,President,,Democrat,ANDREW YANG,12
+San Juan,11BF,President,,Democrat,ANDREW YANG,0
+San Juan,12BD,President,,Democrat,ANDREW YANG,1
+San Juan,12,President,,Democrat,ANDREW YANG,0
+San Juan,1,President,,Democrat,CORY BOOKER,0
+San Juan,2GD,President,,Democrat,CORY BOOKER,0
+San Juan,2,President,,Democrat,CORY BOOKER,0
+San Juan,2MC,President,,Democrat,CORY BOOKER,1
+San Juan,3,President,,Democrat,CORY BOOKER,1
+San Juan,4,President,,Democrat,CORY BOOKER,0
+San Juan,4BD,President,,Democrat,CORY BOOKER,0
+San Juan,5,President,,Democrat,CORY BOOKER,0
+San Juan,5BD,President,,Democrat,CORY BOOKER,0
+San Juan,6,President,,Democrat,CORY BOOKER,0
+San Juan,6BD,President,,Democrat,CORY BOOKER,0
+San Juan,7BD,President,,Democrat,CORY BOOKER,0
+San Juan,7BD2,President,,Democrat,CORY BOOKER,0
+San Juan,8,President,,Democrat,CORY BOOKER,0
+San Juan,8BD,President,,Democrat,CORY BOOKER,0
+San Juan,8BF,President,,Democrat,CORY BOOKER,0
+San Juan,9,President,,Democrat,CORY BOOKER,0
+San Juan,10,President,,Democrat,CORY BOOKER,0
+San Juan,10BF,President,,Democrat,CORY BOOKER,0
+San Juan,11,President,,Democrat,CORY BOOKER,2
+San Juan,11BF,President,,Democrat,CORY BOOKER,0
+San Juan,12BD,President,,Democrat,CORY BOOKER,1
+San Juan,12,President,,Democrat,CORY BOOKER,0
+San Juan,1,President,,Democrat,PETE BUTTIGIEG,2
+San Juan,2GD,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,2,President,,Democrat,PETE BUTTIGIEG,6
+San Juan,2MC,President,,Democrat,PETE BUTTIGIEG,1
+San Juan,3,President,,Democrat,PETE BUTTIGIEG,15
+San Juan,4,President,,Democrat,PETE BUTTIGIEG,2
+San Juan,4BD,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,5,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,5BD,President,,Democrat,PETE BUTTIGIEG,3
+San Juan,6,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,6BD,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,7BD,President,,Democrat,PETE BUTTIGIEG,1
+San Juan,7BD2,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,8,President,,Democrat,PETE BUTTIGIEG,9
+San Juan,8BD,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,8BF,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,9,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,10,President,,Democrat,PETE BUTTIGIEG,3
+San Juan,10BF,President,,Democrat,PETE BUTTIGIEG,2
+San Juan,11,President,,Democrat,PETE BUTTIGIEG,8
+San Juan,11BF,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,12BD,President,,Democrat,PETE BUTTIGIEG,2
+San Juan,12,President,,Democrat,PETE BUTTIGIEG,0
+San Juan,1,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,2GD,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,2,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,2MC,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,3,President,,Democrat,NATHAN BLOXHAM,2
+San Juan,4,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,4BD,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,5,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,5BD,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,6,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,6BD,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,7BD,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,7BD2,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,8,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,8BD,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,8BF,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,9,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,10,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,10BF,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,11,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,11BF,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,12BD,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,12,President,,Democrat,NATHAN BLOXHAM,0
+San Juan,1,President,,Democrat,MICHAEL BLOOMBERG,4
+San Juan,2GD,President,,Democrat,MICHAEL BLOOMBERG,0
+San Juan,2,President,,Democrat,MICHAEL BLOOMBERG,5
+San Juan,2MC,President,,Democrat,MICHAEL BLOOMBERG,12
+San Juan,3,President,,Democrat,MICHAEL BLOOMBERG,50
+San Juan,4,President,,Democrat,MICHAEL BLOOMBERG,0
+San Juan,4BD,President,,Democrat,MICHAEL BLOOMBERG,0
+San Juan,5,President,,Democrat,MICHAEL BLOOMBERG,0
+San Juan,5BD,President,,Democrat,MICHAEL BLOOMBERG,5
+San Juan,6,President,,Democrat,MICHAEL BLOOMBERG,1
+San Juan,6BD,President,,Democrat,MICHAEL BLOOMBERG,0
+San Juan,7BD,President,,Democrat,MICHAEL BLOOMBERG,6
+San Juan,7BD2,President,,Democrat,MICHAEL BLOOMBERG,0
+San Juan,8,President,,Democrat,MICHAEL BLOOMBERG,34
+San Juan,8BD,President,,Democrat,MICHAEL BLOOMBERG,1
+San Juan,8BF,President,,Democrat,MICHAEL BLOOMBERG,0
+San Juan,9,President,,Democrat,MICHAEL BLOOMBERG,2
+San Juan,10,President,,Democrat,MICHAEL BLOOMBERG,11
+San Juan,10BF,President,,Democrat,MICHAEL BLOOMBERG,7
+San Juan,11,President,,Democrat,MICHAEL BLOOMBERG,52
+San Juan,11BF,President,,Democrat,MICHAEL BLOOMBERG,0
+San Juan,12BD,President,,Democrat,MICHAEL BLOOMBERG,7
+San Juan,12,President,,Democrat,MICHAEL BLOOMBERG,0
+San Juan,1,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,2GD,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,2,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,2MC,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,3,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,4,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,4BD,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,5,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,5BD,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,6,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,6BD,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,7BD,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,7BD2,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,8,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,8BD,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,8BF,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,9,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,10,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,10BF,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,11,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,11BF,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,12BD,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,12,President,,Democrat,MICHAEL BENNET (WITHDRAWN),0
+San Juan,1,President,,Democrat,JOSEPH R. BIDEN,7
+San Juan,2GD,President,,Democrat,JOSEPH R. BIDEN,0
+San Juan,2,President,,Democrat,JOSEPH R. BIDEN,10
+San Juan,2MC,President,,Democrat,JOSEPH R. BIDEN,25
+San Juan,3,President,,Democrat,JOSEPH R. BIDEN,60
+San Juan,4,President,,Democrat,JOSEPH R. BIDEN,0
+San Juan,4BD,President,,Democrat,JOSEPH R. BIDEN,0
+San Juan,5,President,,Democrat,JOSEPH R. BIDEN,0
+San Juan,5BD,President,,Democrat,JOSEPH R. BIDEN,2
+San Juan,6,President,,Democrat,JOSEPH R. BIDEN,0
+San Juan,6BD,President,,Democrat,JOSEPH R. BIDEN,0
+San Juan,7BD,President,,Democrat,JOSEPH R. BIDEN,3
+San Juan,7BD2,President,,Democrat,JOSEPH R. BIDEN,0
+San Juan,8,President,,Democrat,JOSEPH R. BIDEN,25
+San Juan,8BD,President,,Democrat,JOSEPH R. BIDEN,0
+San Juan,8BF,President,,Democrat,JOSEPH R. BIDEN,0
+San Juan,9,President,,Democrat,JOSEPH R. BIDEN,1
+San Juan,10,President,,Democrat,JOSEPH R. BIDEN,7
+San Juan,10BF,President,,Democrat,JOSEPH R. BIDEN,13
+San Juan,11,President,,Democrat,JOSEPH R. BIDEN,52
+San Juan,11BF,President,,Democrat,JOSEPH R. BIDEN,0
+San Juan,12BD,President,,Democrat,JOSEPH R. BIDEN,2
+San Juan,12,President,,Democrat,JOSEPH R. BIDEN,3
+San Juan,1,President,,Democrat,BERNIE SANDERS,14
+San Juan,2GD,President,,Democrat,BERNIE SANDERS,0
+San Juan,2,President,,Democrat,BERNIE SANDERS,15
+San Juan,2MC,President,,Democrat,BERNIE SANDERS,15
+San Juan,3,President,,Democrat,BERNIE SANDERS,135
+San Juan,4,President,,Democrat,BERNIE SANDERS,1
+San Juan,4BD,President,,Democrat,BERNIE SANDERS,0
+San Juan,5,President,,Democrat,BERNIE SANDERS,0
+San Juan,5BD,President,,Democrat,BERNIE SANDERS,9
+San Juan,6,President,,Democrat,BERNIE SANDERS,2
+San Juan,6BD,President,,Democrat,BERNIE SANDERS,0
+San Juan,7BD,President,,Democrat,BERNIE SANDERS,4
+San Juan,7BD2,President,,Democrat,BERNIE SANDERS,0
+San Juan,8,President,,Democrat,BERNIE SANDERS,72
+San Juan,8BD,President,,Democrat,BERNIE SANDERS,0
+San Juan,8BF,President,,Democrat,BERNIE SANDERS,0
+San Juan,9,President,,Democrat,BERNIE SANDERS,3
+San Juan,10,President,,Democrat,BERNIE SANDERS,21
+San Juan,10BF,President,,Democrat,BERNIE SANDERS,29
+San Juan,11,President,,Democrat,BERNIE SANDERS,162
+San Juan,11BF,President,,Democrat,BERNIE SANDERS,0
+San Juan,12BD,President,,Democrat,BERNIE SANDERS,13
+San Juan,12,President,,Democrat,BERNIE SANDERS,0
+San Juan,1,President,,Democrat,TOM STEYER,1
+San Juan,2GD,President,,Democrat,TOM STEYER,0
+San Juan,2,President,,Democrat,TOM STEYER,0
+San Juan,2MC,President,,Democrat,TOM STEYER,0
+San Juan,3,President,,Democrat,TOM STEYER,1
+San Juan,4,President,,Democrat,TOM STEYER,0
+San Juan,4BD,President,,Democrat,TOM STEYER,0
+San Juan,5,President,,Democrat,TOM STEYER,0
+San Juan,5BD,President,,Democrat,TOM STEYER,0
+San Juan,6,President,,Democrat,TOM STEYER,1
+San Juan,6BD,President,,Democrat,TOM STEYER,0
+San Juan,7BD,President,,Democrat,TOM STEYER,0
+San Juan,7BD2,President,,Democrat,TOM STEYER,0
+San Juan,8,President,,Democrat,TOM STEYER,5
+San Juan,8BD,President,,Democrat,TOM STEYER,0
+San Juan,8BF,President,,Democrat,TOM STEYER,0
+San Juan,9,President,,Democrat,TOM STEYER,0
+San Juan,10,President,,Democrat,TOM STEYER,0
+San Juan,10BF,President,,Democrat,TOM STEYER,0
+San Juan,11,President,,Democrat,TOM STEYER,3
+San Juan,11BF,President,,Democrat,TOM STEYER,0
+San Juan,12BD,President,,Democrat,TOM STEYER,0
+San Juan,12,President,,Democrat,TOM STEYER,0
+San Juan,1,President,,Democrat,ELIZABETH WARREN,8
+San Juan,2GD,President,,Democrat,ELIZABETH WARREN,0
+San Juan,2,President,,Democrat,ELIZABETH WARREN,18
+San Juan,2MC,President,,Democrat,ELIZABETH WARREN,5
+San Juan,3,President,,Democrat,ELIZABETH WARREN,20
+San Juan,4,President,,Democrat,ELIZABETH WARREN,0
+San Juan,4BD,President,,Democrat,ELIZABETH WARREN,0
+San Juan,5,President,,Democrat,ELIZABETH WARREN,0
+San Juan,5BD,President,,Democrat,ELIZABETH WARREN,0
+San Juan,6,President,,Democrat,ELIZABETH WARREN,0
+San Juan,6BD,President,,Democrat,ELIZABETH WARREN,0
+San Juan,7BD,President,,Democrat,ELIZABETH WARREN,2
+San Juan,7BD2,President,,Democrat,ELIZABETH WARREN,0
+San Juan,8,President,,Democrat,ELIZABETH WARREN,6
+San Juan,8BD,President,,Democrat,ELIZABETH WARREN,0
+San Juan,8BF,President,,Democrat,ELIZABETH WARREN,0
+San Juan,9,President,,Democrat,ELIZABETH WARREN,0
+San Juan,10,President,,Democrat,ELIZABETH WARREN,2
+San Juan,10BF,President,,Democrat,ELIZABETH WARREN,14
+San Juan,11,President,,Democrat,ELIZABETH WARREN,28
+San Juan,11BF,President,,Democrat,ELIZABETH WARREN,0
+San Juan,12BD,President,,Democrat,ELIZABETH WARREN,4
+San Juan,12,President,,Democrat,ELIZABETH WARREN,0
+San Juan,1,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,2GD,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,2,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,2MC,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,3,President,,Democrat,MARIANNE WILLIAMSON,1
+San Juan,4,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,4BD,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,5,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,5BD,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,6,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,6BD,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,7BD,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,7BD2,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,8,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,8BD,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,8BF,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,9,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,10,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,10BF,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,11,President,,Democrat,MARIANNE WILLIAMSON,3
+San Juan,11BF,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,12BD,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,12,President,,Democrat,MARIANNE WILLIAMSON,0
+San Juan,1,President,,Democrat,TULSI GABBARD,0
+San Juan,2GD,President,,Democrat,TULSI GABBARD,0
+San Juan,2,President,,Democrat,TULSI GABBARD,0
+San Juan,2MC,President,,Democrat,TULSI GABBARD,0
+San Juan,3,President,,Democrat,TULSI GABBARD,1
+San Juan,4,President,,Democrat,TULSI GABBARD,0
+San Juan,4BD,President,,Democrat,TULSI GABBARD,0
+San Juan,5,President,,Democrat,TULSI GABBARD,0
+San Juan,5BD,President,,Democrat,TULSI GABBARD,1
+San Juan,6,President,,Democrat,TULSI GABBARD,0
+San Juan,6BD,President,,Democrat,TULSI GABBARD,0
+San Juan,7BD,President,,Democrat,TULSI GABBARD,0
+San Juan,7BD2,President,,Democrat,TULSI GABBARD,0
+San Juan,8,President,,Democrat,TULSI GABBARD,0
+San Juan,8BD,President,,Democrat,TULSI GABBARD,0
+San Juan,8BF,President,,Democrat,TULSI GABBARD,0
+San Juan,9,President,,Democrat,TULSI GABBARD,0
+San Juan,10,President,,Democrat,TULSI GABBARD,0
+San Juan,10BF,President,,Democrat,TULSI GABBARD,1
+San Juan,11,President,,Democrat,TULSI GABBARD,2
+San Juan,11BF,President,,Democrat,TULSI GABBARD,0
+San Juan,12BD,President,,Democrat,TULSI GABBARD,0
+San Juan,12,President,,Democrat,TULSI GABBARD,0
+San Juan,1,President,,Democrat,AMY KLOBUCHAR,3
+San Juan,2GD,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,2,President,,Democrat,AMY KLOBUCHAR,5
+San Juan,2MC,President,,Democrat,AMY KLOBUCHAR,1
+San Juan,3,President,,Democrat,AMY KLOBUCHAR,5
+San Juan,4,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,4BD,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,5,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,5BD,President,,Democrat,AMY KLOBUCHAR,3
+San Juan,6,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,6BD,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,7BD,President,,Democrat,AMY KLOBUCHAR,1
+San Juan,7BD2,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,8,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,8BD,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,8BF,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,9,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,10,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,10BF,President,,Democrat,AMY KLOBUCHAR,10
+San Juan,11,President,,Democrat,AMY KLOBUCHAR,1
+San Juan,11BF,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,12BD,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,12,President,,Democrat,AMY KLOBUCHAR,0
+San Juan,1,President,,Democrat,DEVAL PATRICK,0
+San Juan,2GD,President,,Democrat,DEVAL PATRICK,0
+San Juan,2,President,,Democrat,DEVAL PATRICK,0
+San Juan,2MC,President,,Democrat,DEVAL PATRICK,0
+San Juan,3,President,,Democrat,DEVAL PATRICK,0
+San Juan,4,President,,Democrat,DEVAL PATRICK,0
+San Juan,4BD,President,,Democrat,DEVAL PATRICK,0
+San Juan,5,President,,Democrat,DEVAL PATRICK,0
+San Juan,5BD,President,,Democrat,DEVAL PATRICK,0
+San Juan,6,President,,Democrat,DEVAL PATRICK,0
+San Juan,6BD,President,,Democrat,DEVAL PATRICK,0
+San Juan,7BD,President,,Democrat,DEVAL PATRICK,0
+San Juan,7BD2,President,,Democrat,DEVAL PATRICK,0
+San Juan,8,President,,Democrat,DEVAL PATRICK,0
+San Juan,8BD,President,,Democrat,DEVAL PATRICK,0
+San Juan,8BF,President,,Democrat,DEVAL PATRICK,0
+San Juan,9,President,,Democrat,DEVAL PATRICK,0
+San Juan,10,President,,Democrat,DEVAL PATRICK,0
+San Juan,10BF,President,,Democrat,DEVAL PATRICK,0
+San Juan,11,President,,Democrat,DEVAL PATRICK,2
+San Juan,11BF,President,,Democrat,DEVAL PATRICK,0
+San Juan,12BD,President,,Democrat,DEVAL PATRICK,0
+San Juan,12,President,,Democrat,DEVAL PATRICK,0
+San Juan,1,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,2GD,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,2,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,2MC,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,3,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,4,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,4BD,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,5,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,5BD,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,6,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,6BD,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,7BD,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,7BD2,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,8,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,8BD,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,8BF,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,9,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,10,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,10BF,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,11,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,11BF,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,12BD,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,12,President,,Democrat,ROQUE DE LA FUENTE,0
+San Juan,1,President,,Republican,ROBERT ARDINI,0
+San Juan,2GD,President,,Republican,ROBERT ARDINI,0
+San Juan,2,President,,Republican,ROBERT ARDINI,3
+San Juan,2MC,President,,Republican,ROBERT ARDINI,4
+San Juan,3,President,,Republican,ROBERT ARDINI,0
+San Juan,4,President,,Republican,ROBERT ARDINI,0
+San Juan,4BD,President,,Republican,ROBERT ARDINI,0
+San Juan,5,President,,Republican,ROBERT ARDINI,0
+San Juan,5BD,President,,Republican,ROBERT ARDINI,3
+San Juan,6,President,,Republican,ROBERT ARDINI,0
+San Juan,6BD,President,,Republican,ROBERT ARDINI,0
+San Juan,7BD,President,,Republican,ROBERT ARDINI,0
+San Juan,7BD2,President,,Republican,ROBERT ARDINI,0
+San Juan,8,President,,Republican,ROBERT ARDINI,1
+San Juan,8BD,President,,Republican,ROBERT ARDINI,0
+San Juan,8BF,President,,Republican,ROBERT ARDINI,0
+San Juan,9,President,,Republican,ROBERT ARDINI,0
+San Juan,10,President,,Republican,ROBERT ARDINI,0
+San Juan,10BF,President,,Republican,ROBERT ARDINI,1
+San Juan,11,President,,Republican,ROBERT ARDINI,2
+San Juan,11BF,President,,Republican,ROBERT ARDINI,0
+San Juan,12BD,President,,Republican,ROBERT ARDINI,1
+San Juan,12,President,,Republican,ROBERT ARDINI,1
+San Juan,1,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,2GD,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,2,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,2MC,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,3,President,,Republican,MATTHEW JOHN MATERN,3
+San Juan,4,President,,Republican,MATTHEW JOHN MATERN,2
+San Juan,4BD,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,5,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,5BD,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,6,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,6BD,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,7BD,President,,Republican,MATTHEW JOHN MATERN,1
+San Juan,7BD2,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,8,President,,Republican,MATTHEW JOHN MATERN,1
+San Juan,8BD,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,8BF,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,9,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,10,President,,Republican,MATTHEW JOHN MATERN,1
+San Juan,10BF,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,11,President,,Republican,MATTHEW JOHN MATERN,4
+San Juan,11BF,President,,Republican,MATTHEW JOHN MATERN,1
+San Juan,12BD,President,,Republican,MATTHEW JOHN MATERN,2
+San Juan,12,President,,Republican,MATTHEW JOHN MATERN,0
+San Juan,1,President,,Republican,BOB ELY,0
+San Juan,2GD,President,,Republican,BOB ELY,0
+San Juan,2,President,,Republican,BOB ELY,0
+San Juan,2MC,President,,Republican,BOB ELY,0
+San Juan,3,President,,Republican,BOB ELY,0
+San Juan,4,President,,Republican,BOB ELY,0
+San Juan,4BD,President,,Republican,BOB ELY,0
+San Juan,5,President,,Republican,BOB ELY,0
+San Juan,5BD,President,,Republican,BOB ELY,3
+San Juan,6,President,,Republican,BOB ELY,0
+San Juan,6BD,President,,Republican,BOB ELY,0
+San Juan,7BD,President,,Republican,BOB ELY,2
+San Juan,7BD2,President,,Republican,BOB ELY,0
+San Juan,8,President,,Republican,BOB ELY,0
+San Juan,8BD,President,,Republican,BOB ELY,0
+San Juan,8BF,President,,Republican,BOB ELY,0
+San Juan,9,President,,Republican,BOB ELY,0
+San Juan,10,President,,Republican,BOB ELY,0
+San Juan,10BF,President,,Republican,BOB ELY,0
+San Juan,11,President,,Republican,BOB ELY,0
+San Juan,11BF,President,,Republican,BOB ELY,0
+San Juan,12BD,President,,Republican,BOB ELY,0
+San Juan,12,President,,Republican,BOB ELY,0
+San Juan,1,President,,Republican,JOE WALSH,0
+San Juan,2GD,President,,Republican,JOE WALSH,0
+San Juan,2,President,,Republican,JOE WALSH,3
+San Juan,2MC,President,,Republican,JOE WALSH,9
+San Juan,3,President,,Republican,JOE WALSH,1
+San Juan,4,President,,Republican,JOE WALSH,0
+San Juan,4BD,President,,Republican,JOE WALSH,0
+San Juan,5,President,,Republican,JOE WALSH,0
+San Juan,5BD,President,,Republican,JOE WALSH,1
+San Juan,6,President,,Republican,JOE WALSH,3
+San Juan,6BD,President,,Republican,JOE WALSH,0
+San Juan,7BD,President,,Republican,JOE WALSH,4
+San Juan,7BD2,President,,Republican,JOE WALSH,0
+San Juan,8,President,,Republican,JOE WALSH,2
+San Juan,8BD,President,,Republican,JOE WALSH,0
+San Juan,8BF,President,,Republican,JOE WALSH,0
+San Juan,9,President,,Republican,JOE WALSH,0
+San Juan,10,President,,Republican,JOE WALSH,1
+San Juan,10BF,President,,Republican,JOE WALSH,0
+San Juan,11,President,,Republican,JOE WALSH,8
+San Juan,11BF,President,,Republican,JOE WALSH,0
+San Juan,12BD,President,,Republican,JOE WALSH,3
+San Juan,12,President,,Republican,JOE WALSH,0
+San Juan,1,President,,Republican,BILL WELD,2
+San Juan,2GD,President,,Republican,BILL WELD,0
+San Juan,2,President,,Republican,BILL WELD,4
+San Juan,2MC,President,,Republican,BILL WELD,13
+San Juan,3,President,,Republican,BILL WELD,2
+San Juan,4,President,,Republican,BILL WELD,0
+San Juan,4BD,President,,Republican,BILL WELD,0
+San Juan,5,President,,Republican,BILL WELD,0
+San Juan,5BD,President,,Republican,BILL WELD,4
+San Juan,6,President,,Republican,BILL WELD,0
+San Juan,6BD,President,,Republican,BILL WELD,0
+San Juan,7BD,President,,Republican,BILL WELD,3
+San Juan,7BD2,President,,Republican,BILL WELD,0
+San Juan,8,President,,Republican,BILL WELD,3
+San Juan,8BD,President,,Republican,BILL WELD,0
+San Juan,8BF,President,,Republican,BILL WELD,0
+San Juan,9,President,,Republican,BILL WELD,0
+San Juan,10,President,,Republican,BILL WELD,0
+San Juan,10BF,President,,Republican,BILL WELD,2
+San Juan,11,President,,Republican,BILL WELD,0
+San Juan,11BF,President,,Republican,BILL WELD,0
+San Juan,12BD,President,,Republican,BILL WELD,12
+San Juan,12,President,,Republican,BILL WELD,0
+San Juan,1,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,2GD,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,2,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,2MC,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,3,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,4,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,4BD,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,5,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,5BD,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,6,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,6BD,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,7BD,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,7BD2,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,8,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,8BD,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,8BF,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,9,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,10,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,10BF,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,11,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,11BF,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,12BD,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,12,President,,Republican,"ROQUE ""ROCKY"" DE LA FUENTE",0
+San Juan,1,President,,Republican,DONALD J. TRUMP,110
+San Juan,2GD,President,,Republican,DONALD J. TRUMP,1
+San Juan,2,President,,Republican,DONALD J. TRUMP,147
+San Juan,2MC,President,,Republican,DONALD J. TRUMP,385
+San Juan,3,President,,Republican,DONALD J. TRUMP,111
+San Juan,4,President,,Republican,DONALD J. TRUMP,105
+San Juan,4BD,President,,Republican,DONALD J. TRUMP,0
+San Juan,5,President,,Republican,DONALD J. TRUMP,2
+San Juan,5BD,President,,Republican,DONALD J. TRUMP,228
+San Juan,6,President,,Republican,DONALD J. TRUMP,28
+San Juan,6BD,President,,Republican,DONALD J. TRUMP,2
+San Juan,7BD,President,,Republican,DONALD J. TRUMP,196
+San Juan,7BD2,President,,Republican,DONALD J. TRUMP,3
+San Juan,8,President,,Republican,DONALD J. TRUMP,131
+San Juan,8BD,President,,Republican,DONALD J. TRUMP,0
+San Juan,8BF,President,,Republican,DONALD J. TRUMP,0
+San Juan,9,President,,Republican,DONALD J. TRUMP,0
+San Juan,10,President,,Republican,DONALD J. TRUMP,1
+San Juan,10BF,President,,Republican,DONALD J. TRUMP,13
+San Juan,11,President,,Republican,DONALD J. TRUMP,45
+San Juan,11BF,President,,Republican,DONALD J. TRUMP,0
+San Juan,12BD,President,,Republican,DONALD J. TRUMP,165
+San Juan,12,President,,Republican,DONALD J. TRUMP,5

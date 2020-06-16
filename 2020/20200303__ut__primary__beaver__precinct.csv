@@ -1,0 +1,190 @@
+county,precinct,office,district,party,candidate,votes
+Beaver,BEAVER 1,President,,Republican,ROBERT ARDINI,1
+Beaver,BEAVER 2,President,,Republican,ROBERT ARDINI,1
+Beaver,BEAVER 3,President,,Republican,ROBERT ARDINI,1
+Beaver,BEAVER 4,President,,Republican,ROBERT ARDINI,0
+Beaver,GREENVILLE 1,President,,Republican,ROBERT ARDINI,0
+Beaver,MILFORD 1,President,,Republican,ROBERT ARDINI,0
+Beaver,MILFORD 2,President,,Republican,ROBERT ARDINI,0
+Beaver,MILFORD 3,President,,Republican,ROBERT ARDINI,0
+Beaver,MINERSVILLE 1,President,,Republican,ROBERT ARDINI,0
+Beaver,BEAVER 1,President,,Republican,MATTHEW JOHN MATERN,1
+Beaver,BEAVER 2,President,,Republican,MATTHEW JOHN MATERN,0
+Beaver,BEAVER 3,President,,Republican,MATTHEW JOHN MATERN,1
+Beaver,BEAVER 4,President,,Republican,MATTHEW JOHN MATERN,0
+Beaver,GREENVILLE 1,President,,Republican,MATTHEW JOHN MATERN,0
+Beaver,MILFORD 1,President,,Republican,MATTHEW JOHN MATERN,1
+Beaver,MILFORD 2,President,,Republican,MATTHEW JOHN MATERN,0
+Beaver,MILFORD 3,President,,Republican,MATTHEW JOHN MATERN,0
+Beaver,MINERSVILLE 1,President,,Republican,MATTHEW JOHN MATERN,0
+Beaver,BEAVER 1,President,,Republican,BOB ELY,1
+Beaver,BEAVER 2,President,,Republican,BOB ELY,0
+Beaver,BEAVER 3,President,,Republican,BOB ELY,0
+Beaver,BEAVER 4,President,,Republican,BOB ELY,0
+Beaver,GREENVILLE 1,President,,Republican,BOB ELY,0
+Beaver,MILFORD 1,President,,Republican,BOB ELY,0
+Beaver,MILFORD 2,President,,Republican,BOB ELY,1
+Beaver,MILFORD 3,President,,Republican,BOB ELY,0
+Beaver,MINERSVILLE 1,President,,Republican,BOB ELY,2
+Beaver,BEAVER 1,President,,Republican,JOE WALSH,2
+Beaver,BEAVER 2,President,,Republican,JOE WALSH,1
+Beaver,BEAVER 3,President,,Republican,JOE WALSH,2
+Beaver,BEAVER 4,President,,Republican,JOE WALSH,3
+Beaver,GREENVILLE 1,President,,Republican,JOE WALSH,0
+Beaver,MILFORD 1,President,,Republican,JOE WALSH,0
+Beaver,MILFORD 2,President,,Republican,JOE WALSH,1
+Beaver,MILFORD 3,President,,Republican,JOE WALSH,0
+Beaver,MINERSVILLE 1,President,,Republican,JOE WALSH,0
+Beaver,BEAVER 1,President,,Republican,BILL WELD,6
+Beaver,BEAVER 2,President,,Republican,BILL WELD,1
+Beaver,BEAVER 3,President,,Republican,BILL WELD,0
+Beaver,BEAVER 4,President,,Republican,BILL WELD,0
+Beaver,GREENVILLE 1,President,,Republican,BILL WELD,0
+Beaver,MILFORD 1,President,,Republican,BILL WELD,0
+Beaver,MILFORD 2,President,,Republican,BILL WELD,3
+Beaver,MILFORD 3,President,,Republican,BILL WELD,1
+Beaver,MINERSVILLE 1,President,,Republican,BILL WELD,2
+Beaver,BEAVER 1,President,,Republican,DONALD J. TRUMP,321
+Beaver,BEAVER 2,President,,Republican,DONALD J. TRUMP,245
+Beaver,BEAVER 3,President,,Republican,DONALD J. TRUMP,190
+Beaver,BEAVER 4,President,,Republican,DONALD J. TRUMP,81
+Beaver,GREENVILLE 1,President,,Republican,DONALD J. TRUMP,48
+Beaver,MILFORD 1,President,,Republican,DONALD J. TRUMP,34
+Beaver,MILFORD 2,President,,Republican,DONALD J. TRUMP,137
+Beaver,MILFORD 3,President,,Republican,DONALD J. TRUMP,43
+Beaver,MINERSVILLE 1,President,,Republican,DONALD J. TRUMP,219
+Beaver,BEAVER 1,President,,Democrat,JULIAN CASTRO,0
+Beaver,BEAVER 2,President,,Democrat,JULIAN CASTRO,0
+Beaver,BEAVER 3,President,,Democrat,JULIAN CASTRO,0
+Beaver,BEAVER 4,President,,Democrat,JULIAN CASTRO,0
+Beaver,GREENVILLE 1,President,,Democrat,JULIAN CASTRO,0
+Beaver,MILFORD 1,President,,Democrat,JULIAN CASTRO,0
+Beaver,MILFORD 2,President,,Democrat,JULIAN CASTRO,0
+Beaver,MILFORD 3,President,,Democrat,JULIAN CASTRO,0
+Beaver,MINERSVILLE 1,President,,Democrat,JULIAN CASTRO,0
+Beaver,BEAVER 1,President,,Democrat,ANDREW YANG,0
+Beaver,BEAVER 2,President,,Democrat,ANDREW YANG,0
+Beaver,BEAVER 3,President,,Democrat,ANDREW YANG,0
+Beaver,BEAVER 4,President,,Democrat,ANDREW YANG,0
+Beaver,GREENVILLE 1,President,,Democrat,ANDREW YANG,0
+Beaver,MILFORD 1,President,,Democrat,ANDREW YANG,0
+Beaver,MILFORD 2,President,,Democrat,ANDREW YANG,0
+Beaver,MILFORD 3,President,,Democrat,ANDREW YANG,0
+Beaver,MINERSVILLE 1,President,,Democrat,CORY BOOKER,0
+Beaver,BEAVER 1,President,,Democrat,CORY BOOKER,0
+Beaver,BEAVER 2,President,,Democrat,CORY BOOKER,0
+Beaver,BEAVER 3,President,,Democrat,CORY BOOKER,0
+Beaver,BEAVER 4,President,,Democrat,CORY BOOKER,0
+Beaver,GREENVILLE 1,President,,Democrat,CORY BOOKER,0
+Beaver,MILFORD 1,President,,Democrat,CORY BOOKER,0
+Beaver,MILFORD 2,President,,Democrat,CORY BOOKER,0
+Beaver,MILFORD 3,President,,Democrat,CORY BOOKER,0
+Beaver,MINERSVILLE 1,President,,Democrat,CORY BOOKER,0
+Beaver,BEAVER 1,President,,Democrat,PETE BUTTIGIEG,1
+Beaver,BEAVER 2,President,,Democrat,PETE BUTTIGIEG,2
+Beaver,BEAVER 3,President,,Democrat,PETE BUTTIGIEG,1
+Beaver,BEAVER 4,President,,Democrat,PETE BUTTIGIEG,2
+Beaver,GREENVILLE 1,President,,Democrat,PETE BUTTIGIEG,0
+Beaver,MILFORD 1,President,,Democrat,PETE BUTTIGIEG,1
+Beaver,MILFORD 2,President,,Democrat,PETE BUTTIGIEG,6
+Beaver,MILFORD 3,President,,Democrat,PETE BUTTIGIEG,1
+Beaver,MINERSVILLE 1,President,,Democrat,PETE BUTTIGIEG,1
+Beaver,BEAVER 1,President,,Democrat,NATHAN BLOXHAM,0
+Beaver,BEAVER 2,President,,Democrat,NATHAN BLOXHAM,0
+Beaver,BEAVER 3,President,,Democrat,NATHAN BLOXHAM,0
+Beaver,BEAVER 4,President,,Democrat,NATHAN BLOXHAM,0
+Beaver,GREENVILLE 1,President,,Democrat,NATHAN BLOXHAM,0
+Beaver,MILFORD 1,President,,Democrat,NATHAN BLOXHAM,0
+Beaver,MILFORD 2,President,,Democrat,NATHAN BLOXHAM,0
+Beaver,MILFORD 3,President,,Democrat,NATHAN BLOXHAM,0
+Beaver,MINERSVILLE 1,President,,Democrat,NATHAN BLOXHAM,0
+Beaver,BEAVER 1,President,,Democrat,MICHAEL R. BLOOMBERG,5
+Beaver,BEAVER 2,President,,Democrat,MICHAEL R. BLOOMBERG,13
+Beaver,BEAVER 3,President,,Democrat,MICHAEL R. BLOOMBERG,7
+Beaver,BEAVER 4,President,,Democrat,MICHAEL R. BLOOMBERG,1
+Beaver,GREENVILLE 1,President,,Democrat,MICHAEL R. BLOOMBERG,0
+Beaver,MILFORD 1,President,,Democrat,MICHAEL R. BLOOMBERG,2
+Beaver,MILFORD 2,President,,Democrat,MICHAEL R. BLOOMBERG,12
+Beaver,MILFORD 3,President,,Democrat,MICHAEL R. BLOOMBERG,2
+Beaver,MINERSVILLE 1,President,,Democrat,MICHAEL R. BLOOMBERG,1
+Beaver,BEAVER 1,President,,Democrat,JOSEPH R. BIDEN,4
+Beaver,BEAVER 2,President,,Democrat,JOSEPH R. BIDEN,6
+Beaver,BEAVER 3,President,,Democrat,JOSEPH R. BIDEN,5
+Beaver,BEAVER 4,President,,Democrat,JOSEPH R. BIDEN,2
+Beaver,GREENVILLE 1,President,,Democrat,JOSEPH R. BIDEN,3
+Beaver,MILFORD 1,President,,Democrat,JOSEPH R. BIDEN,2
+Beaver,MILFORD 2,President,,Democrat,JOSEPH R. BIDEN,12
+Beaver,MILFORD 3,President,,Democrat,JOSEPH R. BIDEN,4
+Beaver,MINERSVILLE 1,President,,Democrat,JOSEPH R. BIDEN,1
+Beaver,BEAVER 1,President,,Democrat,BERNIE SANDERS,9
+Beaver,BEAVER 2,President,,Democrat,BERNIE SANDERS,1
+Beaver,BEAVER 3,President,,Democrat,BERNIE SANDERS,4
+Beaver,BEAVER 4,President,,Democrat,BERNIE SANDERS,5
+Beaver,GREENVILLE 1,President,,Democrat,BERNIE SANDERS,3
+Beaver,MILFORD 1,President,,Democrat,BERNIE SANDERS,0
+Beaver,MILFORD 2,President,,Democrat,BERNIE SANDERS,7
+Beaver,MILFORD 3,President,,Democrat,BERNIE SANDERS,0
+Beaver,MINERSVILLE 1,President,,Democrat,BERNIE SANDERS,0
+Beaver,BEAVER 1,President,,Democrat,TIM STEYER,0
+Beaver,BEAVER 2,President,,Democrat,TIM STEYER,0
+Beaver,BEAVER 3,President,,Democrat,TIM STEYER,0
+Beaver,BEAVER 4,President,,Democrat,TIM STEYER,1
+Beaver,GREENVILLE 1,President,,Democrat,TIM STEYER,0
+Beaver,MILFORD 1,President,,Democrat,TIM STEYER,0
+Beaver,MILFORD 2,President,,Democrat,TIM STEYER,1
+Beaver,MILFORD 3,President,,Democrat,TIM STEYER,0
+Beaver,MINERSVILLE 1,President,,Democrat,TIM STEYER,0
+Beaver,BEAVER 1,President,,Democrat,ELIZABETH WARREN,5
+Beaver,BEAVER 2,President,,Democrat,ELIZABETH WARREN,1
+Beaver,BEAVER 3,President,,Democrat,ELIZABETH WARREN,2
+Beaver,BEAVER 4,President,,Democrat,ELIZABETH WARREN,1
+Beaver,GREENVILLE 1,President,,Democrat,ELIZABETH WARREN,0
+Beaver,MILFORD 1,President,,Democrat,ELIZABETH WARREN,1
+Beaver,MILFORD 2,President,,Democrat,ELIZABETH WARREN,4
+Beaver,MILFORD 3,President,,Democrat,ELIZABETH WARREN,0
+Beaver,MINERSVILLE 1,President,,Democrat,ELIZABETH WARREN,0
+Beaver,BEAVER 1,President,,Democrat,MARIANNE WILLIAMSON,0
+Beaver,BEAVER 2,President,,Democrat,MARIANNE WILLIAMSON,0
+Beaver,BEAVER 3,President,,Democrat,MARIANNE WILLIAMSON,0
+Beaver,BEAVER 4,President,,Democrat,MARIANNE WILLIAMSON,0
+Beaver,GREENVILLE 1,President,,Democrat,MARIANNE WILLIAMSON,0
+Beaver,MILFORD 1,President,,Democrat,MARIANNE WILLIAMSON,0
+Beaver,MILFORD 2,President,,Democrat,MARIANNE WILLIAMSON,0
+Beaver,MILFORD 3,President,,Democrat,MARIANNE WILLIAMSON,0
+Beaver,MINERSVILLE 1,President,,Democrat,MARIANNE WILLIAMSON,0
+Beaver,BEAVER 1,President,,Democrat,TULSI GABBARD,0
+Beaver,BEAVER 2,President,,Democrat,TULSI GABBARD,0
+Beaver,BEAVER 3,President,,Democrat,TULSI GABBARD,0
+Beaver,BEAVER 4,President,,Democrat,TULSI GABBARD,0
+Beaver,GREENVILLE 1,President,,Democrat,TULSI GABBARD,0
+Beaver,MILFORD 1,President,,Democrat,TULSI GABBARD,0
+Beaver,MILFORD 2,President,,Democrat,TULSI GABBARD,0
+Beaver,MILFORD 3,President,,Democrat,TULSI GABBARD,0
+Beaver,MINERSVILLE 1,President,,Democrat,TULSI GABBARD,0
+Beaver,BEAVER 1,President,,Democrat,AMY KLOBUCHAR,2
+Beaver,BEAVER 2,President,,Democrat,AMY KLOBUCHAR,0
+Beaver,BEAVER 3,President,,Democrat,AMY KLOBUCHAR,1
+Beaver,BEAVER 4,President,,Democrat,AMY KLOBUCHAR,0
+Beaver,GREENVILLE 1,President,,Democrat,AMY KLOBUCHAR,0
+Beaver,MILFORD 1,President,,Democrat,AMY KLOBUCHAR,0
+Beaver,MILFORD 2,President,,Democrat,AMY KLOBUCHAR,4
+Beaver,MILFORD 3,President,,Democrat,AMY KLOBUCHAR,2
+Beaver,MINERSVILLE 1,President,,Democrat,AMY KLOBUCHAR,1
+Beaver,BEAVER 1,President,,Democrat,DEVAL PATRICK,0
+Beaver,BEAVER 2,President,,Democrat,DEVAL PATRICK,0
+Beaver,BEAVER 3,President,,Democrat,DEVAL PATRICK,0
+Beaver,BEAVER 4,President,,Democrat,DEVAL PATRICK,0
+Beaver,GREENVILLE 1,President,,Democrat,DEVAL PATRICK,0
+Beaver,MILFORD 1,President,,Democrat,DEVAL PATRICK,0
+Beaver,MILFORD 2,President,,Democrat,DEVAL PATRICK,0
+Beaver,MILFORD 3,President,,Democrat,DEVAL PATRICK,0
+Beaver,MINERSVILLE 1,President,,Democrat,DEVAL PATRICK,0
+Beaver,BEAVER 1,President,,Democrat,ROQUE DE LA FUENTE,0
+Beaver,BEAVER 2,President,,Democrat,ROQUE DE LA FUENTE,0
+Beaver,BEAVER 3,President,,Democrat,ROQUE DE LA FUENTE,0
+Beaver,BEAVER 4,President,,Democrat,ROQUE DE LA FUENTE,0
+Beaver,GREENVILLE 1,President,,Democrat,ROQUE DE LA FUENTE,0
+Beaver,MILFORD 1,President,,Democrat,ROQUE DE LA FUENTE,0
+Beaver,MILFORD 2,President,,Democrat,ROQUE DE LA FUENTE,0
+Beaver,MILFORD 3,President,,Democrat,ROQUE DE LA FUENTE,0
+Beaver,MINERSVILLE 1,President,,Democrat,ROQUE DE LA FUENTE,0
