@@ -1,61 +1,106 @@
 county,precinct,office,district,party,candidate,votes
-Rich,Rich 1,U.S. Senate,,Con ,Tim Aalders,6
-Rich,Rich 2,U.S. Senate,,Con ,Tim Aalders,9
-Rich,Rich 3,U.S. Senate,,Con ,Tim Aalders,5
-Rich,Rich 4,U.S. Senate,,Con ,Tim Aalders,6
-Rich,Rich 5,U.S. Senate,,Con ,Tim Aalders,5
-Rich,Rich 1,U.S. Senate,,Lbt,Craig Bowden,3
-Rich,Rich 2,U.S. Senate,,Lbt,Craig Bowden,1
-Rich,Rich 3,U.S. Senate,,Lbt,Craig Bowden,12
-Rich,Rich 4,U.S. Senate,,Lbt,Craig Bowden,2
-Rich,Rich 5,U.S. Senate,,Lbt,Craig Bowden,5
-Rich,Rich 1,U.S. Senate,,IAP,Reed McCandless,0
-Rich,Rich 2,U.S. Senate,,IAP,Reed McCandless,1
-Rich,Rich 3,U.S. Senate,,IAP,Reed McCandless,2
-Rich,Rich 4,U.S. Senate,,IAP,Reed McCandless,1
-Rich,Rich 5,U.S. Senate,,IAP,Reed McCandless,1
-Rich,Rich 1,U.S. Senate,,Dem,Jenny Wilson,15
-Rich,Rich 2,U.S. Senate,,Dem,Jenny Wilson,24
-Rich,Rich 3,U.S. Senate,,Dem,Jenny Wilson,20
-Rich,Rich 4,U.S. Senate,,Dem,Jenny Wilson,28
-Rich,Rich 5,U.S. Senate,,Dem,Jenny Wilson,34
-Rich,Rich 1,U.S. Senate,,Rep,Mitt Romney,157
-Rich,Rich 2,U.S. Senate,,Rep,Mitt Romney,206
-Rich,Rich 3,U.S. Senate,,Rep,Mitt Romney,252
-Rich,Rich 4,U.S. Senate,,Rep,Mitt Romney,156
-Rich,Rich 5,U.S. Senate,,Rep,Mitt Romney,129
-Rich,Rich 1,U.S. Senate,,,write-in,0
-Rich,Rich 2,U.S. Senate,,,write-in,0
-Rich,Rich 3,U.S. Senate,,,write-in,0
-Rich,Rich 4,U.S. Senate,,,write-in,0
-Rich,Rich 5,U.S. Senate,,,write-in,0
-Rich,Rich 1,U.S. House,1,Rep,Rob Bishop,163
-Rich,Rich 2,U.S. House,1,Rep,Rob Bishop,206
-Rich,Rich 3,U.S. House,1,Rep,Rob Bishop,259
-Rich,Rich 4,U.S. House,1,Rep,Rob Bishop,147
-Rich,Rich 5,U.S. House,1,Rep,Rob Bishop,123
-Rich,Rich 1,U.S. House,1,UUP,Eric Eliason,0
-Rich,Rich 2,U.S. House,1,UUP,Eric Eliason,7
-Rich,Rich 3,U.S. House,1,UUP,Eric Eliason,12
-Rich,Rich 4,U.S. House,1,UUP,Eric Eliason,17
-Rich,Rich 5,U.S. House,1,UUP,Eric Eliason,11
-Rich,Rich 1,U.S. House,1,Dem,Lee Castillo,15
-Rich,Rich 2,U.S. House,1,Dem,Lee Castillo,22
-Rich,Rich 3,U.S. House,1,Dem,Lee Castillo,17
-Rich,Rich 4,U.S. House,1,Dem,Lee Castillo,24
-Rich,Rich 5,U.S. House,1,Dem,Lee Castillo,37
-Rich,Rich 1,U.S. House,1,Grn,Adam Davis,1
-Rich,Rich 2,U.S. House,1,Grn,Adam Davis,2
-Rich,Rich 3,U.S. House,1,Grn,Adam Davis,0
-Rich,Rich 4,U.S. House,1,Grn,Adam Davis,3
-Rich,Rich 5,U.S. House,1,Grn,Adam Davis,2
-Rich,Rich 1,State House,53,Rep,Logan Wilde,163
-Rich,Rich 2,State House,53,Rep,Logan Wilde,205
-Rich,Rich 3,State House,53,Rep,Logan Wilde,253
-Rich,Rich 4,State House,53,Rep,Logan Wilde,155
-Rich,Rich 5,State House,53,Rep,Logan Wilde,133
-Rich,Rich 1,State House,53,Dem,Christopher Neville,16
-Rich,Rich 2,State House,53,Dem,Christopher Neville,27
-Rich,Rich 3,State House,53,Dem,Christopher Neville,27
-Rich,Rich 4,State House,53,Dem,Christopher Neville,33
-Rich,Rich 5,State House,53,Dem,Christopher Neville,37
+Rich,1,Registered Voters,,,,237
+Rich,2,Registered Voters,,,,296
+Rich,3,Registered Voters,,,,357
+Rich,4,Registered Voters,,,,252
+Rich,5,Registered Voters,,,,232
+Rich,1,Ballots Cast,,,,188
+Rich,2,Ballots Cast,,,,254
+Rich,3,Ballots Cast,,,,300
+Rich,4,Ballots Cast,,,,201
+Rich,5,Ballots Cast,,,,178
+Rich,1,Straight Party,,CON,,0
+Rich,2,Straight Party,,CON,,2
+Rich,3,Straight Party,,CON,,0
+Rich,4,Straight Party,,CON,,0
+Rich,5,Straight Party,,CON,,0
+Rich,1,Straight Party,,UUP,,0
+Rich,2,Straight Party,,UUP,,0
+Rich,3,Straight Party,,UUP,,0
+Rich,4,Straight Party,,UUP,,0
+Rich,5,Straight Party,,UUP,,0
+Rich,1,Straight Party,,LBT,,0
+Rich,2,Straight Party,,LBT,,2
+Rich,3,Straight Party,,LBT,,0
+Rich,4,Straight Party,,LBT,,2
+Rich,5,Straight Party,,LBT,,0
+Rich,1,Straight Party,,REP,,42
+Rich,2,Straight Party,,REP,,62
+Rich,3,Straight Party,,REP,,73
+Rich,4,Straight Party,,REP,,54
+Rich,5,Straight Party,,REP,,40
+Rich,1,Straight Party,,GRN,,0
+Rich,2,Straight Party,,GRN,,0
+Rich,3,Straight Party,,GRN,,0
+Rich,4,Straight Party,,GRN,,0
+Rich,5,Straight Party,,GRN,,0
+Rich,1,Straight Party,,DEM,,1
+Rich,2,Straight Party,,DEM,,5
+Rich,3,Straight Party,,DEM,,8
+Rich,4,Straight Party,,DEM,,6
+Rich,5,Straight Party,,DEM,,13
+Rich,1,Straight Party,,IAP,,2
+Rich,2,Straight Party,,IAP,,3
+Rich,3,Straight Party,,IAP,,4
+Rich,4,Straight Party,,IAP,,3
+Rich,5,Straight Party,,IAP,,0
+Rich,1,U.S. Senate,,Con ,Tim Aalders,6
+Rich,2,U.S. Senate,,Con ,Tim Aalders,9
+Rich,3,U.S. Senate,,Con ,Tim Aalders,5
+Rich,4,U.S. Senate,,Con ,Tim Aalders,8
+Rich,5,U.S. Senate,,Con ,Tim Aalders,5
+Rich,1,U.S. Senate,,Lbt,Craig Bowden,4
+Rich,2,U.S. Senate,,Lbt,Craig Bowden,1
+Rich,3,U.S. Senate,,Lbt,Craig Bowden,12
+Rich,4,U.S. Senate,,Lbt,Craig Bowden,2
+Rich,5,U.S. Senate,,Lbt,Craig Bowden,5
+Rich,1,U.S. Senate,,IAP,Reed McCandless,0
+Rich,2,U.S. Senate,,IAP,Reed McCandless,1
+Rich,3,U.S. Senate,,IAP,Reed McCandless,2
+Rich,4,U.S. Senate,,IAP,Reed McCandless,1
+Rich,5,U.S. Senate,,IAP,Reed McCandless,1
+Rich,1,U.S. Senate,,Dem,Jenny Wilson,15
+Rich,2,U.S. Senate,,Dem,Jenny Wilson,24
+Rich,3,U.S. Senate,,Dem,Jenny Wilson,21
+Rich,4,U.S. Senate,,Dem,Jenny Wilson,30
+Rich,5,U.S. Senate,,Dem,Jenny Wilson,34
+Rich,1,U.S. Senate,,Rep,Mitt Romney,159
+Rich,2,U.S. Senate,,Rep,Mitt Romney,207
+Rich,3,U.S. Senate,,Rep,Mitt Romney,257
+Rich,4,U.S. Senate,,Rep,Mitt Romney,159
+Rich,5,U.S. Senate,,Rep,Mitt Romney,129
+Rich,1,U.S. Senate,,,Write-ins,0
+Rich,2,U.S. Senate,,,Write-ins,0
+Rich,3,U.S. Senate,,,Write-ins,0
+Rich,4,U.S. Senate,,,Write-ins,0
+Rich,5,U.S. Senate,,,Write-ins,0
+Rich,1,U.S. House,1,Rep,Rob Bishop,165
+Rich,2,U.S. House,1,Rep,Rob Bishop,207
+Rich,3,U.S. House,1,Rep,Rob Bishop,262
+Rich,4,U.S. House,1,Rep,Rob Bishop,151
+Rich,5,U.S. House,1,Rep,Rob Bishop,123
+Rich,1,U.S. House,1,UUP,Eric Eliason,1
+Rich,2,U.S. House,1,UUP,Eric Eliason,7
+Rich,3,U.S. House,1,UUP,Eric Eliason,14
+Rich,4,U.S. House,1,UUP,Eric Eliason,17
+Rich,5,U.S. House,1,UUP,Eric Eliason,11
+Rich,1,U.S. House,1,Dem,Lee Castillo,15
+Rich,2,U.S. House,1,Dem,Lee Castillo,22
+Rich,3,U.S. House,1,Dem,Lee Castillo,18
+Rich,4,U.S. House,1,Dem,Lee Castillo,26
+Rich,5,U.S. House,1,Dem,Lee Castillo,37
+Rich,1,U.S. House,1,Grn,Adam Davis,1
+Rich,2,U.S. House,1,Grn,Adam Davis,2
+Rich,3,U.S. House,1,Grn,Adam Davis,0
+Rich,4,U.S. House,1,Grn,Adam Davis,3
+Rich,5,U.S. House,1,Grn,Adam Davis,2
+Rich,1,State House,53,Rep,Logan Wilde,166
+Rich,2,State House,53,Rep,Logan Wilde,206
+Rich,3,State House,53,Rep,Logan Wilde,256
+Rich,4,State House,53,Rep,Logan Wilde,160
+Rich,5,State House,53,Rep,Logan Wilde,133
+Rich,1,State House,53,Dem,Christopher Neville,16
+Rich,2,State House,53,Dem,Christopher Neville,27
+Rich,3,State House,53,Dem,Christopher Neville,29
+Rich,4,State House,53,Dem,Christopher Neville,35
+Rich,5,State House,53,Dem,Christopher Neville,37
