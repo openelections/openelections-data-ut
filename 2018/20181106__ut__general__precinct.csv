@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+﻿county,precinct,office,district,candidate,party,votes
 Wayne,Fremont,U.S. Senate,,Tim Aalders,Con ,7
 Wayne,Loa in/out,U.S. Senate,,Tim Aalders,Con ,6
 Wayne,Lyman in/out,U.S. Senate,,Tim Aalders,Con ,6
@@ -76,231 +76,6 @@ Wayne,Bicknell in/out,State House,73,Marsha Holland,None,44
 Wayne,Teesdale,State House,73,Marsha Holland,None,111
 Wayne,Torrey in/out,State House,73,Marsha Holland,None,150
 Wayne,Hanksville in/out,State House,73,Marsha Holland,None,25
-Morgan,Mountain Green 1.1,U.S. Senate,,Tim Aalders,CON,20
-Morgan,Mountain Green 1.1,U.S. Senate,,Craig R. Bowden ,LIB,10
-Morgan,Mountain Green 1.1,U.S. Senate,,Reed C. McCandless,IAP,5
-Morgan,Mountain Green 1.1,U.S. Senate,,Jenny Wilson,DEM,78
-Morgan,Mountain Green 1.1,U.S. Senate,,Mitt Romney,REP,296
-Morgan,Mountain Green 1.1,U.S. House,1,Lee Castillo,DEM,73
-Morgan,Mountain Green 1.1,U.S. House,1,Rob Bishop,REP,273
-Morgan,Mountain Green 1.1,U.S. House,1,Eric Eliason,UUP,51
-Morgan,Mountain Green 1.1,U.S. House,1,Adam Davis,GRN,8
-Morgan,Mountain Green 1.1,State Senate,18,Jason Yu,DEM,71
-Morgan,Mountain Green 1.1,State Senate,18,Kevin L. Bryan ,LIB,43
-Morgan,Mountain Green 1.1,State Senate,18,Ann Millner ,REP,291
-Morgan,Mountain Green 1.1,State House,53,Logan Wilde,REP,308
-Morgan,Mountain Green 1.1,State House,53,Christopher Neville,DEM,92
-Morgan,Mountain Green 2.1,U.S. Senate,,Tim Aalders,CON,11
-Morgan,Mountain Green 2.1,U.S. Senate,,Craig R. Bowden ,LIB,6
-Morgan,Mountain Green 2.1,U.S. Senate,,Reed C. McCandless,IAP,1
-Morgan,Mountain Green 2.1,U.S. Senate,,Jenny Wilson,DEM,67
-Morgan,Mountain Green 2.1,U.S. Senate,,Mitt Romney,REP,361
-Morgan,Mountain Green 2.1,U.S. House,1,Lee Castillo,DEM,69
-Morgan,Mountain Green 2.1,U.S. House,1,Rob Bishop,REP,326
-Morgan,Mountain Green 2.1,U.S. House,1,Eric Eliason,UUP,45
-Morgan,Mountain Green 2.1,U.S. House,1,Adam Davis,GRN,3
-Morgan,Mountain Green 2.1,State Senate,18,Jason Yu,DEM,63
-Morgan,Mountain Green 2.1,State Senate,18,Kevin L. Bryan ,LIB,18
-Morgan,Mountain Green 2.1,State Senate,18,Ann Millner ,REP,361
-Morgan,Mountain Green 2.1,State House,53,Logan Wilde,REP,332
-Morgan,Mountain Green 2.1,State House,53,Christopher Neville,DEM,106
-Morgan,Mountain Green 3.1,U.S. Senate,,Tim Aalders,CON,15
-Morgan,Mountain Green 3.1,U.S. Senate,,Craig R. Bowden ,LIB,7
-Morgan,Mountain Green 3.1,U.S. Senate,,Reed C. McCandless,IAP,4
-Morgan,Mountain Green 3.1,U.S. Senate,,Jenny Wilson,DEM,27
-Morgan,Mountain Green 3.1,U.S. Senate,,Mitt Romney,REP,227
-Morgan,Mountain Green 3.1,U.S. House,1,Lee Castillo,DEM,18
-Morgan,Mountain Green 3.1,U.S. House,1,Rob Bishop,REP,228
-Morgan,Mountain Green 3.1,U.S. House,1,Eric Eliason,UUP,29
-Morgan,Mountain Green 3.1,U.S. House,1,Adam Davis,GRN,6
-Morgan,Mountain Green 3.1,State Senate,18,Jason Yu,DEM,16
-Morgan,Mountain Green 3.1,State Senate,18,Kevin L. Bryan ,LIB,19
-Morgan,Mountain Green 3.1,State Senate,18,Ann Millner ,REP,239
-Morgan,Mountain Green 3.1,State House,53,Logan Wilde,REP,243
-Morgan,Mountain Green 3.1,State House,53,Christopher Neville,DEM,32
-Morgan,Peterson 4.2,U.S. Senate,,Tim Aalders,CON,8
-Morgan,Peterson 4.2,U.S. Senate,,Craig R. Bowden ,LIB,10
-Morgan,Peterson 4.2,U.S. Senate,,Reed C. McCandless,IAP,2
-Morgan,Peterson 4.2,U.S. Senate,,Jenny Wilson,DEM,50
-Morgan,Peterson 4.2,U.S. Senate,,Mitt Romney,REP,482
-Morgan,Peterson 4.2,U.S. House,1,Lee Castillo,DEM,46
-Morgan,Peterson 4.2,U.S. House,1,Rob Bishop,REP,433
-Morgan,Peterson 4.2,U.S. House,1,Eric Eliason,UUP,63
-Morgan,Peterson 4.2,U.S. House,1,Adam Davis,GRN,5
-Morgan,Peterson 4.2,State Senate,18,Jason Yu,DEM,49
-Morgan,Peterson 4.2,State Senate,18,Kevin L. Bryan ,LIB,30
-Morgan,Peterson 4.2,State Senate,18,Ann Millner ,REP,457
-Morgan,Peterson 4.2,State House,53,Logan Wilde,REP,450
-Morgan,Peterson 4.2,State House,53,Christopher Neville,DEM,85
-Morgan,Peterson 5.2,U.S. Senate,,Tim Aalders,CON,8
-Morgan,Peterson 5.2,U.S. Senate,,Craig R. Bowden ,LIB,9
-Morgan,Peterson 5.2,U.S. Senate,,Reed C. McCandless,IAP,9
-Morgan,Peterson 5.2,U.S. Senate,,Jenny Wilson,DEM,33
-Morgan,Peterson 5.2,U.S. Senate,,Mitt Romney,REP,182
-Morgan,Peterson 5.2,U.S. House,1,Lee Castillo,DEM,26
-Morgan,Peterson 5.2,U.S. House,1,Rob Bishop,REP,174
-Morgan,Peterson 5.2,U.S. House,1,Eric Eliason,UUP,32
-Morgan,Peterson 5.2,U.S. House,1,Adam Davis,GRN,8
-Morgan,Peterson 5.2,State Senate,18,Jason Yu,DEM,25
-Morgan,Peterson 5.2,State Senate,18,Kevin L. Bryan ,LIB,18
-Morgan,Peterson 5.2,State Senate,18,Ann Millner ,REP,200
-Morgan,Peterson 5.2,State House,53,Logan Wilde,REP,209
-Morgan,Peterson 5.2,State House,53,Christopher Neville,DEM,32
-Morgan,Peterson 6.2,U.S. Senate,,Tim Aalders,CON,17
-Morgan,Peterson 6.2,U.S. Senate,,Craig R. Bowden ,LIB,9
-Morgan,Peterson 6.2,U.S. Senate,,Reed C. McCandless,IAP,2
-Morgan,Peterson 6.2,U.S. Senate,,Jenny Wilson,DEM,40
-Morgan,Peterson 6.2,U.S. Senate,,Mitt Romney,REP,211
-Morgan,Peterson 6.2,U.S. House,1,Lee Castillo,DEM,36
-Morgan,Peterson 6.2,U.S. House,1,Rob Bishop,REP,221
-Morgan,Peterson 6.2,U.S. House,1,Eric Eliason,UUP,22
-Morgan,Peterson 6.2,U.S. House,1,Adam Davis,GRN,4
-Morgan,Peterson 6.2,State Senate,18,Jason Yu,DEM,39
-Morgan,Peterson 6.2,State Senate,18,Kevin L. Bryan ,LIB,24
-Morgan,Peterson 6.2,State Senate,18,Ann Millner ,REP,218
-Morgan,Peterson 6.2,State House,53,Logan Wilde,REP,241
-Morgan,Peterson 6.2,State House,53,Christopher Neville,DEM,33
-Morgan,Canyon Creek 7.3,U.S. Senate,,Tim Aalders,CON,9
-Morgan,Canyon Creek 7.3,U.S. Senate,,Craig R. Bowden ,LIB,3
-Morgan,Canyon Creek 7.3,U.S. Senate,,Reed C. McCandless,IAP,2
-Morgan,Canyon Creek 7.3,U.S. Senate,,Jenny Wilson,DEM,20
-Morgan,Canyon Creek 7.3,U.S. Senate,,Mitt Romney,REP,229
-Morgan,Canyon Creek 7.3,U.S. House,1,Lee Castillo,DEM,17
-Morgan,Canyon Creek 7.3,U.S. House,1,Rob Bishop,REP,229
-Morgan,Canyon Creek 7.3,U.S. House,1,Eric Eliason,UUP,14
-Morgan,Canyon Creek 7.3,U.S. House,1,Adam Davis,GRN,4
-Morgan,Canyon Creek 7.3,State Senate,18,Jason Yu,DEM,11
-Morgan,Canyon Creek 7.3,State Senate,18,Kevin L. Bryan ,LIB,11
-Morgan,Canyon Creek 7.3,State Senate,18,Ann Millner ,REP,237
-Morgan,Canyon Creek 7.3,State House,53,Logan Wilde,REP,244
-Morgan,Canyon Creek 7.3,State House,53,Christopher Neville,DEM,16
-Morgan,Canyon Creek 8.3,U.S. Senate,,Tim Aalders,CON,6
-Morgan,Canyon Creek 8.3,U.S. Senate,,Craig R. Bowden ,LIB,6
-Morgan,Canyon Creek 8.3,U.S. Senate,,Reed C. McCandless,IAP,0
-Morgan,Canyon Creek 8.3,U.S. Senate,,Jenny Wilson,DEM,23
-Morgan,Canyon Creek 8.3,U.S. Senate,,Mitt Romney,REP,221
-Morgan,Canyon Creek 8.3,U.S. House,1,Lee Castillo,DEM,27
-Morgan,Canyon Creek 8.3,U.S. House,1,Rob Bishop,REP,211
-Morgan,Canyon Creek 8.3,U.S. House,1,Eric Eliason,UUP,16
-Morgan,Canyon Creek 8.3,U.S. House,1,Adam Davis,GRN,1
-Morgan,Canyon Creek 8.3,State Senate,18,Jason Yu,DEM,24
-Morgan,Canyon Creek 8.3,State Senate,18,Kevin L. Bryan ,LIB,5
-Morgan,Canyon Creek 8.3,State Senate,18,Ann Millner ,REP,222
-Morgan,Canyon Creek 8.3,State House,53,Logan Wilde,REP,232
-Morgan,Canyon Creek 8.3,State House,53,Christopher Neville,DEM,22
-Morgan,Canyon Creek 9.3,U.S. Senate,,Tim Aalders,CON,11
-Morgan,Canyon Creek 9.3,U.S. Senate,,Craig R. Bowden ,LIB,13
-Morgan,Canyon Creek 9.3,U.S. Senate,,Reed C. McCandless,IAP,2
-Morgan,Canyon Creek 9.3,U.S. Senate,,Jenny Wilson,DEM,39
-Morgan,Canyon Creek 9.3,U.S. Senate,,Mitt Romney,REP,256
-Morgan,Canyon Creek 9.3,U.S. House,1,Lee Castillo,DEM,24
-Morgan,Canyon Creek 9.3,U.S. House,1,Rob Bishop,REP,272
-Morgan,Canyon Creek 9.3,U.S. House,1,Eric Eliason,UUP,21
-Morgan,Canyon Creek 9.3,U.S. House,1,Adam Davis,GRN,3
-Morgan,Canyon Creek 9.3,State Senate,18,Jason Yu,DEM,
-Morgan,Canyon Creek 9.3,State Senate,18,Kevin L. Bryan ,LIB,
-Morgan,Canyon Creek 9.3,State Senate,18,Ann Millner ,REP,
-Morgan,Canyon Creek 9.3,State House,53,Logan Wilde,REP,301
-Morgan,Canyon Creek 9.3,State House,53,Christopher Neville,DEM,21
-Morgan,City 10.4,U.S. Senate,,Tim Aalders,CON,8
-Morgan,City 10.4,U.S. Senate,,Craig R. Bowden ,LIB,17
-Morgan,City 10.4,U.S. Senate,,Reed C. McCandless,IAP,0
-Morgan,City 10.4,U.S. Senate,,Jenny Wilson,DEM,42
-Morgan,City 10.4,U.S. Senate,,Mitt Romney,REP,304
-Morgan,City 10.4,U.S. House,1,Lee Castillo,DEM,34
-Morgan,City 10.4,U.S. House,1,Rob Bishop,REP,300
-Morgan,City 10.4,U.S. House,1,Eric Eliason,UUP,31
-Morgan,City 10.4,U.S. House,1,Adam Davis,GRN,0
-Morgan,City 10.4,State Senate,18,Jason Yu,DEM,31
-Morgan,City 10.4,State Senate,18,Kevin L. Bryan ,LIB,20
-Morgan,City 10.4,State Senate,18,Ann Millner ,REP,308
-Morgan,City 10.4,State House,53,Logan Wilde,REP,330
-Morgan,City 10.4,State House,53,Christopher Neville,DEM,37
-Morgan,City 11.4,U.S. Senate,,Tim Aalders,CON,9
-Morgan,City 11.4,U.S. Senate,,Craig R. Bowden ,LIB,8
-Morgan,City 11.4,U.S. Senate,,Reed C. McCandless,IAP,3
-Morgan,City 11.4,U.S. Senate,,Jenny Wilson,DEM,33
-Morgan,City 11.4,U.S. Senate,,Mitt Romney,REP,142
-Morgan,City 11.4,U.S. House,1,Lee Castillo,DEM,28
-Morgan,City 11.4,U.S. House,1,Rob Bishop,REP,136
-Morgan,City 11.4,U.S. House,1,Eric Eliason,UUP,16
-Morgan,City 11.4,U.S. House,1,Adam Davis,GRN,6
-Morgan,City 11.4,State Senate,18,Jason Yu,DEM,29
-Morgan,City 11.4,State Senate,18,Kevin L. Bryan ,LIB,9
-Morgan,City 11.4,State Senate,18,Ann Millner ,REP,146
-Morgan,City 11.4,State House,53,Logan Wilde,REP,175
-Morgan,City 11.4,State House,53,Christopher Neville,DEM,18
-Morgan,City 12.4,U.S. Senate,,Tim Aalders,CON,8
-Morgan,City 12.4,U.S. Senate,,Craig R. Bowden ,LIB,9
-Morgan,City 12.4,U.S. Senate,,Reed C. McCandless,IAP,3
-Morgan,City 12.4,U.S. Senate,,Jenny Wilson,DEM,44
-Morgan,City 12.4,U.S. Senate,,Mitt Romney,REP,291
-Morgan,City 12.4,U.S. House,1,Lee Castillo,DEM,41
-Morgan,City 12.4,U.S. House,1,Rob Bishop,REP,286
-Morgan,City 12.4,U.S. House,1,Eric Eliason,UUP,24
-Morgan,City 12.4,U.S. House,1,Adam Davis,GRN,2
-Morgan,City 12.4,State Senate,18,Jason Yu,DEM,42
-Morgan,City 12.4,State Senate,18,Kevin L. Bryan ,LIB,21
-Morgan,City 12.4,State Senate,18,Ann Millner ,REP,289
-Morgan,City 12.4,State House,53,Logan Wilde,REP,316
-Morgan,City 12.4,State House,53,Christopher Neville,DEM,35
-Morgan,No Morgan 13.5,U.S. Senate,,Tim Aalders,CON,14
-Morgan,No Morgan 13.5,U.S. Senate,,Craig R. Bowden ,LIB,6
-Morgan,No Morgan 13.5,U.S. Senate,,Reed C. McCandless,IAP,7
-Morgan,No Morgan 13.5,U.S. Senate,,Jenny Wilson,DEM,37
-Morgan,No Morgan 13.5,U.S. Senate,,Mitt Romney,REP,421
-Morgan,No Morgan 13.5,U.S. House,1,Lee Castillo,DEM,56
-Morgan,No Morgan 13.5,U.S. House,1,Rob Bishop,REP,365
-Morgan,No Morgan 13.5,U.S. House,1,Eric Eliason,UUP,49
-Morgan,No Morgan 13.5,U.S. House,1,Adam Davis,GRN,10
-Morgan,No Morgan 13.5,State Senate,18,Jason Yu,DEM,40
-Morgan,No Morgan 13.5,State Senate,18,Kevin L. Bryan ,LIB,22
-Morgan,No Morgan 13.5,State Senate,18,Ann Millner ,REP,411
-Morgan,No Morgan 13.5,State House,53,Logan Wilde,REP,444
-Morgan,No Morgan 13.5,State House,53,Christopher Neville,DEM,35
-Morgan,No Morgan 14.5,U.S. Senate,,Tim Aalders,CON,14
-Morgan,No Morgan 14.5,U.S. Senate,,Craig R. Bowden ,LIB,5
-Morgan,No Morgan 14.5,U.S. Senate,,Reed C. McCandless,IAP,7
-Morgan,No Morgan 14.5,U.S. Senate,,Jenny Wilson,DEM,45
-Morgan,No Morgan 14.5,U.S. Senate,,Mitt Romney,REP,295
-Morgan,No Morgan 14.5,U.S. House,1,Lee Castillo,DEM,50
-Morgan,No Morgan 14.5,U.S. House,1,Rob Bishop,REP,281
-Morgan,No Morgan 14.5,U.S. House,1,Eric Eliason,UUP,21
-Morgan,No Morgan 14.5,U.S. House,1,Adam Davis,GRN,7
-Morgan,No Morgan 14.5,State Senate,18,Jason Yu,DEM,55
-Morgan,No Morgan 14.5,State Senate,18,Kevin L. Bryan ,LIB,19
-Morgan,No Morgan 14.5,State Senate,18,Ann Millner ,REP,281
-Morgan,No Morgan 14.5,State House,53,Logan Wilde,REP,325
-Morgan,No Morgan 14.5,State House,53,Christopher Neville,DEM,38
-Morgan,Croydon 15.5,U.S. Senate,,Tim Aalders,CON,11
-Morgan,Croydon 15.5,U.S. Senate,,Craig R. Bowden ,LIB,4
-Morgan,Croydon 15.5,U.S. Senate,,Reed C. McCandless,IAP,0
-Morgan,Croydon 15.5,U.S. Senate,,Jenny Wilson,DEM,6
-Morgan,Croydon 15.5,U.S. Senate,,Mitt Romney,REP,63
-Morgan,Croydon 15.5,U.S. House,1,Lee Castillo,DEM,9
-Morgan,Croydon 15.5,U.S. House,1,Rob Bishop,REP,62
-Morgan,Croydon 15.5,U.S. House,1,Eric Eliason,UUP,8
-Morgan,Croydon 15.5,U.S. House,1,Adam Davis,GRN,2
-Morgan,Croydon 15.5,State Senate,18,Jason Yu,DEM,
-Morgan,Croydon 15.5,State Senate,18,Kevin L. Bryan ,LIB,
-Morgan,Croydon 15.5,State Senate,18,Ann Millner ,REP,
-Morgan,Croydon 15.5,State House,53,Logan Wilde,REP,78
-Morgan,Croydon 15.5,State House,53,Christopher Neville,DEM,6
-Morgan,Mountain Green 1.1,U.S. Senate,,Write-ins,,3
-Morgan,Mountain Green 2.1,U.S. Senate,,Write-ins,,0
-Morgan,Mountain Green 3.1,U.S. Senate,,Write-ins,,3
-Morgan,Peterson 4.2,U.S. Senate,,Write-ins,,0
-Morgan,Peterson 5.2,U.S. Senate,,Write-ins,,0
-Morgan,Peterson 6.2,U.S. Senate,,Write-ins,,3
-Morgan,Canyon Creek 7.3,U.S. Senate,,Write-ins,,1
-Morgan,Canyon Creek 8.3,U.S. Senate,,Write-ins,,2
-Morgan,Canyon Creek 9.3,U.S. Senate,,Write-ins,,0
-Morgan,City 10.4,U.S. Senate,,Write-ins,,1
-Morgan,City 11.4,U.S. Senate,,Write-ins,,0
-Morgan,City 12.4,U.S. Senate,,Write-ins,,0
-Morgan,No Morgan 13.5,U.S. Senate,,Write-ins,,3
-Morgan,No Morgan 14.5,U.S. Senate,,Write-ins,,0
-Morgan,Croydon 15.5,U.S. Senate,,Write-ins,,0
 Salt Lake,ALT001,U.S. Senate,,MITT ROMNEY,REP,24
 Salt Lake,BLF001,U.S. Senate,,MITT ROMNEY,REP,735
 Salt Lake,BLF003,U.S. Senate,,MITT ROMNEY,REP,687
@@ -41868,3 +41643,357 @@ Rich,2,State House,53,Christopher Neville,Dem,27
 Rich,3,State House,53,Christopher Neville,Dem,29
 Rich,4,State House,53,Christopher Neville,Dem,35
 Rich,5,State House,53,Christopher Neville,Dem,37
+Morgan,Mountain Green 1.1,Registered Voters,,,,536
+Morgan,Mountain Green 1.1,Ballots Cast,,,,427
+Morgan,Mountain Green 1.1,Straight Party,,,CON,1
+Morgan,Mountain Green 1.1,Straight Party,,,UUP,0
+Morgan,Mountain Green 1.1,Straight Party,,,LIB,1
+Morgan,Mountain Green 1.1,Straight Party,,,REP,85
+Morgan,Mountain Green 1.1,Straight Party,,,GRN,0
+Morgan,Mountain Green 1.1,Straight Party,,,DEM,18
+Morgan,Mountain Green 1.1,Straight Party,,,IAP,9
+Morgan,Mountain Green 1.1,U S Senate,,Tim Aalders,CON,20
+Morgan,Mountain Green 1.1,U S Senate,,Craig R. Bowden,LIB,10
+Morgan,Mountain Green 1.1,U S Senate,,Reed C. McCandless,IAP,5
+Morgan,Mountain Green 1.1,U S Senate,,Jenny Wilson,DEM,79
+Morgan,Mountain Green 1.1,U S Senate,,Mitt Romney,REP,307
+Morgan,Mountain Green 1.1,U S Senate,,Write-In Votes,,3
+Morgan,Mountain Green 1.1,U S House,,Lee Castillo,DEM,75
+Morgan,Mountain Green 1.1,U S House,,Rob Bishop,REP,280
+Morgan,Mountain Green 1.1,U S House,,Eric Eliason,UUP,53
+Morgan,Mountain Green 1.1,U S House,,Adam Davis,GRN,8
+Morgan,Mountain Green 1.1,State Senate ,18,Jason Yu ,DEM,72
+Morgan,Mountain Green 1.1,State Senate ,18,Kevin L. Bryan ,LIB,43
+Morgan,Mountain Green 1.1,State Senate ,18,Ann Millner,REP,301
+Morgan,Mountain Green 1.1,Utah State House,53,Logan Wilde,REP,317
+Morgan,Mountain Green 1.1,Utah State House,53,Christopher Neville,DEM,94
+Morgan,Mountain Green 2.1,Registered Voters,,,,554
+Morgan,Mountain Green 2.1,Ballots Cast,,,,467
+Morgan,Mountain Green 2.1,Straight Party,,,CON,1
+Morgan,Mountain Green 2.1,Straight Party,,,UUP,0
+Morgan,Mountain Green 2.1,Straight Party,,,LIB,2
+Morgan,Mountain Green 2.1,Straight Party,,,REP,74
+Morgan,Mountain Green 2.1,Straight Party,,,GRN,0
+Morgan,Mountain Green 2.1,Straight Party,,,DEM,15
+Morgan,Mountain Green 2.1,Straight Party,,,IAP,0
+Morgan,Mountain Green 2.1,U S Senate,,Tim Aalders,CON,11
+Morgan,Mountain Green 2.1,U S Senate,,Craig R. Bowden,LIB,6
+Morgan,Mountain Green 2.1,U S Senate,,Reed C. McCandless,IAP,1
+Morgan,Mountain Green 2.1,U S Senate,,Jenny Wilson,DEM,70
+Morgan,Mountain Green 2.1,U S Senate,,Mitt Romney,REP,375
+Morgan,Mountain Green 2.1,U S Senate,,Write-In Votes,,0
+Morgan,Mountain Green 2.1,U S House,,Lee Castillo,DEM,72
+Morgan,Mountain Green 2.1,U S House,,Rob Bishop,REP,339
+Morgan,Mountain Green 2.1,U S House,,Eric Eliason,UUP,46
+Morgan,Mountain Green 2.1,U S House,,Adam Davis,GRN,3
+Morgan,Mountain Green 2.1,State Senate ,18,Jason Yu ,DEM,67
+Morgan,Mountain Green 2.1,State Senate ,18,Kevin L. Bryan ,LIB,21
+Morgan,Mountain Green 2.1,State Senate ,18,Ann Millner,REP,371
+Morgan,Mountain Green 2.1,Utah State House,53,Logan Wilde,REP,344
+Morgan,Mountain Green 2.1,Utah State House,53,Christopher Neville,DEM,112
+Morgan,Mountain Green 3.1,Registered Voters,,,,363
+Morgan,Mountain Green 3.1,Ballots Cast,,,,301
+Morgan,Mountain Green 3.1,Straight Party,,,CON,1
+Morgan,Mountain Green 3.1,Straight Party,,,UUP,0
+Morgan,Mountain Green 3.1,Straight Party,,,LIB,0
+Morgan,Mountain Green 3.1,Straight Party,,,REP,60
+Morgan,Mountain Green 3.1,Straight Party,,,GRN,0
+Morgan,Mountain Green 3.1,Straight Party,,,DEM,3
+Morgan,Mountain Green 3.1,Straight Party,,,IAP,1
+Morgan,Mountain Green 3.1,U S Senate,,Tim Aalders,CON,15
+Morgan,Mountain Green 3.1,U S Senate,,Craig R. Bowden,LIB,7
+Morgan,Mountain Green 3.1,U S Senate,,Reed C. McCandless,IAP,4
+Morgan,Mountain Green 3.1,U S Senate,,Jenny Wilson,DEM,28
+Morgan,Mountain Green 3.1,U S Senate,,Mitt Romney,REP,239
+Morgan,Mountain Green 3.1,U S Senate,,Write-In Votes,,5
+Morgan,Mountain Green 3.1,U S House,,Lee Castillo,DEM,19
+Morgan,Mountain Green 3.1,U S House,,Rob Bishop,REP,240
+Morgan,Mountain Green 3.1,U S House,,Eric Eliason,UUP,30
+Morgan,Mountain Green 3.1,U S House,,Adam Davis,GRN,7
+Morgan,Mountain Green 3.1,State Senate ,18,Jason Yu ,DEM,16
+Morgan,Mountain Green 3.1,State Senate ,18,Kevin L. Bryan ,LIB,19
+Morgan,Mountain Green 3.1,State Senate ,18,Ann Millner,REP,254
+Morgan,Mountain Green 3.1,Utah State House,53,Logan Wilde,REP,256
+Morgan,Mountain Green 3.1,Utah State House,53,Christopher Neville,DEM,35
+Morgan,Peterson 4.2,Registered Voters,,,,738
+Morgan,Peterson 4.2,Ballots Cast,,,,597
+Morgan,Peterson 4.2,Straight Party,,,CON,0
+Morgan,Peterson 4.2,Straight Party,,,UUP,0
+Morgan,Peterson 4.2,Straight Party,,,LIB,3
+Morgan,Peterson 4.2,Straight Party,,,REP,132
+Morgan,Peterson 4.2,Straight Party,,,GRN,0
+Morgan,Peterson 4.2,Straight Party,,,DEM,8
+Morgan,Peterson 4.2,Straight Party,,,IAP,6
+Morgan,Peterson 4.2,U S Senate,,Tim Aalders,CON,10
+Morgan,Peterson 4.2,U S Senate,,Craig R. Bowden,LIB,10
+Morgan,Peterson 4.2,U S Senate,,Reed C. McCandless,IAP,2
+Morgan,Peterson 4.2,U S Senate,,Jenny Wilson,DEM,52
+Morgan,Peterson 4.2,U S Senate,,Mitt Romney,REP,509
+Morgan,Peterson 4.2,U S Senate,,Write-In Votes,,0
+Morgan,Peterson 4.2,U S House,,Lee Castillo,DEM,49
+Morgan,Peterson 4.2,U S House,,Rob Bishop,REP,460
+Morgan,Peterson 4.2,U S House,,Eric Eliason,UUP,65
+Morgan,Peterson 4.2,U S House,,Adam Davis,GRN,5
+Morgan,Peterson 4.2,State Senate ,18,Jason Yu ,DEM,51
+Morgan,Peterson 4.2,State Senate ,18,Kevin L. Bryan ,LIB,32
+Morgan,Peterson 4.2,State Senate ,18,Ann Millner,REP,483
+Morgan,Peterson 4.2,Utah State House,53,Logan Wilde,REP,476
+Morgan,Peterson 4.2,Utah State House,53,Christopher Neville,DEM,89
+Morgan,Peterson 5.2,Registered Voters,,,,321
+Morgan,Peterson 5.2,Ballots Cast,,,,252
+Morgan,Peterson 5.2,Straight Party,,,CON,0
+Morgan,Peterson 5.2,Straight Party,,,UUP,0
+Morgan,Peterson 5.2,Straight Party,,,LIB,2
+Morgan,Peterson 5.2,Straight Party,,,REP,45
+Morgan,Peterson 5.2,Straight Party,,,GRN,0
+Morgan,Peterson 5.2,Straight Party,,,DEM,5
+Morgan,Peterson 5.2,Straight Party,,,IAP,1
+Morgan,Peterson 5.2,U S Senate,,Tim Aalders,CON,8
+Morgan,Peterson 5.2,U S Senate,,Craig R. Bowden,LIB,9
+Morgan,Peterson 5.2,U S Senate,,Reed C. McCandless,IAP,9
+Morgan,Peterson 5.2,U S Senate,,Jenny Wilson,DEM,34
+Morgan,Peterson 5.2,U S Senate,,Mitt Romney,REP,187
+Morgan,Peterson 5.2,U S Senate,,Write-In Votes,,0
+Morgan,Peterson 5.2,U S House,,Lee Castillo,DEM,26
+Morgan,Peterson 5.2,U S House,,Rob Bishop,REP,179
+Morgan,Peterson 5.2,U S House,,Eric Eliason,UUP,33
+Morgan,Peterson 5.2,U S House,,Adam Davis,GRN,9
+Morgan,Peterson 5.2,State Senate ,18,Jason Yu ,DEM,26
+Morgan,Peterson 5.2,State Senate ,18,Kevin L. Bryan ,LIB,18
+Morgan,Peterson 5.2,State Senate ,18,Ann Millner,REP,205
+Morgan,Peterson 5.2,Utah State House,53,Logan Wilde,REP,213
+Morgan,Peterson 5.2,Utah State House,53,Christopher Neville,DEM,34
+Morgan,Peterson 6.2,Registered Voters,,,,382
+Morgan,Peterson 6.2,Ballots Cast,,,,296
+Morgan,Peterson 6.2,Straight Party,,,CON,1
+Morgan,Peterson 6.2,Straight Party,,,UUP,0
+Morgan,Peterson 6.2,Straight Party,,,LIB,2
+Morgan,Peterson 6.2,Straight Party,,,REP,56
+Morgan,Peterson 6.2,Straight Party,,,GRN,0
+Morgan,Peterson 6.2,Straight Party,,,DEM,4
+Morgan,Peterson 6.2,Straight Party,,,IAP,4
+Morgan,Peterson 6.2,U S Senate,,Tim Aalders,CON,17
+Morgan,Peterson 6.2,U S Senate,,Craig R. Bowden,LIB,9
+Morgan,Peterson 6.2,U S Senate,,Reed C. McCandless,IAP,2
+Morgan,Peterson 6.2,U S Senate,,Jenny Wilson,DEM,40
+Morgan,Peterson 6.2,U S Senate,,Mitt Romney,REP,219
+Morgan,Peterson 6.2,U S Senate,,Write-In Votes,,3
+Morgan,Peterson 6.2,U S House,,Lee Castillo,DEM,36
+Morgan,Peterson 6.2,U S House,,Rob Bishop,REP,229
+Morgan,Peterson 6.2,U S House,,Eric Eliason,UUP,22
+Morgan,Peterson 6.2,U S House,,Adam Davis,GRN,4
+Morgan,Peterson 6.2,State Senate ,18,Jason Yu ,DEM,39
+Morgan,Peterson 6.2,State Senate ,18,Kevin L. Bryan ,LIB,24
+Morgan,Peterson 6.2,State Senate ,18,Ann Millner,REP,226
+Morgan,Peterson 6.2,Utah State House,53,Logan Wilde,REP,249
+Morgan,Peterson 6.2,Utah State House,53,Christopher Neville,DEM,33
+Morgan,Canyon Creek 7.3,Registered Voters,,,,326
+Morgan,Canyon Creek 7.3,Ballots Cast,,,,271
+Morgan,Canyon Creek 7.3,Straight Party,,,CON,0
+Morgan,Canyon Creek 7.3,Straight Party,,,UUP,1
+Morgan,Canyon Creek 7.3,Straight Party,,,LIB,0
+Morgan,Canyon Creek 7.3,Straight Party,,,REP,49
+Morgan,Canyon Creek 7.3,Straight Party,,,GRN,0
+Morgan,Canyon Creek 7.3,Straight Party,,,DEM,5
+Morgan,Canyon Creek 7.3,Straight Party,,,IAP,5
+Morgan,Canyon Creek 7.3,U S Senate,,Tim Aalders,CON,10
+Morgan,Canyon Creek 7.3,U S Senate,,Craig R. Bowden,LIB,3
+Morgan,Canyon Creek 7.3,U S Senate,,Reed C. McCandless,IAP,2
+Morgan,Canyon Creek 7.3,U S Senate,,Jenny Wilson,DEM,20
+Morgan,Canyon Creek 7.3,U S Senate,,Mitt Romney,REP,232
+Morgan,Canyon Creek 7.3,U S Senate,,Write-In Votes,,1
+Morgan,Canyon Creek 7.3,U S House,,Lee Castillo,DEM,17
+Morgan,Canyon Creek 7.3,U S House,,Rob Bishop,REP,232
+Morgan,Canyon Creek 7.3,U S House,,Eric Eliason,UUP,14
+Morgan,Canyon Creek 7.3,U S House,,Adam Davis,GRN,4
+Morgan,Canyon Creek 7.3,State Senate ,18,Jason Yu ,DEM,11
+Morgan,Canyon Creek 7.3,State Senate ,18,Kevin L. Bryan ,LIB,11
+Morgan,Canyon Creek 7.3,State Senate ,18,Ann Millner,REP,240
+Morgan,Canyon Creek 7.3,Utah State House,53,Logan Wilde,REP,247
+Morgan,Canyon Creek 7.3,Utah State House,53,Christopher Neville,DEM,16
+Morgan,Canyon Creek 8.3,Registered Voters,,,,309
+Morgan,Canyon Creek 8.3,Ballots Cast,,,,267
+Morgan,Canyon Creek 8.3,Straight Party,,,CON,0
+Morgan,Canyon Creek 8.3,Straight Party,,,UUP,0
+Morgan,Canyon Creek 8.3,Straight Party,,,LIB,2
+Morgan,Canyon Creek 8.3,Straight Party,,,REP,60
+Morgan,Canyon Creek 8.3,Straight Party,,,GRN,1
+Morgan,Canyon Creek 8.3,Straight Party,,,DEM,5
+Morgan,Canyon Creek 8.3,Straight Party,,,IAP,4
+Morgan,Canyon Creek 8.3,U S Senate,,Tim Aalders,CON,6
+Morgan,Canyon Creek 8.3,U S Senate,,Craig R. Bowden,LIB,7
+Morgan,Canyon Creek 8.3,U S Senate,,Reed C. McCandless,IAP,0
+Morgan,Canyon Creek 8.3,U S Senate,,Jenny Wilson,DEM,23
+Morgan,Canyon Creek 8.3,U S Senate,,Mitt Romney,REP,226
+Morgan,Canyon Creek 8.3,U S Senate,,Write-In Votes,,2
+Morgan,Canyon Creek 8.3,U S House,,Lee Castillo,DEM,27
+Morgan,Canyon Creek 8.3,U S House,,Rob Bishop,REP,217
+Morgan,Canyon Creek 8.3,U S House,,Eric Eliason,UUP,16
+Morgan,Canyon Creek 8.3,U S House,,Adam Davis,GRN,2
+Morgan,Canyon Creek 8.3,State Senate ,18,Jason Yu ,DEM,24
+Morgan,Canyon Creek 8.3,State Senate ,18,Kevin L. Bryan ,LIB,7
+Morgan,Canyon Creek 8.3,State Senate ,18,Ann Millner,REP,227
+Morgan,Canyon Creek 8.3,Utah State House,53,Logan Wilde,REP,238
+Morgan,Canyon Creek 8.3,Utah State House,53,Christopher Neville,DEM,22
+Morgan,Canyon Creek 9.3,Registered Voters,,,,406
+Morgan,Canyon Creek 9.3,Ballots Cast,,,,339
+Morgan,Canyon Creek 9.3,Straight Party,,,CON,1
+Morgan,Canyon Creek 9.3,Straight Party,,,UUP,0
+Morgan,Canyon Creek 9.3,Straight Party,,,LIB,0
+Morgan,Canyon Creek 9.3,Straight Party,,,REP,68
+Morgan,Canyon Creek 9.3,Straight Party,,,GRN,0
+Morgan,Canyon Creek 9.3,Straight Party,,,DEM,3
+Morgan,Canyon Creek 9.3,Straight Party,,,IAP,2
+Morgan,Canyon Creek 9.3,U S Senate,,Tim Aalders,CON,12
+Morgan,Canyon Creek 9.3,U S Senate,,Craig R. Bowden,LIB,13
+Morgan,Canyon Creek 9.3,U S Senate,,Reed C. McCandless,IAP,2
+Morgan,Canyon Creek 9.3,U S Senate,,Jenny Wilson,DEM,39
+Morgan,Canyon Creek 9.3,U S Senate,,Mitt Romney,REP,269
+Morgan,Canyon Creek 9.3,U S Senate,,Write-In Votes,,0
+Morgan,Canyon Creek 9.3,U S House,,Lee Castillo,DEM,25
+Morgan,Canyon Creek 9.3,U S House,,Rob Bishop,REP,285
+Morgan,Canyon Creek 9.3,U S House,,Eric Eliason,UUP,21
+Morgan,Canyon Creek 9.3,U S House,,Adam Davis,GRN,3
+Morgan,Canyon Creek 9.3,Utah State House,53,Logan Wilde,REP,314
+Morgan,Canyon Creek 9.3,Utah State House,53,Christopher Neville,DEM,22
+Morgan,City 10.4,Registered Voters,,,,469
+Morgan,City 10.4,Ballots Cast,,,,394
+Morgan,City 10.4,Straight Party,,,CON,1
+Morgan,City 10.4,Straight Party,,,UUP,0
+Morgan,City 10.4,Straight Party,,,LIB,0
+Morgan,City 10.4,Straight Party,,,REP,69
+Morgan,City 10.4,Straight Party,,,GRN,0
+Morgan,City 10.4,Straight Party,,,DEM,6
+Morgan,City 10.4,Straight Party,,,IAP,1
+Morgan,City 10.4,U S Senate,,Tim Aalders,CON,11
+Morgan,City 10.4,U S Senate,,Craig R. Bowden,LIB,18
+Morgan,City 10.4,U S Senate,,Reed C. McCandless,IAP,0
+Morgan,City 10.4,U S Senate,,Jenny Wilson,DEM,43
+Morgan,City 10.4,U S Senate,,Mitt Romney,REP,319
+Morgan,City 10.4,U S Senate,,Write-In Votes,,1
+Morgan,City 10.4,U S House,,Lee Castillo,DEM,36
+Morgan,City 10.4,U S House,,Rob Bishop,REP,317
+Morgan,City 10.4,U S House,,Eric Eliason,UUP,32
+Morgan,City 10.4,U S House,,Adam Davis,GRN,0
+Morgan,City 10.4,State Senate ,18,Jason Yu ,DEM,33
+Morgan,City 10.4,State Senate ,18,Kevin L. Bryan ,LIB,20
+Morgan,City 10.4,State Senate ,18,Ann Millner,REP,326
+Morgan,City 10.4,Utah State House,53,Logan Wilde,REP,348
+Morgan,City 10.4,Utah State House,53,Christopher Neville,DEM,39
+Morgan,City 11.4,Registered Voters,,,,235
+Morgan,City 11.4,Ballots Cast,,,,209
+Morgan,City 11.4,Straight Party,,,CON,3
+Morgan,City 11.4,Straight Party,,,UUP,0
+Morgan,City 11.4,Straight Party,,,LIB,0
+Morgan,City 11.4,Straight Party,,,REP,29
+Morgan,City 11.4,Straight Party,,,GRN,0
+Morgan,City 11.4,Straight Party,,,DEM,2
+Morgan,City 11.4,Straight Party,,,IAP,5
+Morgan,City 11.4,U S Senate,,Tim Aalders,CON,9
+Morgan,City 11.4,U S Senate,,Craig R. Bowden,LIB,8
+Morgan,City 11.4,U S Senate,,Reed C. McCandless,IAP,4
+Morgan,City 11.4,U S Senate,,Jenny Wilson,DEM,37
+Morgan,City 11.4,U S Senate,,Mitt Romney,REP,148
+Morgan,City 11.4,U S Senate,,Write-In Votes,,0
+Morgan,City 11.4,U S House,,Lee Castillo,DEM,29
+Morgan,City 11.4,U S House,,Rob Bishop,REP,145
+Morgan,City 11.4,U S House,,Eric Eliason,UUP,16
+Morgan,City 11.4,U S House,,Adam Davis,GRN,7
+Morgan,City 11.4,State Senate ,18,Jason Yu ,DEM,29
+Morgan,City 11.4,State Senate ,18,Kevin L. Bryan ,LIB,10
+Morgan,City 11.4,State Senate ,18,Ann Millner,REP,155
+Morgan,City 11.4,Utah State House,53,Logan Wilde,REP,184
+Morgan,City 11.4,Utah State House,53,Christopher Neville,DEM,19
+Morgan,City 12.4,Registered Voters,,,,450
+Morgan,City 12.4,Ballots Cast,,,,372
+Morgan,City 12.4,Straight Party,,,CON,0
+Morgan,City 12.4,Straight Party,,,UUP,0
+Morgan,City 12.4,Straight Party,,,LIB,0
+Morgan,City 12.4,Straight Party,,,REP,67
+Morgan,City 12.4,Straight Party,,,GRN,0
+Morgan,City 12.4,Straight Party,,,DEM,2
+Morgan,City 12.4,Straight Party,,,IAP,4
+Morgan,City 12.4,U S Senate,,Tim Aalders,CON,9
+Morgan,City 12.4,U S Senate,,Craig R. Bowden,LIB,9
+Morgan,City 12.4,U S Senate,,Reed C. McCandless,IAP,3
+Morgan,City 12.4,U S Senate,,Jenny Wilson,DEM,45
+Morgan,City 12.4,U S Senate,,Mitt Romney,REP,301
+Morgan,City 12.4,U S Senate,,Write-In Votes,,0
+Morgan,City 12.4,U S House,,Lee Castillo,DEM,43
+Morgan,City 12.4,U S House,,Rob Bishop,REP,296
+Morgan,City 12.4,U S House,,Eric Eliason,UUP,24
+Morgan,City 12.4,U S House,,Adam Davis,GRN,2
+Morgan,City 12.4,State Senate ,18,Jason Yu ,DEM,43
+Morgan,City 12.4,State Senate ,18,Kevin L. Bryan ,LIB,22
+Morgan,City 12.4,State Senate ,18,Ann Millner,REP,299
+Morgan,City 12.4,Utah State House,53,Logan Wilde,REP,327
+Morgan,City 12.4,Utah State House,53,Christopher Neville,DEM,36
+Morgan,No Mogan 13.5,Registered Voters,,,,596
+Morgan,No Mogan 13.5,Ballots Cast,,,,523
+Morgan,No Mogan 13.5,Straight Party,,,CON,2
+Morgan,No Mogan 13.5,Straight Party,,,UUP,0
+Morgan,No Mogan 13.5,Straight Party,,,LIB,0
+Morgan,No Mogan 13.5,Straight Party,,,REP,69
+Morgan,No Mogan 13.5,Straight Party,,,GRN,0
+Morgan,No Mogan 13.5,Straight Party,,,DEM,7
+Morgan,No Mogan 13.5,Straight Party,,,IAP,9
+Morgan,No Mogan 13.5,U S Senate,,Tim Aalders,CON,15
+Morgan,No Mogan 13.5,U S Senate,,Craig R. Bowden,LIB,6
+Morgan,No Mogan 13.5,U S Senate,,Reed C. McCandless,IAP,8
+Morgan,No Mogan 13.5,U S Senate,,Jenny Wilson,DEM,39
+Morgan,No Mogan 13.5,U S Senate,,Mitt Romney,REP,444
+Morgan,No Mogan 13.5,U S Senate,,Write-In Votes,,3
+Morgan,No Mogan 13.5,U S House,,Lee Castillo,DEM,61
+Morgan,No Mogan 13.5,U S House,,Rob Bishop,REP,381
+Morgan,No Mogan 13.5,U S House,,Eric Eliason,UUP,54
+Morgan,No Mogan 13.5,U S House,,Adam Davis,GRN,11
+Morgan,No Mogan 13.5,State Senate ,18,Jason Yu ,DEM,44
+Morgan,No Mogan 13.5,State Senate ,18,Kevin L. Bryan ,LIB,22
+Morgan,No Mogan 13.5,State Senate ,18,Ann Millner,REP,434
+Morgan,No Mogan 13.5,Utah State House,53,Logan Wilde,REP,465
+Morgan,No Mogan 13.5,Utah State House,53,Christopher Neville,DEM,41
+Morgan,No Mogan 14.5,Registered Voters,,,,460
+Morgan,No Mogan 14.5,Ballots Cast,,,,378
+Morgan,No Mogan 14.5,Straight Party,,,CON,0
+Morgan,No Mogan 14.5,Straight Party,,,UUP,0
+Morgan,No Mogan 14.5,Straight Party,,,LIB,1
+Morgan,No Mogan 14.5,Straight Party,,,REP,75
+Morgan,No Mogan 14.5,Straight Party,,,GRN,2
+Morgan,No Mogan 14.5,Straight Party,,,DEM,10
+Morgan,No Mogan 14.5,Straight Party,,,IAP,8
+Morgan,No Mogan 14.5,U S Senate,,Tim Aalders,CON,14
+Morgan,No Mogan 14.5,U S Senate,,Craig R. Bowden,LIB,5
+Morgan,No Mogan 14.5,U S Senate,,Reed C. McCandless,IAP,7
+Morgan,No Mogan 14.5,U S Senate,,Jenny Wilson,DEM,45
+Morgan,No Mogan 14.5,U S Senate,,Mitt Romney,REP,304
+Morgan,No Mogan 14.5,U S Senate,,Write-In Votes,,0
+Morgan,No Mogan 14.5,U S House,,Lee Castillo,DEM,50
+Morgan,No Mogan 14.5,U S House,,Rob Bishop,REP,290
+Morgan,No Mogan 14.5,U S House,,Eric Eliason,UUP,21
+Morgan,No Mogan 14.5,U S House,,Adam Davis,GRN,7
+Morgan,No Mogan 14.5,State Senate ,18,Jason Yu ,DEM,55
+Morgan,No Mogan 14.5,State Senate ,18,Kevin L. Bryan ,LIB,20
+Morgan,No Mogan 14.5,State Senate ,18,Ann Millner,REP,289
+Morgan,No Mogan 14.5,Utah State House,53,Logan Wilde,REP,334
+Morgan,No Mogan 14.5,Utah State House,53,Christopher Neville,DEM,38
+Morgan,Croydon 15.5,Registered Voters,,,,100
+Morgan,Croydon 15.5,Ballots Cast,,,,86
+Morgan,Croydon 15.5,Straight Party,,,CON,0
+Morgan,Croydon 15.5,Straight Party,,,UUP,0
+Morgan,Croydon 15.5,Straight Party,,,LIB,0
+Morgan,Croydon 15.5,Straight Party,,,REP,14
+Morgan,Croydon 15.5,Straight Party,,,GRN,0
+Morgan,Croydon 15.5,Straight Party,,,DEM,2
+Morgan,Croydon 15.5,Straight Party,,,IAP,2
+Morgan,Croydon 15.5,U S Senate,,Tim Aalders,CON,11
+Morgan,Croydon 15.5,U S Senate,,Craig R. Bowden,LIB,4
+Morgan,Croydon 15.5,U S Senate,,Reed C. McCandless,IAP,0
+Morgan,Croydon 15.5,U S Senate,,Jenny Wilson,DEM,6
+Morgan,Croydon 15.5,U S Senate,,Mitt Romney,REP,65
+Morgan,Croydon 15.5,U S Senate,,Write-In Votes,,0
+Morgan,Croydon 15.5,U S House,,Lee Castillo,DEM,9
+Morgan,Croydon 15.5,U S House,,Rob Bishop,REP,64
+Morgan,Croydon 15.5,U S House,,Eric Eliason,UUP,8
+Morgan,Croydon 15.5,U S House,,Adam Davis,GRN,2
+Morgan,Croydon 15.5,Utah State House,53,Logan Wilde,REP,80
+Morgan,Croydon 15.5,Utah State House,53,Christopher Neville,DEM,6
