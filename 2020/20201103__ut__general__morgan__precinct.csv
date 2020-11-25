@@ -1,0 +1,470 @@
+county,precinct,office,district,candidate,party,votes
+Morgan,1:1,Registered Voters,,,,626
+Morgan,1:1,Ballots Cast,,,,552
+Morgan,1:1,President,,"Brock Pierce, Karla Ballard",,0
+Morgan,1:1,President,,"Kanye West, Michelle Tidball",,3
+Morgan,1:1,President,,"Joseph R. Biden, Kamala D. Harris",DEM,143
+Morgan,1:1,President,,"Don Blankenship, William Mohr",CON,3
+Morgan,1:1,President,,"Jo Jorgensen, Jeremy Cohen",LIB,22
+Morgan,1:1,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,1:1,President,,"Howie Hawkins, Angela Walker",GRN,1
+Morgan,1:1,President,,Gloria La Riva,,0
+Morgan,1:1,President,,"Donald J. Trump, Michael R. Pence",REP,363
+Morgan,1:1,President,,Write-In ,,8
+Morgan,1:1,U.S. House,1,Darren Parry,DEM,117
+Morgan,1:1,U.S. House,1,Blake David Moore,REP,395
+Morgan,1:1,U.S. House,1,Write-In ,,6
+Morgan,1:1,Governor,,"Chris Peterson, Karina Brown",DEM,102
+Morgan,1:1,Governor,,"Greg Duerden, Wayne Hill",IAP,9
+Morgan,1:1,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,370
+Morgan,1:1,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,25
+Morgan,1:1,Governor,,Write-In ,,23
+Morgan,1:1,Attorney General,,Rudy J. Bautista,LIB,51
+Morgan,1:1,Attorney General,,Greg Skordas,DEM,130
+Morgan,1:1,Attorney General,,Sean D. Reyes,REP,351
+Morgan,1:1,State Auditor,,John 'Frugal' Dougall,REP,387
+Morgan,1:1,State Auditor,,Jeffrey L. Ostler,CON,75
+Morgan,1:1,State Auditor,,Brian L. Fabbi,UUP,44
+Morgan,1:1,State Treasurer,,Richard Proctor,CON,50
+Morgan,1:1,State Treasurer,,David Damschen,REP,404
+Morgan,1:1,State Treasurer,,Joseph Speciale,LIB,53
+Morgan,1:1,State House,53,Cheryl Butler,DEM,165
+Morgan,1:1,State House,53,Kera Birkeland,REP,359
+Morgan,2:1,Registered Voters,,,,639
+Morgan,2:1,Ballots Cast,,,,579
+Morgan,2:1,President,,"Brock Pierce, Karla Ballard",,0
+Morgan,2:1,President,,"Kanye West, Michelle Tidball",,2
+Morgan,2:1,President,,"Joseph R. Biden, Kamala D. Harris",DEM,137
+Morgan,2:1,President,,"Don Blankenship, William Mohr",CON,0
+Morgan,2:1,President,,"Jo Jorgensen, Jeremy Cohen",LIB,12
+Morgan,2:1,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,2:1,President,,"Howie Hawkins, Angela Walker",GRN,2
+Morgan,2:1,President,,Gloria La Riva,,0
+Morgan,2:1,President,,"Donald J. Trump, Michael R. Pence",REP,402
+Morgan,2:1,President,,Write-In ,,17
+Morgan,2:1,U.S. House,1,Darren Parry,DEM,117
+Morgan,2:1,U.S. House,1,Blake David Moore,REP,428
+Morgan,2:1,U.S. House,1,Write-In ,,5
+Morgan,2:1,Governor,,"Chris Peterson, Karina Brown",DEM,93
+Morgan,2:1,Governor,,"Greg Duerden, Wayne Hill",IAP,13
+Morgan,2:1,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,438
+Morgan,2:1,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,12
+Morgan,2:1,Governor,,Write-In ,,8
+Morgan,2:1,Attorney General,,Rudy J. Bautista,LIB,21
+Morgan,2:1,Attorney General,,Greg Skordas,DEM,121
+Morgan,2:1,Attorney General,,Sean D. Reyes,REP,419
+Morgan,2:1,State Auditor,,John 'Frugal' Dougall,REP,456
+Morgan,2:1,State Auditor,,Jeffrey L. Ostler,CON,59
+Morgan,2:1,State Auditor,,Brian L. Fabbi,UUP,24
+Morgan,2:1,State Treasurer,,Richard Proctor,CON,51
+Morgan,2:1,State Treasurer,,David Damschen,REP,450
+Morgan,2:1,State Treasurer,,Joseph Speciale,LIB,38
+Morgan,2:1,State House,53,Cheryl Butler,DEM,175
+Morgan,2:1,State House,53,Kera Birkeland,REP,384
+Morgan,3:1,Registered Voters,,,,429
+Morgan,3:1,Ballots Cast,,,,375
+Morgan,3:1,President,,"Brock Pierce, Karla Ballard",,0
+Morgan,3:1,President,,"Kanye West, Michelle Tidball",,2
+Morgan,3:1,President,,"Joseph R. Biden, Kamala D. Harris",DEM,57
+Morgan,3:1,President,,"Don Blankenship, William Mohr",CON,3
+Morgan,3:1,President,,"Jo Jorgensen, Jeremy Cohen",LIB,11
+Morgan,3:1,President,,"Joe McHugh, Elizabeth Storm",,2
+Morgan,3:1,President,,"Howie Hawkins, Angela Walker",GRN,1
+Morgan,3:1,President,,Gloria La Riva,,0
+Morgan,3:1,President,,"Donald J. Trump, Michael R. Pence",REP,293
+Morgan,3:1,President,,Write-In ,,5
+Morgan,3:1,U.S. House,1,Darren Parry,DEM,57
+Morgan,3:1,U.S. House,1,Blake David Moore,REP,305
+Morgan,3:1,U.S. House,1,Write-In ,,2
+Morgan,3:1,Governor,,"Chris Peterson, Karina Brown",DEM,46
+Morgan,3:1,Governor,,"Greg Duerden, Wayne Hill",IAP,5
+Morgan,3:1,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,291
+Morgan,3:1,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,15
+Morgan,3:1,Governor,,Write-In ,,11
+Morgan,3:1,Attorney General,,Rudy J. Bautista,LIB,17
+Morgan,3:1,Attorney General,,Greg Skordas,DEM,55
+Morgan,3:1,Attorney General,,Sean D. Reyes,REP,296
+Morgan,3:1,State Auditor,,John 'Frugal' Dougall,REP,312
+Morgan,3:1,State Auditor,,Jeffrey L. Ostler,CON,25
+Morgan,3:1,State Auditor,,Brian L. Fabbi,UUP,13
+Morgan,3:1,State Treasurer,,Richard Proctor,CON,19
+Morgan,3:1,State Treasurer,,David Damschen,REP,305
+Morgan,3:1,State Treasurer,,Joseph Speciale,LIB,26
+Morgan,3:1,State House,53,Cheryl Butler,DEM,94
+Morgan,3:1,State House,53,Kera Birkeland,REP,268
+Morgan,4:1,Registered Voters,,,,974
+Morgan,4:1,Ballots Cast,,,,866
+Morgan,4:1,President,,"Brock Pierce, Karla Ballard",,0
+Morgan,4:1,President,,"Kanye West, Michelle Tidball",,6
+Morgan,4:1,President,,"Joseph R. Biden, Kamala D. Harris",DEM,191
+Morgan,4:1,President,,"Don Blankenship, William Mohr",CON,0
+Morgan,4:1,President,,"Jo Jorgensen, Jeremy Cohen",LIB,29
+Morgan,4:1,President,,"Joe McHugh, Elizabeth Storm",,2
+Morgan,4:1,President,,"Howie Hawkins, Angela Walker",GRN,2
+Morgan,4:1,President,,Gloria La Riva,,0
+Morgan,4:1,President,,"Donald J. Trump, Michael R. Pence",REP,611
+Morgan,4:1,President,,Write-In ,,16
+Morgan,4:1,U.S. House,1,Darren Parry,DEM,144
+Morgan,4:1,U.S. House,1,Blake David Moore,REP,667
+Morgan,4:1,U.S. House,1,Write-In ,,1
+Morgan,4:1,Governor,,"Chris Peterson, Karina Brown",DEM,112
+Morgan,4:1,Governor,,"Greg Duerden, Wayne Hill",IAP,11
+Morgan,4:1,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,697
+Morgan,4:1,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,17
+Morgan,4:1,Governor,,Write-In ,,12
+Morgan,4:1,Attorney General,,Rudy J. Bautista,LIB,36
+Morgan,4:1,Attorney General,,Greg Skordas,DEM,155
+Morgan,4:1,Attorney General,,Sean D. Reyes,REP,650
+Morgan,4:1,State Auditor,,John 'Frugal' Dougall,REP,694
+Morgan,4:1,State Auditor,,Jeffrey L. Ostler,CON,65
+Morgan,4:1,State Auditor,,Brian L. Fabbi,UUP,35
+Morgan,4:1,State Treasurer,,Richard Proctor,CON,54
+Morgan,4:1,State Treasurer,,David Damschen,REP,670
+Morgan,4:1,State Treasurer,,Joseph Speciale,LIB,59
+Morgan,4:1,State House,53,Cheryl Butler,DEM,199
+Morgan,4:1,State House,53,Kera Birkeland,REP,634
+Morgan,5:3,Registered Voters,,,,375
+Morgan,5:3,Ballots Cast,,,,326
+Morgan,5:3,President,,"Brock Pierce, Karla Ballard",,0
+Morgan,5:3,President,,"Kanye West, Michelle Tidball",,2
+Morgan,5:3,President,,"Joseph R. Biden, Kamala D. Harris",DEM,47
+Morgan,5:3,President,,"Don Blankenship, William Mohr",CON,2
+Morgan,5:3,President,,"Jo Jorgensen, Jeremy Cohen",LIB,9
+Morgan,5:3,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,5:3,President,,"Howie Hawkins, Angela Walker",GRN,0
+Morgan,5:3,President,,Gloria La Riva,,0
+Morgan,5:3,President,,"Donald J. Trump, Michael R. Pence",REP,263
+Morgan,5:3,President,,Write-In ,,3
+Morgan,5:3,U.S. House,1,Darren Parry,DEM,49
+Morgan,5:3,U.S. House,1,Blake David Moore,REP,252
+Morgan,5:3,U.S. House,1,Write-In ,,0
+Morgan,5:3,Governor,,"Chris Peterson, Karina Brown",DEM,41
+Morgan,5:3,Governor,,"Greg Duerden, Wayne Hill",IAP,8
+Morgan,5:3,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,239
+Morgan,5:3,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,15
+Morgan,5:3,Governor,,Write-In ,,11
+Morgan,5:3,Attorney General,,Rudy J. Bautista,LIB,11
+Morgan,5:3,Attorney General,,Greg Skordas,DEM,58
+Morgan,5:3,Attorney General,,Sean D. Reyes,REP,252
+Morgan,5:3,State Auditor,,John 'Frugal' Dougall,REP,275
+Morgan,5:3,State Auditor,,Jeffrey L. Ostler,CON,20
+Morgan,5:3,State Auditor,,Brian L. Fabbi,UUP,8
+Morgan,5:3,State Treasurer,,Richard Proctor,CON,16
+Morgan,5:3,State Treasurer,,David Damschen,REP,272
+Morgan,5:3,State Treasurer,,Joseph Speciale,LIB,19
+Morgan,5:3,State House,53,Cheryl Butler,DEM,55
+Morgan,5:3,State House,53,Kera Birkeland,REP,259
+Morgan,6:3,Registered Voters,,,,466
+Morgan,6:3,Ballots Cast,,,,413
+Morgan,6:3,President,,"Brock Pierce, Karla Ballard",,1
+Morgan,6:3,President,,"Kanye West, Michelle Tidball",,1
+Morgan,6:3,President,,"Joseph R. Biden, Kamala D. Harris",DEM,51
+Morgan,6:3,President,,"Don Blankenship, William Mohr",CON,0
+Morgan,6:3,President,,"Jo Jorgensen, Jeremy Cohen",LIB,8
+Morgan,6:3,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,6:3,President,,"Howie Hawkins, Angela Walker",GRN,0
+Morgan,6:3,President,,Gloria La Riva,,0
+Morgan,6:3,President,,"Donald J. Trump, Michael R. Pence",REP,345
+Morgan,6:3,President,,Write-In ,,2
+Morgan,6:3,U.S. House,1,Darren Parry,DEM,45
+Morgan,6:3,U.S. House,1,Blake David Moore,REP,338
+Morgan,6:3,U.S. House,1,Write-In ,,3
+Morgan,6:3,Governor,,"Chris Peterson, Karina Brown",DEM,37
+Morgan,6:3,Governor,,"Greg Duerden, Wayne Hill",IAP,8
+Morgan,6:3,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,317
+Morgan,6:3,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,32
+Morgan,6:3,Governor,,Write-In ,,9
+Morgan,6:3,Attorney General,,Rudy J. Bautista,LIB,19
+Morgan,6:3,Attorney General,,Greg Skordas,DEM,49
+Morgan,6:3,Attorney General,,Sean D. Reyes,REP,330
+Morgan,6:3,State Auditor,,John 'Frugal' Dougall,REP,324
+Morgan,6:3,State Auditor,,Jeffrey L. Ostler,CON,51
+Morgan,6:3,State Auditor,,Brian L. Fabbi,UUP,12
+Morgan,6:3,State Treasurer,,Richard Proctor,CON,34
+Morgan,6:3,State Treasurer,,David Damschen,REP,326
+Morgan,6:3,State Treasurer,,Joseph Speciale,LIB,27
+Morgan,6:3,State House,53,Cheryl Butler,DEM,57
+Morgan,6:3,State House,53,Kera Birkeland,REP,330
+Morgan,7:3,Registered Voters,,,,357
+Morgan,7:3,Ballots Cast,,,,327
+Morgan,7:3,President,,"Brock Pierce, Karla Ballard",,0
+Morgan,7:3,President,,"Kanye West, Michelle Tidball",,1
+Morgan,7:3,President,,"Joseph R. Biden, Kamala D. Harris",DEM,20
+Morgan,7:3,President,,"Don Blankenship, William Mohr",CON,0
+Morgan,7:3,President,,"Jo Jorgensen, Jeremy Cohen",LIB,2
+Morgan,7:3,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,7:3,President,,"Howie Hawkins, Angela Walker",GRN,2
+Morgan,7:3,President,,Gloria La Riva,,0
+Morgan,7:3,President,,"Donald J. Trump, Michael R. Pence",REP,299
+Morgan,7:3,President,,Write-In ,,1
+Morgan,7:3,U.S. House,1,Darren Parry,DEM,22
+Morgan,7:3,U.S. House,1,Blake David Moore,REP,292
+Morgan,7:3,U.S. House,1,Write-In ,,1
+Morgan,7:3,Governor,,"Chris Peterson, Karina Brown",DEM,24
+Morgan,7:3,Governor,,"Greg Duerden, Wayne Hill",IAP,6
+Morgan,7:3,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,267
+Morgan,7:3,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,7
+Morgan,7:3,Governor,,Write-In ,,15
+Morgan,7:3,Attorney General,,Rudy J. Bautista,LIB,13
+Morgan,7:3,Attorney General,,Greg Skordas,DEM,31
+Morgan,7:3,Attorney General,,Sean D. Reyes,REP,278
+Morgan,7:3,State Auditor,,John 'Frugal' Dougall,REP,268
+Morgan,7:3,State Auditor,,Jeffrey L. Ostler,CON,27
+Morgan,7:3,State Auditor,,Brian L. Fabbi,UUP,9
+Morgan,7:3,State Treasurer,,Richard Proctor,CON,17
+Morgan,7:3,State Treasurer,,David Damschen,REP,282
+Morgan,7:3,State Treasurer,,Joseph Speciale,LIB,12
+Morgan,7:3,State House,53,Cheryl Butler,DEM,44
+Morgan,7:3,State House,53,Kera Birkeland,REP,270
+Morgan,8:3,Registered Voters,,,,337
+Morgan,8:3,Ballots Cast,,,,316
+Morgan,8:3,President,,"Brock Pierce, Karla Ballard",,1
+Morgan,8:3,President,,"Kanye West, Michelle Tidball",,2
+Morgan,8:3,President,,"Joseph R. Biden, Kamala D. Harris",DEM,30
+Morgan,8:3,President,,"Don Blankenship, William Mohr",CON,0
+Morgan,8:3,President,,"Jo Jorgensen, Jeremy Cohen",LIB,5
+Morgan,8:3,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,8:3,President,,"Howie Hawkins, Angela Walker",GRN,0
+Morgan,8:3,President,,Gloria La Riva,,0
+Morgan,8:3,President,,"Donald J. Trump, Michael R. Pence",REP,272
+Morgan,8:3,President,,Write-In ,,3
+Morgan,8:3,U.S. House,1,Darren Parry,DEM,32
+Morgan,8:3,U.S. House,1,Blake David Moore,REP,266
+Morgan,8:3,U.S. House,1,Write-In ,,1
+Morgan,8:3,Governor,,"Chris Peterson, Karina Brown",DEM,24
+Morgan,8:3,Governor,,"Greg Duerden, Wayne Hill",IAP,6
+Morgan,8:3,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,266
+Morgan,8:3,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,4
+Morgan,8:3,Governor,,Write-In ,,5
+Morgan,8:3,Attorney General,,Rudy J. Bautista,LIB,9
+Morgan,8:3,Attorney General,,Greg Skordas,DEM,29
+Morgan,8:3,Attorney General,,Sean D. Reyes,REP,270
+Morgan,8:3,State Auditor,,John 'Frugal' Dougall,REP,277
+Morgan,8:3,State Auditor,,Jeffrey L. Ostler,CON,11
+Morgan,8:3,State Auditor,,Brian L. Fabbi,UUP,11
+Morgan,8:3,State Treasurer,,Richard Proctor,CON,10
+Morgan,8:3,State Treasurer,,David Damschen,REP,267
+Morgan,8:3,State Treasurer,,Joseph Speciale,LIB,17
+Morgan,8:3,State House,53,Cheryl Butler,DEM,42
+Morgan,8:3,State House,53,Kera Birkeland,REP,258
+Morgan,9:3,Registered Voters,,,,458
+Morgan,9:3,Ballots Cast,,,,415
+Morgan,9:3,President,,"Brock Pierce, Karla Ballard",,1
+Morgan,9:3,President,,"Kanye West, Michelle Tidball",,3
+Morgan,9:3,President,,"Joseph R. Biden, Kamala D. Harris",DEM,41
+Morgan,9:3,President,,"Don Blankenship, William Mohr",CON,0
+Morgan,9:3,President,,"Jo Jorgensen, Jeremy Cohen",LIB,8
+Morgan,9:3,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,9:3,President,,"Howie Hawkins, Angela Walker",GRN,0
+Morgan,9:3,President,,Gloria La Riva,,0
+Morgan,9:3,President,,"Donald J. Trump, Michael R. Pence",REP,356
+Morgan,9:3,President,,Write-In ,,5
+Morgan,9:3,U.S. House,1,Darren Parry,DEM,45
+Morgan,9:3,U.S. House,1,Blake David Moore,REP,350
+Morgan,9:3,U.S. House,1,Write-In ,,2
+Morgan,9:3,Governor,,"Chris Peterson, Karina Brown",DEM,28
+Morgan,9:3,Governor,,"Greg Duerden, Wayne Hill",IAP,6
+Morgan,9:3,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,351
+Morgan,9:3,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,11
+Morgan,9:3,Governor,,Write-In ,,11
+Morgan,9:3,Attorney General,,Rudy J. Bautista,LIB,16
+Morgan,9:3,Attorney General,,Greg Skordas,DEM,46
+Morgan,9:3,Attorney General,,Sean D. Reyes,REP,345
+Morgan,9:3,State Auditor,,John 'Frugal' Dougall,REP,358
+Morgan,9:3,State Auditor,,Jeffrey L. Ostler,CON,35
+Morgan,9:3,State Auditor,,Brian L. Fabbi,UUP,5
+Morgan,9:3,State Treasurer,,Richard Proctor,CON,23
+Morgan,9:3,State Treasurer,,David Damschen,REP,356
+Morgan,9:3,State Treasurer,,Joseph Speciale,LIB,15
+Morgan,9:3,State Senate,19,Katy Owens,DEM,51
+Morgan,9:3,State Senate,19,John D. Johnson,REP,354
+Morgan,9:3,State House,53,Cheryl Butler,DEM,69
+Morgan,9:3,State House,53,Kera Birkeland,REP,331
+Morgan,10:2,Registered Voters,,,,534
+Morgan,10:2,Ballots Cast,,,,496
+Morgan,10:2,President,,"Brock Pierce, Karla Ballard",,0
+Morgan,10:2,President,,"Kanye West, Michelle Tidball",,4
+Morgan,10:2,President,,"Joseph R. Biden, Kamala D. Harris",DEM,49
+Morgan,10:2,President,,"Don Blankenship, William Mohr",CON,4
+Morgan,10:2,President,,"Jo Jorgensen, Jeremy Cohen",LIB,14
+Morgan,10:2,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,10:2,President,,"Howie Hawkins, Angela Walker",GRN,0
+Morgan,10:2,President,,Gloria La Riva,,0
+Morgan,10:2,President,,"Donald J. Trump, Michael R. Pence",REP,412
+Morgan,10:2,President,,Write-In ,,8
+Morgan,10:2,U.S. House,1,Darren Parry,DEM,43
+Morgan,10:2,U.S. House,1,Blake David Moore,REP,427
+Morgan,10:2,U.S. House,1,Write-In ,,1
+Morgan,10:2,Governor,,"Chris Peterson, Karina Brown",DEM,39
+Morgan,10:2,Governor,,"Greg Duerden, Wayne Hill",IAP,14
+Morgan,10:2,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,401
+Morgan,10:2,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,20
+Morgan,10:2,Governor,,Write-In ,,10
+Morgan,10:2,Attorney General,,Rudy J. Bautista,LIB,18
+Morgan,10:2,Attorney General,,Greg Skordas,DEM,45
+Morgan,10:2,Attorney General,,Sean D. Reyes,REP,418
+Morgan,10:2,State Auditor,,John 'Frugal' Dougall,REP,407
+Morgan,10:2,State Auditor,,Jeffrey L. Ostler,CON,43
+Morgan,10:2,State Auditor,,Brian L. Fabbi,UUP,15
+Morgan,10:2,State Treasurer,,Richard Proctor,CON,27
+Morgan,10:2,State Treasurer,,David Damschen,REP,417
+Morgan,10:2,State Treasurer,,Joseph Speciale,LIB,24
+Morgan,10:2,State House,53,Cheryl Butler,DEM,83
+Morgan,10:2,State House,53,Kera Birkeland,REP,399
+Morgan,11:2,Registered Voters,,,,261
+Morgan,11:2,Ballots Cast,,,,229
+Morgan,11:2,President,,"Brock Pierce, Karla Ballard",,1
+Morgan,11:2,President,,"Kanye West, Michelle Tidball",,1
+Morgan,11:2,President,,"Joseph R. Biden, Kamala D. Harris",DEM,44
+Morgan,11:2,President,,"Don Blankenship, William Mohr",CON,2
+Morgan,11:2,President,,"Jo Jorgensen, Jeremy Cohen",LIB,4
+Morgan,11:2,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,11:2,President,,"Howie Hawkins, Angela Walker",GRN,2
+Morgan,11:2,President,,Gloria La Riva,,0
+Morgan,11:2,President,,"Donald J. Trump, Michael R. Pence",REP,170
+Morgan,11:2,President,,Write-In ,,3
+Morgan,11:2,U.S. House,1,Darren Parry,DEM,24
+Morgan,11:2,U.S. House,1,Blake David Moore,REP,187
+Morgan,11:2,U.S. House,1,Write-In ,,2
+Morgan,11:2,Governor,,"Chris Peterson, Karina Brown",DEM,31
+Morgan,11:2,Governor,,"Greg Duerden, Wayne Hill",IAP,4
+Morgan,11:2,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,177
+Morgan,11:2,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,2
+Morgan,11:2,Governor,,Write-In ,,7
+Morgan,11:2,Attorney General,,Rudy J. Bautista,LIB,10
+Morgan,11:2,Attorney General,,Greg Skordas,DEM,36
+Morgan,11:2,Attorney General,,Sean D. Reyes,REP,173
+Morgan,11:2,State Auditor,,John 'Frugal' Dougall,REP,173
+Morgan,11:2,State Auditor,,Jeffrey L. Ostler,CON,28
+Morgan,11:2,State Auditor,,Brian L. Fabbi,UUP,11
+Morgan,11:2,State Treasurer,,Richard Proctor,CON,12
+Morgan,11:2,State Treasurer,,David Damschen,REP,181
+Morgan,11:2,State Treasurer,,Joseph Speciale,LIB,19
+Morgan,11:2,State House,53,Cheryl Butler,DEM,64
+Morgan,11:2,State House,53,Kera Birkeland,REP,157
+Morgan,12:2,Registered Voters,,,,481
+Morgan,12:2,Ballots Cast,,,,445
+Morgan,12:2,President,,"Brock Pierce, Karla Ballard",,0
+Morgan,12:2,President,,"Kanye West, Michelle Tidball",,0
+Morgan,12:2,President,,"Joseph R. Biden, Kamala D. Harris",DEM,68
+Morgan,12:2,President,,"Don Blankenship, William Mohr",CON,2
+Morgan,12:2,President,,"Jo Jorgensen, Jeremy Cohen",LIB,11
+Morgan,12:2,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,12:2,President,,"Howie Hawkins, Angela Walker",GRN,1
+Morgan,12:2,President,,Gloria La Riva,,0
+Morgan,12:2,President,,"Donald J. Trump, Michael R. Pence",REP,354
+Morgan,12:2,President,,Write-In ,,6
+Morgan,12:2,U.S. House,1,Darren Parry,DEM,69
+Morgan,12:2,U.S. House,1,Blake David Moore,REP,351
+Morgan,12:2,U.S. House,1,Write-In ,,1
+Morgan,12:2,Governor,,"Chris Peterson, Karina Brown",DEM,49
+Morgan,12:2,Governor,,"Greg Duerden, Wayne Hill",IAP,6
+Morgan,12:2,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,352
+Morgan,12:2,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,9
+Morgan,12:2,Governor,,Write-In ,,13
+Morgan,12:2,Attorney General,,Rudy J. Bautista,LIB,14
+Morgan,12:2,Attorney General,,Greg Skordas,DEM,67
+Morgan,12:2,Attorney General,,Sean D. Reyes,REP,347
+Morgan,12:2,State Auditor,,John 'Frugal' Dougall,REP,363
+Morgan,12:2,State Auditor,,Jeffrey L. Ostler,CON,34
+Morgan,12:2,State Auditor,,Brian L. Fabbi,UUP,23
+Morgan,12:2,State Treasurer,,Richard Proctor,CON,30
+Morgan,12:2,State Treasurer,,David Damschen,REP,357
+Morgan,12:2,State Treasurer,,Joseph Speciale,LIB,35
+Morgan,12:2,State House,53,Cheryl Butler,DEM,90
+Morgan,12:2,State House,53,Kera Birkeland,REP,336
+Morgan,13:2,Registered Voters,,,,683
+Morgan,13:2,Ballots Cast,,,,611
+Morgan,13:2,President,,"Brock Pierce, Karla Ballard",,3
+Morgan,13:2,President,,"Kanye West, Michelle Tidball",,4
+Morgan,13:2,President,,"Joseph R. Biden, Kamala D. Harris",DEM,95
+Morgan,13:2,President,,"Don Blankenship, William Mohr",CON,1
+Morgan,13:2,President,,"Jo Jorgensen, Jeremy Cohen",LIB,6
+Morgan,13:2,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,13:2,President,,"Howie Hawkins, Angela Walker",GRN,0
+Morgan,13:2,President,,Gloria La Riva,,0
+Morgan,13:2,President,,"Donald J. Trump, Michael R. Pence",REP,485
+Morgan,13:2,President,,Write-In ,,11
+Morgan,13:2,U.S. House,1,Darren Parry,DEM,93
+Morgan,13:2,U.S. House,1,Blake David Moore,REP,471
+Morgan,13:2,U.S. House,1,Write-In ,,3
+Morgan,13:2,Governor,,"Chris Peterson, Karina Brown",DEM,66
+Morgan,13:2,Governor,,"Greg Duerden, Wayne Hill",IAP,11
+Morgan,13:2,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,469
+Morgan,13:2,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,23
+Morgan,13:2,Governor,,Write-In ,,22
+Morgan,13:2,Attorney General,,Rudy J. Bautista,LIB,29
+Morgan,13:2,Attorney General,,Greg Skordas,DEM,82
+Morgan,13:2,Attorney General,,Sean D. Reyes,REP,477
+Morgan,13:2,State Auditor,,John 'Frugal' Dougall,REP,486
+Morgan,13:2,State Auditor,,Jeffrey L. Ostler,CON,49
+Morgan,13:2,State Auditor,,Brian L. Fabbi,UUP,28
+Morgan,13:2,State Treasurer,,Richard Proctor,CON,41
+Morgan,13:2,State Treasurer,,David Damschen,REP,509
+Morgan,13:2,State Treasurer,,Joseph Speciale,LIB,18
+Morgan,13:2,State House,53,Cheryl Butler,DEM,126
+Morgan,13:2,State House,53,Kera Birkeland,REP,451
+Morgan,14:3,Registered Voters,,,,638
+Morgan,14:3,Ballots Cast,,,,599
+Morgan,14:3,President,,"Brock Pierce, Karla Ballard",,4
+Morgan,14:3,President,,"Kanye West, Michelle Tidball",,4
+Morgan,14:3,President,,"Joseph R. Biden, Kamala D. Harris",DEM,102
+Morgan,14:3,President,,"Don Blankenship, William Mohr",CON,3
+Morgan,14:3,President,,"Jo Jorgensen, Jeremy Cohen",LIB,18
+Morgan,14:3,President,,"Joe McHugh, Elizabeth Storm",,1
+Morgan,14:3,President,,"Howie Hawkins, Angela Walker",GRN,2
+Morgan,14:3,President,,Gloria La Riva,,0
+Morgan,14:3,President,,"Donald J. Trump, Michael R. Pence",REP,457
+Morgan,14:3,President,,Write-In ,,5
+Morgan,14:3,U.S. House,1,Darren Parry,DEM,92
+Morgan,14:3,U.S. House,1,Blake David Moore,REP,470
+Morgan,14:3,U.S. House,1,Write-In ,,1
+Morgan,14:3,Governor,,"Chris Peterson, Karina Brown",DEM,70
+Morgan,14:3,Governor,,"Greg Duerden, Wayne Hill",IAP,10
+Morgan,14:3,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,467
+Morgan,14:3,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,32
+Morgan,14:3,Governor,,Write-In ,,13
+Morgan,14:3,Attorney General,,Rudy J. Bautista,LIB,30
+Morgan,14:3,Attorney General,,Greg Skordas,DEM,97
+Morgan,14:3,Attorney General,,Sean D. Reyes,REP,456
+Morgan,14:3,State Auditor,,John 'Frugal' Dougall,REP,475
+Morgan,14:3,State Auditor,,Jeffrey L. Ostler,CON,51
+Morgan,14:3,State Auditor,,Brian L. Fabbi,UUP,34
+Morgan,14:3,State Treasurer,,Richard Proctor,CON,44
+Morgan,14:3,State Treasurer,,David Damschen,REP,457
+Morgan,14:3,State Treasurer,,Joseph Speciale,LIB,56
+Morgan,14:3,State House,53,Cheryl Butler,DEM,136
+Morgan,14:3,State House,53,Kera Birkeland,REP,432
+Morgan,15:2,Registered Voters,,,,129
+Morgan,15:2,Ballots Cast,,,,114
+Morgan,15:2,President,,"Brock Pierce, Karla Ballard",,0
+Morgan,15:2,President,,"Kanye West, Michelle Tidball",,0
+Morgan,15:2,President,,"Joseph R. Biden, Kamala D. Harris",DEM,11
+Morgan,15:2,President,,"Don Blankenship, William Mohr",CON,1
+Morgan,15:2,President,,"Jo Jorgensen, Jeremy Cohen",LIB,1
+Morgan,15:2,President,,"Joe McHugh, Elizabeth Storm",,0
+Morgan,15:2,President,,"Howie Hawkins, Angela Walker",GRN,0
+Morgan,15:2,President,,Gloria La Riva,,0
+Morgan,15:2,President,,"Donald J. Trump, Michael R. Pence",REP,99
+Morgan,15:2,President,,Write-In ,,1
+Morgan,15:2,U.S. House,1,Darren Parry,DEM,16
+Morgan,15:2,U.S. House,1,Blake David Moore,REP,91
+Morgan,15:2,U.S. House,1,Write-In ,,1
+Morgan,15:2,Governor,,"Chris Peterson, Karina Brown",DEM,8
+Morgan,15:2,Governor,,"Greg Duerden, Wayne Hill",IAP,5
+Morgan,15:2,Governor,,"Spencer J. Cox, Deidre M. Henderson",REP,88
+Morgan,15:2,Governor,,"Daniel Rhead Cottam, Barry Evan Short",LIB,5
+Morgan,15:2,Governor,,Write-In ,,8
+Morgan,15:2,Attorney General,,Rudy J. Bautista,LIB,5
+Morgan,15:2,Attorney General,,Greg Skordas,DEM,9
+Morgan,15:2,Attorney General,,Sean D. Reyes,REP,100
+Morgan,15:2,State Auditor,,John 'Frugal' Dougall,REP,93
+Morgan,15:2,State Auditor,,Jeffrey L. Ostler,CON,14
+Morgan,15:2,State Auditor,,Brian L. Fabbi,UUP,4
+Morgan,15:2,State Treasurer,,Richard Proctor,CON,15
+Morgan,15:2,State Treasurer,,David Damschen,REP,91
+Morgan,15:2,State Treasurer,,Joseph Speciale,LIB,4
+Morgan,15:2,State Senate,19,Katy Owens,DEM,10
+Morgan,15:2,State Senate,19,John D. Johnson,REP,99
+Morgan,15:2,State House,53,Cheryl Butler,DEM,19
+Morgan,15:2,State House,53,Kera Birkeland,REP,91
