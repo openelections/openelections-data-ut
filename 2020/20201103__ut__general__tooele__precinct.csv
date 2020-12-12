@@ -1,0 +1,2049 @@
+county,precinct,office,district,candidate,party,votes
+Tooele,DUG-01,Registered Voters,,,,123
+Tooele,DUG-01,Ballots Cast,,,,101
+Tooele,DUG-01,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,DUG-01,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,DUG-01,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,27
+Tooele,DUG-01,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,DUG-01,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,4
+Tooele,DUG-01,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,DUG-01,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,DUG-01,President/Vice President,,Gloria La Riva,,0
+Tooele,DUG-01,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,67
+Tooele,DUG-01,U.S. House,2,Kael Weston,DEM,22
+Tooele,DUG-01,U.S. House,2,Chris Stewart,REP,68
+Tooele,DUG-01,U.S. House,2,J. Robert Latham,LIB,6
+Tooele,DUG-01,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,21
+Tooele,DUG-01,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,DUG-01,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,68
+Tooele,DUG-01,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,7
+Tooele,DUG-01,Attorney General,,Rudy J. Bautista,LIB,7
+Tooele,DUG-01,Attorney General,,Greg Skordas,DEM,22
+Tooele,DUG-01,Attorney General,,Sean D. Reyes,REP,70
+Tooele,DUG-01,State Auditor,,John 'Frugal' Dougall,REP,70
+Tooele,DUG-01,State Auditor,,Jeffrey L. Ostler,CON,9
+Tooele,DUG-01,State Auditor,,Brian L. Fabbi,UUP,14
+Tooele,DUG-01,State Treasurer,,Richard Proctor,CON,6
+Tooele,DUG-01,State Treasurer,,David Damshen,REP,70
+Tooele,DUG-01,State Treasurer,,Joseph Speciale,LIB,17
+Tooele,DUG-01,State House,21,Douglas Sagers,REP,0
+Tooele,DUG-01,State House,21,Stormy D. Simon,DEM,0
+Tooele,DUG-01,State House,68,Kirk D. Pearson,CON,11
+Tooele,DUG-01,State House,68,Merrill Nelson,REP,62
+Tooele,DUG-01,State House,68,Amiee O. Finster,DEM,25
+Tooele,DUG-02,Registered Voters,,,,32
+Tooele,DUG-02,Ballots Cast,,,,27
+Tooele,DUG-02,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,DUG-02,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,DUG-02,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,9
+Tooele,DUG-02,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,DUG-02,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,3
+Tooele,DUG-02,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,DUG-02,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,DUG-02,President/Vice President,,Gloria La Riva,,0
+Tooele,DUG-02,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,15
+Tooele,DUG-02,U.S. House,2,Kael Weston,DEM,9
+Tooele,DUG-02,U.S. House,2,Chris Stewart,REP,16
+Tooele,DUG-02,U.S. House,2,J. Robert Latham,LIB,2
+Tooele,DUG-02,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,6
+Tooele,DUG-02,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,2
+Tooele,DUG-02,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,18
+Tooele,DUG-02,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,1
+Tooele,DUG-02,Attorney General,,Rudy J. Bautista,LIB,3
+Tooele,DUG-02,Attorney General,,Greg Skordas,DEM,7
+Tooele,DUG-02,Attorney General,,Sean D. Reyes,REP,17
+Tooele,DUG-02,State Auditor,,John 'Frugal' Dougall,REP,17
+Tooele,DUG-02,State Auditor,,Jeffrey L. Ostler,CON,4
+Tooele,DUG-02,State Auditor,,Brian L. Fabbi,UUP,4
+Tooele,DUG-02,State Treasurer,,Richard Proctor,CON,3
+Tooele,DUG-02,State Treasurer,,David Damshen,REP,14
+Tooele,DUG-02,State Treasurer,,Joseph Speciale,LIB,8
+Tooele,DUG-02,State House,21,Douglas Sagers,REP,0
+Tooele,DUG-02,State House,21,Stormy D. Simon,DEM,0
+Tooele,DUG-02,State House,68,Kirk D. Pearson,CON,1
+Tooele,DUG-02,State House,68,Merrill Nelson,REP,18
+Tooele,DUG-02,State House,68,Amiee O. Finster,DEM,8
+Tooele,ERD-01:1,Registered Voters,,,,8
+Tooele,ERD-01:1,Ballots Cast,,,,17
+Tooele,ERD-01:1,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,ERD-01:1,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,ERD-01:1,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,1
+Tooele,ERD-01:1,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,ERD-01:1,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Tooele,ERD-01:1,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,ERD-01:1,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,ERD-01:1,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-01:1,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,15
+Tooele,ERD-01:1,U.S. House,2,Kael Weston,DEM,2
+Tooele,ERD-01:1,U.S. House,2,Chris Stewart,REP,15
+Tooele,ERD-01:1,U.S. House,2,J. Robert Latham,LIB,0
+Tooele,ERD-01:1,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,1
+Tooele,ERD-01:1,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,ERD-01:1,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,15
+Tooele,ERD-01:1,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,ERD-01:1,Attorney General,,Rudy J. Bautista,LIB,1
+Tooele,ERD-01:1,Attorney General,,Greg Skordas,DEM,5
+Tooele,ERD-01:1,Attorney General,,Sean D. Reyes,REP,11
+Tooele,ERD-01:1,State Auditor,,John 'Frugal' Dougall,REP,16
+Tooele,ERD-01:1,State Auditor,,Jeffrey L. Ostler,CON,1
+Tooele,ERD-01:1,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,ERD-01:1,State Treasurer,,Richard Proctor,CON,3
+Tooele,ERD-01:1,State Treasurer,,David Damshen,REP,13
+Tooele,ERD-01:1,State Treasurer,,Joseph Speciale,LIB,1
+Tooele,ERD-01:1,State House,21,Douglas Sagers,REP,0
+Tooele,ERD-01:1,State House,21,Stormy D. Simon,DEM,0
+Tooele,ERD-01:1,State House,68,Kirk D. Pearson,CON,0
+Tooele,ERD-01:1,State House,68,Merrill Nelson,REP,14
+Tooele,ERD-01:1,State House,68,Amiee O. Finster,DEM,3
+Tooele,ERD-01:2,Registered Voters,,,,130
+Tooele,ERD-01:2,Ballots Cast,,,,113
+Tooele,ERD-01:2,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,ERD-01:2,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,ERD-01:2,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,34
+Tooele,ERD-01:2,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,ERD-01:2,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,3
+Tooele,ERD-01:2,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,ERD-01:2,President/Vice President,,Howie Hawkins / Angela Walker,GRN,1
+Tooele,ERD-01:2,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-01:2,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,73
+Tooele,ERD-01:2,U.S. House,2,Kael Weston,DEM,28
+Tooele,ERD-01:2,U.S. House,2,Chris Stewart,REP,75
+Tooele,ERD-01:2,U.S. House,2,J. Robert Latham,LIB,5
+Tooele,ERD-01:2,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,23
+Tooele,ERD-01:2,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,2
+Tooele,ERD-01:2,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,81
+Tooele,ERD-01:2,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,3
+Tooele,ERD-01:2,Attorney General,,Rudy J. Bautista,LIB,4
+Tooele,ERD-01:2,Attorney General,,Greg Skordas,DEM,31
+Tooele,ERD-01:2,Attorney General,,Sean D. Reyes,REP,72
+Tooele,ERD-01:2,State Auditor,,John 'Frugal' Dougall,REP,76
+Tooele,ERD-01:2,State Auditor,,Jeffrey L. Ostler,CON,10
+Tooele,ERD-01:2,State Auditor,,Brian L. Fabbi,UUP,16
+Tooele,ERD-01:2,State Treasurer,,Richard Proctor,CON,12
+Tooele,ERD-01:2,State Treasurer,,David Damshen,REP,77
+Tooele,ERD-01:2,State Treasurer,,Joseph Speciale,LIB,12
+Tooele,ERD-01:2,State House,21,Douglas Sagers,REP,0
+Tooele,ERD-01:2,State House,21,Stormy D. Simon,DEM,0
+Tooele,ERD-01:2,State House,68,Kirk D. Pearson,CON,6
+Tooele,ERD-01:2,State House,68,Merrill Nelson,REP,76
+Tooele,ERD-01:2,State House,68,Amiee O. Finster,DEM,26
+Tooele,ERD-02:1,Registered Voters,,,,0
+Tooele,ERD-02:1,Ballots Cast,,,,0
+Tooele,ERD-02:1,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,ERD-02:1,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,ERD-02:1,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,0
+Tooele,ERD-02:1,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,ERD-02:1,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,ERD-02:1,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,ERD-02:1,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,ERD-02:1,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-02:1,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,0
+Tooele,ERD-02:1,U.S. House,2,Kael Weston,DEM,0
+Tooele,ERD-02:1,U.S. House,2,Chris Stewart,REP,0
+Tooele,ERD-02:1,U.S. House,2,J. Robert Latham,LIB,0
+Tooele,ERD-02:1,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,0
+Tooele,ERD-02:1,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,ERD-02:1,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,0
+Tooele,ERD-02:1,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,ERD-02:1,Attorney General,,Rudy J. Bautista,LIB,0
+Tooele,ERD-02:1,Attorney General,,Greg Skordas,DEM,0
+Tooele,ERD-02:1,Attorney General,,Sean D. Reyes,REP,0
+Tooele,ERD-02:1,State Auditor,,John 'Frugal' Dougall,REP,0
+Tooele,ERD-02:1,State Auditor,,Jeffrey L. Ostler,CON,0
+Tooele,ERD-02:1,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,ERD-02:1,State Treasurer,,Richard Proctor,CON,0
+Tooele,ERD-02:1,State Treasurer,,David Damshen,REP,0
+Tooele,ERD-02:1,State Treasurer,,Joseph Speciale,LIB,0
+Tooele,ERD-02:1,State House,21,Douglas Sagers,REP,0
+Tooele,ERD-02:1,State House,21,Stormy D. Simon,DEM,0
+Tooele,ERD-02:1,State House,68,Kirk D. Pearson,CON,0
+Tooele,ERD-02:1,State House,68,Merrill Nelson,REP,0
+Tooele,ERD-02:1,State House,68,Amiee O. Finster,DEM,0
+Tooele,ERD-02:2,Registered Voters,,,,0
+Tooele,ERD-02:2,Ballots Cast,,,,0
+Tooele,ERD-02:2,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,ERD-02:2,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,ERD-02:2,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,0
+Tooele,ERD-02:2,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,ERD-02:2,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,ERD-02:2,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,ERD-02:2,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,ERD-02:2,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-02:2,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,0
+Tooele,ERD-02:2,U.S. House,2,Kael Weston,DEM,0
+Tooele,ERD-02:2,U.S. House,2,Chris Stewart,REP,0
+Tooele,ERD-02:2,U.S. House,2,J. Robert Latham,LIB,0
+Tooele,ERD-02:2,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,0
+Tooele,ERD-02:2,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,ERD-02:2,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,0
+Tooele,ERD-02:2,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,ERD-02:2,Attorney General,,Rudy J. Bautista,LIB,0
+Tooele,ERD-02:2,Attorney General,,Greg Skordas,DEM,0
+Tooele,ERD-02:2,Attorney General,,Sean D. Reyes,REP,0
+Tooele,ERD-02:2,State Auditor,,John 'Frugal' Dougall,REP,0
+Tooele,ERD-02:2,State Auditor,,Jeffrey L. Ostler,CON,0
+Tooele,ERD-02:2,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,ERD-02:2,State Treasurer,,Richard Proctor,CON,0
+Tooele,ERD-02:2,State Treasurer,,David Damshen,REP,0
+Tooele,ERD-02:2,State Treasurer,,Joseph Speciale,LIB,0
+Tooele,ERD-02:2,State House,21,Douglas Sagers,REP,0
+Tooele,ERD-02:2,State House,21,Stormy D. Simon,DEM,0
+Tooele,ERD-02:2,State House,68,Kirk D. Pearson,CON,0
+Tooele,ERD-02:2,State House,68,Merrill Nelson,REP,0
+Tooele,ERD-02:2,State House,68,Amiee O. Finster,DEM,0
+Tooele,ERD-02:3,Registered Voters,,,,0
+Tooele,ERD-02:3,Ballots Cast,,,,0
+Tooele,ERD-02:3,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,ERD-02:3,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,ERD-02:3,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,0
+Tooele,ERD-02:3,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,ERD-02:3,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,ERD-02:3,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,ERD-02:3,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,ERD-02:3,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-02:3,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,0
+Tooele,ERD-02:3,U.S. House,2,Kael Weston,DEM,0
+Tooele,ERD-02:3,U.S. House,2,Chris Stewart,REP,0
+Tooele,ERD-02:3,U.S. House,2,J. Robert Latham,LIB,0
+Tooele,ERD-02:3,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,0
+Tooele,ERD-02:3,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,ERD-02:3,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,0
+Tooele,ERD-02:3,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,ERD-02:3,Attorney General,,Rudy J. Bautista,LIB,0
+Tooele,ERD-02:3,Attorney General,,Greg Skordas,DEM,0
+Tooele,ERD-02:3,Attorney General,,Sean D. Reyes,REP,0
+Tooele,ERD-02:3,State Auditor,,John 'Frugal' Dougall,REP,0
+Tooele,ERD-02:3,State Auditor,,Jeffrey L. Ostler,CON,0
+Tooele,ERD-02:3,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,ERD-02:3,State Treasurer,,Richard Proctor,CON,0
+Tooele,ERD-02:3,State Treasurer,,David Damshen,REP,0
+Tooele,ERD-02:3,State Treasurer,,Joseph Speciale,LIB,0
+Tooele,ERD-02:3,State House,21,Douglas Sagers,REP,0
+Tooele,ERD-02:3,State House,21,Stormy D. Simon,DEM,0
+Tooele,ERD-02:3,State House,68,Kirk D. Pearson,CON,0
+Tooele,ERD-02:3,State House,68,Merrill Nelson,REP,0
+Tooele,ERD-02:3,State House,68,Amiee O. Finster,DEM,0
+Tooele,ERD-02:4,Registered Voters,,,,2
+Tooele,ERD-02:4,Ballots Cast,,,,4
+Tooele,ERD-02:4,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,ERD-02:4,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,ERD-02:4,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,0
+Tooele,ERD-02:4,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,ERD-02:4,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,ERD-02:4,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,ERD-02:4,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,ERD-02:4,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-02:4,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,4
+Tooele,ERD-02:4,U.S. House,2,Kael Weston,DEM,0
+Tooele,ERD-02:4,U.S. House,2,Chris Stewart,REP,2
+Tooele,ERD-02:4,U.S. House,2,J. Robert Latham,LIB,1
+Tooele,ERD-02:4,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,0
+Tooele,ERD-02:4,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,ERD-02:4,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,4
+Tooele,ERD-02:4,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,ERD-02:4,Attorney General,,Rudy J. Bautista,LIB,0
+Tooele,ERD-02:4,Attorney General,,Greg Skordas,DEM,0
+Tooele,ERD-02:4,Attorney General,,Sean D. Reyes,REP,4
+Tooele,ERD-02:4,State Auditor,,John 'Frugal' Dougall,REP,4
+Tooele,ERD-02:4,State Auditor,,Jeffrey L. Ostler,CON,0
+Tooele,ERD-02:4,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,ERD-02:4,State Treasurer,,Richard Proctor,CON,0
+Tooele,ERD-02:4,State Treasurer,,David Damshen,REP,3
+Tooele,ERD-02:4,State Treasurer,,Joseph Speciale,LIB,1
+Tooele,ERD-02:4,State House,21,Douglas Sagers,REP,2
+Tooele,ERD-02:4,State House,21,Stormy D. Simon,DEM,2
+Tooele,ERD-02:4,State House,68,Kirk D. Pearson,CON,0
+Tooele,ERD-02:4,State House,68,Merrill Nelson,REP,0
+Tooele,ERD-02:4,State House,68,Amiee O. Finster,DEM,0
+Tooele,G-01:1,Registered Voters,,,,917
+Tooele,G-01:1,Ballots Cast,,,,835
+Tooele,G-01:1,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,G-01:1,President/Vice President,,Kanye West / Michelle Tidball,,6
+Tooele,G-01:1,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,132
+Tooele,G-01:1,President/Vice President,,Don Blankenship / William Mohr,CON,3
+Tooele,G-01:1,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,30
+Tooele,G-01:1,President/Vice President,,Joe McHugh / Elizabeth Storm,,2
+Tooele,G-01:1,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,G-01:1,President/Vice President,,Gloria La Riva,,2
+Tooele,G-01:1,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,646
+Tooele,G-01:1,U.S. House,2,Kael Weston,DEM,105
+Tooele,G-01:1,U.S. House,2,Chris Stewart,REP,653
+Tooele,G-01:1,U.S. House,2,J. Robert Latham,LIB,34
+Tooele,G-01:1,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,102
+Tooele,G-01:1,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,24
+Tooele,G-01:1,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,613
+Tooele,G-01:1,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,28
+Tooele,G-01:1,Attorney General,,Rudy J. Bautista,LIB,44
+Tooele,G-01:1,Attorney General,,Greg Skordas,DEM,133
+Tooele,G-01:1,Attorney General,,Sean D. Reyes,REP,626
+Tooele,G-01:1,State Auditor,,John 'Frugal' Dougall,REP,651
+Tooele,G-01:1,State Auditor,,Jeffrey L. Ostler,CON,93
+Tooele,G-01:1,State Auditor,,Brian L. Fabbi,UUP,39
+Tooele,G-01:1,State Treasurer,,Richard Proctor,CON,88
+Tooele,G-01:1,State Treasurer,,David Damshen,REP,632
+Tooele,G-01:1,State Treasurer,,Joseph Speciale,LIB,61
+Tooele,G-01:1,State House,21,Douglas Sagers,REP,0
+Tooele,G-01:1,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-01:1,State House,68,Kirk D. Pearson,CON,67
+Tooele,G-01:1,State House,68,Merrill Nelson,REP,628
+Tooele,G-01:1,State House,68,Amiee O. Finster,DEM,96
+Tooele,G-01:2,Registered Voters,,,,127
+Tooele,G-01:2,Ballots Cast,,,,108
+Tooele,G-01:2,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,G-01:2,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,G-01:2,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,14
+Tooele,G-01:2,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,G-01:2,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,3
+Tooele,G-01:2,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,G-01:2,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,G-01:2,President/Vice President,,Gloria La Riva,,0
+Tooele,G-01:2,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,89
+Tooele,G-01:2,U.S. House,2,Kael Weston,DEM,13
+Tooele,G-01:2,U.S. House,2,Chris Stewart,REP,81
+Tooele,G-01:2,U.S. House,2,J. Robert Latham,LIB,5
+Tooele,G-01:2,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,15
+Tooele,G-01:2,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,2
+Tooele,G-01:2,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,78
+Tooele,G-01:2,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,1
+Tooele,G-01:2,Attorney General,,Rudy J. Bautista,LIB,5
+Tooele,G-01:2,Attorney General,,Greg Skordas,DEM,17
+Tooele,G-01:2,Attorney General,,Sean D. Reyes,REP,84
+Tooele,G-01:2,State Auditor,,John 'Frugal' Dougall,REP,80
+Tooele,G-01:2,State Auditor,,Jeffrey L. Ostler,CON,17
+Tooele,G-01:2,State Auditor,,Brian L. Fabbi,UUP,7
+Tooele,G-01:2,State Treasurer,,Richard Proctor,CON,9
+Tooele,G-01:2,State Treasurer,,David Damshen,REP,83
+Tooele,G-01:2,State Treasurer,,Joseph Speciale,LIB,9
+Tooele,G-01:2,State House,21,Douglas Sagers,REP,0
+Tooele,G-01:2,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-01:2,State House,68,Kirk D. Pearson,CON,11
+Tooele,G-01:2,State House,68,Merrill Nelson,REP,78
+Tooele,G-01:2,State House,68,Amiee O. Finster,DEM,12
+Tooele,G-01:3,Registered Voters,,,,56
+Tooele,G-01:3,Ballots Cast,,,,50
+Tooele,G-01:3,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,G-01:3,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,G-01:3,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,8
+Tooele,G-01:3,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,G-01:3,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Tooele,G-01:3,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,G-01:3,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,G-01:3,President/Vice President,,Gloria La Riva,,0
+Tooele,G-01:3,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,41
+Tooele,G-01:3,U.S. House,2,Kael Weston,DEM,8
+Tooele,G-01:3,U.S. House,2,Chris Stewart,REP,37
+Tooele,G-01:3,U.S. House,2,J. Robert Latham,LIB,3
+Tooele,G-01:3,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,8
+Tooele,G-01:3,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,2
+Tooele,G-01:3,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,35
+Tooele,G-01:3,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,2
+Tooele,G-01:3,Attorney General,,Rudy J. Bautista,LIB,3
+Tooele,G-01:3,Attorney General,,Greg Skordas,DEM,11
+Tooele,G-01:3,Attorney General,,Sean D. Reyes,REP,36
+Tooele,G-01:3,State Auditor,,John 'Frugal' Dougall,REP,38
+Tooele,G-01:3,State Auditor,,Jeffrey L. Ostler,CON,8
+Tooele,G-01:3,State Auditor,,Brian L. Fabbi,UUP,2
+Tooele,G-01:3,State Treasurer,,Richard Proctor,CON,8
+Tooele,G-01:3,State Treasurer,,David Damshen,REP,36
+Tooele,G-01:3,State Treasurer,,Joseph Speciale,LIB,4
+Tooele,G-01:3,State House,21,Douglas Sagers,REP,0
+Tooele,G-01:3,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-01:3,State House,68,Kirk D. Pearson,CON,8
+Tooele,G-01:3,State House,68,Merrill Nelson,REP,35
+Tooele,G-01:3,State House,68,Amiee O. Finster,DEM,6
+Tooele,G-02:1,Registered Voters,,,,1083
+Tooele,G-02:1,Ballots Cast,,,,943
+Tooele,G-02:1,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,G-02:1,President/Vice President,,Kanye West / Michelle Tidball,,2
+Tooele,G-02:1,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,165
+Tooele,G-02:1,President/Vice President,,Don Blankenship / William Mohr,CON,8
+Tooele,G-02:1,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,20
+Tooele,G-02:1,President/Vice President,,Joe McHugh / Elizabeth Storm,,3
+Tooele,G-02:1,President/Vice President,,Howie Hawkins / Angela Walker,GRN,4
+Tooele,G-02:1,President/Vice President,,Gloria La Riva,,0
+Tooele,G-02:1,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,725
+Tooele,G-02:1,U.S. House,2,Kael Weston,DEM,136
+Tooele,G-02:1,U.S. House,2,Chris Stewart,REP,712
+Tooele,G-02:1,U.S. House,2,J. Robert Latham,LIB,48
+Tooele,G-02:1,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,127
+Tooele,G-02:1,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,20
+Tooele,G-02:1,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,696
+Tooele,G-02:1,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,54
+Tooele,G-02:1,Attorney General,,Rudy J. Bautista,LIB,46
+Tooele,G-02:1,Attorney General,,Greg Skordas,DEM,165
+Tooele,G-02:1,Attorney General,,Sean D. Reyes,REP,705
+Tooele,G-02:1,State Auditor,,John 'Frugal' Dougall,REP,726
+Tooele,G-02:1,State Auditor,,Jeffrey L. Ostler,CON,111
+Tooele,G-02:1,State Auditor,,Brian L. Fabbi,UUP,43
+Tooele,G-02:1,State Treasurer,,Richard Proctor,CON,106
+Tooele,G-02:1,State Treasurer,,David Damshen,REP,700
+Tooele,G-02:1,State Treasurer,,Joseph Speciale,LIB,77
+Tooele,G-02:1,State House,21,Douglas Sagers,REP,0
+Tooele,G-02:1,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-02:1,State House,68,Kirk D. Pearson,CON,74
+Tooele,G-02:1,State House,68,Merrill Nelson,REP,716
+Tooele,G-02:1,State House,68,Amiee O. Finster,DEM,116
+Tooele,G-03:1,Registered Voters,,,,1558
+Tooele,G-03:1,Ballots Cast,,,,1435
+Tooele,G-03:1,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,G-03:1,President/Vice President,,Kanye West / Michelle Tidball,,6
+Tooele,G-03:1,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,246
+Tooele,G-03:1,President/Vice President,,Don Blankenship / William Mohr,CON,9
+Tooele,G-03:1,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,22
+Tooele,G-03:1,President/Vice President,,Joe McHugh / Elizabeth Storm,,2
+Tooele,G-03:1,President/Vice President,,Howie Hawkins / Angela Walker,GRN,4
+Tooele,G-03:1,President/Vice President,,Gloria La Riva,,1
+Tooele,G-03:1,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,1132
+Tooele,G-03:1,U.S. House,2,Kael Weston,DEM,205
+Tooele,G-03:1,U.S. House,2,Chris Stewart,REP,1128
+Tooele,G-03:1,U.S. House,2,J. Robert Latham,LIB,29
+Tooele,G-03:1,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,179
+Tooele,G-03:1,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,30
+Tooele,G-03:1,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,1114
+Tooele,G-03:1,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,34
+Tooele,G-03:1,Attorney General,,Rudy J. Bautista,LIB,53
+Tooele,G-03:1,Attorney General,,Greg Skordas,DEM,223
+Tooele,G-03:1,Attorney General,,Sean D. Reyes,REP,1112
+Tooele,G-03:1,State Auditor,,John 'Frugal' Dougall,REP,1141
+Tooele,G-03:1,State Auditor,,Jeffrey L. Ostler,CON,138
+Tooele,G-03:1,State Auditor,,Brian L. Fabbi,UUP,60
+Tooele,G-03:1,State Treasurer,,Richard Proctor,CON,121
+Tooele,G-03:1,State Treasurer,,David Damshen,REP,1134
+Tooele,G-03:1,State Treasurer,,Joseph Speciale,LIB,80
+Tooele,G-03:1,State House,21,Douglas Sagers,REP,0
+Tooele,G-03:1,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-03:1,State House,68,Kirk D. Pearson,CON,83
+Tooele,G-03:1,State House,68,Merrill Nelson,REP,1145
+Tooele,G-03:1,State House,68,Amiee O. Finster,DEM,144
+Tooele,G-04:1,Registered Voters,,,,1129
+Tooele,G-04:1,Ballots Cast,,,,982
+Tooele,G-04:1,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,G-04:1,President/Vice President,,Kanye West / Michelle Tidball,,5
+Tooele,G-04:1,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,202
+Tooele,G-04:1,President/Vice President,,Don Blankenship / William Mohr,CON,2
+Tooele,G-04:1,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,36
+Tooele,G-04:1,President/Vice President,,Joe McHugh / Elizabeth Storm,,2
+Tooele,G-04:1,President/Vice President,,Howie Hawkins / Angela Walker,GRN,1
+Tooele,G-04:1,President/Vice President,,Gloria La Riva,,2
+Tooele,G-04:1,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,720
+Tooele,G-04:1,U.S. House,2,Kael Weston,DEM,159
+Tooele,G-04:1,U.S. House,2,Chris Stewart,REP,716
+Tooele,G-04:1,U.S. House,2,J. Robert Latham,LIB,52
+Tooele,G-04:1,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,151
+Tooele,G-04:1,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,30
+Tooele,G-04:1,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,683
+Tooele,G-04:1,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,50
+Tooele,G-04:1,Attorney General,,Rudy J. Bautista,LIB,67
+Tooele,G-04:1,Attorney General,,Greg Skordas,DEM,198
+Tooele,G-04:1,Attorney General,,Sean D. Reyes,REP,682
+Tooele,G-04:1,State Auditor,,John 'Frugal' Dougall,REP,720
+Tooele,G-04:1,State Auditor,,Jeffrey L. Ostler,CON,110
+Tooele,G-04:1,State Auditor,,Brian L. Fabbi,UUP,70
+Tooele,G-04:1,State Treasurer,,Richard Proctor,CON,118
+Tooele,G-04:1,State Treasurer,,David Damshen,REP,681
+Tooele,G-04:1,State Treasurer,,Joseph Speciale,LIB,100
+Tooele,G-04:1,State House,21,Douglas Sagers,REP,0
+Tooele,G-04:1,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-04:1,State House,68,Kirk D. Pearson,CON,81
+Tooele,G-04:1,State House,68,Merrill Nelson,REP,708
+Tooele,G-04:1,State House,68,Amiee O. Finster,DEM,142
+Tooele,G-04:2,Registered Voters,,,,9
+Tooele,G-04:2,Ballots Cast,,,,9
+Tooele,G-04:2,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,G-04:2,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,G-04:2,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,1
+Tooele,G-04:2,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,G-04:2,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,G-04:2,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,G-04:2,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,G-04:2,President/Vice President,,Gloria La Riva,,0
+Tooele,G-04:2,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,8
+Tooele,G-04:2,U.S. House,2,Kael Weston,DEM,0
+Tooele,G-04:2,U.S. House,2,Chris Stewart,REP,7
+Tooele,G-04:2,U.S. House,2,J. Robert Latham,LIB,0
+Tooele,G-04:2,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,0
+Tooele,G-04:2,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,G-04:2,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,7
+Tooele,G-04:2,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,G-04:2,Attorney General,,Rudy J. Bautista,LIB,1
+Tooele,G-04:2,Attorney General,,Greg Skordas,DEM,1
+Tooele,G-04:2,Attorney General,,Sean D. Reyes,REP,6
+Tooele,G-04:2,State Auditor,,John 'Frugal' Dougall,REP,8
+Tooele,G-04:2,State Auditor,,Jeffrey L. Ostler,CON,0
+Tooele,G-04:2,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,G-04:2,State Treasurer,,Richard Proctor,CON,1
+Tooele,G-04:2,State Treasurer,,David Damshen,REP,7
+Tooele,G-04:2,State Treasurer,,Joseph Speciale,LIB,0
+Tooele,G-04:2,State House,21,Douglas Sagers,REP,0
+Tooele,G-04:2,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-04:2,State House,68,Kirk D. Pearson,CON,0
+Tooele,G-04:2,State House,68,Merrill Nelson,REP,7
+Tooele,G-04:2,State House,68,Amiee O. Finster,DEM,1
+Tooele,G-05,Registered Voters,,,,1012
+Tooele,G-05,Ballots Cast,,,,900
+Tooele,G-05,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,G-05,President/Vice President,,Kanye West / Michelle Tidball,,1
+Tooele,G-05,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,207
+Tooele,G-05,President/Vice President,,Don Blankenship / William Mohr,CON,5
+Tooele,G-05,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,17
+Tooele,G-05,President/Vice President,,Joe McHugh / Elizabeth Storm,,4
+Tooele,G-05,President/Vice President,,Howie Hawkins / Angela Walker,GRN,2
+Tooele,G-05,President/Vice President,,Gloria La Riva,,2
+Tooele,G-05,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,650
+Tooele,G-05,U.S. House,2,Kael Weston,DEM,165
+Tooele,G-05,U.S. House,2,Chris Stewart,REP,669
+Tooele,G-05,U.S. House,2,J. Robert Latham,LIB,33
+Tooele,G-05,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,147
+Tooele,G-05,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,21
+Tooele,G-05,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,638
+Tooele,G-05,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,27
+Tooele,G-05,Attorney General,,Rudy J. Bautista,LIB,45
+Tooele,G-05,Attorney General,,Greg Skordas,DEM,192
+Tooele,G-05,Attorney General,,Sean D. Reyes,REP,630
+Tooele,G-05,State Auditor,,John 'Frugal' Dougall,REP,677
+Tooele,G-05,State Auditor,,Jeffrey L. Ostler,CON,99
+Tooele,G-05,State Auditor,,Brian L. Fabbi,UUP,58
+Tooele,G-05,State Treasurer,,Richard Proctor,CON,98
+Tooele,G-05,State Treasurer,,David Damshen,REP,647
+Tooele,G-05,State Treasurer,,Joseph Speciale,LIB,84
+Tooele,G-05,State House,21,Douglas Sagers,REP,0
+Tooele,G-05,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-05,State House,68,Kirk D. Pearson,CON,78
+Tooele,G-05,State House,68,Merrill Nelson,REP,662
+Tooele,G-05,State House,68,Amiee O. Finster,DEM,122
+Tooele,G-06,Registered Voters,,,,982
+Tooele,G-06,Ballots Cast,,,,890
+Tooele,G-06,President/Vice President,,Brock Pierce / Karla Ballard,,3
+Tooele,G-06,President/Vice President,,Kanye West / Michelle Tidball,,4
+Tooele,G-06,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,162
+Tooele,G-06,President/Vice President,,Don Blankenship / William Mohr,CON,9
+Tooele,G-06,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,24
+Tooele,G-06,President/Vice President,,Joe McHugh / Elizabeth Storm,,2
+Tooele,G-06,President/Vice President,,Howie Hawkins / Angela Walker,GRN,3
+Tooele,G-06,President/Vice President,,Gloria La Riva,,1
+Tooele,G-06,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,665
+Tooele,G-06,U.S. House,2,Kael Weston,DEM,132
+Tooele,G-06,U.S. House,2,Chris Stewart,REP,669
+Tooele,G-06,U.S. House,2,J. Robert Latham,LIB,34
+Tooele,G-06,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,122
+Tooele,G-06,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,20
+Tooele,G-06,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,647
+Tooele,G-06,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,42
+Tooele,G-06,Attorney General,,Rudy J. Bautista,LIB,40
+Tooele,G-06,Attorney General,,Greg Skordas,DEM,147
+Tooele,G-06,Attorney General,,Sean D. Reyes,REP,681
+Tooele,G-06,State Auditor,,John 'Frugal' Dougall,REP,693
+Tooele,G-06,State Auditor,,Jeffrey L. Ostler,CON,108
+Tooele,G-06,State Auditor,,Brian L. Fabbi,UUP,41
+Tooele,G-06,State Treasurer,,Richard Proctor,CON,99
+Tooele,G-06,State Treasurer,,David Damshen,REP,667
+Tooele,G-06,State Treasurer,,Joseph Speciale,LIB,74
+Tooele,G-06,State House,21,Douglas Sagers,REP,0
+Tooele,G-06,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-06,State House,68,Kirk D. Pearson,CON,66
+Tooele,G-06,State House,68,Merrill Nelson,REP,655
+Tooele,G-06,State House,68,Amiee O. Finster,DEM,129
+Tooele,IBA,Registered Voters,,,,36
+Tooele,IBA,Ballots Cast,,,,32
+Tooele,IBA,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,IBA,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,IBA,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,4
+Tooele,IBA,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,IBA,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,IBA,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,IBA,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,IBA,President/Vice President,,Gloria La Riva,,0
+Tooele,IBA,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,28
+Tooele,IBA,U.S. House,2,Kael Weston,DEM,2
+Tooele,IBA,U.S. House,2,Chris Stewart,REP,26
+Tooele,IBA,U.S. House,2,J. Robert Latham,LIB,0
+Tooele,IBA,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,3
+Tooele,IBA,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,1
+Tooele,IBA,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,27
+Tooele,IBA,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,IBA,Attorney General,,Rudy J. Bautista,LIB,0
+Tooele,IBA,Attorney General,,Greg Skordas,DEM,6
+Tooele,IBA,Attorney General,,Sean D. Reyes,REP,26
+Tooele,IBA,State Auditor,,John 'Frugal' Dougall,REP,24
+Tooele,IBA,State Auditor,,Jeffrey L. Ostler,CON,5
+Tooele,IBA,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,IBA,State Treasurer,,Richard Proctor,CON,5
+Tooele,IBA,State Treasurer,,David Damshen,REP,23
+Tooele,IBA,State Treasurer,,Joseph Speciale,LIB,0
+Tooele,IBA,State House,21,Douglas Sagers,REP,0
+Tooele,IBA,State House,21,Stormy D. Simon,DEM,0
+Tooele,IBA,State House,68,Kirk D. Pearson,CON,4
+Tooele,IBA,State House,68,Merrill Nelson,REP,25
+Tooele,IBA,State House,68,Amiee O. Finster,DEM,1
+Tooele,LINC:1,Registered Voters,,,,378
+Tooele,LINC:1,Ballots Cast,,,,330
+Tooele,LINC:1,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,LINC:1,President/Vice President,,Kanye West / Michelle Tidball,,1
+Tooele,LINC:1,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,91
+Tooele,LINC:1,President/Vice President,,Don Blankenship / William Mohr,CON,1
+Tooele,LINC:1,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,5
+Tooele,LINC:1,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,LINC:1,President/Vice President,,Howie Hawkins / Angela Walker,GRN,2
+Tooele,LINC:1,President/Vice President,,Gloria La Riva,,1
+Tooele,LINC:1,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,222
+Tooele,LINC:1,U.S. House,2,Kael Weston,DEM,83
+Tooele,LINC:1,U.S. House,2,Chris Stewart,REP,218
+Tooele,LINC:1,U.S. House,2,J. Robert Latham,LIB,12
+Tooele,LINC:1,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,79
+Tooele,LINC:1,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,2
+Tooele,LINC:1,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,224
+Tooele,LINC:1,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,11
+Tooele,LINC:1,Attorney General,,Rudy J. Bautista,LIB,20
+Tooele,LINC:1,Attorney General,,Greg Skordas,DEM,86
+Tooele,LINC:1,Attorney General,,Sean D. Reyes,REP,218
+Tooele,LINC:1,State Auditor,,John 'Frugal' Dougall,REP,234
+Tooele,LINC:1,State Auditor,,Jeffrey L. Ostler,CON,36
+Tooele,LINC:1,State Auditor,,Brian L. Fabbi,UUP,40
+Tooele,LINC:1,State Treasurer,,Richard Proctor,CON,33
+Tooele,LINC:1,State Treasurer,,David Damshen,REP,235
+Tooele,LINC:1,State Treasurer,,Joseph Speciale,LIB,42
+Tooele,LINC:1,State House,21,Douglas Sagers,REP,216
+Tooele,LINC:1,State House,21,Stormy D. Simon,DEM,102
+Tooele,LINC:1,State House,68,Kirk D. Pearson,CON,0
+Tooele,LINC:1,State House,68,Merrill Nelson,REP,0
+Tooele,LINC:1,State House,68,Amiee O. Finster,DEM,0
+Tooele,LP-01:1,Registered Voters,,,,929
+Tooele,LP-01:1,Ballots Cast,,,,847
+Tooele,LP-01:1,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,LP-01:1,President/Vice President,,Kanye West / Michelle Tidball,,6
+Tooele,LP-01:1,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,219
+Tooele,LP-01:1,President/Vice President,,Don Blankenship / William Mohr,CON,11
+Tooele,LP-01:1,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,30
+Tooele,LP-01:1,President/Vice President,,Joe McHugh / Elizabeth Storm,,2
+Tooele,LP-01:1,President/Vice President,,Howie Hawkins / Angela Walker,GRN,2
+Tooele,LP-01:1,President/Vice President,,Gloria La Riva,,1
+Tooele,LP-01:1,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,555
+Tooele,LP-01:1,U.S. House,2,Kael Weston,DEM,200
+Tooele,LP-01:1,U.S. House,2,Chris Stewart,REP,543
+Tooele,LP-01:1,U.S. House,2,J. Robert Latham,LIB,62
+Tooele,LP-01:1,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,169
+Tooele,LP-01:1,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,18
+Tooele,LP-01:1,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,575
+Tooele,LP-01:1,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,44
+Tooele,LP-01:1,Attorney General,,Rudy J. Bautista,LIB,68
+Tooele,LP-01:1,Attorney General,,Greg Skordas,DEM,201
+Tooele,LP-01:1,Attorney General,,Sean D. Reyes,REP,553
+Tooele,LP-01:1,State Auditor,,John 'Frugal' Dougall,REP,578
+Tooele,LP-01:1,State Auditor,,Jeffrey L. Ostler,CON,128
+Tooele,LP-01:1,State Auditor,,Brian L. Fabbi,UUP,73
+Tooele,LP-01:1,State Treasurer,,Richard Proctor,CON,112
+Tooele,LP-01:1,State Treasurer,,David Damshen,REP,565
+Tooele,LP-01:1,State Treasurer,,Joseph Speciale,LIB,97
+Tooele,LP-01:1,State House,21,Douglas Sagers,REP,0
+Tooele,LP-01:1,State House,21,Stormy D. Simon,DEM,0
+Tooele,LP-01:1,State House,68,Kirk D. Pearson,CON,162
+Tooele,LP-01:1,State House,68,Merrill Nelson,REP,479
+Tooele,LP-01:1,State House,68,Amiee O. Finster,DEM,156
+Tooele,LP-02:1,Registered Voters,,,,360
+Tooele,LP-02:1,Ballots Cast,,,,331
+Tooele,LP-02:1,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,LP-02:1,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,LP-02:1,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,60
+Tooele,LP-02:1,President/Vice President,,Don Blankenship / William Mohr,CON,8
+Tooele,LP-02:1,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,19
+Tooele,LP-02:1,President/Vice President,,Joe McHugh / Elizabeth Storm,,2
+Tooele,LP-02:1,President/Vice President,,Howie Hawkins / Angela Walker,GRN,1
+Tooele,LP-02:1,President/Vice President,,Gloria La Riva,,0
+Tooele,LP-02:1,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,231
+Tooele,LP-02:1,U.S. House,2,Kael Weston,DEM,50
+Tooele,LP-02:1,U.S. House,2,Chris Stewart,REP,251
+Tooele,LP-02:1,U.S. House,2,J. Robert Latham,LIB,19
+Tooele,LP-02:1,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,46
+Tooele,LP-02:1,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,17
+Tooele,LP-02:1,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,232
+Tooele,LP-02:1,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,18
+Tooele,LP-02:1,Attorney General,,Rudy J. Bautista,LIB,32
+Tooele,LP-02:1,Attorney General,,Greg Skordas,DEM,57
+Tooele,LP-02:1,Attorney General,,Sean D. Reyes,REP,234
+Tooele,LP-02:1,State Auditor,,John 'Frugal' Dougall,REP,232
+Tooele,LP-02:1,State Auditor,,Jeffrey L. Ostler,CON,58
+Tooele,LP-02:1,State Auditor,,Brian L. Fabbi,UUP,24
+Tooele,LP-02:1,State Treasurer,,Richard Proctor,CON,58
+Tooele,LP-02:1,State Treasurer,,David Damshen,REP,235
+Tooele,LP-02:1,State Treasurer,,Joseph Speciale,LIB,23
+Tooele,LP-02:1,State House,21,Douglas Sagers,REP,0
+Tooele,LP-02:1,State House,21,Stormy D. Simon,DEM,0
+Tooele,LP-02:1,State House,68,Kirk D. Pearson,CON,122
+Tooele,LP-02:1,State House,68,Merrill Nelson,REP,160
+Tooele,LP-02:1,State House,68,Amiee O. Finster,DEM,43
+Tooele,OPHIR,Registered Voters,,,,20
+Tooele,OPHIR,Ballots Cast,,,,14
+Tooele,OPHIR,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,OPHIR,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,OPHIR,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,4
+Tooele,OPHIR,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,OPHIR,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,OPHIR,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,OPHIR,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,OPHIR,President/Vice President,,Gloria La Riva,,0
+Tooele,OPHIR,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,10
+Tooele,OPHIR,U.S. House,2,Kael Weston,DEM,2
+Tooele,OPHIR,U.S. House,2,Chris Stewart,REP,10
+Tooele,OPHIR,U.S. House,2,J. Robert Latham,LIB,1
+Tooele,OPHIR,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,4
+Tooele,OPHIR,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,OPHIR,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,9
+Tooele,OPHIR,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,OPHIR,Attorney General,,Rudy J. Bautista,LIB,0
+Tooele,OPHIR,Attorney General,,Greg Skordas,DEM,3
+Tooele,OPHIR,Attorney General,,Sean D. Reyes,REP,10
+Tooele,OPHIR,State Auditor,,John 'Frugal' Dougall,REP,10
+Tooele,OPHIR,State Auditor,,Jeffrey L. Ostler,CON,1
+Tooele,OPHIR,State Auditor,,Brian L. Fabbi,UUP,2
+Tooele,OPHIR,State Treasurer,,Richard Proctor,CON,2
+Tooele,OPHIR,State Treasurer,,David Damshen,REP,9
+Tooele,OPHIR,State Treasurer,,Joseph Speciale,LIB,2
+Tooele,OPHIR,State House,21,Douglas Sagers,REP,0
+Tooele,OPHIR,State House,21,Stormy D. Simon,DEM,0
+Tooele,OPHIR,State House,68,Kirk D. Pearson,CON,1
+Tooele,OPHIR,State House,68,Merrill Nelson,REP,10
+Tooele,OPHIR,State House,68,Amiee O. Finster,DEM,3
+Tooele,"RV-01:1, RV-01:2",Registered Voters,,,,323
+Tooele,"RV-01:1, RV-01:2",Ballots Cast,,,,279
+Tooele,"RV-01:1, RV-01:2",President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,"RV-01:1, RV-01:2",President/Vice President,,Kanye West / Michelle Tidball,,1
+Tooele,"RV-01:1, RV-01:2",President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,41
+Tooele,"RV-01:1, RV-01:2",President/Vice President,,Don Blankenship / William Mohr,CON,3
+Tooele,"RV-01:1, RV-01:2",President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Tooele,"RV-01:1, RV-01:2",President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,"RV-01:1, RV-01:2",President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,"RV-01:1, RV-01:2",President/Vice President,,Gloria La Riva,,0
+Tooele,"RV-01:1, RV-01:2",President/Vice President,,Donald J. Trump / Michael R. Pence,REP,230
+Tooele,"RV-01:1, RV-01:2",U.S. House,2,Kael Weston,DEM,40
+Tooele,"RV-01:1, RV-01:2",U.S. House,2,Chris Stewart,REP,223
+Tooele,"RV-01:1, RV-01:2",U.S. House,2,J. Robert Latham,LIB,5
+Tooele,"RV-01:1, RV-01:2",Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,45
+Tooele,"RV-01:1, RV-01:2",Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,5
+Tooele,"RV-01:1, RV-01:2",Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,210
+Tooele,"RV-01:1, RV-01:2",Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,5
+Tooele,"RV-01:1, RV-01:2",Attorney General,,Rudy J. Bautista,LIB,10
+Tooele,"RV-01:1, RV-01:2",Attorney General,,Greg Skordas,DEM,58
+Tooele,"RV-01:1, RV-01:2",Attorney General,,Sean D. Reyes,REP,206
+Tooele,"RV-01:1, RV-01:2",State Auditor,,John 'Frugal' Dougall,REP,216
+Tooele,"RV-01:1, RV-01:2",State Auditor,,Jeffrey L. Ostler,CON,31
+Tooele,"RV-01:1, RV-01:2",State Auditor,,Brian L. Fabbi,UUP,12
+Tooele,"RV-01:1, RV-01:2",State Treasurer,,Richard Proctor,CON,29
+Tooele,"RV-01:1, RV-01:2",State Treasurer,,David Damshen,REP,211
+Tooele,"RV-01:1, RV-01:2",State Treasurer,,Joseph Speciale,LIB,18
+Tooele,"RV-01:1, RV-01:2",State House,21,Douglas Sagers,REP,0
+Tooele,"RV-01:1, RV-01:2",State House,21,Stormy D. Simon,DEM,0
+Tooele,"RV-01:1, RV-01:2",State House,68,Kirk D. Pearson,CON,22
+Tooele,"RV-01:1, RV-01:2",State House,68,Merrill Nelson,REP,215
+Tooele,"RV-01:1, RV-01:2",State House,68,Amiee O. Finster,DEM,32
+Tooele,SP-01,Registered Voters,,,,1182
+Tooele,SP-01,Ballots Cast,,,,1065
+Tooele,SP-01,President/Vice President,,Brock Pierce / Karla Ballard,,2
+Tooele,SP-01,President/Vice President,,Kanye West / Michelle Tidball,,3
+Tooele,SP-01,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,325
+Tooele,SP-01,President/Vice President,,Don Blankenship / William Mohr,CON,4
+Tooele,SP-01,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,18
+Tooele,SP-01,President/Vice President,,Joe McHugh / Elizabeth Storm,,6
+Tooele,SP-01,President/Vice President,,Howie Hawkins / Angela Walker,GRN,4
+Tooele,SP-01,President/Vice President,,Gloria La Riva,,2
+Tooele,SP-01,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,676
+Tooele,SP-01,U.S. House,2,Kael Weston,DEM,266
+Tooele,SP-01,U.S. House,2,Chris Stewart,REP,695
+Tooele,SP-01,U.S. House,2,J. Robert Latham,LIB,47
+Tooele,SP-01,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,228
+Tooele,SP-01,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,16
+Tooele,SP-01,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,720
+Tooele,SP-01,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,49
+Tooele,SP-01,Attorney General,,Rudy J. Bautista,LIB,79
+Tooele,SP-01,Attorney General,,Greg Skordas,DEM,259
+Tooele,SP-01,Attorney General,,Sean D. Reyes,REP,685
+Tooele,SP-01,State Auditor,,John 'Frugal' Dougall,REP,732
+Tooele,SP-01,State Auditor,,Jeffrey L. Ostler,CON,138
+Tooele,SP-01,State Auditor,,Brian L. Fabbi,UUP,94
+Tooele,SP-01,State Treasurer,,Richard Proctor,CON,115
+Tooele,SP-01,State Treasurer,,David Damshen,REP,705
+Tooele,SP-01,State Treasurer,,Joseph Speciale,LIB,136
+Tooele,SP-01,State House,21,Douglas Sagers,REP,676
+Tooele,SP-01,State House,21,Stormy D. Simon,DEM,339
+Tooele,SP-01,State House,68,Kirk D. Pearson,CON,0
+Tooele,SP-01,State House,68,Merrill Nelson,REP,0
+Tooele,SP-01,State House,68,Amiee O. Finster,DEM,0
+Tooele,SP-02,Registered Voters,,,,1004
+Tooele,SP-02,Ballots Cast,,,,939
+Tooele,SP-02,President/Vice President,,Brock Pierce / Karla Ballard,,2
+Tooele,SP-02,President/Vice President,,Kanye West / Michelle Tidball,,6
+Tooele,SP-02,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,342
+Tooele,SP-02,President/Vice President,,Don Blankenship / William Mohr,CON,4
+Tooele,SP-02,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,21
+Tooele,SP-02,President/Vice President,,Joe McHugh / Elizabeth Storm,,3
+Tooele,SP-02,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,SP-02,President/Vice President,,Gloria La Riva,,2
+Tooele,SP-02,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,542
+Tooele,SP-02,U.S. House,2,Kael Weston,DEM,293
+Tooele,SP-02,U.S. House,2,Chris Stewart,REP,569
+Tooele,SP-02,U.S. House,2,J. Robert Latham,LIB,37
+Tooele,SP-02,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,272
+Tooele,SP-02,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,13
+Tooele,SP-02,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,580
+Tooele,SP-02,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,30
+Tooele,SP-02,Attorney General,,Rudy J. Bautista,LIB,47
+Tooele,SP-02,Attorney General,,Greg Skordas,DEM,302
+Tooele,SP-02,Attorney General,,Sean D. Reyes,REP,565
+Tooele,SP-02,State Auditor,,John 'Frugal' Dougall,REP,651
+Tooele,SP-02,State Auditor,,Jeffrey L. Ostler,CON,115
+Tooele,SP-02,State Auditor,,Brian L. Fabbi,UUP,76
+Tooele,SP-02,State Treasurer,,Richard Proctor,CON,87
+Tooele,SP-02,State Treasurer,,David Damshen,REP,646
+Tooele,SP-02,State Treasurer,,Joseph Speciale,LIB,104
+Tooele,SP-02,State House,21,Douglas Sagers,REP,546
+Tooele,SP-02,State House,21,Stormy D. Simon,DEM,344
+Tooele,SP-02,State House,68,Kirk D. Pearson,CON,0
+Tooele,SP-02,State House,68,Merrill Nelson,REP,0
+Tooele,SP-02,State House,68,Amiee O. Finster,DEM,0
+Tooele,SP-03,Registered Voters,,,,1208
+Tooele,SP-03,Ballots Cast,,,,1060
+Tooele,SP-03,President/Vice President,,Brock Pierce / Karla Ballard,,2
+Tooele,SP-03,President/Vice President,,Kanye West / Michelle Tidball,,5
+Tooele,SP-03,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,347
+Tooele,SP-03,President/Vice President,,Don Blankenship / William Mohr,CON,8
+Tooele,SP-03,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,44
+Tooele,SP-03,President/Vice President,,Joe McHugh / Elizabeth Storm,,2
+Tooele,SP-03,President/Vice President,,Howie Hawkins / Angela Walker,GRN,4
+Tooele,SP-03,President/Vice President,,Gloria La Riva,,0
+Tooele,SP-03,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,627
+Tooele,SP-03,U.S. House,2,Kael Weston,DEM,313
+Tooele,SP-03,U.S. House,2,Chris Stewart,REP,622
+Tooele,SP-03,U.S. House,2,J. Robert Latham,LIB,54
+Tooele,SP-03,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,286
+Tooele,SP-03,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,25
+Tooele,SP-03,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,646
+Tooele,SP-03,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,40
+Tooele,SP-03,Attorney General,,Rudy J. Bautista,LIB,63
+Tooele,SP-03,Attorney General,,Greg Skordas,DEM,300
+Tooele,SP-03,Attorney General,,Sean D. Reyes,REP,646
+Tooele,SP-03,State Auditor,,John 'Frugal' Dougall,REP,729
+Tooele,SP-03,State Auditor,,Jeffrey L. Ostler,CON,143
+Tooele,SP-03,State Auditor,,Brian L. Fabbi,UUP,74
+Tooele,SP-03,State Treasurer,,Richard Proctor,CON,98
+Tooele,SP-03,State Treasurer,,David Damshen,REP,724
+Tooele,SP-03,State Treasurer,,Joseph Speciale,LIB,124
+Tooele,SP-03,State House,21,Douglas Sagers,REP,0
+Tooele,SP-03,State House,21,Stormy D. Simon,DEM,0
+Tooele,SP-03,State House,68,Kirk D. Pearson,CON,105
+Tooele,SP-03,State House,68,Merrill Nelson,REP,629
+Tooele,SP-03,State House,68,Amiee O. Finster,DEM,257
+Tooele,SP-04,Registered Voters,,,,1001
+Tooele,SP-04,Ballots Cast,,,,903
+Tooele,SP-04,President/Vice President,,Brock Pierce / Karla Ballard,,5
+Tooele,SP-04,President/Vice President,,Kanye West / Michelle Tidball,,8
+Tooele,SP-04,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,285
+Tooele,SP-04,President/Vice President,,Don Blankenship / William Mohr,CON,4
+Tooele,SP-04,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,29
+Tooele,SP-04,President/Vice President,,Joe McHugh / Elizabeth Storm,,3
+Tooele,SP-04,President/Vice President,,Howie Hawkins / Angela Walker,GRN,4
+Tooele,SP-04,President/Vice President,,Gloria La Riva,,0
+Tooele,SP-04,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,552
+Tooele,SP-04,U.S. House,2,Kael Weston,DEM,228
+Tooele,SP-04,U.S. House,2,Chris Stewart,REP,587
+Tooele,SP-04,U.S. House,2,J. Robert Latham,LIB,40
+Tooele,SP-04,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,223
+Tooele,SP-04,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,8
+Tooele,SP-04,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,596
+Tooele,SP-04,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,35
+Tooele,SP-04,Attorney General,,Rudy J. Bautista,LIB,38
+Tooele,SP-04,Attorney General,,Greg Skordas,DEM,254
+Tooele,SP-04,Attorney General,,Sean D. Reyes,REP,573
+Tooele,SP-04,State Auditor,,John 'Frugal' Dougall,REP,657
+Tooele,SP-04,State Auditor,,Jeffrey L. Ostler,CON,102
+Tooele,SP-04,State Auditor,,Brian L. Fabbi,UUP,73
+Tooele,SP-04,State Treasurer,,Richard Proctor,CON,77
+Tooele,SP-04,State Treasurer,,David Damshen,REP,636
+Tooele,SP-04,State Treasurer,,Joseph Speciale,LIB,115
+Tooele,SP-04,State House,21,Douglas Sagers,REP,0
+Tooele,SP-04,State House,21,Stormy D. Simon,DEM,0
+Tooele,SP-04,State House,68,Kirk D. Pearson,CON,75
+Tooele,SP-04,State House,68,Merrill Nelson,REP,563
+Tooele,SP-04,State House,68,Amiee O. Finster,DEM,215
+Tooele,SP-05,Registered Voters,,,,859
+Tooele,SP-05,Ballots Cast,,,,776
+Tooele,SP-05,President/Vice President,,Brock Pierce / Karla Ballard,,2
+Tooele,SP-05,President/Vice President,,Kanye West / Michelle Tidball,,4
+Tooele,SP-05,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,287
+Tooele,SP-05,President/Vice President,,Don Blankenship / William Mohr,CON,5
+Tooele,SP-05,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,23
+Tooele,SP-05,President/Vice President,,Joe McHugh / Elizabeth Storm,,1
+Tooele,SP-05,President/Vice President,,Howie Hawkins / Angela Walker,GRN,2
+Tooele,SP-05,President/Vice President,,Gloria La Riva,,0
+Tooele,SP-05,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,435
+Tooele,SP-05,U.S. House,2,Kael Weston,DEM,264
+Tooele,SP-05,U.S. House,2,Chris Stewart,REP,455
+Tooele,SP-05,U.S. House,2,J. Robert Latham,LIB,35
+Tooele,SP-05,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,260
+Tooele,SP-05,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,15
+Tooele,SP-05,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,454
+Tooele,SP-05,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,33
+Tooele,SP-05,Attorney General,,Rudy J. Bautista,LIB,38
+Tooele,SP-05,Attorney General,,Greg Skordas,DEM,281
+Tooele,SP-05,Attorney General,,Sean D. Reyes,REP,438
+Tooele,SP-05,State Auditor,,John 'Frugal' Dougall,REP,511
+Tooele,SP-05,State Auditor,,Jeffrey L. Ostler,CON,108
+Tooele,SP-05,State Auditor,,Brian L. Fabbi,UUP,92
+Tooele,SP-05,State Treasurer,,Richard Proctor,CON,93
+Tooele,SP-05,State Treasurer,,David Damshen,REP,512
+Tooele,SP-05,State Treasurer,,Joseph Speciale,LIB,98
+Tooele,SP-05,State House,21,Douglas Sagers,REP,0
+Tooele,SP-05,State House,21,Stormy D. Simon,DEM,0
+Tooele,SP-05,State House,68,Kirk D. Pearson,CON,62
+Tooele,SP-05,State House,68,Merrill Nelson,REP,439
+Tooele,SP-05,State House,68,Amiee O. Finster,DEM,248
+Tooele,SP-06,Registered Voters,,,,492
+Tooele,SP-06,Ballots Cast,,,,434
+Tooele,SP-06,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,SP-06,President/Vice President,,Kanye West / Michelle Tidball,,4
+Tooele,SP-06,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,130
+Tooele,SP-06,President/Vice President,,Don Blankenship / William Mohr,CON,7
+Tooele,SP-06,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,18
+Tooele,SP-06,President/Vice President,,Joe McHugh / Elizabeth Storm,,2
+Tooele,SP-06,President/Vice President,,Howie Hawkins / Angela Walker,GRN,2
+Tooele,SP-06,President/Vice President,,Gloria La Riva,,0
+Tooele,SP-06,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,259
+Tooele,SP-06,U.S. House,2,Kael Weston,DEM,102
+Tooele,SP-06,U.S. House,2,Chris Stewart,REP,289
+Tooele,SP-06,U.S. House,2,J. Robert Latham,LIB,27
+Tooele,SP-06,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,102
+Tooele,SP-06,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,6
+Tooele,SP-06,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,285
+Tooele,SP-06,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,25
+Tooele,SP-06,Attorney General,,Rudy J. Bautista,LIB,31
+Tooele,SP-06,Attorney General,,Greg Skordas,DEM,109
+Tooele,SP-06,Attorney General,,Sean D. Reyes,REP,279
+Tooele,SP-06,State Auditor,,John 'Frugal' Dougall,REP,303
+Tooele,SP-06,State Auditor,,Jeffrey L. Ostler,CON,60
+Tooele,SP-06,State Auditor,,Brian L. Fabbi,UUP,30
+Tooele,SP-06,State Treasurer,,Richard Proctor,CON,44
+Tooele,SP-06,State Treasurer,,David Damshen,REP,303
+Tooele,SP-06,State Treasurer,,Joseph Speciale,LIB,49
+Tooele,SP-06,State House,21,Douglas Sagers,REP,285
+Tooele,SP-06,State House,21,Stormy D. Simon,DEM,127
+Tooele,SP-06,State House,68,Kirk D. Pearson,CON,0
+Tooele,SP-06,State House,68,Merrill Nelson,REP,0
+Tooele,SP-06,State House,68,Amiee O. Finster,DEM,0
+Tooele,SP-07,Registered Voters,,,,1032
+Tooele,SP-07,Ballots Cast,,,,923
+Tooele,SP-07,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,SP-07,President/Vice President,,Kanye West / Michelle Tidball,,3
+Tooele,SP-07,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,334
+Tooele,SP-07,President/Vice President,,Don Blankenship / William Mohr,CON,2
+Tooele,SP-07,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,33
+Tooele,SP-07,President/Vice President,,Joe McHugh / Elizabeth Storm,,3
+Tooele,SP-07,President/Vice President,,Howie Hawkins / Angela Walker,GRN,1
+Tooele,SP-07,President/Vice President,,Gloria La Riva,,2
+Tooele,SP-07,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,524
+Tooele,SP-07,U.S. House,2,Kael Weston,DEM,292
+Tooele,SP-07,U.S. House,2,Chris Stewart,REP,546
+Tooele,SP-07,U.S. House,2,J. Robert Latham,LIB,41
+Tooele,SP-07,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,250
+Tooele,SP-07,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,14
+Tooele,SP-07,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,581
+Tooele,SP-07,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,40
+Tooele,SP-07,Attorney General,,Rudy J. Bautista,LIB,69
+Tooele,SP-07,Attorney General,,Greg Skordas,DEM,281
+Tooele,SP-07,Attorney General,,Sean D. Reyes,REP,547
+Tooele,SP-07,State Auditor,,John 'Frugal' Dougall,REP,621
+Tooele,SP-07,State Auditor,,Jeffrey L. Ostler,CON,117
+Tooele,SP-07,State Auditor,,Brian L. Fabbi,UUP,100
+Tooele,SP-07,State Treasurer,,Richard Proctor,CON,110
+Tooele,SP-07,State Treasurer,,David Damshen,REP,600
+Tooele,SP-07,State Treasurer,,Joseph Speciale,LIB,140
+Tooele,SP-07,State House,21,Douglas Sagers,REP,0
+Tooele,SP-07,State House,21,Stormy D. Simon,DEM,0
+Tooele,SP-07,State House,68,Kirk D. Pearson,CON,76
+Tooele,SP-07,State House,68,Merrill Nelson,REP,538
+Tooele,SP-07,State House,68,Amiee O. Finster,DEM,257
+Tooele,STK-01:1-01:2,Registered Voters,,,,250
+Tooele,STK-01:1-01:2,Ballots Cast,,,,234
+Tooele,STK-01:1-01:2,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,STK-01:1-01:2,President/Vice President,,Kanye West / Michelle Tidball,,2
+Tooele,STK-01:1-01:2,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,66
+Tooele,STK-01:1-01:2,President/Vice President,,Don Blankenship / William Mohr,CON,2
+Tooele,STK-01:1-01:2,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,10
+Tooele,STK-01:1-01:2,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,STK-01:1-01:2,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,STK-01:1-01:2,President/Vice President,,Gloria La Riva,,0
+Tooele,STK-01:1-01:2,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,151
+Tooele,STK-01:1-01:2,U.S. House,2,Kael Weston,DEM,59
+Tooele,STK-01:1-01:2,U.S. House,2,Chris Stewart,REP,146
+Tooele,STK-01:1-01:2,U.S. House,2,J. Robert Latham,LIB,14
+Tooele,STK-01:1-01:2,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,49
+Tooele,STK-01:1-01:2,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,6
+Tooele,STK-01:1-01:2,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,159
+Tooele,STK-01:1-01:2,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,10
+Tooele,STK-01:1-01:2,Attorney General,,Rudy J. Bautista,LIB,23
+Tooele,STK-01:1-01:2,Attorney General,,Greg Skordas,DEM,58
+Tooele,STK-01:1-01:2,Attorney General,,Sean D. Reyes,REP,150
+Tooele,STK-01:1-01:2,State Auditor,,John 'Frugal' Dougall,REP,178
+Tooele,STK-01:1-01:2,State Auditor,,Jeffrey L. Ostler,CON,33
+Tooele,STK-01:1-01:2,State Auditor,,Brian L. Fabbi,UUP,12
+Tooele,STK-01:1-01:2,State Treasurer,,Richard Proctor,CON,35
+Tooele,STK-01:1-01:2,State Treasurer,,David Damshen,REP,154
+Tooele,STK-01:1-01:2,State Treasurer,,Joseph Speciale,LIB,35
+Tooele,STK-01:1-01:2,State House,21,Douglas Sagers,REP,0
+Tooele,STK-01:1-01:2,State House,21,Stormy D. Simon,DEM,0
+Tooele,STK-01:1-01:2,State House,68,Kirk D. Pearson,CON,16
+Tooele,STK-01:1-01:2,State House,68,Merrill Nelson,REP,159
+Tooele,STK-01:1-01:2,State House,68,Amiee O. Finster,DEM,53
+Tooele,STK-02:1-02:2,Registered Voters,,,,774
+Tooele,STK-02:1-02:2,Ballots Cast,,,,696
+Tooele,STK-02:1-02:2,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,STK-02:1-02:2,President/Vice President,,Kanye West / Michelle Tidball,,3
+Tooele,STK-02:1-02:2,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,107
+Tooele,STK-02:1-02:2,President/Vice President,,Don Blankenship / William Mohr,CON,2
+Tooele,STK-02:1-02:2,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,13
+Tooele,STK-02:1-02:2,President/Vice President,,Joe McHugh / Elizabeth Storm,,2
+Tooele,STK-02:1-02:2,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,STK-02:1-02:2,President/Vice President,,Gloria La Riva,,0
+Tooele,STK-02:1-02:2,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,558
+Tooele,STK-02:1-02:2,U.S. House,2,Kael Weston,DEM,96
+Tooele,STK-02:1-02:2,U.S. House,2,Chris Stewart,REP,533
+Tooele,STK-02:1-02:2,U.S. House,2,J. Robert Latham,LIB,30
+Tooele,STK-02:1-02:2,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,79
+Tooele,STK-02:1-02:2,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,30
+Tooele,STK-02:1-02:2,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,502
+Tooele,STK-02:1-02:2,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,39
+Tooele,STK-02:1-02:2,Attorney General,,Rudy J. Bautista,LIB,37
+Tooele,STK-02:1-02:2,Attorney General,,Greg Skordas,DEM,111
+Tooele,STK-02:1-02:2,Attorney General,,Sean D. Reyes,REP,522
+Tooele,STK-02:1-02:2,State Auditor,,John 'Frugal' Dougall,REP,553
+Tooele,STK-02:1-02:2,State Auditor,,Jeffrey L. Ostler,CON,63
+Tooele,STK-02:1-02:2,State Auditor,,Brian L. Fabbi,UUP,36
+Tooele,STK-02:1-02:2,State Treasurer,,Richard Proctor,CON,68
+Tooele,STK-02:1-02:2,State Treasurer,,David Damshen,REP,522
+Tooele,STK-02:1-02:2,State Treasurer,,Joseph Speciale,LIB,59
+Tooele,STK-02:1-02:2,State House,21,Douglas Sagers,REP,0
+Tooele,STK-02:1-02:2,State House,21,Stormy D. Simon,DEM,0
+Tooele,STK-02:1-02:2,State House,68,Kirk D. Pearson,CON,49
+Tooele,STK-02:1-02:2,State House,68,Merrill Nelson,REP,528
+Tooele,STK-02:1-02:2,State House,68,Amiee O. Finster,DEM,80
+Tooele,T-01,Registered Voters,,,,640
+Tooele,T-01,Ballots Cast,,,,576
+Tooele,T-01,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,T-01,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,T-01,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,181
+Tooele,T-01,President/Vice President,,Don Blankenship / William Mohr,CON,4
+Tooele,T-01,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,18
+Tooele,T-01,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,T-01,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,T-01,President/Vice President,,Gloria La Riva,,1
+Tooele,T-01,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,359
+Tooele,T-01,U.S. House,2,Kael Weston,DEM,150
+Tooele,T-01,U.S. House,2,Chris Stewart,REP,370
+Tooele,T-01,U.S. House,2,J. Robert Latham,LIB,33
+Tooele,T-01,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,137
+Tooele,T-01,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,4
+Tooele,T-01,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,384
+Tooele,T-01,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,30
+Tooele,T-01,Attorney General,,Rudy J. Bautista,LIB,42
+Tooele,T-01,Attorney General,,Greg Skordas,DEM,157
+Tooele,T-01,Attorney General,,Sean D. Reyes,REP,360
+Tooele,T-01,State Auditor,,John 'Frugal' Dougall,REP,402
+Tooele,T-01,State Auditor,,Jeffrey L. Ostler,CON,72
+Tooele,T-01,State Auditor,,Brian L. Fabbi,UUP,44
+Tooele,T-01,State Treasurer,,Richard Proctor,CON,62
+Tooele,T-01,State Treasurer,,David Damshen,REP,382
+Tooele,T-01,State Treasurer,,Joseph Speciale,LIB,71
+Tooele,T-01,State House,21,Douglas Sagers,REP,361
+Tooele,T-01,State House,21,Stormy D. Simon,DEM,195
+Tooele,T-01,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-01,State House,68,Merrill Nelson,REP,0
+Tooele,T-01,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-02,Registered Voters,,,,612
+Tooele,T-02,Ballots Cast,,,,533
+Tooele,T-02,President/Vice President,,Brock Pierce / Karla Ballard,,2
+Tooele,T-02,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,T-02,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,223
+Tooele,T-02,President/Vice President,,Don Blankenship / William Mohr,CON,3
+Tooele,T-02,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,13
+Tooele,T-02,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,T-02,President/Vice President,,Howie Hawkins / Angela Walker,GRN,2
+Tooele,T-02,President/Vice President,,Gloria La Riva,,0
+Tooele,T-02,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,282
+Tooele,T-02,U.S. House,2,Kael Weston,DEM,184
+Tooele,T-02,U.S. House,2,Chris Stewart,REP,286
+Tooele,T-02,U.S. House,2,J. Robert Latham,LIB,29
+Tooele,T-02,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,168
+Tooele,T-02,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,5
+Tooele,T-02,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,314
+Tooele,T-02,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,19
+Tooele,T-02,Attorney General,,Rudy J. Bautista,LIB,38
+Tooele,T-02,Attorney General,,Greg Skordas,DEM,201
+Tooele,T-02,Attorney General,,Sean D. Reyes,REP,277
+Tooele,T-02,State Auditor,,John 'Frugal' Dougall,REP,337
+Tooele,T-02,State Auditor,,Jeffrey L. Ostler,CON,91
+Tooele,T-02,State Auditor,,Brian L. Fabbi,UUP,47
+Tooele,T-02,State Treasurer,,Richard Proctor,CON,64
+Tooele,T-02,State Treasurer,,David Damshen,REP,332
+Tooele,T-02,State Treasurer,,Joseph Speciale,LIB,81
+Tooele,T-02,State House,21,Douglas Sagers,REP,285
+Tooele,T-02,State House,21,Stormy D. Simon,DEM,225
+Tooele,T-02,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-02,State House,68,Merrill Nelson,REP,0
+Tooele,T-02,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-03:1-03:2,Registered Voters,,,,598
+Tooele,T-03:1-03:2,Ballots Cast,,,,562
+Tooele,T-03:1-03:2,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,T-03:1-03:2,President/Vice President,,Kanye West / Michelle Tidball,,4
+Tooele,T-03:1-03:2,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,211
+Tooele,T-03:1-03:2,President/Vice President,,Don Blankenship / William Mohr,CON,4
+Tooele,T-03:1-03:2,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,20
+Tooele,T-03:1-03:2,President/Vice President,,Joe McHugh / Elizabeth Storm,,1
+Tooele,T-03:1-03:2,President/Vice President,,Howie Hawkins / Angela Walker,GRN,1
+Tooele,T-03:1-03:2,President/Vice President,,Gloria La Riva,,0
+Tooele,T-03:1-03:2,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,314
+Tooele,T-03:1-03:2,U.S. House,2,Kael Weston,DEM,174
+Tooele,T-03:1-03:2,U.S. House,2,Chris Stewart,REP,343
+Tooele,T-03:1-03:2,U.S. House,2,J. Robert Latham,LIB,13
+Tooele,T-03:1-03:2,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,147
+Tooele,T-03:1-03:2,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,5
+Tooele,T-03:1-03:2,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,362
+Tooele,T-03:1-03:2,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,18
+Tooele,T-03:1-03:2,Attorney General,,Rudy J. Bautista,LIB,17
+Tooele,T-03:1-03:2,Attorney General,,Greg Skordas,DEM,196
+Tooele,T-03:1-03:2,Attorney General,,Sean D. Reyes,REP,333
+Tooele,T-03:1-03:2,State Auditor,,John 'Frugal' Dougall,REP,404
+Tooele,T-03:1-03:2,State Auditor,,Jeffrey L. Ostler,CON,69
+Tooele,T-03:1-03:2,State Auditor,,Brian L. Fabbi,UUP,29
+Tooele,T-03:1-03:2,State Treasurer,,Richard Proctor,CON,65
+Tooele,T-03:1-03:2,State Treasurer,,David Damshen,REP,382
+Tooele,T-03:1-03:2,State Treasurer,,Joseph Speciale,LIB,52
+Tooele,T-03:1-03:2,State House,21,Douglas Sagers,REP,321
+Tooele,T-03:1-03:2,State House,21,Stormy D. Simon,DEM,211
+Tooele,T-03:1-03:2,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-03:1-03:2,State House,68,Merrill Nelson,REP,0
+Tooele,T-03:1-03:2,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-04:1-04:2,Registered Voters,,,,977
+Tooele,T-04:1-04:2,Ballots Cast,,,,889
+Tooele,T-04:1-04:2,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,T-04:1-04:2,President/Vice President,,Kanye West / Michelle Tidball,,5
+Tooele,T-04:1-04:2,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,257
+Tooele,T-04:1-04:2,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,T-04:1-04:2,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,15
+Tooele,T-04:1-04:2,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,T-04:1-04:2,President/Vice President,,Howie Hawkins / Angela Walker,GRN,4
+Tooele,T-04:1-04:2,President/Vice President,,Gloria La Riva,,0
+Tooele,T-04:1-04:2,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,589
+Tooele,T-04:1-04:2,U.S. House,2,Kael Weston,DEM,212
+Tooele,T-04:1-04:2,U.S. House,2,Chris Stewart,REP,613
+Tooele,T-04:1-04:2,U.S. House,2,J. Robert Latham,LIB,27
+Tooele,T-04:1-04:2,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,214
+Tooele,T-04:1-04:2,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,20
+Tooele,T-04:1-04:2,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,593
+Tooele,T-04:1-04:2,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,26
+Tooele,T-04:1-04:2,Attorney General,,Rudy J. Bautista,LIB,46
+Tooele,T-04:1-04:2,Attorney General,,Greg Skordas,DEM,273
+Tooele,T-04:1-04:2,Attorney General,,Sean D. Reyes,REP,548
+Tooele,T-04:1-04:2,State Auditor,,John 'Frugal' Dougall,REP,641
+Tooele,T-04:1-04:2,State Auditor,,Jeffrey L. Ostler,CON,101
+Tooele,T-04:1-04:2,State Auditor,,Brian L. Fabbi,UUP,78
+Tooele,T-04:1-04:2,State Treasurer,,Richard Proctor,CON,107
+Tooele,T-04:1-04:2,State Treasurer,,David Damshen,REP,617
+Tooele,T-04:1-04:2,State Treasurer,,Joseph Speciale,LIB,89
+Tooele,T-04:1-04:2,State House,21,Douglas Sagers,REP,567
+Tooele,T-04:1-04:2,State House,21,Stormy D. Simon,DEM,284
+Tooele,T-04:1-04:2,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-04:1-04:2,State House,68,Merrill Nelson,REP,0
+Tooele,T-04:1-04:2,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-05,Registered Voters,,,,607
+Tooele,T-05,Ballots Cast,,,,478
+Tooele,T-05,President/Vice President,,Brock Pierce / Karla Ballard,,2
+Tooele,T-05,President/Vice President,,Kanye West / Michelle Tidball,,3
+Tooele,T-05,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,188
+Tooele,T-05,President/Vice President,,Don Blankenship / William Mohr,CON,2
+Tooele,T-05,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,6
+Tooele,T-05,President/Vice President,,Joe McHugh / Elizabeth Storm,,4
+Tooele,T-05,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,T-05,President/Vice President,,Gloria La Riva,,0
+Tooele,T-05,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,264
+Tooele,T-05,U.S. House,2,Kael Weston,DEM,171
+Tooele,T-05,U.S. House,2,Chris Stewart,REP,263
+Tooele,T-05,U.S. House,2,J. Robert Latham,LIB,23
+Tooele,T-05,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,164
+Tooele,T-05,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,13
+Tooele,T-05,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,254
+Tooele,T-05,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,23
+Tooele,T-05,Attorney General,,Rudy J. Bautista,LIB,34
+Tooele,T-05,Attorney General,,Greg Skordas,DEM,172
+Tooele,T-05,Attorney General,,Sean D. Reyes,REP,259
+Tooele,T-05,State Auditor,,John 'Frugal' Dougall,REP,290
+Tooele,T-05,State Auditor,,Jeffrey L. Ostler,CON,86
+Tooele,T-05,State Auditor,,Brian L. Fabbi,UUP,60
+Tooele,T-05,State Treasurer,,Richard Proctor,CON,89
+Tooele,T-05,State Treasurer,,David Damshen,REP,264
+Tooele,T-05,State Treasurer,,Joseph Speciale,LIB,77
+Tooele,T-05,State House,21,Douglas Sagers,REP,263
+Tooele,T-05,State House,21,Stormy D. Simon,DEM,191
+Tooele,T-05,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-05,State House,68,Merrill Nelson,REP,0
+Tooele,T-05,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-06,Registered Voters,,,,538
+Tooele,T-06,Ballots Cast,,,,444
+Tooele,T-06,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,T-06,President/Vice President,,Kanye West / Michelle Tidball,,2
+Tooele,T-06,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,151
+Tooele,T-06,President/Vice President,,Don Blankenship / William Mohr,CON,1
+Tooele,T-06,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,13
+Tooele,T-06,President/Vice President,,Joe McHugh / Elizabeth Storm,,1
+Tooele,T-06,President/Vice President,,Howie Hawkins / Angela Walker,GRN,1
+Tooele,T-06,President/Vice President,,Gloria La Riva,,0
+Tooele,T-06,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,269
+Tooele,T-06,U.S. House,2,Kael Weston,DEM,141
+Tooele,T-06,U.S. House,2,Chris Stewart,REP,261
+Tooele,T-06,U.S. House,2,J. Robert Latham,LIB,22
+Tooele,T-06,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,127
+Tooele,T-06,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,12
+Tooele,T-06,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,261
+Tooele,T-06,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,24
+Tooele,T-06,Attorney General,,Rudy J. Bautista,LIB,40
+Tooele,T-06,Attorney General,,Greg Skordas,DEM,140
+Tooele,T-06,Attorney General,,Sean D. Reyes,REP,254
+Tooele,T-06,State Auditor,,John 'Frugal' Dougall,REP,302
+Tooele,T-06,State Auditor,,Jeffrey L. Ostler,CON,64
+Tooele,T-06,State Auditor,,Brian L. Fabbi,UUP,45
+Tooele,T-06,State Treasurer,,Richard Proctor,CON,71
+Tooele,T-06,State Treasurer,,David Damshen,REP,270
+Tooele,T-06,State Treasurer,,Joseph Speciale,LIB,68
+Tooele,T-06,State House,21,Douglas Sagers,REP,253
+Tooele,T-06,State House,21,Stormy D. Simon,DEM,174
+Tooele,T-06,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-06,State House,68,Merrill Nelson,REP,0
+Tooele,T-06,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-07,Registered Voters,,,,608
+Tooele,T-07,Ballots Cast,,,,482
+Tooele,T-07,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,T-07,President/Vice President,,Kanye West / Michelle Tidball,,4
+Tooele,T-07,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,173
+Tooele,T-07,President/Vice President,,Don Blankenship / William Mohr,CON,3
+Tooele,T-07,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,13
+Tooele,T-07,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,T-07,President/Vice President,,Howie Hawkins / Angela Walker,GRN,1
+Tooele,T-07,President/Vice President,,Gloria La Riva,,1
+Tooele,T-07,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,280
+Tooele,T-07,U.S. House,2,Kael Weston,DEM,151
+Tooele,T-07,U.S. House,2,Chris Stewart,REP,280
+Tooele,T-07,U.S. House,2,J. Robert Latham,LIB,24
+Tooele,T-07,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,147
+Tooele,T-07,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,8
+Tooele,T-07,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,282
+Tooele,T-07,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,24
+Tooele,T-07,Attorney General,,Rudy J. Bautista,LIB,38
+Tooele,T-07,Attorney General,,Greg Skordas,DEM,160
+Tooele,T-07,Attorney General,,Sean D. Reyes,REP,265
+Tooele,T-07,State Auditor,,John 'Frugal' Dougall,REP,313
+Tooele,T-07,State Auditor,,Jeffrey L. Ostler,CON,88
+Tooele,T-07,State Auditor,,Brian L. Fabbi,UUP,42
+Tooele,T-07,State Treasurer,,Richard Proctor,CON,87
+Tooele,T-07,State Treasurer,,David Damshen,REP,279
+Tooele,T-07,State Treasurer,,Joseph Speciale,LIB,74
+Tooele,T-07,State House,21,Douglas Sagers,REP,277
+Tooele,T-07,State House,21,Stormy D. Simon,DEM,182
+Tooele,T-07,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-07,State House,68,Merrill Nelson,REP,0
+Tooele,T-07,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-08,Registered Voters,,,,672
+Tooele,T-08,Ballots Cast,,,,556
+Tooele,T-08,President/Vice President,,Brock Pierce / Karla Ballard,,2
+Tooele,T-08,President/Vice President,,Kanye West / Michelle Tidball,,1
+Tooele,T-08,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,176
+Tooele,T-08,President/Vice President,,Don Blankenship / William Mohr,CON,1
+Tooele,T-08,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,17
+Tooele,T-08,President/Vice President,,Joe McHugh / Elizabeth Storm,,1
+Tooele,T-08,President/Vice President,,Howie Hawkins / Angela Walker,GRN,1
+Tooele,T-08,President/Vice President,,Gloria La Riva,,0
+Tooele,T-08,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,354
+Tooele,T-08,U.S. House,2,Kael Weston,DEM,152
+Tooele,T-08,U.S. House,2,Chris Stewart,REP,344
+Tooele,T-08,U.S. House,2,J. Robert Latham,LIB,30
+Tooele,T-08,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,132
+Tooele,T-08,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,9
+Tooele,T-08,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,347
+Tooele,T-08,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,31
+Tooele,T-08,Attorney General,,Rudy J. Bautista,LIB,39
+Tooele,T-08,Attorney General,,Greg Skordas,DEM,164
+Tooele,T-08,Attorney General,,Sean D. Reyes,REP,328
+Tooele,T-08,State Auditor,,John 'Frugal' Dougall,REP,387
+Tooele,T-08,State Auditor,,Jeffrey L. Ostler,CON,71
+Tooele,T-08,State Auditor,,Brian L. Fabbi,UUP,44
+Tooele,T-08,State Treasurer,,Richard Proctor,CON,65
+Tooele,T-08,State Treasurer,,David Damshen,REP,354
+Tooele,T-08,State Treasurer,,Joseph Speciale,LIB,83
+Tooele,T-08,State House,21,Douglas Sagers,REP,326
+Tooele,T-08,State House,21,Stormy D. Simon,DEM,196
+Tooele,T-08,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-08,State House,68,Merrill Nelson,REP,0
+Tooele,T-08,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-09,Registered Voters,,,,1006
+Tooele,T-09,Ballots Cast,,,,872
+Tooele,T-09,President/Vice President,,Brock Pierce / Karla Ballard,,3
+Tooele,T-09,President/Vice President,,Kanye West / Michelle Tidball,,3
+Tooele,T-09,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,286
+Tooele,T-09,President/Vice President,,Don Blankenship / William Mohr,CON,1
+Tooele,T-09,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,40
+Tooele,T-09,President/Vice President,,Joe McHugh / Elizabeth Storm,,3
+Tooele,T-09,President/Vice President,,Howie Hawkins / Angela Walker,GRN,1
+Tooele,T-09,President/Vice President,,Gloria La Riva,,1
+Tooele,T-09,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,506
+Tooele,T-09,U.S. House,2,Kael Weston,DEM,242
+Tooele,T-09,U.S. House,2,Chris Stewart,REP,513
+Tooele,T-09,U.S. House,2,J. Robert Latham,LIB,58
+Tooele,T-09,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,223
+Tooele,T-09,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,18
+Tooele,T-09,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,530
+Tooele,T-09,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,44
+Tooele,T-09,Attorney General,,Rudy J. Bautista,LIB,68
+Tooele,T-09,Attorney General,,Greg Skordas,DEM,255
+Tooele,T-09,Attorney General,,Sean D. Reyes,REP,513
+Tooele,T-09,State Auditor,,John 'Frugal' Dougall,REP,550
+Tooele,T-09,State Auditor,,Jeffrey L. Ostler,CON,136
+Tooele,T-09,State Auditor,,Brian L. Fabbi,UUP,90
+Tooele,T-09,State Treasurer,,Richard Proctor,CON,97
+Tooele,T-09,State Treasurer,,David Damshen,REP,538
+Tooele,T-09,State Treasurer,,Joseph Speciale,LIB,141
+Tooele,T-09,State House,21,Douglas Sagers,REP,510
+Tooele,T-09,State House,21,Stormy D. Simon,DEM,300
+Tooele,T-09,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-09,State House,68,Merrill Nelson,REP,0
+Tooele,T-09,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-10,Registered Voters,,,,985
+Tooele,T-10,Ballots Cast,,,,847
+Tooele,T-10,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,T-10,President/Vice President,,Kanye West / Michelle Tidball,,6
+Tooele,T-10,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,266
+Tooele,T-10,President/Vice President,,Don Blankenship / William Mohr,CON,4
+Tooele,T-10,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,24
+Tooele,T-10,President/Vice President,,Joe McHugh / Elizabeth Storm,,1
+Tooele,T-10,President/Vice President,,Howie Hawkins / Angela Walker,GRN,4
+Tooele,T-10,President/Vice President,,Gloria La Riva,,2
+Tooele,T-10,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,531
+Tooele,T-10,U.S. House,2,Kael Weston,DEM,224
+Tooele,T-10,U.S. House,2,Chris Stewart,REP,531
+Tooele,T-10,U.S. House,2,J. Robert Latham,LIB,44
+Tooele,T-10,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,200
+Tooele,T-10,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,13
+Tooele,T-10,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,546
+Tooele,T-10,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,47
+Tooele,T-10,Attorney General,,Rudy J. Bautista,LIB,53
+Tooele,T-10,Attorney General,,Greg Skordas,DEM,235
+Tooele,T-10,Attorney General,,Sean D. Reyes,REP,528
+Tooele,T-10,State Auditor,,John 'Frugal' Dougall,REP,572
+Tooele,T-10,State Auditor,,Jeffrey L. Ostler,CON,127
+Tooele,T-10,State Auditor,,Brian L. Fabbi,UUP,71
+Tooele,T-10,State Treasurer,,Richard Proctor,CON,108
+Tooele,T-10,State Treasurer,,David Damshen,REP,549
+Tooele,T-10,State Treasurer,,Joseph Speciale,LIB,114
+Tooele,T-10,State House,21,Douglas Sagers,REP,514
+Tooele,T-10,State House,21,Stormy D. Simon,DEM,284
+Tooele,T-10,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-10,State House,68,Merrill Nelson,REP,0
+Tooele,T-10,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-11,Registered Voters,,,,536
+Tooele,T-11,Ballots Cast,,,,477
+Tooele,T-11,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,T-11,President/Vice President,,Kanye West / Michelle Tidball,,1
+Tooele,T-11,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,134
+Tooele,T-11,President/Vice President,,Don Blankenship / William Mohr,CON,1
+Tooele,T-11,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,12
+Tooele,T-11,President/Vice President,,Joe McHugh / Elizabeth Storm,,1
+Tooele,T-11,President/Vice President,,Howie Hawkins / Angela Walker,GRN,3
+Tooele,T-11,President/Vice President,,Gloria La Riva,,0
+Tooele,T-11,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,314
+Tooele,T-11,U.S. House,2,Kael Weston,DEM,114
+Tooele,T-11,U.S. House,2,Chris Stewart,REP,319
+Tooele,T-11,U.S. House,2,J. Robert Latham,LIB,19
+Tooele,T-11,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,95
+Tooele,T-11,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,11
+Tooele,T-11,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,325
+Tooele,T-11,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,24
+Tooele,T-11,Attorney General,,Rudy J. Bautista,LIB,34
+Tooele,T-11,Attorney General,,Greg Skordas,DEM,121
+Tooele,T-11,Attorney General,,Sean D. Reyes,REP,310
+Tooele,T-11,State Auditor,,John 'Frugal' Dougall,REP,351
+Tooele,T-11,State Auditor,,Jeffrey L. Ostler,CON,56
+Tooele,T-11,State Auditor,,Brian L. Fabbi,UUP,41
+Tooele,T-11,State Treasurer,,Richard Proctor,CON,56
+Tooele,T-11,State Treasurer,,David Damshen,REP,327
+Tooele,T-11,State Treasurer,,Joseph Speciale,LIB,57
+Tooele,T-11,State House,21,Douglas Sagers,REP,323
+Tooele,T-11,State House,21,Stormy D. Simon,DEM,131
+Tooele,T-11,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-11,State House,68,Merrill Nelson,REP,0
+Tooele,T-11,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-12,Registered Voters,,,,686
+Tooele,T-12,Ballots Cast,,,,620
+Tooele,T-12,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,T-12,President/Vice President,,Kanye West / Michelle Tidball,,2
+Tooele,T-12,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,194
+Tooele,T-12,President/Vice President,,Don Blankenship / William Mohr,CON,4
+Tooele,T-12,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,24
+Tooele,T-12,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,T-12,President/Vice President,,Howie Hawkins / Angela Walker,GRN,1
+Tooele,T-12,President/Vice President,,Gloria La Riva,,1
+Tooele,T-12,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,378
+Tooele,T-12,U.S. House,2,Kael Weston,DEM,167
+Tooele,T-12,U.S. House,2,Chris Stewart,REP,401
+Tooele,T-12,U.S. House,2,J. Robert Latham,LIB,27
+Tooele,T-12,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,137
+Tooele,T-12,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,13
+Tooele,T-12,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,425
+Tooele,T-12,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,20
+Tooele,T-12,Attorney General,,Rudy J. Bautista,LIB,25
+Tooele,T-12,Attorney General,,Greg Skordas,DEM,175
+Tooele,T-12,Attorney General,,Sean D. Reyes,REP,405
+Tooele,T-12,State Auditor,,John 'Frugal' Dougall,REP,417
+Tooele,T-12,State Auditor,,Jeffrey L. Ostler,CON,93
+Tooele,T-12,State Auditor,,Brian L. Fabbi,UUP,66
+Tooele,T-12,State Treasurer,,Richard Proctor,CON,87
+Tooele,T-12,State Treasurer,,David Damshen,REP,413
+Tooele,T-12,State Treasurer,,Joseph Speciale,LIB,83
+Tooele,T-12,State House,21,Douglas Sagers,REP,398
+Tooele,T-12,State House,21,Stormy D. Simon,DEM,201
+Tooele,T-12,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-12,State House,68,Merrill Nelson,REP,0
+Tooele,T-12,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-13,Registered Voters,,,,665
+Tooele,T-13,Ballots Cast,,,,566
+Tooele,T-13,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,T-13,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,T-13,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,165
+Tooele,T-13,President/Vice President,,Don Blankenship / William Mohr,CON,4
+Tooele,T-13,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,17
+Tooele,T-13,President/Vice President,,Joe McHugh / Elizabeth Storm,,3
+Tooele,T-13,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,T-13,President/Vice President,,Gloria La Riva,,1
+Tooele,T-13,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,370
+Tooele,T-13,U.S. House,2,Kael Weston,DEM,141
+Tooele,T-13,U.S. House,2,Chris Stewart,REP,376
+Tooele,T-13,U.S. House,2,J. Robert Latham,LIB,27
+Tooele,T-13,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,147
+Tooele,T-13,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,16
+Tooele,T-13,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,357
+Tooele,T-13,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,21
+Tooele,T-13,Attorney General,,Rudy J. Bautista,LIB,37
+Tooele,T-13,Attorney General,,Greg Skordas,DEM,154
+Tooele,T-13,Attorney General,,Sean D. Reyes,REP,353
+Tooele,T-13,State Auditor,,John 'Frugal' Dougall,REP,385
+Tooele,T-13,State Auditor,,Jeffrey L. Ostler,CON,80
+Tooele,T-13,State Auditor,,Brian L. Fabbi,UUP,60
+Tooele,T-13,State Treasurer,,Richard Proctor,CON,67
+Tooele,T-13,State Treasurer,,David Damshen,REP,382
+Tooele,T-13,State Treasurer,,Joseph Speciale,LIB,80
+Tooele,T-13,State House,21,Douglas Sagers,REP,339
+Tooele,T-13,State House,21,Stormy D. Simon,DEM,193
+Tooele,T-13,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-13,State House,68,Merrill Nelson,REP,0
+Tooele,T-13,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-14,Registered Voters,,,,1036
+Tooele,T-14,Ballots Cast,,,,878
+Tooele,T-14,President/Vice President,,Brock Pierce / Karla Ballard,,3
+Tooele,T-14,President/Vice President,,Kanye West / Michelle Tidball,,4
+Tooele,T-14,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,284
+Tooele,T-14,President/Vice President,,Don Blankenship / William Mohr,CON,8
+Tooele,T-14,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,51
+Tooele,T-14,President/Vice President,,Joe McHugh / Elizabeth Storm,,1
+Tooele,T-14,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,T-14,President/Vice President,,Gloria La Riva,,0
+Tooele,T-14,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,511
+Tooele,T-14,U.S. House,2,Kael Weston,DEM,242
+Tooele,T-14,U.S. House,2,Chris Stewart,REP,526
+Tooele,T-14,U.S. House,2,J. Robert Latham,LIB,62
+Tooele,T-14,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,227
+Tooele,T-14,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,18
+Tooele,T-14,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,535
+Tooele,T-14,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,47
+Tooele,T-14,Attorney General,,Rudy J. Bautista,LIB,71
+Tooele,T-14,Attorney General,,Greg Skordas,DEM,246
+Tooele,T-14,Attorney General,,Sean D. Reyes,REP,525
+Tooele,T-14,State Auditor,,John 'Frugal' Dougall,REP,581
+Tooele,T-14,State Auditor,,Jeffrey L. Ostler,CON,119
+Tooele,T-14,State Auditor,,Brian L. Fabbi,UUP,103
+Tooele,T-14,State Treasurer,,Richard Proctor,CON,105
+Tooele,T-14,State Treasurer,,David Damshen,REP,563
+Tooele,T-14,State Treasurer,,Joseph Speciale,LIB,128
+Tooele,T-14,State House,21,Douglas Sagers,REP,524
+Tooele,T-14,State House,21,Stormy D. Simon,DEM,305
+Tooele,T-14,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-14,State House,68,Merrill Nelson,REP,0
+Tooele,T-14,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-15,Registered Voters,,,,1075
+Tooele,T-15,Ballots Cast,,,,956
+Tooele,T-15,President/Vice President,,Brock Pierce / Karla Ballard,,3
+Tooele,T-15,President/Vice President,,Kanye West / Michelle Tidball,,8
+Tooele,T-15,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,260
+Tooele,T-15,President/Vice President,,Don Blankenship / William Mohr,CON,5
+Tooele,T-15,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,40
+Tooele,T-15,President/Vice President,,Joe McHugh / Elizabeth Storm,,1
+Tooele,T-15,President/Vice President,,Howie Hawkins / Angela Walker,GRN,3
+Tooele,T-15,President/Vice President,,Gloria La Riva,,1
+Tooele,T-15,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,618
+Tooele,T-15,U.S. House,2,Kael Weston,DEM,219
+Tooele,T-15,U.S. House,2,Chris Stewart,REP,623
+Tooele,T-15,U.S. House,2,J. Robert Latham,LIB,59
+Tooele,T-15,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,220
+Tooele,T-15,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,20
+Tooele,T-15,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,624
+Tooele,T-15,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,44
+Tooele,T-15,Attorney General,,Rudy J. Bautista,LIB,72
+Tooele,T-15,Attorney General,,Greg Skordas,DEM,247
+Tooele,T-15,Attorney General,,Sean D. Reyes,REP,601
+Tooele,T-15,State Auditor,,John 'Frugal' Dougall,REP,642
+Tooele,T-15,State Auditor,,Jeffrey L. Ostler,CON,134
+Tooele,T-15,State Auditor,,Brian L. Fabbi,UUP,84
+Tooele,T-15,State Treasurer,,Richard Proctor,CON,102
+Tooele,T-15,State Treasurer,,David Damshen,REP,631
+Tooele,T-15,State Treasurer,,Joseph Speciale,LIB,130
+Tooele,T-15,State House,21,Douglas Sagers,REP,606
+Tooele,T-15,State House,21,Stormy D. Simon,DEM,301
+Tooele,T-15,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-15,State House,68,Merrill Nelson,REP,0
+Tooele,T-15,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-16,Registered Voters,,,,1131
+Tooele,T-16,Ballots Cast,,,,943
+Tooele,T-16,President/Vice President,,Brock Pierce / Karla Ballard,,2
+Tooele,T-16,President/Vice President,,Kanye West / Michelle Tidball,,8
+Tooele,T-16,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,307
+Tooele,T-16,President/Vice President,,Don Blankenship / William Mohr,CON,5
+Tooele,T-16,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,51
+Tooele,T-16,President/Vice President,,Joe McHugh / Elizabeth Storm,,1
+Tooele,T-16,President/Vice President,,Howie Hawkins / Angela Walker,GRN,6
+Tooele,T-16,President/Vice President,,Gloria La Riva,,0
+Tooele,T-16,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,544
+Tooele,T-16,U.S. House,2,Kael Weston,DEM,279
+Tooele,T-16,U.S. House,2,Chris Stewart,REP,545
+Tooele,T-16,U.S. House,2,J. Robert Latham,LIB,55
+Tooele,T-16,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,270
+Tooele,T-16,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,21
+Tooele,T-16,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,551
+Tooele,T-16,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,44
+Tooele,T-16,Attorney General,,Rudy J. Bautista,LIB,67
+Tooele,T-16,Attorney General,,Greg Skordas,DEM,277
+Tooele,T-16,Attorney General,,Sean D. Reyes,REP,540
+Tooele,T-16,State Auditor,,John 'Frugal' Dougall,REP,609
+Tooele,T-16,State Auditor,,Jeffrey L. Ostler,CON,122
+Tooele,T-16,State Auditor,,Brian L. Fabbi,UUP,116
+Tooele,T-16,State Treasurer,,Richard Proctor,CON,107
+Tooele,T-16,State Treasurer,,David Damshen,REP,595
+Tooele,T-16,State Treasurer,,Joseph Speciale,LIB,139
+Tooele,T-16,State House,21,Douglas Sagers,REP,528
+Tooele,T-16,State House,21,Stormy D. Simon,DEM,357
+Tooele,T-16,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-16,State House,68,Merrill Nelson,REP,0
+Tooele,T-16,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-17,Registered Voters,,,,1047
+Tooele,T-17,Ballots Cast,,,,902
+Tooele,T-17,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,T-17,President/Vice President,,Kanye West / Michelle Tidball,,7
+Tooele,T-17,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,228
+Tooele,T-17,President/Vice President,,Don Blankenship / William Mohr,CON,4
+Tooele,T-17,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,24
+Tooele,T-17,President/Vice President,,Joe McHugh / Elizabeth Storm,,1
+Tooele,T-17,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,T-17,President/Vice President,,Gloria La Riva,,4
+Tooele,T-17,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,616
+Tooele,T-17,U.S. House,2,Kael Weston,DEM,198
+Tooele,T-17,U.S. House,2,Chris Stewart,REP,613
+Tooele,T-17,U.S. House,2,J. Robert Latham,LIB,46
+Tooele,T-17,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,200
+Tooele,T-17,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,13
+Tooele,T-17,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,613
+Tooele,T-17,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,37
+Tooele,T-17,Attorney General,,Rudy J. Bautista,LIB,48
+Tooele,T-17,Attorney General,,Greg Skordas,DEM,206
+Tooele,T-17,Attorney General,,Sean D. Reyes,REP,621
+Tooele,T-17,State Auditor,,John 'Frugal' Dougall,REP,653
+Tooele,T-17,State Auditor,,Jeffrey L. Ostler,CON,90
+Tooele,T-17,State Auditor,,Brian L. Fabbi,UUP,94
+Tooele,T-17,State Treasurer,,Richard Proctor,CON,103
+Tooele,T-17,State Treasurer,,David Damshen,REP,617
+Tooele,T-17,State Treasurer,,Joseph Speciale,LIB,113
+Tooele,T-17,State House,21,Douglas Sagers,REP,573
+Tooele,T-17,State House,21,Stormy D. Simon,DEM,294
+Tooele,T-17,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-17,State House,68,Merrill Nelson,REP,0
+Tooele,T-17,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-18,Registered Voters,,,,896
+Tooele,T-18,Ballots Cast,,,,726
+Tooele,T-18,President/Vice President,,Brock Pierce / Karla Ballard,,4
+Tooele,T-18,President/Vice President,,Kanye West / Michelle Tidball,,3
+Tooele,T-18,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,248
+Tooele,T-18,President/Vice President,,Don Blankenship / William Mohr,CON,6
+Tooele,T-18,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,28
+Tooele,T-18,President/Vice President,,Joe McHugh / Elizabeth Storm,,5
+Tooele,T-18,President/Vice President,,Howie Hawkins / Angela Walker,GRN,4
+Tooele,T-18,President/Vice President,,Gloria La Riva,,0
+Tooele,T-18,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,420
+Tooele,T-18,U.S. House,2,Kael Weston,DEM,207
+Tooele,T-18,U.S. House,2,Chris Stewart,REP,435
+Tooele,T-18,U.S. House,2,J. Robert Latham,LIB,55
+Tooele,T-18,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,206
+Tooele,T-18,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,23
+Tooele,T-18,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,425
+Tooele,T-18,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,36
+Tooele,T-18,Attorney General,,Rudy J. Bautista,LIB,65
+Tooele,T-18,Attorney General,,Greg Skordas,DEM,215
+Tooele,T-18,Attorney General,,Sean D. Reyes,REP,420
+Tooele,T-18,State Auditor,,John 'Frugal' Dougall,REP,462
+Tooele,T-18,State Auditor,,Jeffrey L. Ostler,CON,122
+Tooele,T-18,State Auditor,,Brian L. Fabbi,UUP,88
+Tooele,T-18,State Treasurer,,Richard Proctor,CON,104
+Tooele,T-18,State Treasurer,,David Damshen,REP,450
+Tooele,T-18,State Treasurer,,Joseph Speciale,LIB,118
+Tooele,T-18,State House,21,Douglas Sagers,REP,412
+Tooele,T-18,State House,21,Stormy D. Simon,DEM,280
+Tooele,T-18,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-18,State House,68,Merrill Nelson,REP,0
+Tooele,T-18,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-19,Registered Voters,,,,683
+Tooele,T-19,Ballots Cast,,,,596
+Tooele,T-19,President/Vice President,,Brock Pierce / Karla Ballard,,3
+Tooele,T-19,President/Vice President,,Kanye West / Michelle Tidball,,2
+Tooele,T-19,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,181
+Tooele,T-19,President/Vice President,,Don Blankenship / William Mohr,CON,4
+Tooele,T-19,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,21
+Tooele,T-19,President/Vice President,,Joe McHugh / Elizabeth Storm,,3
+Tooele,T-19,President/Vice President,,Howie Hawkins / Angela Walker,GRN,5
+Tooele,T-19,President/Vice President,,Gloria La Riva,,3
+Tooele,T-19,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,356
+Tooele,T-19,U.S. House,2,Kael Weston,DEM,147
+Tooele,T-19,U.S. House,2,Chris Stewart,REP,389
+Tooele,T-19,U.S. House,2,J. Robert Latham,LIB,31
+Tooele,T-19,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,139
+Tooele,T-19,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,14
+Tooele,T-19,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,399
+Tooele,T-19,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,20
+Tooele,T-19,Attorney General,,Rudy J. Bautista,LIB,37
+Tooele,T-19,Attorney General,,Greg Skordas,DEM,178
+Tooele,T-19,Attorney General,,Sean D. Reyes,REP,366
+Tooele,T-19,State Auditor,,John 'Frugal' Dougall,REP,410
+Tooele,T-19,State Auditor,,Jeffrey L. Ostler,CON,100
+Tooele,T-19,State Auditor,,Brian L. Fabbi,UUP,46
+Tooele,T-19,State Treasurer,,Richard Proctor,CON,91
+Tooele,T-19,State Treasurer,,David Damshen,REP,400
+Tooele,T-19,State Treasurer,,Joseph Speciale,LIB,66
+Tooele,T-19,State House,21,Douglas Sagers,REP,365
+Tooele,T-19,State House,21,Stormy D. Simon,DEM,210
+Tooele,T-19,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-19,State House,68,Merrill Nelson,REP,0
+Tooele,T-19,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-20,Registered Voters,,,,720
+Tooele,T-20,Ballots Cast,,,,612
+Tooele,T-20,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,T-20,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,T-20,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,162
+Tooele,T-20,President/Vice President,,Don Blankenship / William Mohr,CON,5
+Tooele,T-20,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,16
+Tooele,T-20,President/Vice President,,Joe McHugh / Elizabeth Storm,,3
+Tooele,T-20,President/Vice President,,Howie Hawkins / Angela Walker,GRN,3
+Tooele,T-20,President/Vice President,,Gloria La Riva,,0
+Tooele,T-20,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,409
+Tooele,T-20,U.S. House,2,Kael Weston,DEM,144
+Tooele,T-20,U.S. House,2,Chris Stewart,REP,414
+Tooele,T-20,U.S. House,2,J. Robert Latham,LIB,22
+Tooele,T-20,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,110
+Tooele,T-20,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,18
+Tooele,T-20,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,429
+Tooele,T-20,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,25
+Tooele,T-20,Attorney General,,Rudy J. Bautista,LIB,33
+Tooele,T-20,Attorney General,,Greg Skordas,DEM,148
+Tooele,T-20,Attorney General,,Sean D. Reyes,REP,410
+Tooele,T-20,State Auditor,,John 'Frugal' Dougall,REP,440
+Tooele,T-20,State Auditor,,Jeffrey L. Ostler,CON,82
+Tooele,T-20,State Auditor,,Brian L. Fabbi,UUP,41
+Tooele,T-20,State Treasurer,,Richard Proctor,CON,83
+Tooele,T-20,State Treasurer,,David Damshen,REP,420
+Tooele,T-20,State Treasurer,,Joseph Speciale,LIB,56
+Tooele,T-20,State House,21,Douglas Sagers,REP,398
+Tooele,T-20,State House,21,Stormy D. Simon,DEM,185
+Tooele,T-20,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-20,State House,68,Merrill Nelson,REP,0
+Tooele,T-20,State House,68,Amiee O. Finster,DEM,0
+Tooele,T-21,Registered Voters,,,,1140
+Tooele,T-21,Ballots Cast,,,,963
+Tooele,T-21,President/Vice President,,Brock Pierce / Karla Ballard,,5
+Tooele,T-21,President/Vice President,,Kanye West / Michelle Tidball,,9
+Tooele,T-21,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,304
+Tooele,T-21,President/Vice President,,Don Blankenship / William Mohr,CON,6
+Tooele,T-21,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,22
+Tooele,T-21,President/Vice President,,Joe McHugh / Elizabeth Storm,,7
+Tooele,T-21,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,T-21,President/Vice President,,Gloria La Riva,,2
+Tooele,T-21,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,591
+Tooele,T-21,U.S. House,2,Kael Weston,DEM,272
+Tooele,T-21,U.S. House,2,Chris Stewart,REP,584
+Tooele,T-21,U.S. House,2,J. Robert Latham,LIB,62
+Tooele,T-21,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,249
+Tooele,T-21,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,24
+Tooele,T-21,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,594
+Tooele,T-21,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,48
+Tooele,T-21,Attorney General,,Rudy J. Bautista,LIB,80
+Tooele,T-21,Attorney General,,Greg Skordas,DEM,287
+Tooele,T-21,Attorney General,,Sean D. Reyes,REP,573
+Tooele,T-21,State Auditor,,John 'Frugal' Dougall,REP,624
+Tooele,T-21,State Auditor,,Jeffrey L. Ostler,CON,141
+Tooele,T-21,State Auditor,,Brian L. Fabbi,UUP,119
+Tooele,T-21,State Treasurer,,Richard Proctor,CON,129
+Tooele,T-21,State Treasurer,,David Damshen,REP,606
+Tooele,T-21,State Treasurer,,Joseph Speciale,LIB,148
+Tooele,T-21,State House,21,Douglas Sagers,REP,575
+Tooele,T-21,State House,21,Stormy D. Simon,DEM,349
+Tooele,T-21,State House,68,Kirk D. Pearson,CON,0
+Tooele,T-21,State House,68,Merrill Nelson,REP,0
+Tooele,T-21,State House,68,Amiee O. Finster,DEM,0
+Tooele,TERRA,Registered Voters,,,,68
+Tooele,TERRA,Ballots Cast,,,,61
+Tooele,TERRA,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,TERRA,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,TERRA,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,13
+Tooele,TERRA,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,TERRA,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,TERRA,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,TERRA,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,TERRA,President/Vice President,,Gloria La Riva,,0
+Tooele,TERRA,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,45
+Tooele,TERRA,U.S. House,2,Kael Weston,DEM,9
+Tooele,TERRA,U.S. House,2,Chris Stewart,REP,46
+Tooele,TERRA,U.S. House,2,J. Robert Latham,LIB,4
+Tooele,TERRA,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,5
+Tooele,TERRA,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,TERRA,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,47
+Tooele,TERRA,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,6
+Tooele,TERRA,Attorney General,,Rudy J. Bautista,LIB,4
+Tooele,TERRA,Attorney General,,Greg Skordas,DEM,10
+Tooele,TERRA,Attorney General,,Sean D. Reyes,REP,47
+Tooele,TERRA,State Auditor,,John 'Frugal' Dougall,REP,48
+Tooele,TERRA,State Auditor,,Jeffrey L. Ostler,CON,9
+Tooele,TERRA,State Auditor,,Brian L. Fabbi,UUP,4
+Tooele,TERRA,State Treasurer,,Richard Proctor,CON,9
+Tooele,TERRA,State Treasurer,,David Damshen,REP,45
+Tooele,TERRA,State Treasurer,,Joseph Speciale,LIB,7
+Tooele,TERRA,State House,21,Douglas Sagers,REP,0
+Tooele,TERRA,State House,21,Stormy D. Simon,DEM,0
+Tooele,TERRA,State House,68,Kirk D. Pearson,CON,5
+Tooele,TERRA,State House,68,Merrill Nelson,REP,46
+Tooele,TERRA,State House,68,Amiee O. Finster,DEM,9
+Tooele,VERN-01:1-01:2,Registered Voters,,,,160
+Tooele,VERN-01:1-01:2,Ballots Cast,,,,143
+Tooele,VERN-01:1-01:2,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,VERN-01:1-01:2,President/Vice President,,Kanye West / Michelle Tidball,,1
+Tooele,VERN-01:1-01:2,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,16
+Tooele,VERN-01:1-01:2,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,VERN-01:1-01:2,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Tooele,VERN-01:1-01:2,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,VERN-01:1-01:2,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,VERN-01:1-01:2,President/Vice President,,Gloria La Riva,,0
+Tooele,VERN-01:1-01:2,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,121
+Tooele,VERN-01:1-01:2,U.S. House,2,Kael Weston,DEM,17
+Tooele,VERN-01:1-01:2,U.S. House,2,Chris Stewart,REP,117
+Tooele,VERN-01:1-01:2,U.S. House,2,J. Robert Latham,LIB,2
+Tooele,VERN-01:1-01:2,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,19
+Tooele,VERN-01:1-01:2,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,7
+Tooele,VERN-01:1-01:2,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,95
+Tooele,VERN-01:1-01:2,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,7
+Tooele,VERN-01:1-01:2,Attorney General,,Rudy J. Bautista,LIB,9
+Tooele,VERN-01:1-01:2,Attorney General,,Greg Skordas,DEM,18
+Tooele,VERN-01:1-01:2,Attorney General,,Sean D. Reyes,REP,114
+Tooele,VERN-01:1-01:2,State Auditor,,John 'Frugal' Dougall,REP,114
+Tooele,VERN-01:1-01:2,State Auditor,,Jeffrey L. Ostler,CON,13
+Tooele,VERN-01:1-01:2,State Auditor,,Brian L. Fabbi,UUP,7
+Tooele,VERN-01:1-01:2,State Treasurer,,Richard Proctor,CON,22
+Tooele,VERN-01:1-01:2,State Treasurer,,David Damshen,REP,98
+Tooele,VERN-01:1-01:2,State Treasurer,,Joseph Speciale,LIB,15
+Tooele,VERN-01:1-01:2,State House,21,Douglas Sagers,REP,0
+Tooele,VERN-01:1-01:2,State House,21,Stormy D. Simon,DEM,0
+Tooele,VERN-01:1-01:2,State House,68,Kirk D. Pearson,CON,5
+Tooele,VERN-01:1-01:2,State House,68,Merrill Nelson,REP,116
+Tooele,VERN-01:1-01:2,State House,68,Amiee O. Finster,DEM,17
+Tooele,WEND,Registered Voters,,,,212
+Tooele,WEND,Ballots Cast,,,,145
+Tooele,WEND,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,WEND,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,WEND,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,64
+Tooele,WEND,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,WEND,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,4
+Tooele,WEND,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,WEND,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,WEND,President/Vice President,,Gloria La Riva,,0
+Tooele,WEND,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,77
+Tooele,WEND,U.S. House,2,Kael Weston,DEM,63
+Tooele,WEND,U.S. House,2,Chris Stewart,REP,66
+Tooele,WEND,U.S. House,2,J. Robert Latham,LIB,9
+Tooele,WEND,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,50
+Tooele,WEND,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,1
+Tooele,WEND,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,78
+Tooele,WEND,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,8
+Tooele,WEND,Attorney General,,Rudy J. Bautista,LIB,18
+Tooele,WEND,Attorney General,,Greg Skordas,DEM,55
+Tooele,WEND,Attorney General,,Sean D. Reyes,REP,70
+Tooele,WEND,State Auditor,,John 'Frugal' Dougall,REP,90
+Tooele,WEND,State Auditor,,Jeffrey L. Ostler,CON,23
+Tooele,WEND,State Auditor,,Brian L. Fabbi,UUP,19
+Tooele,WEND,State Treasurer,,Richard Proctor,CON,13
+Tooele,WEND,State Treasurer,,David Damshen,REP,87
+Tooele,WEND,State Treasurer,,Joseph Speciale,LIB,31
+Tooele,WEND,State House,21,Douglas Sagers,REP,0
+Tooele,WEND,State House,21,Stormy D. Simon,DEM,0
+Tooele,WEND,State House,68,Kirk D. Pearson,CON,6
+Tooele,WEND,State House,68,Merrill Nelson,REP,79
+Tooele,WEND,State House,68,Amiee O. Finster,DEM,55
+Tooele,ERD-10:0,Registered Voters,,,,406
+Tooele,ERD-10:0,Ballots Cast,,,,372
+Tooele,ERD-10:0,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,ERD-10:0,President/Vice President,,Kanye West / Michelle Tidball,,2
+Tooele,ERD-10:0,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,87
+Tooele,ERD-10:0,President/Vice President,,Don Blankenship / William Mohr,CON,1
+Tooele,ERD-10:0,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,9
+Tooele,ERD-10:0,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,ERD-10:0,President/Vice President,,Howie Hawkins / Angela Walker,GRN,2
+Tooele,ERD-10:0,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-10:0,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,259
+Tooele,ERD-10:0,U.S. House,2,Kael Weston,DEM,85
+Tooele,ERD-10:0,U.S. House,2,Chris Stewart,REP,254
+Tooele,ERD-10:0,U.S. House,2,J. Robert Latham,LIB,16
+Tooele,ERD-10:0,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,68
+Tooele,ERD-10:0,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,4
+Tooele,ERD-10:0,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,270
+Tooele,ERD-10:0,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,9
+Tooele,ERD-10:0,Attorney General,,Rudy J. Bautista,LIB,24
+Tooele,ERD-10:0,Attorney General,,Greg Skordas,DEM,96
+Tooele,ERD-10:0,Attorney General,,Sean D. Reyes,REP,240
+Tooele,ERD-10:0,State Auditor,,John 'Frugal' Dougall,REP,266
+Tooele,ERD-10:0,State Auditor,,Jeffrey L. Ostler,CON,52
+Tooele,ERD-10:0,State Auditor,,Brian L. Fabbi,UUP,25
+Tooele,ERD-10:0,State Treasurer,,Richard Proctor,CON,43
+Tooele,ERD-10:0,State Treasurer,,David Damshen,REP,264
+Tooele,ERD-10:0,State Treasurer,,Joseph Speciale,LIB,39
+Tooele,ERD-10:0,State House,21,Douglas Sagers,REP,0
+Tooele,ERD-10:0,State House,21,Stormy D. Simon,DEM,0
+Tooele,ERD-10:0,State House,68,Kirk D. Pearson,CON,48
+Tooele,ERD-10:0,State House,68,Merrill Nelson,REP,238
+Tooele,ERD-10:0,State House,68,Amiee O. Finster,DEM,68
+Tooele,ERD-11:0,Registered Voters,,,,400
+Tooele,ERD-11:0,Ballots Cast,,,,363
+Tooele,ERD-11:0,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,ERD-11:0,President/Vice President,,Kanye West / Michelle Tidball,,4
+Tooele,ERD-11:0,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,81
+Tooele,ERD-11:0,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,ERD-11:0,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,4
+Tooele,ERD-11:0,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,ERD-11:0,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,ERD-11:0,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-11:0,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,267
+Tooele,ERD-11:0,U.S. House,2,Kael Weston,DEM,68
+Tooele,ERD-11:0,U.S. House,2,Chris Stewart,REP,258
+Tooele,ERD-11:0,U.S. House,2,J. Robert Latham,LIB,17
+Tooele,ERD-11:0,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,68
+Tooele,ERD-11:0,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,9
+Tooele,ERD-11:0,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,240
+Tooele,ERD-11:0,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,20
+Tooele,ERD-11:0,Attorney General,,Rudy J. Bautista,LIB,21
+Tooele,ERD-11:0,Attorney General,,Greg Skordas,DEM,73
+Tooele,ERD-11:0,Attorney General,,Sean D. Reyes,REP,253
+Tooele,ERD-11:0,State Auditor,,John 'Frugal' Dougall,REP,260
+Tooele,ERD-11:0,State Auditor,,Jeffrey L. Ostler,CON,47
+Tooele,ERD-11:0,State Auditor,,Brian L. Fabbi,UUP,17
+Tooele,ERD-11:0,State Treasurer,,Richard Proctor,CON,45
+Tooele,ERD-11:0,State Treasurer,,David Damshen,REP,241
+Tooele,ERD-11:0,State Treasurer,,Joseph Speciale,LIB,37
+Tooele,ERD-11:0,State House,21,Douglas Sagers,REP,0
+Tooele,ERD-11:0,State House,21,Stormy D. Simon,DEM,0
+Tooele,ERD-11:0,State House,68,Kirk D. Pearson,CON,53
+Tooele,ERD-11:0,State House,68,Merrill Nelson,REP,224
+Tooele,ERD-11:0,State House,68,Amiee O. Finster,DEM,63
+Tooele,ERD-12:0,Registered Voters,,,,0
+Tooele,ERD-12:0,Ballots Cast,,,,0
+Tooele,ERD-12:0,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,ERD-12:0,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,ERD-12:0,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,0
+Tooele,ERD-12:0,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,ERD-12:0,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,ERD-12:0,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,ERD-12:0,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,ERD-12:0,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-12:0,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,0
+Tooele,ERD-12:0,U.S. House,2,Kael Weston,DEM,0
+Tooele,ERD-12:0,U.S. House,2,Chris Stewart,REP,0
+Tooele,ERD-12:0,U.S. House,2,J. Robert Latham,LIB,0
+Tooele,ERD-12:0,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,0
+Tooele,ERD-12:0,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,ERD-12:0,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,0
+Tooele,ERD-12:0,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,ERD-12:0,Attorney General,,Rudy J. Bautista,LIB,0
+Tooele,ERD-12:0,Attorney General,,Greg Skordas,DEM,0
+Tooele,ERD-12:0,Attorney General,,Sean D. Reyes,REP,0
+Tooele,ERD-12:0,State Auditor,,John 'Frugal' Dougall,REP,0
+Tooele,ERD-12:0,State Auditor,,Jeffrey L. Ostler,CON,0
+Tooele,ERD-12:0,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,ERD-12:0,State Treasurer,,Richard Proctor,CON,0
+Tooele,ERD-12:0,State Treasurer,,David Damshen,REP,0
+Tooele,ERD-12:0,State Treasurer,,Joseph Speciale,LIB,0
+Tooele,ERD-12:0,State House,21,Douglas Sagers,REP,0
+Tooele,ERD-12:0,State House,21,Stormy D. Simon,DEM,0
+Tooele,ERD-12:0,State House,68,Kirk D. Pearson,CON,0
+Tooele,ERD-12:0,State House,68,Merrill Nelson,REP,0
+Tooele,ERD-12:0,State House,68,Amiee O. Finster,DEM,0
+Tooele,ERD-13:0,Registered Voters,,,,1239
+Tooele,ERD-13:0,Ballots Cast,,,,1127
+Tooele,ERD-13:0,President/Vice President,,Brock Pierce / Karla Ballard,,1
+Tooele,ERD-13:0,President/Vice President,,Kanye West / Michelle Tidball,,3
+Tooele,ERD-13:0,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,233
+Tooele,ERD-13:0,President/Vice President,,Don Blankenship / William Mohr,CON,8
+Tooele,ERD-13:0,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,25
+Tooele,ERD-13:0,President/Vice President,,Joe McHugh / Elizabeth Storm,,3
+Tooele,ERD-13:0,President/Vice President,,Howie Hawkins / Angela Walker,GRN,2
+Tooele,ERD-13:0,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-13:0,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,820
+Tooele,ERD-13:0,U.S. House,2,Kael Weston,DEM,204
+Tooele,ERD-13:0,U.S. House,2,Chris Stewart,REP,815
+Tooele,ERD-13:0,U.S. House,2,J. Robert Latham,LIB,47
+Tooele,ERD-13:0,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,179
+Tooele,ERD-13:0,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,13
+Tooele,ERD-13:0,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,816
+Tooele,ERD-13:0,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,51
+Tooele,ERD-13:0,Attorney General,,Rudy J. Bautista,LIB,49
+Tooele,ERD-13:0,Attorney General,,Greg Skordas,DEM,222
+Tooele,ERD-13:0,Attorney General,,Sean D. Reyes,REP,809
+Tooele,ERD-13:0,State Auditor,,John 'Frugal' Dougall,REP,864
+Tooele,ERD-13:0,State Auditor,,Jeffrey L. Ostler,CON,119
+Tooele,ERD-13:0,State Auditor,,Brian L. Fabbi,UUP,54
+Tooele,ERD-13:0,State Treasurer,,Richard Proctor,CON,127
+Tooele,ERD-13:0,State Treasurer,,David Damshen,REP,820
+Tooele,ERD-13:0,State Treasurer,,Joseph Speciale,LIB,81
+Tooele,ERD-13:0,State House,21,Douglas Sagers,REP,0
+Tooele,ERD-13:0,State House,21,Stormy D. Simon,DEM,0
+Tooele,ERD-13:0,State House,68,Kirk D. Pearson,CON,123
+Tooele,ERD-13:0,State House,68,Merrill Nelson,REP,784
+Tooele,ERD-13:0,State House,68,Amiee O. Finster,DEM,147
+Tooele,ERD-14:0,Registered Voters,,,,37
+Tooele,ERD-14:0,Ballots Cast,,,,32
+Tooele,ERD-14:0,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,ERD-14:0,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,ERD-14:0,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,6
+Tooele,ERD-14:0,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,ERD-14:0,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Tooele,ERD-14:0,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,ERD-14:0,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,ERD-14:0,President/Vice President,,Gloria La Riva,,0
+Tooele,ERD-14:0,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,24
+Tooele,ERD-14:0,U.S. House,2,Kael Weston,DEM,3
+Tooele,ERD-14:0,U.S. House,2,Chris Stewart,REP,25
+Tooele,ERD-14:0,U.S. House,2,J. Robert Latham,LIB,3
+Tooele,ERD-14:0,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,4
+Tooele,ERD-14:0,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,ERD-14:0,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,25
+Tooele,ERD-14:0,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,1
+Tooele,ERD-14:0,Attorney General,,Rudy J. Bautista,LIB,2
+Tooele,ERD-14:0,Attorney General,,Greg Skordas,DEM,8
+Tooele,ERD-14:0,Attorney General,,Sean D. Reyes,REP,21
+Tooele,ERD-14:0,State Auditor,,John 'Frugal' Dougall,REP,28
+Tooele,ERD-14:0,State Auditor,,Jeffrey L. Ostler,CON,2
+Tooele,ERD-14:0,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,ERD-14:0,State Treasurer,,Richard Proctor,CON,1
+Tooele,ERD-14:0,State Treasurer,,David Damshen,REP,27
+Tooele,ERD-14:0,State Treasurer,,Joseph Speciale,LIB,2
+Tooele,ERD-14:0,State House,21,Douglas Sagers,REP,25
+Tooele,ERD-14:0,State House,21,Stormy D. Simon,DEM,6
+Tooele,ERD-14:0,State House,68,Kirk D. Pearson,CON,0
+Tooele,ERD-14:0,State House,68,Merrill Nelson,REP,0
+Tooele,ERD-14:0,State House,68,Amiee O. Finster,DEM,0
+Tooele,G-15:0,Registered Voters,,,,2
+Tooele,G-15:0,Ballots Cast,,,,2
+Tooele,G-15:0,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,G-15:0,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,G-15:0,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,0
+Tooele,G-15:0,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,G-15:0,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,G-15:0,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,G-15:0,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,G-15:0,President/Vice President,,Gloria La Riva,,0
+Tooele,G-15:0,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,2
+Tooele,G-15:0,U.S. House,2,Kael Weston,DEM,0
+Tooele,G-15:0,U.S. House,2,Chris Stewart,REP,2
+Tooele,G-15:0,U.S. House,2,J. Robert Latham,LIB,0
+Tooele,G-15:0,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,0
+Tooele,G-15:0,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,G-15:0,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,2
+Tooele,G-15:0,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,G-15:0,Attorney General,,Rudy J. Bautista,LIB,0
+Tooele,G-15:0,Attorney General,,Greg Skordas,DEM,0
+Tooele,G-15:0,Attorney General,,Sean D. Reyes,REP,2
+Tooele,G-15:0,State Auditor,,John 'Frugal' Dougall,REP,2
+Tooele,G-15:0,State Auditor,,Jeffrey L. Ostler,CON,0
+Tooele,G-15:0,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,G-15:0,State Treasurer,,Richard Proctor,CON,0
+Tooele,G-15:0,State Treasurer,,David Damshen,REP,2
+Tooele,G-15:0,State Treasurer,,Joseph Speciale,LIB,0
+Tooele,G-15:0,State House,21,Douglas Sagers,REP,0
+Tooele,G-15:0,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-15:0,State House,68,Kirk D. Pearson,CON,0
+Tooele,G-15:0,State House,68,Merrill Nelson,REP,2
+Tooele,G-15:0,State House,68,Amiee O. Finster,DEM,0
+Tooele,G-16:0,Registered Voters,,,,106
+Tooele,G-16:0,Ballots Cast,,,,89
+Tooele,G-16:0,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,G-16:0,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,G-16:0,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,14
+Tooele,G-16:0,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,G-16:0,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Tooele,G-16:0,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,G-16:0,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,G-16:0,President/Vice President,,Gloria La Riva,,0
+Tooele,G-16:0,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,73
+Tooele,G-16:0,U.S. House,2,Kael Weston,DEM,11
+Tooele,G-16:0,U.S. House,2,Chris Stewart,REP,69
+Tooele,G-16:0,U.S. House,2,J. Robert Latham,LIB,4
+Tooele,G-16:0,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,9
+Tooele,G-16:0,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,1
+Tooele,G-16:0,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,72
+Tooele,G-16:0,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,1
+Tooele,G-16:0,Attorney General,,Rudy J. Bautista,LIB,3
+Tooele,G-16:0,Attorney General,,Greg Skordas,DEM,11
+Tooele,G-16:0,Attorney General,,Sean D. Reyes,REP,75
+Tooele,G-16:0,State Auditor,,John 'Frugal' Dougall,REP,78
+Tooele,G-16:0,State Auditor,,Jeffrey L. Ostler,CON,9
+Tooele,G-16:0,State Auditor,,Brian L. Fabbi,UUP,2
+Tooele,G-16:0,State Treasurer,,Richard Proctor,CON,6
+Tooele,G-16:0,State Treasurer,,David Damshen,REP,78
+Tooele,G-16:0,State Treasurer,,Joseph Speciale,LIB,4
+Tooele,G-16:0,State House,21,Douglas Sagers,REP,0
+Tooele,G-16:0,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-16:0,State House,68,Kirk D. Pearson,CON,9
+Tooele,G-16:0,State House,68,Merrill Nelson,REP,72
+Tooele,G-16:0,State House,68,Amiee O. Finster,DEM,8
+Tooele,G-17:0,Registered Voters,,,,1
+Tooele,G-17:0,Ballots Cast,,,,1
+Tooele,G-17:0,President/Vice President,,Brock Pierce / Karla Ballard,,0
+Tooele,G-17:0,President/Vice President,,Kanye West / Michelle Tidball,,0
+Tooele,G-17:0,President/Vice President,,Joseph R. Biden / Kamala D. Harris,DEM,0
+Tooele,G-17:0,President/Vice President,,Don Blankenship / William Mohr,CON,0
+Tooele,G-17:0,President/Vice President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Tooele,G-17:0,President/Vice President,,Joe McHugh / Elizabeth Storm,,0
+Tooele,G-17:0,President/Vice President,,Howie Hawkins / Angela Walker,GRN,0
+Tooele,G-17:0,President/Vice President,,Gloria La Riva,,0
+Tooele,G-17:0,President/Vice President,,Donald J. Trump / Michael R. Pence,REP,1
+Tooele,G-17:0,U.S. House,2,Kael Weston,DEM,0
+Tooele,G-17:0,U.S. House,2,Chris Stewart,REP,1
+Tooele,G-17:0,U.S. House,2,J. Robert Latham,LIB,0
+Tooele,G-17:0,Governor/Lt. Governor,,Chris Peterson / Karina Brown,DEM,0
+Tooele,G-17:0,Governor/Lt. Governor,,Greg Duerden / Wayne Hill,IAP,0
+Tooele,G-17:0,Governor/Lt. Governor,,Spencer J. Cox / Deidre M. Henderson,,1
+Tooele,G-17:0,Governor/Lt. Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Tooele,G-17:0,Attorney General,,Rudy J. Bautista,LIB,0
+Tooele,G-17:0,Attorney General,,Greg Skordas,DEM,0
+Tooele,G-17:0,Attorney General,,Sean D. Reyes,REP,1
+Tooele,G-17:0,State Auditor,,John 'Frugal' Dougall,REP,0
+Tooele,G-17:0,State Auditor,,Jeffrey L. Ostler,CON,1
+Tooele,G-17:0,State Auditor,,Brian L. Fabbi,UUP,0
+Tooele,G-17:0,State Treasurer,,Richard Proctor,CON,1
+Tooele,G-17:0,State Treasurer,,David Damshen,REP,0
+Tooele,G-17:0,State Treasurer,,Joseph Speciale,LIB,0
+Tooele,G-17:0,State House,21,Douglas Sagers,REP,0
+Tooele,G-17:0,State House,21,Stormy D. Simon,DEM,0
+Tooele,G-17:0,State House,68,Kirk D. Pearson,CON,1
+Tooele,G-17:0,State House,68,Merrill Nelson,REP,0
+Tooele,G-17:0,State House,68,Amiee O. Finster,DEM,0
