@@ -1,0 +1,807 @@
+county,precinct,office,district,candidate,party,votes
+Uintah,Jensen,Registered Voters,,,,572
+Uintah,Davis East,Registered Voters,,,,620
+Uintah,Davis West,Registered Voters,,,,605
+Uintah,Naples,Registered Voters,,,,1239
+Uintah,Davis North,Registered Voters,,,,413
+Uintah,Vernal City 4,Registered Voters,,,,525
+Uintah,Vernal City 5,Registered Voters,,,,598
+Uintah,Vernal City 7,Registered Voters,,,,361
+Uintah,Ashley East,Registered Voters,,,,769
+Uintah,Ashley West,Registered Voters,,,,631
+Uintah,Maeser West,Registered Voters,,,,924
+Uintah,Glines South,Registered Voters,,,,686
+Uintah,Maeser East,Registered Voters,,,,837
+Uintah,Glines North,Registered Voters,,,,717
+Uintah,Vernal City 1,Registered Voters,,,,789
+Uintah,Avalon Willows,Registered Voters,,,,208
+Uintah,Lapoint-Tridell,Registered Voters,,,,734
+Uintah,Fort Duchesne,Registered Voters,,,,537
+Uintah,Ballard,Registered Voters,,,,823
+Uintah,Whiterocks,Registered Voters,,,,144
+Uintah,Maeser-Dry Fork,Registered Voters,,,,751
+Uintah,South,Registered Voters,,,,1222
+Uintah,Vernal City 2,Registered Voters,,,,581
+Uintah,Vernal City 3,Registered Voters,,,,700
+Uintah,Vernal City 6,Registered Voters,,,,640
+Uintah,Southwest,Registered Voters,,,,723
+Uintah,Jensen,Ballots Cast,,,,524
+Uintah,Davis East,Ballots Cast,,,,559
+Uintah,Davis West,Ballots Cast,,,,543
+Uintah,Naples,Ballots Cast,,,,1119
+Uintah,Davis North,Ballots Cast,,,,380
+Uintah,Vernal City 4,Ballots Cast,,,,459
+Uintah,Vernal City 5,Ballots Cast,,,,519
+Uintah,Vernal City 7,Ballots Cast,,,,305
+Uintah,Ashley East,Ballots Cast,,,,699
+Uintah,Ashley West,Ballots Cast,,,,587
+Uintah,Maeser West,Ballots Cast,,,,830
+Uintah,Glines South,Ballots Cast,,,,617
+Uintah,Maeser East,Ballots Cast,,,,759
+Uintah,Glines North,Ballots Cast,,,,644
+Uintah,Vernal City 1,Ballots Cast,,,,710
+Uintah,Avalon Willows,Ballots Cast,,,,180
+Uintah,Lapoint-Tridell,Ballots Cast,,,,658
+Uintah,Fort Duchesne,Ballots Cast,,,,414
+Uintah,Ballard,Ballots Cast,,,,701
+Uintah,Whiterocks,Ballots Cast,,,,127
+Uintah,Maeser-Dry Fork,Ballots Cast,,,,685
+Uintah,South,Ballots Cast,,,,1070
+Uintah,Vernal City 2,Ballots Cast,,,,520
+Uintah,Vernal City 3,Ballots Cast,,,,603
+Uintah,Vernal City 6,Ballots Cast,,,,554
+Uintah,Southwest,Ballots Cast,,,,653
+Uintah,Jensen,Ballots Cast Blank,,,,0
+Uintah,Davis East,Ballots Cast Blank,,,,0
+Uintah,Davis West,Ballots Cast Blank,,,,0
+Uintah,Naples,Ballots Cast Blank,,,,1
+Uintah,Davis North,Ballots Cast Blank,,,,0
+Uintah,Vernal City 4,Ballots Cast Blank,,,,0
+Uintah,Vernal City 5,Ballots Cast Blank,,,,0
+Uintah,Vernal City 7,Ballots Cast Blank,,,,0
+Uintah,Ashley East,Ballots Cast Blank,,,,0
+Uintah,Ashley West,Ballots Cast Blank,,,,0
+Uintah,Maeser West,Ballots Cast Blank,,,,0
+Uintah,Glines South,Ballots Cast Blank,,,,0
+Uintah,Maeser East,Ballots Cast Blank,,,,0
+Uintah,Glines North,Ballots Cast Blank,,,,0
+Uintah,Vernal City 1,Ballots Cast Blank,,,,0
+Uintah,Avalon Willows,Ballots Cast Blank,,,,0
+Uintah,Lapoint-Tridell,Ballots Cast Blank,,,,0
+Uintah,Fort Duchesne,Ballots Cast Blank,,,,0
+Uintah,Ballard,Ballots Cast Blank,,,,0
+Uintah,Whiterocks,Ballots Cast Blank,,,,0
+Uintah,Maeser-Dry Fork,Ballots Cast Blank,,,,0
+Uintah,South,Ballots Cast Blank,,,,0
+Uintah,Vernal City 2,Ballots Cast Blank,,,,0
+Uintah,Vernal City 3,Ballots Cast Blank,,,,0
+Uintah,Vernal City 6,Ballots Cast Blank,,,,0
+Uintah,Southwest,Ballots Cast Blank,,,,0
+Uintah,Jensen,President,,Brock Pierce / Karla Ballard,,1
+Uintah,Davis East,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Davis West,President,,Brock Pierce / Karla Ballard,,2
+Uintah,Naples,President,,Brock Pierce / Karla Ballard,,2
+Uintah,Davis North,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Vernal City 4,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Vernal City 5,President,,Brock Pierce / Karla Ballard,,1
+Uintah,Vernal City 7,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Ashley East,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Ashley West,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Maeser West,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Glines South,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Maeser East,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Glines North,President,,Brock Pierce / Karla Ballard,,2
+Uintah,Vernal City 1,President,,Brock Pierce / Karla Ballard,,1
+Uintah,Avalon Willows,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Lapoint-Tridell,President,,Brock Pierce / Karla Ballard,,1
+Uintah,Fort Duchesne,President,,Brock Pierce / Karla Ballard,,1
+Uintah,Ballard,President,,Brock Pierce / Karla Ballard,,1
+Uintah,Whiterocks,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Maeser-Dry Fork,President,,Brock Pierce / Karla Ballard,,0
+Uintah,South,President,,Brock Pierce / Karla Ballard,,1
+Uintah,Vernal City 2,President,,Brock Pierce / Karla Ballard,,1
+Uintah,Vernal City 3,President,,Brock Pierce / Karla Ballard,,1
+Uintah,Vernal City 6,President,,Brock Pierce / Karla Ballard,,0
+Uintah,Southwest,President,,Brock Pierce / Karla Ballard,,1
+Uintah,Jensen,President,,Kanye West / Michelle Tidball,,0
+Uintah,Davis East,President,,Kanye West / Michelle Tidball,,3
+Uintah,Davis West,President,,Kanye West / Michelle Tidball,,0
+Uintah,Naples,President,,Kanye West / Michelle Tidball,,4
+Uintah,Davis North,President,,Kanye West / Michelle Tidball,,0
+Uintah,Vernal City 4,President,,Kanye West / Michelle Tidball,,0
+Uintah,Vernal City 5,President,,Kanye West / Michelle Tidball,,1
+Uintah,Vernal City 7,President,,Kanye West / Michelle Tidball,,3
+Uintah,Ashley East,President,,Kanye West / Michelle Tidball,,3
+Uintah,Ashley West,President,,Kanye West / Michelle Tidball,,2
+Uintah,Maeser West,President,,Kanye West / Michelle Tidball,,0
+Uintah,Glines South,President,,Kanye West / Michelle Tidball,,2
+Uintah,Maeser East,President,,Kanye West / Michelle Tidball,,3
+Uintah,Glines North,President,,Kanye West / Michelle Tidball,,1
+Uintah,Vernal City 1,President,,Kanye West / Michelle Tidball,,3
+Uintah,Avalon Willows,President,,Kanye West / Michelle Tidball,,0
+Uintah,Lapoint-Tridell,President,,Kanye West / Michelle Tidball,,1
+Uintah,Fort Duchesne,President,,Kanye West / Michelle Tidball,,2
+Uintah,Ballard,President,,Kanye West / Michelle Tidball,,1
+Uintah,Whiterocks,President,,Kanye West / Michelle Tidball,,0
+Uintah,Maeser-Dry Fork,President,,Kanye West / Michelle Tidball,,1
+Uintah,South,President,,Kanye West / Michelle Tidball,,3
+Uintah,Vernal City 2,President,,Kanye West / Michelle Tidball,,1
+Uintah,Vernal City 3,President,,Kanye West / Michelle Tidball,,1
+Uintah,Vernal City 6,President,,Kanye West / Michelle Tidball,,1
+Uintah,Southwest,President,,Kanye West / Michelle Tidball,,1
+Uintah,Jensen,President,,Joseph R. Biden / Kamala D. Harris,DEM,46
+Uintah,Davis East,President,,Joseph R. Biden / Kamala D. Harris,DEM,24
+Uintah,Davis West,President,,Joseph R. Biden / Kamala D. Harris,DEM,33
+Uintah,Naples,President,,Joseph R. Biden / Kamala D. Harris,DEM,93
+Uintah,Davis North,President,,Joseph R. Biden / Kamala D. Harris,DEM,20
+Uintah,Vernal City 4,President,,Joseph R. Biden / Kamala D. Harris,DEM,63
+Uintah,Vernal City 5,President,,Joseph R. Biden / Kamala D. Harris,DEM,73
+Uintah,Vernal City 7,President,,Joseph R. Biden / Kamala D. Harris,DEM,47
+Uintah,Ashley East,President,,Joseph R. Biden / Kamala D. Harris,DEM,66
+Uintah,Ashley West,President,,Joseph R. Biden / Kamala D. Harris,DEM,43
+Uintah,Maeser West,President,,Joseph R. Biden / Kamala D. Harris,DEM,59
+Uintah,Glines South,President,,Joseph R. Biden / Kamala D. Harris,DEM,67
+Uintah,Maeser East,President,,Joseph R. Biden / Kamala D. Harris,DEM,71
+Uintah,Glines North,President,,Joseph R. Biden / Kamala D. Harris,DEM,60
+Uintah,Vernal City 1,President,,Joseph R. Biden / Kamala D. Harris,DEM,82
+Uintah,Avalon Willows,President,,Joseph R. Biden / Kamala D. Harris,DEM,30
+Uintah,Lapoint-Tridell,President,,Joseph R. Biden / Kamala D. Harris,DEM,43
+Uintah,Fort Duchesne,President,,Joseph R. Biden / Kamala D. Harris,DEM,148
+Uintah,Ballard,President,,Joseph R. Biden / Kamala D. Harris,DEM,97
+Uintah,Whiterocks,President,,Joseph R. Biden / Kamala D. Harris,DEM,53
+Uintah,Maeser-Dry Fork,President,,Joseph R. Biden / Kamala D. Harris,DEM,63
+Uintah,South,President,,Joseph R. Biden / Kamala D. Harris,DEM,91
+Uintah,Vernal City 2,President,,Joseph R. Biden / Kamala D. Harris,DEM,60
+Uintah,Vernal City 3,President,,Joseph R. Biden / Kamala D. Harris,DEM,75
+Uintah,Vernal City 6,President,,Joseph R. Biden / Kamala D. Harris,DEM,117
+Uintah,Southwest,President,,Joseph R. Biden / Kamala D. Harris,DEM,39
+Uintah,Jensen,President,,Don Blankenship / William Mohr,CON,3
+Uintah,Davis East,President,,Don Blankenship / William Mohr,CON,0
+Uintah,Davis West,President,,Don Blankenship / William Mohr,CON,1
+Uintah,Naples,President,,Don Blankenship / William Mohr,CON,7
+Uintah,Davis North,President,,Don Blankenship / William Mohr,CON,0
+Uintah,Vernal City 4,President,,Don Blankenship / William Mohr,CON,4
+Uintah,Vernal City 5,President,,Don Blankenship / William Mohr,CON,4
+Uintah,Vernal City 7,President,,Don Blankenship / William Mohr,CON,0
+Uintah,Ashley East,President,,Don Blankenship / William Mohr,CON,2
+Uintah,Ashley West,President,,Don Blankenship / William Mohr,CON,3
+Uintah,Maeser West,President,,Don Blankenship / William Mohr,CON,3
+Uintah,Glines South,President,,Don Blankenship / William Mohr,CON,1
+Uintah,Maeser East,President,,Don Blankenship / William Mohr,CON,4
+Uintah,Glines North,President,,Don Blankenship / William Mohr,CON,1
+Uintah,Vernal City 1,President,,Don Blankenship / William Mohr,CON,6
+Uintah,Avalon Willows,President,,Don Blankenship / William Mohr,CON,1
+Uintah,Lapoint-Tridell,President,,Don Blankenship / William Mohr,CON,0
+Uintah,Fort Duchesne,President,,Don Blankenship / William Mohr,CON,0
+Uintah,Ballard,President,,Don Blankenship / William Mohr,CON,1
+Uintah,Whiterocks,President,,Don Blankenship / William Mohr,CON,0
+Uintah,Maeser-Dry Fork,President,,Don Blankenship / William Mohr,CON,0
+Uintah,South,President,,Don Blankenship / William Mohr,CON,4
+Uintah,Vernal City 2,President,,Don Blankenship / William Mohr,CON,3
+Uintah,Vernal City 3,President,,Don Blankenship / William Mohr,CON,4
+Uintah,Vernal City 6,President,,Don Blankenship / William Mohr,CON,2
+Uintah,Southwest,President,,Don Blankenship / William Mohr,CON,2
+Uintah,Jensen,President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Uintah,Davis East,President,,Jo Jorgensen / Jeremy Cohen,LIB,5
+Uintah,Davis West,President,,Jo Jorgensen / Jeremy Cohen,LIB,7
+Uintah,Naples,President,,Jo Jorgensen / Jeremy Cohen,LIB,18
+Uintah,Davis North,President,,Jo Jorgensen / Jeremy Cohen,LIB,8
+Uintah,Vernal City 4,President,,Jo Jorgensen / Jeremy Cohen,LIB,6
+Uintah,Vernal City 5,President,,Jo Jorgensen / Jeremy Cohen,LIB,20
+Uintah,Vernal City 7,President,,Jo Jorgensen / Jeremy Cohen,LIB,4
+Uintah,Ashley East,President,,Jo Jorgensen / Jeremy Cohen,LIB,10
+Uintah,Ashley West,President,,Jo Jorgensen / Jeremy Cohen,LIB,6
+Uintah,Maeser West,President,,Jo Jorgensen / Jeremy Cohen,LIB,14
+Uintah,Glines South,President,,Jo Jorgensen / Jeremy Cohen,LIB,11
+Uintah,Maeser East,President,,Jo Jorgensen / Jeremy Cohen,LIB,14
+Uintah,Glines North,President,,Jo Jorgensen / Jeremy Cohen,LIB,13
+Uintah,Vernal City 1,President,,Jo Jorgensen / Jeremy Cohen,LIB,12
+Uintah,Avalon Willows,President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Uintah,Lapoint-Tridell,President,,Jo Jorgensen / Jeremy Cohen,LIB,3
+Uintah,Fort Duchesne,President,,Jo Jorgensen / Jeremy Cohen,LIB,3
+Uintah,Ballard,President,,Jo Jorgensen / Jeremy Cohen,LIB,7
+Uintah,Whiterocks,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
+Uintah,Maeser-Dry Fork,President,,Jo Jorgensen / Jeremy Cohen,LIB,5
+Uintah,South,President,,Jo Jorgensen / Jeremy Cohen,LIB,13
+Uintah,Vernal City 2,President,,Jo Jorgensen / Jeremy Cohen,LIB,10
+Uintah,Vernal City 3,President,,Jo Jorgensen / Jeremy Cohen,LIB,20
+Uintah,Vernal City 6,President,,Jo Jorgensen / Jeremy Cohen,LIB,7
+Uintah,Southwest,President,,Jo Jorgensen / Jeremy Cohen,LIB,6
+Uintah,Jensen,President,,Joe McHugh / Elizabeth Storm,,1
+Uintah,Davis East,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Davis West,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Naples,President,,Joe McHugh / Elizabeth Storm,,1
+Uintah,Davis North,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Vernal City 4,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Vernal City 5,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Vernal City 7,President,,Joe McHugh / Elizabeth Storm,,1
+Uintah,Ashley East,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Ashley West,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Maeser West,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Glines South,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Maeser East,President,,Joe McHugh / Elizabeth Storm,,2
+Uintah,Glines North,President,,Joe McHugh / Elizabeth Storm,,2
+Uintah,Vernal City 1,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Avalon Willows,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Lapoint-Tridell,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Fort Duchesne,President,,Joe McHugh / Elizabeth Storm,,1
+Uintah,Ballard,President,,Joe McHugh / Elizabeth Storm,,1
+Uintah,Whiterocks,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Maeser-Dry Fork,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,South,President,,Joe McHugh / Elizabeth Storm,,1
+Uintah,Vernal City 2,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Vernal City 3,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Vernal City 6,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Southwest,President,,Joe McHugh / Elizabeth Storm,,0
+Uintah,Jensen,President,,Howie Hawkins / Angela Walker,GRN,0
+Uintah,Davis East,President,,Howie Hawkins / Angela Walker,GRN,0
+Uintah,Davis West,President,,Howie Hawkins / Angela Walker,GRN,0
+Uintah,Naples,President,,Howie Hawkins / Angela Walker,GRN,2
+Uintah,Davis North,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,Vernal City 4,President,,Howie Hawkins / Angela Walker,GRN,0
+Uintah,Vernal City 5,President,,Howie Hawkins / Angela Walker,GRN,3
+Uintah,Vernal City 7,President,,Howie Hawkins / Angela Walker,GRN,0
+Uintah,Ashley East,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,Ashley West,President,,Howie Hawkins / Angela Walker,GRN,0
+Uintah,Maeser West,President,,Howie Hawkins / Angela Walker,GRN,2
+Uintah,Glines South,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,Maeser East,President,,Howie Hawkins / Angela Walker,GRN,3
+Uintah,Glines North,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,Vernal City 1,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,Avalon Willows,President,,Howie Hawkins / Angela Walker,GRN,0
+Uintah,Lapoint-Tridell,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,Fort Duchesne,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,Ballard,President,,Howie Hawkins / Angela Walker,GRN,3
+Uintah,Whiterocks,President,,Howie Hawkins / Angela Walker,GRN,0
+Uintah,Maeser-Dry Fork,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,South,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,Vernal City 2,President,,Howie Hawkins / Angela Walker,GRN,3
+Uintah,Vernal City 3,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,Vernal City 6,President,,Howie Hawkins / Angela Walker,GRN,2
+Uintah,Southwest,President,,Howie Hawkins / Angela Walker,GRN,1
+Uintah,Jensen,President,,Gloria La Riva,,0
+Uintah,Davis East,President,,Gloria La Riva,,0
+Uintah,Davis West,President,,Gloria La Riva,,0
+Uintah,Naples,President,,Gloria La Riva,,0
+Uintah,Davis North,President,,Gloria La Riva,,1
+Uintah,Vernal City 4,President,,Gloria La Riva,,0
+Uintah,Vernal City 5,President,,Gloria La Riva,,0
+Uintah,Vernal City 7,President,,Gloria La Riva,,0
+Uintah,Ashley East,President,,Gloria La Riva,,0
+Uintah,Ashley West,President,,Gloria La Riva,,0
+Uintah,Maeser West,President,,Gloria La Riva,,1
+Uintah,Glines South,President,,Gloria La Riva,,0
+Uintah,Maeser East,President,,Gloria La Riva,,1
+Uintah,Glines North,President,,Gloria La Riva,,0
+Uintah,Vernal City 1,President,,Gloria La Riva,,0
+Uintah,Avalon Willows,President,,Gloria La Riva,,0
+Uintah,Lapoint-Tridell,President,,Gloria La Riva,,0
+Uintah,Fort Duchesne,President,,Gloria La Riva,,1
+Uintah,Ballard,President,,Gloria La Riva,,0
+Uintah,Whiterocks,President,,Gloria La Riva,,0
+Uintah,Maeser-Dry Fork,President,,Gloria La Riva,,0
+Uintah,South,President,,Gloria La Riva,,0
+Uintah,Vernal City 2,President,,Gloria La Riva,,0
+Uintah,Vernal City 3,President,,Gloria La Riva,,1
+Uintah,Vernal City 6,President,,Gloria La Riva,,0
+Uintah,Southwest,President,,Gloria La Riva,,0
+Uintah,Jensen,President,,Donald J. Trump / Michael R. Pence,REP,470
+Uintah,Davis East,President,,Donald J. Trump / Michael R. Pence,REP,524
+Uintah,Davis West,President,,Donald J. Trump / Michael R. Pence,REP,499
+Uintah,Naples,President,,Donald J. Trump / Michael R. Pence,REP,984
+Uintah,Davis North,President,,Donald J. Trump / Michael R. Pence,REP,349
+Uintah,Vernal City 4,President,,Donald J. Trump / Michael R. Pence,REP,376
+Uintah,Vernal City 5,President,,Donald J. Trump / Michael R. Pence,REP,415
+Uintah,Vernal City 7,President,,Donald J. Trump / Michael R. Pence,REP,248
+Uintah,Ashley East,President,,Donald J. Trump / Michael R. Pence,REP,612
+Uintah,Ashley West,President,,Donald J. Trump / Michael R. Pence,REP,530
+Uintah,Maeser West,President,,Donald J. Trump / Michael R. Pence,REP,741
+Uintah,Glines South,President,,Donald J. Trump / Michael R. Pence,REP,533
+Uintah,Maeser East,President,,Donald J. Trump / Michael R. Pence,REP,652
+Uintah,Glines North,President,,Donald J. Trump / Michael R. Pence,REP,557
+Uintah,Vernal City 1,President,,Donald J. Trump / Michael R. Pence,REP,605
+Uintah,Avalon Willows,President,,Donald J. Trump / Michael R. Pence,REP,145
+Uintah,Lapoint-Tridell,President,,Donald J. Trump / Michael R. Pence,REP,600
+Uintah,Fort Duchesne,President,,Donald J. Trump / Michael R. Pence,REP,257
+Uintah,Ballard,President,,Donald J. Trump / Michael R. Pence,REP,586
+Uintah,Whiterocks,President,,Donald J. Trump / Michael R. Pence,REP,72
+Uintah,Maeser-Dry Fork,President,,Donald J. Trump / Michael R. Pence,REP,613
+Uintah,South,President,,Donald J. Trump / Michael R. Pence,REP,949
+Uintah,Vernal City 2,President,,Donald J. Trump / Michael R. Pence,REP,439
+Uintah,Vernal City 3,President,,Donald J. Trump / Michael R. Pence,REP,489
+Uintah,Vernal City 6,President,,Donald J. Trump / Michael R. Pence,REP,422
+Uintah,Southwest,President,,Donald J. Trump / Michael R. Pence,REP,594
+Uintah,Jensen,President,,Write-In Totals,,1
+Uintah,Davis East,President,,Write-In Totals,,2
+Uintah,Davis West,President,,Write-In Totals,,0
+Uintah,Naples,President,,Write-In Totals,,4
+Uintah,Davis North,President,,Write-In Totals,,1
+Uintah,Vernal City 4,President,,Write-In Totals,,6
+Uintah,Vernal City 5,President,,Write-In Totals,,1
+Uintah,Vernal City 7,President,,Write-In Totals,,0
+Uintah,Ashley East,President,,Write-In Totals,,4
+Uintah,Ashley West,President,,Write-In Totals,,2
+Uintah,Maeser West,President,,Write-In Totals,,4
+Uintah,Glines South,President,,Write-In Totals,,1
+Uintah,Maeser East,President,,Write-In Totals,,8
+Uintah,Glines North,President,,Write-In Totals,,3
+Uintah,Vernal City 1,President,,Write-In Totals,,0
+Uintah,Avalon Willows,President,,Write-In Totals,,1
+Uintah,Lapoint-Tridell,President,,Write-In Totals,,6
+Uintah,Fort Duchesne,President,,Write-In Totals,,0
+Uintah,Ballard,President,,Write-In Totals,,3
+Uintah,Whiterocks,President,,Write-In Totals,,0
+Uintah,Maeser-Dry Fork,President,,Write-In Totals,,1
+Uintah,South,President,,Write-In Totals,,3
+Uintah,Vernal City 2,President,,Write-In Totals,,1
+Uintah,Vernal City 3,President,,Write-In Totals,,6
+Uintah,Vernal City 6,President,,Write-In Totals,,2
+Uintah,Southwest,President,,Write-In Totals,,7
+Uintah,Jensen,U.S. House,1,Blake David Moore,REP,448
+Uintah,Davis East,U.S. House,1,Blake David Moore,REP,480
+Uintah,Davis West,U.S. House,1,Blake David Moore,REP,468
+Uintah,Naples,U.S. House,1,Blake David Moore,REP,965
+Uintah,Davis North,U.S. House,1,Blake David Moore,REP,329
+Uintah,Vernal City 4,U.S. House,1,Blake David Moore,REP,362
+Uintah,Vernal City 5,U.S. House,1,Blake David Moore,REP,421
+Uintah,Vernal City 7,U.S. House,1,Blake David Moore,REP,243
+Uintah,Ashley East,U.S. House,1,Blake David Moore,REP,593
+Uintah,Ashley West,U.S. House,1,Blake David Moore,REP,499
+Uintah,Maeser West,U.S. House,1,Blake David Moore,REP,701
+Uintah,Glines South,U.S. House,1,Blake David Moore,REP,505
+Uintah,Maeser East,U.S. House,1,Blake David Moore,REP,611
+Uintah,Glines North,U.S. House,1,Blake David Moore,REP,513
+Uintah,Vernal City 1,U.S. House,1,Blake David Moore,REP,585
+Uintah,Avalon Willows,U.S. House,1,Blake David Moore,REP,135
+Uintah,Lapoint-Tridell,U.S. House,1,Blake David Moore,REP,567
+Uintah,Fort Duchesne,U.S. House,1,Blake David Moore,REP,231
+Uintah,Ballard,U.S. House,1,Blake David Moore,REP,562
+Uintah,Whiterocks,U.S. House,1,Blake David Moore,REP,77
+Uintah,Maeser-Dry Fork,U.S. House,1,Blake David Moore,REP,579
+Uintah,South,U.S. House,1,Blake David Moore,REP,932
+Uintah,Vernal City 2,U.S. House,1,Blake David Moore,REP,424
+Uintah,Vernal City 3,U.S. House,1,Blake David Moore,REP,474
+Uintah,Vernal City 6,U.S. House,1,Blake David Moore,REP,395
+Uintah,Southwest,U.S. House,1,Blake David Moore,REP,567
+Uintah,Jensen,U.S. House,1,Darren Parry,DEM,40
+Uintah,Davis East,U.S. House,1,Darren Parry,DEM,32
+Uintah,Davis West,U.S. House,1,Darren Parry,DEM,31
+Uintah,Naples,U.S. House,1,Darren Parry,DEM,84
+Uintah,Davis North,U.S. House,1,Darren Parry,DEM,21
+Uintah,Vernal City 4,U.S. House,1,Darren Parry,DEM,64
+Uintah,Vernal City 5,U.S. House,1,Darren Parry,DEM,65
+Uintah,Vernal City 7,U.S. House,1,Darren Parry,DEM,37
+Uintah,Ashley East,U.S. House,1,Darren Parry,DEM,63
+Uintah,Ashley West,U.S. House,1,Darren Parry,DEM,36
+Uintah,Maeser West,U.S. House,1,Darren Parry,DEM,61
+Uintah,Glines South,U.S. House,1,Darren Parry,DEM,66
+Uintah,Maeser East,U.S. House,1,Darren Parry,DEM,81
+Uintah,Glines North,U.S. House,1,Darren Parry,DEM,66
+Uintah,Vernal City 1,U.S. House,1,Darren Parry,DEM,70
+Uintah,Avalon Willows,U.S. House,1,Darren Parry,DEM,33
+Uintah,Lapoint-Tridell,U.S. House,1,Darren Parry,DEM,50
+Uintah,Fort Duchesne,U.S. House,1,Darren Parry,DEM,153
+Uintah,Ballard,U.S. House,1,Darren Parry,DEM,84
+Uintah,Whiterocks,U.S. House,1,Darren Parry,DEM,44
+Uintah,Maeser-Dry Fork,U.S. House,1,Darren Parry,DEM,61
+Uintah,South,U.S. House,1,Darren Parry,DEM,77
+Uintah,Vernal City 2,U.S. House,1,Darren Parry,DEM,59
+Uintah,Vernal City 3,U.S. House,1,Darren Parry,DEM,77
+Uintah,Vernal City 6,U.S. House,1,Darren Parry,DEM,112
+Uintah,Southwest,U.S. House,1,Darren Parry,DEM,37
+Uintah,Jensen,U.S. House,1,Write-In Totals,,1
+Uintah,Davis East,U.S. House,1,Write-In Totals,,2
+Uintah,Davis West,U.S. House,1,Write-In Totals,,1
+Uintah,Naples,U.S. House,1,Write-In Totals,,1
+Uintah,Davis North,U.S. House,1,Write-In Totals,,0
+Uintah,Vernal City 4,U.S. House,1,Write-In Totals,,2
+Uintah,Vernal City 5,U.S. House,1,Write-In Totals,,0
+Uintah,Vernal City 7,U.S. House,1,Write-In Totals,,0
+Uintah,Ashley East,U.S. House,1,Write-In Totals,,2
+Uintah,Ashley West,U.S. House,1,Write-In Totals,,7
+Uintah,Maeser West,U.S. House,1,Write-In Totals,,1
+Uintah,Glines South,U.S. House,1,Write-In Totals,,2
+Uintah,Maeser East,U.S. House,1,Write-In Totals,,0
+Uintah,Glines North,U.S. House,1,Write-In Totals,,2
+Uintah,Vernal City 1,U.S. House,1,Write-In Totals,,1
+Uintah,Avalon Willows,U.S. House,1,Write-In Totals,,0
+Uintah,Lapoint-Tridell,U.S. House,1,Write-In Totals,,3
+Uintah,Fort Duchesne,U.S. House,1,Write-In Totals,,0
+Uintah,Ballard,U.S. House,1,Write-In Totals,,2
+Uintah,Whiterocks,U.S. House,1,Write-In Totals,,0
+Uintah,Maeser-Dry Fork,U.S. House,1,Write-In Totals,,0
+Uintah,South,U.S. House,1,Write-In Totals,,2
+Uintah,Vernal City 2,U.S. House,1,Write-In Totals,,2
+Uintah,Vernal City 3,U.S. House,1,Write-In Totals,,2
+Uintah,Vernal City 6,U.S. House,1,Write-In Totals,,3
+Uintah,Southwest,U.S. House,1,Write-In Totals,,7
+Uintah,Jensen,Governor,,Chris Peterson / Karina Brown,DEM,50
+Uintah,Davis East,Governor,,Chris Peterson / Karina Brown,DEM,27
+Uintah,Davis West,Governor,,Chris Peterson / Karina Brown,DEM,29
+Uintah,Naples,Governor,,Chris Peterson / Karina Brown,DEM,69
+Uintah,Davis North,Governor,,Chris Peterson / Karina Brown,DEM,17
+Uintah,Vernal City 4,Governor,,Chris Peterson / Karina Brown,DEM,55
+Uintah,Vernal City 5,Governor,,Chris Peterson / Karina Brown,DEM,74
+Uintah,Vernal City 7,Governor,,Chris Peterson / Karina Brown,DEM,33
+Uintah,Ashley East,Governor,,Chris Peterson / Karina Brown,DEM,54
+Uintah,Ashley West,Governor,,Chris Peterson / Karina Brown,DEM,35
+Uintah,Maeser West,Governor,,Chris Peterson / Karina Brown,DEM,52
+Uintah,Glines South,Governor,,Chris Peterson / Karina Brown,DEM,65
+Uintah,Maeser East,Governor,,Chris Peterson / Karina Brown,DEM,69
+Uintah,Glines North,Governor,,Chris Peterson / Karina Brown,DEM,65
+Uintah,Vernal City 1,Governor,,Chris Peterson / Karina Brown,DEM,68
+Uintah,Avalon Willows,Governor,,Chris Peterson / Karina Brown,DEM,25
+Uintah,Lapoint-Tridell,Governor,,Chris Peterson / Karina Brown,DEM,35
+Uintah,Fort Duchesne,Governor,,Chris Peterson / Karina Brown,DEM,143
+Uintah,Ballard,Governor,,Chris Peterson / Karina Brown,DEM,82
+Uintah,Whiterocks,Governor,,Chris Peterson / Karina Brown,DEM,43
+Uintah,Maeser-Dry Fork,Governor,,Chris Peterson / Karina Brown,DEM,52
+Uintah,South,Governor,,Chris Peterson / Karina Brown,DEM,76
+Uintah,Vernal City 2,Governor,,Chris Peterson / Karina Brown,DEM,54
+Uintah,Vernal City 3,Governor,,Chris Peterson / Karina Brown,DEM,65
+Uintah,Vernal City 6,Governor,,Chris Peterson / Karina Brown,DEM,100
+Uintah,Southwest,Governor,,Chris Peterson / Karina Brown,DEM,45
+Uintah,Jensen,Governor,,Greg Duerden / Wayne Hill,IAP,13
+Uintah,Davis East,Governor,,Greg Duerden / Wayne Hill,IAP,13
+Uintah,Davis West,Governor,,Greg Duerden / Wayne Hill,IAP,13
+Uintah,Naples,Governor,,Greg Duerden / Wayne Hill,IAP,31
+Uintah,Davis North,Governor,,Greg Duerden / Wayne Hill,IAP,15
+Uintah,Vernal City 4,Governor,,Greg Duerden / Wayne Hill,IAP,12
+Uintah,Vernal City 5,Governor,,Greg Duerden / Wayne Hill,IAP,8
+Uintah,Vernal City 7,Governor,,Greg Duerden / Wayne Hill,IAP,8
+Uintah,Ashley East,Governor,,Greg Duerden / Wayne Hill,IAP,12
+Uintah,Ashley West,Governor,,Greg Duerden / Wayne Hill,IAP,11
+Uintah,Maeser West,Governor,,Greg Duerden / Wayne Hill,IAP,17
+Uintah,Glines South,Governor,,Greg Duerden / Wayne Hill,IAP,15
+Uintah,Maeser East,Governor,,Greg Duerden / Wayne Hill,IAP,17
+Uintah,Glines North,Governor,,Greg Duerden / Wayne Hill,IAP,21
+Uintah,Vernal City 1,Governor,,Greg Duerden / Wayne Hill,IAP,18
+Uintah,Avalon Willows,Governor,,Greg Duerden / Wayne Hill,IAP,9
+Uintah,Lapoint-Tridell,Governor,,Greg Duerden / Wayne Hill,IAP,11
+Uintah,Fort Duchesne,Governor,,Greg Duerden / Wayne Hill,IAP,5
+Uintah,Ballard,Governor,,Greg Duerden / Wayne Hill,IAP,28
+Uintah,Whiterocks,Governor,,Greg Duerden / Wayne Hill,IAP,1
+Uintah,Maeser-Dry Fork,Governor,,Greg Duerden / Wayne Hill,IAP,8
+Uintah,South,Governor,,Greg Duerden / Wayne Hill,IAP,17
+Uintah,Vernal City 2,Governor,,Greg Duerden / Wayne Hill,IAP,17
+Uintah,Vernal City 3,Governor,,Greg Duerden / Wayne Hill,IAP,17
+Uintah,Vernal City 6,Governor,,Greg Duerden / Wayne Hill,IAP,10
+Uintah,Southwest,Governor,,Greg Duerden / Wayne Hill,IAP,20
+Uintah,Jensen,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,321
+Uintah,Davis East,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,385
+Uintah,Davis West,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,378
+Uintah,Naples,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,747
+Uintah,Davis North,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,231
+Uintah,Vernal City 4,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,309
+Uintah,Vernal City 5,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,317
+Uintah,Vernal City 7,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,211
+Uintah,Ashley East,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,485
+Uintah,Ashley West,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,426
+Uintah,Maeser West,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,561
+Uintah,Glines South,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,391
+Uintah,Maeser East,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,529
+Uintah,Glines North,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,431
+Uintah,Vernal City 1,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,486
+Uintah,Avalon Willows,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,119
+Uintah,Lapoint-Tridell,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,476
+Uintah,Fort Duchesne,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,213
+Uintah,Ballard,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,480
+Uintah,Whiterocks,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,67
+Uintah,Maeser-Dry Fork,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,484
+Uintah,South,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,717
+Uintah,Vernal City 2,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,352
+Uintah,Vernal City 3,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,378
+Uintah,Vernal City 6,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,350
+Uintah,Southwest,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,446
+Uintah,Jensen,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,14
+Uintah,Davis East,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,13
+Uintah,Davis West,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,11
+Uintah,Naples,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,35
+Uintah,Davis North,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,16
+Uintah,Vernal City 4,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,20
+Uintah,Vernal City 5,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,31
+Uintah,Vernal City 7,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,18
+Uintah,Ashley East,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,25
+Uintah,Ashley West,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,15
+Uintah,Maeser West,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,39
+Uintah,Glines South,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,29
+Uintah,Maeser East,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,17
+Uintah,Glines North,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,17
+Uintah,Vernal City 1,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,20
+Uintah,Avalon Willows,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,7
+Uintah,Lapoint-Tridell,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,17
+Uintah,Fort Duchesne,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,16
+Uintah,Ballard,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,24
+Uintah,Whiterocks,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,3
+Uintah,Maeser-Dry Fork,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,18
+Uintah,South,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,38
+Uintah,Vernal City 2,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,8
+Uintah,Vernal City 3,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,24
+Uintah,Vernal City 6,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,18
+Uintah,Southwest,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,16
+Uintah,Jensen,Governor,,Write-In Totals,,105
+Uintah,Davis East,Governor,,Write-In Totals,,97
+Uintah,Davis West,Governor,,Write-In Totals,,91
+Uintah,Naples,Governor,,Write-In Totals,,197
+Uintah,Davis North,Governor,,Write-In Totals,,76
+Uintah,Vernal City 4,Governor,,Write-In Totals,,49
+Uintah,Vernal City 5,Governor,,Write-In Totals,,72
+Uintah,Vernal City 7,Governor,,Write-In Totals,,24
+Uintah,Ashley East,Governor,,Write-In Totals,,102
+Uintah,Ashley West,Governor,,Write-In Totals,,78
+Uintah,Maeser West,Governor,,Write-In Totals,,137
+Uintah,Glines South,Governor,,Write-In Totals,,97
+Uintah,Maeser East,Governor,,Write-In Totals,,101
+Uintah,Glines North,Governor,,Write-In Totals,,85
+Uintah,Vernal City 1,Governor,,Write-In Totals,,92
+Uintah,Avalon Willows,Governor,,Write-In Totals,,4
+Uintah,Lapoint-Tridell,Governor,,Write-In Totals,,89
+Uintah,Fort Duchesne,Governor,,Write-In Totals,,30
+Uintah,Ballard,Governor,,Write-In Totals,,66
+Uintah,Whiterocks,Governor,,Write-In Totals,,7
+Uintah,Maeser-Dry Fork,Governor,,Write-In Totals,,97
+Uintah,South,Governor,,Write-In Totals,,183
+Uintah,Vernal City 2,Governor,,Write-In Totals,,66
+Uintah,Vernal City 3,Governor,,Write-In Totals,,94
+Uintah,Vernal City 6,Governor,,Write-In Totals,,50
+Uintah,Southwest,Governor,,Write-In Totals,,101
+Uintah,Jensen,Attorney General,,Rudy J. Bautista,LIB,17
+Uintah,Davis East,Attorney General,,Rudy J. Bautista,LIB,17
+Uintah,Davis West,Attorney General,,Rudy J. Bautista,LIB,21
+Uintah,Naples,Attorney General,,Rudy J. Bautista,LIB,46
+Uintah,Davis North,Attorney General,,Rudy J. Bautista,LIB,15
+Uintah,Vernal City 4,Attorney General,,Rudy J. Bautista,LIB,23
+Uintah,Vernal City 5,Attorney General,,Rudy J. Bautista,LIB,32
+Uintah,Vernal City 7,Attorney General,,Rudy J. Bautista,LIB,14
+Uintah,Ashley East,Attorney General,,Rudy J. Bautista,LIB,24
+Uintah,Ashley West,Attorney General,,Rudy J. Bautista,LIB,11
+Uintah,Maeser West,Attorney General,,Rudy J. Bautista,LIB,30
+Uintah,Glines South,Attorney General,,Rudy J. Bautista,LIB,27
+Uintah,Maeser East,Attorney General,,Rudy J. Bautista,LIB,29
+Uintah,Glines North,Attorney General,,Rudy J. Bautista,LIB,26
+Uintah,Vernal City 1,Attorney General,,Rudy J. Bautista,LIB,23
+Uintah,Avalon Willows,Attorney General,,Rudy J. Bautista,LIB,15
+Uintah,Lapoint-Tridell,Attorney General,,Rudy J. Bautista,LIB,22
+Uintah,Fort Duchesne,Attorney General,,Rudy J. Bautista,LIB,25
+Uintah,Ballard,Attorney General,,Rudy J. Bautista,LIB,29
+Uintah,Whiterocks,Attorney General,,Rudy J. Bautista,LIB,7
+Uintah,Maeser-Dry Fork,Attorney General,,Rudy J. Bautista,LIB,14
+Uintah,South,Attorney General,,Rudy J. Bautista,LIB,53
+Uintah,Vernal City 2,Attorney General,,Rudy J. Bautista,LIB,19
+Uintah,Vernal City 3,Attorney General,,Rudy J. Bautista,LIB,30
+Uintah,Vernal City 6,Attorney General,,Rudy J. Bautista,LIB,32
+Uintah,Southwest,Attorney General,,Rudy J. Bautista,LIB,23
+Uintah,Jensen,Attorney General,,Greg Skordas,DEM,40
+Uintah,Davis East,Attorney General,,Greg Skordas,DEM,38
+Uintah,Davis West,Attorney General,,Greg Skordas,DEM,29
+Uintah,Naples,Attorney General,,Greg Skordas,DEM,79
+Uintah,Davis North,Attorney General,,Greg Skordas,DEM,27
+Uintah,Vernal City 4,Attorney General,,Greg Skordas,DEM,66
+Uintah,Vernal City 5,Attorney General,,Greg Skordas,DEM,67
+Uintah,Vernal City 7,Attorney General,,Greg Skordas,DEM,44
+Uintah,Ashley East,Attorney General,,Greg Skordas,DEM,65
+Uintah,Ashley West,Attorney General,,Greg Skordas,DEM,48
+Uintah,Maeser West,Attorney General,,Greg Skordas,DEM,72
+Uintah,Glines South,Attorney General,,Greg Skordas,DEM,65
+Uintah,Maeser East,Attorney General,,Greg Skordas,DEM,64
+Uintah,Glines North,Attorney General,,Greg Skordas,DEM,64
+Uintah,Vernal City 1,Attorney General,,Greg Skordas,DEM,77
+Uintah,Avalon Willows,Attorney General,,Greg Skordas,DEM,28
+Uintah,Lapoint-Tridell,Attorney General,,Greg Skordas,DEM,56
+Uintah,Fort Duchesne,Attorney General,,Greg Skordas,DEM,131
+Uintah,Ballard,Attorney General,,Greg Skordas,DEM,82
+Uintah,Whiterocks,Attorney General,,Greg Skordas,DEM,42
+Uintah,Maeser-Dry Fork,Attorney General,,Greg Skordas,DEM,63
+Uintah,South,Attorney General,,Greg Skordas,DEM,81
+Uintah,Vernal City 2,Attorney General,,Greg Skordas,DEM,67
+Uintah,Vernal City 3,Attorney General,,Greg Skordas,DEM,76
+Uintah,Vernal City 6,Attorney General,,Greg Skordas,DEM,113
+Uintah,Southwest,Attorney General,,Greg Skordas,DEM,44
+Uintah,Jensen,Attorney General,,Sean D. Reyes,REP,448
+Uintah,Davis East,Attorney General,,Sean D. Reyes,REP,476
+Uintah,Davis West,Attorney General,,Sean D. Reyes,REP,464
+Uintah,Naples,Attorney General,,Sean D. Reyes,REP,955
+Uintah,Davis North,Attorney General,,Sean D. Reyes,REP,323
+Uintah,Vernal City 4,Attorney General,,Sean D. Reyes,REP,356
+Uintah,Vernal City 5,Attorney General,,Sean D. Reyes,REP,393
+Uintah,Vernal City 7,Attorney General,,Sean D. Reyes,REP,234
+Uintah,Ashley East,Attorney General,,Sean D. Reyes,REP,587
+Uintah,Ashley West,Attorney General,,Sean D. Reyes,REP,509
+Uintah,Maeser West,Attorney General,,Sean D. Reyes,REP,696
+Uintah,Glines South,Attorney General,,Sean D. Reyes,REP,509
+Uintah,Maeser East,Attorney General,,Sean D. Reyes,REP,631
+Uintah,Glines North,Attorney General,,Sean D. Reyes,REP,515
+Uintah,Vernal City 1,Attorney General,,Sean D. Reyes,REP,588
+Uintah,Avalon Willows,Attorney General,,Sean D. Reyes,REP,128
+Uintah,Lapoint-Tridell,Attorney General,,Sean D. Reyes,REP,558
+Uintah,Fort Duchesne,Attorney General,,Sean D. Reyes,REP,244
+Uintah,Ballard,Attorney General,,Sean D. Reyes,REP,561
+Uintah,Whiterocks,Attorney General,,Sean D. Reyes,REP,74
+Uintah,Maeser-Dry Fork,Attorney General,,Sean D. Reyes,REP,588
+Uintah,South,Attorney General,,Sean D. Reyes,REP,893
+Uintah,Vernal City 2,Attorney General,,Sean D. Reyes,REP,414
+Uintah,Vernal City 3,Attorney General,,Sean D. Reyes,REP,456
+Uintah,Vernal City 6,Attorney General,,Sean D. Reyes,REP,387
+Uintah,Southwest,Attorney General,,Sean D. Reyes,REP,561
+Uintah,Jensen,State Auditor,,John 'Frugal' Dougall,REP,427
+Uintah,Davis East,State Auditor,,John 'Frugal' Dougall,REP,462
+Uintah,Davis West,State Auditor,,John 'Frugal' Dougall,REP,458
+Uintah,Naples,State Auditor,,John 'Frugal' Dougall,REP,918
+Uintah,Davis North,State Auditor,,John 'Frugal' Dougall,REP,302
+Uintah,Vernal City 4,State Auditor,,John 'Frugal' Dougall,REP,344
+Uintah,Vernal City 5,State Auditor,,John 'Frugal' Dougall,REP,377
+Uintah,Vernal City 7,State Auditor,,John 'Frugal' Dougall,REP,238
+Uintah,Ashley East,State Auditor,,John 'Frugal' Dougall,REP,579
+Uintah,Ashley West,State Auditor,,John 'Frugal' Dougall,REP,492
+Uintah,Maeser West,State Auditor,,John 'Frugal' Dougall,REP,694
+Uintah,Glines South,State Auditor,,John 'Frugal' Dougall,REP,484
+Uintah,Maeser East,State Auditor,,John 'Frugal' Dougall,REP,625
+Uintah,Glines North,State Auditor,,John 'Frugal' Dougall,REP,509
+Uintah,Vernal City 1,State Auditor,,John 'Frugal' Dougall,REP,564
+Uintah,Avalon Willows,State Auditor,,John 'Frugal' Dougall,REP,133
+Uintah,Lapoint-Tridell,State Auditor,,John 'Frugal' Dougall,REP,541
+Uintah,Fort Duchesne,State Auditor,,John 'Frugal' Dougall,REP,251
+Uintah,Ballard,State Auditor,,John 'Frugal' Dougall,REP,530
+Uintah,Whiterocks,State Auditor,,John 'Frugal' Dougall,REP,77
+Uintah,Maeser-Dry Fork,State Auditor,,John 'Frugal' Dougall,REP,569
+Uintah,South,State Auditor,,John 'Frugal' Dougall,REP,876
+Uintah,Vernal City 2,State Auditor,,John 'Frugal' Dougall,REP,421
+Uintah,Vernal City 3,State Auditor,,John 'Frugal' Dougall,REP,444
+Uintah,Vernal City 6,State Auditor,,John 'Frugal' Dougall,REP,399
+Uintah,Southwest,State Auditor,,John 'Frugal' Dougall,REP,543
+Uintah,Jensen,State Auditor,,Jeffrey L. Ostler,CON,41
+Uintah,Davis East,State Auditor,,Jeffrey L. Ostler,CON,47
+Uintah,Davis West,State Auditor,,Jeffrey L. Ostler,CON,25
+Uintah,Naples,State Auditor,,Jeffrey L. Ostler,CON,86
+Uintah,Davis North,State Auditor,,Jeffrey L. Ostler,CON,35
+Uintah,Vernal City 4,State Auditor,,Jeffrey L. Ostler,CON,56
+Uintah,Vernal City 5,State Auditor,,Jeffrey L. Ostler,CON,53
+Uintah,Vernal City 7,State Auditor,,Jeffrey L. Ostler,CON,23
+Uintah,Ashley East,State Auditor,,Jeffrey L. Ostler,CON,47
+Uintah,Ashley West,State Auditor,,Jeffrey L. Ostler,CON,35
+Uintah,Maeser West,State Auditor,,Jeffrey L. Ostler,CON,54
+Uintah,Glines South,State Auditor,,Jeffrey L. Ostler,CON,52
+Uintah,Maeser East,State Auditor,,Jeffrey L. Ostler,CON,46
+Uintah,Glines North,State Auditor,,Jeffrey L. Ostler,CON,42
+Uintah,Vernal City 1,State Auditor,,Jeffrey L. Ostler,CON,61
+Uintah,Avalon Willows,State Auditor,,Jeffrey L. Ostler,CON,17
+Uintah,Lapoint-Tridell,State Auditor,,Jeffrey L. Ostler,CON,54
+Uintah,Fort Duchesne,State Auditor,,Jeffrey L. Ostler,CON,79
+Uintah,Ballard,State Auditor,,Jeffrey L. Ostler,CON,80
+Uintah,Whiterocks,State Auditor,,Jeffrey L. Ostler,CON,20
+Uintah,Maeser-Dry Fork,State Auditor,,Jeffrey L. Ostler,CON,39
+Uintah,South,State Auditor,,Jeffrey L. Ostler,CON,75
+Uintah,Vernal City 2,State Auditor,,Jeffrey L. Ostler,CON,39
+Uintah,Vernal City 3,State Auditor,,Jeffrey L. Ostler,CON,52
+Uintah,Vernal City 6,State Auditor,,Jeffrey L. Ostler,CON,56
+Uintah,Southwest,State Auditor,,Jeffrey L. Ostler,CON,55
+Uintah,Jensen,State Auditor,,Brian L. Fabbi,UUP,10
+Uintah,Davis East,State Auditor,,Brian L. Fabbi,UUP,2
+Uintah,Davis West,State Auditor,,Brian L. Fabbi,UUP,12
+Uintah,Naples,State Auditor,,Brian L. Fabbi,UUP,24
+Uintah,Davis North,State Auditor,,Brian L. Fabbi,UUP,11
+Uintah,Vernal City 4,State Auditor,,Brian L. Fabbi,UUP,19
+Uintah,Vernal City 5,State Auditor,,Brian L. Fabbi,UUP,31
+Uintah,Vernal City 7,State Auditor,,Brian L. Fabbi,UUP,15
+Uintah,Ashley East,State Auditor,,Brian L. Fabbi,UUP,22
+Uintah,Ashley West,State Auditor,,Brian L. Fabbi,UUP,25
+Uintah,Maeser West,State Auditor,,Brian L. Fabbi,UUP,24
+Uintah,Glines South,State Auditor,,Brian L. Fabbi,UUP,31
+Uintah,Maeser East,State Auditor,,Brian L. Fabbi,UUP,28
+Uintah,Glines North,State Auditor,,Brian L. Fabbi,UUP,19
+Uintah,Vernal City 1,State Auditor,,Brian L. Fabbi,UUP,23
+Uintah,Avalon Willows,State Auditor,,Brian L. Fabbi,UUP,9
+Uintah,Lapoint-Tridell,State Auditor,,Brian L. Fabbi,UUP,14
+Uintah,Fort Duchesne,State Auditor,,Brian L. Fabbi,UUP,35
+Uintah,Ballard,State Auditor,,Brian L. Fabbi,UUP,32
+Uintah,Whiterocks,State Auditor,,Brian L. Fabbi,UUP,10
+Uintah,Maeser-Dry Fork,State Auditor,,Brian L. Fabbi,UUP,22
+Uintah,South,State Auditor,,Brian L. Fabbi,UUP,29
+Uintah,Vernal City 2,State Auditor,,Brian L. Fabbi,UUP,20
+Uintah,Vernal City 3,State Auditor,,Brian L. Fabbi,UUP,36
+Uintah,Vernal City 6,State Auditor,,Brian L. Fabbi,UUP,40
+Uintah,Southwest,State Auditor,,Brian L. Fabbi,UUP,8
+Uintah,Jensen,State Treasurer,,Richard Proctor,CON,47
+Uintah,Davis East,State Treasurer,,Richard Proctor,CON,45
+Uintah,Davis West,State Treasurer,,Richard Proctor,CON,27
+Uintah,Naples,State Treasurer,,Richard Proctor,CON,74
+Uintah,Davis North,State Treasurer,,Richard Proctor,CON,29
+Uintah,Vernal City 4,State Treasurer,,Richard Proctor,CON,41
+Uintah,Vernal City 5,State Treasurer,,Richard Proctor,CON,35
+Uintah,Vernal City 7,State Treasurer,,Richard Proctor,CON,21
+Uintah,Ashley East,State Treasurer,,Richard Proctor,CON,39
+Uintah,Ashley West,State Treasurer,,Richard Proctor,CON,33
+Uintah,Maeser West,State Treasurer,,Richard Proctor,CON,47
+Uintah,Glines South,State Treasurer,,Richard Proctor,CON,34
+Uintah,Maeser East,State Treasurer,,Richard Proctor,CON,42
+Uintah,Glines North,State Treasurer,,Richard Proctor,CON,36
+Uintah,Vernal City 1,State Treasurer,,Richard Proctor,CON,50
+Uintah,Avalon Willows,State Treasurer,,Richard Proctor,CON,22
+Uintah,Lapoint-Tridell,State Treasurer,,Richard Proctor,CON,61
+Uintah,Fort Duchesne,State Treasurer,,Richard Proctor,CON,69
+Uintah,Ballard,State Treasurer,,Richard Proctor,CON,78
+Uintah,Whiterocks,State Treasurer,,Richard Proctor,CON,16
+Uintah,Maeser-Dry Fork,State Treasurer,,Richard Proctor,CON,38
+Uintah,South,State Treasurer,,Richard Proctor,CON,62
+Uintah,Vernal City 2,State Treasurer,,Richard Proctor,CON,29
+Uintah,Vernal City 3,State Treasurer,,Richard Proctor,CON,47
+Uintah,Vernal City 6,State Treasurer,,Richard Proctor,CON,45
+Uintah,Southwest,State Treasurer,,Richard Proctor,CON,58
+Uintah,Jensen,State Treasurer,,David Damschen,REP,423
+Uintah,Davis East,State Treasurer,,David Damschen,REP,443
+Uintah,Davis West,State Treasurer,,David Damschen,REP,447
+Uintah,Naples,State Treasurer,,David Damschen,REP,911
+Uintah,Davis North,State Treasurer,,David Damschen,REP,297
+Uintah,Vernal City 4,State Treasurer,,David Damschen,REP,362
+Uintah,Vernal City 5,State Treasurer,,David Damschen,REP,386
+Uintah,Vernal City 7,State Treasurer,,David Damschen,REP,230
+Uintah,Ashley East,State Treasurer,,David Damschen,REP,580
+Uintah,Ashley West,State Treasurer,,David Damschen,REP,503
+Uintah,Maeser West,State Treasurer,,David Damschen,REP,688
+Uintah,Glines South,State Treasurer,,David Damschen,REP,492
+Uintah,Maeser East,State Treasurer,,David Damschen,REP,623
+Uintah,Glines North,State Treasurer,,David Damschen,REP,501
+Uintah,Vernal City 1,State Treasurer,,David Damschen,REP,578
+Uintah,Avalon Willows,State Treasurer,,David Damschen,REP,126
+Uintah,Lapoint-Tridell,State Treasurer,,David Damschen,REP,536
+Uintah,Fort Duchesne,State Treasurer,,David Damschen,REP,237
+Uintah,Ballard,State Treasurer,,David Damschen,REP,522
+Uintah,Whiterocks,State Treasurer,,David Damschen,REP,75
+Uintah,Maeser-Dry Fork,State Treasurer,,David Damschen,REP,577
+Uintah,South,State Treasurer,,David Damschen,REP,861
+Uintah,Vernal City 2,State Treasurer,,David Damschen,REP,418
+Uintah,Vernal City 3,State Treasurer,,David Damschen,REP,439
+Uintah,Vernal City 6,State Treasurer,,David Damschen,REP,411
+Uintah,Southwest,State Treasurer,,David Damschen,REP,525
+Uintah,Jensen,State Treasurer,,Joseph Speciale,LIB,17
+Uintah,Davis East,State Treasurer,,Joseph Speciale,LIB,25
+Uintah,Davis West,State Treasurer,,Joseph Speciale,LIB,24
+Uintah,Naples,State Treasurer,,Joseph Speciale,LIB,57
+Uintah,Davis North,State Treasurer,,Joseph Speciale,LIB,24
+Uintah,Vernal City 4,State Treasurer,,Joseph Speciale,LIB,24
+Uintah,Vernal City 5,State Treasurer,,Joseph Speciale,LIB,49
+Uintah,Vernal City 7,State Treasurer,,Joseph Speciale,LIB,22
+Uintah,Ashley East,State Treasurer,,Joseph Speciale,LIB,37
+Uintah,Ashley West,State Treasurer,,Joseph Speciale,LIB,20
+Uintah,Maeser West,State Treasurer,,Joseph Speciale,LIB,39
+Uintah,Glines South,State Treasurer,,Joseph Speciale,LIB,47
+Uintah,Maeser East,State Treasurer,,Joseph Speciale,LIB,36
+Uintah,Glines North,State Treasurer,,Joseph Speciale,LIB,43
+Uintah,Vernal City 1,State Treasurer,,Joseph Speciale,LIB,34
+Uintah,Avalon Willows,State Treasurer,,Joseph Speciale,LIB,13
+Uintah,Lapoint-Tridell,State Treasurer,,Joseph Speciale,LIB,22
+Uintah,Fort Duchesne,State Treasurer,,Joseph Speciale,LIB,66
+Uintah,Ballard,State Treasurer,,Joseph Speciale,LIB,43
+Uintah,Whiterocks,State Treasurer,,Joseph Speciale,LIB,17
+Uintah,Maeser-Dry Fork,State Treasurer,,Joseph Speciale,LIB,27
+Uintah,South,State Treasurer,,Joseph Speciale,LIB,64
+Uintah,Vernal City 2,State Treasurer,,Joseph Speciale,LIB,35
+Uintah,Vernal City 3,State Treasurer,,Joseph Speciale,LIB,53
+Uintah,Vernal City 6,State Treasurer,,Joseph Speciale,LIB,52
+Uintah,Southwest,State Treasurer,,Joseph Speciale,LIB,20
+Uintah,Jensen,State House,55,Scott H. Chew,REP,479
+Uintah,Davis East,State House,55,Scott H. Chew,REP,497
+Uintah,Davis West,State House,55,Scott H. Chew,REP,490
+Uintah,Naples,State House,55,Scott H. Chew,REP,994
+Uintah,Davis North,State House,55,Scott H. Chew,REP,335
+Uintah,Vernal City 4,State House,55,Scott H. Chew,REP,398
+Uintah,Vernal City 5,State House,55,Scott H. Chew,REP,414
+Uintah,Vernal City 7,State House,55,Scott H. Chew,REP,262
+Uintah,Ashley East,State House,55,Scott H. Chew,REP,621
+Uintah,Ashley West,State House,55,Scott H. Chew,REP,522
+Uintah,Maeser West,State House,55,Scott H. Chew,REP,732
+Uintah,Glines South,State House,55,Scott H. Chew,REP,532
+Uintah,Maeser East,State House,55,Scott H. Chew,REP,653
+Uintah,Glines North,State House,55,Scott H. Chew,REP,545
+Uintah,Vernal City 1,State House,55,Scott H. Chew,REP,615
+Uintah,Avalon Willows,State House,55,Scott H. Chew,REP,155
+Uintah,Lapoint-Tridell,State House,55,Scott H. Chew,REP,595
+Uintah,Fort Duchesne,State House,55,Scott H. Chew,REP,325
+Uintah,Ballard,State House,55,Scott H. Chew,REP,594
+Uintah,Whiterocks,State House,55,Scott H. Chew,REP,86
+Uintah,Maeser-Dry Fork,State House,55,Scott H. Chew,REP,604
+Uintah,South,State House,55,Scott H. Chew,REP,938
+Uintah,Vernal City 2,State House,55,Scott H. Chew,REP,463
+Uintah,Vernal City 3,State House,55,Scott H. Chew,REP,518
+Uintah,Vernal City 6,State House,55,Scott H. Chew,REP,451
+Uintah,Southwest,State House,55,Scott H. Chew,REP,581
