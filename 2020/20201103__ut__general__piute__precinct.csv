@@ -1,11 +1,11 @@
-﻿county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,votes
 Piute,Marysville,Registered Voters,,,,332
 Piute,Marysville,Ballots Cast,,,,296
-Piute,Marysville,Blank,,,,0
+Piute,Marysville,Ballots Cast Blank,,,,0
 Piute,Marysville,President,,Brock Pierce / Karla Ballard,,0
 Piute,Marysville,President,,Kanye West / Michelle Tidball,,1
 Piute,Marysville,President,,Joseph R. Biden / Kamala D. Harris,DEM,43
-Piute,Marysville,President,,Don Blankenship / William Mohr,CON,0
+Piute,Marysville,President,,Don Ballots Cast Blankenship / William Mohr,CON,0
 Piute,Marysville,President,,Jo Jorgensen / Jeremy Cohen,LIB,4
 Piute,Marysville,President,,Joe McHugh / Elizabeth Storm,,0
 Piute,Marysville,President,,Howie Hawkins / Angela Walker,GRN,0
@@ -35,11 +35,11 @@ Piute,Marysville,State Senate,24,Warren Rogers,IAP,21
 Piute,Marysville,State House,73,Phil Lyman,REP,250
 Piute,Junction,Registered Voters,,,,135
 Piute,Junction,Ballots Cast,,,,114
-Piute,Junction,Blank,,,,0
+Piute,Junction,Ballots Cast Blank,,,,0
 Piute,Junction,President,,Brock Pierce / Karla Ballard,,0
 Piute,Junction,President,,Kanye West / Michelle Tidball,,1
 Piute,Junction,President,,Joseph R. Biden / Kamala D. Harris,DEM,13
-Piute,Junction,President,,Don Blankenship / William Mohr,CON,0
+Piute,Junction,President,,Don Ballots Cast Blankenship / William Mohr,CON,0
 Piute,Junction,President,,Jo Jorgensen / Jeremy Cohen,LIB,1
 Piute,Junction,President,,Joe McHugh / Elizabeth Storm,,0
 Piute,Junction,President,,Howie Hawkins / Angela Walker,GRN,0
@@ -69,11 +69,11 @@ Piute,Junction,State Senate,24,Warren Rogers,IAP,11
 Piute,Junction,State House,73,Phil Lyman,REP,104
 Piute,Circleville 3,Registered Voters,,,,147
 Piute,Circleville 3,Ballots Cast,,,,127
-Piute,Circleville 3,Blank,,,,0
+Piute,Circleville 3,Ballots Cast Blank,,,,0
 Piute,Circleville 3,President,,Brock Pierce / Karla Ballard,,0
 Piute,Circleville 3,President,,Kanye West / Michelle Tidball,,0
 Piute,Circleville 3,President,,Joseph R. Biden / Kamala D. Harris,DEM,12
-Piute,Circleville 3,President,,Don Blankenship / William Mohr,CON,0
+Piute,Circleville 3,President,,Don Ballots Cast Blankenship / William Mohr,CON,0
 Piute,Circleville 3,President,,Jo Jorgensen / Jeremy Cohen,LIB,0
 Piute,Circleville 3,President,,Joe McHugh / Elizabeth Storm,,0
 Piute,Circleville 3,President,,Howie Hawkins / Angela Walker,GRN,0
@@ -103,11 +103,11 @@ Piute,Circleville 3,State Senate,24,Warren Rogers,IAP,7
 Piute,Circleville 3,State House,73,Phil Lyman,REP,119
 Piute,Circleville 5,Registered Voters,,,,175
 Piute,Circleville 5,Ballots Cast,,,,151
-Piute,Circleville 5,Blank,,,,0
+Piute,Circleville 5,Ballots Cast Blank,,,,0
 Piute,Circleville 5,President,,Brock Pierce / Karla Ballard,,0
 Piute,Circleville 5,President,,Kanye West / Michelle Tidball,,0
 Piute,Circleville 5,President,,Joseph R. Biden / Kamala D. Harris,DEM,4
-Piute,Circleville 5,President,,Don Blankenship / William Mohr,CON,1
+Piute,Circleville 5,President,,Don Ballots Cast Blankenship / William Mohr,CON,1
 Piute,Circleville 5,President,,Jo Jorgensen / Jeremy Cohen,LIB,1
 Piute,Circleville 5,President,,Joe McHugh / Elizabeth Storm,,0
 Piute,Circleville 5,President,,Howie Hawkins / Angela Walker,GRN,0
@@ -137,11 +137,11 @@ Piute,Circleville 5,State Senate,24,Warren Rogers,IAP,4
 Piute,Circleville 5,State House,73,Phil Lyman,REP,137
 Piute,Kingston,Registered Voters,,,,138
 Piute,Kingston,Ballots Cast,,,,123
-Piute,Kingston,Blank,,,,0
+Piute,Kingston,Ballots Cast Blank,,,,0
 Piute,Kingston,President,,Brock Pierce / Karla Ballard,,0
 Piute,Kingston,President,,Kanye West / Michelle Tidball,,0
 Piute,Kingston,President,,Joseph R. Biden / Kamala D. Harris,DEM,8
-Piute,Kingston,President,,Don Blankenship / William Mohr,CON,0
+Piute,Kingston,President,,Don Ballots Cast Blankenship / William Mohr,CON,0
 Piute,Kingston,President,,Jo Jorgensen / Jeremy Cohen,LIB,1
 Piute,Kingston,President,,Joe McHugh / Elizabeth Storm,,0
 Piute,Kingston,President,,Howie Hawkins / Angela Walker,GRN,0
@@ -171,11 +171,11 @@ Piute,Kingston,State Senate,24,Warren Rogers,IAP,4
 Piute,Kingston,State House,73,Phil Lyman,REP,111
 Piute,Greenwich,Registered Voters,,,,80
 Piute,Greenwich,Ballots Cast,,,,71
-Piute,Greenwich,Blank,,,,0
+Piute,Greenwich,Ballots Cast Blank,,,,0
 Piute,Greenwich,President,,Brock Pierce / Karla Ballard,,0
 Piute,Greenwich,President,,Kanye West / Michelle Tidball,,1
 Piute,Greenwich,President,,Joseph R. Biden / Kamala D. Harris,DEM,6
-Piute,Greenwich,President,,Don Blankenship / William Mohr,CON,0
+Piute,Greenwich,President,,Don Ballots Cast Blankenship / William Mohr,CON,0
 Piute,Greenwich,President,,Jo Jorgensen / Jeremy Cohen,LIB,0
 Piute,Greenwich,President,,Joe McHugh / Elizabeth Storm,,0
 Piute,Greenwich,President,,Howie Hawkins / Angela Walker,GRN,0
