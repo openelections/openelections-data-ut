@@ -547,8 +547,8 @@ Iron,CC,Constitutional Amendment F,,,AGAINST,282
 Iron,CC,Constitutional Amendment G,,,FOR,486
 Iron,CC,Constitutional Amendment G,,,AGAINST,363
 Iron,CC,Constitutional Amendment G,,,,6
-Iron,CC,Registered Voters,,,,"1,122"
-Iron,CC,Ballots Cast,,,,"1,051"
+Iron,CC,Registered Voters,,,,1122
+Iron,CC,Ballots Cast,,,,1051
 Iron,CC,Ballots Cast - Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",6
@@ -1327,8 +1327,8 @@ Iron,CC,Constitutional Amendment F,,,AGAINST,146
 Iron,CC,Constitutional Amendment G,,,FOR,244
 Iron,CC,Constitutional Amendment G,,,AGAINST,203
 Iron,CC,Constitutional Amendment G,,,,16
-Iron,CC,Registered Voters,,,,"1,698"
-Iron,CC,Ballots Cast,,,,"1,563"
+Iron,CC,Registered Voters,,,,1698
+Iron,CC,Ballots Cast,,,,1563
 Iron,CC,Ballots Cast - Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",7
@@ -1338,15 +1338,15 @@ Iron,CC,President,,LIB,JO JORGENSEN,40
 Iron,CC,President,,,"JOE MCHUGH, ELIZABETH STORM",2
 Iron,CC,President,,GRN,HOWIE HAWKINS,6
 Iron,CC,President,,,GLORIA LA RIVA,2
-Iron,CC,President,,REP,DONALD J. TRUMP,"1,181"
+Iron,CC,President,,REP,DONALD J. TRUMP,1181
 Iron,CC,President,,,Write-In Totals,9
 Iron,CC,President,,,Not Assigned,9
 Iron,CC,U.S. House,2,DEM,KAEL WESTON,254
-Iron,CC,U.S. House,2,REP,CHRIS STEWART,"1,138"
+Iron,CC,U.S. House,2,REP,CHRIS STEWART,1138
 Iron,CC,U.S. House,2,LIB,J. ROBERT LATHAM,83
 Iron,CC,Governor,,DEM,CHRIS PETERSON,250
 Iron,CC,Governor,,IAP,GREG DUERDEN,34
-Iron,CC,Governor,,REP,SPENCER J. COX,"1,080"
+Iron,CC,Governor,,REP,SPENCER J. COX,1080
 Iron,CC,Governor,,LIB,DANIEL RHEAD COTTAM,97
 Iron,CC,Governor,,,Write-In Totals,52
 Iron,CC,Governor,,,"Write-In: Madeline Kazantzis, Ed",34
@@ -1355,52 +1355,52 @@ Iron,CC,Governor,,,Not Assigned,15
 Iron,CC,Governor,,,,16
 Iron,CC,Attorney General,,LIB,RUDY J. BAUTISTA,89
 Iron,CC,Attorney General,,DEM,GREG SKORDAS,244
-Iron,CC,Attorney General,,REP,SEAN D. REYES,"1,158"
-Iron,CC,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,"1,164"
+Iron,CC,Attorney General,,REP,SEAN D. REYES,1158
+Iron,CC,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,1164
 Iron,CC,State Auditor,,CON,JEFFREY L. OSTLER,128
 Iron,CC,State Auditor,,UUP,BRIAN L. FABBI,106
 Iron,CC,State Treasurer,,CON,RICHARD PROCTOR,104
-Iron,CC,State Treasurer,,REP,DAVID DAMSCHEN,"1,165"
+Iron,CC,State Treasurer,,REP,DAVID DAMSCHEN,1165
 Iron,CC,State Treasurer,,LIB,JOSEPH SPECIALE,148
 Iron,CC,State House,72,DEM,LONNIE WHITE JR,241
-Iron,CC,State House,72,REP,REX P SHIPP,"1,143"
+Iron,CC,State House,72,REP,REX P SHIPP,1143
 Iron,CC,State House,72,UUP,PIPER MANESSE,84
-Iron,CC,State School Board District 15,,REP,KRISTAN NORTON,"1,322"
-Iron,CC,"County Commissioner ""C""",,REP,MARILYN WOOD,"1,320"
-Iron,CC,County Assessor,,REP,KARSTEN MCKAY REED,"1,308"
-Iron,CC,County Recorder/Surveyor,,REP,CARRI ROWLEY JEFFRIES,"1,310"
-Iron,CC,County Treasurer,,REP,NICOLE ROSENBERG,"1,306"
+Iron,CC,State School Board District 15,,REP,KRISTAN NORTON,1322
+Iron,CC,"County Commissioner ""C""",,REP,MARILYN WOOD,1320
+Iron,CC,County Assessor,,REP,KARSTEN MCKAY REED,1308
+Iron,CC,County Recorder/Surveyor,,REP,CARRI ROWLEY JEFFRIES,1310
+Iron,CC,County Treasurer,,REP,NICOLE ROSENBERG,1306
 Iron,CC,County Treasurer,,,,16
 Iron,CC,Local School Board District 1 DISTRICT 1,,,TESSA DOUGLAS,620
 Iron,CC,Local School Board District 1 DISTRICT 1,,,DAVE STAHELI,798
-Iron,CC,John A. Pearce Judicial Retention,,,YES,"1,138"
+Iron,CC,John A. Pearce Judicial Retention,,,YES,1138
 Iron,CC,John A. Pearce Judicial Retention,,,NO,189
-Iron,CC,David N. Mortensen Judicial Retention,,,YES,"1,118"
+Iron,CC,David N. Mortensen Judicial Retention,,,YES,1118
 Iron,CC,David N. Mortensen Judicial Retention,,,NO,198
-Iron,CC,Diana Hagen Judicial Retention,,,YES,"1,135"
+Iron,CC,Diana Hagen Judicial Retention,,,YES,1135
 Iron,CC,Diana Hagen Judicial Retention,,,NO,168
-Iron,CC,Gregory Keith Orme Judicial Retention,,,YES,"1,107"
+Iron,CC,Gregory Keith Orme Judicial Retention,,,YES,1107
 Iron,CC,Gregory Keith Orme Judicial Retention,,,NO,185
-Iron,CC,Jill M. Pohlman Judicial Retention,,,YES,"1,114"
+Iron,CC,Jill M. Pohlman Judicial Retention,,,YES,1114
 Iron,CC,Jill M. Pohlman Judicial Retention,,,NO,178
-Iron,CC,Michele M. Christiansen Forster Judicial Retention,,,YES,"1,117"
+Iron,CC,Michele M. Christiansen Forster Judicial Retention,,,YES,1117
 Iron,CC,Michele M. Christiansen Forster Judicial Retention,,,NO,180
-Iron,CC,Ryan M. Harris Judicial Retention,,,YES,"1,071"
+Iron,CC,Ryan M. Harris Judicial Retention,,,YES,1071
 Iron,CC,Ryan M. Harris Judicial Retention,,,NO,215
-Iron,CC,John J. Walton Judicial Retention,,,YES,"1,113"
+Iron,CC,John J. Walton Judicial Retention,,,YES,1113
 Iron,CC,John J. Walton Judicial Retention,,,NO,182
 Iron,CC,John J. Walton Judicial Retention,,,,16
-Iron,CC,Matthew L. Bell Judicial Retention,,,YES,"1,126"
+Iron,CC,Matthew L. Bell Judicial Retention,,,YES,1126
 Iron,CC,Matthew L. Bell Judicial Retention,,,NO,181
 Iron,CC,Constitutional Amendment A,,,FOR,601
 Iron,CC,Constitutional Amendment A,,,AGAINST,892
-Iron,CC,Constitutional Amendment B,,,FOR,"1,151"
+Iron,CC,Constitutional Amendment B,,,FOR,1151
 Iron,CC,Constitutional Amendment B,,,AGAINST,307
-Iron,CC,Constitutional Amendment C,,,FOR,"1,017"
+Iron,CC,Constitutional Amendment C,,,FOR,1017
 Iron,CC,Constitutional Amendment C,,,AGAINST,445
 Iron,CC,Constitutional Amendment D,,,FOR,794
 Iron,CC,Constitutional Amendment D,,,AGAINST,625
-Iron,CC,Constitutional Amendment E,,,FOR,"1,269"
+Iron,CC,Constitutional Amendment E,,,FOR,1269
 Iron,CC,Constitutional Amendment E,,,AGAINST,218
 Iron,CC,Constitutional Amendment F,,,FOR,862
 Iron,CC,Constitutional Amendment F,,,AGAINST,529
@@ -1485,8 +1485,8 @@ Iron,CC,Constitutional Amendment F,,,AGAINST,129
 Iron,CC,Constitutional Amendment G,,,FOR,233
 Iron,CC,Constitutional Amendment G,,,AGAINST,175
 Iron,CC,Constitutional Amendment G,,,,18
-Iron,CC,Registered Voters,,,,"1,255"
-Iron,CC,Ballots Cast,,,,"1,175"
+Iron,CC,Registered Voters,,,,1255
+Iron,CC,Ballots Cast,,,,1175
 Iron,CC,Ballots Cast - Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",5
@@ -1563,8 +1563,8 @@ Iron,CC,Constitutional Amendment F,,,AGAINST,379
 Iron,CC,Constitutional Amendment G,,,FOR,551
 Iron,CC,Constitutional Amendment G,,,AGAINST,555
 Iron,CC,Constitutional Amendment G,,,,19
-Iron,CC,Registered Voters,,,,"1,153"
-Iron,CC,Ballots Cast,,,,"1,087"
+Iron,CC,Registered Voters,,,,1153
+Iron,CC,Ballots Cast,,,,1087
 Iron,CC,Ballots Cast - Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",8
@@ -1641,8 +1641,8 @@ Iron,CC,Constitutional Amendment F,,,AGAINST,299
 Iron,CC,Constitutional Amendment G,,,FOR,505
 Iron,CC,Constitutional Amendment G,,,AGAINST,507
 Iron,CC,Constitutional Amendment G,,,,20
-Iron,CC,Registered Voters,,,,"1,876"
-Iron,CC,Ballots Cast,,,,"1,766"
+Iron,CC,Registered Voters,,,,1876
+Iron,CC,Ballots Cast,,,,1766
 Iron,CC,Ballots Cast - Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",8
@@ -1652,15 +1652,15 @@ Iron,CC,President,,LIB,JO JORGENSEN,14
 Iron,CC,President,,,"JOE MCHUGH, ELIZABETH STORM",1
 Iron,CC,President,,GRN,HOWIE HAWKINS,3
 Iron,CC,President,,,GLORIA LA RIVA,0
-Iron,CC,President,,REP,DONALD J. TRUMP,"1,451"
+Iron,CC,President,,REP,DONALD J. TRUMP,1451
 Iron,CC,President,,,Write-In Totals,12
 Iron,CC,President,,,Not Assigned,12
 Iron,CC,U.S. House,2,DEM,KAEL WESTON,227
-Iron,CC,U.S. House,2,REP,CHRIS STEWART,"1,349"
+Iron,CC,U.S. House,2,REP,CHRIS STEWART,1349
 Iron,CC,U.S. House,2,LIB,J. ROBERT LATHAM,66
 Iron,CC,Governor,,DEM,CHRIS PETERSON,228
 Iron,CC,Governor,,IAP,GREG DUERDEN,60
-Iron,CC,Governor,,REP,SPENCER J. COX,"1,239"
+Iron,CC,Governor,,REP,SPENCER J. COX,1239
 Iron,CC,Governor,,LIB,DANIEL RHEAD COTTAM,90
 Iron,CC,Governor,,,Write-In Totals,86
 Iron,CC,Governor,,,"Write-In: Madeline Kazantzis, Ed",54
@@ -1669,52 +1669,52 @@ Iron,CC,Governor,,,Not Assigned,29
 Iron,CC,Governor,,,,20
 Iron,CC,Attorney General,,LIB,RUDY J. BAUTISTA,71
 Iron,CC,Attorney General,,DEM,GREG SKORDAS,224
-Iron,CC,Attorney General,,REP,SEAN D. REYES,"1,398"
-Iron,CC,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,"1,352"
+Iron,CC,Attorney General,,REP,SEAN D. REYES,1398
+Iron,CC,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,1352
 Iron,CC,State Auditor,,CON,JEFFREY L. OSTLER,140
 Iron,CC,State Auditor,,UUP,BRIAN L. FABBI,89
 Iron,CC,State Treasurer,,CON,RICHARD PROCTOR,124
-Iron,CC,State Treasurer,,REP,DAVID DAMSCHEN,"1,355"
+Iron,CC,State Treasurer,,REP,DAVID DAMSCHEN,1355
 Iron,CC,State Treasurer,,LIB,JOSEPH SPECIALE,119
 Iron,CC,State House,72,DEM,LONNIE WHITE JR,206
-Iron,CC,State House,72,REP,REX P SHIPP,"1,261"
+Iron,CC,State House,72,REP,REX P SHIPP,1261
 Iron,CC,State House,72,UUP,PIPER MANESSE,209
-Iron,CC,State School Board District 15,,REP,KRISTAN NORTON,"1,430"
-Iron,CC,"County Commissioner ""C""",,REP,MARILYN WOOD,"1,449"
-Iron,CC,County Assessor,,REP,KARSTEN MCKAY REED,"1,425"
-Iron,CC,County Recorder/Surveyor,,REP,CARRI ROWLEY JEFFRIES,"1,413"
-Iron,CC,County Treasurer,,REP,NICOLE ROSENBERG,"1,403"
+Iron,CC,State School Board District 15,,REP,KRISTAN NORTON,1430
+Iron,CC,"County Commissioner ""C""",,REP,MARILYN WOOD,1449
+Iron,CC,County Assessor,,REP,KARSTEN MCKAY REED,1425
+Iron,CC,County Recorder/Surveyor,,REP,CARRI ROWLEY JEFFRIES,1413
+Iron,CC,County Treasurer,,REP,NICOLE ROSENBERG,1403
 Iron,CC,County Treasurer,,,,20
 Iron,CC,Local School Board District 3 DISTRICT 3,,,JEFF CORRY,793
 Iron,CC,Local School Board District 3 DISTRICT 3,,,TIFFINEY CHRISTIANSEN,812
-Iron,CC,John A. Pearce Judicial Retention,,,YES,"1,247"
+Iron,CC,John A. Pearce Judicial Retention,,,YES,1247
 Iron,CC,John A. Pearce Judicial Retention,,,NO,212
-Iron,CC,David N. Mortensen Judicial Retention,,,YES,"1,221"
+Iron,CC,David N. Mortensen Judicial Retention,,,YES,1221
 Iron,CC,David N. Mortensen Judicial Retention,,,NO,235
-Iron,CC,Diana Hagen Judicial Retention,,,YES,"1,220"
+Iron,CC,Diana Hagen Judicial Retention,,,YES,1220
 Iron,CC,Diana Hagen Judicial Retention,,,NO,204
-Iron,CC,Gregory Keith Orme Judicial Retention,,,YES,"1,184"
+Iron,CC,Gregory Keith Orme Judicial Retention,,,YES,1184
 Iron,CC,Gregory Keith Orme Judicial Retention,,,NO,232
-Iron,CC,Jill M. Pohlman Judicial Retention,,,YES,"1,215"
+Iron,CC,Jill M. Pohlman Judicial Retention,,,YES,1215
 Iron,CC,Jill M. Pohlman Judicial Retention,,,NO,201
-Iron,CC,Michele M. Christiansen Forster Judicial Retention,,,YES,"1,201"
+Iron,CC,Michele M. Christiansen Forster Judicial Retention,,,YES,1201
 Iron,CC,Michele M. Christiansen Forster Judicial Retention,,,NO,208
-Iron,CC,Ryan M. Harris Judicial Retention,,,YES,"1,128"
+Iron,CC,Ryan M. Harris Judicial Retention,,,YES,1128
 Iron,CC,Ryan M. Harris Judicial Retention,,,NO,280
-Iron,CC,John J. Walton Judicial Retention,,,YES,"1,188"
+Iron,CC,John J. Walton Judicial Retention,,,YES,1188
 Iron,CC,John J. Walton Judicial Retention,,,NO,222
 Iron,CC,John J. Walton Judicial Retention,,,,20
-Iron,CC,Matthew L. Bell Judicial Retention,,,YES,"1,218"
+Iron,CC,Matthew L. Bell Judicial Retention,,,YES,1218
 Iron,CC,Matthew L. Bell Judicial Retention,,,NO,192
 Iron,CC,Constitutional Amendment A,,,FOR,659
-Iron,CC,Constitutional Amendment A,,,AGAINST,"1,025"
-Iron,CC,Constitutional Amendment B,,,FOR,"1,175"
+Iron,CC,Constitutional Amendment A,,,AGAINST,1025
+Iron,CC,Constitutional Amendment B,,,FOR,1175
 Iron,CC,Constitutional Amendment B,,,AGAINST,456
-Iron,CC,Constitutional Amendment C,,,FOR,"1,170"
+Iron,CC,Constitutional Amendment C,,,FOR,1170
 Iron,CC,Constitutional Amendment C,,,AGAINST,468
 Iron,CC,Constitutional Amendment D,,,FOR,772
 Iron,CC,Constitutional Amendment D,,,AGAINST,822
-Iron,CC,Constitutional Amendment E,,,FOR,"1,358"
+Iron,CC,Constitutional Amendment E,,,FOR,1358
 Iron,CC,Constitutional Amendment E,,,AGAINST,326
 Iron,CC,Constitutional Amendment F,,,FOR,956
 Iron,CC,Constitutional Amendment F,,,AGAINST,623
@@ -2037,8 +2037,8 @@ Iron,CC,Constitutional Amendment F,,,AGAINST,155
 Iron,CC,Constitutional Amendment G,,,FOR,308
 Iron,CC,Constitutional Amendment G,,,AGAINST,275
 Iron,CC,Constitutional Amendment G,,,,25
-Iron,CC,Registered Voters,,,,"1,678"
-Iron,CC,Ballots Cast,,,,"1,555"
+Iron,CC,Registered Voters,,,,1678
+Iron,CC,Ballots Cast,,,,1555
 Iron,CC,Ballots Cast - Blank,,,,1
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",7
@@ -2048,15 +2048,15 @@ Iron,CC,President,,LIB,JO JORGENSEN,44
 Iron,CC,President,,,"JOE MCHUGH, ELIZABETH STORM",1
 Iron,CC,President,,GRN,HOWIE HAWKINS,2
 Iron,CC,President,,,GLORIA LA RIVA,0
-Iron,CC,President,,REP,DONALD J. TRUMP,"1,241"
+Iron,CC,President,,REP,DONALD J. TRUMP,1241
 Iron,CC,President,,,Write-In Totals,5
 Iron,CC,President,,,Not Assigned,5
 Iron,CC,U.S. House,2,DEM,KAEL WESTON,208
-Iron,CC,U.S. House,2,REP,CHRIS STEWART,"1,181"
+Iron,CC,U.S. House,2,REP,CHRIS STEWART,1181
 Iron,CC,U.S. House,2,LIB,J. ROBERT LATHAM,56
 Iron,CC,Governor,,DEM,CHRIS PETERSON,197
 Iron,CC,Governor,,IAP,GREG DUERDEN,55
-Iron,CC,Governor,,REP,SPENCER J. COX,"1,078"
+Iron,CC,Governor,,REP,SPENCER J. COX,1078
 Iron,CC,Governor,,LIB,DANIEL RHEAD COTTAM,93
 Iron,CC,Governor,,,Write-In Totals,67
 Iron,CC,Governor,,,"Write-In: Madeline Kazantzis, Ed",50
@@ -2065,50 +2065,50 @@ Iron,CC,Governor,,,Not Assigned,15
 Iron,CC,Governor,,,,25
 Iron,CC,Attorney General,,LIB,RUDY J. BAUTISTA,88
 Iron,CC,Attorney General,,DEM,GREG SKORDAS,216
-Iron,CC,Attorney General,,REP,SEAN D. REYES,"1,179"
-Iron,CC,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,"1,189"
+Iron,CC,Attorney General,,REP,SEAN D. REYES,1179
+Iron,CC,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,1189
 Iron,CC,State Auditor,,CON,JEFFREY L. OSTLER,130
 Iron,CC,State Auditor,,UUP,BRIAN L. FABBI,95
 Iron,CC,State Treasurer,,CON,RICHARD PROCTOR,124
-Iron,CC,State Treasurer,,REP,DAVID DAMSCHEN,"1,174"
+Iron,CC,State Treasurer,,REP,DAVID DAMSCHEN,1174
 Iron,CC,State Treasurer,,LIB,JOSEPH SPECIALE,119
 Iron,CC,State House,72,DEM,LONNIE WHITE JR,180
-Iron,CC,State House,72,REP,REX P SHIPP,"1,180"
+Iron,CC,State House,72,REP,REX P SHIPP,1180
 Iron,CC,State House,72,UUP,PIPER MANESSE,101
-Iron,CC,State School Board District 15,,REP,KRISTAN NORTON,"1,300"
-Iron,CC,"County Commissioner ""C""",,REP,MARILYN WOOD,"1,298"
-Iron,CC,County Assessor,,REP,KARSTEN MCKAY REED,"1,281"
-Iron,CC,County Recorder/Surveyor,,REP,CARRI ROWLEY JEFFRIES,"1,278"
-Iron,CC,County Treasurer,,REP,NICOLE ROSENBERG,"1,276"
+Iron,CC,State School Board District 15,,REP,KRISTAN NORTON,1300
+Iron,CC,"County Commissioner ""C""",,REP,MARILYN WOOD,1298
+Iron,CC,County Assessor,,REP,KARSTEN MCKAY REED,1281
+Iron,CC,County Recorder/Surveyor,,REP,CARRI ROWLEY JEFFRIES,1278
+Iron,CC,County Treasurer,,REP,NICOLE ROSENBERG,1276
 Iron,CC,County Treasurer,,,,25
-Iron,CC,John A. Pearce Judicial Retention,,,YES,"1,056"
+Iron,CC,John A. Pearce Judicial Retention,,,YES,1056
 Iron,CC,John A. Pearce Judicial Retention,,,NO,218
-Iron,CC,David N. Mortensen Judicial Retention,,,YES,"1,022"
+Iron,CC,David N. Mortensen Judicial Retention,,,YES,1022
 Iron,CC,David N. Mortensen Judicial Retention,,,NO,237
-Iron,CC,Diana Hagen Judicial Retention,,,YES,"1,053"
+Iron,CC,Diana Hagen Judicial Retention,,,YES,1053
 Iron,CC,Diana Hagen Judicial Retention,,,NO,211
-Iron,CC,Gregory Keith Orme Judicial Retention,,,YES,"1,033"
+Iron,CC,Gregory Keith Orme Judicial Retention,,,YES,1033
 Iron,CC,Gregory Keith Orme Judicial Retention,,,NO,231
-Iron,CC,Jill M. Pohlman Judicial Retention,,,YES,"1,043"
+Iron,CC,Jill M. Pohlman Judicial Retention,,,YES,1043
 Iron,CC,Jill M. Pohlman Judicial Retention,,,NO,218
-Iron,CC,Michele M. Christiansen Forster Judicial Retention,,,YES,"1,025"
+Iron,CC,Michele M. Christiansen Forster Judicial Retention,,,YES,1025
 Iron,CC,Michele M. Christiansen Forster Judicial Retention,,,NO,232
 Iron,CC,Ryan M. Harris Judicial Retention,,,YES,981
 Iron,CC,Ryan M. Harris Judicial Retention,,,NO,267
-Iron,CC,John J. Walton Judicial Retention,,,YES,"1,027"
+Iron,CC,John J. Walton Judicial Retention,,,YES,1027
 Iron,CC,John J. Walton Judicial Retention,,,NO,230
-Iron,CC,Matthew L. Bell Judicial Retention,,,YES,"1,039"
+Iron,CC,Matthew L. Bell Judicial Retention,,,YES,1039
 Iron,CC,Matthew L. Bell Judicial Retention,,,NO,217
 Iron,CC,Matthew L. Bell Judicial Retention,,,,25
 Iron,CC,Constitutional Amendment A,,,FOR,559
 Iron,CC,Constitutional Amendment A,,,AGAINST,909
-Iron,CC,Constitutional Amendment B,,,FOR,"1,056"
+Iron,CC,Constitutional Amendment B,,,FOR,1056
 Iron,CC,Constitutional Amendment B,,,AGAINST,371
 Iron,CC,Constitutional Amendment C,,,FOR,946
 Iron,CC,Constitutional Amendment C,,,AGAINST,489
 Iron,CC,Constitutional Amendment D,,,FOR,679
 Iron,CC,Constitutional Amendment D,,,AGAINST,726
-Iron,CC,Constitutional Amendment E,,,FOR,"1,153"
+Iron,CC,Constitutional Amendment E,,,FOR,1153
 Iron,CC,Constitutional Amendment E,,,AGAINST,305
 Iron,CC,Constitutional Amendment F,,,FOR,778
 Iron,CC,Constitutional Amendment F,,,AGAINST,601
@@ -2344,8 +2344,8 @@ Iron,ENO 2,Constitutional Amendment F,,,FOR,461
 Iron,ENO 2,Constitutional Amendment F,,,AGAINST,306
 Iron,ENO 2,Constitutional Amendment G,,,FOR,362
 Iron,ENO 2,Constitutional Amendment G,,,AGAINST,433
-Iron,ENO 3,Registered Voters,,,,"1,426"
-Iron,ENO 3,Ballots Cast,,,,"1,304"
+Iron,ENO 3,Registered Voters,,,,1426
+Iron,ENO 3,Ballots Cast,,,,1304
 Iron,ENO 3,Ballots Cast - Blank,,,,0
 Iron,ENO 3,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,ENO 3,President,,,"KANYE WEST, MICHELLE TIDBALL",3
@@ -2355,7 +2355,7 @@ Iron,ENO 3,President,,LIB,JO JORGENSEN,26
 Iron,ENO 3,President,,,"JOE MCHUGH, ELIZABETH STORM",1
 Iron,ENO 3,President,,GRN,HOWIE HAWKINS,4
 Iron,ENO 3,President,,,GLORIA LA RIVA,1
-Iron,ENO 3,President,,REP,DONALD J. TRUMP,"1,075"
+Iron,ENO 3,President,,REP,DONALD J. TRUMP,1075
 Iron,ENO 3,President,,,Write-In Totals,5
 Iron,ENO 3,President,,,Not Assigned,5
 Iron,ENO 3,U.S. House,2,DEM,KAEL WESTON,177
@@ -2372,18 +2372,18 @@ Iron,ENO 3,Governor,,,Not Assigned,7
 Iron,ENO 3,Attorney General,,LIB,RUDY J. BAUTISTA,82
 Iron,ENO 3,Attorney General,,DEM,GREG SKORDAS,170
 Iron,ENO 3,Attorney General,,REP,SEAN D. REYES,994
-Iron,ENO 3,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,"1,016"
+Iron,ENO 3,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,1016
 Iron,ENO 3,State Auditor,,CON,JEFFREY L. OSTLER,103
 Iron,ENO 3,State Auditor,,UUP,BRIAN L. FABBI,67
 Iron,ENO 3,State Treasurer,,CON,RICHARD PROCTOR,116
 Iron,ENO 3,State Treasurer,,REP,DAVID DAMSCHEN,973
 Iron,ENO 3,State Treasurer,,LIB,JOSEPH SPECIALE,105
-Iron,ENO 3,State House,71,REP,BRAD LAST,"1,112"
-Iron,ENO 3,State School Board District 15,,REP,KRISTAN NORTON,"1,096"
-Iron,ENO 3,"County Commissioner ""C""",,REP,MARILYN WOOD,"1,109"
-Iron,ENO 3,County Assessor,,REP,KARSTEN MCKAY REED,"1,096"
-Iron,ENO 3,County Recorder/Surveyor,,REP,CARRI ROWLEY JEFFRIES,"1,089"
-Iron,ENO 3,County Treasurer,,REP,NICOLE ROSENBERG,"1,100"
+Iron,ENO 3,State House,71,REP,BRAD LAST,1112
+Iron,ENO 3,State School Board District 15,,REP,KRISTAN NORTON,1096
+Iron,ENO 3,"County Commissioner ""C""",,REP,MARILYN WOOD,1109
+Iron,ENO 3,County Assessor,,REP,KARSTEN MCKAY REED,1096
+Iron,ENO 3,County Recorder/Surveyor,,REP,CARRI ROWLEY JEFFRIES,1089
+Iron,ENO 3,County Treasurer,,REP,NICOLE ROSENBERG,1100
 Iron,ENO 3,Local School Board District 1 DISTRICT 1,,,TESSA DOUGLAS,445
 Iron,ENO 3,Local School Board District 1 DISTRICT 1,,,DAVE STAHELI,732
 Iron,ENO 3,John A. Pearce Judicial Retention,,,YES,948
@@ -2412,14 +2412,14 @@ Iron,ENO 3,Constitutional Amendment C,,,FOR,819
 Iron,ENO 3,Constitutional Amendment C,,,AGAINST,399
 Iron,ENO 3,Constitutional Amendment D,,,FOR,621
 Iron,ENO 3,Constitutional Amendment D,,,AGAINST,553
-Iron,ENO 3,Constitutional Amendment E,,,FOR,"1,028"
+Iron,ENO 3,Constitutional Amendment E,,,FOR,1028
 Iron,ENO 3,Constitutional Amendment E,,,AGAINST,214
 Iron,ENO 3,Constitutional Amendment F,,,FOR,707
 Iron,ENO 3,Constitutional Amendment F,,,AGAINST,447
 Iron,ENO 3,Constitutional Amendment G,,,FOR,568
 Iron,ENO 3,Constitutional Amendment G,,,AGAINST,659
-Iron,ENO 4,Registered Voters,,,,"1,202"
-Iron,ENO 4,Ballots Cast,,,,"1,119"
+Iron,ENO 4,Registered Voters,,,,1202
+Iron,ENO 4,Ballots Cast,,,,1119
 Iron,ENO 4,Ballots Cast - Blank,,,,0
 Iron,ENO 4,President,,,"BROCK PIERCE, KARLA BALLARD",4
 Iron,ENO 4,President,,,"KANYE WEST, MICHELLE TIDBALL",1
