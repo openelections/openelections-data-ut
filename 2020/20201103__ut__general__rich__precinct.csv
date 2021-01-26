@@ -1,0 +1,422 @@
+county,precinct,office,district,party,candidate,votes
+Rich,1,Registered Voters,,,,282
+Rich,1,Ballots Cast,,,,262
+Rich,1,Ballots Cast - Blank,,,,0
+Rich,1,President,,,"BROCK PIERCE, KARLA BALLARD",0
+Rich,1,President,,,"KANYE WEST, MICHELLE TIDBALL",0
+Rich,1,President,,DEM,JOSEPH R. BIDEN,16
+Rich,1,President,,CON,DON BLANKENSHIP,1
+Rich,1,President,,LIB,JO JORGENSEN,1
+Rich,1,President,,,"JOE MCHUGH, ELIZABETH STORM",0
+Rich,1,President,,GRN,HOWIE HAWKINS,0
+Rich,1,President,,,GLORIA LA RIVA,0
+Rich,1,President,,REP,DONALD J. TRUMP,242
+Rich,1,President,,,Write-In Totals,1
+Rich,1,President,,,Write-In: Invalid,1
+Rich,1,President,,,Not Assigned,0
+Rich,1,U.S. House,1,DEM,DARREN PARRY,26
+Rich,1,U.S. House,1,REP,BLAKE DAVID MOORE,220
+Rich,1,U.S. House,1,,Write-In Totals,1
+Rich,1,U.S. House,1,,Write-In: Invalid,0
+Rich,1,U.S. House,1,,Write-In: Taylor Lee,1
+Rich,1,U.S. House,1,,Not Assigned,0
+Rich,1,Governor,,DEM,CHRIS PETERSON,15
+Rich,1,Governor,,IAP,GREG DUERDEN,5
+Rich,1,Governor,,REP,SPENCER J. COX,203
+Rich,1,Governor,,LIB,DANIEL RHEAD COTTAM,7
+Rich,1,Governor,,,Write-In Totals,28
+Rich,1,Governor,,,Write-In: Invalid,5
+Rich,1,Governor,,,Write-In: Madeline Kazantzis Ed Kennedy,23
+Rich,1,Governor,,,Not Assigned,0
+Rich,1,Attorney General,,LIB,RUDY J. BAUTISTA,10
+Rich,1,Attorney General,,DEM,GREG SKORDAS,16
+Rich,1,Attorney General,,REP,SEAN D. REYES,230
+Rich,1,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,229
+Rich,1,State Auditor,,CON,JEFFREY L. OSTLER,10
+Rich,1,State Auditor,,UUP,BRIAN L. FABBI,8
+Rich,1,State Treasurer,,CON,RICHARD PROCTOR,8
+Rich,1,State Treasurer,,REP,DAVID DAMSCHEN,233
+Rich,1,State Treasurer,,LIB,JOSEPH SPECIALE,6
+Rich,1,State Senate,25,REP,CHRIS H WILSON,238
+Rich,1,State Senate,25,DEM,NANCY HUNTLY,14
+Rich,1,State House,53,DEM,CHERYL BUTLER,18
+Rich,1,State House,53,REP,KERA BIRKELAND,234
+Rich,1,County Commissioner C,,DEM,RALPH B. JOHNSON,128
+Rich,1,County Commissioner C,,REP,JONATHAN LEE,112
+Rich,1,County Commissioner C,,,Write-In Totals,19
+Rich,1,County Commissioner C,,,Write-In: Invalid,0
+Rich,1,County Commissioner C,,,Write-In: Andrew (Andy) W. Stokes,19
+Rich,1,County Commissioner C,,,Not Assigned,0
+Rich,1,Assessor,,REP,KIM A WILSON,247
+Rich,1,Recorder,,REP,KRYSTAL G. BUTTERFIELD,250
+Rich,1,Treasurer,,REP,LOUJEAN M. ARGYLE,249
+Rich,1,School Board Dist. 1,,,SCOTT DEE SABEY,251
+Rich,1,John A. Pearce Judicial Retention,,,YES,216
+Rich,1,John A. Pearce Judicial Retention,,,NO,20
+Rich,1,David N. Mortensen Judicial Retention,,,YES,214
+Rich,1,David N. Mortensen Judicial Retention,,,NO,22
+Rich,1,Diana Hagen Judicial Retention,,,YES,217
+Rich,1,Diana Hagen Judicial Retention,,,NO,18
+Rich,1,Gregory Keith Orme Judicial Retention,,,YES,213
+Rich,1,Gregory Keith Orme Judicial Retention,,,NO,21
+Rich,1,Jill M. Pohlman Judicial Retention,,,YES,217
+Rich,1,Jill M. Pohlman Judicial Retention,,,NO,18
+Rich,1,Michele M. Christiansen Forster Judicial Retention,,,YES,216
+Rich,1,Michele M. Christiansen Forster Judicial Retention,,,NO,19
+Rich,1,Ryan M. Harris Judicial Retention,,,YES,207
+Rich,1,Ryan M. Harris Judicial Retention,,,NO,27
+Rich,1,Kirk M. Morgan Judicial Retention,,,YES,217
+Rich,1,Kirk M. Morgan Judicial Retention,,,NO,18
+Rich,1,Trevor L. Cook Judicial Retention,,,YES,223
+Rich,1,Trevor L. Cook Judicial Retention,,,NO,16
+Rich,1,Constitutional Amendment A,,,FOR,72
+Rich,1,Constitutional Amendment A,,,AGAINST,180
+Rich,1,Constitutional Amendment B,,,FOR,194
+Rich,1,Constitutional Amendment B,,,AGAINST,51
+Rich,1,Constitutional Amendment C,,,FOR,161
+Rich,1,Constitutional Amendment C,,,AGAINST,88
+Rich,1,Constitutional Amendment D,,,FOR,123
+Rich,1,Constitutional Amendment D,,,AGAINST,119
+Rich,1,Constitutional Amendment E,,,FOR,214
+Rich,1,Constitutional Amendment E,,,AGAINST,38
+Rich,1,Constitutional Amendment F,,,FOR,150
+Rich,1,Constitutional Amendment F,,,AGAINST,92
+Rich,1,Constitutional Amendment G,,,FOR,106
+Rich,1,Constitutional Amendment G,,,AGAINST,142
+Rich,2,Registered Voters,,,,306
+Rich,2,Ballots Cast,,,,285
+Rich,2,Ballots Cast - Blank,,,,0
+Rich,2,President,,,"BROCK PIERCE, KARLA BALLARD",0
+Rich,2,President,,,"KANYE WEST, MICHELLE TIDBALL",0
+Rich,2,President,,DEM,JOSEPH R. BIDEN,23
+Rich,2,President,,CON,DON BLANKENSHIP,0
+Rich,2,President,,LIB,JO JORGENSEN,2
+Rich,2,President,,,"JOE MCHUGH, ELIZABETH STORM",0
+Rich,2,President,,GRN,HOWIE HAWKINS,1
+Rich,2,President,,,GLORIA LA RIVA,0
+Rich,2,President,,REP,DONALD J. TRUMP,259
+Rich,2,President,,,Write-In Totals,0
+Rich,2,President,,,Write-In: Invalid,0
+Rich,2,President,,,Not Assigned,0
+Rich,2,U.S. House,1,DEM,DARREN PARRY,27
+Rich,2,U.S. House,1,REP,BLAKE DAVID MOORE,232
+Rich,2,U.S. House,1,,Write-In Totals,0
+Rich,2,U.S. House,1,,Write-In: Invalid,0
+Rich,2,U.S. House,1,,Write-In: Taylor Lee,0
+Rich,2,U.S. House,1,,Not Assigned,0
+Rich,2,Governor,,DEM,CHRIS PETERSON,20
+Rich,2,Governor,,IAP,GREG DUERDEN,3
+Rich,2,Governor,,REP,SPENCER J. COX,235
+Rich,2,Governor,,LIB,DANIEL RHEAD COTTAM,5
+Rich,2,Governor,,,Write-In Totals,15
+Rich,2,Governor,,,Write-In: Invalid,2
+Rich,2,Governor,,,Write-In: Madeline Kazantzis Ed Kennedy,13
+Rich,2,Governor,,,Not Assigned,0
+Rich,2,Attorney General,,LIB,RUDY J. BAUTISTA,7
+Rich,2,Attorney General,,DEM,GREG SKORDAS,32
+Rich,2,Attorney General,,REP,SEAN D. REYES,235
+Rich,2,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,245
+Rich,2,State Auditor,,CON,JEFFREY L. OSTLER,15
+Rich,2,State Auditor,,UUP,BRIAN L. FABBI,5
+Rich,2,State Treasurer,,CON,RICHARD PROCTOR,14
+Rich,2,State Treasurer,,REP,DAVID DAMSCHEN,240
+Rich,2,State Treasurer,,LIB,JOSEPH SPECIALE,8
+Rich,2,State Senate,25,REP,CHRIS H WILSON,238
+Rich,2,State Senate,25,DEM,NANCY HUNTLY,25
+Rich,2,State House,53,DEM,CHERYL BUTLER,32
+Rich,2,State House,53,REP,KERA BIRKELAND,234
+Rich,2,County Commissioner C,,DEM,RALPH B. JOHNSON,151
+Rich,2,County Commissioner C,,REP,JONATHAN LEE,117
+Rich,2,County Commissioner C,,,Write-In Totals,16
+Rich,2,County Commissioner C,,,Write-In: Invalid,1
+Rich,2,County Commissioner C,,,Write-In: Andrew (Andy) W. Stokes,15
+Rich,2,County Commissioner C,,,Not Assigned,0
+Rich,2,Assessor,,REP,KIM A WILSON,264
+Rich,2,Recorder,,REP,KRYSTAL G. BUTTERFIELD,264
+Rich,2,Treasurer,,REP,LOUJEAN M. ARGYLE,258
+Rich,2,School Board Dist. 2,,,GEORGE CHAD PEART,106
+Rich,2,School Board Dist. 2,,,PETER C. CORNIA,172
+Rich,2,John A. Pearce Judicial Retention,,,YES,225
+Rich,2,John A. Pearce Judicial Retention,,,NO,30
+Rich,2,David N. Mortensen Judicial Retention,,,YES,218
+Rich,2,David N. Mortensen Judicial Retention,,,NO,27
+Rich,2,Diana Hagen Judicial Retention,,,YES,218
+Rich,2,Diana Hagen Judicial Retention,,,NO,27
+Rich,2,Gregory Keith Orme Judicial Retention,,,YES,219
+Rich,2,Gregory Keith Orme Judicial Retention,,,NO,24
+Rich,2,Jill M. Pohlman Judicial Retention,,,YES,218
+Rich,2,Jill M. Pohlman Judicial Retention,,,NO,26
+Rich,2,Michele M. Christiansen Forster Judicial Retention,,,YES,210
+Rich,2,Michele M. Christiansen Forster Judicial Retention,,,NO,33
+Rich,2,Ryan M. Harris Judicial Retention,,,YES,213
+Rich,2,Ryan M. Harris Judicial Retention,,,NO,31
+Rich,2,Kirk M. Morgan Judicial Retention,,,YES,220
+Rich,2,Kirk M. Morgan Judicial Retention,,,NO,23
+Rich,2,Trevor L. Cook Judicial Retention,,,YES,226
+Rich,2,Trevor L. Cook Judicial Retention,,,NO,26
+Rich,2,Constitutional Amendment A,,,FOR,89
+Rich,2,Constitutional Amendment A,,,AGAINST,176
+Rich,2,Constitutional Amendment B,,,FOR,182
+Rich,2,Constitutional Amendment B,,,AGAINST,81
+Rich,2,Constitutional Amendment C,,,FOR,161
+Rich,2,Constitutional Amendment C,,,AGAINST,101
+Rich,2,Constitutional Amendment D,,,FOR,114
+Rich,2,Constitutional Amendment D,,,AGAINST,152
+Rich,2,Constitutional Amendment E,,,FOR,217
+Rich,2,Constitutional Amendment E,,,AGAINST,53
+Rich,2,Constitutional Amendment F,,,FOR,133
+Rich,2,Constitutional Amendment F,,,AGAINST,125
+Rich,2,Constitutional Amendment G,,,FOR,122
+Rich,2,Constitutional Amendment G,,,AGAINST,144
+Rich,3,Registered Voters,,,,366
+Rich,3,Ballots Cast,,,,334
+Rich,3,Ballots Cast - Blank,,,,0
+Rich,3,President,,,"BROCK PIERCE, KARLA BALLARD",0
+Rich,3,President,,,"KANYE WEST, MICHELLE TIDBALL",0
+Rich,3,President,,DEM,JOSEPH R. BIDEN,28
+Rich,3,President,,CON,DON BLANKENSHIP,0
+Rich,3,President,,LIB,JO JORGENSEN,1
+Rich,3,President,,,"JOE MCHUGH, ELIZABETH STORM",0
+Rich,3,President,,GRN,HOWIE HAWKINS,0
+Rich,3,President,,,GLORIA LA RIVA,0
+Rich,3,President,,REP,DONALD J. TRUMP,301
+Rich,3,President,,,Write-In Totals,0
+Rich,3,President,,,Write-In: Invalid,0
+Rich,3,President,,,Not Assigned,0
+Rich,3,U.S. House,1,DEM,DARREN PARRY,34
+Rich,3,U.S. House,1,REP,BLAKE DAVID MOORE,279
+Rich,3,U.S. House,1,,Write-In Totals,1
+Rich,3,U.S. House,1,,Write-In: Invalid,1
+Rich,3,U.S. House,1,,Write-In: Taylor Lee,0
+Rich,3,U.S. House,1,,Not Assigned,0
+Rich,3,Governor,,DEM,CHRIS PETERSON,27
+Rich,3,Governor,,IAP,GREG DUERDEN,0
+Rich,3,Governor,,REP,SPENCER J. COX,282
+Rich,3,Governor,,LIB,DANIEL RHEAD COTTAM,6
+Rich,3,Governor,,,Write-In Totals,8
+Rich,3,Governor,,,Write-In: Invalid,1
+Rich,3,Governor,,,Write-In: Madeline Kazantzis Ed Kennedy,7
+Rich,3,Governor,,,Not Assigned,0
+Rich,3,Attorney General,,LIB,RUDY J. BAUTISTA,8
+Rich,3,Attorney General,,DEM,GREG SKORDAS,29
+Rich,3,Attorney General,,REP,SEAN D. REYES,288
+Rich,3,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,279
+Rich,3,State Auditor,,CON,JEFFREY L. OSTLER,24
+Rich,3,State Auditor,,UUP,BRIAN L. FABBI,6
+Rich,3,State Treasurer,,CON,RICHARD PROCTOR,10
+Rich,3,State Treasurer,,REP,DAVID DAMSCHEN,284
+Rich,3,State Treasurer,,LIB,JOSEPH SPECIALE,16
+Rich,3,State Senate,25,REP,CHRIS H WILSON,292
+Rich,3,State Senate,25,DEM,NANCY HUNTLY,28
+Rich,3,State House,53,DEM,CHERYL BUTLER,42
+Rich,3,State House,53,REP,KERA BIRKELAND,276
+Rich,3,County Commissioner C,,DEM,RALPH B. JOHNSON,148
+Rich,3,County Commissioner C,,REP,JONATHAN LEE,146
+Rich,3,County Commissioner C,,,Write-In Totals,35
+Rich,3,County Commissioner C,,,Write-In: Invalid,0
+Rich,3,County Commissioner C,,,Write-In: Andrew (Andy) W. Stokes,35
+Rich,3,County Commissioner C,,,Not Assigned,0
+Rich,3,Assessor,,REP,KIM A WILSON,311
+Rich,3,Recorder,,REP,KRYSTAL G. BUTTERFIELD,306
+Rich,3,Treasurer,,REP,LOUJEAN M. ARGYLE,304
+Rich,3,John A. Pearce Judicial Retention,,,YES,273
+Rich,3,John A. Pearce Judicial Retention,,,NO,16
+Rich,3,David N. Mortensen Judicial Retention,,,YES,268
+Rich,3,David N. Mortensen Judicial Retention,,,NO,23
+Rich,3,Diana Hagen Judicial Retention,,,YES,275
+Rich,3,Diana Hagen Judicial Retention,,,NO,17
+Rich,3,Gregory Keith Orme Judicial Retention,,,YES,273
+Rich,3,Gregory Keith Orme Judicial Retention,,,NO,17
+Rich,3,Jill M. Pohlman Judicial Retention,,,YES,276
+Rich,3,Jill M. Pohlman Judicial Retention,,,NO,15
+Rich,3,Michele M. Christiansen Forster Judicial Retention,,,YES,276
+Rich,3,Michele M. Christiansen Forster Judicial Retention,,,NO,15
+Rich,3,Ryan M. Harris Judicial Retention,,,YES,268
+Rich,3,Ryan M. Harris Judicial Retention,,,NO,21
+Rich,3,Kirk M. Morgan Judicial Retention,,,YES,274
+Rich,3,Kirk M. Morgan Judicial Retention,,,NO,15
+Rich,3,Trevor L. Cook Judicial Retention,,,YES,281
+Rich,3,Trevor L. Cook Judicial Retention,,,NO,17
+Rich,3,Constitutional Amendment A,,,FOR,110
+Rich,3,Constitutional Amendment A,,,AGAINST,206
+Rich,3,Constitutional Amendment B,,,FOR,234
+Rich,3,Constitutional Amendment B,,,AGAINST,79
+Rich,3,Constitutional Amendment C,,,FOR,215
+Rich,3,Constitutional Amendment C,,,AGAINST,101
+Rich,3,Constitutional Amendment D,,,FOR,151
+Rich,3,Constitutional Amendment D,,,AGAINST,163
+Rich,3,Constitutional Amendment E,,,FOR,245
+Rich,3,Constitutional Amendment E,,,AGAINST,71
+Rich,3,Constitutional Amendment F,,,FOR,184
+Rich,3,Constitutional Amendment F,,,AGAINST,122
+Rich,3,Constitutional Amendment G,,,FOR,143
+Rich,3,Constitutional Amendment G,,,AGAINST,172
+Rich,4,Registered Voters,,,,273
+Rich,4,Ballots Cast,,,,253
+Rich,4,Ballots Cast - Blank,,,,0
+Rich,4,President,,,"BROCK PIERCE, KARLA BALLARD",0
+Rich,4,President,,,"KANYE WEST, MICHELLE TIDBALL",1
+Rich,4,President,,DEM,JOSEPH R. BIDEN,52
+Rich,4,President,,CON,DON BLANKENSHIP,2
+Rich,4,President,,LIB,JO JORGENSEN,7
+Rich,4,President,,,"JOE MCHUGH, ELIZABETH STORM",1
+Rich,4,President,,GRN,HOWIE HAWKINS,0
+Rich,4,President,,,GLORIA LA RIVA,0
+Rich,4,President,,REP,DONALD J. TRUMP,186
+Rich,4,President,,,Write-In Totals,3
+Rich,4,President,,,Write-In: Invalid,3
+Rich,4,President,,,Not Assigned,0
+Rich,4,U.S. House,1,DEM,DARREN PARRY,57
+Rich,4,U.S. House,1,REP,BLAKE DAVID MOORE,175
+Rich,4,U.S. House,1,,Write-In Totals,2
+Rich,4,U.S. House,1,,Write-In: Invalid,2
+Rich,4,U.S. House,1,,Write-In: Taylor Lee,0
+Rich,4,U.S. House,1,,Not Assigned,0
+Rich,4,Governor,,DEM,CHRIS PETERSON,47
+Rich,4,Governor,,IAP,GREG DUERDEN,6
+Rich,4,Governor,,REP,SPENCER J. COX,188
+Rich,4,Governor,,LIB,DANIEL RHEAD COTTAM,5
+Rich,4,Governor,,,Write-In Totals,3
+Rich,4,Governor,,,Write-In: Invalid,0
+Rich,4,Governor,,,Write-In: Madeline Kazantzis Ed Kennedy,3
+Rich,4,Governor,,,Not Assigned,0
+Rich,4,Attorney General,,LIB,RUDY J. BAUTISTA,6
+Rich,4,Attorney General,,DEM,GREG SKORDAS,59
+Rich,4,Attorney General,,REP,SEAN D. REYES,180
+Rich,4,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,200
+Rich,4,State Auditor,,CON,JEFFREY L. OSTLER,16
+Rich,4,State Auditor,,UUP,BRIAN L. FABBI,14
+Rich,4,State Treasurer,,CON,RICHARD PROCTOR,12
+Rich,4,State Treasurer,,REP,DAVID DAMSCHEN,205
+Rich,4,State Treasurer,,LIB,JOSEPH SPECIALE,19
+Rich,4,State Senate,25,REP,CHRIS H WILSON,188
+Rich,4,State Senate,25,DEM,NANCY HUNTLY,50
+Rich,4,State House,53,DEM,CHERYL BUTLER,61
+Rich,4,State House,53,REP,KERA BIRKELAND,186
+Rich,4,County Commissioner C,,DEM,RALPH B. JOHNSON,47
+Rich,4,County Commissioner C,,REP,JONATHAN LEE,141
+Rich,4,County Commissioner C,,,Write-In Totals,57
+Rich,4,County Commissioner C,,,Write-In: Invalid,0
+Rich,4,County Commissioner C,,,Write-In: Andrew (Andy) W. Stokes,57
+Rich,4,County Commissioner C,,,Not Assigned,0
+Rich,4,Assessor,,REP,KIM A WILSON,236
+Rich,4,Recorder,,REP,KRYSTAL G. BUTTERFIELD,233
+Rich,4,Treasurer,,REP,LOUJEAN M. ARGYLE,237
+Rich,4,School Board Dist. 4,,,RICHARD L. LAMB,226
+Rich,4,John A. Pearce Judicial Retention,,,YES,204
+Rich,4,John A. Pearce Judicial Retention,,,NO,30
+Rich,4,David N. Mortensen Judicial Retention,,,YES,194
+Rich,4,David N. Mortensen Judicial Retention,,,NO,33
+Rich,4,Diana Hagen Judicial Retention,,,YES,195
+Rich,4,Diana Hagen Judicial Retention,,,NO,29
+Rich,4,Gregory Keith Orme Judicial Retention,,,YES,186
+Rich,4,Gregory Keith Orme Judicial Retention,,,NO,34
+Rich,4,Jill M. Pohlman Judicial Retention,,,YES,196
+Rich,4,Jill M. Pohlman Judicial Retention,,,NO,27
+Rich,4,Michele M. Christiansen Forster Judicial Retention,,,YES,194
+Rich,4,Michele M. Christiansen Forster Judicial Retention,,,NO,30
+Rich,4,Ryan M. Harris Judicial Retention,,,YES,189
+Rich,4,Ryan M. Harris Judicial Retention,,,NO,34
+Rich,4,Kirk M. Morgan Judicial Retention,,,YES,195
+Rich,4,Kirk M. Morgan Judicial Retention,,,NO,27
+Rich,4,Trevor L. Cook Judicial Retention,,,YES,200
+Rich,4,Trevor L. Cook Judicial Retention,,,NO,25
+Rich,4,Constitutional Amendment A,,,FOR,108
+Rich,4,Constitutional Amendment A,,,AGAINST,128
+Rich,4,Constitutional Amendment B,,,FOR,182
+Rich,4,Constitutional Amendment B,,,AGAINST,55
+Rich,4,Constitutional Amendment C,,,FOR,180
+Rich,4,Constitutional Amendment C,,,AGAINST,62
+Rich,4,Constitutional Amendment D,,,FOR,136
+Rich,4,Constitutional Amendment D,,,AGAINST,99
+Rich,4,Constitutional Amendment E,,,FOR,193
+Rich,4,Constitutional Amendment E,,,AGAINST,48
+Rich,4,Constitutional Amendment F,,,FOR,149
+Rich,4,Constitutional Amendment F,,,AGAINST,83
+Rich,4,Constitutional Amendment G,,,FOR,114
+Rich,4,Constitutional Amendment G,,,AGAINST,127
+Rich,5,Registered Voters,,,,262
+Rich,5,Ballots Cast,,,,241
+Rich,5,Ballots Cast - Blank,,,,0
+Rich,5,President,,,"BROCK PIERCE, KARLA BALLARD",1
+Rich,5,President,,,"KANYE WEST, MICHELLE TIDBALL",3
+Rich,5,President,,DEM,JOSEPH R. BIDEN,61
+Rich,5,President,,CON,DON BLANKENSHIP,0
+Rich,5,President,,LIB,JO JORGENSEN,3
+Rich,5,President,,,"JOE MCHUGH, ELIZABETH STORM",1
+Rich,5,President,,GRN,HOWIE HAWKINS,1
+Rich,5,President,,,GLORIA LA RIVA,0
+Rich,5,President,,REP,DONALD J. TRUMP,169
+Rich,5,President,,,Write-In Totals,2
+Rich,5,President,,,Write-In: Invalid,2
+Rich,5,President,,,Not Assigned,0
+Rich,5,U.S. House,1,DEM,DARREN PARRY,60
+Rich,5,U.S. House,1,REP,BLAKE DAVID MOORE,172
+Rich,5,U.S. House,1,,Write-In Totals,1
+Rich,5,U.S. House,1,,Write-In: Invalid,1
+Rich,5,U.S. House,1,,Write-In: Taylor Lee,0
+Rich,5,U.S. House,1,,Not Assigned,0
+Rich,5,Governor,,DEM,CHRIS PETERSON,49
+Rich,5,Governor,,IAP,GREG DUERDEN,2
+Rich,5,Governor,,REP,SPENCER J. COX,173
+Rich,5,Governor,,LIB,DANIEL RHEAD COTTAM,5
+Rich,5,Governor,,,Write-In Totals,7
+Rich,5,Governor,,,Write-In: Invalid,2
+Rich,5,Governor,,,Write-In: Madeline Kazantzis Ed Kennedy,5
+Rich,5,Governor,,,Not Assigned,0
+Rich,5,Attorney General,,LIB,RUDY J. BAUTISTA,12
+Rich,5,Attorney General,,DEM,GREG SKORDAS,57
+Rich,5,Attorney General,,REP,SEAN D. REYES,167
+Rich,5,State Auditor,,REP,JOHN 'FRUGAL' DOUGALL,187
+Rich,5,State Auditor,,CON,JEFFREY L. OSTLER,17
+Rich,5,State Auditor,,UUP,BRIAN L. FABBI,22
+Rich,5,State Treasurer,,CON,RICHARD PROCTOR,12
+Rich,5,State Treasurer,,REP,DAVID DAMSCHEN,196
+Rich,5,State Treasurer,,LIB,JOSEPH SPECIALE,20
+Rich,5,State Senate,25,REP,CHRIS H WILSON,178
+Rich,5,State Senate,25,DEM,NANCY HUNTLY,56
+Rich,5,State House,53,DEM,CHERYL BUTLER,63
+Rich,5,State House,53,REP,KERA BIRKELAND,175
+Rich,5,County Commissioner C,,DEM,RALPH B. JOHNSON,47
+Rich,5,County Commissioner C,,REP,JONATHAN LEE,148
+Rich,5,County Commissioner C,,,Write-In Totals,42
+Rich,5,County Commissioner C,,,Write-In: Invalid,0
+Rich,5,County Commissioner C,,,Write-In: Andrew (Andy) W. Stokes,42
+Rich,5,County Commissioner C,,,Not Assigned,0
+Rich,5,Assessor,,REP,KIM A WILSON,219
+Rich,5,Recorder,,REP,KRYSTAL G. BUTTERFIELD,216
+Rich,5,Treasurer,,REP,LOUJEAN M. ARGYLE,218
+Rich,5,School Board Dist. 5,,,ZACK MCKEE,136
+Rich,5,School Board Dist. 5,,,SCOTT A. TOLENTINO,85
+Rich,5,John A. Pearce Judicial Retention,,,YES,192
+Rich,5,John A. Pearce Judicial Retention,,,NO,28
+Rich,5,David N. Mortensen Judicial Retention,,,YES,188
+Rich,5,David N. Mortensen Judicial Retention,,,NO,32
+Rich,5,Diana Hagen Judicial Retention,,,YES,187
+Rich,5,Diana Hagen Judicial Retention,,,NO,33
+Rich,5,Gregory Keith Orme Judicial Retention,,,YES,178
+Rich,5,Gregory Keith Orme Judicial Retention,,,NO,41
+Rich,5,Jill M. Pohlman Judicial Retention,,,YES,184
+Rich,5,Jill M. Pohlman Judicial Retention,,,NO,36
+Rich,5,Michele M. Christiansen Forster Judicial Retention,,,YES,183
+Rich,5,Michele M. Christiansen Forster Judicial Retention,,,NO,37
+Rich,5,Ryan M. Harris Judicial Retention,,,YES,178
+Rich,5,Ryan M. Harris Judicial Retention,,,NO,40
+Rich,5,Kirk M. Morgan Judicial Retention,,,YES,189
+Rich,5,Kirk M. Morgan Judicial Retention,,,NO,30
+Rich,5,Trevor L. Cook Judicial Retention,,,YES,186
+Rich,5,Trevor L. Cook Judicial Retention,,,NO,34
+Rich,5,Constitutional Amendment A,,,FOR,129
+Rich,5,Constitutional Amendment A,,,AGAINST,104
+Rich,5,Constitutional Amendment B,,,FOR,186
+Rich,5,Constitutional Amendment B,,,AGAINST,42
+Rich,5,Constitutional Amendment C,,,FOR,187
+Rich,5,Constitutional Amendment C,,,AGAINST,43
+Rich,5,Constitutional Amendment D,,,FOR,135
+Rich,5,Constitutional Amendment D,,,AGAINST,97
+Rich,5,Constitutional Amendment E,,,FOR,188
+Rich,5,Constitutional Amendment E,,,AGAINST,45
+Rich,5,Constitutional Amendment F,,,FOR,146
+Rich,5,Constitutional Amendment F,,,AGAINST,81
+Rich,5,Constitutional Amendment G,,,FOR,90
+Rich,5,Constitutional Amendment G,,,AGAINST,143
