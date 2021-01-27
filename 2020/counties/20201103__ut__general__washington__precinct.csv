@@ -1,7 +1,7 @@
-county,precinct,office,district,office,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Washington,AV51,Registered Voters,,,,527
 Washington,AV51,Ballots Cast,,,,465
-Washington,AV51,Ballots Cast - Blank,,,,0
+Washington,AV51,Ballots Cast Blank,,,,0
 Washington,AV51,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,AV51,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,AV51,President,,DEM,JOSEPH R. BIDEN,99
@@ -83,7 +83,7 @@ Washington,AV51,Constitutional Amendment G,,,FOR,217
 Washington,AV51,Constitutional Amendment G,,,AGAINST,220
 Washington,COCDSR,Registered Voters,,,,182
 Washington,COCDSR,Ballots Cast,,,,170
-Washington,COCDSR,Ballots Cast - Blank,,,,0
+Washington,COCDSR,Ballots Cast Blank,,,,0
 Washington,COCDSR,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COCDSR,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COCDSR,President,,DEM,JOSEPH R. BIDEN,29
@@ -165,7 +165,7 @@ Washington,COCDSR,Constitutional Amendment G,,,FOR,63
 Washington,COCDSR,Constitutional Amendment G,,,AGAINST,100
 Washington,COCNBR,Registered Voters,,,,285
 Washington,COCNBR,Ballots Cast,,,,256
-Washington,COCNBR,Ballots Cast - Blank,,,,0
+Washington,COCNBR,Ballots Cast Blank,,,,0
 Washington,COCNBR,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,COCNBR,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COCNBR,President,,DEM,JOSEPH R. BIDEN,23
@@ -254,7 +254,7 @@ Washington,COCNBR,Constitutional Amendment G,,,FOR,94
 Washington,COCNBR,Constitutional Amendment G,,,AGAINST,148
 Washington,CODAV,Registered Voters,,,,683
 Washington,CODAV,Ballots Cast,,,,644
-Washington,CODAV,Ballots Cast - Blank,,,,0
+Washington,CODAV,Ballots Cast Blank,,,,0
 Washington,CODAV,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,CODAV,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,CODAV,President,,DEM,JOSEPH R. BIDEN,169
@@ -343,7 +343,7 @@ Washington,CODAV,Constitutional Amendment G,,,FOR,262
 Washington,CODAV,Constitutional Amendment G,,,AGAINST,335
 Washington,CODIV,Registered Voters,,,,720
 Washington,CODIV,Ballots Cast,,,,647
-Washington,CODIV,Ballots Cast - Blank,,,,1
+Washington,CODIV,Ballots Cast Blank,,,,1
 Washington,CODIV,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,CODIV,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,CODIV,President,,DEM,JOSEPH R. BIDEN,68
@@ -432,7 +432,7 @@ Washington,CODIV,Constitutional Amendment G,,,FOR,254
 Washington,CODIV,Constitutional Amendment G,,,AGAINST,351
 Washington,CODXDR,Registered Voters,,,,414
 Washington,CODXDR,Ballots Cast,,,,368
-Washington,CODXDR,Ballots Cast - Blank,,,,0
+Washington,CODXDR,Ballots Cast Blank,,,,0
 Washington,CODXDR,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,CODXDR,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,CODXDR,President,,DEM,JOSEPH R. BIDEN,54
@@ -521,7 +521,7 @@ Washington,CODXDR,Constitutional Amendment G,,,FOR,165
 Washington,CODXDR,Constitutional Amendment G,,,AGAINST,170
 Washington,COGL,Registered Voters,,,,78
 Washington,COGL,Ballots Cast,,,,69
-Washington,COGL,Ballots Cast - Blank,,,,0
+Washington,COGL,Ballots Cast Blank,,,,0
 Washington,COGL,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COGL,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COGL,President,,DEM,JOSEPH R. BIDEN,13
@@ -610,7 +610,7 @@ Washington,COGL,Constitutional Amendment G,,,FOR,36
 Washington,COGL,Constitutional Amendment G,,,AGAINST,30
 Washington,COGUBL,Registered Voters,,,,7
 Washington,COGUBL,Ballots Cast,,,,7
-Washington,COGUBL,Ballots Cast - Blank,,,,0
+Washington,COGUBL,Ballots Cast Blank,,,,0
 Washington,COGUBL,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COGUBL,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COGUBL,President,,DEM,JOSEPH R. BIDEN,1
@@ -695,7 +695,7 @@ Washington,COGUBL,Constitutional Amendment G,,,FOR,6
 Washington,COGUBL,Constitutional Amendment G,,,AGAINST,1
 Washington,COHS74,Registered Voters,,,,40
 Washington,COHS74,Ballots Cast,,,,31
-Washington,COHS74,Ballots Cast - Blank,,,,0
+Washington,COHS74,Ballots Cast Blank,,,,0
 Washington,COHS74,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COHS74,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COHS74,President,,DEM,JOSEPH R. BIDEN,10
@@ -784,7 +784,7 @@ Washington,COHS74,Constitutional Amendment G,,,FOR,19
 Washington,COHS74,Constitutional Amendment G,,,AGAINST,11
 Washington,COHV28,Registered Voters,,,,29
 Washington,COHV28,Ballots Cast,,,,28
-Washington,COHV28,Ballots Cast - Blank,,,,0
+Washington,COHV28,Ballots Cast Blank,,,,0
 Washington,COHV28,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COHV28,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COHV28,President,,DEM,JOSEPH R. BIDEN,3
@@ -866,7 +866,7 @@ Washington,COHV28,Constitutional Amendment G,,,FOR,11
 Washington,COHV28,Constitutional Amendment G,,,AGAINST,15
 Washington,COHV29,Registered Voters,,,,8
 Washington,COHV29,Ballots Cast,,,,8
-Washington,COHV29,Ballots Cast - Blank,,,,0
+Washington,COHV29,Ballots Cast Blank,,,,0
 Washington,COHV29,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COHV29,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COHV29,President,,DEM,JOSEPH R. BIDEN,1
@@ -950,7 +950,7 @@ Washington,COHV29,Constitutional Amendment G,,,FOR,1
 Washington,COHV29,Constitutional Amendment G,,,AGAINST,7
 Washington,COLEED,Registered Voters,,,,223
 Washington,COLEED,Ballots Cast,,,,198
-Washington,COLEED,Ballots Cast - Blank,,,,0
+Washington,COLEED,Ballots Cast Blank,,,,0
 Washington,COLEED,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COLEED,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COLEED,President,,DEM,JOSEPH R. BIDEN,28
@@ -1032,7 +1032,7 @@ Washington,COLEED,Constitutional Amendment G,,,FOR,102
 Washington,COLEED,Constitutional Amendment G,,,AGAINST,80
 Washington,CONCF,Registered Voters,,,,133
 Washington,CONCF,Ballots Cast,,,,123
-Washington,CONCF,Ballots Cast - Blank,,,,0
+Washington,CONCF,Ballots Cast Blank,,,,0
 Washington,CONCF,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,CONCF,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,CONCF,President,,DEM,JOSEPH R. BIDEN,9
@@ -1121,7 +1121,7 @@ Washington,CONCF,Constitutional Amendment G,,,FOR,26
 Washington,CONCF,Constitutional Amendment G,,,AGAINST,93
 Washington,CONH,Registered Voters,,,,793
 Washington,CONH,Ballots Cast,,,,732
-Washington,CONH,Ballots Cast - Blank,,,,0
+Washington,CONH,Ballots Cast Blank,,,,0
 Washington,CONH,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,CONH,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,CONH,President,,DEM,JOSEPH R. BIDEN,96
@@ -1203,7 +1203,7 @@ Washington,CONH,Constitutional Amendment G,,,FOR,268
 Washington,CONH,Constitutional Amendment G,,,AGAINST,411
 Washington,COPINE,Registered Voters,,,,187
 Washington,COPINE,Ballots Cast,,,,186
-Washington,COPINE,Ballots Cast - Blank,,,,0
+Washington,COPINE,Ballots Cast Blank,,,,0
 Washington,COPINE,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COPINE,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,COPINE,President,,DEM,JOSEPH R. BIDEN,27
@@ -1292,7 +1292,7 @@ Washington,COPINE,Constitutional Amendment G,,,FOR,79
 Washington,COPINE,Constitutional Amendment G,,,AGAINST,90
 Washington,COPINE:02,Registered Voters,,,,0
 Washington,COPINE:02,Ballots Cast,,,,0
-Washington,COPINE:02,Ballots Cast - Blank,,,,0
+Washington,COPINE:02,Ballots Cast Blank,,,,0
 Washington,COPINE:02,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COPINE:02,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COPINE:02,President,,DEM,JOSEPH R. BIDEN,0
@@ -1381,7 +1381,7 @@ Washington,COPINE:02,Constitutional Amendment G,,,FOR,0
 Washington,COPINE:02,Constitutional Amendment G,,,AGAINST,0
 Washington,COSN28,Registered Voters,,,,36
 Washington,COSN28,Ballots Cast,,,,32
-Washington,COSN28,Ballots Cast - Blank,,,,0
+Washington,COSN28,Ballots Cast Blank,,,,0
 Washington,COSN28,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COSN28,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COSN28,President,,DEM,JOSEPH R. BIDEN,21
@@ -1463,7 +1463,7 @@ Washington,COSN28,Constitutional Amendment G,,,FOR,22
 Washington,COSN28,Constitutional Amendment G,,,AGAINST,7
 Washington,COVE,Registered Voters,,,,325
 Washington,COVE,Ballots Cast,,,,293
-Washington,COVE,Ballots Cast - Blank,,,,0
+Washington,COVE,Ballots Cast Blank,,,,0
 Washington,COVE,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,COVE,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,COVE,President,,DEM,JOSEPH R. BIDEN,33
@@ -1552,7 +1552,7 @@ Washington,COVE,Constitutional Amendment G,,,FOR,115
 Washington,COVE,Constitutional Amendment G,,,AGAINST,161
 Washington,COWH,Registered Voters,,,,732
 Washington,COWH,Ballots Cast,,,,657
-Washington,COWH,Ballots Cast - Blank,,,,0
+Washington,COWH,Ballots Cast Blank,,,,0
 Washington,COWH,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,COWH,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,COWH,President,,DEM,JOSEPH R. BIDEN,94
@@ -1641,7 +1641,7 @@ Washington,COWH,Constitutional Amendment G,,,FOR,294
 Washington,COWH,Constitutional Amendment G,,,AGAINST,313
 Washington,EN82,Registered Voters,,,,1073
 Washington,EN82,Ballots Cast,,,,962
-Washington,EN82,Ballots Cast - Blank,,,,0
+Washington,EN82,Ballots Cast Blank,,,,0
 Washington,EN82,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,EN82,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,EN82,President,,DEM,JOSEPH R. BIDEN,47
@@ -1730,7 +1730,7 @@ Washington,EN82,Constitutional Amendment G,,,FOR,310
 Washington,EN82,Constitutional Amendment G,,,AGAINST,615
 Washington,HIL97,Registered Voters,,,,416
 Washington,HIL97,Ballots Cast,,,,318
-Washington,HIL97,Ballots Cast - Blank,,,,0
+Washington,HIL97,Ballots Cast Blank,,,,0
 Washington,HIL97,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,HIL97,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,HIL97,President,,DEM,JOSEPH R. BIDEN,25
@@ -1812,7 +1812,7 @@ Washington,HIL97,Constitutional Amendment G,,,FOR,148
 Washington,HIL97,Constitutional Amendment G,,,AGAINST,146
 Washington,HU52,Registered Voters,,,,994
 Washington,HU52,Ballots Cast,,,,879
-Washington,HU52,Ballots Cast - Blank,,,,0
+Washington,HU52,Ballots Cast Blank,,,,0
 Washington,HU52,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,HU52,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,HU52,President,,DEM,JOSEPH R. BIDEN,166
@@ -1894,7 +1894,7 @@ Washington,HU52,Constitutional Amendment G,,,FOR,399
 Washington,HU52,Constitutional Amendment G,,,AGAINST,427
 Washington,HU53,Registered Voters,,,,1064
 Washington,HU53,Ballots Cast,,,,977
-Washington,HU53,Ballots Cast - Blank,,,,0
+Washington,HU53,Ballots Cast Blank,,,,0
 Washington,HU53,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,HU53,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,HU53,President,,DEM,JOSEPH R. BIDEN,181
@@ -1976,7 +1976,7 @@ Washington,HU53,Constitutional Amendment G,,,FOR,492
 Washington,HU53,Constitutional Amendment G,,,AGAINST,434
 Washington,HU54,Registered Voters,,,,1102
 Washington,HU54,Ballots Cast,,,,1015
-Washington,HU54,Ballots Cast - Blank,,,,1
+Washington,HU54,Ballots Cast Blank,,,,1
 Washington,HU54,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,HU54,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,HU54,President,,DEM,JOSEPH R. BIDEN,168
@@ -2058,7 +2058,7 @@ Washington,HU54,Constitutional Amendment G,,,FOR,446
 Washington,HU54,Constitutional Amendment G,,,AGAINST,502
 Washington,HU55,Registered Voters,,,,806
 Washington,HU55,Ballots Cast,,,,706
-Washington,HU55,Ballots Cast - Blank,,,,0
+Washington,HU55,Ballots Cast Blank,,,,0
 Washington,HU55,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,HU55,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,HU55,President,,DEM,JOSEPH R. BIDEN,110
@@ -2140,7 +2140,7 @@ Washington,HU55,Constitutional Amendment G,,,FOR,340
 Washington,HU55,Constitutional Amendment G,,,AGAINST,305
 Washington,HU56,Registered Voters,,,,1418
 Washington,HU56,Ballots Cast,,,,1311
-Washington,HU56,Ballots Cast - Blank,,,,0
+Washington,HU56,Ballots Cast Blank,,,,0
 Washington,HU56,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,HU56,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,HU56,President,,DEM,JOSEPH R. BIDEN,357
@@ -2222,7 +2222,7 @@ Washington,HU56,Constitutional Amendment G,,,FOR,633
 Washington,HU56,Constitutional Amendment G,,,AGAINST,571
 Washington,HU57,Registered Voters,,,,1147
 Washington,HU57,Ballots Cast,,,,997
-Washington,HU57,Ballots Cast - Blank,,,,0
+Washington,HU57,Ballots Cast Blank,,,,0
 Washington,HU57,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,HU57,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,HU57,President,,DEM,JOSEPH R. BIDEN,261
@@ -2306,7 +2306,7 @@ Washington,HU57,Constitutional Amendment G,,,FOR,514
 Washington,HU57,Constitutional Amendment G,,,AGAINST,407
 Washington,HU58,Registered Voters,,,,1154
 Washington,HU58,Ballots Cast,,,,1039
-Washington,HU58,Ballots Cast - Blank,,,,0
+Washington,HU58,Ballots Cast Blank,,,,0
 Washington,HU58,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,HU58,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,HU58,President,,DEM,JOSEPH R. BIDEN,143
@@ -2388,7 +2388,7 @@ Washington,HU58,Constitutional Amendment G,,,FOR,451
 Washington,HU58,Constitutional Amendment G,,,AGAINST,508
 Washington,HU59,Registered Voters,,,,1211
 Washington,HU59,Ballots Cast,,,,1104
-Washington,HU59,Ballots Cast - Blank,,,,0
+Washington,HU59,Ballots Cast Blank,,,,0
 Washington,HU59,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,HU59,President,,,"KANYE WEST, MICHELLE TIDBALL",7
 Washington,HU59,President,,DEM,JOSEPH R. BIDEN,256
@@ -2470,7 +2470,7 @@ Washington,HU59,Constitutional Amendment G,,,FOR,557
 Washington,HU59,Constitutional Amendment G,,,AGAINST,486
 Washington,HU60,Registered Voters,,,,952
 Washington,HU60,Ballots Cast,,,,884
-Washington,HU60,Ballots Cast - Blank,,,,0
+Washington,HU60,Ballots Cast Blank,,,,0
 Washington,HU60,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,HU60,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,HU60,President,,DEM,JOSEPH R. BIDEN,156
@@ -2554,7 +2554,7 @@ Washington,HU60,Constitutional Amendment G,,,FOR,369
 Washington,HU60,Constitutional Amendment G,,,AGAINST,456
 Washington,HU61,Registered Voters,,,,1128
 Washington,HU61,Ballots Cast,,,,1014
-Washington,HU61,Ballots Cast - Blank,,,,0
+Washington,HU61,Ballots Cast Blank,,,,0
 Washington,HU61,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,HU61,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,HU61,President,,DEM,JOSEPH R. BIDEN,157
@@ -2638,7 +2638,7 @@ Washington,HU61,Constitutional Amendment G,,,FOR,472
 Washington,HU61,Constitutional Amendment G,,,AGAINST,485
 Washington,IV76,Registered Voters,,,,865
 Washington,IV76,Ballots Cast,,,,790
-Washington,IV76,Ballots Cast - Blank,,,,0
+Washington,IV76,Ballots Cast Blank,,,,0
 Washington,IV76,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,IV76,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,IV76,President,,DEM,JOSEPH R. BIDEN,223
@@ -2727,7 +2727,7 @@ Washington,IV76,Constitutional Amendment G,,,FOR,370
 Washington,IV76,Constitutional Amendment G,,,AGAINST,362
 Washington,IV77,Registered Voters,,,,1478
 Washington,IV77,Ballots Cast,,,,1340
-Washington,IV77,Ballots Cast - Blank,,,,0
+Washington,IV77,Ballots Cast Blank,,,,0
 Washington,IV77,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,IV77,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,IV77,President,,DEM,JOSEPH R. BIDEN,398
@@ -2816,7 +2816,7 @@ Washington,IV77,Constitutional Amendment G,,,FOR,640
 Washington,IV77,Constitutional Amendment G,,,AGAINST,600
 Washington,IV78,Registered Voters,,,,1334
 Washington,IV78,Ballots Cast,,,,1286
-Washington,IV78,Ballots Cast - Blank,,,,0
+Washington,IV78,Ballots Cast Blank,,,,0
 Washington,IV78,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,IV78,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Washington,IV78,President,,DEM,JOSEPH R. BIDEN,594
@@ -2905,7 +2905,7 @@ Washington,IV78,Constitutional Amendment G,,,FOR,563
 Washington,IV78,Constitutional Amendment G,,,AGAINST,645
 Washington,IV79,Registered Voters,,,,1064
 Washington,IV79,Ballots Cast,,,,971
-Washington,IV79,Ballots Cast - Blank,,,,0
+Washington,IV79,Ballots Cast Blank,,,,0
 Washington,IV79,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,IV79,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,IV79,President,,DEM,JOSEPH R. BIDEN,266
@@ -2994,7 +2994,7 @@ Washington,IV79,Constitutional Amendment G,,,FOR,482
 Washington,IV79,Constitutional Amendment G,,,AGAINST,435
 Washington,IV80,Registered Voters,,,,1162
 Washington,IV80,Ballots Cast,,,,1095
-Washington,IV80,Ballots Cast - Blank,,,,0
+Washington,IV80,Ballots Cast Blank,,,,0
 Washington,IV80,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,IV80,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,IV80,President,,DEM,JOSEPH R. BIDEN,351
@@ -3083,7 +3083,7 @@ Washington,IV80,Constitutional Amendment G,,,FOR,530
 Washington,IV80,Constitutional Amendment G,,,AGAINST,497
 Washington,LA85,Registered Voters,,,,810
 Washington,LA85,Ballots Cast,,,,713
-Washington,LA85,Ballots Cast - Blank,,,,0
+Washington,LA85,Ballots Cast Blank,,,,0
 Washington,LA85,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,LA85,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,LA85,President,,DEM,JOSEPH R. BIDEN,145
@@ -3165,7 +3165,7 @@ Washington,LA85,Constitutional Amendment G,,,FOR,358
 Washington,LA85,Constitutional Amendment G,,,AGAINST,296
 Washington,LA86,Registered Voters,,,,719
 Washington,LA86,Ballots Cast,,,,601
-Washington,LA86,Ballots Cast - Blank,,,,0
+Washington,LA86,Ballots Cast Blank,,,,0
 Washington,LA86,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,LA86,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,LA86,President,,DEM,JOSEPH R. BIDEN,126
@@ -3247,7 +3247,7 @@ Washington,LA86,Constitutional Amendment G,,,FOR,275
 Washington,LA86,Constitutional Amendment G,,,AGAINST,283
 Washington,LA87,Registered Voters,,,,643
 Washington,LA87,Ballots Cast,,,,573
-Washington,LA87,Ballots Cast - Blank,,,,0
+Washington,LA87,Ballots Cast Blank,,,,0
 Washington,LA87,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,LA87,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,LA87,President,,DEM,JOSEPH R. BIDEN,84
@@ -3329,7 +3329,7 @@ Washington,LA87,Constitutional Amendment G,,,FOR,278
 Washington,LA87,Constitutional Amendment G,,,AGAINST,258
 Washington,LE90,Registered Voters,,,,621
 Washington,LE90,Ballots Cast,,,,591
-Washington,LE90,Ballots Cast - Blank,,,,0
+Washington,LE90,Ballots Cast Blank,,,,0
 Washington,LE90,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,LE90,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,LE90,President,,DEM,JOSEPH R. BIDEN,105
@@ -3411,7 +3411,7 @@ Washington,LE90,Constitutional Amendment G,,,FOR,226
 Washington,LE90,Constitutional Amendment G,,,AGAINST,328
 Washington,NH93,Registered Voters,,,,159
 Washington,NH93,Ballots Cast,,,,153
-Washington,NH93,Ballots Cast - Blank,,,,0
+Washington,NH93,Ballots Cast Blank,,,,0
 Washington,NH93,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,NH93,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,NH93,President,,DEM,JOSEPH R. BIDEN,16
@@ -3493,7 +3493,7 @@ Washington,NH93,Constitutional Amendment G,,,FOR,73
 Washington,NH93,Constitutional Amendment G,,,AGAINST,76
 Washington,RC94,Registered Voters,,,,172
 Washington,RC94,Ballots Cast,,,,162
-Washington,RC94,Ballots Cast - Blank,,,,0
+Washington,RC94,Ballots Cast Blank,,,,0
 Washington,RC94,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,RC94,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,RC94,President,,DEM,JOSEPH R. BIDEN,95
@@ -3575,7 +3575,7 @@ Washington,RC94,Constitutional Amendment G,,,FOR,59
 Washington,RC94,Constitutional Amendment G,,,AGAINST,89
 Washington,SC71,Registered Voters,,,,1411
 Washington,SC71,Ballots Cast,,,,1297
-Washington,SC71,Ballots Cast - Blank,,,,0
+Washington,SC71,Ballots Cast Blank,,,,0
 Washington,SC71,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SC71,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Washington,SC71,President,,DEM,JOSEPH R. BIDEN,181
@@ -3663,7 +3663,7 @@ Washington,SC71,Constitutional Amendment G,,,FOR,663
 Washington,SC71,Constitutional Amendment G,,,AGAINST,535
 Washington,SC72,Registered Voters,,,,781
 Washington,SC72,Ballots Cast,,,,701
-Washington,SC72,Ballots Cast - Blank,,,,1
+Washington,SC72,Ballots Cast Blank,,,,1
 Washington,SC72,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,SC72,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SC72,President,,DEM,JOSEPH R. BIDEN,137
@@ -3752,7 +3752,7 @@ Washington,SC72,Constitutional Amendment G,,,FOR,343
 Washington,SC72,Constitutional Amendment G,,,AGAINST,309
 Washington,SC73,Registered Voters,,,,1049
 Washington,SC73,Ballots Cast,,,,964
-Washington,SC73,Ballots Cast - Blank,,,,0
+Washington,SC73,Ballots Cast Blank,,,,0
 Washington,SC73,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SC73,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Washington,SC73,President,,DEM,JOSEPH R. BIDEN,193
@@ -3841,7 +3841,7 @@ Washington,SC73,Constitutional Amendment G,,,FOR,474
 Washington,SC73,Constitutional Amendment G,,,AGAINST,437
 Washington,SC74,Registered Voters,,,,1302
 Washington,SC74,Ballots Cast,,,,1195
-Washington,SC74,Ballots Cast - Blank,,,,0
+Washington,SC74,Ballots Cast Blank,,,,0
 Washington,SC74,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SC74,President,,,"KANYE WEST, MICHELLE TIDBALL",7
 Washington,SC74,President,,DEM,JOSEPH R. BIDEN,269
@@ -3930,7 +3930,7 @@ Washington,SC74,Constitutional Amendment G,,,FOR,606
 Washington,SC74,Constitutional Amendment G,,,AGAINST,495
 Washington,SG01,Registered Voters,,,,796
 Washington,SG01,Ballots Cast,,,,715
-Washington,SG01,Ballots Cast - Blank,,,,1
+Washington,SG01,Ballots Cast Blank,,,,1
 Washington,SG01,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG01,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG01,President,,DEM,JOSEPH R. BIDEN,203
@@ -4017,7 +4017,7 @@ Washington,SG01,Constitutional Amendment G,,,FOR,411
 Washington,SG01,Constitutional Amendment G,,,AGAINST,255
 Washington,SG02,Registered Voters,,,,810
 Washington,SG02,Ballots Cast,,,,749
-Washington,SG02,Ballots Cast - Blank,,,,0
+Washington,SG02,Ballots Cast Blank,,,,0
 Washington,SG02,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,SG02,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG02,President,,DEM,JOSEPH R. BIDEN,178
@@ -4106,7 +4106,7 @@ Washington,SG02,Constitutional Amendment G,,,FOR,370
 Washington,SG02,Constitutional Amendment G,,,AGAINST,325
 Washington,SG03,Registered Voters,,,,674
 Washington,SG03,Ballots Cast,,,,608
-Washington,SG03,Ballots Cast - Blank,,,,0
+Washington,SG03,Ballots Cast Blank,,,,0
 Washington,SG03,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG03,President,,,"KANYE WEST, MICHELLE TIDBALL",6
 Washington,SG03,President,,DEM,JOSEPH R. BIDEN,160
@@ -4195,7 +4195,7 @@ Washington,SG03,Constitutional Amendment G,,,FOR,291
 Washington,SG03,Constitutional Amendment G,,,AGAINST,271
 Washington,SG04,Registered Voters,,,,608
 Washington,SG04,Ballots Cast,,,,556
-Washington,SG04,Ballots Cast - Blank,,,,0
+Washington,SG04,Ballots Cast Blank,,,,0
 Washington,SG04,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Washington,SG04,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG04,President,,DEM,JOSEPH R. BIDEN,148
@@ -4284,7 +4284,7 @@ Washington,SG04,Constitutional Amendment G,,,FOR,309
 Washington,SG04,Constitutional Amendment G,,,AGAINST,203
 Washington,SG05,Registered Voters,,,,640
 Washington,SG05,Ballots Cast,,,,566
-Washington,SG05,Ballots Cast - Blank,,,,0
+Washington,SG05,Ballots Cast Blank,,,,0
 Washington,SG05,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG05,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG05,President,,DEM,JOSEPH R. BIDEN,125
@@ -4373,7 +4373,7 @@ Washington,SG05,Constitutional Amendment G,,,FOR,289
 Washington,SG05,Constitutional Amendment G,,,AGAINST,226
 Washington,SG06,Registered Voters,,,,748
 Washington,SG06,Ballots Cast,,,,670
-Washington,SG06,Ballots Cast - Blank,,,,0
+Washington,SG06,Ballots Cast Blank,,,,0
 Washington,SG06,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG06,President,,,"KANYE WEST, MICHELLE TIDBALL",6
 Washington,SG06,President,,DEM,JOSEPH R. BIDEN,197
@@ -4462,7 +4462,7 @@ Washington,SG06,Constitutional Amendment G,,,FOR,379
 Washington,SG06,Constitutional Amendment G,,,AGAINST,222
 Washington,SG07,Registered Voters,,,,836
 Washington,SG07,Ballots Cast,,,,709
-Washington,SG07,Ballots Cast - Blank,,,,0
+Washington,SG07,Ballots Cast Blank,,,,0
 Washington,SG07,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,SG07,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG07,President,,DEM,JOSEPH R. BIDEN,179
@@ -4551,7 +4551,7 @@ Washington,SG07,Constitutional Amendment G,,,FOR,407
 Washington,SG07,Constitutional Amendment G,,,AGAINST,237
 Washington,SG08,Registered Voters,,,,856
 Washington,SG08,Ballots Cast,,,,775
-Washington,SG08,Ballots Cast - Blank,,,,0
+Washington,SG08,Ballots Cast Blank,,,,0
 Washington,SG08,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG08,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG08,President,,DEM,JOSEPH R. BIDEN,210
@@ -4640,7 +4640,7 @@ Washington,SG08,Constitutional Amendment G,,,FOR,438
 Washington,SG08,Constitutional Amendment G,,,AGAINST,276
 Washington,SG09,Registered Voters,,,,1149
 Washington,SG09,Ballots Cast,,,,1031
-Washington,SG09,Ballots Cast - Blank,,,,1
+Washington,SG09,Ballots Cast Blank,,,,1
 Washington,SG09,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG09,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG09,President,,DEM,JOSEPH R. BIDEN,323
@@ -4725,7 +4725,7 @@ Washington,SG09,Constitutional Amendment G,,,FOR,562
 Washington,SG09,Constitutional Amendment G,,,AGAINST,396
 Washington,SG10,Registered Voters,,,,482
 Washington,SG10,Ballots Cast,,,,440
-Washington,SG10,Ballots Cast - Blank,,,,0
+Washington,SG10,Ballots Cast Blank,,,,0
 Washington,SG10,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG10,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG10,President,,DEM,JOSEPH R. BIDEN,98
@@ -4814,7 +4814,7 @@ Washington,SG10,Constitutional Amendment G,,,FOR,205
 Washington,SG10,Constitutional Amendment G,,,AGAINST,204
 Washington,SG11,Registered Voters,,,,1034
 Washington,SG11,Ballots Cast,,,,950
-Washington,SG11,Ballots Cast - Blank,,,,0
+Washington,SG11,Ballots Cast Blank,,,,0
 Washington,SG11,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG11,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG11,President,,DEM,JOSEPH R. BIDEN,249
@@ -4903,7 +4903,7 @@ Washington,SG11,Constitutional Amendment G,,,FOR,471
 Washington,SG11,Constitutional Amendment G,,,AGAINST,422
 Washington,SG12,Registered Voters,,,,974
 Washington,SG12,Ballots Cast,,,,864
-Washington,SG12,Ballots Cast - Blank,,,,0
+Washington,SG12,Ballots Cast Blank,,,,0
 Washington,SG12,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG12,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,SG12,President,,DEM,JOSEPH R. BIDEN,251
@@ -4988,7 +4988,7 @@ Washington,SG12,Constitutional Amendment G,,,FOR,432
 Washington,SG12,Constitutional Amendment G,,,AGAINST,363
 Washington,SG13,Registered Voters,,,,945
 Washington,SG13,Ballots Cast,,,,802
-Washington,SG13,Ballots Cast - Blank,,,,0
+Washington,SG13,Ballots Cast Blank,,,,0
 Washington,SG13,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,SG13,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG13,President,,DEM,JOSEPH R. BIDEN,287
@@ -5073,7 +5073,7 @@ Washington,SG13,Constitutional Amendment G,,,FOR,503
 Washington,SG13,Constitutional Amendment G,,,AGAINST,224
 Washington,SG14,Registered Voters,,,,657
 Washington,SG14,Ballots Cast,,,,623
-Washington,SG14,Ballots Cast - Blank,,,,0
+Washington,SG14,Ballots Cast Blank,,,,0
 Washington,SG14,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG14,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG14,President,,DEM,JOSEPH R. BIDEN,219
@@ -5158,7 +5158,7 @@ Washington,SG14,Constitutional Amendment G,,,FOR,297
 Washington,SG14,Constitutional Amendment G,,,AGAINST,273
 Washington,SG15,Registered Voters,,,,1001
 Washington,SG15,Ballots Cast,,,,885
-Washington,SG15,Ballots Cast - Blank,,,,1
+Washington,SG15,Ballots Cast Blank,,,,1
 Washington,SG15,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG15,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Washington,SG15,President,,DEM,JOSEPH R. BIDEN,203
@@ -5243,7 +5243,7 @@ Washington,SG15,Constitutional Amendment G,,,FOR,454
 Washington,SG15,Constitutional Amendment G,,,AGAINST,367
 Washington,SG16,Registered Voters,,,,864
 Washington,SG16,Ballots Cast,,,,806
-Washington,SG16,Ballots Cast - Blank,,,,0
+Washington,SG16,Ballots Cast Blank,,,,0
 Washington,SG16,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG16,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,SG16,President,,DEM,JOSEPH R. BIDEN,188
@@ -5328,7 +5328,7 @@ Washington,SG16,Constitutional Amendment G,,,FOR,424
 Washington,SG16,Constitutional Amendment G,,,AGAINST,314
 Washington,SG17,Registered Voters,,,,1287
 Washington,SG17,Ballots Cast,,,,1216
-Washington,SG17,Ballots Cast - Blank,,,,0
+Washington,SG17,Ballots Cast Blank,,,,0
 Washington,SG17,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG17,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG17,President,,DEM,JOSEPH R. BIDEN,271
@@ -5413,7 +5413,7 @@ Washington,SG17,Constitutional Amendment G,,,FOR,605
 Washington,SG17,Constitutional Amendment G,,,AGAINST,535
 Washington,SG18,Registered Voters,,,,1004
 Washington,SG18,Ballots Cast,,,,884
-Washington,SG18,Ballots Cast - Blank,,,,0
+Washington,SG18,Ballots Cast Blank,,,,0
 Washington,SG18,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG18,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG18,President,,DEM,JOSEPH R. BIDEN,214
@@ -5498,7 +5498,7 @@ Washington,SG18,Constitutional Amendment G,,,FOR,412
 Washington,SG18,Constitutional Amendment G,,,AGAINST,415
 Washington,SG19,Registered Voters,,,,1221
 Washington,SG19,Ballots Cast,,,,1098
-Washington,SG19,Ballots Cast - Blank,,,,0
+Washington,SG19,Ballots Cast Blank,,,,0
 Washington,SG19,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG19,President,,,"KANYE WEST, MICHELLE TIDBALL",7
 Washington,SG19,President,,DEM,JOSEPH R. BIDEN,254
@@ -5583,7 +5583,7 @@ Washington,SG19,Constitutional Amendment G,,,FOR,615
 Washington,SG19,Constitutional Amendment G,,,AGAINST,400
 Washington,SG20,Registered Voters,,,,1204
 Washington,SG20,Ballots Cast,,,,1101
-Washington,SG20,Ballots Cast - Blank,,,,0
+Washington,SG20,Ballots Cast Blank,,,,0
 Washington,SG20,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,SG20,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Washington,SG20,President,,DEM,JOSEPH R. BIDEN,308
@@ -5668,7 +5668,7 @@ Washington,SG20,Constitutional Amendment G,,,FOR,560
 Washington,SG20,Constitutional Amendment G,,,AGAINST,464
 Washington,SG21,Registered Voters,,,,1302
 Washington,SG21,Ballots Cast,,,,1212
-Washington,SG21,Ballots Cast - Blank,,,,0
+Washington,SG21,Ballots Cast Blank,,,,0
 Washington,SG21,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,SG21,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,SG21,President,,DEM,JOSEPH R. BIDEN,311
@@ -5753,7 +5753,7 @@ Washington,SG21,Constitutional Amendment G,,,FOR,644
 Washington,SG21,Constitutional Amendment G,,,AGAINST,490
 Washington,SG22,Registered Voters,,,,795
 Washington,SG22,Ballots Cast,,,,713
-Washington,SG22,Ballots Cast - Blank,,,,0
+Washington,SG22,Ballots Cast Blank,,,,0
 Washington,SG22,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG22,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,SG22,President,,DEM,JOSEPH R. BIDEN,172
@@ -5842,7 +5842,7 @@ Washington,SG22,Constitutional Amendment G,,,FOR,321
 Washington,SG22,Constitutional Amendment G,,,AGAINST,325
 Washington,SG23,Registered Voters,,,,1091
 Washington,SG23,Ballots Cast,,,,1029
-Washington,SG23,Ballots Cast - Blank,,,,0
+Washington,SG23,Ballots Cast Blank,,,,0
 Washington,SG23,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG23,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG23,President,,DEM,JOSEPH R. BIDEN,275
@@ -5931,7 +5931,7 @@ Washington,SG23,Constitutional Amendment G,,,FOR,481
 Washington,SG23,Constitutional Amendment G,,,AGAINST,467
 Washington,SG24,Registered Voters,,,,609
 Washington,SG24,Ballots Cast,,,,560
-Washington,SG24,Ballots Cast - Blank,,,,0
+Washington,SG24,Ballots Cast Blank,,,,0
 Washington,SG24,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG24,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Washington,SG24,President,,DEM,JOSEPH R. BIDEN,110
@@ -6020,7 +6020,7 @@ Washington,SG24,Constitutional Amendment G,,,FOR,282
 Washington,SG24,Constitutional Amendment G,,,AGAINST,246
 Washington,SG25,Registered Voters,,,,752
 Washington,SG25,Ballots Cast,,,,668
-Washington,SG25,Ballots Cast - Blank,,,,0
+Washington,SG25,Ballots Cast Blank,,,,0
 Washington,SG25,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG25,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,SG25,President,,DEM,JOSEPH R. BIDEN,151
@@ -6109,7 +6109,7 @@ Washington,SG25,Constitutional Amendment G,,,FOR,320
 Washington,SG25,Constitutional Amendment G,,,AGAINST,290
 Washington,SG26,Registered Voters,,,,864
 Washington,SG26,Ballots Cast,,,,786
-Washington,SG26,Ballots Cast - Blank,,,,0
+Washington,SG26,Ballots Cast Blank,,,,0
 Washington,SG26,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG26,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,SG26,President,,DEM,JOSEPH R. BIDEN,134
@@ -6198,7 +6198,7 @@ Washington,SG26,Constitutional Amendment G,,,FOR,338
 Washington,SG26,Constitutional Amendment G,,,AGAINST,390
 Washington,SG27,Registered Voters,,,,1210
 Washington,SG27,Ballots Cast,,,,1088
-Washington,SG27,Ballots Cast - Blank,,,,0
+Washington,SG27,Ballots Cast Blank,,,,0
 Washington,SG27,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG27,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,SG27,President,,DEM,JOSEPH R. BIDEN,252
@@ -6287,7 +6287,7 @@ Washington,SG27,Constitutional Amendment G,,,FOR,572
 Washington,SG27,Constitutional Amendment G,,,AGAINST,433
 Washington,SG28,Registered Voters,,,,1187
 Washington,SG28,Ballots Cast,,,,1067
-Washington,SG28,Ballots Cast - Blank,,,,1
+Washington,SG28,Ballots Cast Blank,,,,1
 Washington,SG28,President,,,"BROCK PIERCE, KARLA BALLARD",4
 Washington,SG28,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,SG28,President,,DEM,JOSEPH R. BIDEN,242
@@ -6376,7 +6376,7 @@ Washington,SG28,Constitutional Amendment G,,,FOR,503
 Washington,SG28,Constitutional Amendment G,,,AGAINST,490
 Washington,SG29,Registered Voters,,,,1035
 Washington,SG29,Ballots Cast,,,,954
-Washington,SG29,Ballots Cast - Blank,,,,0
+Washington,SG29,Ballots Cast Blank,,,,0
 Washington,SG29,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Washington,SG29,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Washington,SG29,President,,DEM,JOSEPH R. BIDEN,208
@@ -6465,7 +6465,7 @@ Washington,SG29,Constitutional Amendment G,,,FOR,449
 Washington,SG29,Constitutional Amendment G,,,AGAINST,441
 Washington,SG30,Registered Voters,,,,1245
 Washington,SG30,Ballots Cast,,,,1143
-Washington,SG30,Ballots Cast - Blank,,,,0
+Washington,SG30,Ballots Cast Blank,,,,0
 Washington,SG30,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG30,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,SG30,President,,DEM,JOSEPH R. BIDEN,262
@@ -6550,7 +6550,7 @@ Washington,SG30,Constitutional Amendment G,,,FOR,542
 Washington,SG30,Constitutional Amendment G,,,AGAINST,521
 Washington,SG31,Registered Voters,,,,950
 Washington,SG31,Ballots Cast,,,,881
-Washington,SG31,Ballots Cast - Blank,,,,0
+Washington,SG31,Ballots Cast Blank,,,,0
 Washington,SG31,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG31,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG31,President,,DEM,JOSEPH R. BIDEN,151
@@ -6637,7 +6637,7 @@ Washington,SG31,Constitutional Amendment G,,,FOR,406
 Washington,SG31,Constitutional Amendment G,,,AGAINST,419
 Washington,SG32,Registered Voters,,,,1014
 Washington,SG32,Ballots Cast,,,,942
-Washington,SG32,Ballots Cast - Blank,,,,0
+Washington,SG32,Ballots Cast Blank,,,,0
 Washington,SG32,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG32,President,,,"KANYE WEST, MICHELLE TIDBALL",8
 Washington,SG32,President,,DEM,JOSEPH R. BIDEN,163
@@ -6722,7 +6722,7 @@ Washington,SG32,Constitutional Amendment G,,,FOR,507
 Washington,SG32,Constitutional Amendment G,,,AGAINST,374
 Washington,SG33,Registered Voters,,,,649
 Washington,SG33,Ballots Cast,,,,605
-Washington,SG33,Ballots Cast - Blank,,,,0
+Washington,SG33,Ballots Cast Blank,,,,0
 Washington,SG33,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG33,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG33,President,,DEM,JOSEPH R. BIDEN,102
@@ -6807,7 +6807,7 @@ Washington,SG33,Constitutional Amendment G,,,FOR,321
 Washington,SG33,Constitutional Amendment G,,,AGAINST,260
 Washington,SG34,Registered Voters,,,,1428
 Washington,SG34,Ballots Cast,,,,1315
-Washington,SG34,Ballots Cast - Blank,,,,0
+Washington,SG34,Ballots Cast Blank,,,,0
 Washington,SG34,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Washington,SG34,President,,,"KANYE WEST, MICHELLE TIDBALL",6
 Washington,SG34,President,,DEM,JOSEPH R. BIDEN,313
@@ -6894,7 +6894,7 @@ Washington,SG34,Constitutional Amendment G,,,FOR,675
 Washington,SG34,Constitutional Amendment G,,,AGAINST,533
 Washington,SG35,Registered Voters,,,,1187
 Washington,SG35,Ballots Cast,,,,1100
-Washington,SG35,Ballots Cast - Blank,,,,0
+Washington,SG35,Ballots Cast Blank,,,,0
 Washington,SG35,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG35,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG35,President,,DEM,JOSEPH R. BIDEN,314
@@ -6981,7 +6981,7 @@ Washington,SG35,Constitutional Amendment G,,,FOR,580
 Washington,SG35,Constitutional Amendment G,,,AGAINST,413
 Washington,SG36,Registered Voters,,,,1024
 Washington,SG36,Ballots Cast,,,,944
-Washington,SG36,Ballots Cast - Blank,,,,2
+Washington,SG36,Ballots Cast Blank,,,,2
 Washington,SG36,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG36,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,SG36,President,,DEM,JOSEPH R. BIDEN,250
@@ -7068,7 +7068,7 @@ Washington,SG36,Constitutional Amendment G,,,FOR,491
 Washington,SG36,Constitutional Amendment G,,,AGAINST,390
 Washington,SG37,Registered Voters,,,,1003
 Washington,SG37,Ballots Cast,,,,874
-Washington,SG37,Ballots Cast - Blank,,,,0
+Washington,SG37,Ballots Cast Blank,,,,0
 Washington,SG37,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG37,President,,,"KANYE WEST, MICHELLE TIDBALL",10
 Washington,SG37,President,,DEM,JOSEPH R. BIDEN,229
@@ -7155,7 +7155,7 @@ Washington,SG37,Constitutional Amendment G,,,FOR,427
 Washington,SG37,Constitutional Amendment G,,,AGAINST,384
 Washington,SG38,Registered Voters,,,,1144
 Washington,SG38,Ballots Cast,,,,982
-Washington,SG38,Ballots Cast - Blank,,,,0
+Washington,SG38,Ballots Cast Blank,,,,0
 Washington,SG38,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG38,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG38,President,,DEM,JOSEPH R. BIDEN,279
@@ -7242,7 +7242,7 @@ Washington,SG38,Constitutional Amendment G,,,FOR,542
 Washington,SG38,Constitutional Amendment G,,,AGAINST,364
 Washington,SG39,Registered Voters,,,,949
 Washington,SG39,Ballots Cast,,,,908
-Washington,SG39,Ballots Cast - Blank,,,,0
+Washington,SG39,Ballots Cast Blank,,,,0
 Washington,SG39,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG39,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,SG39,President,,DEM,JOSEPH R. BIDEN,311
@@ -7331,7 +7331,7 @@ Washington,SG39,Constitutional Amendment G,,,FOR,469
 Washington,SG39,Constitutional Amendment G,,,AGAINST,366
 Washington,SG40,Registered Voters,,,,949
 Washington,SG40,Ballots Cast,,,,858
-Washington,SG40,Ballots Cast - Blank,,,,0
+Washington,SG40,Ballots Cast Blank,,,,0
 Washington,SG40,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG40,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG40,President,,DEM,JOSEPH R. BIDEN,123
@@ -7424,7 +7424,7 @@ Washington,SG40,Constitutional Amendment G,,,FOR,398
 Washington,SG40,Constitutional Amendment G,,,AGAINST,392
 Washington,SG41,Registered Voters,,,,719
 Washington,SG41,Ballots Cast,,,,695
-Washington,SG41,Ballots Cast - Blank,,,,1
+Washington,SG41,Ballots Cast Blank,,,,1
 Washington,SG41,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG41,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,SG41,President,,DEM,JOSEPH R. BIDEN,232
@@ -7513,7 +7513,7 @@ Washington,SG41,Constitutional Amendment G,,,FOR,323
 Washington,SG41,Constitutional Amendment G,,,AGAINST,317
 Washington,SG42,Registered Voters,,,,1107
 Washington,SG42,Ballots Cast,,,,1064
-Washington,SG42,Ballots Cast - Blank,,,,0
+Washington,SG42,Ballots Cast Blank,,,,0
 Washington,SG42,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG42,President,,,"KANYE WEST, MICHELLE TIDBALL",6
 Washington,SG42,President,,DEM,JOSEPH R. BIDEN,181
@@ -7606,7 +7606,7 @@ Washington,SG42,Constitutional Amendment G,,,FOR,515
 Washington,SG42,Constitutional Amendment G,,,AGAINST,453
 Washington,SG43,Registered Voters,,,,1063
 Washington,SG43,Ballots Cast,,,,986
-Washington,SG43,Ballots Cast - Blank,,,,0
+Washington,SG43,Ballots Cast Blank,,,,0
 Washington,SG43,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG43,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG43,President,,DEM,JOSEPH R. BIDEN,159
@@ -7699,7 +7699,7 @@ Washington,SG43,Constitutional Amendment G,,,FOR,436
 Washington,SG43,Constitutional Amendment G,,,AGAINST,469
 Washington,SG44,Registered Voters,,,,1898
 Washington,SG44,Ballots Cast,,,,1775
-Washington,SG44,Ballots Cast - Blank,,,,0
+Washington,SG44,Ballots Cast Blank,,,,0
 Washington,SG44,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,SG44,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG44,President,,DEM,JOSEPH R. BIDEN,253
@@ -7786,7 +7786,7 @@ Washington,SG44,Constitutional Amendment G,,,FOR,776
 Washington,SG44,Constitutional Amendment G,,,AGAINST,854
 Washington,SG45,Registered Voters,,,,1299
 Washington,SG45,Ballots Cast,,,,1219
-Washington,SG45,Ballots Cast - Blank,,,,0
+Washington,SG45,Ballots Cast Blank,,,,0
 Washington,SG45,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG45,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,SG45,President,,DEM,JOSEPH R. BIDEN,179
@@ -7879,7 +7879,7 @@ Washington,SG45,Constitutional Amendment G,,,FOR,573
 Washington,SG45,Constitutional Amendment G,,,AGAINST,538
 Washington,SG46,Registered Voters,,,,927
 Washington,SG46,Ballots Cast,,,,902
-Washington,SG46,Ballots Cast - Blank,,,,0
+Washington,SG46,Ballots Cast Blank,,,,0
 Washington,SG46,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG46,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,SG46,President,,DEM,JOSEPH R. BIDEN,307
@@ -7968,7 +7968,7 @@ Washington,SG46,Constitutional Amendment G,,,FOR,424
 Washington,SG46,Constitutional Amendment G,,,AGAINST,420
 Washington,SG47,Registered Voters,,,,1049
 Washington,SG47,Ballots Cast,,,,1010
-Washington,SG47,Ballots Cast - Blank,,,,0
+Washington,SG47,Ballots Cast Blank,,,,0
 Washington,SG47,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,SG47,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG47,President,,DEM,JOSEPH R. BIDEN,304
@@ -8053,7 +8053,7 @@ Washington,SG47,Constitutional Amendment G,,,FOR,485
 Washington,SG47,Constitutional Amendment G,,,AGAINST,467
 Washington,SG48,Registered Voters,,,,772
 Washington,SG48,Ballots Cast,,,,725
-Washington,SG48,Ballots Cast - Blank,,,,0
+Washington,SG48,Ballots Cast Blank,,,,0
 Washington,SG48,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG48,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SG48,President,,DEM,JOSEPH R. BIDEN,164
@@ -8142,7 +8142,7 @@ Washington,SG48,Constitutional Amendment G,,,FOR,360
 Washington,SG48,Constitutional Amendment G,,,AGAINST,315
 Washington,SG49,Registered Voters,,,,1330
 Washington,SG49,Ballots Cast,,,,1223
-Washington,SG49,Ballots Cast - Blank,,,,0
+Washington,SG49,Ballots Cast Blank,,,,0
 Washington,SG49,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SG49,President,,,"KANYE WEST, MICHELLE TIDBALL",7
 Washington,SG49,President,,DEM,JOSEPH R. BIDEN,153
@@ -8234,7 +8234,7 @@ Washington,SG49,Constitutional Amendment G,,,FOR,593
 Washington,SG49,Constitutional Amendment G,,,AGAINST,549
 Washington,SG50,Registered Voters,,,,1396
 Washington,SG50,Ballots Cast,,,,1278
-Washington,SG50,Ballots Cast - Blank,,,,0
+Washington,SG50,Ballots Cast Blank,,,,0
 Washington,SG50,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,SG50,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Washington,SG50,President,,DEM,JOSEPH R. BIDEN,191
@@ -8326,7 +8326,7 @@ Washington,SG50,Constitutional Amendment G,,,FOR,550
 Washington,SG50,Constitutional Amendment G,,,AGAINST,618
 Washington,SG51,Registered Voters,,,,1027
 Washington,SG51,Ballots Cast,,,,986
-Washington,SG51,Ballots Cast - Blank,,,,1
+Washington,SG51,Ballots Cast Blank,,,,1
 Washington,SG51,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,SG51,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,SG51,President,,DEM,JOSEPH R. BIDEN,273
@@ -8415,7 +8415,7 @@ Washington,SG51,Constitutional Amendment G,,,FOR,442
 Washington,SG51,Constitutional Amendment G,,,AGAINST,482
 Washington,SP95,Registered Voters,,,,408
 Washington,SP95,Ballots Cast,,,,371
-Washington,SP95,Ballots Cast - Blank,,,,0
+Washington,SP95,Ballots Cast Blank,,,,0
 Washington,SP95,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,SP95,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,SP95,President,,DEM,JOSEPH R. BIDEN,235
@@ -8497,7 +8497,7 @@ Washington,SP95,Constitutional Amendment G,,,FOR,180
 Washington,SP95,Constitutional Amendment G,,,AGAINST,161
 Washington,TQ96,Registered Voters,,,,1153
 Washington,TQ96,Ballots Cast,,,,1075
-Washington,TQ96,Ballots Cast - Blank,,,,0
+Washington,TQ96,Ballots Cast Blank,,,,0
 Washington,TQ96,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,TQ96,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,TQ96,President,,DEM,JOSEPH R. BIDEN,212
@@ -8579,7 +8579,7 @@ Washington,TQ96,Constitutional Amendment G,,,FOR,450
 Washington,TQ96,Constitutional Amendment G,,,AGAINST,557
 Washington,VI89,Registered Voters,,,,484
 Washington,VI89,Ballots Cast,,,,433
-Washington,VI89,Ballots Cast - Blank,,,,0
+Washington,VI89,Ballots Cast Blank,,,,0
 Washington,VI89,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,VI89,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,VI89,President,,DEM,JOSEPH R. BIDEN,164
@@ -8661,7 +8661,7 @@ Washington,VI89,Constitutional Amendment G,,,FOR,196
 Washington,VI89,Constitutional Amendment G,,,AGAINST,204
 Washington,WA60,Registered Voters,,,,939
 Washington,WA60,Ballots Cast,,,,910
-Washington,WA60,Ballots Cast - Blank,,,,0
+Washington,WA60,Ballots Cast Blank,,,,0
 Washington,WA60,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,WA60,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,WA60,President,,DEM,JOSEPH R. BIDEN,176
@@ -8747,7 +8747,7 @@ Washington,WA60,Constitutional Amendment G,,,FOR,467
 Washington,WA60,Constitutional Amendment G,,,AGAINST,366
 Washington,WA61,Registered Voters,,,,1081
 Washington,WA61,Ballots Cast,,,,928
-Washington,WA61,Ballots Cast - Blank,,,,0
+Washington,WA61,Ballots Cast Blank,,,,0
 Washington,WA61,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,WA61,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Washington,WA61,President,,DEM,JOSEPH R. BIDEN,245
@@ -8833,7 +8833,7 @@ Washington,WA61,Constitutional Amendment G,,,FOR,505
 Washington,WA61,Constitutional Amendment G,,,AGAINST,365
 Washington,WA62,Registered Voters,,,,1019
 Washington,WA62,Ballots Cast,,,,889
-Washington,WA62,Ballots Cast - Blank,,,,0
+Washington,WA62,Ballots Cast Blank,,,,0
 Washington,WA62,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,WA62,President,,,"KANYE WEST, MICHELLE TIDBALL",8
 Washington,WA62,President,,DEM,JOSEPH R. BIDEN,190
@@ -8919,7 +8919,7 @@ Washington,WA62,Constitutional Amendment G,,,FOR,438
 Washington,WA62,Constitutional Amendment G,,,AGAINST,388
 Washington,WA63,Registered Voters,,,,986
 Washington,WA63,Ballots Cast,,,,860
-Washington,WA63,Ballots Cast - Blank,,,,0
+Washington,WA63,Ballots Cast Blank,,,,0
 Washington,WA63,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Washington,WA63,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,WA63,President,,DEM,JOSEPH R. BIDEN,176
@@ -9005,7 +9005,7 @@ Washington,WA63,Constitutional Amendment G,,,FOR,412
 Washington,WA63,Constitutional Amendment G,,,AGAINST,390
 Washington,WA64,Registered Voters,,,,1182
 Washington,WA64,Ballots Cast,,,,1045
-Washington,WA64,Ballots Cast - Blank,,,,0
+Washington,WA64,Ballots Cast Blank,,,,0
 Washington,WA64,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,WA64,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,WA64,President,,DEM,JOSEPH R. BIDEN,247
@@ -9091,7 +9091,7 @@ Washington,WA64,Constitutional Amendment G,,,FOR,501
 Washington,WA64,Constitutional Amendment G,,,AGAINST,462
 Washington,WA65,Registered Voters,,,,885
 Washington,WA65,Ballots Cast,,,,808
-Washington,WA65,Ballots Cast - Blank,,,,1
+Washington,WA65,Ballots Cast Blank,,,,1
 Washington,WA65,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,WA65,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,WA65,President,,DEM,JOSEPH R. BIDEN,124
@@ -9177,7 +9177,7 @@ Washington,WA65,Constitutional Amendment G,,,FOR,353
 Washington,WA65,Constitutional Amendment G,,,AGAINST,405
 Washington,WA66,Registered Voters,,,,1229
 Washington,WA66,Ballots Cast,,,,1126
-Washington,WA66,Ballots Cast - Blank,,,,1
+Washington,WA66,Ballots Cast Blank,,,,1
 Washington,WA66,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,WA66,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Washington,WA66,President,,DEM,JOSEPH R. BIDEN,288
@@ -9263,7 +9263,7 @@ Washington,WA66,Constitutional Amendment G,,,FOR,531
 Washington,WA66,Constitutional Amendment G,,,AGAINST,504
 Washington,WA67,Registered Voters,,,,1343
 Washington,WA67,Ballots Cast,,,,1213
-Washington,WA67,Ballots Cast - Blank,,,,0
+Washington,WA67,Ballots Cast Blank,,,,0
 Washington,WA67,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Washington,WA67,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Washington,WA67,President,,DEM,JOSEPH R. BIDEN,181
@@ -9349,7 +9349,7 @@ Washington,WA67,Constitutional Amendment G,,,FOR,557
 Washington,WA67,Constitutional Amendment G,,,AGAINST,585
 Washington,WA68,Registered Voters,,,,1513
 Washington,WA68,Ballots Cast,,,,1420
-Washington,WA68,Ballots Cast - Blank,,,,0
+Washington,WA68,Ballots Cast Blank,,,,0
 Washington,WA68,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,WA68,President,,,"KANYE WEST, MICHELLE TIDBALL",7
 Washington,WA68,President,,DEM,JOSEPH R. BIDEN,164
@@ -9434,7 +9434,7 @@ Washington,WA68,Constitutional Amendment G,,,FOR,594
 Washington,WA68,Constitutional Amendment G,,,AGAINST,706
 Washington,WA69,Registered Voters,,,,1272
 Washington,WA69,Ballots Cast,,,,1213
-Washington,WA69,Ballots Cast - Blank,,,,0
+Washington,WA69,Ballots Cast Blank,,,,0
 Washington,WA69,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,WA69,President,,,"KANYE WEST, MICHELLE TIDBALL",6
 Washington,WA69,President,,DEM,JOSEPH R. BIDEN,204
@@ -9516,7 +9516,7 @@ Washington,WA69,Constitutional Amendment G,,,FOR,567
 Washington,WA69,Constitutional Amendment G,,,AGAINST,553
 Washington,WA70,Registered Voters,,,,978
 Washington,WA70,Ballots Cast,,,,877
-Washington,WA70,Ballots Cast - Blank,,,,0
+Washington,WA70,Ballots Cast Blank,,,,0
 Washington,WA70,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,WA70,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,WA70,President,,DEM,JOSEPH R. BIDEN,129
@@ -9602,7 +9602,7 @@ Washington,WA70,Constitutional Amendment G,,,FOR,406
 Washington,WA70,Constitutional Amendment G,,,AGAINST,412
 Washington,WA71,Registered Voters,,,,1694
 Washington,WA71,Ballots Cast,,,,1618
-Washington,WA71,Ballots Cast - Blank,,,,1
+Washington,WA71,Ballots Cast Blank,,,,1
 Washington,WA71,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Washington,WA71,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Washington,WA71,President,,DEM,JOSEPH R. BIDEN,394
@@ -9687,7 +9687,7 @@ Washington,WA71,Constitutional Amendment G,,,FOR,751
 Washington,WA71,Constitutional Amendment G,,,AGAINST,760
 Washington,WA72,Registered Voters,,,,799
 Washington,WA72,Ballots Cast,,,,757
-Washington,WA72,Ballots Cast - Blank,,,,0
+Washington,WA72,Ballots Cast Blank,,,,0
 Washington,WA72,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Washington,WA72,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Washington,WA72,President,,DEM,JOSEPH R. BIDEN,129
@@ -9773,7 +9773,7 @@ Washington,WA72,Constitutional Amendment G,,,FOR,355
 Washington,WA72,Constitutional Amendment G,,,AGAINST,345
 Washington,WA73,Registered Voters,,,,1031
 Washington,WA73,Ballots Cast,,,,959
-Washington,WA73,Ballots Cast - Blank,,,,0
+Washington,WA73,Ballots Cast Blank,,,,0
 Washington,WA73,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Washington,WA73,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Washington,WA73,President,,DEM,JOSEPH R. BIDEN,271

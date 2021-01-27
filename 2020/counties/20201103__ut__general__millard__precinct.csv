@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
 Millard,Abraham 14,Registered Voters,,,,97
 Millard,Abraham 14,Ballots Cast,,,,83
-Millard,Abraham 14,Ballots Cast - Blank,,,,0
+Millard,Abraham 14,Ballots Cast Blank,,,,0
 Millard,Abraham 14,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Abraham 14,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Millard,Abraham 14,President,,DEM,JOSEPH R. BIDEN,5
@@ -91,7 +91,7 @@ Millard,Abraham 14,Constitutional Amendment G,,,FOR,31
 Millard,Abraham 14,Constitutional Amendment G,,,AGAINST,50
 Millard,Delta 17,Registered Voters,,,,910
 Millard,Delta 17,Ballots Cast,,,,844
-Millard,Delta 17,Ballots Cast - Blank,,,,0
+Millard,Delta 17,Ballots Cast Blank,,,,0
 Millard,Delta 17,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Millard,Delta 17,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Millard,Delta 17,President,,DEM,JOSEPH R. BIDEN,76
@@ -179,7 +179,7 @@ Millard,Delta 17,Constitutional Amendment G,,,FOR,414
 Millard,Delta 17,Constitutional Amendment G,,,AGAINST,388
 Millard,Delta 18,Registered Voters,,,,1058
 Millard,Delta 18,Ballots Cast,,,,956
-Millard,Delta 18,Ballots Cast - Blank,,,,0
+Millard,Delta 18,Ballots Cast Blank,,,,0
 Millard,Delta 18,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Millard,Delta 18,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Millard,Delta 18,President,,DEM,JOSEPH R. BIDEN,93
@@ -267,7 +267,7 @@ Millard,Delta 18,Constitutional Amendment G,,,FOR,443
 Millard,Delta 18,Constitutional Amendment G,,,AGAINST,463
 Millard,Deseret-Oasis,Registered Voters,,,,390
 Millard,Deseret-Oasis,Ballots Cast,,,,358
-Millard,Deseret-Oasis,Ballots Cast - Blank,,,,0
+Millard,Deseret-Oasis,Ballots Cast Blank,,,,0
 Millard,Deseret-Oasis,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Deseret-Oasis,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Millard,Deseret-Oasis,President,,DEM,JOSEPH R. BIDEN,30
@@ -355,7 +355,7 @@ Millard,Deseret-Oasis,Constitutional Amendment G,,,FOR,158
 Millard,Deseret-Oasis,Constitutional Amendment G,,,AGAINST,181
 Millard,Fillmore 1,Registered Voters,,,,794
 Millard,Fillmore 1,Ballots Cast,,,,722
-Millard,Fillmore 1,Ballots Cast - Blank,,,,0
+Millard,Fillmore 1,Ballots Cast Blank,,,,0
 Millard,Fillmore 1,President,,,"BROCK PIERCE, KARLA BALLARD",5
 Millard,Fillmore 1,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Millard,Fillmore 1,President,,DEM,JOSEPH R. BIDEN,91
@@ -444,7 +444,7 @@ Millard,Fillmore 1,Constitutional Amendment G,,,FOR,320
 Millard,Fillmore 1,Constitutional Amendment G,,,AGAINST,346
 Millard,Fillmore 2,Registered Voters,,,,521
 Millard,Fillmore 2,Ballots Cast,,,,475
-Millard,Fillmore 2,Ballots Cast - Blank,,,,0
+Millard,Fillmore 2,Ballots Cast Blank,,,,0
 Millard,Fillmore 2,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Millard,Fillmore 2,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Millard,Fillmore 2,President,,DEM,JOSEPH R. BIDEN,67
@@ -533,7 +533,7 @@ Millard,Fillmore 2,Constitutional Amendment G,,,FOR,249
 Millard,Fillmore 2,Constitutional Amendment G,,,AGAINST,201
 Millard,Flowell 25,Registered Voters,,,,156
 Millard,Flowell 25,Ballots Cast,,,,138
-Millard,Flowell 25,Ballots Cast - Blank,,,,0
+Millard,Flowell 25,Ballots Cast Blank,,,,0
 Millard,Flowell 25,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Flowell 25,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Millard,Flowell 25,President,,DEM,JOSEPH R. BIDEN,10
@@ -622,7 +622,7 @@ Millard,Flowell 25,Constitutional Amendment G,,,FOR,62
 Millard,Flowell 25,Constitutional Amendment G,,,AGAINST,65
 Millard,Garrison 16,Registered Voters,,,,81
 Millard,Garrison 16,Ballots Cast,,,,69
-Millard,Garrison 16,Ballots Cast - Blank,,,,0
+Millard,Garrison 16,Ballots Cast Blank,,,,0
 Millard,Garrison 16,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Garrison 16,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Millard,Garrison 16,President,,DEM,JOSEPH R. BIDEN,7
@@ -712,7 +712,7 @@ Millard,Garrison 16,Constitutional Amendment G,,,FOR,36
 Millard,Garrison 16,Constitutional Amendment G,,,AGAINST,31
 Millard,Hinckley 11,Registered Voters,,,,363
 Millard,Hinckley 11,Ballots Cast,,,,327
-Millard,Hinckley 11,Ballots Cast - Blank,,,,0
+Millard,Hinckley 11,Ballots Cast Blank,,,,0
 Millard,Hinckley 11,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Millard,Hinckley 11,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Millard,Hinckley 11,President,,DEM,JOSEPH R. BIDEN,26
@@ -800,7 +800,7 @@ Millard,Hinckley 11,Constitutional Amendment G,,,FOR,138
 Millard,Hinckley 11,Constitutional Amendment G,,,AGAINST,172
 Millard,Holden 8,Registered Voters,,,,361
 Millard,Holden 8,Ballots Cast,,,,329
-Millard,Holden 8,Ballots Cast - Blank,,,,0
+Millard,Holden 8,Ballots Cast Blank,,,,0
 Millard,Holden 8,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Millard,Holden 8,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Millard,Holden 8,President,,DEM,JOSEPH R. BIDEN,22
@@ -889,7 +889,7 @@ Millard,Holden 8,Constitutional Amendment G,,,FOR,146
 Millard,Holden 8,Constitutional Amendment G,,,AGAINST,173
 Millard,Kanosh 4,Registered Voters,,,,439
 Millard,Kanosh 4,Ballots Cast,,,,397
-Millard,Kanosh 4,Ballots Cast - Blank,,,,0
+Millard,Kanosh 4,Ballots Cast Blank,,,,0
 Millard,Kanosh 4,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Kanosh 4,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Millard,Kanosh 4,President,,DEM,JOSEPH R. BIDEN,50
@@ -978,7 +978,7 @@ Millard,Kanosh 4,Constitutional Amendment G,,,FOR,138
 Millard,Kanosh 4,Constitutional Amendment G,,,AGAINST,235
 Millard,Leamington 7,Registered Voters,,,,173
 Millard,Leamington 7,Ballots Cast,,,,155
-Millard,Leamington 7,Ballots Cast - Blank,,,,0
+Millard,Leamington 7,Ballots Cast Blank,,,,0
 Millard,Leamington 7,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Leamington 7,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Millard,Leamington 7,President,,DEM,JOSEPH R. BIDEN,20
@@ -1068,7 +1068,7 @@ Millard,Leamington 7,Constitutional Amendment G,,,FOR,64
 Millard,Leamington 7,Constitutional Amendment G,,,AGAINST,80
 Millard,Lynndyl 19,Registered Voters,,,,83
 Millard,Lynndyl 19,Ballots Cast,,,,76
-Millard,Lynndyl 19,Ballots Cast - Blank,,,,0
+Millard,Lynndyl 19,Ballots Cast Blank,,,,0
 Millard,Lynndyl 19,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Lynndyl 19,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Millard,Lynndyl 19,President,,DEM,JOSEPH R. BIDEN,14
@@ -1158,7 +1158,7 @@ Millard,Lynndyl 19,Constitutional Amendment G,,,FOR,44
 Millard,Lynndyl 19,Constitutional Amendment G,,,AGAINST,30
 Millard,Meadow 3,Registered Voters,,,,245
 Millard,Meadow 3,Ballots Cast,,,,223
-Millard,Meadow 3,Ballots Cast - Blank,,,,0
+Millard,Meadow 3,Ballots Cast Blank,,,,0
 Millard,Meadow 3,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Meadow 3,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Millard,Meadow 3,President,,DEM,JOSEPH R. BIDEN,19
@@ -1247,7 +1247,7 @@ Millard,Meadow 3,Constitutional Amendment G,,,FOR,94
 Millard,Meadow 3,Constitutional Amendment G,,,AGAINST,119
 Millard,Oak City 6,Registered Voters,,,,503
 Millard,Oak City 6,Ballots Cast,,,,453
-Millard,Oak City 6,Ballots Cast - Blank,,,,0
+Millard,Oak City 6,Ballots Cast Blank,,,,0
 Millard,Oak City 6,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Oak City 6,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Millard,Oak City 6,President,,DEM,JOSEPH R. BIDEN,37
@@ -1337,7 +1337,7 @@ Millard,Oak City 6,Constitutional Amendment G,,,FOR,174
 Millard,Oak City 6,Constitutional Amendment G,,,AGAINST,253
 Millard,Scipio 9,Registered Voters,,,,254
 Millard,Scipio 9,Ballots Cast,,,,233
-Millard,Scipio 9,Ballots Cast - Blank,,,,0
+Millard,Scipio 9,Ballots Cast Blank,,,,0
 Millard,Scipio 9,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Scipio 9,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Millard,Scipio 9,President,,DEM,JOSEPH R. BIDEN,37
@@ -1426,7 +1426,7 @@ Millard,Scipio 9,Constitutional Amendment G,,,FOR,125
 Millard,Scipio 9,Constitutional Amendment G,,,AGAINST,102
 Millard,Sutherland 20,Registered Voters,,,,424
 Millard,Sutherland 20,Ballots Cast,,,,392
-Millard,Sutherland 20,Ballots Cast - Blank,,,,0
+Millard,Sutherland 20,Ballots Cast Blank,,,,0
 Millard,Sutherland 20,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Millard,Sutherland 20,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Millard,Sutherland 20,President,,DEM,JOSEPH R. BIDEN,20

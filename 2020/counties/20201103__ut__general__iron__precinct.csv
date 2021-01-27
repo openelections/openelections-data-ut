@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
 Iron,BRYL,Registered Voters,,,,240
 Iron,BRYL,Ballots Cast,,,,221
-Iron,BRYL,Ballots Cast - Blank,,,,0
+Iron,BRYL,Ballots Cast Blank,,,,0
 Iron,BRYL,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Iron,BRYL,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Iron,BRYL,President,,DEM,JOSEPH R. BIDEN,18
@@ -77,7 +77,7 @@ Iron,BRYL,Constitutional Amendment G,,,FOR,81
 Iron,BRYL,Constitutional Amendment G,,,AGAINST,129
 Iron,BH,Registered Voters,,,,119
 Iron,BH,Ballots Cast,,,,104
-Iron,BH,Ballots Cast - Blank,,,,0
+Iron,BH,Ballots Cast Blank,,,,0
 Iron,BH,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,BH,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,BH,President,,DEM,JOSEPH R. BIDEN,32
@@ -151,7 +151,7 @@ Iron,BH,Constitutional Amendment G,,,AGAINST,47
 Iron,CC,Constitutional Amendment G,,,,1
 Iron,CC,Registered Voters,,,,912
 Iron,CC,Ballots Cast,,,,875
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,200
@@ -230,7 +230,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,381
 Iron,CC,Constitutional Amendment G,,,,2
 Iron,CC,Registered Voters,,,,902
 Iron,CC,Ballots Cast,,,,850
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,176
@@ -309,7 +309,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,404
 Iron,CC,Constitutional Amendment G,,,,3
 Iron,CC,Registered Voters,,,,712
 Iron,CC,Ballots Cast,,,,652
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,182
@@ -389,7 +389,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,275
 Iron,CC,Constitutional Amendment G,,,,4
 Iron,CC,Registered Voters,,,,542
 Iron,CC,Ballots Cast,,,,512
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,136
@@ -469,7 +469,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,226
 Iron,CC,Constitutional Amendment G,,,,5
 Iron,CC,Registered Voters,,,,976
 Iron,CC,Ballots Cast,,,,910
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,230
@@ -549,7 +549,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,363
 Iron,CC,Constitutional Amendment G,,,,6
 Iron,CC,Registered Voters,,,,1122
 Iron,CC,Ballots Cast,,,,1051
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",6
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,296
@@ -627,7 +627,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,393
 Iron,CC,Constitutional Amendment G,,,,7
 Iron,CC,Registered Voters,,,,435
 Iron,CC,Ballots Cast,,,,376
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,108
@@ -705,7 +705,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,141
 Iron,CC,Constitutional Amendment G,,,,8
 Iron,CC,Registered Voters,,,,335
 Iron,CC,Ballots Cast,,,,299
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,96
@@ -783,7 +783,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,100
 Iron,CC,Constitutional Amendment G,,,,9
 Iron,CC,Registered Voters,,,,439
 Iron,CC,Ballots Cast,,,,380
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,120
@@ -861,7 +861,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,139
 Iron,CC,Constitutional Amendment G,,,,10
 Iron,CC,Registered Voters,,,,214
 Iron,CC,Ballots Cast,,,,217
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,64
@@ -939,7 +939,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,95
 Iron,CC,Constitutional Amendment G,,,,11
 Iron,CC,Registered Voters,,,,209
 Iron,CC,Ballots Cast,,,,206
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,52
@@ -1017,7 +1017,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,68
 Iron,CC,Constitutional Amendment G,,,,12
 Iron,CC,Registered Voters,,,,270
 Iron,CC,Ballots Cast,,,,249
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,80
@@ -1095,7 +1095,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,89
 Iron,CC,Constitutional Amendment G,,,,13
 Iron,CC,Registered Voters,,,,403
 Iron,CC,Ballots Cast,,,,351
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,82
@@ -1173,7 +1173,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,154
 Iron,CC,Constitutional Amendment G,,,,14
 Iron,CC,Registered Voters,,,,454
 Iron,CC,Ballots Cast,,,,426
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,84
@@ -1251,7 +1251,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,210
 Iron,CC,Constitutional Amendment G,,,,15
 Iron,CC,Registered Voters,,,,507
 Iron,CC,Ballots Cast,,,,472
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,120
@@ -1329,7 +1329,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,203
 Iron,CC,Constitutional Amendment G,,,,16
 Iron,CC,Registered Voters,,,,1698
 Iron,CC,Ballots Cast,,,,1563
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",7
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,300
@@ -1409,7 +1409,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,715
 Iron,CC,Constitutional Amendment G,,,,17
 Iron,CC,Registered Voters,,,,456
 Iron,CC,Ballots Cast,,,,456
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,127
@@ -1487,7 +1487,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,175
 Iron,CC,Constitutional Amendment G,,,,18
 Iron,CC,Registered Voters,,,,1255
 Iron,CC,Ballots Cast,,,,1175
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",5
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,231
@@ -1565,7 +1565,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,555
 Iron,CC,Constitutional Amendment G,,,,19
 Iron,CC,Registered Voters,,,,1153
 Iron,CC,Ballots Cast,,,,1087
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",8
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,230
@@ -1643,7 +1643,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,507
 Iron,CC,Constitutional Amendment G,,,,20
 Iron,CC,Registered Voters,,,,1876
 Iron,CC,Ballots Cast,,,,1766
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",2
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",8
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,267
@@ -1723,7 +1723,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,951
 Iron,CC,Constitutional Amendment G,,,,21
 Iron,CC,Registered Voters,,,,447
 Iron,CC,Ballots Cast,,,,391
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,98
@@ -1802,7 +1802,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,183
 Iron,CC,Constitutional Amendment G,,,,22
 Iron,CC,Registered Voters,,,,511
 Iron,CC,Ballots Cast,,,,487
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,91
@@ -1881,7 +1881,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,232
 Iron,CC,Constitutional Amendment G,,,,23
 Iron,CC,Registered Voters,,,,728
 Iron,CC,Ballots Cast,,,,677
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",7
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,159
@@ -1961,7 +1961,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,253
 Iron,CC,Constitutional Amendment G,,,,24
 Iron,CC,Registered Voters,,,,687
 Iron,CC,Ballots Cast,,,,637
-Iron,CC,Ballots Cast - Blank,,,,0
+Iron,CC,Ballots Cast Blank,,,,0
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,105
@@ -2039,7 +2039,7 @@ Iron,CC,Constitutional Amendment G,,,AGAINST,275
 Iron,CC,Constitutional Amendment G,,,,25
 Iron,CC,Registered Voters,,,,1678
 Iron,CC,Ballots Cast,,,,1555
-Iron,CC,Ballots Cast - Blank,,,,1
+Iron,CC,Ballots Cast Blank,,,,1
 Iron,CC,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Iron,CC,President,,,"KANYE WEST, MICHELLE TIDBALL",7
 Iron,CC,President,,DEM,JOSEPH R. BIDEN,234
@@ -2116,8 +2116,8 @@ Iron,CC,Constitutional Amendment G,,,FOR,642
 Iron,CC,Constitutional Amendment G,,,AGAINST,801
 Iron,CH,Constitutional Amendment G,,,,1
 Iron,CH,Registered Voters,,,,109
-Iron,CH,Ballots Cast - Total,,,,99
-Iron,CH,Ballots Cast - Blank,,,,0
+Iron,CH,Ballots Cast,,,,99
+Iron,CH,Ballots Cast Blank,,,,0
 Iron,CH,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,CH,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,CH,President,,DEM,JOSEPH R. BIDEN,11
@@ -2196,7 +2196,7 @@ Iron,CH,Constitutional Amendment G,,,FOR,39
 Iron,CH,Constitutional Amendment G,,,AGAINST,57
 Iron,ENO 1,Registered Voters,,,,225
 Iron,ENO 1,Ballots Cast,,,,205
-Iron,ENO 1,Ballots Cast - Blank,,,,0
+Iron,ENO 1,Ballots Cast Blank,,,,0
 Iron,ENO 1,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,ENO 1,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,ENO 1,President,,DEM,JOSEPH R. BIDEN,45
@@ -2272,7 +2272,7 @@ Iron,ENO 1,Constitutional Amendment G,,,FOR,95
 Iron,ENO 1,Constitutional Amendment G,,,AGAINST,100
 Iron,ENO 2,Registered Voters,,,,919
 Iron,ENO 2,Ballots Cast,,,,840
-Iron,ENO 2,Ballots Cast - Blank,,,,0
+Iron,ENO 2,Ballots Cast Blank,,,,0
 Iron,ENO 2,President,,,"BROCK PIERCE, KARLA BALLARD",3
 Iron,ENO 2,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Iron,ENO 2,President,,DEM,JOSEPH R. BIDEN,117
@@ -2346,7 +2346,7 @@ Iron,ENO 2,Constitutional Amendment G,,,FOR,362
 Iron,ENO 2,Constitutional Amendment G,,,AGAINST,433
 Iron,ENO 3,Registered Voters,,,,1426
 Iron,ENO 3,Ballots Cast,,,,1304
-Iron,ENO 3,Ballots Cast - Blank,,,,0
+Iron,ENO 3,Ballots Cast Blank,,,,0
 Iron,ENO 3,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,ENO 3,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Iron,ENO 3,President,,DEM,JOSEPH R. BIDEN,176
@@ -2420,7 +2420,7 @@ Iron,ENO 3,Constitutional Amendment G,,,FOR,568
 Iron,ENO 3,Constitutional Amendment G,,,AGAINST,659
 Iron,ENO 4,Registered Voters,,,,1202
 Iron,ENO 4,Ballots Cast,,,,1119
-Iron,ENO 4,Ballots Cast - Blank,,,,0
+Iron,ENO 4,Ballots Cast Blank,,,,0
 Iron,ENO 4,President,,,"BROCK PIERCE, KARLA BALLARD",4
 Iron,ENO 4,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Iron,ENO 4,President,,DEM,JOSEPH R. BIDEN,117
@@ -2494,7 +2494,7 @@ Iron,ENO 4,Constitutional Amendment G,,,FOR,450
 Iron,ENO 4,Constitutional Amendment G,,,AGAINST,597
 Iron,KANARR,Registered Voters,,,,456
 Iron,KANARR,Ballots Cast,,,,422
-Iron,KANARR,Ballots Cast - Blank,,,,0
+Iron,KANARR,Ballots Cast Blank,,,,0
 Iron,KANARR,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,KANARR,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,KANARR,President,,DEM,JOSEPH R. BIDEN,57
@@ -2570,7 +2570,7 @@ Iron,KANARR,Constitutional Amendment G,,,FOR,149
 Iron,KANARR,Constitutional Amendment G,,,AGAINST,236
 Iron,MIDV,Registered Voters,,,,679
 Iron,MIDV,Ballots Cast,,,,621
-Iron,MIDV,Ballots Cast - Blank,,,,0
+Iron,MIDV,Ballots Cast Blank,,,,0
 Iron,MIDV,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Iron,MIDV,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Iron,MIDV,President,,DEM,JOSEPH R. BIDEN,98
@@ -2645,8 +2645,8 @@ Iron,MIDV,Constitutional Amendment F,,,AGAINST,255
 Iron,MIDV,Constitutional Amendment G,,,FOR,289
 Iron,MIDV,Constitutional Amendment G,,,AGAINST,291
 Iron,MODE,Registered Voters,,,,39
-Iron,MODE,Ballots Cast - Total,,,,29
-Iron,MODE,Ballots Cast - Blank,,,,0
+Iron,MODE,Ballots Cast,,,,29
+Iron,MODE,Ballots Cast Blank,,,,0
 Iron,MODE,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,MODE,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,MODE,President,,DEM,JOSEPH R. BIDEN,6
@@ -2722,7 +2722,7 @@ Iron,MODE,Constitutional Amendment G,,,FOR,16
 Iron,MODE,Constitutional Amendment G,,,AGAINST,12
 Iron,NEWCSL,Registered Voters,,,,257
 Iron,NEWCSL,Ballots Cast,,,,231
-Iron,NEWCSL,Ballots Cast - Blank,,,,0
+Iron,NEWCSL,Ballots Cast Blank,,,,0
 Iron,NEWCSL,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,NEWCSL,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,NEWCSL,President,,DEM,JOSEPH R. BIDEN,16
@@ -2798,7 +2798,7 @@ Iron,NEWCSL,Constitutional Amendment G,,,FOR,79
 Iron,NEWCSL,Constitutional Amendment G,,,AGAINST,130
 Iron,PARAGO,Registered Voters,,,,361
 Iron,PARAGO,Ballots Cast,,,,345
-Iron,PARAGO,Ballots Cast - Blank,,,,0
+Iron,PARAGO,Ballots Cast Blank,,,,0
 Iron,PARAGO,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,PARAGO,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Iron,PARAGO,President,,DEM,JOSEPH R. BIDEN,36
@@ -2871,7 +2871,7 @@ Iron,PARAGO,Constitutional Amendment G,,,FOR,158
 Iron,PARAGO,Constitutional Amendment G,,,AGAINST,172
 Iron,PARN,Registered Voters,,,,965
 Iron,PARN,Ballots Cast,,,,895
-Iron,PARN,Ballots Cast - Blank,,,,0
+Iron,PARN,Ballots Cast Blank,,,,0
 Iron,PARN,President,,,"BROCK PIERCE, KARLA BALLARD",4
 Iron,PARN,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Iron,PARN,President,,DEM,JOSEPH R. BIDEN,111
@@ -2944,7 +2944,7 @@ Iron,PARN,Constitutional Amendment G,,,FOR,433
 Iron,PARN,Constitutional Amendment G,,,AGAINST,399
 Iron,PARS,Registered Voters,,,,842
 Iron,PARS,Ballots Cast,,,,783
-Iron,PARS,Ballots Cast - Blank,,,,1
+Iron,PARS,Ballots Cast Blank,,,,1
 Iron,PARS,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,PARS,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Iron,PARS,President,,DEM,JOSEPH R. BIDEN,139
@@ -3017,7 +3017,7 @@ Iron,PARS,Constitutional Amendment G,,,FOR,347
 Iron,PARS,Constitutional Amendment G,,,AGAINST,374
 Iron,PARV,Registered Voters,,,,201
 Iron,PARV,Ballots Cast,,,,185
-Iron,PARV,Ballots Cast - Blank,,,,0
+Iron,PARV,Ballots Cast Blank,,,,0
 Iron,PARV,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,PARV,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,PARV,President,,DEM,JOSEPH R. BIDEN,16
@@ -3092,7 +3092,7 @@ Iron,PARV,Constitutional Amendment G,,,FOR,71
 Iron,PARV,Constitutional Amendment G,,,AGAINST,106
 Iron,SUM,Registered Voters,,,,207
 Iron,SUM,Ballots Cast,,,,198
-Iron,SUM,Ballots Cast - Blank,,,,0
+Iron,SUM,Ballots Cast Blank,,,,0
 Iron,SUM,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Iron,SUM,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Iron,SUM,President,,DEM,JOSEPH R. BIDEN,29

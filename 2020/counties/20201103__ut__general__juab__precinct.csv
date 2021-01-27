@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes
 Juab,CA11,Ballots Cast,,,,42
-Juab,CA11,Ballots Cast - Blank,,,,0
+Juab,CA11,Ballots Cast Blank,,,,0
 Juab,CA11,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,CA11,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,CA11,President,,DEM,JOSEPH R. BIDEN,10
@@ -83,7 +83,7 @@ Juab,CA11,Constitutional Amendment F,,,AGAINST,17
 Juab,CA11,Constitutional Amendment G,,,FOR,17
 Juab,CA11,Constitutional Amendment G,,,AGAINST,24
 Juab,EU1,Ballots Cast,,,,85
-Juab,EU1,Ballots Cast - Blank,,,,0
+Juab,EU1,Ballots Cast Blank,,,,0
 Juab,EU1,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,EU1,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,EU1,President,,DEM,JOSEPH R. BIDEN,29
@@ -168,7 +168,7 @@ Juab,EU1,Constitutional Amendment F,,,AGAINST,38
 Juab,EU1,Constitutional Amendment G,,,FOR,38
 Juab,EU1,Constitutional Amendment G,,,AGAINST,39
 Juab,EU2,Ballots Cast,,,,108
-Juab,EU2,Ballots Cast - Blank,,,,0
+Juab,EU2,Ballots Cast Blank,,,,0
 Juab,EU2,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,EU2,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,EU2,President,,DEM,JOSEPH R. BIDEN,34
@@ -252,7 +252,7 @@ Juab,EU2,Constitutional Amendment F,,,AGAINST,36
 Juab,EU2,Constitutional Amendment G,,,FOR,49
 Juab,EU2,Constitutional Amendment G,,,AGAINST,56
 Juab,EU3,Ballots Cast,,,,137
-Juab,EU3,Ballots Cast - Blank,,,,0
+Juab,EU3,Ballots Cast Blank,,,,0
 Juab,EU3,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,EU3,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,EU3,President,,DEM,JOSEPH R. BIDEN,30
@@ -337,7 +337,7 @@ Juab,EU3,Constitutional Amendment F,,,AGAINST,53
 Juab,EU3,Constitutional Amendment G,,,FOR,46
 Juab,EU3,Constitutional Amendment G,,,AGAINST,82
 Juab,EU4,Ballots Cast,,,,62
-Juab,EU4,Ballots Cast - Blank,,,,0
+Juab,EU4,Ballots Cast Blank,,,,0
 Juab,EU4,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,EU4,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,EU4,President,,DEM,JOSEPH R. BIDEN,13
@@ -420,7 +420,7 @@ Juab,EU4,Constitutional Amendment F,,,AGAINST,26
 Juab,EU4,Constitutional Amendment G,,,FOR,28
 Juab,EU4,Constitutional Amendment G,,,AGAINST,33
 Juab,EU5,Ballots Cast,,,,30
-Juab,EU5,Ballots Cast - Blank,,,,0
+Juab,EU5,Ballots Cast Blank,,,,0
 Juab,EU5,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,EU5,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,EU5,President,,DEM,JOSEPH R. BIDEN,5
@@ -503,7 +503,7 @@ Juab,EU5,Constitutional Amendment F,,,AGAINST,13
 Juab,EU5,Constitutional Amendment G,,,FOR,12
 Juab,EU5,Constitutional Amendment G,,,AGAINST,16
 Juab,LE06,Ballots Cast,,,,540
-Juab,LE06,Ballots Cast - Blank,,,,0
+Juab,LE06,Ballots Cast Blank,,,,0
 Juab,LE06,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,LE06,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,LE06,President,,DEM,JOSEPH R. BIDEN,49
@@ -587,7 +587,7 @@ Juab,LE06,Constitutional Amendment F,,,AGAINST,182
 Juab,LE06,Constitutional Amendment G,,,FOR,251
 Juab,LE06,Constitutional Amendment G,,,AGAINST,261
 Juab,MO05,Ballots Cast,,,,1181
-Juab,MO05,Ballots Cast - Blank,,,,0
+Juab,MO05,Ballots Cast Blank,,,,0
 Juab,MO05,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Juab,MO05,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Juab,MO05,President,,DEM,JOSEPH R. BIDEN,120
@@ -672,7 +672,7 @@ Juab,MO05,Constitutional Amendment F,,,AGAINST,512
 Juab,MO05,Constitutional Amendment G,,,FOR,516
 Juab,MO05,Constitutional Amendment G,,,AGAINST,596
 Juab,NE01.4,Ballots Cast,,,,448
-Juab,NE01.4,Ballots Cast - Blank,,,,1
+Juab,NE01.4,Ballots Cast Blank,,,,1
 Juab,NE01.4,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,NE01.4,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Juab,NE01.4,President,,DEM,JOSEPH R. BIDEN,39
@@ -756,7 +756,7 @@ Juab,NE01.4,Constitutional Amendment F,,,AGAINST,165
 Juab,NE01.4,Constitutional Amendment G,,,FOR,171
 Juab,NE01.4,Constitutional Amendment G,,,AGAINST,240
 Juab,NE01.5,Ballots Cast,,,,325
-Juab,NE01.5,Ballots Cast - Blank,,,,0
+Juab,NE01.5,Ballots Cast Blank,,,,0
 Juab,NE01.5,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Juab,NE01.5,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Juab,NE01.5,President,,DEM,JOSEPH R. BIDEN,29
@@ -840,7 +840,7 @@ Juab,NE01.5,Constitutional Amendment F,,,AGAINST,120
 Juab,NE01.5,Constitutional Amendment G,,,FOR,138
 Juab,NE01.5,Constitutional Amendment G,,,AGAINST,169
 Juab,NE02.3,Ballots Cast,,,,66
-Juab,NE02.3,Ballots Cast - Blank,,,,0
+Juab,NE02.3,Ballots Cast Blank,,,,0
 Juab,NE02.3,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,NE02.3,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,NE02.3,President,,DEM,JOSEPH R. BIDEN,4
@@ -925,7 +925,7 @@ Juab,NE02.3,Constitutional Amendment F,,,AGAINST,27
 Juab,NE02.3,Constitutional Amendment G,,,FOR,35
 Juab,NE02.3,Constitutional Amendment G,,,AGAINST,28
 Juab,NE02.4,Ballots Cast,,,,477
-Juab,NE02.4,Ballots Cast - Blank,,,,0
+Juab,NE02.4,Ballots Cast Blank,,,,0
 Juab,NE02.4,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,NE02.4,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,NE02.4,President,,DEM,JOSEPH R. BIDEN,46
@@ -1009,7 +1009,7 @@ Juab,NE02.4,Constitutional Amendment F,,,AGAINST,200
 Juab,NE02.4,Constitutional Amendment G,,,FOR,202
 Juab,NE02.4,Constitutional Amendment G,,,AGAINST,235
 Juab,NE02.5,Ballots Cast,,,,220
-Juab,NE02.5,Ballots Cast - Blank,,,,1
+Juab,NE02.5,Ballots Cast Blank,,,,1
 Juab,NE02.5,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,NE02.5,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Juab,NE02.5,President,,DEM,JOSEPH R. BIDEN,19
@@ -1093,7 +1093,7 @@ Juab,NE02.5,Constitutional Amendment F,,,AGAINST,81
 Juab,NE02.5,Constitutional Amendment G,,,FOR,98
 Juab,NE02.5,Constitutional Amendment G,,,AGAINST,105
 Juab,NE03.3,Ballots Cast,,,,167
-Juab,NE03.3,Ballots Cast - Blank,,,,0
+Juab,NE03.3,Ballots Cast Blank,,,,0
 Juab,NE03.3,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,NE03.3,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Juab,NE03.3,President,,DEM,JOSEPH R. BIDEN,20
@@ -1178,7 +1178,7 @@ Juab,NE03.3,Constitutional Amendment F,,,AGAINST,55
 Juab,NE03.3,Constitutional Amendment G,,,FOR,86
 Juab,NE03.3,Constitutional Amendment G,,,AGAINST,63
 Juab,NE03.2,Ballots Cast,,,,476
-Juab,NE03.2,Ballots Cast - Blank,,,,0
+Juab,NE03.2,Ballots Cast Blank,,,,0
 Juab,NE03.2,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,NE03.2,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Juab,NE03.2,President,,DEM,JOSEPH R. BIDEN,41
@@ -1263,7 +1263,7 @@ Juab,NE03.2,Constitutional Amendment F,,,AGAINST,168
 Juab,NE03.2,Constitutional Amendment G,,,FOR,232
 Juab,NE03.2,Constitutional Amendment G,,,AGAINST,208
 Juab,NE04,Ballots Cast,,,,666
-Juab,NE04,Ballots Cast - Blank,,,,0
+Juab,NE04,Ballots Cast Blank,,,,0
 Juab,NE04,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Juab,NE04,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Juab,NE04,President,,DEM,JOSEPH R. BIDEN,78
@@ -1348,7 +1348,7 @@ Juab,NE04,Constitutional Amendment F,,,AGAINST,209
 Juab,NE04,Constitutional Amendment G,,,FOR,328
 Juab,NE04,Constitutional Amendment G,,,AGAINST,290
 Juab,NE05,Ballots Cast,,,,537
-Juab,NE05,Ballots Cast - Blank,,,,0
+Juab,NE05,Ballots Cast Blank,,,,0
 Juab,NE05,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,NE05,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,NE05,President,,DEM,JOSEPH R. BIDEN,75
@@ -1433,7 +1433,7 @@ Juab,NE05,Constitutional Amendment F,,,AGAINST,184
 Juab,NE05,Constitutional Amendment G,,,FOR,246
 Juab,NE05,Constitutional Amendment G,,,AGAINST,243
 Juab,RR13,Ballots Cast,,,,365
-Juab,RR13,Ballots Cast - Blank,,,,1
+Juab,RR13,Ballots Cast Blank,,,,1
 Juab,RR13,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Juab,RR13,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Juab,RR13,President,,DEM,JOSEPH R. BIDEN,4

@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
 San Juan,Precinct 2MC,Registered Voters,,,,1030
 San Juan,Precinct 2MC,Ballots Cast,,,,966
-San Juan,Precinct 2MC,Ballots Cast - Blank,,,,0
+San Juan,Precinct 2MC,Ballots Cast Blank,,,,0
 San Juan,Precinct 2MC,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 2MC,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 San Juan,Precinct 2MC,President,,DEM,JOSEPH R. BIDEN,158
@@ -74,7 +74,7 @@ San Juan,Precinct 2MC,Constitutional Amendment G,,,FOR,467
 San Juan,Precinct 2MC,Constitutional Amendment G,,,AGAINST,409
 San Juan,Precinct 4BD,Registered Voters,,,,0
 San Juan,Precinct 4BD,Ballots Cast,,,,0
-San Juan,Precinct 4BD,Ballots Cast - Blank,,,,0
+San Juan,Precinct 4BD,Ballots Cast Blank,,,,0
 San Juan,Precinct 4BD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 4BD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 4BD,President,,DEM,JOSEPH R. BIDEN,0
@@ -149,7 +149,7 @@ San Juan,Precinct 4BD,Constitutional Amendment G,,,FOR,0
 San Juan,Precinct 4BD,Constitutional Amendment G,,,AGAINST,0
 San Juan,Precinct 5BD,Registered Voters,,,,609
 San Juan,Precinct 5BD,Ballots Cast,,,,544
-San Juan,Precinct 5BD,Ballots Cast - Blank,,,,0
+San Juan,Precinct 5BD,Ballots Cast Blank,,,,0
 San Juan,Precinct 5BD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 5BD,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 San Juan,Precinct 5BD,President,,DEM,JOSEPH R. BIDEN,85
@@ -224,7 +224,7 @@ San Juan,Precinct 5BD,Constitutional Amendment G,,,FOR,192
 San Juan,Precinct 5BD,Constitutional Amendment G,,,AGAINST,299
 San Juan,Precinct 6BD,Registered Voters,,,,9
 San Juan,Precinct 6BD,Ballots Cast,,,,8
-San Juan,Precinct 6BD,Ballots Cast - Blank,,,,0
+San Juan,Precinct 6BD,Ballots Cast Blank,,,,0
 San Juan,Precinct 6BD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 6BD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 6BD,President,,DEM,JOSEPH R. BIDEN,2
@@ -297,7 +297,7 @@ San Juan,Precinct 6BD,Constitutional Amendment G,,,FOR,2
 San Juan,Precinct 6BD,Constitutional Amendment G,,,AGAINST,4
 San Juan,Precinct 7BD,Registered Voters,,,,474
 San Juan,Precinct 7BD,Ballots Cast,,,,441
-San Juan,Precinct 7BD,Ballots Cast - Blank,,,,0
+San Juan,Precinct 7BD,Ballots Cast Blank,,,,0
 San Juan,Precinct 7BD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 7BD,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 San Juan,Precinct 7BD,President,,DEM,JOSEPH R. BIDEN,76
@@ -370,7 +370,7 @@ San Juan,Precinct 7BD,Constitutional Amendment G,,,FOR,203
 San Juan,Precinct 7BD,Constitutional Amendment G,,,AGAINST,203
 San Juan,Precinct 7BD2,Registered Voters,,,,29
 San Juan,Precinct 7BD2,Ballots Cast,,,,25
-San Juan,Precinct 7BD2,Ballots Cast - Blank,,,,0
+San Juan,Precinct 7BD2,Ballots Cast Blank,,,,0
 San Juan,Precinct 7BD2,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 7BD2,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 San Juan,Precinct 7BD2,President,,DEM,JOSEPH R. BIDEN,6
@@ -443,7 +443,7 @@ San Juan,Precinct 7BD2,Constitutional Amendment G,,,FOR,10
 San Juan,Precinct 7BD2,Constitutional Amendment G,,,AGAINST,11
 San Juan,Precinct 8BD,Registered Voters,,,,0
 San Juan,Precinct 8BD,Ballots Cast,,,,0
-San Juan,Precinct 8BD,Ballots Cast - Blank,,,,0
+San Juan,Precinct 8BD,Ballots Cast Blank,,,,0
 San Juan,Precinct 8BD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 8BD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 8BD,President,,DEM,JOSEPH R. BIDEN,0
@@ -513,7 +513,7 @@ San Juan,Precinct 8BD,Constitutional Amendment G,,,FOR,0
 San Juan,Precinct 8BD,Constitutional Amendment G,,,AGAINST,0
 San Juan,Precinct 8BF,Registered Voters,,,,1
 San Juan,Precinct 8BF,Ballots Cast,,,,0
-San Juan,Precinct 8BF,Ballots Cast - Blank,,,,0
+San Juan,Precinct 8BF,Ballots Cast Blank,,,,0
 San Juan,Precinct 8BF,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 8BF,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 8BF,President,,DEM,JOSEPH R. BIDEN,0
@@ -583,7 +583,7 @@ San Juan,Precinct 8BF,Constitutional Amendment G,,,FOR,0
 San Juan,Precinct 8BF,Constitutional Amendment G,,,AGAINST,0
 San Juan,Precinct 10BF,Registered Voters,,,,19
 San Juan,Precinct 10BF,Ballots Cast,,,,16
-San Juan,Precinct 10BF,Ballots Cast - Blank,,,,0
+San Juan,Precinct 10BF,Ballots Cast Blank,,,,0
 San Juan,Precinct 10BF,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 10BF,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 10BF,President,,DEM,JOSEPH R. BIDEN,14
@@ -653,7 +653,7 @@ San Juan,Precinct 10BF,Constitutional Amendment G,,,FOR,10
 San Juan,Precinct 10BF,Constitutional Amendment G,,,AGAINST,6
 San Juan,Precinct 11BF,Registered Voters,,,,2
 San Juan,Precinct 11BF,Ballots Cast,,,,1
-San Juan,Precinct 11BF,Ballots Cast - Blank,,,,0
+San Juan,Precinct 11BF,Ballots Cast Blank,,,,0
 San Juan,Precinct 11BF,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 11BF,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 11BF,President,,DEM,JOSEPH R. BIDEN,1
@@ -723,7 +723,7 @@ San Juan,Precinct 11BF,Constitutional Amendment G,,,FOR,0
 San Juan,Precinct 11BF,Constitutional Amendment G,,,AGAINST,0
 San Juan,Precinct 12BD,Registered Voters,,,,467
 San Juan,Precinct 12BD,Ballots Cast,,,,395
-San Juan,Precinct 12BD,Ballots Cast - Blank,,,,0
+San Juan,Precinct 12BD,Ballots Cast Blank,,,,0
 San Juan,Precinct 12BD,President,,,"BROCK PIERCE, KARLA BALLARD",2
 San Juan,Precinct 12BD,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 San Juan,Precinct 12BD,President,,DEM,JOSEPH R. BIDEN,77
@@ -794,7 +794,7 @@ San Juan,Precinct 12BD,Constitutional Amendment G,,,FOR,184
 San Juan,Precinct 12BD,Constitutional Amendment G,,,AGAINST,187
 San Juan,Precinct 1,Registered Voters,,,,322
 San Juan,Precinct 1,Ballots Cast,,,,288
-San Juan,Precinct 1,Ballots Cast - Blank,,,,0
+San Juan,Precinct 1,Ballots Cast Blank,,,,0
 San Juan,Precinct 1,President,,,"BROCK PIERCE, KARLA BALLARD",1
 San Juan,Precinct 1,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 1,President,,DEM,JOSEPH R. BIDEN,82
@@ -866,7 +866,7 @@ San Juan,Precinct 1,Constitutional Amendment G,,,FOR,135
 San Juan,Precinct 1,Constitutional Amendment G,,,AGAINST,132
 San Juan,Precinct 2,Registered Voters,,,,492
 San Juan,Precinct 2,Ballots Cast,,,,460
-San Juan,Precinct 2,Ballots Cast - Blank,,,,0
+San Juan,Precinct 2,Ballots Cast Blank,,,,0
 San Juan,Precinct 2,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 2,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 San Juan,Precinct 2,President,,DEM,JOSEPH R. BIDEN,126
@@ -939,7 +939,7 @@ San Juan,Precinct 2,Constitutional Amendment G,,,FOR,184
 San Juan,Precinct 2,Constitutional Amendment G,,,AGAINST,235
 San Juan,Precinct 2GD,Registered Voters,,,,1
 San Juan,Precinct 2GD,Ballots Cast,,,,1
-San Juan,Precinct 2GD,Ballots Cast - Blank,,,,0
+San Juan,Precinct 2GD,Ballots Cast Blank,,,,0
 San Juan,Precinct 2GD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 2GD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 2GD,President,,DEM,JOSEPH R. BIDEN,0
@@ -1011,7 +1011,7 @@ San Juan,Precinct 2GD,Constitutional Amendment G,,,FOR,1
 San Juan,Precinct 2GD,Constitutional Amendment G,,,AGAINST,0
 San Juan,Precinct 3,Registered Voters,,,,1426
 San Juan,Precinct 3,Ballots Cast,,,,1295
-San Juan,Precinct 3,Ballots Cast - Blank,,,,0
+San Juan,Precinct 3,Ballots Cast Blank,,,,0
 San Juan,Precinct 3,President,,,"BROCK PIERCE, KARLA BALLARD",4
 San Juan,Precinct 3,President,,,"KANYE WEST, MICHELLE TIDBALL",15
 San Juan,Precinct 3,President,,DEM,JOSEPH R. BIDEN,906
@@ -1081,7 +1081,7 @@ San Juan,Precinct 3,Constitutional Amendment G,,,FOR,838
 San Juan,Precinct 3,Constitutional Amendment G,,,AGAINST,265
 San Juan,Precinct 4,Registered Voters,,,,222
 San Juan,Precinct 4,Ballots Cast,,,,212
-San Juan,Precinct 4,Ballots Cast - Blank,,,,0
+San Juan,Precinct 4,Ballots Cast Blank,,,,0
 San Juan,Precinct 4,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 4,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 4,President,,DEM,JOSEPH R. BIDEN,17
@@ -1156,7 +1156,7 @@ San Juan,Precinct 4,Constitutional Amendment G,,,FOR,69
 San Juan,Precinct 4,Constitutional Amendment G,,,AGAINST,131
 San Juan,Precinct 5,Registered Voters,,,,7
 San Juan,Precinct 5,Ballots Cast,,,,8
-San Juan,Precinct 5,Ballots Cast - Blank,,,,0
+San Juan,Precinct 5,Ballots Cast Blank,,,,0
 San Juan,Precinct 5,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 5,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 5,President,,DEM,JOSEPH R. BIDEN,0
@@ -1231,7 +1231,7 @@ San Juan,Precinct 5,Constitutional Amendment G,,,FOR,3
 San Juan,Precinct 5,Constitutional Amendment G,,,AGAINST,4
 San Juan,Precinct 6,Registered Voters,,,,85
 San Juan,Precinct 6,Ballots Cast,,,,73
-San Juan,Precinct 6,Ballots Cast - Blank,,,,0
+San Juan,Precinct 6,Ballots Cast Blank,,,,0
 San Juan,Precinct 6,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 6,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 6,President,,DEM,JOSEPH R. BIDEN,12
@@ -1304,7 +1304,7 @@ San Juan,Precinct 6,Constitutional Amendment G,,,FOR,30
 San Juan,Precinct 6,Constitutional Amendment G,,,AGAINST,37
 San Juan,Precinct 9,Registered Voters,,,,60
 San Juan,Precinct 9,Ballots Cast,,,,36
-San Juan,Precinct 9,Ballots Cast - Blank,,,,0
+San Juan,Precinct 9,Ballots Cast Blank,,,,0
 San Juan,Precinct 9,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 9,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 9,President,,DEM,JOSEPH R. BIDEN,35
@@ -1375,7 +1375,7 @@ San Juan,Precinct 9,Constitutional Amendment G,,,FOR,24
 San Juan,Precinct 9,Constitutional Amendment G,,,AGAINST,9
 San Juan,Precinct 10,Registered Voters,,,,164
 San Juan,Precinct 10,Ballots Cast,,,,142
-San Juan,Precinct 10,Ballots Cast - Blank,,,,0
+San Juan,Precinct 10,Ballots Cast Blank,,,,0
 San Juan,Precinct 10,President,,,"BROCK PIERCE, KARLA BALLARD",1
 San Juan,Precinct 10,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 10,President,,DEM,JOSEPH R. BIDEN,120
@@ -1445,7 +1445,7 @@ San Juan,Precinct 10,Constitutional Amendment G,,,FOR,80
 San Juan,Precinct 10,Constitutional Amendment G,,,AGAINST,22
 San Juan,Precinct 8,Registered Voters,,,,847
 San Juan,Precinct 8,Ballots Cast,,,,717
-San Juan,Precinct 8,Ballots Cast - Blank,,,,0
+San Juan,Precinct 8,Ballots Cast Blank,,,,0
 San Juan,Precinct 8,President,,,"BROCK PIERCE, KARLA BALLARD",4
 San Juan,Precinct 8,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 San Juan,Precinct 8,President,,DEM,JOSEPH R. BIDEN,408
@@ -1516,7 +1516,7 @@ San Juan,Precinct 8,Constitutional Amendment G,,,FOR,386
 San Juan,Precinct 8,Constitutional Amendment G,,,AGAINST,227
 San Juan,Precinct 11,Registered Voters,,,,1345
 San Juan,Precinct 11,Ballots Cast,,,,1171
-San Juan,Precinct 11,Ballots Cast - Blank,,,,0
+San Juan,Precinct 11,Ballots Cast Blank,,,,0
 San Juan,Precinct 11,President,,,"BROCK PIERCE, KARLA BALLARD",4
 San Juan,Precinct 11,President,,,"KANYE WEST, MICHELLE TIDBALL",15
 San Juan,Precinct 11,President,,DEM,JOSEPH R. BIDEN,860
@@ -1586,7 +1586,7 @@ San Juan,Precinct 11,Constitutional Amendment G,,,FOR,815
 San Juan,Precinct 11,Constitutional Amendment G,,,AGAINST,216
 San Juan,Precinct 12,Registered Voters,,,,19
 San Juan,Precinct 12,Ballots Cast,,,,18
-San Juan,Precinct 12,Ballots Cast - Blank,,,,0
+San Juan,Precinct 12,Ballots Cast Blank,,,,0
 San Juan,Precinct 12,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 12,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 12,President,,DEM,JOSEPH R. BIDEN,4
@@ -1657,7 +1657,7 @@ San Juan,Precinct 12,Constitutional Amendment G,,,FOR,5
 San Juan,Precinct 12,Constitutional Amendment G,,,AGAINST,13
 San Juan,Precinct 10BF:BSA,Registered Voters,,,,160
 San Juan,Precinct 10BF:BSA,Ballots Cast,,,,148
-San Juan,Precinct 10BF:BSA,Ballots Cast - Blank,,,,0
+San Juan,Precinct 10BF:BSA,Ballots Cast Blank,,,,0
 San Juan,Precinct 10BF:BSA,President,,,"BROCK PIERCE, KARLA BALLARD",0
 San Juan,Precinct 10BF:BSA,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 San Juan,Precinct 10BF:BSA,President,,DEM,JOSEPH R. BIDEN,124

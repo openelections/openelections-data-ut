@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
 Rich,1,Registered Voters,,,,282
 Rich,1,Ballots Cast,,,,262
-Rich,1,Ballots Cast - Blank,,,,0
+Rich,1,Ballots Cast Blank,,,,0
 Rich,1,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Rich,1,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Rich,1,President,,DEM,JOSEPH R. BIDEN,16
@@ -85,7 +85,7 @@ Rich,1,Constitutional Amendment G,,,FOR,106
 Rich,1,Constitutional Amendment G,,,AGAINST,142
 Rich,2,Registered Voters,,,,306
 Rich,2,Ballots Cast,,,,285
-Rich,2,Ballots Cast - Blank,,,,0
+Rich,2,Ballots Cast Blank,,,,0
 Rich,2,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Rich,2,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Rich,2,President,,DEM,JOSEPH R. BIDEN,23
@@ -170,7 +170,7 @@ Rich,2,Constitutional Amendment G,,,FOR,122
 Rich,2,Constitutional Amendment G,,,AGAINST,144
 Rich,3,Registered Voters,,,,366
 Rich,3,Ballots Cast,,,,334
-Rich,3,Ballots Cast - Blank,,,,0
+Rich,3,Ballots Cast Blank,,,,0
 Rich,3,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Rich,3,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Rich,3,President,,DEM,JOSEPH R. BIDEN,28
@@ -253,7 +253,7 @@ Rich,3,Constitutional Amendment G,,,FOR,143
 Rich,3,Constitutional Amendment G,,,AGAINST,172
 Rich,4,Registered Voters,,,,273
 Rich,4,Ballots Cast,,,,253
-Rich,4,Ballots Cast - Blank,,,,0
+Rich,4,Ballots Cast Blank,,,,0
 Rich,4,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Rich,4,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Rich,4,President,,DEM,JOSEPH R. BIDEN,52
@@ -337,7 +337,7 @@ Rich,4,Constitutional Amendment G,,,FOR,114
 Rich,4,Constitutional Amendment G,,,AGAINST,127
 Rich,5,Registered Voters,,,,262
 Rich,5,Ballots Cast,,,,241
-Rich,5,Ballots Cast - Blank,,,,0
+Rich,5,Ballots Cast Blank,,,,0
 Rich,5,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Rich,5,President,,,"KANYE WEST, MICHELLE TIDBALL",3
 Rich,5,President,,DEM,JOSEPH R. BIDEN,61

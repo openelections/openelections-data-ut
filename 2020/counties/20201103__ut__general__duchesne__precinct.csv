@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
 Duchesne,AL11UC - UPPER COMM REC SSD,Registered Voters,,,,361
 Duchesne,AL11UC - UPPER COMM REC SSD,Ballots Cast,,,,324
-Duchesne,AL11UC - UPPER COMM REC SSD,Ballots Cast - Blank,,,,0
+Duchesne,AL11UC - UPPER COMM REC SSD,Ballots Cast Blank,,,,0
 Duchesne,AL11UC - UPPER COMM REC SSD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,AL11UC - UPPER COMM REC SSD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,AL11UC - UPPER COMM REC SSD,President,,DEM,JOSEPH R. BIDEN,13
@@ -82,7 +82,7 @@ Duchesne,AL11UC - UPPER COMM REC SSD,Constitutional Amendment G,,,FOR,125
 Duchesne,AL11UC - UPPER COMM REC SSD,Constitutional Amendment G,,,AGAINST,171
 Duchesne,AL12 Altamont - City,Registered Voters,,,,127
 Duchesne,AL12 Altamont - City,Ballots Cast,,,,103
-Duchesne,AL12 Altamont - City,Ballots Cast - Blank,,,,0
+Duchesne,AL12 Altamont - City,Ballots Cast Blank,,,,0
 Duchesne,AL12 Altamont - City,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,AL12 Altamont - City,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,AL12 Altamont - City,President,,DEM,JOSEPH R. BIDEN,7
@@ -163,7 +163,7 @@ Duchesne,AL12 Altamont - City,Constitutional Amendment G,,,FOR,41
 Duchesne,AL12 Altamont - City,Constitutional Amendment G,,,AGAINST,59
 Duchesne,AR11 Arcadia - County,Registered Voters,,,,93
 Duchesne,AR11 Arcadia - County,Ballots Cast,,,,85
-Duchesne,AR11 Arcadia - County,Ballots Cast - Blank,,,,0
+Duchesne,AR11 Arcadia - County,Ballots Cast Blank,,,,0
 Duchesne,AR11 Arcadia - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,AR11 Arcadia - County,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Duchesne,AR11 Arcadia - County,President,,DEM,JOSEPH R. BIDEN,16
@@ -240,7 +240,7 @@ Duchesne,AR11 Arcadia - County,Constitutional Amendment G,,,FOR,23
 Duchesne,AR11 Arcadia - County,Constitutional Amendment G,,,AGAINST,58
 Duchesne,AR11GW - GATEWAY SSD,Registered Voters,,,,67
 Duchesne,AR11GW - GATEWAY SSD,Ballots Cast,,,,62
-Duchesne,AR11GW - GATEWAY SSD,Ballots Cast - Blank,,,,0
+Duchesne,AR11GW - GATEWAY SSD,Ballots Cast Blank,,,,0
 Duchesne,AR11GW - GATEWAY SSD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,AR11GW - GATEWAY SSD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,AR11GW - GATEWAY SSD,President,,DEM,JOSEPH R. BIDEN,2
@@ -319,7 +319,7 @@ Duchesne,AR11GW - GATEWAY SSD,Constitutional Amendment G,,,FOR,17
 Duchesne,AR11GW - GATEWAY SSD,Constitutional Amendment G,,,AGAINST,37
 Duchesne,BB11UC - UPPER COMM REC SSD,Registered Voters,,,,357
 Duchesne,BB11UC - UPPER COMM REC SSD,Ballots Cast,,,,307
-Duchesne,BB11UC - UPPER COMM REC SSD,Ballots Cast - Blank,,,,0
+Duchesne,BB11UC - UPPER COMM REC SSD,Ballots Cast Blank,,,,0
 Duchesne,BB11UC - UPPER COMM REC SSD,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Duchesne,BB11UC - UPPER COMM REC SSD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,BB11UC - UPPER COMM REC SSD,President,,DEM,JOSEPH R. BIDEN,14
@@ -400,7 +400,7 @@ Duchesne,BB11UC - UPPER COMM REC SSD,Constitutional Amendment G,,,FOR,134
 Duchesne,BB11UC - UPPER COMM REC SSD,Constitutional Amendment G,,,AGAINST,158
 Duchesne,BB21 Bluebell/Upalco - County,Registered Voters,,,,9
 Duchesne,BB21 Bluebell/Upalco - County,Ballots Cast,,,,9
-Duchesne,BB21 Bluebell/Upalco - County,Ballots Cast - Blank,,,,0
+Duchesne,BB21 Bluebell/Upalco - County,Ballots Cast Blank,,,,0
 Duchesne,BB21 Bluebell/Upalco - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,BB21 Bluebell/Upalco - County,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,BB21 Bluebell/Upalco - County,President,,DEM,JOSEPH R. BIDEN,0
@@ -478,7 +478,7 @@ Duchesne,BB21 Bluebell/Upalco - County,Constitutional Amendment G,,,FOR,5
 Duchesne,BB21 Bluebell/Upalco - County,Constitutional Amendment G,,,AGAINST,4
 Duchesne,BB21UC - UPPER COMM REC SSD,Registered Voters,,,,160
 Duchesne,BB21UC - UPPER COMM REC SSD,Ballots Cast,,,,134
-Duchesne,BB21UC - UPPER COMM REC SSD,Ballots Cast - Blank,,,,0
+Duchesne,BB21UC - UPPER COMM REC SSD,Ballots Cast Blank,,,,0
 Duchesne,BB21UC - UPPER COMM REC SSD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,BB21UC - UPPER COMM REC SSD,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Duchesne,BB21UC - UPPER COMM REC SSD,President,,DEM,JOSEPH R. BIDEN,4
@@ -559,7 +559,7 @@ Duchesne,BB21UC - UPPER COMM REC SSD,Constitutional Amendment G,,,FOR,55
 Duchesne,BB21UC - UPPER COMM REC SSD,Constitutional Amendment G,,,AGAINST,72
 Duchesne,CE11 Cedarview - County,Registered Voters,,,,376
 Duchesne,CE11 Cedarview - County,Ballots Cast,,,,321
-Duchesne,CE11 Cedarview - County,Ballots Cast - Blank,,,,0
+Duchesne,CE11 Cedarview - County,Ballots Cast Blank,,,,0
 Duchesne,CE11 Cedarview - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,CE11 Cedarview - County,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Duchesne,CE11 Cedarview - County,President,,DEM,JOSEPH R. BIDEN,31
@@ -636,7 +636,7 @@ Duchesne,CE11 Cedarview - County,Constitutional Amendment G,,,FOR,124
 Duchesne,CE11 Cedarview - County,Constitutional Amendment G,,,AGAINST,180
 Duchesne,DU11GW - GATEWAY SSD,Registered Voters,,,,412
 Duchesne,DU11GW - GATEWAY SSD,Ballots Cast,,,,384
-Duchesne,DU11GW - GATEWAY SSD,Ballots Cast - Blank,,,,0
+Duchesne,DU11GW - GATEWAY SSD,Ballots Cast Blank,,,,0
 Duchesne,DU11GW - GATEWAY SSD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,DU11GW - GATEWAY SSD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,DU11GW - GATEWAY SSD,President,,DEM,JOSEPH R. BIDEN,54
@@ -717,7 +717,7 @@ Duchesne,DU11GW - GATEWAY SSD,Constitutional Amendment G,,,FOR,154
 Duchesne,DU11GW - GATEWAY SSD,Constitutional Amendment G,,,AGAINST,200
 Duchesne,DU12 Duchesne - City,Registered Voters,,,,373
 Duchesne,DU12 Duchesne - City,Ballots Cast,,,,349
-Duchesne,DU12 Duchesne - City,Ballots Cast - Blank,,,,0
+Duchesne,DU12 Duchesne - City,Ballots Cast Blank,,,,0
 Duchesne,DU12 Duchesne - City,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,DU12 Duchesne - City,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,DU12 Duchesne - City,President,,DEM,JOSEPH R. BIDEN,22
@@ -798,7 +798,7 @@ Duchesne,DU12 Duchesne - City,Constitutional Amendment G,,,FOR,138
 Duchesne,DU12 Duchesne - City,Constitutional Amendment G,,,AGAINST,193
 Duchesne,DU21 Duchesne - County,Registered Voters,,,,4
 Duchesne,DU21 Duchesne - County,Ballots Cast,,,,5
-Duchesne,DU21 Duchesne - County,Ballots Cast - Blank,,,,0
+Duchesne,DU21 Duchesne - County,Ballots Cast Blank,,,,0
 Duchesne,DU21 Duchesne - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,DU21 Duchesne - County,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,DU21 Duchesne - County,President,,DEM,JOSEPH R. BIDEN,1
@@ -877,7 +877,7 @@ Duchesne,DU21 Duchesne - County,Constitutional Amendment G,,,FOR,2
 Duchesne,DU21 Duchesne - County,Constitutional Amendment G,,,AGAINST,3
 Duchesne,DU21GW - GATEWAY SSD,Registered Voters,,,,332
 Duchesne,DU21GW - GATEWAY SSD,Ballots Cast,,,,312
-Duchesne,DU21GW - GATEWAY SSD,Ballots Cast - Blank,,,,0
+Duchesne,DU21GW - GATEWAY SSD,Ballots Cast Blank,,,,0
 Duchesne,DU21GW - GATEWAY SSD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,DU21GW - GATEWAY SSD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,DU21GW - GATEWAY SSD,President,,DEM,JOSEPH R. BIDEN,36
@@ -958,7 +958,7 @@ Duchesne,DU21GW - GATEWAY SSD,Constitutional Amendment G,,,FOR,158
 Duchesne,DU21GW - GATEWAY SSD,Constitutional Amendment G,,,AGAINST,141
 Duchesne,DU22 Duchesne - City,Registered Voters,,,,443
 Duchesne,DU22 Duchesne - City,Ballots Cast,,,,410
-Duchesne,DU22 Duchesne - City,Ballots Cast - Blank,,,,0
+Duchesne,DU22 Duchesne - City,Ballots Cast Blank,,,,0
 Duchesne,DU22 Duchesne - City,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Duchesne,DU22 Duchesne - City,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Duchesne,DU22 Duchesne - City,President,,DEM,JOSEPH R. BIDEN,26
@@ -1039,7 +1039,7 @@ Duchesne,DU22 Duchesne - City,Constitutional Amendment G,,,FOR,157
 Duchesne,DU22 Duchesne - City,Constitutional Amendment G,,,AGAINST,237
 Duchesne,FR11 Fruitland - County,Registered Voters,,,,1
 Duchesne,FR11 Fruitland - County,Ballots Cast,,,,5
-Duchesne,FR11 Fruitland - County,Ballots Cast - Blank,,,,0
+Duchesne,FR11 Fruitland - County,Ballots Cast Blank,,,,0
 Duchesne,FR11 Fruitland - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,FR11 Fruitland - County,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Duchesne,FR11 Fruitland - County,President,,DEM,JOSEPH R. BIDEN,1
@@ -1118,7 +1118,7 @@ Duchesne,FR11 Fruitland - County,Constitutional Amendment G,,,FOR,3
 Duchesne,FR11 Fruitland - County,Constitutional Amendment G,,,AGAINST,2
 Duchesne,FR11GW - GATEWAY SSD,Registered Voters,,,,296
 Duchesne,FR11GW - GATEWAY SSD,Ballots Cast,,,,250
-Duchesne,FR11GW - GATEWAY SSD,Ballots Cast - Blank,,,,0
+Duchesne,FR11GW - GATEWAY SSD,Ballots Cast Blank,,,,0
 Duchesne,FR11GW - GATEWAY SSD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,FR11GW - GATEWAY SSD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,FR11GW - GATEWAY SSD,President,,DEM,JOSEPH R. BIDEN,48
@@ -1199,7 +1199,7 @@ Duchesne,FR11GW - GATEWAY SSD,Constitutional Amendment G,,,FOR,115
 Duchesne,FR11GW - GATEWAY SSD,Constitutional Amendment G,,,AGAINST,122
 Duchesne,FR21GW - GATEWAY SSD,Registered Voters,,,,133
 Duchesne,FR21GW - GATEWAY SSD,Ballots Cast,,,,120
-Duchesne,FR21GW - GATEWAY SSD,Ballots Cast - Blank,,,,0
+Duchesne,FR21GW - GATEWAY SSD,Ballots Cast Blank,,,,0
 Duchesne,FR21GW - GATEWAY SSD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,FR21GW - GATEWAY SSD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,FR21GW - GATEWAY SSD,President,,DEM,JOSEPH R. BIDEN,22
@@ -1280,7 +1280,7 @@ Duchesne,FR21GW - GATEWAY SSD,Constitutional Amendment G,,,FOR,38
 Duchesne,FR21GW - GATEWAY SSD,Constitutional Amendment G,,,AGAINST,75
 Duchesne,MH11 Mountain Home - County,Registered Voters,,,,1
 Duchesne,MH11 Mountain Home - County,Ballots Cast,,,,1
-Duchesne,MH11 Mountain Home - County,Ballots Cast - Blank,,,,0
+Duchesne,MH11 Mountain Home - County,Ballots Cast Blank,,,,0
 Duchesne,MH11 Mountain Home - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,MH11 Mountain Home - County,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,MH11 Mountain Home - County,President,,DEM,JOSEPH R. BIDEN,1
@@ -1359,7 +1359,7 @@ Duchesne,MH11 Mountain Home - County,Constitutional Amendment G,,,FOR,1
 Duchesne,MH11 Mountain Home - County,Constitutional Amendment G,,,AGAINST,0
 Duchesne,MH11GW - GATEWAY SSD,Registered Voters,,,,28
 Duchesne,MH11GW - GATEWAY SSD,Ballots Cast,,,,21
-Duchesne,MH11GW - GATEWAY SSD,Ballots Cast - Blank,,,,0
+Duchesne,MH11GW - GATEWAY SSD,Ballots Cast Blank,,,,0
 Duchesne,MH11GW - GATEWAY SSD,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,MH11GW - GATEWAY SSD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,MH11GW - GATEWAY SSD,President,,DEM,JOSEPH R. BIDEN,1
@@ -1440,7 +1440,7 @@ Duchesne,MH11GW - GATEWAY SSD,Constitutional Amendment G,,,FOR,9
 Duchesne,MH11GW - GATEWAY SSD,Constitutional Amendment G,,,AGAINST,12
 Duchesne,MH11UC UPPER COMM REC SSD,Registered Voters,,,,515
 Duchesne,MH11UC UPPER COMM REC SSD,Ballots Cast,,,,465
-Duchesne,MH11UC UPPER COMM REC SSD,Ballots Cast - Blank,,,,0
+Duchesne,MH11UC UPPER COMM REC SSD,Ballots Cast Blank,,,,0
 Duchesne,MH11UC UPPER COMM REC SSD,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Duchesne,MH11UC UPPER COMM REC SSD,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,MH11UC UPPER COMM REC SSD,President,,DEM,JOSEPH R. BIDEN,39
@@ -1521,7 +1521,7 @@ Duchesne,MH11UC UPPER COMM REC SSD,Constitutional Amendment G,,,FOR,159
 Duchesne,MH11UC UPPER COMM REC SSD,Constitutional Amendment G,,,AGAINST,282
 Duchesne,MY11 Myton - County,Registered Voters,,,,265
 Duchesne,MY11 Myton - County,Ballots Cast,,,,242
-Duchesne,MY11 Myton - County,Ballots Cast - Blank,,,,0
+Duchesne,MY11 Myton - County,Ballots Cast Blank,,,,0
 Duchesne,MY11 Myton - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,MY11 Myton - County,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,MY11 Myton - County,President,,DEM,JOSEPH R. BIDEN,21
@@ -1598,7 +1598,7 @@ Duchesne,MY11 Myton - County,Constitutional Amendment G,,,FOR,77
 Duchesne,MY11 Myton - County,Constitutional Amendment G,,,AGAINST,152
 Duchesne,MY12 Myton - City,Registered Voters,,,,209
 Duchesne,MY12 Myton - City,Ballots Cast,,,,168
-Duchesne,MY12 Myton - City,Ballots Cast - Blank,,,,0
+Duchesne,MY12 Myton - City,Ballots Cast Blank,,,,0
 Duchesne,MY12 Myton - City,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,MY12 Myton - City,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,MY12 Myton - City,President,,DEM,JOSEPH R. BIDEN,28
@@ -1675,7 +1675,7 @@ Duchesne,MY12 Myton - City,Constitutional Amendment G,,,FOR,93
 Duchesne,MY12 Myton - City,Constitutional Amendment G,,,AGAINST,58
 Duchesne,NE21 Neola - County,Registered Voters,,,,329
 Duchesne,NE21 Neola - County,Ballots Cast,,,,299
-Duchesne,NE21 Neola - County,Ballots Cast - Blank,,,,0
+Duchesne,NE21 Neola - County,Ballots Cast Blank,,,,0
 Duchesne,NE21 Neola - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,NE21 Neola - County,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Duchesne,NE21 Neola - County,President,,DEM,JOSEPH R. BIDEN,36
@@ -1752,7 +1752,7 @@ Duchesne,NE21 Neola - County,Constitutional Amendment G,,,FOR,128
 Duchesne,NE21 Neola - County,Constitutional Amendment G,,,AGAINST,153
 Duchesne,NE11 Neola - County,Registered Voters,,,,333
 Duchesne,NE11 Neola - County,Ballots Cast,,,,291
-Duchesne,NE11 Neola - County,Ballots Cast - Blank,,,,0
+Duchesne,NE11 Neola - County,Ballots Cast Blank,,,,0
 Duchesne,NE11 Neola - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,NE11 Neola - County,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,NE11 Neola - County,President,,DEM,JOSEPH R. BIDEN,26
@@ -1829,7 +1829,7 @@ Duchesne,NE11 Neola - County,Constitutional Amendment G,,,FOR,119
 Duchesne,NE11 Neola - County,Constitutional Amendment G,,,AGAINST,158
 Duchesne,RO12 Roosevelt - City,Registered Voters,,,,331
 Duchesne,RO12 Roosevelt - City,Ballots Cast,,,,253
-Duchesne,RO12 Roosevelt - City,Ballots Cast - Blank,,,,0
+Duchesne,RO12 Roosevelt - City,Ballots Cast Blank,,,,0
 Duchesne,RO12 Roosevelt - City,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO12 Roosevelt - City,President,,,"KANYE WEST, MICHELLE TIDBALL",4
 Duchesne,RO12 Roosevelt - City,President,,DEM,JOSEPH R. BIDEN,45
@@ -1906,7 +1906,7 @@ Duchesne,RO12 Roosevelt - City,Constitutional Amendment G,,,FOR,113
 Duchesne,RO12 Roosevelt - City,Constitutional Amendment G,,,AGAINST,122
 Duchesne,RO21 Roosevelt - County,Registered Voters,,,,69
 Duchesne,RO21 Roosevelt - County,Ballots Cast,,,,59
-Duchesne,RO21 Roosevelt - County,Ballots Cast - Blank,,,,0
+Duchesne,RO21 Roosevelt - County,Ballots Cast Blank,,,,0
 Duchesne,RO21 Roosevelt - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO21 Roosevelt - County,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,RO21 Roosevelt - County,President,,DEM,JOSEPH R. BIDEN,8
@@ -1983,7 +1983,7 @@ Duchesne,RO21 Roosevelt - County,Constitutional Amendment G,,,FOR,22
 Duchesne,RO21 Roosevelt - County,Constitutional Amendment G,,,AGAINST,32
 Duchesne,RO22 Roosevelt - City,Registered Voters,,,,525
 Duchesne,RO22 Roosevelt - City,Ballots Cast,,,,464
-Duchesne,RO22 Roosevelt - City,Ballots Cast - Blank,,,,0
+Duchesne,RO22 Roosevelt - City,Ballots Cast Blank,,,,0
 Duchesne,RO22 Roosevelt - City,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO22 Roosevelt - City,President,,,"KANYE WEST, MICHELLE TIDBALL",2
 Duchesne,RO22 Roosevelt - City,President,,DEM,JOSEPH R. BIDEN,54
@@ -2060,7 +2060,7 @@ Duchesne,RO22 Roosevelt - City,Constitutional Amendment G,,,FOR,171
 Duchesne,RO22 Roosevelt - City,Constitutional Amendment G,,,AGAINST,261
 Duchesne,RO32 Roosevelt - City,Registered Voters,,,,302
 Duchesne,RO32 Roosevelt - City,Ballots Cast,,,,241
-Duchesne,RO32 Roosevelt - City,Ballots Cast - Blank,,,,0
+Duchesne,RO32 Roosevelt - City,Ballots Cast Blank,,,,0
 Duchesne,RO32 Roosevelt - City,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO32 Roosevelt - City,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,RO32 Roosevelt - City,President,,DEM,JOSEPH R. BIDEN,35
@@ -2137,7 +2137,7 @@ Duchesne,RO32 Roosevelt - City,Constitutional Amendment G,,,FOR,131
 Duchesne,RO32 Roosevelt - City,Constitutional Amendment G,,,AGAINST,95
 Duchesne,RO41 Roosevelt - County,Registered Voters,,,,502
 Duchesne,RO41 Roosevelt - County,Ballots Cast,,,,435
-Duchesne,RO41 Roosevelt - County,Ballots Cast - Blank,,,,0
+Duchesne,RO41 Roosevelt - County,Ballots Cast Blank,,,,0
 Duchesne,RO41 Roosevelt - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO41 Roosevelt - County,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,RO41 Roosevelt - County,President,,DEM,JOSEPH R. BIDEN,21
@@ -2214,7 +2214,7 @@ Duchesne,RO41 Roosevelt - County,Constitutional Amendment G,,,FOR,196
 Duchesne,RO41 Roosevelt - County,Constitutional Amendment G,,,AGAINST,215
 Duchesne,RO42 Roosevelt -City,Registered Voters,,,,250
 Duchesne,RO42 Roosevelt -City,Ballots Cast,,,,198
-Duchesne,RO42 Roosevelt -City,Ballots Cast - Blank,,,,0
+Duchesne,RO42 Roosevelt -City,Ballots Cast Blank,,,,0
 Duchesne,RO42 Roosevelt -City,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO42 Roosevelt -City,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,RO42 Roosevelt -City,President,,DEM,JOSEPH R. BIDEN,37
@@ -2291,7 +2291,7 @@ Duchesne,RO42 Roosevelt -City,Constitutional Amendment G,,,FOR,95
 Duchesne,RO42 Roosevelt -City,Constitutional Amendment G,,,AGAINST,94
 Duchesne,RO51 Roosevelt - County,Registered Voters,,,,207
 Duchesne,RO51 Roosevelt - County,Ballots Cast,,,,187
-Duchesne,RO51 Roosevelt - County,Ballots Cast - Blank,,,,0
+Duchesne,RO51 Roosevelt - County,Ballots Cast Blank,,,,0
 Duchesne,RO51 Roosevelt - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO51 Roosevelt - County,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,RO51 Roosevelt - County,President,,DEM,JOSEPH R. BIDEN,10
@@ -2368,7 +2368,7 @@ Duchesne,RO51 Roosevelt - County,Constitutional Amendment G,,,FOR,83
 Duchesne,RO51 Roosevelt - County,Constitutional Amendment G,,,AGAINST,93
 Duchesne,RO52 Roosevelt - City,Registered Voters,,,,484
 Duchesne,RO52 Roosevelt - City,Ballots Cast,,,,386
-Duchesne,RO52 Roosevelt - City,Ballots Cast - Blank,,,,0
+Duchesne,RO52 Roosevelt - City,Ballots Cast Blank,,,,0
 Duchesne,RO52 Roosevelt - City,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Duchesne,RO52 Roosevelt - City,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Duchesne,RO52 Roosevelt - City,President,,DEM,JOSEPH R. BIDEN,32
@@ -2445,7 +2445,7 @@ Duchesne,RO52 Roosevelt - City,Constitutional Amendment G,,,FOR,139
 Duchesne,RO52 Roosevelt - City,Constitutional Amendment G,,,AGAINST,210
 Duchesne,RO62 Roosevelt - City,Registered Voters,,,,404
 Duchesne,RO62 Roosevelt - City,Ballots Cast,,,,354
-Duchesne,RO62 Roosevelt - City,Ballots Cast - Blank,,,,0
+Duchesne,RO62 Roosevelt - City,Ballots Cast Blank,,,,0
 Duchesne,RO62 Roosevelt - City,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Duchesne,RO62 Roosevelt - City,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,RO62 Roosevelt - City,President,,DEM,JOSEPH R. BIDEN,33
@@ -2522,7 +2522,7 @@ Duchesne,RO62 Roosevelt - City,Constitutional Amendment G,,,FOR,133
 Duchesne,RO62 Roosevelt - City,Constitutional Amendment G,,,AGAINST,206
 Duchesne,RO71 Roosevelt - County,Registered Voters,,,,330
 Duchesne,RO71 Roosevelt - County,Ballots Cast,,,,269
-Duchesne,RO71 Roosevelt - County,Ballots Cast - Blank,,,,0
+Duchesne,RO71 Roosevelt - County,Ballots Cast Blank,,,,0
 Duchesne,RO71 Roosevelt - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO71 Roosevelt - County,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Duchesne,RO71 Roosevelt - County,President,,DEM,JOSEPH R. BIDEN,18
@@ -2599,7 +2599,7 @@ Duchesne,RO71 Roosevelt - County,Constitutional Amendment G,,,FOR,115
 Duchesne,RO71 Roosevelt - County,Constitutional Amendment G,,,AGAINST,136
 Duchesne,RO72 Roosevelt - City,Registered Voters,,,,292
 Duchesne,RO72 Roosevelt - City,Ballots Cast,,,,221
-Duchesne,RO72 Roosevelt - City,Ballots Cast - Blank,,,,0
+Duchesne,RO72 Roosevelt - City,Ballots Cast Blank,,,,0
 Duchesne,RO72 Roosevelt - City,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO72 Roosevelt - City,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Duchesne,RO72 Roosevelt - City,President,,DEM,JOSEPH R. BIDEN,32
@@ -2676,7 +2676,7 @@ Duchesne,RO72 Roosevelt - City,Constitutional Amendment G,,,FOR,118
 Duchesne,RO72 Roosevelt - City,Constitutional Amendment G,,,AGAINST,87
 Duchesne,RO81 Roosevelt - County,Registered Voters,,,,277
 Duchesne,RO81 Roosevelt - County,Ballots Cast,,,,248
-Duchesne,RO81 Roosevelt - County,Ballots Cast - Blank,,,,0
+Duchesne,RO81 Roosevelt - County,Ballots Cast Blank,,,,0
 Duchesne,RO81 Roosevelt - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO81 Roosevelt - County,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Duchesne,RO81 Roosevelt - County,President,,DEM,JOSEPH R. BIDEN,14
@@ -2753,7 +2753,7 @@ Duchesne,RO81 Roosevelt - County,Constitutional Amendment G,,,FOR,94
 Duchesne,RO81 Roosevelt - County,Constitutional Amendment G,,,AGAINST,135
 Duchesne,RO82 Roosevelt - City,Registered Voters,,,,172
 Duchesne,RO82 Roosevelt - City,Ballots Cast,,,,126
-Duchesne,RO82 Roosevelt - City,Ballots Cast - Blank,,,,0
+Duchesne,RO82 Roosevelt - City,Ballots Cast Blank,,,,0
 Duchesne,RO82 Roosevelt - City,President,,,"BROCK PIERCE, KARLA BALLARD",1
 Duchesne,RO82 Roosevelt - City,President,,,"KANYE WEST, MICHELLE TIDBALL",1
 Duchesne,RO82 Roosevelt - City,President,,DEM,JOSEPH R. BIDEN,27
@@ -2830,7 +2830,7 @@ Duchesne,RO82 Roosevelt - City,Constitutional Amendment G,,,FOR,63
 Duchesne,RO82 Roosevelt - City,Constitutional Amendment G,,,AGAINST,53
 Duchesne,RO91 Roosevelt - County,Registered Voters,,,,7
 Duchesne,RO91 Roosevelt - County,Ballots Cast,,,,4
-Duchesne,RO91 Roosevelt - County,Ballots Cast - Blank,,,,0
+Duchesne,RO91 Roosevelt - County,Ballots Cast Blank,,,,0
 Duchesne,RO91 Roosevelt - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO91 Roosevelt - County,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,RO91 Roosevelt - County,President,,DEM,JOSEPH R. BIDEN,0
@@ -2907,7 +2907,7 @@ Duchesne,RO91 Roosevelt - County,Constitutional Amendment G,,,FOR,3
 Duchesne,RO91 Roosevelt - County,Constitutional Amendment G,,,AGAINST,1
 Duchesne,RO92 Roosevelt - City,Registered Voters,,,,109
 Duchesne,RO92 Roosevelt - City,Ballots Cast,,,,101
-Duchesne,RO92 Roosevelt - City,Ballots Cast - Blank,,,,0
+Duchesne,RO92 Roosevelt - City,Ballots Cast Blank,,,,0
 Duchesne,RO92 Roosevelt - City,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,RO92 Roosevelt - City,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,RO92 Roosevelt - City,President,,DEM,JOSEPH R. BIDEN,4
@@ -2984,7 +2984,7 @@ Duchesne,RO92 Roosevelt - City,Constitutional Amendment G,,,FOR,44
 Duchesne,RO92 Roosevelt - City,Constitutional Amendment G,,,AGAINST,55
 Duchesne,TA11 Tabiona - County,Registered Voters,,,,345
 Duchesne,TA11 Tabiona - County,Ballots Cast,,,,295
-Duchesne,TA11 Tabiona - County,Ballots Cast - Blank,,,,0
+Duchesne,TA11 Tabiona - County,Ballots Cast Blank,,,,0
 Duchesne,TA11 Tabiona - County,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,TA11 Tabiona - County,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,TA11 Tabiona - County,President,,DEM,JOSEPH R. BIDEN,19
@@ -3063,7 +3063,7 @@ Duchesne,TA11 Tabiona - County,Constitutional Amendment G,,,FOR,119
 Duchesne,TA11 Tabiona - County,Constitutional Amendment G,,,AGAINST,149
 Duchesne,TA12 Tabiona - City,Registered Voters,,,,88
 Duchesne,TA12 Tabiona - City,Ballots Cast,,,,81
-Duchesne,TA12 Tabiona - City,Ballots Cast - Blank,,,,0
+Duchesne,TA12 Tabiona - City,Ballots Cast Blank,,,,0
 Duchesne,TA12 Tabiona - City,President,,,"BROCK PIERCE, KARLA BALLARD",0
 Duchesne,TA12 Tabiona - City,President,,,"KANYE WEST, MICHELLE TIDBALL",0
 Duchesne,TA12 Tabiona - City,President,,DEM,JOSEPH R. BIDEN,5
