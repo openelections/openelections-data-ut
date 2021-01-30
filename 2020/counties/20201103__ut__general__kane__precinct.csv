@@ -1,23 +1,23 @@
 county,precinct,office,district,candidate,party,votes
 Kane,Kanab 1,Registered Voters,,,,593
 Kane,Kanab 1,Ballots Cast,,,,510
-Kane,Kanab 1,President,,Brock Pierce / Karla Ballard,,1
+Kane,Kanab 1,President,,Brock Pierce,,1
 Kane,Kanab 1,President,,Kanye West / Michelle Tidball,,3
-Kane,Kanab 1,President,,Joseph R. Biden / Kamala D. Harris,DEM,117
-Kane,Kanab 1,President,,Don Blankenship / William Mohr,CON,2
-Kane,Kanab 1,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
+Kane,Kanab 1,President,,Joseph R. Biden,DEM,117
+Kane,Kanab 1,President,,Don Blankenship,CON,2
+Kane,Kanab 1,President,,Jo Jorgensen,LIB,9
 Kane,Kanab 1,President,,Joe McHugh / Elizabeth Storm,,0
-Kane,Kanab 1,President,,Howie Hawkins / Angela Walker,GRN,2
+Kane,Kanab 1,President,,Howie Hawkins,GRN,2
 Kane,Kanab 1,President,,Gloria La Riva,,0
-Kane,Kanab 1,President,,Donald J. Trump / Michael R. Pence,REP,373
+Kane,Kanab 1,President,,Donald J. Trump,REP,373
 Kane,Kanab 1,President,,Write-In Totals,,1
 Kane,Kanab 1,U.S. House,2,Kael Weston,DEM,100
 Kane,Kanab 1,U.S. House,2,Chris Stewart,REP,358
 Kane,Kanab 1,U.S. House,2,J. Robert Latham,LIB,16
-Kane,Kanab 1,Governor,,Chris Peterson / Karina Brown,DEM,90
-Kane,Kanab 1,Governor,,Greg Duerden / Wayne Hill,IAP,13
-Kane,Kanab 1,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,344
-Kane,Kanab 1,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,28
+Kane,Kanab 1,Governor,,Chris Peterson,DEM,90
+Kane,Kanab 1,Governor,,Greg Duerden,IAP,13
+Kane,Kanab 1,Governor,,Spencer J. Cox,REP,344
+Kane,Kanab 1,Governor,,Daniel Rhead Cottam,LIB,28
 Kane,Kanab 1,Governor,,Write-In Totals,,11
 Kane,Kanab 1,Attorney General,,Rudy J. Bautista,LIB,16
 Kane,Kanab 1,Attorney General,,Greg Skordas,DEM,97
@@ -33,23 +33,23 @@ Kane,Kanab 1,State Senate,24,Warren Rogers,IAP,53
 Kane,Kanab 1,State House,73,Phil Lyman,REP,385
 Kane,Kanab 2,Registered Voters,,,,834
 Kane,Kanab 2,Ballots Cast,,,,719
-Kane,Kanab 2,President,,Brock Pierce / Karla Ballard,,0
+Kane,Kanab 2,President,,Brock Pierce,,0
 Kane,Kanab 2,President,,Kanye West / Michelle Tidball,,4
-Kane,Kanab 2,President,,Joseph R. Biden / Kamala D. Harris,DEM,240
-Kane,Kanab 2,President,,Don Blankenship / William Mohr,CON,2
-Kane,Kanab 2,President,,Jo Jorgensen / Jeremy Cohen,LIB,4
+Kane,Kanab 2,President,,Joseph R. Biden,DEM,240
+Kane,Kanab 2,President,,Don Blankenship,CON,2
+Kane,Kanab 2,President,,Jo Jorgensen,LIB,4
 Kane,Kanab 2,President,,Joe McHugh / Elizabeth Storm,,0
-Kane,Kanab 2,President,,Howie Hawkins / Angela Walker,GRN,3
+Kane,Kanab 2,President,,Howie Hawkins,GRN,3
 Kane,Kanab 2,President,,Gloria La Riva,,0
-Kane,Kanab 2,President,,Donald J. Trump / Michael R. Pence,REP,462
+Kane,Kanab 2,President,,Donald J. Trump,REP,462
 Kane,Kanab 2,President,,Write-In Totals,,3
 Kane,Kanab 2,U.S. House,2,Kael Weston,DEM,224
 Kane,Kanab 2,U.S. House,2,Chris Stewart,REP,441
 Kane,Kanab 2,U.S. House,2,J. Robert Latham,LIB,13
-Kane,Kanab 2,Governor,,Chris Peterson / Karina Brown,DEM,211
-Kane,Kanab 2,Governor,,Greg Duerden / Wayne Hill,IAP,6
-Kane,Kanab 2,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,448
-Kane,Kanab 2,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,11
+Kane,Kanab 2,Governor,,Chris Peterson,DEM,211
+Kane,Kanab 2,Governor,,Greg Duerden,IAP,6
+Kane,Kanab 2,Governor,,Spencer J. Cox,REP,448
+Kane,Kanab 2,Governor,,Daniel Rhead Cottam,LIB,11
 Kane,Kanab 2,Governor,,Write-In Totals,,18
 Kane,Kanab 2,Attorney General,,Rudy J. Bautista,LIB,21
 Kane,Kanab 2,Attorney General,,Greg Skordas,DEM,216
@@ -65,23 +65,23 @@ Kane,Kanab 2,State Senate,24,Warren Rogers,IAP,84
 Kane,Kanab 2,State House,73,Phil Lyman,REP,474
 Kane,Kanab 3,Registered Voters,,,,992
 Kane,Kanab 3,Ballots Cast,,,,843
-Kane,Kanab 3,President,,Brock Pierce / Karla Ballard,,1
+Kane,Kanab 3,President,,Brock Pierce,,1
 Kane,Kanab 3,President,,Kanye West / Michelle Tidball,,1
-Kane,Kanab 3,President,,Joseph R. Biden / Kamala D. Harris,DEM,212
-Kane,Kanab 3,President,,Don Blankenship / William Mohr,CON,5
-Kane,Kanab 3,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
+Kane,Kanab 3,President,,Joseph R. Biden,DEM,212
+Kane,Kanab 3,President,,Don Blankenship,CON,5
+Kane,Kanab 3,President,,Jo Jorgensen,LIB,9
 Kane,Kanab 3,President,,Joe McHugh / Elizabeth Storm,,1
-Kane,Kanab 3,President,,Howie Hawkins / Angela Walker,GRN,1
+Kane,Kanab 3,President,,Howie Hawkins,GRN,1
 Kane,Kanab 3,President,,Gloria La Riva,,0
-Kane,Kanab 3,President,,Donald J. Trump / Michael R. Pence,REP,596
+Kane,Kanab 3,President,,Donald J. Trump,REP,596
 Kane,Kanab 3,President,,Write-In Totals,,7
 Kane,Kanab 3,U.S. House,2,Kael Weston,DEM,188
 Kane,Kanab 3,U.S. House,2,Chris Stewart,REP,579
 Kane,Kanab 3,U.S. House,2,J. Robert Latham,LIB,21
-Kane,Kanab 3,Governor,,Chris Peterson / Karina Brown,DEM,181
-Kane,Kanab 3,Governor,,Greg Duerden / Wayne Hill,IAP,16
-Kane,Kanab 3,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,563
-Kane,Kanab 3,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,28
+Kane,Kanab 3,Governor,,Chris Peterson,DEM,181
+Kane,Kanab 3,Governor,,Greg Duerden,IAP,16
+Kane,Kanab 3,Governor,,Spencer J. Cox,REP,563
+Kane,Kanab 3,Governor,,Daniel Rhead Cottam,LIB,28
 Kane,Kanab 3,Governor,,Write-In Totals,,19
 Kane,Kanab 3,Attorney General,,Rudy J. Bautista,LIB,19
 Kane,Kanab 3,Attorney General,,Greg Skordas,DEM,184
@@ -97,23 +97,23 @@ Kane,Kanab 3,State Senate,24,Warren Rogers,IAP,72
 Kane,Kanab 3,State House,73,Phil Lyman,REP,618
 Kane,Kanab 4,Registered Voters,,,,1013
 Kane,Kanab 4,Ballots Cast,,,,877
-Kane,Kanab 4,President,,Brock Pierce / Karla Ballard,,1
+Kane,Kanab 4,President,,Brock Pierce,,1
 Kane,Kanab 4,President,,Kanye West / Michelle Tidball,,4
-Kane,Kanab 4,President,,Joseph R. Biden / Kamala D. Harris,DEM,305
-Kane,Kanab 4,President,,Don Blankenship / William Mohr,CON,3
-Kane,Kanab 4,President,,Jo Jorgensen / Jeremy Cohen,LIB,10
+Kane,Kanab 4,President,,Joseph R. Biden,DEM,305
+Kane,Kanab 4,President,,Don Blankenship,CON,3
+Kane,Kanab 4,President,,Jo Jorgensen,LIB,10
 Kane,Kanab 4,President,,Joe McHugh / Elizabeth Storm,,0
-Kane,Kanab 4,President,,Howie Hawkins / Angela Walker,GRN,0
+Kane,Kanab 4,President,,Howie Hawkins,GRN,0
 Kane,Kanab 4,President,,Gloria La Riva,,0
-Kane,Kanab 4,President,,Donald J. Trump / Michael R. Pence,REP,542
+Kane,Kanab 4,President,,Donald J. Trump,REP,542
 Kane,Kanab 4,President,,Write-In Totals,,6
 Kane,Kanab 4,U.S. House,2,Kael Weston,DEM,275
 Kane,Kanab 4,U.S. House,2,Chris Stewart,REP,500
 Kane,Kanab 4,U.S. House,2,J. Robert Latham,LIB,29
-Kane,Kanab 4,Governor,,Chris Peterson / Karina Brown,DEM,257
-Kane,Kanab 4,Governor,,Greg Duerden / Wayne Hill,IAP,13
-Kane,Kanab 4,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,523
-Kane,Kanab 4,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,25
+Kane,Kanab 4,Governor,,Chris Peterson,DEM,257
+Kane,Kanab 4,Governor,,Greg Duerden,IAP,13
+Kane,Kanab 4,Governor,,Spencer J. Cox,REP,523
+Kane,Kanab 4,Governor,,Daniel Rhead Cottam,LIB,25
 Kane,Kanab 4,Governor,,Write-In Totals,,24
 Kane,Kanab 4,Attorney General,,Rudy J. Bautista,LIB,36
 Kane,Kanab 4,Attorney General,,Greg Skordas,DEM,265
@@ -129,23 +129,23 @@ Kane,Kanab 4,State Senate,24,Warren Rogers,IAP,111
 Kane,Kanab 4,State House,73,Phil Lyman,REP,584
 Kane,Alton,Registered Voters,,,,105
 Kane,Alton,Ballots Cast,,,,98
-Kane,Alton,President,,Brock Pierce / Karla Ballard,,0
+Kane,Alton,President,,Brock Pierce,,0
 Kane,Alton,President,,Kanye West / Michelle Tidball,,0
-Kane,Alton,President,,Joseph R. Biden / Kamala D. Harris,DEM,10
-Kane,Alton,President,,Don Blankenship / William Mohr,CON,0
-Kane,Alton,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
+Kane,Alton,President,,Joseph R. Biden,DEM,10
+Kane,Alton,President,,Don Blankenship,CON,0
+Kane,Alton,President,,Jo Jorgensen,LIB,2
 Kane,Alton,President,,Joe McHugh / Elizabeth Storm,,0
-Kane,Alton,President,,Howie Hawkins / Angela Walker,GRN,0
+Kane,Alton,President,,Howie Hawkins,GRN,0
 Kane,Alton,President,,Gloria La Riva,,0
-Kane,Alton,President,,Donald J. Trump / Michael R. Pence,REP,86
+Kane,Alton,President,,Donald J. Trump,REP,86
 Kane,Alton,President,,Write-In Totals,,0
 Kane,Alton,U.S. House,2,Kael Weston,DEM,9
 Kane,Alton,U.S. House,2,Chris Stewart,REP,73
 Kane,Alton,U.S. House,2,J. Robert Latham,LIB,3
-Kane,Alton,Governor,,Chris Peterson / Karina Brown,DEM,7
-Kane,Alton,Governor,,Greg Duerden / Wayne Hill,IAP,1
-Kane,Alton,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,73
-Kane,Alton,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,3
+Kane,Alton,Governor,,Chris Peterson,DEM,7
+Kane,Alton,Governor,,Greg Duerden,IAP,1
+Kane,Alton,Governor,,Spencer J. Cox,REP,73
+Kane,Alton,Governor,,Daniel Rhead Cottam,LIB,3
 Kane,Alton,Governor,,Write-In Totals,,5
 Kane,Alton,Attorney General,,Rudy J. Bautista,LIB,5
 Kane,Alton,Attorney General,,Greg Skordas,DEM,9
@@ -161,23 +161,23 @@ Kane,Alton,State Senate,24,Warren Rogers,IAP,5
 Kane,Alton,State House,73,Phil Lyman,REP,76
 Kane,Glendale,Registered Voters,,,,254
 Kane,Glendale,Ballots Cast,,,,235
-Kane,Glendale,President,,Brock Pierce / Karla Ballard,,0
+Kane,Glendale,President,,Brock Pierce,,0
 Kane,Glendale,President,,Kanye West / Michelle Tidball,,1
-Kane,Glendale,President,,Joseph R. Biden / Kamala D. Harris,DEM,22
-Kane,Glendale,President,,Don Blankenship / William Mohr,CON,2
-Kane,Glendale,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
+Kane,Glendale,President,,Joseph R. Biden,DEM,22
+Kane,Glendale,President,,Don Blankenship,CON,2
+Kane,Glendale,President,,Jo Jorgensen,LIB,2
 Kane,Glendale,President,,Joe McHugh / Elizabeth Storm,,0
-Kane,Glendale,President,,Howie Hawkins / Angela Walker,GRN,0
+Kane,Glendale,President,,Howie Hawkins,GRN,0
 Kane,Glendale,President,,Gloria La Riva,,0
-Kane,Glendale,President,,Donald J. Trump / Michael R. Pence,REP,206
+Kane,Glendale,President,,Donald J. Trump,REP,206
 Kane,Glendale,President,,Write-In Totals,,0
 Kane,Glendale,U.S. House,2,Kael Weston,DEM,19
 Kane,Glendale,U.S. House,2,Chris Stewart,REP,194
 Kane,Glendale,U.S. House,2,J. Robert Latham,LIB,8
-Kane,Glendale,Governor,,Chris Peterson / Karina Brown,DEM,19
-Kane,Glendale,Governor,,Greg Duerden / Wayne Hill,IAP,6
-Kane,Glendale,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,179
-Kane,Glendale,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,11
+Kane,Glendale,Governor,,Chris Peterson,DEM,19
+Kane,Glendale,Governor,,Greg Duerden,IAP,6
+Kane,Glendale,Governor,,Spencer J. Cox,REP,179
+Kane,Glendale,Governor,,Daniel Rhead Cottam,LIB,11
 Kane,Glendale,Governor,,Write-In Totals,,16
 Kane,Glendale,Attorney General,,Rudy J. Bautista,LIB,4
 Kane,Glendale,Attorney General,,Greg Skordas,DEM,25
@@ -193,23 +193,23 @@ Kane,Glendale,State Senate,24,Warren Rogers,IAP,12
 Kane,Glendale,State House,73,Phil Lyman,REP,204
 Kane,Orderville,Registered Voters,,,,483
 Kane,Orderville,Ballots Cast,,,,399
-Kane,Orderville,President,,Brock Pierce / Karla Ballard,,1
+Kane,Orderville,President,,Brock Pierce,,1
 Kane,Orderville,President,,Kanye West / Michelle Tidball,,2
-Kane,Orderville,President,,Joseph R. Biden / Kamala D. Harris,DEM,42
-Kane,Orderville,President,,Don Blankenship / William Mohr,CON,0
-Kane,Orderville,President,,Jo Jorgensen / Jeremy Cohen,LIB,6
+Kane,Orderville,President,,Joseph R. Biden,DEM,42
+Kane,Orderville,President,,Don Blankenship,CON,0
+Kane,Orderville,President,,Jo Jorgensen,LIB,6
 Kane,Orderville,President,,Joe McHugh / Elizabeth Storm,,0
-Kane,Orderville,President,,Howie Hawkins / Angela Walker,GRN,1
+Kane,Orderville,President,,Howie Hawkins,GRN,1
 Kane,Orderville,President,,Gloria La Riva,,0
-Kane,Orderville,President,,Donald J. Trump / Michael R. Pence,REP,341
+Kane,Orderville,President,,Donald J. Trump,REP,341
 Kane,Orderville,President,,Write-In Totals,,3
 Kane,Orderville,U.S. House,2,Kael Weston,DEM,32
 Kane,Orderville,U.S. House,2,Chris Stewart,REP,337
 Kane,Orderville,U.S. House,2,J. Robert Latham,LIB,8
-Kane,Orderville,Governor,,Chris Peterson / Karina Brown,DEM,34
-Kane,Orderville,Governor,,Greg Duerden / Wayne Hill,IAP,11
-Kane,Orderville,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,287
-Kane,Orderville,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,15
+Kane,Orderville,Governor,,Chris Peterson,DEM,34
+Kane,Orderville,Governor,,Greg Duerden,IAP,11
+Kane,Orderville,Governor,,Spencer J. Cox,REP,287
+Kane,Orderville,Governor,,Daniel Rhead Cottam,LIB,15
 Kane,Orderville,Governor,,Write-In Totals,,29
 Kane,Orderville,Attorney General,,Rudy J. Bautista,LIB,14
 Kane,Orderville,Attorney General,,Greg Skordas,DEM,34
@@ -225,23 +225,23 @@ Kane,Orderville,State Senate,24,Warren Rogers,IAP,20
 Kane,Orderville,State House,73,Phil Lyman,REP,331
 Kane,Bullfrog,Registered Voters,,,,44
 Kane,Bullfrog,Ballots Cast,,,,27
-Kane,Bullfrog,President,,Brock Pierce / Karla Ballard,,0
+Kane,Bullfrog,President,,Brock Pierce,,0
 Kane,Bullfrog,President,,Kanye West / Michelle Tidball,,0
-Kane,Bullfrog,President,,Joseph R. Biden / Kamala D. Harris,DEM,13
-Kane,Bullfrog,President,,Don Blankenship / William Mohr,CON,0
-Kane,Bullfrog,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
+Kane,Bullfrog,President,,Joseph R. Biden,DEM,13
+Kane,Bullfrog,President,,Don Blankenship,CON,0
+Kane,Bullfrog,President,,Jo Jorgensen,LIB,2
 Kane,Bullfrog,President,,Joe McHugh / Elizabeth Storm,,0
-Kane,Bullfrog,President,,Howie Hawkins / Angela Walker,GRN,0
+Kane,Bullfrog,President,,Howie Hawkins,GRN,0
 Kane,Bullfrog,President,,Gloria La Riva,,0
-Kane,Bullfrog,President,,Donald J. Trump / Michael R. Pence,REP,12
+Kane,Bullfrog,President,,Donald J. Trump,REP,12
 Kane,Bullfrog,President,,Write-In Totals,,0
 Kane,Bullfrog,U.S. House,2,Kael Weston,DEM,12
 Kane,Bullfrog,U.S. House,2,Chris Stewart,REP,14
 Kane,Bullfrog,U.S. House,2,J. Robert Latham,LIB,1
-Kane,Bullfrog,Governor,,Chris Peterson / Karina Brown,DEM,10
-Kane,Bullfrog,Governor,,Greg Duerden / Wayne Hill,IAP,0
-Kane,Bullfrog,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,15
-Kane,Bullfrog,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,2
+Kane,Bullfrog,Governor,,Chris Peterson,DEM,10
+Kane,Bullfrog,Governor,,Greg Duerden,IAP,0
+Kane,Bullfrog,Governor,,Spencer J. Cox,REP,15
+Kane,Bullfrog,Governor,,Daniel Rhead Cottam,LIB,2
 Kane,Bullfrog,Governor,,Write-In Totals,,0
 Kane,Bullfrog,Attorney General,,Rudy J. Bautista,LIB,3
 Kane,Bullfrog,Attorney General,,Greg Skordas,DEM,11
@@ -257,23 +257,23 @@ Kane,Bullfrog,State Senate,24,Warren Rogers,IAP,6
 Kane,Bullfrog,State House,73,Phil Lyman,REP,20
 Kane,Big Water,Registered Voters,,,,273
 Kane,Big Water,Ballots Cast,,,,207
-Kane,Big Water,President,,Brock Pierce / Karla Ballard,,3
+Kane,Big Water,President,,Brock Pierce,,3
 Kane,Big Water,President,,Kanye West / Michelle Tidball,,0
-Kane,Big Water,President,,Joseph R. Biden / Kamala D. Harris,DEM,61
-Kane,Big Water,President,,Don Blankenship / William Mohr,CON,1
-Kane,Big Water,President,,Jo Jorgensen / Jeremy Cohen,LIB,4
+Kane,Big Water,President,,Joseph R. Biden,DEM,61
+Kane,Big Water,President,,Don Blankenship,CON,1
+Kane,Big Water,President,,Jo Jorgensen,LIB,4
 Kane,Big Water,President,,Joe McHugh / Elizabeth Storm,,0
-Kane,Big Water,President,,Howie Hawkins / Angela Walker,GRN,1
+Kane,Big Water,President,,Howie Hawkins,GRN,1
 Kane,Big Water,President,,Gloria La Riva,,0
-Kane,Big Water,President,,Donald J. Trump / Michael R. Pence,REP,133
+Kane,Big Water,President,,Donald J. Trump,REP,133
 Kane,Big Water,President,,Write-In Totals,,4
 Kane,Big Water,U.S. House,2,Kael Weston,DEM,60
 Kane,Big Water,U.S. House,2,Chris Stewart,REP,122
 Kane,Big Water,U.S. House,2,J. Robert Latham,LIB,11
-Kane,Big Water,Governor,,Chris Peterson / Karina Brown,DEM,60
-Kane,Big Water,Governor,,Greg Duerden / Wayne Hill,IAP,1
-Kane,Big Water,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,122
-Kane,Big Water,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,13
+Kane,Big Water,Governor,,Chris Peterson,DEM,60
+Kane,Big Water,Governor,,Greg Duerden,IAP,1
+Kane,Big Water,Governor,,Spencer J. Cox,REP,122
+Kane,Big Water,Governor,,Daniel Rhead Cottam,LIB,13
 Kane,Big Water,Governor,,Write-In Totals,,3
 Kane,Big Water,Attorney General,,Rudy J. Bautista,LIB,16
 Kane,Big Water,Attorney General,,Greg Skordas,DEM,57
@@ -289,23 +289,23 @@ Kane,Big Water,State Senate,24,Warren Rogers,IAP,37
 Kane,Big Water,State House,73,Phil Lyman,REP,154
 Kane,CM,Registered Voters,,,,288
 Kane,CM,Ballots Cast,,,,235
-Kane,CM,President,,Brock Pierce / Karla Ballard,,0
+Kane,CM,President,,Brock Pierce,,0
 Kane,CM,President,,Kanye West / Michelle Tidball,,0
-Kane,CM,President,,Joseph R. Biden / Kamala D. Harris,DEM,39
-Kane,CM,President,,Don Blankenship / William Mohr,CON,1
-Kane,CM,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
+Kane,CM,President,,Joseph R. Biden,DEM,39
+Kane,CM,President,,Don Blankenship,CON,1
+Kane,CM,President,,Jo Jorgensen,LIB,2
 Kane,CM,President,,Joe McHugh / Elizabeth Storm,,1
-Kane,CM,President,,Howie Hawkins / Angela Walker,GRN,0
+Kane,CM,President,,Howie Hawkins,GRN,0
 Kane,CM,President,,Gloria La Riva,,0
-Kane,CM,President,,Donald J. Trump / Michael R. Pence,REP,190
+Kane,CM,President,,Donald J. Trump,REP,190
 Kane,CM,President,,Write-In Totals,,1
 Kane,CM,U.S. House,2,Kael Weston,DEM,30
 Kane,CM,U.S. House,2,Chris Stewart,REP,183
 Kane,CM,U.S. House,2,J. Robert Latham,LIB,7
-Kane,CM,Governor,,Chris Peterson / Karina Brown,DEM,29
-Kane,CM,Governor,,Greg Duerden / Wayne Hill,IAP,3
-Kane,CM,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,192
-Kane,CM,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Kane,CM,Governor,,Chris Peterson,DEM,29
+Kane,CM,Governor,,Greg Duerden,IAP,3
+Kane,CM,Governor,,Spencer J. Cox,REP,192
+Kane,CM,Governor,,Daniel Rhead Cottam,LIB,0
 Kane,CM,Governor,,Write-In Totals,,2
 Kane,CM,Attorney General,,Rudy J. Bautista,LIB,4
 Kane,CM,Attorney General,,Greg Skordas,DEM,28
@@ -321,23 +321,23 @@ Kane,CM,State Senate,24,Warren Rogers,IAP,14
 Kane,CM,State House,73,Phil Lyman,REP,194
 Kane,CWB,Registered Voters,,,,69
 Kane,CWB,Ballots Cast,,,,61
-Kane,CWB,President,,Brock Pierce / Karla Ballard,,0
+Kane,CWB,President,,Brock Pierce,,0
 Kane,CWB,President,,Kanye West / Michelle Tidball,,0
-Kane,CWB,President,,Joseph R. Biden / Kamala D. Harris,DEM,14
-Kane,CWB,President,,Don Blankenship / William Mohr,CON,0
-Kane,CWB,President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Kane,CWB,President,,Joseph R. Biden,DEM,14
+Kane,CWB,President,,Don Blankenship,CON,0
+Kane,CWB,President,,Jo Jorgensen,LIB,1
 Kane,CWB,President,,Joe McHugh / Elizabeth Storm,,0
-Kane,CWB,President,,Howie Hawkins / Angela Walker,GRN,0
+Kane,CWB,President,,Howie Hawkins,GRN,0
 Kane,CWB,President,,Gloria La Riva,,0
-Kane,CWB,President,,Donald J. Trump / Michael R. Pence,REP,45
+Kane,CWB,President,,Donald J. Trump,REP,45
 Kane,CWB,President,,Write-In Totals,,0
 Kane,CWB,U.S. House,2,Kael Weston,DEM,11
 Kane,CWB,U.S. House,2,Chris Stewart,REP,44
 Kane,CWB,U.S. House,2,J. Robert Latham,LIB,2
-Kane,CWB,Governor,,Chris Peterson / Karina Brown,DEM,12
-Kane,CWB,Governor,,Greg Duerden / Wayne Hill,IAP,0
-Kane,CWB,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,46
-Kane,CWB,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,2
+Kane,CWB,Governor,,Chris Peterson,DEM,12
+Kane,CWB,Governor,,Greg Duerden,IAP,0
+Kane,CWB,Governor,,Spencer J. Cox,REP,46
+Kane,CWB,Governor,,Daniel Rhead Cottam,LIB,2
 Kane,CWB,Governor,,Write-In Totals,,1
 Kane,CWB,Attorney General,,Rudy J. Bautista,LIB,2
 Kane,CWB,Attorney General,,Greg Skordas,DEM,12
@@ -353,23 +353,23 @@ Kane,CWB,State Senate,24,Warren Rogers,IAP,8
 Kane,CWB,State House,73,Phil Lyman,REP,49
 Kane,CWC,Registered Voters,,,,24
 Kane,CWC,Ballots Cast,,,,21
-Kane,CWC,President,,Brock Pierce / Karla Ballard,,0
+Kane,CWC,President,,Brock Pierce,,0
 Kane,CWC,President,,Kanye West / Michelle Tidball,,0
-Kane,CWC,President,,Joseph R. Biden / Kamala D. Harris,DEM,8
-Kane,CWC,President,,Don Blankenship / William Mohr,CON,0
-Kane,CWC,President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Kane,CWC,President,,Joseph R. Biden,DEM,8
+Kane,CWC,President,,Don Blankenship,CON,0
+Kane,CWC,President,,Jo Jorgensen,LIB,0
 Kane,CWC,President,,Joe McHugh / Elizabeth Storm,,0
-Kane,CWC,President,,Howie Hawkins / Angela Walker,GRN,0
+Kane,CWC,President,,Howie Hawkins,GRN,0
 Kane,CWC,President,,Gloria La Riva,,0
-Kane,CWC,President,,Donald J. Trump / Michael R. Pence,REP,12
+Kane,CWC,President,,Donald J. Trump,REP,12
 Kane,CWC,President,,Write-In Totals,,0
 Kane,CWC,U.S. House,2,Kael Weston,DEM,8
 Kane,CWC,U.S. House,2,Chris Stewart,REP,12
 Kane,CWC,U.S. House,2,J. Robert Latham,LIB,0
-Kane,CWC,Governor,,Chris Peterson / Karina Brown,DEM,8
-Kane,CWC,Governor,,Greg Duerden / Wayne Hill,IAP,1
-Kane,CWC,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,10
-Kane,CWC,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,2
+Kane,CWC,Governor,,Chris Peterson,DEM,8
+Kane,CWC,Governor,,Greg Duerden,IAP,1
+Kane,CWC,Governor,,Spencer J. Cox,REP,10
+Kane,CWC,Governor,,Daniel Rhead Cottam,LIB,2
 Kane,CWC,Governor,,Write-In Totals,,0
 Kane,CWC,Attorney General,,Rudy J. Bautista,LIB,0
 Kane,CWC,Attorney General,,Greg Skordas,DEM,8

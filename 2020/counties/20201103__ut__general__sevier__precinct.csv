@@ -1,23 +1,23 @@
 county,precinct,office,district,candidate,party,votes
 Sevier,Annabella,Registered Voters,,,,546
 Sevier,Annabella,Ballots Cast,,,,494
-Sevier,Annabella,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Annabella,President,,Brock Pierce,,0
 Sevier,Annabella,President,,Kanye West / Michelle Tidball,,1
-Sevier,Annabella,President,,Joseph R. Biden / Kamala D. Harris,DEM,36
-Sevier,Annabella,President,,Don Blankenship / William Mohr,CON,2
-Sevier,Annabella,President,,Jo Jorgensen / Jeremy Cohen,LIB,6
+Sevier,Annabella,President,,Joseph R. Biden,DEM,36
+Sevier,Annabella,President,,Don Blankenship,CON,2
+Sevier,Annabella,President,,Jo Jorgensen,LIB,6
 Sevier,Annabella,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Annabella,President,,Howie Hawkins / Angela Walker,GRN,1
+Sevier,Annabella,President,,Howie Hawkins,GRN,1
 Sevier,Annabella,President,,Gloria La Riva,,0
-Sevier,Annabella,President,,Donald J. Trump / Michael R. Pence,REP,446
+Sevier,Annabella,President,,Donald J. Trump,REP,446
 Sevier,Annabella,President,,Write-In Totals,,0
 Sevier,Annabella,U.S. House,2,Kael Weston,DEM,34
 Sevier,Annabella,U.S. House,2,Chris Stewart,REP,425
 Sevier,Annabella,U.S. House,2,J. Robert Latham,LIB,7
-Sevier,Annabella,Governor,,Chris Peterson / Karina Brown,DEM,25
-Sevier,Annabella,Governor,,Greg Duerden / Wayne Hill,IAP,13
-Sevier,Annabella,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,422
-Sevier,Annabella,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,13
+Sevier,Annabella,Governor,,Chris Peterson,DEM,25
+Sevier,Annabella,Governor,,Greg Duerden,IAP,13
+Sevier,Annabella,Governor,,Spencer J. Cox,REP,422
+Sevier,Annabella,Governor,,Daniel Rhead Cottam,LIB,13
 Sevier,Annabella,Governor,,Write-In Totals,,11
 Sevier,Annabella,Attorney General,,Rudy J. Bautista,LIB,15
 Sevier,Annabella,Attorney General,,Greg Skordas,DEM,36
@@ -35,23 +35,23 @@ Sevier,Annabella,State House,70,Carl Albrecht,REP,442
 Sevier,Annabella,State House,70,Write-In Totals,,0
 Sevier,Aurora,Registered Voters,,,,692
 Sevier,Aurora,Ballots Cast,,,,643
-Sevier,Aurora,President,,Brock Pierce / Karla Ballard,,1
+Sevier,Aurora,President,,Brock Pierce,,1
 Sevier,Aurora,President,,Kanye West / Michelle Tidball,,0
-Sevier,Aurora,President,,Joseph R. Biden / Kamala D. Harris,DEM,47
-Sevier,Aurora,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Aurora,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
+Sevier,Aurora,President,,Joseph R. Biden,DEM,47
+Sevier,Aurora,President,,Don Blankenship,CON,0
+Sevier,Aurora,President,,Jo Jorgensen,LIB,9
 Sevier,Aurora,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Aurora,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Aurora,President,,Howie Hawkins,GRN,0
 Sevier,Aurora,President,,Gloria La Riva,,0
-Sevier,Aurora,President,,Donald J. Trump / Michael R. Pence,REP,581
+Sevier,Aurora,President,,Donald J. Trump,REP,581
 Sevier,Aurora,President,,Write-In Totals,,0
 Sevier,Aurora,U.S. House,2,Kael Weston,DEM,43
 Sevier,Aurora,U.S. House,2,Chris Stewart,REP,555
 Sevier,Aurora,U.S. House,2,J. Robert Latham,LIB,11
-Sevier,Aurora,Governor,,Chris Peterson / Karina Brown,DEM,50
-Sevier,Aurora,Governor,,Greg Duerden / Wayne Hill,IAP,22
-Sevier,Aurora,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,525
-Sevier,Aurora,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,11
+Sevier,Aurora,Governor,,Chris Peterson,DEM,50
+Sevier,Aurora,Governor,,Greg Duerden,IAP,22
+Sevier,Aurora,Governor,,Spencer J. Cox,REP,525
+Sevier,Aurora,Governor,,Daniel Rhead Cottam,LIB,11
 Sevier,Aurora,Governor,,Write-In Totals,,22
 Sevier,Aurora,Attorney General,,Rudy J. Bautista,LIB,17
 Sevier,Aurora,Attorney General,,Greg Skordas,DEM,53
@@ -69,23 +69,23 @@ Sevier,Aurora,State House,70,Carl Albrecht,REP,594
 Sevier,Aurora,State House,70,Write-In Totals,,0
 Sevier,Central,Registered Voters,,,,445
 Sevier,Central,Ballots Cast,,,,427
-Sevier,Central,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Central,President,,Brock Pierce,,0
 Sevier,Central,President,,Kanye West / Michelle Tidball,,5
-Sevier,Central,President,,Joseph R. Biden / Kamala D. Harris,DEM,35
-Sevier,Central,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Central,President,,Jo Jorgensen / Jeremy Cohen,LIB,4
+Sevier,Central,President,,Joseph R. Biden,DEM,35
+Sevier,Central,President,,Don Blankenship,CON,0
+Sevier,Central,President,,Jo Jorgensen,LIB,4
 Sevier,Central,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Central,President,,Howie Hawkins / Angela Walker,GRN,1
+Sevier,Central,President,,Howie Hawkins,GRN,1
 Sevier,Central,President,,Gloria La Riva,,0
-Sevier,Central,President,,Donald J. Trump / Michael R. Pence,REP,378
+Sevier,Central,President,,Donald J. Trump,REP,378
 Sevier,Central,President,,Write-In Totals,,0
 Sevier,Central,U.S. House,2,Kael Weston,DEM,22
 Sevier,Central,U.S. House,2,Chris Stewart,REP,369
 Sevier,Central,U.S. House,2,J. Robert Latham,LIB,7
-Sevier,Central,Governor,,Chris Peterson / Karina Brown,DEM,22
-Sevier,Central,Governor,,Greg Duerden / Wayne Hill,IAP,6
-Sevier,Central,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,370
-Sevier,Central,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,7
+Sevier,Central,Governor,,Chris Peterson,DEM,22
+Sevier,Central,Governor,,Greg Duerden,IAP,6
+Sevier,Central,Governor,,Spencer J. Cox,REP,370
+Sevier,Central,Governor,,Daniel Rhead Cottam,LIB,7
 Sevier,Central,Governor,,Write-In Totals,,13
 Sevier,Central,Attorney General,,Rudy J. Bautista,LIB,11
 Sevier,Central,Attorney General,,Greg Skordas,DEM,49
@@ -103,23 +103,23 @@ Sevier,Central,State House,70,Carl Albrecht,REP,391
 Sevier,Central,State House,70,Write-In Totals,,0
 Sevier,Elsinore,Registered Voters,,,,637
 Sevier,Elsinore,Ballots Cast,,,,557
-Sevier,Elsinore,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Elsinore,President,,Brock Pierce,,0
 Sevier,Elsinore,President,,Kanye West / Michelle Tidball,,3
-Sevier,Elsinore,President,,Joseph R. Biden / Kamala D. Harris,DEM,58
-Sevier,Elsinore,President,,Don Blankenship / William Mohr,CON,2
-Sevier,Elsinore,President,,Jo Jorgensen / Jeremy Cohen,LIB,6
+Sevier,Elsinore,President,,Joseph R. Biden,DEM,58
+Sevier,Elsinore,President,,Don Blankenship,CON,2
+Sevier,Elsinore,President,,Jo Jorgensen,LIB,6
 Sevier,Elsinore,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Elsinore,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Elsinore,President,,Howie Hawkins,GRN,0
 Sevier,Elsinore,President,,Gloria La Riva,,0
-Sevier,Elsinore,President,,Donald J. Trump / Michael R. Pence,REP,485
+Sevier,Elsinore,President,,Donald J. Trump,REP,485
 Sevier,Elsinore,President,,Write-In Totals,,0
 Sevier,Elsinore,U.S. House,2,Kael Weston,DEM,49
 Sevier,Elsinore,U.S. House,2,Chris Stewart,REP,465
 Sevier,Elsinore,U.S. House,2,J. Robert Latham,LIB,17
-Sevier,Elsinore,Governor,,Chris Peterson / Karina Brown,DEM,60
-Sevier,Elsinore,Governor,,Greg Duerden / Wayne Hill,IAP,22
-Sevier,Elsinore,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,420
-Sevier,Elsinore,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,16
+Sevier,Elsinore,Governor,,Chris Peterson,DEM,60
+Sevier,Elsinore,Governor,,Greg Duerden,IAP,22
+Sevier,Elsinore,Governor,,Spencer J. Cox,REP,420
+Sevier,Elsinore,Governor,,Daniel Rhead Cottam,LIB,16
 Sevier,Elsinore,Governor,,Write-In Totals,,12
 Sevier,Elsinore,Attorney General,,Rudy J. Bautista,LIB,18
 Sevier,Elsinore,Attorney General,,Greg Skordas,DEM,57
@@ -137,23 +137,23 @@ Sevier,Elsinore,State House,70,Carl Albrecht,REP,493
 Sevier,Elsinore,State House,70,Write-In Totals,,1
 Sevier,Glenwood,Registered Voters,,,,389
 Sevier,Glenwood,Ballots Cast,,,,362
-Sevier,Glenwood,President,,Brock Pierce / Karla Ballard,,1
+Sevier,Glenwood,President,,Brock Pierce,,1
 Sevier,Glenwood,President,,Kanye West / Michelle Tidball,,0
-Sevier,Glenwood,President,,Joseph R. Biden / Kamala D. Harris,DEM,19
-Sevier,Glenwood,President,,Don Blankenship / William Mohr,CON,1
-Sevier,Glenwood,President,,Jo Jorgensen / Jeremy Cohen,LIB,5
+Sevier,Glenwood,President,,Joseph R. Biden,DEM,19
+Sevier,Glenwood,President,,Don Blankenship,CON,1
+Sevier,Glenwood,President,,Jo Jorgensen,LIB,5
 Sevier,Glenwood,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Glenwood,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Glenwood,President,,Howie Hawkins,GRN,0
 Sevier,Glenwood,President,,Gloria La Riva,,0
-Sevier,Glenwood,President,,Donald J. Trump / Michael R. Pence,REP,331
+Sevier,Glenwood,President,,Donald J. Trump,REP,331
 Sevier,Glenwood,President,,Write-In Totals,,0
 Sevier,Glenwood,U.S. House,2,Kael Weston,DEM,24
 Sevier,Glenwood,U.S. House,2,Chris Stewart,REP,313
 Sevier,Glenwood,U.S. House,2,J. Robert Latham,LIB,6
-Sevier,Glenwood,Governor,,Chris Peterson / Karina Brown,DEM,20
-Sevier,Glenwood,Governor,,Greg Duerden / Wayne Hill,IAP,12
-Sevier,Glenwood,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,313
-Sevier,Glenwood,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,5
+Sevier,Glenwood,Governor,,Chris Peterson,DEM,20
+Sevier,Glenwood,Governor,,Greg Duerden,IAP,12
+Sevier,Glenwood,Governor,,Spencer J. Cox,REP,313
+Sevier,Glenwood,Governor,,Daniel Rhead Cottam,LIB,5
 Sevier,Glenwood,Governor,,Write-In Totals,,6
 Sevier,Glenwood,Attorney General,,Rudy J. Bautista,LIB,11
 Sevier,Glenwood,Attorney General,,Greg Skordas,DEM,30
@@ -171,23 +171,23 @@ Sevier,Glenwood,State House,70,Carl Albrecht,REP,325
 Sevier,Glenwood,State House,70,Write-In Totals,,1
 Sevier,Joseph 1.3,Registered Voters,,,,230
 Sevier,Joseph 1.3,Ballots Cast,,,,215
-Sevier,Joseph 1.3,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Joseph 1.3,President,,Brock Pierce,,0
 Sevier,Joseph 1.3,President,,Kanye West / Michelle Tidball,,0
-Sevier,Joseph 1.3,President,,Joseph R. Biden / Kamala D. Harris,DEM,19
-Sevier,Joseph 1.3,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Joseph 1.3,President,,Jo Jorgensen / Jeremy Cohen,LIB,3
+Sevier,Joseph 1.3,President,,Joseph R. Biden,DEM,19
+Sevier,Joseph 1.3,President,,Don Blankenship,CON,0
+Sevier,Joseph 1.3,President,,Jo Jorgensen,LIB,3
 Sevier,Joseph 1.3,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Joseph 1.3,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Joseph 1.3,President,,Howie Hawkins,GRN,0
 Sevier,Joseph 1.3,President,,Gloria La Riva,,0
-Sevier,Joseph 1.3,President,,Donald J. Trump / Michael R. Pence,REP,193
+Sevier,Joseph 1.3,President,,Donald J. Trump,REP,193
 Sevier,Joseph 1.3,President,,Write-In Totals,,0
 Sevier,Joseph 1.3,U.S. House,2,Kael Weston,DEM,13
 Sevier,Joseph 1.3,U.S. House,2,Chris Stewart,REP,180
 Sevier,Joseph 1.3,U.S. House,2,J. Robert Latham,LIB,5
-Sevier,Joseph 1.3,Governor,,Chris Peterson / Karina Brown,DEM,11
-Sevier,Joseph 1.3,Governor,,Greg Duerden / Wayne Hill,IAP,9
-Sevier,Joseph 1.3,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,174
-Sevier,Joseph 1.3,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,7
+Sevier,Joseph 1.3,Governor,,Chris Peterson,DEM,11
+Sevier,Joseph 1.3,Governor,,Greg Duerden,IAP,9
+Sevier,Joseph 1.3,Governor,,Spencer J. Cox,REP,174
+Sevier,Joseph 1.3,Governor,,Daniel Rhead Cottam,LIB,7
 Sevier,Joseph 1.3,Governor,,Write-In Totals,,8
 Sevier,Joseph 1.3,Attorney General,,Rudy J. Bautista,LIB,9
 Sevier,Joseph 1.3,Attorney General,,Greg Skordas,DEM,16
@@ -205,23 +205,23 @@ Sevier,Joseph 1.3,State House,70,Carl Albrecht,REP,193
 Sevier,Joseph 1.3,State House,70,Write-In Totals,,0
 Sevier,Joseph 2,Registered Voters,,,,137
 Sevier,Joseph 2,Ballots Cast,,,,118
-Sevier,Joseph 2,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Joseph 2,President,,Brock Pierce,,0
 Sevier,Joseph 2,President,,Kanye West / Michelle Tidball,,0
-Sevier,Joseph 2,President,,Joseph R. Biden / Kamala D. Harris,DEM,4
-Sevier,Joseph 2,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Joseph 2,President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Sevier,Joseph 2,President,,Joseph R. Biden,DEM,4
+Sevier,Joseph 2,President,,Don Blankenship,CON,0
+Sevier,Joseph 2,President,,Jo Jorgensen,LIB,0
 Sevier,Joseph 2,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Joseph 2,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Joseph 2,President,,Howie Hawkins,GRN,0
 Sevier,Joseph 2,President,,Gloria La Riva,,0
-Sevier,Joseph 2,President,,Donald J. Trump / Michael R. Pence,REP,114
+Sevier,Joseph 2,President,,Donald J. Trump,REP,114
 Sevier,Joseph 2,President,,Write-In Totals,,0
 Sevier,Joseph 2,U.S. House,2,Kael Weston,DEM,4
 Sevier,Joseph 2,U.S. House,2,Chris Stewart,REP,110
 Sevier,Joseph 2,U.S. House,2,J. Robert Latham,LIB,1
-Sevier,Joseph 2,Governor,,Chris Peterson / Karina Brown,DEM,8
-Sevier,Joseph 2,Governor,,Greg Duerden / Wayne Hill,IAP,3
-Sevier,Joseph 2,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,95
-Sevier,Joseph 2,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Sevier,Joseph 2,Governor,,Chris Peterson,DEM,8
+Sevier,Joseph 2,Governor,,Greg Duerden,IAP,3
+Sevier,Joseph 2,Governor,,Spencer J. Cox,REP,95
+Sevier,Joseph 2,Governor,,Daniel Rhead Cottam,LIB,0
 Sevier,Joseph 2,Governor,,Write-In Totals,,7
 Sevier,Joseph 2,Attorney General,,Rudy J. Bautista,LIB,3
 Sevier,Joseph 2,Attorney General,,Greg Skordas,DEM,6
@@ -237,23 +237,23 @@ Sevier,Joseph 2,State Senate,24,Warren Rogers,IAP,3
 Sevier,Joseph 2,State House,73,Phil Lyman,REP,109
 Sevier,Koosharem,Registered Voters,,,,171
 Sevier,Koosharem,Ballots Cast,,,,151
-Sevier,Koosharem,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Koosharem,President,,Brock Pierce,,0
 Sevier,Koosharem,President,,Kanye West / Michelle Tidball,,1
-Sevier,Koosharem,President,,Joseph R. Biden / Kamala D. Harris,DEM,17
-Sevier,Koosharem,President,,Don Blankenship / William Mohr,CON,2
-Sevier,Koosharem,President,,Jo Jorgensen / Jeremy Cohen,LIB,4
+Sevier,Koosharem,President,,Joseph R. Biden,DEM,17
+Sevier,Koosharem,President,,Don Blankenship,CON,2
+Sevier,Koosharem,President,,Jo Jorgensen,LIB,4
 Sevier,Koosharem,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Koosharem,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Koosharem,President,,Howie Hawkins,GRN,0
 Sevier,Koosharem,President,,Gloria La Riva,,1
-Sevier,Koosharem,President,,Donald J. Trump / Michael R. Pence,REP,126
+Sevier,Koosharem,President,,Donald J. Trump,REP,126
 Sevier,Koosharem,President,,Write-In Totals,,0
 Sevier,Koosharem,U.S. House,2,Kael Weston,DEM,13
 Sevier,Koosharem,U.S. House,2,Chris Stewart,REP,126
 Sevier,Koosharem,U.S. House,2,J. Robert Latham,LIB,8
-Sevier,Koosharem,Governor,,Chris Peterson / Karina Brown,DEM,8
-Sevier,Koosharem,Governor,,Greg Duerden / Wayne Hill,IAP,4
-Sevier,Koosharem,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,124
-Sevier,Koosharem,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,7
+Sevier,Koosharem,Governor,,Chris Peterson,DEM,8
+Sevier,Koosharem,Governor,,Greg Duerden,IAP,4
+Sevier,Koosharem,Governor,,Spencer J. Cox,REP,124
+Sevier,Koosharem,Governor,,Daniel Rhead Cottam,LIB,7
 Sevier,Koosharem,Governor,,Write-In Totals,,6
 Sevier,Koosharem,Attorney General,,Rudy J. Bautista,LIB,5
 Sevier,Koosharem,Attorney General,,Greg Skordas,DEM,12
@@ -271,23 +271,23 @@ Sevier,Koosharem,State House,70,Carl Albrecht,REP,132
 Sevier,Koosharem,State House,70,Write-In Totals,,0
 Sevier,Monroe 1,Registered Voters,,,,1003
 Sevier,Monroe 1,Ballots Cast,,,,936
-Sevier,Monroe 1,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Monroe 1,President,,Brock Pierce,,0
 Sevier,Monroe 1,President,,Kanye West / Michelle Tidball,,2
-Sevier,Monroe 1,President,,Joseph R. Biden / Kamala D. Harris,DEM,90
-Sevier,Monroe 1,President,,Don Blankenship / William Mohr,CON,7
-Sevier,Monroe 1,President,,Jo Jorgensen / Jeremy Cohen,LIB,8
+Sevier,Monroe 1,President,,Joseph R. Biden,DEM,90
+Sevier,Monroe 1,President,,Don Blankenship,CON,7
+Sevier,Monroe 1,President,,Jo Jorgensen,LIB,8
 Sevier,Monroe 1,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Monroe 1,President,,Howie Hawkins / Angela Walker,GRN,1
+Sevier,Monroe 1,President,,Howie Hawkins,GRN,1
 Sevier,Monroe 1,President,,Gloria La Riva,,0
-Sevier,Monroe 1,President,,Donald J. Trump / Michael R. Pence,REP,819
+Sevier,Monroe 1,President,,Donald J. Trump,REP,819
 Sevier,Monroe 1,President,,Write-In Totals,,0
 Sevier,Monroe 1,U.S. House,2,Kael Weston,DEM,84
 Sevier,Monroe 1,U.S. House,2,Chris Stewart,REP,766
 Sevier,Monroe 1,U.S. House,2,J. Robert Latham,LIB,24
-Sevier,Monroe 1,Governor,,Chris Peterson / Karina Brown,DEM,67
-Sevier,Monroe 1,Governor,,Greg Duerden / Wayne Hill,IAP,28
-Sevier,Monroe 1,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,720
-Sevier,Monroe 1,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,32
+Sevier,Monroe 1,Governor,,Chris Peterson,DEM,67
+Sevier,Monroe 1,Governor,,Greg Duerden,IAP,28
+Sevier,Monroe 1,Governor,,Spencer J. Cox,REP,720
+Sevier,Monroe 1,Governor,,Daniel Rhead Cottam,LIB,32
 Sevier,Monroe 1,Governor,,Write-In Totals,,47
 Sevier,Monroe 1,Attorney General,,Rudy J. Bautista,LIB,31
 Sevier,Monroe 1,Attorney General,,Greg Skordas,DEM,89
@@ -305,23 +305,23 @@ Sevier,Monroe 1,State House,70,Carl Albrecht,REP,806
 Sevier,Monroe 1,State House,70,Write-In Totals,,1
 Sevier,Monroe 2,Registered Voters,,,,850
 Sevier,Monroe 2,Ballots Cast,,,,756
-Sevier,Monroe 2,President,,Brock Pierce / Karla Ballard,,2
+Sevier,Monroe 2,President,,Brock Pierce,,2
 Sevier,Monroe 2,President,,Kanye West / Michelle Tidball,,3
-Sevier,Monroe 2,President,,Joseph R. Biden / Kamala D. Harris,DEM,101
-Sevier,Monroe 2,President,,Don Blankenship / William Mohr,CON,3
-Sevier,Monroe 2,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
+Sevier,Monroe 2,President,,Joseph R. Biden,DEM,101
+Sevier,Monroe 2,President,,Don Blankenship,CON,3
+Sevier,Monroe 2,President,,Jo Jorgensen,LIB,9
 Sevier,Monroe 2,President,,Joe McHugh / Elizabeth Storm,,1
-Sevier,Monroe 2,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Monroe 2,President,,Howie Hawkins,GRN,0
 Sevier,Monroe 2,President,,Gloria La Riva,,0
-Sevier,Monroe 2,President,,Donald J. Trump / Michael R. Pence,REP,628
+Sevier,Monroe 2,President,,Donald J. Trump,REP,628
 Sevier,Monroe 2,President,,Write-In Totals,,0
 Sevier,Monroe 2,U.S. House,2,Kael Weston,DEM,83
 Sevier,Monroe 2,U.S. House,2,Chris Stewart,REP,609
 Sevier,Monroe 2,U.S. House,2,J. Robert Latham,LIB,28
-Sevier,Monroe 2,Governor,,Chris Peterson / Karina Brown,DEM,98
-Sevier,Monroe 2,Governor,,Greg Duerden / Wayne Hill,IAP,25
-Sevier,Monroe 2,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,559
-Sevier,Monroe 2,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,22
+Sevier,Monroe 2,Governor,,Chris Peterson,DEM,98
+Sevier,Monroe 2,Governor,,Greg Duerden,IAP,25
+Sevier,Monroe 2,Governor,,Spencer J. Cox,REP,559
+Sevier,Monroe 2,Governor,,Daniel Rhead Cottam,LIB,22
 Sevier,Monroe 2,Governor,,Write-In Totals,,27
 Sevier,Monroe 2,Attorney General,,Rudy J. Bautista,LIB,32
 Sevier,Monroe 2,Attorney General,,Greg Skordas,DEM,98
@@ -339,23 +339,23 @@ Sevier,Monroe 2,State House,70,Carl Albrecht,REP,634
 Sevier,Monroe 2,State House,70,Write-In Totals,,0
 Sevier,Redmond,Registered Voters,,,,474
 Sevier,Redmond,Ballots Cast,,,,454
-Sevier,Redmond,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Redmond,President,,Brock Pierce,,0
 Sevier,Redmond,President,,Kanye West / Michelle Tidball,,1
-Sevier,Redmond,President,,Joseph R. Biden / Kamala D. Harris,DEM,38
-Sevier,Redmond,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Redmond,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
+Sevier,Redmond,President,,Joseph R. Biden,DEM,38
+Sevier,Redmond,President,,Don Blankenship,CON,0
+Sevier,Redmond,President,,Jo Jorgensen,LIB,2
 Sevier,Redmond,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Redmond,President,,Howie Hawkins / Angela Walker,GRN,3
+Sevier,Redmond,President,,Howie Hawkins,GRN,3
 Sevier,Redmond,President,,Gloria La Riva,,0
-Sevier,Redmond,President,,Donald J. Trump / Michael R. Pence,REP,408
+Sevier,Redmond,President,,Donald J. Trump,REP,408
 Sevier,Redmond,President,,Write-In Totals,,0
 Sevier,Redmond,U.S. House,2,Kael Weston,DEM,33
 Sevier,Redmond,U.S. House,2,Chris Stewart,REP,399
 Sevier,Redmond,U.S. House,2,J. Robert Latham,LIB,4
-Sevier,Redmond,Governor,,Chris Peterson / Karina Brown,DEM,28
-Sevier,Redmond,Governor,,Greg Duerden / Wayne Hill,IAP,10
-Sevier,Redmond,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,378
-Sevier,Redmond,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,12
+Sevier,Redmond,Governor,,Chris Peterson,DEM,28
+Sevier,Redmond,Governor,,Greg Duerden,IAP,10
+Sevier,Redmond,Governor,,Spencer J. Cox,REP,378
+Sevier,Redmond,Governor,,Daniel Rhead Cottam,LIB,12
 Sevier,Redmond,Governor,,Write-In Totals,,15
 Sevier,Redmond,Attorney General,,Rudy J. Bautista,LIB,6
 Sevier,Redmond,Attorney General,,Greg Skordas,DEM,45
@@ -373,23 +373,23 @@ Sevier,Redmond,State House,70,Carl Albrecht,REP,408
 Sevier,Redmond,State House,70,Write-In Totals,,0
 Sevier,Richfield 1,Registered Voters,,,,509
 Sevier,Richfield 1,Ballots Cast,,,,471
-Sevier,Richfield 1,President,,Brock Pierce / Karla Ballard,,2
+Sevier,Richfield 1,President,,Brock Pierce,,2
 Sevier,Richfield 1,President,,Kanye West / Michelle Tidball,,1
-Sevier,Richfield 1,President,,Joseph R. Biden / Kamala D. Harris,DEM,50
-Sevier,Richfield 1,President,,Don Blankenship / William Mohr,CON,3
-Sevier,Richfield 1,President,,Jo Jorgensen / Jeremy Cohen,LIB,10
+Sevier,Richfield 1,President,,Joseph R. Biden,DEM,50
+Sevier,Richfield 1,President,,Don Blankenship,CON,3
+Sevier,Richfield 1,President,,Jo Jorgensen,LIB,10
 Sevier,Richfield 1,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Richfield 1,President,,Howie Hawkins / Angela Walker,GRN,1
+Sevier,Richfield 1,President,,Howie Hawkins,GRN,1
 Sevier,Richfield 1,President,,Gloria La Riva,,0
-Sevier,Richfield 1,President,,Donald J. Trump / Michael R. Pence,REP,399
+Sevier,Richfield 1,President,,Donald J. Trump,REP,399
 Sevier,Richfield 1,President,,Write-In Totals,,0
 Sevier,Richfield 1,U.S. House,2,Kael Weston,DEM,47
 Sevier,Richfield 1,U.S. House,2,Chris Stewart,REP,382
 Sevier,Richfield 1,U.S. House,2,J. Robert Latham,LIB,17
-Sevier,Richfield 1,Governor,,Chris Peterson / Karina Brown,DEM,43
-Sevier,Richfield 1,Governor,,Greg Duerden / Wayne Hill,IAP,9
-Sevier,Richfield 1,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,373
-Sevier,Richfield 1,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,17
+Sevier,Richfield 1,Governor,,Chris Peterson,DEM,43
+Sevier,Richfield 1,Governor,,Greg Duerden,IAP,9
+Sevier,Richfield 1,Governor,,Spencer J. Cox,REP,373
+Sevier,Richfield 1,Governor,,Daniel Rhead Cottam,LIB,17
 Sevier,Richfield 1,Governor,,Write-In Totals,,8
 Sevier,Richfield 1,Attorney General,,Rudy J. Bautista,LIB,23
 Sevier,Richfield 1,Attorney General,,Greg Skordas,DEM,52
@@ -407,23 +407,23 @@ Sevier,Richfield 1,State House,70,Carl Albrecht,REP,408
 Sevier,Richfield 1,State House,70,Write-In Totals,,0
 Sevier,Richfield 2,Registered Voters,,,,471
 Sevier,Richfield 2,Ballots Cast,,,,430
-Sevier,Richfield 2,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Richfield 2,President,,Brock Pierce,,0
 Sevier,Richfield 2,President,,Kanye West / Michelle Tidball,,1
-Sevier,Richfield 2,President,,Joseph R. Biden / Kamala D. Harris,DEM,49
-Sevier,Richfield 2,President,,Don Blankenship / William Mohr,CON,2
-Sevier,Richfield 2,President,,Jo Jorgensen / Jeremy Cohen,LIB,6
+Sevier,Richfield 2,President,,Joseph R. Biden,DEM,49
+Sevier,Richfield 2,President,,Don Blankenship,CON,2
+Sevier,Richfield 2,President,,Jo Jorgensen,LIB,6
 Sevier,Richfield 2,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Richfield 2,President,,Howie Hawkins / Angela Walker,GRN,2
+Sevier,Richfield 2,President,,Howie Hawkins,GRN,2
 Sevier,Richfield 2,President,,Gloria La Riva,,0
-Sevier,Richfield 2,President,,Donald J. Trump / Michael R. Pence,REP,359
+Sevier,Richfield 2,President,,Donald J. Trump,REP,359
 Sevier,Richfield 2,President,,Write-In Totals,,1
 Sevier,Richfield 2,U.S. House,2,Kael Weston,DEM,38
 Sevier,Richfield 2,U.S. House,2,Chris Stewart,REP,362
 Sevier,Richfield 2,U.S. House,2,J. Robert Latham,LIB,13
-Sevier,Richfield 2,Governor,,Chris Peterson / Karina Brown,DEM,26
-Sevier,Richfield 2,Governor,,Greg Duerden / Wayne Hill,IAP,7
-Sevier,Richfield 2,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,355
-Sevier,Richfield 2,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,21
+Sevier,Richfield 2,Governor,,Chris Peterson,DEM,26
+Sevier,Richfield 2,Governor,,Greg Duerden,IAP,7
+Sevier,Richfield 2,Governor,,Spencer J. Cox,REP,355
+Sevier,Richfield 2,Governor,,Daniel Rhead Cottam,LIB,21
 Sevier,Richfield 2,Governor,,Write-In Totals,,11
 Sevier,Richfield 2,Attorney General,,Rudy J. Bautista,LIB,20
 Sevier,Richfield 2,Attorney General,,Greg Skordas,DEM,42
@@ -441,23 +441,23 @@ Sevier,Richfield 2,State House,70,Carl Albrecht,REP,380
 Sevier,Richfield 2,State House,70,Write-In Totals,,1
 Sevier,Richfield 3,Registered Voters,,,,504
 Sevier,Richfield 3,Ballots Cast,,,,462
-Sevier,Richfield 3,President,,Brock Pierce / Karla Ballard,,3
+Sevier,Richfield 3,President,,Brock Pierce,,3
 Sevier,Richfield 3,President,,Kanye West / Michelle Tidball,,3
-Sevier,Richfield 3,President,,Joseph R. Biden / Kamala D. Harris,DEM,46
-Sevier,Richfield 3,President,,Don Blankenship / William Mohr,CON,5
-Sevier,Richfield 3,President,,Jo Jorgensen / Jeremy Cohen,LIB,10
+Sevier,Richfield 3,President,,Joseph R. Biden,DEM,46
+Sevier,Richfield 3,President,,Don Blankenship,CON,5
+Sevier,Richfield 3,President,,Jo Jorgensen,LIB,10
 Sevier,Richfield 3,President,,Joe McHugh / Elizabeth Storm,,1
-Sevier,Richfield 3,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Richfield 3,President,,Howie Hawkins,GRN,0
 Sevier,Richfield 3,President,,Gloria La Riva,,0
-Sevier,Richfield 3,President,,Donald J. Trump / Michael R. Pence,REP,387
+Sevier,Richfield 3,President,,Donald J. Trump,REP,387
 Sevier,Richfield 3,President,,Write-In Totals,,0
 Sevier,Richfield 3,U.S. House,2,Kael Weston,DEM,36
 Sevier,Richfield 3,U.S. House,2,Chris Stewart,REP,400
 Sevier,Richfield 3,U.S. House,2,J. Robert Latham,LIB,9
-Sevier,Richfield 3,Governor,,Chris Peterson / Karina Brown,DEM,26
-Sevier,Richfield 3,Governor,,Greg Duerden / Wayne Hill,IAP,6
-Sevier,Richfield 3,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,395
-Sevier,Richfield 3,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,11
+Sevier,Richfield 3,Governor,,Chris Peterson,DEM,26
+Sevier,Richfield 3,Governor,,Greg Duerden,IAP,6
+Sevier,Richfield 3,Governor,,Spencer J. Cox,REP,395
+Sevier,Richfield 3,Governor,,Daniel Rhead Cottam,LIB,11
 Sevier,Richfield 3,Governor,,Write-In Totals,,13
 Sevier,Richfield 3,Attorney General,,Rudy J. Bautista,LIB,17
 Sevier,Richfield 3,Attorney General,,Greg Skordas,DEM,46
@@ -475,23 +475,23 @@ Sevier,Richfield 3,State House,70,Carl Albrecht,REP,409
 Sevier,Richfield 3,State House,70,Write-In Totals,,1
 Sevier,Richfield 4,Registered Voters,,,,519
 Sevier,Richfield 4,Ballots Cast,,,,449
-Sevier,Richfield 4,President,,Brock Pierce / Karla Ballard,,1
+Sevier,Richfield 4,President,,Brock Pierce,,1
 Sevier,Richfield 4,President,,Kanye West / Michelle Tidball,,0
-Sevier,Richfield 4,President,,Joseph R. Biden / Kamala D. Harris,DEM,68
-Sevier,Richfield 4,President,,Don Blankenship / William Mohr,CON,1
-Sevier,Richfield 4,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
+Sevier,Richfield 4,President,,Joseph R. Biden,DEM,68
+Sevier,Richfield 4,President,,Don Blankenship,CON,1
+Sevier,Richfield 4,President,,Jo Jorgensen,LIB,9
 Sevier,Richfield 4,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Richfield 4,President,,Howie Hawkins / Angela Walker,GRN,2
+Sevier,Richfield 4,President,,Howie Hawkins,GRN,2
 Sevier,Richfield 4,President,,Gloria La Riva,,0
-Sevier,Richfield 4,President,,Donald J. Trump / Michael R. Pence,REP,362
+Sevier,Richfield 4,President,,Donald J. Trump,REP,362
 Sevier,Richfield 4,President,,Write-In Totals,,0
 Sevier,Richfield 4,U.S. House,2,Kael Weston,DEM,58
 Sevier,Richfield 4,U.S. House,2,Chris Stewart,REP,348
 Sevier,Richfield 4,U.S. House,2,J. Robert Latham,LIB,17
-Sevier,Richfield 4,Governor,,Chris Peterson / Karina Brown,DEM,60
-Sevier,Richfield 4,Governor,,Greg Duerden / Wayne Hill,IAP,12
-Sevier,Richfield 4,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,326
-Sevier,Richfield 4,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,20
+Sevier,Richfield 4,Governor,,Chris Peterson,DEM,60
+Sevier,Richfield 4,Governor,,Greg Duerden,IAP,12
+Sevier,Richfield 4,Governor,,Spencer J. Cox,REP,326
+Sevier,Richfield 4,Governor,,Daniel Rhead Cottam,LIB,20
 Sevier,Richfield 4,Governor,,Write-In Totals,,11
 Sevier,Richfield 4,Attorney General,,Rudy J. Bautista,LIB,27
 Sevier,Richfield 4,Attorney General,,Greg Skordas,DEM,60
@@ -509,23 +509,23 @@ Sevier,Richfield 4,State House,70,Carl Albrecht,REP,365
 Sevier,Richfield 4,State House,70,Write-In Totals,,0
 Sevier,Richfield 5,Registered Voters,,,,440
 Sevier,Richfield 5,Ballots Cast,,,,389
-Sevier,Richfield 5,President,,Brock Pierce / Karla Ballard,,2
+Sevier,Richfield 5,President,,Brock Pierce,,2
 Sevier,Richfield 5,President,,Kanye West / Michelle Tidball,,3
-Sevier,Richfield 5,President,,Joseph R. Biden / Kamala D. Harris,DEM,59
-Sevier,Richfield 5,President,,Don Blankenship / William Mohr,CON,1
-Sevier,Richfield 5,President,,Jo Jorgensen / Jeremy Cohen,LIB,5
+Sevier,Richfield 5,President,,Joseph R. Biden,DEM,59
+Sevier,Richfield 5,President,,Don Blankenship,CON,1
+Sevier,Richfield 5,President,,Jo Jorgensen,LIB,5
 Sevier,Richfield 5,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Richfield 5,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Richfield 5,President,,Howie Hawkins,GRN,0
 Sevier,Richfield 5,President,,Gloria La Riva,,0
-Sevier,Richfield 5,President,,Donald J. Trump / Michael R. Pence,REP,314
+Sevier,Richfield 5,President,,Donald J. Trump,REP,314
 Sevier,Richfield 5,President,,Write-In Totals,,0
 Sevier,Richfield 5,U.S. House,2,Kael Weston,DEM,40
 Sevier,Richfield 5,U.S. House,2,Chris Stewart,REP,312
 Sevier,Richfield 5,U.S. House,2,J. Robert Latham,LIB,15
-Sevier,Richfield 5,Governor,,Chris Peterson / Karina Brown,DEM,42
-Sevier,Richfield 5,Governor,,Greg Duerden / Wayne Hill,IAP,9
-Sevier,Richfield 5,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,303
-Sevier,Richfield 5,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,9
+Sevier,Richfield 5,Governor,,Chris Peterson,DEM,42
+Sevier,Richfield 5,Governor,,Greg Duerden,IAP,9
+Sevier,Richfield 5,Governor,,Spencer J. Cox,REP,303
+Sevier,Richfield 5,Governor,,Daniel Rhead Cottam,LIB,9
 Sevier,Richfield 5,Governor,,Write-In Totals,,14
 Sevier,Richfield 5,Attorney General,,Rudy J. Bautista,LIB,16
 Sevier,Richfield 5,Attorney General,,Greg Skordas,DEM,52
@@ -543,23 +543,23 @@ Sevier,Richfield 5,State House,70,Carl Albrecht,REP,328
 Sevier,Richfield 5,State House,70,Write-In Totals,,1
 Sevier,Richfield 6,Registered Voters,,,,482
 Sevier,Richfield 6,Ballots Cast,,,,440
-Sevier,Richfield 6,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Richfield 6,President,,Brock Pierce,,0
 Sevier,Richfield 6,President,,Kanye West / Michelle Tidball,,1
-Sevier,Richfield 6,President,,Joseph R. Biden / Kamala D. Harris,DEM,44
-Sevier,Richfield 6,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Richfield 6,President,,Jo Jorgensen / Jeremy Cohen,LIB,10
+Sevier,Richfield 6,President,,Joseph R. Biden,DEM,44
+Sevier,Richfield 6,President,,Don Blankenship,CON,0
+Sevier,Richfield 6,President,,Jo Jorgensen,LIB,10
 Sevier,Richfield 6,President,,Joe McHugh / Elizabeth Storm,,1
-Sevier,Richfield 6,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Richfield 6,President,,Howie Hawkins,GRN,0
 Sevier,Richfield 6,President,,Gloria La Riva,,1
-Sevier,Richfield 6,President,,Donald J. Trump / Michael R. Pence,REP,366
+Sevier,Richfield 6,President,,Donald J. Trump,REP,366
 Sevier,Richfield 6,President,,Write-In Totals,,0
 Sevier,Richfield 6,U.S. House,2,Kael Weston,DEM,34
 Sevier,Richfield 6,U.S. House,2,Chris Stewart,REP,367
 Sevier,Richfield 6,U.S. House,2,J. Robert Latham,LIB,12
-Sevier,Richfield 6,Governor,,Chris Peterson / Karina Brown,DEM,29
-Sevier,Richfield 6,Governor,,Greg Duerden / Wayne Hill,IAP,8
-Sevier,Richfield 6,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,383
-Sevier,Richfield 6,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,6
+Sevier,Richfield 6,Governor,,Chris Peterson,DEM,29
+Sevier,Richfield 6,Governor,,Greg Duerden,IAP,8
+Sevier,Richfield 6,Governor,,Spencer J. Cox,REP,383
+Sevier,Richfield 6,Governor,,Daniel Rhead Cottam,LIB,6
 Sevier,Richfield 6,Governor,,Write-In Totals,,2
 Sevier,Richfield 6,Attorney General,,Rudy J. Bautista,LIB,13
 Sevier,Richfield 6,Attorney General,,Greg Skordas,DEM,45
@@ -577,23 +577,23 @@ Sevier,Richfield 6,State House,70,Carl Albrecht,REP,398
 Sevier,Richfield 6,State House,70,Write-In Totals,,0
 Sevier,Richfield 7,Registered Voters,,,,614
 Sevier,Richfield 7,Ballots Cast,,,,569
-Sevier,Richfield 7,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Richfield 7,President,,Brock Pierce,,0
 Sevier,Richfield 7,President,,Kanye West / Michelle Tidball,,1
-Sevier,Richfield 7,President,,Joseph R. Biden / Kamala D. Harris,DEM,46
-Sevier,Richfield 7,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Richfield 7,President,,Jo Jorgensen / Jeremy Cohen,LIB,7
+Sevier,Richfield 7,President,,Joseph R. Biden,DEM,46
+Sevier,Richfield 7,President,,Don Blankenship,CON,0
+Sevier,Richfield 7,President,,Jo Jorgensen,LIB,7
 Sevier,Richfield 7,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Richfield 7,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Richfield 7,President,,Howie Hawkins,GRN,0
 Sevier,Richfield 7,President,,Gloria La Riva,,0
-Sevier,Richfield 7,President,,Donald J. Trump / Michael R. Pence,REP,510
+Sevier,Richfield 7,President,,Donald J. Trump,REP,510
 Sevier,Richfield 7,President,,Write-In Totals,,0
 Sevier,Richfield 7,U.S. House,2,Kael Weston,DEM,36
 Sevier,Richfield 7,U.S. House,2,Chris Stewart,REP,486
 Sevier,Richfield 7,U.S. House,2,J. Robert Latham,LIB,18
-Sevier,Richfield 7,Governor,,Chris Peterson / Karina Brown,DEM,40
-Sevier,Richfield 7,Governor,,Greg Duerden / Wayne Hill,IAP,7
-Sevier,Richfield 7,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,484
-Sevier,Richfield 7,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,14
+Sevier,Richfield 7,Governor,,Chris Peterson,DEM,40
+Sevier,Richfield 7,Governor,,Greg Duerden,IAP,7
+Sevier,Richfield 7,Governor,,Spencer J. Cox,REP,484
+Sevier,Richfield 7,Governor,,Daniel Rhead Cottam,LIB,14
 Sevier,Richfield 7,Governor,,Write-In Totals,,12
 Sevier,Richfield 7,Attorney General,,Rudy J. Bautista,LIB,24
 Sevier,Richfield 7,Attorney General,,Greg Skordas,DEM,44
@@ -611,23 +611,23 @@ Sevier,Richfield 7,State House,70,Carl Albrecht,REP,516
 Sevier,Richfield 7,State House,70,Write-In Totals,,0
 Sevier,Richfield 8,Registered Voters,,,,618
 Sevier,Richfield 8,Ballots Cast,,,,558
-Sevier,Richfield 8,President,,Brock Pierce / Karla Ballard,,1
+Sevier,Richfield 8,President,,Brock Pierce,,1
 Sevier,Richfield 8,President,,Kanye West / Michelle Tidball,,0
-Sevier,Richfield 8,President,,Joseph R. Biden / Kamala D. Harris,DEM,89
-Sevier,Richfield 8,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Richfield 8,President,,Jo Jorgensen / Jeremy Cohen,LIB,8
+Sevier,Richfield 8,President,,Joseph R. Biden,DEM,89
+Sevier,Richfield 8,President,,Don Blankenship,CON,0
+Sevier,Richfield 8,President,,Jo Jorgensen,LIB,8
 Sevier,Richfield 8,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Richfield 8,President,,Howie Hawkins / Angela Walker,GRN,1
+Sevier,Richfield 8,President,,Howie Hawkins,GRN,1
 Sevier,Richfield 8,President,,Gloria La Riva,,0
-Sevier,Richfield 8,President,,Donald J. Trump / Michael R. Pence,REP,455
+Sevier,Richfield 8,President,,Donald J. Trump,REP,455
 Sevier,Richfield 8,President,,Write-In Totals,,0
 Sevier,Richfield 8,U.S. House,2,Kael Weston,DEM,76
 Sevier,Richfield 8,U.S. House,2,Chris Stewart,REP,435
 Sevier,Richfield 8,U.S. House,2,J. Robert Latham,LIB,16
-Sevier,Richfield 8,Governor,,Chris Peterson / Karina Brown,DEM,82
-Sevier,Richfield 8,Governor,,Greg Duerden / Wayne Hill,IAP,11
-Sevier,Richfield 8,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,422
-Sevier,Richfield 8,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,8
+Sevier,Richfield 8,Governor,,Chris Peterson,DEM,82
+Sevier,Richfield 8,Governor,,Greg Duerden,IAP,11
+Sevier,Richfield 8,Governor,,Spencer J. Cox,REP,422
+Sevier,Richfield 8,Governor,,Daniel Rhead Cottam,LIB,8
 Sevier,Richfield 8,Governor,,Write-In Totals,,15
 Sevier,Richfield 8,Attorney General,,Rudy J. Bautista,LIB,15
 Sevier,Richfield 8,Attorney General,,Greg Skordas,DEM,77
@@ -645,23 +645,23 @@ Sevier,Richfield 8,State House,70,Carl Albrecht,REP,469
 Sevier,Richfield 8,State House,70,Write-In Totals,,0
 Sevier,Salina 1,Registered Voters,,,,395
 Sevier,Salina 1,Ballots Cast,,,,346
-Sevier,Salina 1,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Salina 1,President,,Brock Pierce,,0
 Sevier,Salina 1,President,,Kanye West / Michelle Tidball,,0
-Sevier,Salina 1,President,,Joseph R. Biden / Kamala D. Harris,DEM,29
-Sevier,Salina 1,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Salina 1,President,,Jo Jorgensen / Jeremy Cohen,LIB,3
+Sevier,Salina 1,President,,Joseph R. Biden,DEM,29
+Sevier,Salina 1,President,,Don Blankenship,CON,0
+Sevier,Salina 1,President,,Jo Jorgensen,LIB,3
 Sevier,Salina 1,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Salina 1,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Salina 1,President,,Howie Hawkins,GRN,0
 Sevier,Salina 1,President,,Gloria La Riva,,0
-Sevier,Salina 1,President,,Donald J. Trump / Michael R. Pence,REP,314
+Sevier,Salina 1,President,,Donald J. Trump,REP,314
 Sevier,Salina 1,President,,Write-In Totals,,0
 Sevier,Salina 1,U.S. House,2,Kael Weston,DEM,26
 Sevier,Salina 1,U.S. House,2,Chris Stewart,REP,296
 Sevier,Salina 1,U.S. House,2,J. Robert Latham,LIB,1
-Sevier,Salina 1,Governor,,Chris Peterson / Karina Brown,DEM,27
-Sevier,Salina 1,Governor,,Greg Duerden / Wayne Hill,IAP,10
-Sevier,Salina 1,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,275
-Sevier,Salina 1,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,9
+Sevier,Salina 1,Governor,,Chris Peterson,DEM,27
+Sevier,Salina 1,Governor,,Greg Duerden,IAP,10
+Sevier,Salina 1,Governor,,Spencer J. Cox,REP,275
+Sevier,Salina 1,Governor,,Daniel Rhead Cottam,LIB,9
 Sevier,Salina 1,Governor,,Write-In Totals,,14
 Sevier,Salina 1,Attorney General,,Rudy J. Bautista,LIB,14
 Sevier,Salina 1,Attorney General,,Greg Skordas,DEM,24
@@ -679,23 +679,23 @@ Sevier,Salina 1,State House,70,Carl Albrecht,REP,314
 Sevier,Salina 1,State House,70,Write-In Totals,,0
 Sevier,Salina 2,Registered Voters,,,,549
 Sevier,Salina 2,Ballots Cast,,,,473
-Sevier,Salina 2,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Salina 2,President,,Brock Pierce,,0
 Sevier,Salina 2,President,,Kanye West / Michelle Tidball,,0
-Sevier,Salina 2,President,,Joseph R. Biden / Kamala D. Harris,DEM,56
-Sevier,Salina 2,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Salina 2,President,,Jo Jorgensen / Jeremy Cohen,LIB,3
+Sevier,Salina 2,President,,Joseph R. Biden,DEM,56
+Sevier,Salina 2,President,,Don Blankenship,CON,0
+Sevier,Salina 2,President,,Jo Jorgensen,LIB,3
 Sevier,Salina 2,President,,Joe McHugh / Elizabeth Storm,,1
-Sevier,Salina 2,President,,Howie Hawkins / Angela Walker,GRN,1
+Sevier,Salina 2,President,,Howie Hawkins,GRN,1
 Sevier,Salina 2,President,,Gloria La Riva,,1
-Sevier,Salina 2,President,,Donald J. Trump / Michael R. Pence,REP,402
+Sevier,Salina 2,President,,Donald J. Trump,REP,402
 Sevier,Salina 2,President,,Write-In Totals,,0
 Sevier,Salina 2,U.S. House,2,Kael Weston,DEM,43
 Sevier,Salina 2,U.S. House,2,Chris Stewart,REP,391
 Sevier,Salina 2,U.S. House,2,J. Robert Latham,LIB,17
-Sevier,Salina 2,Governor,,Chris Peterson / Karina Brown,DEM,45
-Sevier,Salina 2,Governor,,Greg Duerden / Wayne Hill,IAP,7
-Sevier,Salina 2,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,368
-Sevier,Salina 2,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,11
+Sevier,Salina 2,Governor,,Chris Peterson,DEM,45
+Sevier,Salina 2,Governor,,Greg Duerden,IAP,7
+Sevier,Salina 2,Governor,,Spencer J. Cox,REP,368
+Sevier,Salina 2,Governor,,Daniel Rhead Cottam,LIB,11
 Sevier,Salina 2,Governor,,Write-In Totals,,25
 Sevier,Salina 2,Attorney General,,Rudy J. Bautista,LIB,27
 Sevier,Salina 2,Attorney General,,Greg Skordas,DEM,52
@@ -713,23 +713,23 @@ Sevier,Salina 2,State House,70,Carl Albrecht,REP,403
 Sevier,Salina 2,State House,70,Write-In Totals,,0
 Sevier,Salina 3,Registered Voters,,,,411
 Sevier,Salina 3,Ballots Cast,,,,337
-Sevier,Salina 3,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Salina 3,President,,Brock Pierce,,0
 Sevier,Salina 3,President,,Kanye West / Michelle Tidball,,2
-Sevier,Salina 3,President,,Joseph R. Biden / Kamala D. Harris,DEM,46
-Sevier,Salina 3,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Salina 3,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
+Sevier,Salina 3,President,,Joseph R. Biden,DEM,46
+Sevier,Salina 3,President,,Don Blankenship,CON,0
+Sevier,Salina 3,President,,Jo Jorgensen,LIB,2
 Sevier,Salina 3,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Salina 3,President,,Howie Hawkins / Angela Walker,GRN,1
+Sevier,Salina 3,President,,Howie Hawkins,GRN,1
 Sevier,Salina 3,President,,Gloria La Riva,,0
-Sevier,Salina 3,President,,Donald J. Trump / Michael R. Pence,REP,282
+Sevier,Salina 3,President,,Donald J. Trump,REP,282
 Sevier,Salina 3,President,,Write-In Totals,,0
 Sevier,Salina 3,U.S. House,2,Kael Weston,DEM,26
 Sevier,Salina 3,U.S. House,2,Chris Stewart,REP,282
 Sevier,Salina 3,U.S. House,2,J. Robert Latham,LIB,14
-Sevier,Salina 3,Governor,,Chris Peterson / Karina Brown,DEM,31
-Sevier,Salina 3,Governor,,Greg Duerden / Wayne Hill,IAP,13
-Sevier,Salina 3,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,252
-Sevier,Salina 3,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,16
+Sevier,Salina 3,Governor,,Chris Peterson,DEM,31
+Sevier,Salina 3,Governor,,Greg Duerden,IAP,13
+Sevier,Salina 3,Governor,,Spencer J. Cox,REP,252
+Sevier,Salina 3,Governor,,Daniel Rhead Cottam,LIB,16
 Sevier,Salina 3,Governor,,Write-In Totals,,13
 Sevier,Salina 3,Attorney General,,Rudy J. Bautista,LIB,14
 Sevier,Salina 3,Attorney General,,Greg Skordas,DEM,38
@@ -747,23 +747,23 @@ Sevier,Salina 3,State House,70,Carl Albrecht,REP,288
 Sevier,Salina 3,State House,70,Write-In Totals,,0
 Sevier,Sigurd,Registered Voters,,,,250
 Sevier,Sigurd,Ballots Cast,,,,224
-Sevier,Sigurd,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Sigurd,President,,Brock Pierce,,0
 Sevier,Sigurd,President,,Kanye West / Michelle Tidball,,0
-Sevier,Sigurd,President,,Joseph R. Biden / Kamala D. Harris,DEM,17
-Sevier,Sigurd,President,,Don Blankenship / William Mohr,CON,0
-Sevier,Sigurd,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
+Sevier,Sigurd,President,,Joseph R. Biden,DEM,17
+Sevier,Sigurd,President,,Don Blankenship,CON,0
+Sevier,Sigurd,President,,Jo Jorgensen,LIB,2
 Sevier,Sigurd,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Sigurd,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Sigurd,President,,Howie Hawkins,GRN,0
 Sevier,Sigurd,President,,Gloria La Riva,,0
-Sevier,Sigurd,President,,Donald J. Trump / Michael R. Pence,REP,205
+Sevier,Sigurd,President,,Donald J. Trump,REP,205
 Sevier,Sigurd,President,,Write-In Totals,,0
 Sevier,Sigurd,U.S. House,2,Kael Weston,DEM,15
 Sevier,Sigurd,U.S. House,2,Chris Stewart,REP,190
 Sevier,Sigurd,U.S. House,2,J. Robert Latham,LIB,5
-Sevier,Sigurd,Governor,,Chris Peterson / Karina Brown,DEM,19
-Sevier,Sigurd,Governor,,Greg Duerden / Wayne Hill,IAP,7
-Sevier,Sigurd,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,159
-Sevier,Sigurd,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,8
+Sevier,Sigurd,Governor,,Chris Peterson,DEM,19
+Sevier,Sigurd,Governor,,Greg Duerden,IAP,7
+Sevier,Sigurd,Governor,,Spencer J. Cox,REP,159
+Sevier,Sigurd,Governor,,Daniel Rhead Cottam,LIB,8
 Sevier,Sigurd,Governor,,Write-In Totals,,26
 Sevier,Sigurd,Attorney General,,Rudy J. Bautista,LIB,3
 Sevier,Sigurd,Attorney General,,Greg Skordas,DEM,20
@@ -781,23 +781,23 @@ Sevier,Sigurd,State House,70,Carl Albrecht,REP,199
 Sevier,Sigurd,State House,70,Write-In Totals,,0
 Sevier,Venice,Registered Voters,,,,234
 Sevier,Venice,Ballots Cast,,,,213
-Sevier,Venice,President,,Brock Pierce / Karla Ballard,,0
+Sevier,Venice,President,,Brock Pierce,,0
 Sevier,Venice,President,,Kanye West / Michelle Tidball,,0
-Sevier,Venice,President,,Joseph R. Biden / Kamala D. Harris,DEM,21
-Sevier,Venice,President,,Don Blankenship / William Mohr,CON,2
-Sevier,Venice,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
+Sevier,Venice,President,,Joseph R. Biden,DEM,21
+Sevier,Venice,President,,Don Blankenship,CON,2
+Sevier,Venice,President,,Jo Jorgensen,LIB,2
 Sevier,Venice,President,,Joe McHugh / Elizabeth Storm,,0
-Sevier,Venice,President,,Howie Hawkins / Angela Walker,GRN,0
+Sevier,Venice,President,,Howie Hawkins,GRN,0
 Sevier,Venice,President,,Gloria La Riva,,0
-Sevier,Venice,President,,Donald J. Trump / Michael R. Pence,REP,188
+Sevier,Venice,President,,Donald J. Trump,REP,188
 Sevier,Venice,President,,Write-In Totals,,0
 Sevier,Venice,U.S. House,2,Kael Weston,DEM,15
 Sevier,Venice,U.S. House,2,Chris Stewart,REP,184
 Sevier,Venice,U.S. House,2,J. Robert Latham,LIB,6
-Sevier,Venice,Governor,,Chris Peterson / Karina Brown,DEM,15
-Sevier,Venice,Governor,,Greg Duerden / Wayne Hill,IAP,11
-Sevier,Venice,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,169
-Sevier,Venice,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,6
+Sevier,Venice,Governor,,Chris Peterson,DEM,15
+Sevier,Venice,Governor,,Greg Duerden,IAP,11
+Sevier,Venice,Governor,,Spencer J. Cox,REP,169
+Sevier,Venice,Governor,,Daniel Rhead Cottam,LIB,6
 Sevier,Venice,Governor,,Write-In Totals,,4
 Sevier,Venice,Attorney General,,Rudy J. Bautista,LIB,7
 Sevier,Venice,Attorney General,,Greg Skordas,DEM,15

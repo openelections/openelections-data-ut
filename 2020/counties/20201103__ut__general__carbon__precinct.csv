@@ -2,25 +2,25 @@ county,precinct,office,district,candidate,party,votes
 Carbon,Scofield/Clear Creek 2,Registered Voters,,,,33
 Carbon,Scofield/Clear Creek 2,Ballots Cast,,,,27
 Carbon,Scofield/Clear Creek 2,Ballots Cast Blank,,,,0
-Carbon,Scofield/Clear Creek 2,President,,Brock Pierce / Karla Ballard,,0
+Carbon,Scofield/Clear Creek 2,President,,Brock Pierce,,0
 Carbon,Scofield/Clear Creek 2,President,,Kanye West / Michelle Tidball,,0
-Carbon,Scofield/Clear Creek 2,President,,Joseph R. Biden / Kamala D. Harris,DEM,4
-Carbon,Scofield/Clear Creek 2,President,,Don Blankenship / William Mohr,CON,0
-Carbon,Scofield/Clear Creek 2,President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Carbon,Scofield/Clear Creek 2,President,,Joseph R. Biden,DEM,4
+Carbon,Scofield/Clear Creek 2,President,,Don Blankenship,CON,0
+Carbon,Scofield/Clear Creek 2,President,,Jo Jorgensen,LIB,1
 Carbon,Scofield/Clear Creek 2,President,,Joe McHugh / Elizabeth Storm,,1
-Carbon,Scofield/Clear Creek 2,President,,Howie Hawkins / Angela Walker,GRN,0
+Carbon,Scofield/Clear Creek 2,President,,Howie Hawkins,GRN,0
 Carbon,Scofield/Clear Creek 2,President,,Gloria La Riva,,0
-Carbon,Scofield/Clear Creek 2,President,,Donald J. Trump / Michael R. Pence,REP,20
+Carbon,Scofield/Clear Creek 2,President,,Donald J. Trump,REP,20
 Carbon,Scofield/Clear Creek 2,President,,Write-In Totals,,0
 Carbon,Scofield/Clear Creek 2,U.S. House,3,John Curtis,REP,21
 Carbon,Scofield/Clear Creek 2,U.S. House,3,Daniel Clyde Cummings,CON,0
 Carbon,Scofield/Clear Creek 2,U.S. House,3,Thomas G. McNeill,UUP,0
 Carbon,Scofield/Clear Creek 2,U.S. House,3,Devin D. Thorpe,DEM,5
 Carbon,Scofield/Clear Creek 2,U.S. House,3,Write-In Totals,,0
-Carbon,Scofield/Clear Creek 2,Governor,,Chris Peterson / Karina Brown,DEM,1
-Carbon,Scofield/Clear Creek 2,Governor,,Greg Duerden / Wayne Hill,IAP,0
-Carbon,Scofield/Clear Creek 2,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,24
-Carbon,Scofield/Clear Creek 2,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Carbon,Scofield/Clear Creek 2,Governor,,Chris Peterson,DEM,1
+Carbon,Scofield/Clear Creek 2,Governor,,Greg Duerden,IAP,0
+Carbon,Scofield/Clear Creek 2,Governor,,Spencer J. Cox,REP,24
+Carbon,Scofield/Clear Creek 2,Governor,,Daniel Rhead Cottam,LIB,0
 Carbon,Scofield/Clear Creek 2,Governor,,Write-In Totals,,1
 Carbon,Scofield/Clear Creek 2,Attorney General,,Rudy J. Bautista,LIB,0
 Carbon,Scofield/Clear Creek 2,Attorney General,,Greg Skordas,DEM,6
@@ -36,25 +36,25 @@ Carbon,Scofield/Clear Creek 2,State House,69,Christine F. Watkins,REP,19
 Carbon,Pleasant Valley 3,Registered Voters,,,,22
 Carbon,Pleasant Valley 3,Ballots Cast,,,,19
 Carbon,Pleasant Valley 3,Ballots Cast Blank,,,,0
-Carbon,Pleasant Valley 3,President,,Brock Pierce / Karla Ballard,,0
+Carbon,Pleasant Valley 3,President,,Brock Pierce,,0
 Carbon,Pleasant Valley 3,President,,Kanye West / Michelle Tidball,,0
-Carbon,Pleasant Valley 3,President,,Joseph R. Biden / Kamala D. Harris,DEM,9
-Carbon,Pleasant Valley 3,President,,Don Blankenship / William Mohr,CON,0
-Carbon,Pleasant Valley 3,President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Carbon,Pleasant Valley 3,President,,Joseph R. Biden,DEM,9
+Carbon,Pleasant Valley 3,President,,Don Blankenship,CON,0
+Carbon,Pleasant Valley 3,President,,Jo Jorgensen,LIB,0
 Carbon,Pleasant Valley 3,President,,Joe McHugh / Elizabeth Storm,,0
-Carbon,Pleasant Valley 3,President,,Howie Hawkins / Angela Walker,GRN,0
+Carbon,Pleasant Valley 3,President,,Howie Hawkins,GRN,0
 Carbon,Pleasant Valley 3,President,,Gloria La Riva,,0
-Carbon,Pleasant Valley 3,President,,Donald J. Trump / Michael R. Pence,REP,10
+Carbon,Pleasant Valley 3,President,,Donald J. Trump,REP,10
 Carbon,Pleasant Valley 3,President,,Write-In Totals,,0
 Carbon,Pleasant Valley 3,U.S. House,3,John Curtis,REP,11
 Carbon,Pleasant Valley 3,U.S. House,3,Daniel Clyde Cummings,CON,1
 Carbon,Pleasant Valley 3,U.S. House,3,Thomas G. McNeill,UUP,0
 Carbon,Pleasant Valley 3,U.S. House,3,Devin D. Thorpe,DEM,7
 Carbon,Pleasant Valley 3,U.S. House,3,Write-In Totals,,0
-Carbon,Pleasant Valley 3,Governor,,Chris Peterson / Karina Brown,DEM,6
-Carbon,Pleasant Valley 3,Governor,,Greg Duerden / Wayne Hill,IAP,1
-Carbon,Pleasant Valley 3,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,12
-Carbon,Pleasant Valley 3,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
+Carbon,Pleasant Valley 3,Governor,,Chris Peterson,DEM,6
+Carbon,Pleasant Valley 3,Governor,,Greg Duerden,IAP,1
+Carbon,Pleasant Valley 3,Governor,,Spencer J. Cox,REP,12
+Carbon,Pleasant Valley 3,Governor,,Daniel Rhead Cottam,LIB,0
 Carbon,Pleasant Valley 3,Governor,,Write-In Totals,,0
 Carbon,Pleasant Valley 3,Attorney General,,Rudy J. Bautista,LIB,0
 Carbon,Pleasant Valley 3,Attorney General,,Greg Skordas,DEM,10
@@ -70,25 +70,25 @@ Carbon,Pleasant Valley 3,State House,69,Christine F. Watkins,REP,15
 Carbon,Wellington 19,Registered Voters,,,,741
 Carbon,Wellington 19,Ballots Cast,,,,701
 Carbon,Wellington 19,Ballots Cast Blank,,,,1
-Carbon,Wellington 19,President,,Brock Pierce / Karla Ballard,,3
+Carbon,Wellington 19,President,,Brock Pierce,,3
 Carbon,Wellington 19,President,,Kanye West / Michelle Tidball,,6
-Carbon,Wellington 19,President,,Joseph R. Biden / Kamala D. Harris,DEM,129
-Carbon,Wellington 19,President,,Don Blankenship / William Mohr,CON,0
-Carbon,Wellington 19,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
+Carbon,Wellington 19,President,,Joseph R. Biden,DEM,129
+Carbon,Wellington 19,President,,Don Blankenship,CON,0
+Carbon,Wellington 19,President,,Jo Jorgensen,LIB,9
 Carbon,Wellington 19,President,,Joe McHugh / Elizabeth Storm,,1
-Carbon,Wellington 19,President,,Howie Hawkins / Angela Walker,GRN,0
+Carbon,Wellington 19,President,,Howie Hawkins,GRN,0
 Carbon,Wellington 19,President,,Gloria La Riva,,1
-Carbon,Wellington 19,President,,Donald J. Trump / Michael R. Pence,REP,545
+Carbon,Wellington 19,President,,Donald J. Trump,REP,545
 Carbon,Wellington 19,President,,Write-In Totals,,2
 Carbon,Wellington 19,U.S. House,3,John Curtis,REP,522
 Carbon,Wellington 19,U.S. House,3,Daniel Clyde Cummings,CON,18
 Carbon,Wellington 19,U.S. House,3,Thomas G. McNeill,UUP,9
 Carbon,Wellington 19,U.S. House,3,Devin D. Thorpe,DEM,110
 Carbon,Wellington 19,U.S. House,3,Write-In Totals,,0
-Carbon,Wellington 19,Governor,,Chris Peterson / Karina Brown,DEM,127
-Carbon,Wellington 19,Governor,,Greg Duerden / Wayne Hill,IAP,11
-Carbon,Wellington 19,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,514
-Carbon,Wellington 19,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,15
+Carbon,Wellington 19,Governor,,Chris Peterson,DEM,127
+Carbon,Wellington 19,Governor,,Greg Duerden,IAP,11
+Carbon,Wellington 19,Governor,,Spencer J. Cox,REP,514
+Carbon,Wellington 19,Governor,,Daniel Rhead Cottam,LIB,15
 Carbon,Wellington 19,Governor,,Write-In Totals,,10
 Carbon,Wellington 19,Attorney General,,Rudy J. Bautista,LIB,26
 Carbon,Wellington 19,Attorney General,,Greg Skordas,DEM,139
@@ -104,25 +104,25 @@ Carbon,Wellington 19,State House,69,Christine F. Watkins,REP,625
 Carbon,East County 22,Registered Voters,,,,671
 Carbon,East County 22,Ballots Cast,,,,650
 Carbon,East County 22,Ballots Cast Blank,,,,0
-Carbon,East County 22,President,,Brock Pierce / Karla Ballard,,3
+Carbon,East County 22,President,,Brock Pierce,,3
 Carbon,East County 22,President,,Kanye West / Michelle Tidball,,2
-Carbon,East County 22,President,,Joseph R. Biden / Kamala D. Harris,DEM,91
-Carbon,East County 22,President,,Don Blankenship / William Mohr,CON,1
-Carbon,East County 22,President,,Jo Jorgensen / Jeremy Cohen,LIB,12
+Carbon,East County 22,President,,Joseph R. Biden,DEM,91
+Carbon,East County 22,President,,Don Blankenship,CON,1
+Carbon,East County 22,President,,Jo Jorgensen,LIB,12
 Carbon,East County 22,President,,Joe McHugh / Elizabeth Storm,,0
-Carbon,East County 22,President,,Howie Hawkins / Angela Walker,GRN,2
+Carbon,East County 22,President,,Howie Hawkins,GRN,2
 Carbon,East County 22,President,,Gloria La Riva,,0
-Carbon,East County 22,President,,Donald J. Trump / Michael R. Pence,REP,534
+Carbon,East County 22,President,,Donald J. Trump,REP,534
 Carbon,East County 22,President,,Write-In Totals,,4
 Carbon,East County 22,U.S. House,3,John Curtis,REP,523
 Carbon,East County 22,U.S. House,3,Daniel Clyde Cummings,CON,7
 Carbon,East County 22,U.S. House,3,Thomas G. McNeill,UUP,5
 Carbon,East County 22,U.S. House,3,Devin D. Thorpe,DEM,80
 Carbon,East County 22,U.S. House,3,Write-In Totals,,1
-Carbon,East County 22,Governor,,Chris Peterson / Karina Brown,DEM,91
-Carbon,East County 22,Governor,,Greg Duerden / Wayne Hill,IAP,8
-Carbon,East County 22,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,508
-Carbon,East County 22,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,10
+Carbon,East County 22,Governor,,Chris Peterson,DEM,91
+Carbon,East County 22,Governor,,Greg Duerden,IAP,8
+Carbon,East County 22,Governor,,Spencer J. Cox,REP,508
+Carbon,East County 22,Governor,,Daniel Rhead Cottam,LIB,10
 Carbon,East County 22,Governor,,Write-In Totals,,13
 Carbon,East County 22,Attorney General,,Rudy J. Bautista,LIB,10
 Carbon,East County 22,Attorney General,,Greg Skordas,DEM,95
@@ -138,25 +138,25 @@ Carbon,East County 22,State House,69,Christine F. Watkins,REP,575
 Carbon,South Price 16,Registered Voters,,,,651
 Carbon,South Price 16,Ballots Cast,,,,589
 Carbon,South Price 16,Ballots Cast Blank,,,,0
-Carbon,South Price 16,President,,Brock Pierce / Karla Ballard,,0
+Carbon,South Price 16,President,,Brock Pierce,,0
 Carbon,South Price 16,President,,Kanye West / Michelle Tidball,,2
-Carbon,South Price 16,President,,Joseph R. Biden / Kamala D. Harris,DEM,157
-Carbon,South Price 16,President,,Don Blankenship / William Mohr,CON,2
-Carbon,South Price 16,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
+Carbon,South Price 16,President,,Joseph R. Biden,DEM,157
+Carbon,South Price 16,President,,Don Blankenship,CON,2
+Carbon,South Price 16,President,,Jo Jorgensen,LIB,9
 Carbon,South Price 16,President,,Joe McHugh / Elizabeth Storm,,1
-Carbon,South Price 16,President,,Howie Hawkins / Angela Walker,GRN,4
+Carbon,South Price 16,President,,Howie Hawkins,GRN,4
 Carbon,South Price 16,President,,Gloria La Riva,,2
-Carbon,South Price 16,President,,Donald J. Trump / Michael R. Pence,REP,408
+Carbon,South Price 16,President,,Donald J. Trump,REP,408
 Carbon,South Price 16,President,,Write-In Totals,,0
 Carbon,South Price 16,U.S. House,3,John Curtis,REP,395
 Carbon,South Price 16,U.S. House,3,Daniel Clyde Cummings,CON,12
 Carbon,South Price 16,U.S. House,3,Thomas G. McNeill,UUP,6
 Carbon,South Price 16,U.S. House,3,Devin D. Thorpe,DEM,140
 Carbon,South Price 16,U.S. House,3,Write-In Totals,,0
-Carbon,South Price 16,Governor,,Chris Peterson / Karina Brown,DEM,145
-Carbon,South Price 16,Governor,,Greg Duerden / Wayne Hill,IAP,15
-Carbon,South Price 16,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,385
-Carbon,South Price 16,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,18
+Carbon,South Price 16,Governor,,Chris Peterson,DEM,145
+Carbon,South Price 16,Governor,,Greg Duerden,IAP,15
+Carbon,South Price 16,Governor,,Spencer J. Cox,REP,385
+Carbon,South Price 16,Governor,,Daniel Rhead Cottam,LIB,18
 Carbon,South Price 16,Governor,,Write-In Totals,,13
 Carbon,South Price 16,Attorney General,,Rudy J. Bautista,LIB,34
 Carbon,South Price 16,Attorney General,,Greg Skordas,DEM,160
@@ -172,25 +172,25 @@ Carbon,South Price 16,State House,69,Christine F. Watkins,REP,497
 Carbon,East Price 17,Registered Voters,,,,582
 Carbon,East Price 17,Ballots Cast,,,,529
 Carbon,East Price 17,Ballots Cast Blank,,,,0
-Carbon,East Price 17,President,,Brock Pierce / Karla Ballard,,0
+Carbon,East Price 17,President,,Brock Pierce,,0
 Carbon,East Price 17,President,,Kanye West / Michelle Tidball,,2
-Carbon,East Price 17,President,,Joseph R. Biden / Kamala D. Harris,DEM,141
-Carbon,East Price 17,President,,Don Blankenship / William Mohr,CON,1
-Carbon,East Price 17,President,,Jo Jorgensen / Jeremy Cohen,LIB,10
+Carbon,East Price 17,President,,Joseph R. Biden,DEM,141
+Carbon,East Price 17,President,,Don Blankenship,CON,1
+Carbon,East Price 17,President,,Jo Jorgensen,LIB,10
 Carbon,East Price 17,President,,Joe McHugh / Elizabeth Storm,,3
-Carbon,East Price 17,President,,Howie Hawkins / Angela Walker,GRN,1
+Carbon,East Price 17,President,,Howie Hawkins,GRN,1
 Carbon,East Price 17,President,,Gloria La Riva,,0
-Carbon,East Price 17,President,,Donald J. Trump / Michael R. Pence,REP,364
+Carbon,East Price 17,President,,Donald J. Trump,REP,364
 Carbon,East Price 17,President,,Write-In Totals,,3
 Carbon,East Price 17,U.S. House,3,John Curtis,REP,355
 Carbon,East Price 17,U.S. House,3,Daniel Clyde Cummings,CON,13
 Carbon,East Price 17,U.S. House,3,Thomas G. McNeill,UUP,7
 Carbon,East Price 17,U.S. House,3,Devin D. Thorpe,DEM,125
 Carbon,East Price 17,U.S. House,3,Write-In Totals,,1
-Carbon,East Price 17,Governor,,Chris Peterson / Karina Brown,DEM,126
-Carbon,East Price 17,Governor,,Greg Duerden / Wayne Hill,IAP,8
-Carbon,East Price 17,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,348
-Carbon,East Price 17,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,18
+Carbon,East Price 17,Governor,,Chris Peterson,DEM,126
+Carbon,East Price 17,Governor,,Greg Duerden,IAP,8
+Carbon,East Price 17,Governor,,Spencer J. Cox,REP,348
+Carbon,East Price 17,Governor,,Daniel Rhead Cottam,LIB,18
 Carbon,East Price 17,Governor,,Write-In Totals,,7
 Carbon,East Price 17,Attorney General,,Rudy J. Bautista,LIB,24
 Carbon,East Price 17,Attorney General,,Greg Skordas,DEM,150
@@ -206,25 +206,25 @@ Carbon,East Price 17,State House,69,Christine F. Watkins,REP,446
 Carbon,Castle Heights North 30,Registered Voters,,,,656
 Carbon,Castle Heights North 30,Ballots Cast,,,,604
 Carbon,Castle Heights North 30,Ballots Cast Blank,,,,0
-Carbon,Castle Heights North 30,President,,Brock Pierce / Karla Ballard,,1
+Carbon,Castle Heights North 30,President,,Brock Pierce,,1
 Carbon,Castle Heights North 30,President,,Kanye West / Michelle Tidball,,2
-Carbon,Castle Heights North 30,President,,Joseph R. Biden / Kamala D. Harris,DEM,140
-Carbon,Castle Heights North 30,President,,Don Blankenship / William Mohr,CON,2
-Carbon,Castle Heights North 30,President,,Jo Jorgensen / Jeremy Cohen,LIB,8
+Carbon,Castle Heights North 30,President,,Joseph R. Biden,DEM,140
+Carbon,Castle Heights North 30,President,,Don Blankenship,CON,2
+Carbon,Castle Heights North 30,President,,Jo Jorgensen,LIB,8
 Carbon,Castle Heights North 30,President,,Joe McHugh / Elizabeth Storm,,1
-Carbon,Castle Heights North 30,President,,Howie Hawkins / Angela Walker,GRN,1
+Carbon,Castle Heights North 30,President,,Howie Hawkins,GRN,1
 Carbon,Castle Heights North 30,President,,Gloria La Riva,,0
-Carbon,Castle Heights North 30,President,,Donald J. Trump / Michael R. Pence,REP,440
+Carbon,Castle Heights North 30,President,,Donald J. Trump,REP,440
 Carbon,Castle Heights North 30,President,,Write-In Totals,,6
 Carbon,Castle Heights North 30,U.S. House,3,John Curtis,REP,447
 Carbon,Castle Heights North 30,U.S. House,3,Daniel Clyde Cummings,CON,8
 Carbon,Castle Heights North 30,U.S. House,3,Thomas G. McNeill,UUP,8
 Carbon,Castle Heights North 30,U.S. House,3,Devin D. Thorpe,DEM,114
 Carbon,Castle Heights North 30,U.S. House,3,Write-In Totals,,1
-Carbon,Castle Heights North 30,Governor,,Chris Peterson / Karina Brown,DEM,106
-Carbon,Castle Heights North 30,Governor,,Greg Duerden / Wayne Hill,IAP,5
-Carbon,Castle Heights North 30,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,453
-Carbon,Castle Heights North 30,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,17
+Carbon,Castle Heights North 30,Governor,,Chris Peterson,DEM,106
+Carbon,Castle Heights North 30,Governor,,Greg Duerden,IAP,5
+Carbon,Castle Heights North 30,Governor,,Spencer J. Cox,REP,453
+Carbon,Castle Heights North 30,Governor,,Daniel Rhead Cottam,LIB,17
 Carbon,Castle Heights North 30,Governor,,Write-In Totals,,7
 Carbon,Castle Heights North 30,Attorney General,,Rudy J. Bautista,LIB,26
 Carbon,Castle Heights North 30,Attorney General,,Greg Skordas,DEM,138
@@ -240,25 +240,25 @@ Carbon,Castle Heights North 30,State House,69,Christine F. Watkins,REP,491
 Carbon,Central Price 31,Registered Voters,,,,352
 Carbon,Central Price 31,Ballots Cast,,,,335
 Carbon,Central Price 31,Ballots Cast Blank,,,,0
-Carbon,Central Price 31,President,,Brock Pierce / Karla Ballard,,2
+Carbon,Central Price 31,President,,Brock Pierce,,2
 Carbon,Central Price 31,President,,Kanye West / Michelle Tidball,,1
-Carbon,Central Price 31,President,,Joseph R. Biden / Kamala D. Harris,DEM,103
-Carbon,Central Price 31,President,,Don Blankenship / William Mohr,CON,3
-Carbon,Central Price 31,President,,Jo Jorgensen / Jeremy Cohen,LIB,6
+Carbon,Central Price 31,President,,Joseph R. Biden,DEM,103
+Carbon,Central Price 31,President,,Don Blankenship,CON,3
+Carbon,Central Price 31,President,,Jo Jorgensen,LIB,6
 Carbon,Central Price 31,President,,Joe McHugh / Elizabeth Storm,,1
-Carbon,Central Price 31,President,,Howie Hawkins / Angela Walker,GRN,1
+Carbon,Central Price 31,President,,Howie Hawkins,GRN,1
 Carbon,Central Price 31,President,,Gloria La Riva,,0
-Carbon,Central Price 31,President,,Donald J. Trump / Michael R. Pence,REP,210
+Carbon,Central Price 31,President,,Donald J. Trump,REP,210
 Carbon,Central Price 31,President,,Write-In Totals,,6
 Carbon,Central Price 31,U.S. House,3,John Curtis,REP,215
 Carbon,Central Price 31,U.S. House,3,Daniel Clyde Cummings,CON,5
 Carbon,Central Price 31,U.S. House,3,Thomas G. McNeill,UUP,6
 Carbon,Central Price 31,U.S. House,3,Devin D. Thorpe,DEM,82
 Carbon,Central Price 31,U.S. House,3,Write-In Totals,,0
-Carbon,Central Price 31,Governor,,Chris Peterson / Karina Brown,DEM,84
-Carbon,Central Price 31,Governor,,Greg Duerden / Wayne Hill,IAP,10
-Carbon,Central Price 31,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,215
-Carbon,Central Price 31,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,12
+Carbon,Central Price 31,Governor,,Chris Peterson,DEM,84
+Carbon,Central Price 31,Governor,,Greg Duerden,IAP,10
+Carbon,Central Price 31,Governor,,Spencer J. Cox,REP,215
+Carbon,Central Price 31,Governor,,Daniel Rhead Cottam,LIB,12
 Carbon,Central Price 31,Governor,,Write-In Totals,,4
 Carbon,Central Price 31,Attorney General,,Rudy J. Bautista,LIB,22
 Carbon,Central Price 31,Attorney General,,Greg Skordas,DEM,95
@@ -274,25 +274,25 @@ Carbon,Central Price 31,State House,69,Christine F. Watkins,REP,279
 Carbon,Northeast Price 32,Registered Voters,,,,545
 Carbon,Northeast Price 32,Ballots Cast,,,,493
 Carbon,Northeast Price 32,Ballots Cast Blank,,,,0
-Carbon,Northeast Price 32,President,,Brock Pierce / Karla Ballard,,4
+Carbon,Northeast Price 32,President,,Brock Pierce,,4
 Carbon,Northeast Price 32,President,,Kanye West / Michelle Tidball,,2
-Carbon,Northeast Price 32,President,,Joseph R. Biden / Kamala D. Harris,DEM,146
-Carbon,Northeast Price 32,President,,Don Blankenship / William Mohr,CON,2
-Carbon,Northeast Price 32,President,,Jo Jorgensen / Jeremy Cohen,LIB,11
+Carbon,Northeast Price 32,President,,Joseph R. Biden,DEM,146
+Carbon,Northeast Price 32,President,,Don Blankenship,CON,2
+Carbon,Northeast Price 32,President,,Jo Jorgensen,LIB,11
 Carbon,Northeast Price 32,President,,Joe McHugh / Elizabeth Storm,,1
-Carbon,Northeast Price 32,President,,Howie Hawkins / Angela Walker,GRN,1
+Carbon,Northeast Price 32,President,,Howie Hawkins,GRN,1
 Carbon,Northeast Price 32,President,,Gloria La Riva,,0
-Carbon,Northeast Price 32,President,,Donald J. Trump / Michael R. Pence,REP,321
+Carbon,Northeast Price 32,President,,Donald J. Trump,REP,321
 Carbon,Northeast Price 32,President,,Write-In Totals,,0
 Carbon,Northeast Price 32,U.S. House,3,John Curtis,REP,322
 Carbon,Northeast Price 32,U.S. House,3,Daniel Clyde Cummings,CON,10
 Carbon,Northeast Price 32,U.S. House,3,Thomas G. McNeill,UUP,6
 Carbon,Northeast Price 32,U.S. House,3,Devin D. Thorpe,DEM,131
 Carbon,Northeast Price 32,U.S. House,3,Write-In Totals,,1
-Carbon,Northeast Price 32,Governor,,Chris Peterson / Karina Brown,DEM,135
-Carbon,Northeast Price 32,Governor,,Greg Duerden / Wayne Hill,IAP,9
-Carbon,Northeast Price 32,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,313
-Carbon,Northeast Price 32,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,16
+Carbon,Northeast Price 32,Governor,,Chris Peterson,DEM,135
+Carbon,Northeast Price 32,Governor,,Greg Duerden,IAP,9
+Carbon,Northeast Price 32,Governor,,Spencer J. Cox,REP,313
+Carbon,Northeast Price 32,Governor,,Daniel Rhead Cottam,LIB,16
 Carbon,Northeast Price 32,Governor,,Write-In Totals,,9
 Carbon,Northeast Price 32,Attorney General,,Rudy J. Bautista,LIB,26
 Carbon,Northeast Price 32,Attorney General,,Greg Skordas,DEM,148
@@ -308,25 +308,25 @@ Carbon,Northeast Price 32,State House,69,Christine F. Watkins,REP,414
 Carbon,North Price 33,Registered Voters,,,,458
 Carbon,North Price 33,Ballots Cast,,,,414
 Carbon,North Price 33,Ballots Cast Blank,,,,0
-Carbon,North Price 33,President,,Brock Pierce / Karla Ballard,,0
+Carbon,North Price 33,President,,Brock Pierce,,0
 Carbon,North Price 33,President,,Kanye West / Michelle Tidball,,5
-Carbon,North Price 33,President,,Joseph R. Biden / Kamala D. Harris,DEM,107
-Carbon,North Price 33,President,,Don Blankenship / William Mohr,CON,2
-Carbon,North Price 33,President,,Jo Jorgensen / Jeremy Cohen,LIB,1
+Carbon,North Price 33,President,,Joseph R. Biden,DEM,107
+Carbon,North Price 33,President,,Don Blankenship,CON,2
+Carbon,North Price 33,President,,Jo Jorgensen,LIB,1
 Carbon,North Price 33,President,,Joe McHugh / Elizabeth Storm,,1
-Carbon,North Price 33,President,,Howie Hawkins / Angela Walker,GRN,1
+Carbon,North Price 33,President,,Howie Hawkins,GRN,1
 Carbon,North Price 33,President,,Gloria La Riva,,0
-Carbon,North Price 33,President,,Donald J. Trump / Michael R. Pence,REP,292
+Carbon,North Price 33,President,,Donald J. Trump,REP,292
 Carbon,North Price 33,President,,Write-In Totals,,4
 Carbon,North Price 33,U.S. House,3,John Curtis,REP,297
 Carbon,North Price 33,U.S. House,3,Daniel Clyde Cummings,CON,8
 Carbon,North Price 33,U.S. House,3,Thomas G. McNeill,UUP,5
 Carbon,North Price 33,U.S. House,3,Devin D. Thorpe,DEM,84
 Carbon,North Price 33,U.S. House,3,Write-In Totals,,2
-Carbon,North Price 33,Governor,,Chris Peterson / Karina Brown,DEM,83
-Carbon,North Price 33,Governor,,Greg Duerden / Wayne Hill,IAP,6
-Carbon,North Price 33,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,303
-Carbon,North Price 33,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,5
+Carbon,North Price 33,Governor,,Chris Peterson,DEM,83
+Carbon,North Price 33,Governor,,Greg Duerden,IAP,6
+Carbon,North Price 33,Governor,,Spencer J. Cox,REP,303
+Carbon,North Price 33,Governor,,Daniel Rhead Cottam,LIB,5
 Carbon,North Price 33,Governor,,Write-In Totals,,9
 Carbon,North Price 33,Attorney General,,Rudy J. Bautista,LIB,13
 Carbon,North Price 33,Attorney General,,Greg Skordas,DEM,109
@@ -342,25 +342,25 @@ Carbon,North Price 33,State House,69,Christine F. Watkins,REP,353
 Carbon,Castle Heights 34,Registered Voters,,,,562
 Carbon,Castle Heights 34,Ballots Cast,,,,501
 Carbon,Castle Heights 34,Ballots Cast Blank,,,,0
-Carbon,Castle Heights 34,President,,Brock Pierce / Karla Ballard,,0
+Carbon,Castle Heights 34,President,,Brock Pierce,,0
 Carbon,Castle Heights 34,President,,Kanye West / Michelle Tidball,,4
-Carbon,Castle Heights 34,President,,Joseph R. Biden / Kamala D. Harris,DEM,115
-Carbon,Castle Heights 34,President,,Don Blankenship / William Mohr,CON,4
-Carbon,Castle Heights 34,President,,Jo Jorgensen / Jeremy Cohen,LIB,8
+Carbon,Castle Heights 34,President,,Joseph R. Biden,DEM,115
+Carbon,Castle Heights 34,President,,Don Blankenship,CON,4
+Carbon,Castle Heights 34,President,,Jo Jorgensen,LIB,8
 Carbon,Castle Heights 34,President,,Joe McHugh / Elizabeth Storm,,1
-Carbon,Castle Heights 34,President,,Howie Hawkins / Angela Walker,GRN,2
+Carbon,Castle Heights 34,President,,Howie Hawkins,GRN,2
 Carbon,Castle Heights 34,President,,Gloria La Riva,,0
-Carbon,Castle Heights 34,President,,Donald J. Trump / Michael R. Pence,REP,360
+Carbon,Castle Heights 34,President,,Donald J. Trump,REP,360
 Carbon,Castle Heights 34,President,,Write-In Totals,,4
 Carbon,Castle Heights 34,U.S. House,3,John Curtis,REP,377
 Carbon,Castle Heights 34,U.S. House,3,Daniel Clyde Cummings,CON,7
 Carbon,Castle Heights 34,U.S. House,3,Thomas G. McNeill,UUP,4
 Carbon,Castle Heights 34,U.S. House,3,Devin D. Thorpe,DEM,81
 Carbon,Castle Heights 34,U.S. House,3,Write-In Totals,,1
-Carbon,Castle Heights 34,Governor,,Chris Peterson / Karina Brown,DEM,80
-Carbon,Castle Heights 34,Governor,,Greg Duerden / Wayne Hill,IAP,13
-Carbon,Castle Heights 34,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,376
-Carbon,Castle Heights 34,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,12
+Carbon,Castle Heights 34,Governor,,Chris Peterson,DEM,80
+Carbon,Castle Heights 34,Governor,,Greg Duerden,IAP,13
+Carbon,Castle Heights 34,Governor,,Spencer J. Cox,REP,376
+Carbon,Castle Heights 34,Governor,,Daniel Rhead Cottam,LIB,12
 Carbon,Castle Heights 34,Governor,,Write-In Totals,,9
 Carbon,Castle Heights 34,Attorney General,,Rudy J. Bautista,LIB,26
 Carbon,Castle Heights 34,Attorney General,,Greg Skordas,DEM,107
@@ -376,25 +376,25 @@ Carbon,Castle Heights 34,State House,69,Christine F. Watkins,REP,452
 Carbon,West Helper 21,Registered Voters,,,,615
 Carbon,West Helper 21,Ballots Cast,,,,579
 Carbon,West Helper 21,Ballots Cast Blank,,,,0
-Carbon,West Helper 21,President,,Brock Pierce / Karla Ballard,,1
+Carbon,West Helper 21,President,,Brock Pierce,,1
 Carbon,West Helper 21,President,,Kanye West / Michelle Tidball,,5
-Carbon,West Helper 21,President,,Joseph R. Biden / Kamala D. Harris,DEM,239
-Carbon,West Helper 21,President,,Don Blankenship / William Mohr,CON,1
-Carbon,West Helper 21,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
+Carbon,West Helper 21,President,,Joseph R. Biden,DEM,239
+Carbon,West Helper 21,President,,Don Blankenship,CON,1
+Carbon,West Helper 21,President,,Jo Jorgensen,LIB,9
 Carbon,West Helper 21,President,,Joe McHugh / Elizabeth Storm,,3
-Carbon,West Helper 21,President,,Howie Hawkins / Angela Walker,GRN,0
+Carbon,West Helper 21,President,,Howie Hawkins,GRN,0
 Carbon,West Helper 21,President,,Gloria La Riva,,0
-Carbon,West Helper 21,President,,Donald J. Trump / Michael R. Pence,REP,318
+Carbon,West Helper 21,President,,Donald J. Trump,REP,318
 Carbon,West Helper 21,President,,Write-In Totals,,1
 Carbon,West Helper 21,U.S. House,3,John Curtis,REP,309
 Carbon,West Helper 21,U.S. House,3,Daniel Clyde Cummings,CON,6
 Carbon,West Helper 21,U.S. House,3,Thomas G. McNeill,UUP,10
 Carbon,West Helper 21,U.S. House,3,Devin D. Thorpe,DEM,210
 Carbon,West Helper 21,U.S. House,3,Write-In Totals,,1
-Carbon,West Helper 21,Governor,,Chris Peterson / Karina Brown,DEM,207
-Carbon,West Helper 21,Governor,,Greg Duerden / Wayne Hill,IAP,5
-Carbon,West Helper 21,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,331
-Carbon,West Helper 21,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,14
+Carbon,West Helper 21,Governor,,Chris Peterson,DEM,207
+Carbon,West Helper 21,Governor,,Greg Duerden,IAP,5
+Carbon,West Helper 21,Governor,,Spencer J. Cox,REP,331
+Carbon,West Helper 21,Governor,,Daniel Rhead Cottam,LIB,14
 Carbon,West Helper 21,Governor,,Write-In Totals,,5
 Carbon,West Helper 21,Attorney General,,Rudy J. Bautista,LIB,23
 Carbon,West Helper 21,Attorney General,,Greg Skordas,DEM,231
@@ -410,25 +410,25 @@ Carbon,West Helper 21,State House,69,Christine F. Watkins,REP,469
 Carbon,East Helper 7,Registered Voters,,,,494
 Carbon,East Helper 7,Ballots Cast,,,,468
 Carbon,East Helper 7,Ballots Cast Blank,,,,0
-Carbon,East Helper 7,President,,Brock Pierce / Karla Ballard,,2
+Carbon,East Helper 7,President,,Brock Pierce,,2
 Carbon,East Helper 7,President,,Kanye West / Michelle Tidball,,0
-Carbon,East Helper 7,President,,Joseph R. Biden / Kamala D. Harris,DEM,182
-Carbon,East Helper 7,President,,Don Blankenship / William Mohr,CON,0
-Carbon,East Helper 7,President,,Jo Jorgensen / Jeremy Cohen,LIB,11
+Carbon,East Helper 7,President,,Joseph R. Biden,DEM,182
+Carbon,East Helper 7,President,,Don Blankenship,CON,0
+Carbon,East Helper 7,President,,Jo Jorgensen,LIB,11
 Carbon,East Helper 7,President,,Joe McHugh / Elizabeth Storm,,0
-Carbon,East Helper 7,President,,Howie Hawkins / Angela Walker,GRN,2
+Carbon,East Helper 7,President,,Howie Hawkins,GRN,2
 Carbon,East Helper 7,President,,Gloria La Riva,,0
-Carbon,East Helper 7,President,,Donald J. Trump / Michael R. Pence,REP,268
+Carbon,East Helper 7,President,,Donald J. Trump,REP,268
 Carbon,East Helper 7,President,,Write-In Totals,,2
 Carbon,East Helper 7,U.S. House,3,John Curtis,REP,262
 Carbon,East Helper 7,U.S. House,3,Daniel Clyde Cummings,CON,15
 Carbon,East Helper 7,U.S. House,3,Thomas G. McNeill,UUP,8
 Carbon,East Helper 7,U.S. House,3,Devin D. Thorpe,DEM,163
 Carbon,East Helper 7,U.S. House,3,Write-In Totals,,0
-Carbon,East Helper 7,Governor,,Chris Peterson / Karina Brown,DEM,162
-Carbon,East Helper 7,Governor,,Greg Duerden / Wayne Hill,IAP,9
-Carbon,East Helper 7,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,255
-Carbon,East Helper 7,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,27
+Carbon,East Helper 7,Governor,,Chris Peterson,DEM,162
+Carbon,East Helper 7,Governor,,Greg Duerden,IAP,9
+Carbon,East Helper 7,Governor,,Spencer J. Cox,REP,255
+Carbon,East Helper 7,Governor,,Daniel Rhead Cottam,LIB,27
 Carbon,East Helper 7,Governor,,Write-In Totals,,5
 Carbon,East Helper 7,Attorney General,,Rudy J. Bautista,LIB,35
 Carbon,East Helper 7,Attorney General,,Greg Skordas,DEM,175
@@ -444,25 +444,25 @@ Carbon,East Helper 7,State House,69,Christine F. Watkins,REP,358
 Carbon,Spring Glen 37,Registered Voters,,,,748
 Carbon,Spring Glen 37,Ballots Cast,,,,703
 Carbon,Spring Glen 37,Ballots Cast Blank,,,,0
-Carbon,Spring Glen 37,President,,Brock Pierce / Karla Ballard,,2
+Carbon,Spring Glen 37,President,,Brock Pierce,,2
 Carbon,Spring Glen 37,President,,Kanye West / Michelle Tidball,,2
-Carbon,Spring Glen 37,President,,Joseph R. Biden / Kamala D. Harris,DEM,159
-Carbon,Spring Glen 37,President,,Don Blankenship / William Mohr,CON,0
-Carbon,Spring Glen 37,President,,Jo Jorgensen / Jeremy Cohen,LIB,12
+Carbon,Spring Glen 37,President,,Joseph R. Biden,DEM,159
+Carbon,Spring Glen 37,President,,Don Blankenship,CON,0
+Carbon,Spring Glen 37,President,,Jo Jorgensen,LIB,12
 Carbon,Spring Glen 37,President,,Joe McHugh / Elizabeth Storm,,1
-Carbon,Spring Glen 37,President,,Howie Hawkins / Angela Walker,GRN,1
+Carbon,Spring Glen 37,President,,Howie Hawkins,GRN,1
 Carbon,Spring Glen 37,President,,Gloria La Riva,,1
-Carbon,Spring Glen 37,President,,Donald J. Trump / Michael R. Pence,REP,519
+Carbon,Spring Glen 37,President,,Donald J. Trump,REP,519
 Carbon,Spring Glen 37,President,,Write-In Totals,,3
 Carbon,Spring Glen 37,U.S. House,3,John Curtis,REP,506
 Carbon,Spring Glen 37,U.S. House,3,Daniel Clyde Cummings,CON,11
 Carbon,Spring Glen 37,U.S. House,3,Thomas G. McNeill,UUP,7
 Carbon,Spring Glen 37,U.S. House,3,Devin D. Thorpe,DEM,147
 Carbon,Spring Glen 37,U.S. House,3,Write-In Totals,,0
-Carbon,Spring Glen 37,Governor,,Chris Peterson / Karina Brown,DEM,145
-Carbon,Spring Glen 37,Governor,,Greg Duerden / Wayne Hill,IAP,13
-Carbon,Spring Glen 37,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,487
-Carbon,Spring Glen 37,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,22
+Carbon,Spring Glen 37,Governor,,Chris Peterson,DEM,145
+Carbon,Spring Glen 37,Governor,,Greg Duerden,IAP,13
+Carbon,Spring Glen 37,Governor,,Spencer J. Cox,REP,487
+Carbon,Spring Glen 37,Governor,,Daniel Rhead Cottam,LIB,22
 Carbon,Spring Glen 37,Governor,,Write-In Totals,,15
 Carbon,Spring Glen 37,Attorney General,,Rudy J. Bautista,LIB,36
 Carbon,Spring Glen 37,Attorney General,,Greg Skordas,DEM,190
@@ -478,25 +478,25 @@ Carbon,Spring Glen 37,State House,69,Christine F. Watkins,REP,583
 Carbon,East Carbon 20,Registered Voters,,,,748
 Carbon,East Carbon 20,Ballots Cast,,,,646
 Carbon,East Carbon 20,Ballots Cast Blank,,,,0
-Carbon,East Carbon 20,President,,Brock Pierce / Karla Ballard,,5
+Carbon,East Carbon 20,President,,Brock Pierce,,5
 Carbon,East Carbon 20,President,,Kanye West / Michelle Tidball,,3
-Carbon,East Carbon 20,President,,Joseph R. Biden / Kamala D. Harris,DEM,210
-Carbon,East Carbon 20,President,,Don Blankenship / William Mohr,CON,3
-Carbon,East Carbon 20,President,,Jo Jorgensen / Jeremy Cohen,LIB,7
+Carbon,East Carbon 20,President,,Joseph R. Biden,DEM,210
+Carbon,East Carbon 20,President,,Don Blankenship,CON,3
+Carbon,East Carbon 20,President,,Jo Jorgensen,LIB,7
 Carbon,East Carbon 20,President,,Joe McHugh / Elizabeth Storm,,2
-Carbon,East Carbon 20,President,,Howie Hawkins / Angela Walker,GRN,1
+Carbon,East Carbon 20,President,,Howie Hawkins,GRN,1
 Carbon,East Carbon 20,President,,Gloria La Riva,,0
-Carbon,East Carbon 20,President,,Donald J. Trump / Michael R. Pence,REP,410
+Carbon,East Carbon 20,President,,Donald J. Trump,REP,410
 Carbon,East Carbon 20,President,,Write-In Totals,,4
 Carbon,East Carbon 20,U.S. House,3,John Curtis,REP,377
 Carbon,East Carbon 20,U.S. House,3,Daniel Clyde Cummings,CON,21
 Carbon,East Carbon 20,U.S. House,3,Thomas G. McNeill,UUP,2
 Carbon,East Carbon 20,U.S. House,3,Devin D. Thorpe,DEM,197
 Carbon,East Carbon 20,U.S. House,3,Write-In Totals,,3
-Carbon,East Carbon 20,Governor,,Chris Peterson / Karina Brown,DEM,180
-Carbon,East Carbon 20,Governor,,Greg Duerden / Wayne Hill,IAP,15
-Carbon,East Carbon 20,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,392
-Carbon,East Carbon 20,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,21
+Carbon,East Carbon 20,Governor,,Chris Peterson,DEM,180
+Carbon,East Carbon 20,Governor,,Greg Duerden,IAP,15
+Carbon,East Carbon 20,Governor,,Spencer J. Cox,REP,392
+Carbon,East Carbon 20,Governor,,Daniel Rhead Cottam,LIB,21
 Carbon,East Carbon 20,Governor,,Write-In Totals,,12
 Carbon,East Carbon 20,Attorney General,,Rudy J. Bautista,LIB,30
 Carbon,East Carbon 20,Attorney General,,Greg Skordas,DEM,221
@@ -512,25 +512,25 @@ Carbon,East Carbon 20,State House,69,Christine F. Watkins,REP,509
 Carbon,Fairgrounds 27,Registered Voters,,,,290
 Carbon,Fairgrounds 27,Ballots Cast,,,,266
 Carbon,Fairgrounds 27,Ballots Cast Blank,,,,0
-Carbon,Fairgrounds 27,President,,Brock Pierce / Karla Ballard,,0
+Carbon,Fairgrounds 27,President,,Brock Pierce,,0
 Carbon,Fairgrounds 27,President,,Kanye West / Michelle Tidball,,0
-Carbon,Fairgrounds 27,President,,Joseph R. Biden / Kamala D. Harris,DEM,74
-Carbon,Fairgrounds 27,President,,Don Blankenship / William Mohr,CON,1
-Carbon,Fairgrounds 27,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
+Carbon,Fairgrounds 27,President,,Joseph R. Biden,DEM,74
+Carbon,Fairgrounds 27,President,,Don Blankenship,CON,1
+Carbon,Fairgrounds 27,President,,Jo Jorgensen,LIB,2
 Carbon,Fairgrounds 27,President,,Joe McHugh / Elizabeth Storm,,0
-Carbon,Fairgrounds 27,President,,Howie Hawkins / Angela Walker,GRN,0
+Carbon,Fairgrounds 27,President,,Howie Hawkins,GRN,0
 Carbon,Fairgrounds 27,President,,Gloria La Riva,,0
-Carbon,Fairgrounds 27,President,,Donald J. Trump / Michael R. Pence,REP,185
+Carbon,Fairgrounds 27,President,,Donald J. Trump,REP,185
 Carbon,Fairgrounds 27,President,,Write-In Totals,,2
 Carbon,Fairgrounds 27,U.S. House,3,John Curtis,REP,196
 Carbon,Fairgrounds 27,U.S. House,3,Daniel Clyde Cummings,CON,4
 Carbon,Fairgrounds 27,U.S. House,3,Thomas G. McNeill,UUP,0
 Carbon,Fairgrounds 27,U.S. House,3,Devin D. Thorpe,DEM,55
 Carbon,Fairgrounds 27,U.S. House,3,Write-In Totals,,1
-Carbon,Fairgrounds 27,Governor,,Chris Peterson / Karina Brown,DEM,64
-Carbon,Fairgrounds 27,Governor,,Greg Duerden / Wayne Hill,IAP,1
-Carbon,Fairgrounds 27,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,184
-Carbon,Fairgrounds 27,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,5
+Carbon,Fairgrounds 27,Governor,,Chris Peterson,DEM,64
+Carbon,Fairgrounds 27,Governor,,Greg Duerden,IAP,1
+Carbon,Fairgrounds 27,Governor,,Spencer J. Cox,REP,184
+Carbon,Fairgrounds 27,Governor,,Daniel Rhead Cottam,LIB,5
 Carbon,Fairgrounds 27,Governor,,Write-In Totals,,8
 Carbon,Fairgrounds 27,Attorney General,,Rudy J. Bautista,LIB,13
 Carbon,Fairgrounds 27,Attorney General,,Greg Skordas,DEM,78
@@ -546,25 +546,25 @@ Carbon,Fairgrounds 27,State House,69,Christine F. Watkins,REP,212
 Carbon,South County 36,Registered Voters,,,,520
 Carbon,South County 36,Ballots Cast,,,,497
 Carbon,South County 36,Ballots Cast Blank,,,,0
-Carbon,South County 36,President,,Brock Pierce / Karla Ballard,,0
+Carbon,South County 36,President,,Brock Pierce,,0
 Carbon,South County 36,President,,Kanye West / Michelle Tidball,,3
-Carbon,South County 36,President,,Joseph R. Biden / Kamala D. Harris,DEM,95
-Carbon,South County 36,President,,Don Blankenship / William Mohr,CON,0
-Carbon,South County 36,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
+Carbon,South County 36,President,,Joseph R. Biden,DEM,95
+Carbon,South County 36,President,,Don Blankenship,CON,0
+Carbon,South County 36,President,,Jo Jorgensen,LIB,9
 Carbon,South County 36,President,,Joe McHugh / Elizabeth Storm,,2
-Carbon,South County 36,President,,Howie Hawkins / Angela Walker,GRN,0
+Carbon,South County 36,President,,Howie Hawkins,GRN,0
 Carbon,South County 36,President,,Gloria La Riva,,0
-Carbon,South County 36,President,,Donald J. Trump / Michael R. Pence,REP,381
+Carbon,South County 36,President,,Donald J. Trump,REP,381
 Carbon,South County 36,President,,Write-In Totals,,6
 Carbon,South County 36,U.S. House,3,John Curtis,REP,371
 Carbon,South County 36,U.S. House,3,Daniel Clyde Cummings,CON,4
 Carbon,South County 36,U.S. House,3,Thomas G. McNeill,UUP,9
 Carbon,South County 36,U.S. House,3,Devin D. Thorpe,DEM,86
 Carbon,South County 36,U.S. House,3,Write-In Totals,,0
-Carbon,South County 36,Governor,,Chris Peterson / Karina Brown,DEM,81
-Carbon,South County 36,Governor,,Greg Duerden / Wayne Hill,IAP,11
-Carbon,South County 36,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,364
-Carbon,South County 36,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,18
+Carbon,South County 36,Governor,,Chris Peterson,DEM,81
+Carbon,South County 36,Governor,,Greg Duerden,IAP,11
+Carbon,South County 36,Governor,,Spencer J. Cox,REP,364
+Carbon,South County 36,Governor,,Daniel Rhead Cottam,LIB,18
 Carbon,South County 36,Governor,,Write-In Totals,,16
 Carbon,South County 36,Attorney General,,Rudy J. Bautista,LIB,24
 Carbon,South County 36,Attorney General,,Greg Skordas,DEM,102
@@ -580,25 +580,25 @@ Carbon,South County 36,State House,69,Christine F. Watkins,REP,423
 Carbon,Carbonville 38,Registered Voters,,,,687
 Carbon,Carbonville 38,Ballots Cast,,,,633
 Carbon,Carbonville 38,Ballots Cast Blank,,,,0
-Carbon,Carbonville 38,President,,Brock Pierce / Karla Ballard,,2
+Carbon,Carbonville 38,President,,Brock Pierce,,2
 Carbon,Carbonville 38,President,,Kanye West / Michelle Tidball,,2
-Carbon,Carbonville 38,President,,Joseph R. Biden / Kamala D. Harris,DEM,140
-Carbon,Carbonville 38,President,,Don Blankenship / William Mohr,CON,0
-Carbon,Carbonville 38,President,,Jo Jorgensen / Jeremy Cohen,LIB,8
+Carbon,Carbonville 38,President,,Joseph R. Biden,DEM,140
+Carbon,Carbonville 38,President,,Don Blankenship,CON,0
+Carbon,Carbonville 38,President,,Jo Jorgensen,LIB,8
 Carbon,Carbonville 38,President,,Joe McHugh / Elizabeth Storm,,0
-Carbon,Carbonville 38,President,,Howie Hawkins / Angela Walker,GRN,0
+Carbon,Carbonville 38,President,,Howie Hawkins,GRN,0
 Carbon,Carbonville 38,President,,Gloria La Riva,,0
-Carbon,Carbonville 38,President,,Donald J. Trump / Michael R. Pence,REP,477
+Carbon,Carbonville 38,President,,Donald J. Trump,REP,477
 Carbon,Carbonville 38,President,,Write-In Totals,,3
 Carbon,Carbonville 38,U.S. House,3,John Curtis,REP,462
 Carbon,Carbonville 38,U.S. House,3,Daniel Clyde Cummings,CON,10
 Carbon,Carbonville 38,U.S. House,3,Thomas G. McNeill,UUP,4
 Carbon,Carbonville 38,U.S. House,3,Devin D. Thorpe,DEM,120
 Carbon,Carbonville 38,U.S. House,3,Write-In Totals,,2
-Carbon,Carbonville 38,Governor,,Chris Peterson / Karina Brown,DEM,124
-Carbon,Carbonville 38,Governor,,Greg Duerden / Wayne Hill,IAP,6
-Carbon,Carbonville 38,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,448
-Carbon,Carbonville 38,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,17
+Carbon,Carbonville 38,Governor,,Chris Peterson,DEM,124
+Carbon,Carbonville 38,Governor,,Greg Duerden,IAP,6
+Carbon,Carbonville 38,Governor,,Spencer J. Cox,REP,448
+Carbon,Carbonville 38,Governor,,Daniel Rhead Cottam,LIB,17
 Carbon,Carbonville 38,Governor,,Write-In Totals,,12
 Carbon,Carbonville 38,Attorney General,,Rudy J. Bautista,LIB,20
 Carbon,Carbonville 38,Attorney General,,Greg Skordas,DEM,138
@@ -614,25 +614,25 @@ Carbon,Carbonville 38,State House,69,Christine F. Watkins,REP,535
 Carbon,Westwood 39,Registered Voters,,,,667
 Carbon,Westwood 39,Ballots Cast,,,,610
 Carbon,Westwood 39,Ballots Cast Blank,,,,0
-Carbon,Westwood 39,President,,Brock Pierce / Karla Ballard,,0
+Carbon,Westwood 39,President,,Brock Pierce,,0
 Carbon,Westwood 39,President,,Kanye West / Michelle Tidball,,3
-Carbon,Westwood 39,President,,Joseph R. Biden / Kamala D. Harris,DEM,125
-Carbon,Westwood 39,President,,Don Blankenship / William Mohr,CON,0
-Carbon,Westwood 39,President,,Jo Jorgensen / Jeremy Cohen,LIB,10
+Carbon,Westwood 39,President,,Joseph R. Biden,DEM,125
+Carbon,Westwood 39,President,,Don Blankenship,CON,0
+Carbon,Westwood 39,President,,Jo Jorgensen,LIB,10
 Carbon,Westwood 39,President,,Joe McHugh / Elizabeth Storm,,0
-Carbon,Westwood 39,President,,Howie Hawkins / Angela Walker,GRN,1
+Carbon,Westwood 39,President,,Howie Hawkins,GRN,1
 Carbon,Westwood 39,President,,Gloria La Riva,,1
-Carbon,Westwood 39,President,,Donald J. Trump / Michael R. Pence,REP,465
+Carbon,Westwood 39,President,,Donald J. Trump,REP,465
 Carbon,Westwood 39,President,,Write-In Totals,,1
 Carbon,Westwood 39,U.S. House,3,John Curtis,REP,466
 Carbon,Westwood 39,U.S. House,3,Daniel Clyde Cummings,CON,12
 Carbon,Westwood 39,U.S. House,3,Thomas G. McNeill,UUP,4
 Carbon,Westwood 39,U.S. House,3,Devin D. Thorpe,DEM,103
 Carbon,Westwood 39,U.S. House,3,Write-In Totals,,0
-Carbon,Westwood 39,Governor,,Chris Peterson / Karina Brown,DEM,110
-Carbon,Westwood 39,Governor,,Greg Duerden / Wayne Hill,IAP,7
-Carbon,Westwood 39,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,448
-Carbon,Westwood 39,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,14
+Carbon,Westwood 39,Governor,,Chris Peterson,DEM,110
+Carbon,Westwood 39,Governor,,Greg Duerden,IAP,7
+Carbon,Westwood 39,Governor,,Spencer J. Cox,REP,448
+Carbon,Westwood 39,Governor,,Daniel Rhead Cottam,LIB,14
 Carbon,Westwood 39,Governor,,Write-In Totals,,16
 Carbon,Westwood 39,Attorney General,,Rudy J. Bautista,LIB,16
 Carbon,Westwood 39,Attorney General,,Greg Skordas,DEM,127
@@ -648,25 +648,25 @@ Carbon,Westwood 39,State House,69,Christine F. Watkins,REP,523
 Carbon,Miller Creek 40,Registered Voters,,,,216
 Carbon,Miller Creek 40,Ballots Cast,,,,200
 Carbon,Miller Creek 40,Ballots Cast Blank,,,,0
-Carbon,Miller Creek 40,President,,Brock Pierce / Karla Ballard,,0
+Carbon,Miller Creek 40,President,,Brock Pierce,,0
 Carbon,Miller Creek 40,President,,Kanye West / Michelle Tidball,,0
-Carbon,Miller Creek 40,President,,Joseph R. Biden / Kamala D. Harris,DEM,26
-Carbon,Miller Creek 40,President,,Don Blankenship / William Mohr,CON,0
-Carbon,Miller Creek 40,President,,Jo Jorgensen / Jeremy Cohen,LIB,8
+Carbon,Miller Creek 40,President,,Joseph R. Biden,DEM,26
+Carbon,Miller Creek 40,President,,Don Blankenship,CON,0
+Carbon,Miller Creek 40,President,,Jo Jorgensen,LIB,8
 Carbon,Miller Creek 40,President,,Joe McHugh / Elizabeth Storm,,0
-Carbon,Miller Creek 40,President,,Howie Hawkins / Angela Walker,GRN,0
+Carbon,Miller Creek 40,President,,Howie Hawkins,GRN,0
 Carbon,Miller Creek 40,President,,Gloria La Riva,,0
-Carbon,Miller Creek 40,President,,Donald J. Trump / Michael R. Pence,REP,166
+Carbon,Miller Creek 40,President,,Donald J. Trump,REP,166
 Carbon,Miller Creek 40,President,,Write-In Totals,,0
 Carbon,Miller Creek 40,U.S. House,3,John Curtis,REP,161
 Carbon,Miller Creek 40,U.S. House,3,Daniel Clyde Cummings,CON,4
 Carbon,Miller Creek 40,U.S. House,3,Thomas G. McNeill,UUP,4
 Carbon,Miller Creek 40,U.S. House,3,Devin D. Thorpe,DEM,25
 Carbon,Miller Creek 40,U.S. House,3,Write-In Totals,,0
-Carbon,Miller Creek 40,Governor,,Chris Peterson / Karina Brown,DEM,34
-Carbon,Miller Creek 40,Governor,,Greg Duerden / Wayne Hill,IAP,2
-Carbon,Miller Creek 40,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,146
-Carbon,Miller Creek 40,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,10
+Carbon,Miller Creek 40,Governor,,Chris Peterson,DEM,34
+Carbon,Miller Creek 40,Governor,,Greg Duerden,IAP,2
+Carbon,Miller Creek 40,Governor,,Spencer J. Cox,REP,146
+Carbon,Miller Creek 40,Governor,,Daniel Rhead Cottam,LIB,10
 Carbon,Miller Creek 40,Governor,,Write-In Totals,,4
 Carbon,Miller Creek 40,Attorney General,,Rudy J. Bautista,LIB,11
 Carbon,Miller Creek 40,Attorney General,,Greg Skordas,DEM,37

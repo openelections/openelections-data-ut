@@ -1,29 +1,29 @@
 county,precinct,office,district,candidate,party,votes
-Sanpete,Axtell,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Centerfield City,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Ephraim City,President,,Brock Pierce / Karla Ballard,,3
-Sanpete,Ephraim unincorporated,President,,Brock Pierce / Karla Ballard,,1
-Sanpete,Fayette Town,President,,Brock Pierce / Karla Ballard,,1
-Sanpete,Fairview City,President,,Brock Pierce / Karla Ballard,,2
-Sanpete,Fairview unincorporated,President,,Brock Pierce / Karla Ballard,,2
-Sanpete,Fountain Green City,President,,Brock Pierce / Karla Ballard,,1
-Sanpete,Gunnison City,President,,Brock Pierce / Karla Ballard,,2
-Sanpete,Manti City,President,,Brock Pierce / Karla Ballard,,2
-Sanpete,Manti unincorporated,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Mayfield City,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Moroni City,President,,Brock Pierce / Karla Ballard,,4
-Sanpete,Moroni unincorporated,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Mount Pleasant City 1,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Mount Pleasant City 1 unincorporated,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Mount Pleasant City 2,President,,Brock Pierce / Karla Ballard,,1
-Sanpete,Mount Pleasant City 2 unincorporated,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Mount Pleasant City 3 unincorporated,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Spring City,President,,Brock Pierce / Karla Ballard,,1
-Sanpete,Spring City unincorporated,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Centerfield-Sterling-Fayette,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Sterling Town,President,,Brock Pierce / Karla Ballard,,0
-Sanpete,Wales Town,President,,Brock Pierce / Karla Ballard,,2
+Sanpete,Axtell,President,,Brock Pierce,,0
+Sanpete,Centerfield City,President,,Brock Pierce,,0
+Sanpete,Ephraim City,President,,Brock Pierce,,3
+Sanpete,Ephraim unincorporated,President,,Brock Pierce,,1
+Sanpete,Fayette Town,President,,Brock Pierce,,1
+Sanpete,Fairview City,President,,Brock Pierce,,2
+Sanpete,Fairview unincorporated,President,,Brock Pierce,,2
+Sanpete,Fountain Green City,President,,Brock Pierce,,1
+Sanpete,Gunnison City,President,,Brock Pierce,,2
+Sanpete,Manti City,President,,Brock Pierce,,2
+Sanpete,Manti unincorporated,President,,Brock Pierce,,0
+Sanpete,Mayfield City,President,,Brock Pierce,,0
+Sanpete,Moroni City,President,,Brock Pierce,,4
+Sanpete,Moroni unincorporated,President,,Brock Pierce,,0
+Sanpete,Mount Pleasant City 1,President,,Brock Pierce,,0
+Sanpete,Mount Pleasant City 1 unincorporated,President,,Brock Pierce,,0
+Sanpete,Mount Pleasant City 2,President,,Brock Pierce,,1
+Sanpete,Mount Pleasant City 2 unincorporated,President,,Brock Pierce,,0
+Sanpete,Mount Pleasant City 3 unincorporated,President,,Brock Pierce,,0
+Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Brock Pierce,,0
+Sanpete,Spring City,President,,Brock Pierce,,1
+Sanpete,Spring City unincorporated,President,,Brock Pierce,,0
+Sanpete,Centerfield-Sterling-Fayette,President,,Brock Pierce,,0
+Sanpete,Sterling Town,President,,Brock Pierce,,0
+Sanpete,Wales Town,President,,Brock Pierce,,2
 Sanpete,Axtell,President,,Kanye West / Michelle Tidball,,0
 Sanpete,Centerfield City,President,,Kanye West / Michelle Tidball,,3
 Sanpete,Ephraim City,President,,Kanye West / Michelle Tidball,,14
@@ -49,81 +49,81 @@ Sanpete,Spring City unincorporated,President,,Kanye West / Michelle Tidball,,0
 Sanpete,Centerfield-Sterling-Fayette,President,,Kanye West / Michelle Tidball,,0
 Sanpete,Sterling Town,President,,Kanye West / Michelle Tidball,,0
 Sanpete,Wales Town,President,,Kanye West / Michelle Tidball,,0
-Sanpete,Axtell,President,,Joseph R. Biden / Kamala D. Harris,DEM,19
-Sanpete,Centerfield City,President,,Joseph R. Biden / Kamala D. Harris,DEM,58
-Sanpete,Ephraim City,President,,Joseph R. Biden / Kamala D. Harris,DEM,337
-Sanpete,Ephraim unincorporated,President,,Joseph R. Biden / Kamala D. Harris,DEM,13
-Sanpete,Fayette Town,President,,Joseph R. Biden / Kamala D. Harris,DEM,8
-Sanpete,Fairview City,President,,Joseph R. Biden / Kamala D. Harris,DEM,81
-Sanpete,Fairview unincorporated,President,,Joseph R. Biden / Kamala D. Harris,DEM,117
-Sanpete,Fountain Green City,President,,Joseph R. Biden / Kamala D. Harris,DEM,67
-Sanpete,Gunnison City,President,,Joseph R. Biden / Kamala D. Harris,DEM,92
-Sanpete,Manti City,President,,Joseph R. Biden / Kamala D. Harris,DEM,209
-Sanpete,Manti unincorporated,President,,Joseph R. Biden / Kamala D. Harris,DEM,10
-Sanpete,Mayfield City,President,,Joseph R. Biden / Kamala D. Harris,DEM,53
-Sanpete,Moroni City,President,,Joseph R. Biden / Kamala D. Harris,DEM,77
-Sanpete,Moroni unincorporated,President,,Joseph R. Biden / Kamala D. Harris,DEM,24
-Sanpete,Mount Pleasant City 1,President,,Joseph R. Biden / Kamala D. Harris,DEM,211
-Sanpete,Mount Pleasant City 1 unincorporated,President,,Joseph R. Biden / Kamala D. Harris,DEM,23
-Sanpete,Mount Pleasant City 2,President,,Joseph R. Biden / Kamala D. Harris,DEM,91
-Sanpete,Mount Pleasant City 2 unincorporated,President,,Joseph R. Biden / Kamala D. Harris,DEM,25
-Sanpete,Mount Pleasant City 3 unincorporated,President,,Joseph R. Biden / Kamala D. Harris,DEM,14
-Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Joseph R. Biden / Kamala D. Harris,DEM,32
-Sanpete,Spring City,President,,Joseph R. Biden / Kamala D. Harris,DEM,141
-Sanpete,Spring City unincorporated,President,,Joseph R. Biden / Kamala D. Harris,DEM,23
-Sanpete,Centerfield-Sterling-Fayette,President,,Joseph R. Biden / Kamala D. Harris,DEM,28
-Sanpete,Sterling Town,President,,Joseph R. Biden / Kamala D. Harris,DEM,11
-Sanpete,Wales Town,President,,Joseph R. Biden / Kamala D. Harris,DEM,30
-Sanpete,Axtell,President,,Don Blankenship / William Mohr,CON,1
-Sanpete,Centerfield City,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Ephraim City,President,,Don Blankenship / William Mohr,CON,15
-Sanpete,Ephraim unincorporated,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Fayette Town,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Fairview City,President,,Don Blankenship / William Mohr,CON,2
-Sanpete,Fairview unincorporated,President,,Don Blankenship / William Mohr,CON,5
-Sanpete,Fountain Green City,President,,Don Blankenship / William Mohr,CON,3
-Sanpete,Gunnison City,President,,Don Blankenship / William Mohr,CON,2
-Sanpete,Manti City,President,,Don Blankenship / William Mohr,CON,12
-Sanpete,Manti unincorporated,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Mayfield City,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Moroni City,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Moroni unincorporated,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Mount Pleasant City 1,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Mount Pleasant City 1 unincorporated,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Mount Pleasant City 2,President,,Don Blankenship / William Mohr,CON,2
-Sanpete,Mount Pleasant City 2 unincorporated,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Mount Pleasant City 3 unincorporated,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Don Blankenship / William Mohr,CON,2
-Sanpete,Spring City,President,,Don Blankenship / William Mohr,CON,3
-Sanpete,Spring City unincorporated,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Centerfield-Sterling-Fayette,President,,Don Blankenship / William Mohr,CON,1
-Sanpete,Sterling Town,President,,Don Blankenship / William Mohr,CON,0
-Sanpete,Wales Town,President,,Don Blankenship / William Mohr,CON,2
-Sanpete,Axtell,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
-Sanpete,Centerfield City,President,,Jo Jorgensen / Jeremy Cohen,LIB,5
-Sanpete,Ephraim City,President,,Jo Jorgensen / Jeremy Cohen,LIB,47
-Sanpete,Ephraim unincorporated,President,,Jo Jorgensen / Jeremy Cohen,LIB,1
-Sanpete,Fayette Town,President,,Jo Jorgensen / Jeremy Cohen,LIB,0
-Sanpete,Fairview City,President,,Jo Jorgensen / Jeremy Cohen,LIB,19
-Sanpete,Fairview unincorporated,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
-Sanpete,Fountain Green City,President,,Jo Jorgensen / Jeremy Cohen,LIB,10
-Sanpete,Gunnison City,President,,Jo Jorgensen / Jeremy Cohen,LIB,10
-Sanpete,Manti City,President,,Jo Jorgensen / Jeremy Cohen,LIB,32
-Sanpete,Manti unincorporated,President,,Jo Jorgensen / Jeremy Cohen,LIB,0
-Sanpete,Mayfield City,President,,Jo Jorgensen / Jeremy Cohen,LIB,6
-Sanpete,Moroni City,President,,Jo Jorgensen / Jeremy Cohen,LIB,12
-Sanpete,Moroni unincorporated,President,,Jo Jorgensen / Jeremy Cohen,LIB,0
-Sanpete,Mount Pleasant City 1,President,,Jo Jorgensen / Jeremy Cohen,LIB,21
-Sanpete,Mount Pleasant City 1 unincorporated,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
-Sanpete,Mount Pleasant City 2,President,,Jo Jorgensen / Jeremy Cohen,LIB,6
-Sanpete,Mount Pleasant City 2 unincorporated,President,,Jo Jorgensen / Jeremy Cohen,LIB,4
-Sanpete,Mount Pleasant City 3 unincorporated,President,,Jo Jorgensen / Jeremy Cohen,LIB,4
-Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Jo Jorgensen / Jeremy Cohen,LIB,5
-Sanpete,Spring City,President,,Jo Jorgensen / Jeremy Cohen,LIB,9
-Sanpete,Spring City unincorporated,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
-Sanpete,Centerfield-Sterling-Fayette,President,,Jo Jorgensen / Jeremy Cohen,LIB,2
-Sanpete,Sterling Town,President,,Jo Jorgensen / Jeremy Cohen,LIB,0
-Sanpete,Wales Town,President,,Jo Jorgensen / Jeremy Cohen,LIB,0
+Sanpete,Axtell,President,,Joseph R. Biden,DEM,19
+Sanpete,Centerfield City,President,,Joseph R. Biden,DEM,58
+Sanpete,Ephraim City,President,,Joseph R. Biden,DEM,337
+Sanpete,Ephraim unincorporated,President,,Joseph R. Biden,DEM,13
+Sanpete,Fayette Town,President,,Joseph R. Biden,DEM,8
+Sanpete,Fairview City,President,,Joseph R. Biden,DEM,81
+Sanpete,Fairview unincorporated,President,,Joseph R. Biden,DEM,117
+Sanpete,Fountain Green City,President,,Joseph R. Biden,DEM,67
+Sanpete,Gunnison City,President,,Joseph R. Biden,DEM,92
+Sanpete,Manti City,President,,Joseph R. Biden,DEM,209
+Sanpete,Manti unincorporated,President,,Joseph R. Biden,DEM,10
+Sanpete,Mayfield City,President,,Joseph R. Biden,DEM,53
+Sanpete,Moroni City,President,,Joseph R. Biden,DEM,77
+Sanpete,Moroni unincorporated,President,,Joseph R. Biden,DEM,24
+Sanpete,Mount Pleasant City 1,President,,Joseph R. Biden,DEM,211
+Sanpete,Mount Pleasant City 1 unincorporated,President,,Joseph R. Biden,DEM,23
+Sanpete,Mount Pleasant City 2,President,,Joseph R. Biden,DEM,91
+Sanpete,Mount Pleasant City 2 unincorporated,President,,Joseph R. Biden,DEM,25
+Sanpete,Mount Pleasant City 3 unincorporated,President,,Joseph R. Biden,DEM,14
+Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Joseph R. Biden,DEM,32
+Sanpete,Spring City,President,,Joseph R. Biden,DEM,141
+Sanpete,Spring City unincorporated,President,,Joseph R. Biden,DEM,23
+Sanpete,Centerfield-Sterling-Fayette,President,,Joseph R. Biden,DEM,28
+Sanpete,Sterling Town,President,,Joseph R. Biden,DEM,11
+Sanpete,Wales Town,President,,Joseph R. Biden,DEM,30
+Sanpete,Axtell,President,,Don Blankenship,CON,1
+Sanpete,Centerfield City,President,,Don Blankenship,CON,0
+Sanpete,Ephraim City,President,,Don Blankenship,CON,15
+Sanpete,Ephraim unincorporated,President,,Don Blankenship,CON,0
+Sanpete,Fayette Town,President,,Don Blankenship,CON,0
+Sanpete,Fairview City,President,,Don Blankenship,CON,2
+Sanpete,Fairview unincorporated,President,,Don Blankenship,CON,5
+Sanpete,Fountain Green City,President,,Don Blankenship,CON,3
+Sanpete,Gunnison City,President,,Don Blankenship,CON,2
+Sanpete,Manti City,President,,Don Blankenship,CON,12
+Sanpete,Manti unincorporated,President,,Don Blankenship,CON,0
+Sanpete,Mayfield City,President,,Don Blankenship,CON,0
+Sanpete,Moroni City,President,,Don Blankenship,CON,0
+Sanpete,Moroni unincorporated,President,,Don Blankenship,CON,0
+Sanpete,Mount Pleasant City 1,President,,Don Blankenship,CON,0
+Sanpete,Mount Pleasant City 1 unincorporated,President,,Don Blankenship,CON,0
+Sanpete,Mount Pleasant City 2,President,,Don Blankenship,CON,2
+Sanpete,Mount Pleasant City 2 unincorporated,President,,Don Blankenship,CON,0
+Sanpete,Mount Pleasant City 3 unincorporated,President,,Don Blankenship,CON,0
+Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Don Blankenship,CON,2
+Sanpete,Spring City,President,,Don Blankenship,CON,3
+Sanpete,Spring City unincorporated,President,,Don Blankenship,CON,0
+Sanpete,Centerfield-Sterling-Fayette,President,,Don Blankenship,CON,1
+Sanpete,Sterling Town,President,,Don Blankenship,CON,0
+Sanpete,Wales Town,President,,Don Blankenship,CON,2
+Sanpete,Axtell,President,,Jo Jorgensen,LIB,2
+Sanpete,Centerfield City,President,,Jo Jorgensen,LIB,5
+Sanpete,Ephraim City,President,,Jo Jorgensen,LIB,47
+Sanpete,Ephraim unincorporated,President,,Jo Jorgensen,LIB,1
+Sanpete,Fayette Town,President,,Jo Jorgensen,LIB,0
+Sanpete,Fairview City,President,,Jo Jorgensen,LIB,19
+Sanpete,Fairview unincorporated,President,,Jo Jorgensen,LIB,9
+Sanpete,Fountain Green City,President,,Jo Jorgensen,LIB,10
+Sanpete,Gunnison City,President,,Jo Jorgensen,LIB,10
+Sanpete,Manti City,President,,Jo Jorgensen,LIB,32
+Sanpete,Manti unincorporated,President,,Jo Jorgensen,LIB,0
+Sanpete,Mayfield City,President,,Jo Jorgensen,LIB,6
+Sanpete,Moroni City,President,,Jo Jorgensen,LIB,12
+Sanpete,Moroni unincorporated,President,,Jo Jorgensen,LIB,0
+Sanpete,Mount Pleasant City 1,President,,Jo Jorgensen,LIB,21
+Sanpete,Mount Pleasant City 1 unincorporated,President,,Jo Jorgensen,LIB,9
+Sanpete,Mount Pleasant City 2,President,,Jo Jorgensen,LIB,6
+Sanpete,Mount Pleasant City 2 unincorporated,President,,Jo Jorgensen,LIB,4
+Sanpete,Mount Pleasant City 3 unincorporated,President,,Jo Jorgensen,LIB,4
+Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Jo Jorgensen,LIB,5
+Sanpete,Spring City,President,,Jo Jorgensen,LIB,9
+Sanpete,Spring City unincorporated,President,,Jo Jorgensen,LIB,2
+Sanpete,Centerfield-Sterling-Fayette,President,,Jo Jorgensen,LIB,2
+Sanpete,Sterling Town,President,,Jo Jorgensen,LIB,0
+Sanpete,Wales Town,President,,Jo Jorgensen,LIB,0
 Sanpete,Axtell,President,,Joe McHugh / Elizabeth Storm,,0
 Sanpete,Centerfield City,President,,Joe McHugh / Elizabeth Storm,,1
 Sanpete,Ephraim City,President,,Joe McHugh / Elizabeth Storm,,1
@@ -149,31 +149,31 @@ Sanpete,Spring City unincorporated,President,,Joe McHugh / Elizabeth Storm,,0
 Sanpete,Centerfield-Sterling-Fayette,President,,Joe McHugh / Elizabeth Storm,,0
 Sanpete,Sterling Town,President,,Joe McHugh / Elizabeth Storm,,1
 Sanpete,Wales Town,President,,Joe McHugh / Elizabeth Storm,,0
-Sanpete,Axtell,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Centerfield City,President,,Howie Hawkins / Angela Walker,GRN,3
-Sanpete,Ephraim City,President,,Howie Hawkins / Angela Walker,GRN,2
-Sanpete,Ephraim unincorporated,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Fayette Town,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Fairview City,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Fairview unincorporated,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Fountain Green City,President,,Howie Hawkins / Angela Walker,GRN,2
-Sanpete,Gunnison City,President,,Howie Hawkins / Angela Walker,GRN,2
-Sanpete,Manti City,President,,Howie Hawkins / Angela Walker,GRN,3
-Sanpete,Manti unincorporated,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Mayfield City,President,,Howie Hawkins / Angela Walker,GRN,1
-Sanpete,Moroni City,President,,Howie Hawkins / Angela Walker,GRN,3
-Sanpete,Moroni unincorporated,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Mount Pleasant City 1,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Mount Pleasant City 1 unincorporated,President,,Howie Hawkins / Angela Walker,GRN,2
-Sanpete,Mount Pleasant City 2,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Mount Pleasant City 2 unincorporated,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Mount Pleasant City 3 unincorporated,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Spring City,President,,Howie Hawkins / Angela Walker,GRN,1
-Sanpete,Spring City unincorporated,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Centerfield-Sterling-Fayette,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Sterling Town,President,,Howie Hawkins / Angela Walker,GRN,0
-Sanpete,Wales Town,President,,Howie Hawkins / Angela Walker,GRN,0
+Sanpete,Axtell,President,,Howie Hawkins,GRN,0
+Sanpete,Centerfield City,President,,Howie Hawkins,GRN,3
+Sanpete,Ephraim City,President,,Howie Hawkins,GRN,2
+Sanpete,Ephraim unincorporated,President,,Howie Hawkins,GRN,0
+Sanpete,Fayette Town,President,,Howie Hawkins,GRN,0
+Sanpete,Fairview City,President,,Howie Hawkins,GRN,0
+Sanpete,Fairview unincorporated,President,,Howie Hawkins,GRN,0
+Sanpete,Fountain Green City,President,,Howie Hawkins,GRN,2
+Sanpete,Gunnison City,President,,Howie Hawkins,GRN,2
+Sanpete,Manti City,President,,Howie Hawkins,GRN,3
+Sanpete,Manti unincorporated,President,,Howie Hawkins,GRN,0
+Sanpete,Mayfield City,President,,Howie Hawkins,GRN,1
+Sanpete,Moroni City,President,,Howie Hawkins,GRN,3
+Sanpete,Moroni unincorporated,President,,Howie Hawkins,GRN,0
+Sanpete,Mount Pleasant City 1,President,,Howie Hawkins,GRN,0
+Sanpete,Mount Pleasant City 1 unincorporated,President,,Howie Hawkins,GRN,2
+Sanpete,Mount Pleasant City 2,President,,Howie Hawkins,GRN,0
+Sanpete,Mount Pleasant City 2 unincorporated,President,,Howie Hawkins,GRN,0
+Sanpete,Mount Pleasant City 3 unincorporated,President,,Howie Hawkins,GRN,0
+Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Howie Hawkins,GRN,0
+Sanpete,Spring City,President,,Howie Hawkins,GRN,1
+Sanpete,Spring City unincorporated,President,,Howie Hawkins,GRN,0
+Sanpete,Centerfield-Sterling-Fayette,President,,Howie Hawkins,GRN,0
+Sanpete,Sterling Town,President,,Howie Hawkins,GRN,0
+Sanpete,Wales Town,President,,Howie Hawkins,GRN,0
 Sanpete,Axtell,President,,Gloria La Riva,,0
 Sanpete,Centerfield City,President,,Gloria La Riva,,1
 Sanpete,Ephraim City,President,,Gloria La Riva,,0
@@ -199,31 +199,31 @@ Sanpete,Spring City unincorporated,President,,Gloria La Riva,,0
 Sanpete,Centerfield-Sterling-Fayette,President,,Gloria La Riva,,0
 Sanpete,Sterling Town,President,,Gloria La Riva,,0
 Sanpete,Wales Town,President,,Gloria La Riva,,0
-Sanpete,Axtell,President,,Donald J. Trump / Michael R. Pence,REP,163
-Sanpete,Centerfield City,President,,Donald J. Trump / Michael R. Pence,REP,550
-Sanpete,Ephraim City,President,,Donald J. Trump / Michael R. Pence,REP,1594
-Sanpete,Ephraim unincorporated,President,,Donald J. Trump / Michael R. Pence,REP,125
-Sanpete,Fayette Town,President,,Donald J. Trump / Michael R. Pence,REP,121
-Sanpete,Fairview City,President,,Donald J. Trump / Michael R. Pence,REP,579
-Sanpete,Fairview unincorporated,President,,Donald J. Trump / Michael R. Pence,REP,582
-Sanpete,Fountain Green City,President,,Donald J. Trump / Michael R. Pence,REP,516
-Sanpete,Gunnison City,President,,Donald J. Trump / Michael R. Pence,REP,763
-Sanpete,Manti City,President,,Donald J. Trump / Michael R. Pence,REP,1471
-Sanpete,Manti unincorporated,President,,Donald J. Trump / Michael R. Pence,REP,122
-Sanpete,Mayfield City,President,,Donald J. Trump / Michael R. Pence,REP,248
-Sanpete,Moroni City,President,,Donald J. Trump / Michael R. Pence,REP,506
-Sanpete,Moroni unincorporated,President,,Donald J. Trump / Michael R. Pence,REP,126
-Sanpete,Mount Pleasant City 1,President,,Donald J. Trump / Michael R. Pence,REP,795
-Sanpete,Mount Pleasant City 1 unincorporated,President,,Donald J. Trump / Michael R. Pence,REP,207
-Sanpete,Mount Pleasant City 2,President,,Donald J. Trump / Michael R. Pence,REP,412
-Sanpete,Mount Pleasant City 2 unincorporated,President,,Donald J. Trump / Michael R. Pence,REP,105
-Sanpete,Mount Pleasant City 3 unincorporated,President,,Donald J. Trump / Michael R. Pence,REP,113
-Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Donald J. Trump / Michael R. Pence,REP,265
-Sanpete,Spring City,President,,Donald J. Trump / Michael R. Pence,REP,419
-Sanpete,Spring City unincorporated,President,,Donald J. Trump / Michael R. Pence,REP,174
-Sanpete,Centerfield-Sterling-Fayette,President,,Donald J. Trump / Michael R. Pence,REP,203
-Sanpete,Sterling Town,President,,Donald J. Trump / Michael R. Pence,REP,145
-Sanpete,Wales Town,President,,Donald J. Trump / Michael R. Pence,REP,155
+Sanpete,Axtell,President,,Donald J. Trump,REP,163
+Sanpete,Centerfield City,President,,Donald J. Trump,REP,550
+Sanpete,Ephraim City,President,,Donald J. Trump,REP,1594
+Sanpete,Ephraim unincorporated,President,,Donald J. Trump,REP,125
+Sanpete,Fayette Town,President,,Donald J. Trump,REP,121
+Sanpete,Fairview City,President,,Donald J. Trump,REP,579
+Sanpete,Fairview unincorporated,President,,Donald J. Trump,REP,582
+Sanpete,Fountain Green City,President,,Donald J. Trump,REP,516
+Sanpete,Gunnison City,President,,Donald J. Trump,REP,763
+Sanpete,Manti City,President,,Donald J. Trump,REP,1471
+Sanpete,Manti unincorporated,President,,Donald J. Trump,REP,122
+Sanpete,Mayfield City,President,,Donald J. Trump,REP,248
+Sanpete,Moroni City,President,,Donald J. Trump,REP,506
+Sanpete,Moroni unincorporated,President,,Donald J. Trump,REP,126
+Sanpete,Mount Pleasant City 1,President,,Donald J. Trump,REP,795
+Sanpete,Mount Pleasant City 1 unincorporated,President,,Donald J. Trump,REP,207
+Sanpete,Mount Pleasant City 2,President,,Donald J. Trump,REP,412
+Sanpete,Mount Pleasant City 2 unincorporated,President,,Donald J. Trump,REP,105
+Sanpete,Mount Pleasant City 3 unincorporated,President,,Donald J. Trump,REP,113
+Sanpete,Wales-Chester-Fountain Green unincorporated,President,,Donald J. Trump,REP,265
+Sanpete,Spring City,President,,Donald J. Trump,REP,419
+Sanpete,Spring City unincorporated,President,,Donald J. Trump,REP,174
+Sanpete,Centerfield-Sterling-Fayette,President,,Donald J. Trump,REP,203
+Sanpete,Sterling Town,President,,Donald J. Trump,REP,145
+Sanpete,Wales Town,President,,Donald J. Trump,REP,155
 Sanpete,Axtell,President,,Write-In Totals,,0
 Sanpete,Centerfield City,President,,Write-In Totals,,1
 Sanpete,Ephraim City,President,,Write-In Totals,,27
@@ -352,106 +352,106 @@ Sanpete,Wales-Chester-Fountain Green unincorporated,U.S. House,4,Write-In Totals
 Sanpete,Spring City,U.S. House,4,Write-In Totals,,0
 Sanpete,Spring City unincorporated,U.S. House,4,Write-In Totals,,1
 Sanpete,Wales Town,U.S. House,4,Write-In Totals,,2
-Sanpete,Axtell,Governor,,Chris Peterson / Karina Brown,DEM,13
-Sanpete,Centerfield City,Governor,,Chris Peterson / Karina Brown,DEM,43
-Sanpete,Ephraim City,Governor,,Chris Peterson / Karina Brown,DEM,205
-Sanpete,Ephraim unincorporated,Governor,,Chris Peterson / Karina Brown,DEM,6
-Sanpete,Fayette Town,Governor,,Chris Peterson / Karina Brown,DEM,4
-Sanpete,Fairview City,Governor,,Chris Peterson / Karina Brown,DEM,30
-Sanpete,Fairview unincorporated,Governor,,Chris Peterson / Karina Brown,DEM,36
-Sanpete,Fountain Green City,Governor,,Chris Peterson / Karina Brown,DEM,31
-Sanpete,Gunnison City,Governor,,Chris Peterson / Karina Brown,DEM,73
-Sanpete,Manti City,Governor,,Chris Peterson / Karina Brown,DEM,138
-Sanpete,Manti unincorporated,Governor,,Chris Peterson / Karina Brown,DEM,12
-Sanpete,Mayfield City,Governor,,Chris Peterson / Karina Brown,DEM,29
-Sanpete,Moroni City,Governor,,Chris Peterson / Karina Brown,DEM,25
-Sanpete,Moroni unincorporated,Governor,,Chris Peterson / Karina Brown,DEM,15
-Sanpete,Mount Pleasant City 1,Governor,,Chris Peterson / Karina Brown,DEM,122
-Sanpete,Mount Pleasant City 1 unincorporated,Governor,,Chris Peterson / Karina Brown,DEM,13
-Sanpete,Mount Pleasant City 2,Governor,,Chris Peterson / Karina Brown,DEM,41
-Sanpete,Mount Pleasant City 2 unincorporated,Governor,,Chris Peterson / Karina Brown,DEM,14
-Sanpete,Mount Pleasant City 3 unincorporated,Governor,,Chris Peterson / Karina Brown,DEM,7
-Sanpete,Wales-Chester-Fountain Green unincorporated,Governor,,Chris Peterson / Karina Brown,DEM,14
-Sanpete,Spring City,Governor,,Chris Peterson / Karina Brown,DEM,77
-Sanpete,Spring City unincorporated,Governor,,Chris Peterson / Karina Brown,DEM,11
-Sanpete,Centerfield-Sterling-Fayette,Governor,,Chris Peterson / Karina Brown,DEM,23
-Sanpete,Sterling Town,Governor,,Chris Peterson / Karina Brown,DEM,7
-Sanpete,Wales Town,Governor,,Chris Peterson / Karina Brown,DEM,23
-Sanpete,Axtell,Governor,,Greg Duerden / Wayne Hill,IAP,8
-Sanpete,Centerfield City,Governor,,Greg Duerden / Wayne Hill,IAP,17
-Sanpete,Ephraim City,Governor,,Greg Duerden / Wayne Hill,IAP,39
-Sanpete,Ephraim unincorporated,Governor,,Greg Duerden / Wayne Hill,IAP,2
-Sanpete,Fayette Town,Governor,,Greg Duerden / Wayne Hill,IAP,2
-Sanpete,Fairview City,Governor,,Greg Duerden / Wayne Hill,IAP,14
-Sanpete,Fairview unincorporated,Governor,,Greg Duerden / Wayne Hill,IAP,10
-Sanpete,Fountain Green City,Governor,,Greg Duerden / Wayne Hill,IAP,23
-Sanpete,Gunnison City,Governor,,Greg Duerden / Wayne Hill,IAP,14
-Sanpete,Manti City,Governor,,Greg Duerden / Wayne Hill,IAP,63
-Sanpete,Manti unincorporated,Governor,,Greg Duerden / Wayne Hill,IAP,7
-Sanpete,Mayfield City,Governor,,Greg Duerden / Wayne Hill,IAP,10
-Sanpete,Moroni City,Governor,,Greg Duerden / Wayne Hill,IAP,28
-Sanpete,Moroni unincorporated,Governor,,Greg Duerden / Wayne Hill,IAP,8
-Sanpete,Mount Pleasant City 1,Governor,,Greg Duerden / Wayne Hill,IAP,40
-Sanpete,Mount Pleasant City 1 unincorporated,Governor,,Greg Duerden / Wayne Hill,IAP,7
-Sanpete,Mount Pleasant City 2,Governor,,Greg Duerden / Wayne Hill,IAP,18
-Sanpete,Mount Pleasant City 2 unincorporated,Governor,,Greg Duerden / Wayne Hill,IAP,6
-Sanpete,Mount Pleasant City 3 unincorporated,Governor,,Greg Duerden / Wayne Hill,IAP,12
-Sanpete,Wales-Chester-Fountain Green unincorporated,Governor,,Greg Duerden / Wayne Hill,IAP,8
-Sanpete,Spring City,Governor,,Greg Duerden / Wayne Hill,IAP,22
-Sanpete,Spring City unincorporated,Governor,,Greg Duerden / Wayne Hill,IAP,13
-Sanpete,Centerfield-Sterling-Fayette,Governor,,Greg Duerden / Wayne Hill,IAP,5
-Sanpete,Sterling Town,Governor,,Greg Duerden / Wayne Hill,IAP,7
-Sanpete,Wales Town,Governor,,Greg Duerden / Wayne Hill,IAP,5
-Sanpete,Axtell,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,152
-Sanpete,Centerfield City,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,506
-Sanpete,Ephraim City,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,1672
-Sanpete,Ephraim unincorporated,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,123
-Sanpete,Fayette Town,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,113
-Sanpete,Fairview City,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,611
-Sanpete,Fairview unincorporated,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,622
-Sanpete,Fountain Green City,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,512
-Sanpete,Gunnison City,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,732
-Sanpete,Manti City,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,1383
-Sanpete,Manti unincorporated,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,96
-Sanpete,Mayfield City,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,258
-Sanpete,Moroni City,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,504
-Sanpete,Moroni unincorporated,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,113
-Sanpete,Mount Pleasant City 1,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,790
-Sanpete,Mount Pleasant City 1 unincorporated,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,211
-Sanpete,Mount Pleasant City 2,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,407
-Sanpete,Mount Pleasant City 2 unincorporated,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,105
-Sanpete,Mount Pleasant City 3 unincorporated,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,100
-Sanpete,Wales-Chester-Fountain Green unincorporated,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,266
-Sanpete,Spring City,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,429
-Sanpete,Spring City unincorporated,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,150
-Sanpete,Centerfield-Sterling-Fayette,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,188
-Sanpete,Sterling Town,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,127
-Sanpete,Wales Town,Governor,,Spencer J. Cox / Deidre M. Henderson,REP,156
-Sanpete,Axtell,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,8
-Sanpete,Centerfield City,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,14
-Sanpete,Ephraim City,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,48
-Sanpete,Ephraim unincorporated,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,0
-Sanpete,Fayette Town,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,7
-Sanpete,Fairview City,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,16
-Sanpete,Fairview unincorporated,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,14
-Sanpete,Fountain Green City,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,19
-Sanpete,Gunnison City,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,19
-Sanpete,Manti City,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,61
-Sanpete,Manti unincorporated,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,2
-Sanpete,Mayfield City,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,7
-Sanpete,Moroni City,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,27
-Sanpete,Moroni unincorporated,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,3
-Sanpete,Mount Pleasant City 1,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,33
-Sanpete,Mount Pleasant City 1 unincorporated,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,6
-Sanpete,Mount Pleasant City 2,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,25
-Sanpete,Mount Pleasant City 2 unincorporated,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,4
-Sanpete,Mount Pleasant City 3 unincorporated,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,7
-Sanpete,Wales-Chester-Fountain Green unincorporated,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,8
-Sanpete,Spring City,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,16
-Sanpete,Spring City unincorporated,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,8
-Sanpete,Centerfield-Sterling-Fayette,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,3
-Sanpete,Sterling Town,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,4
-Sanpete,Wales Town,Governor,,Daniel Rhead Cottam / Barry Evan Short,LIB,4
+Sanpete,Axtell,Governor,,Chris Peterson,DEM,13
+Sanpete,Centerfield City,Governor,,Chris Peterson,DEM,43
+Sanpete,Ephraim City,Governor,,Chris Peterson,DEM,205
+Sanpete,Ephraim unincorporated,Governor,,Chris Peterson,DEM,6
+Sanpete,Fayette Town,Governor,,Chris Peterson,DEM,4
+Sanpete,Fairview City,Governor,,Chris Peterson,DEM,30
+Sanpete,Fairview unincorporated,Governor,,Chris Peterson,DEM,36
+Sanpete,Fountain Green City,Governor,,Chris Peterson,DEM,31
+Sanpete,Gunnison City,Governor,,Chris Peterson,DEM,73
+Sanpete,Manti City,Governor,,Chris Peterson,DEM,138
+Sanpete,Manti unincorporated,Governor,,Chris Peterson,DEM,12
+Sanpete,Mayfield City,Governor,,Chris Peterson,DEM,29
+Sanpete,Moroni City,Governor,,Chris Peterson,DEM,25
+Sanpete,Moroni unincorporated,Governor,,Chris Peterson,DEM,15
+Sanpete,Mount Pleasant City 1,Governor,,Chris Peterson,DEM,122
+Sanpete,Mount Pleasant City 1 unincorporated,Governor,,Chris Peterson,DEM,13
+Sanpete,Mount Pleasant City 2,Governor,,Chris Peterson,DEM,41
+Sanpete,Mount Pleasant City 2 unincorporated,Governor,,Chris Peterson,DEM,14
+Sanpete,Mount Pleasant City 3 unincorporated,Governor,,Chris Peterson,DEM,7
+Sanpete,Wales-Chester-Fountain Green unincorporated,Governor,,Chris Peterson,DEM,14
+Sanpete,Spring City,Governor,,Chris Peterson,DEM,77
+Sanpete,Spring City unincorporated,Governor,,Chris Peterson,DEM,11
+Sanpete,Centerfield-Sterling-Fayette,Governor,,Chris Peterson,DEM,23
+Sanpete,Sterling Town,Governor,,Chris Peterson,DEM,7
+Sanpete,Wales Town,Governor,,Chris Peterson,DEM,23
+Sanpete,Axtell,Governor,,Greg Duerden,IAP,8
+Sanpete,Centerfield City,Governor,,Greg Duerden,IAP,17
+Sanpete,Ephraim City,Governor,,Greg Duerden,IAP,39
+Sanpete,Ephraim unincorporated,Governor,,Greg Duerden,IAP,2
+Sanpete,Fayette Town,Governor,,Greg Duerden,IAP,2
+Sanpete,Fairview City,Governor,,Greg Duerden,IAP,14
+Sanpete,Fairview unincorporated,Governor,,Greg Duerden,IAP,10
+Sanpete,Fountain Green City,Governor,,Greg Duerden,IAP,23
+Sanpete,Gunnison City,Governor,,Greg Duerden,IAP,14
+Sanpete,Manti City,Governor,,Greg Duerden,IAP,63
+Sanpete,Manti unincorporated,Governor,,Greg Duerden,IAP,7
+Sanpete,Mayfield City,Governor,,Greg Duerden,IAP,10
+Sanpete,Moroni City,Governor,,Greg Duerden,IAP,28
+Sanpete,Moroni unincorporated,Governor,,Greg Duerden,IAP,8
+Sanpete,Mount Pleasant City 1,Governor,,Greg Duerden,IAP,40
+Sanpete,Mount Pleasant City 1 unincorporated,Governor,,Greg Duerden,IAP,7
+Sanpete,Mount Pleasant City 2,Governor,,Greg Duerden,IAP,18
+Sanpete,Mount Pleasant City 2 unincorporated,Governor,,Greg Duerden,IAP,6
+Sanpete,Mount Pleasant City 3 unincorporated,Governor,,Greg Duerden,IAP,12
+Sanpete,Wales-Chester-Fountain Green unincorporated,Governor,,Greg Duerden,IAP,8
+Sanpete,Spring City,Governor,,Greg Duerden,IAP,22
+Sanpete,Spring City unincorporated,Governor,,Greg Duerden,IAP,13
+Sanpete,Centerfield-Sterling-Fayette,Governor,,Greg Duerden,IAP,5
+Sanpete,Sterling Town,Governor,,Greg Duerden,IAP,7
+Sanpete,Wales Town,Governor,,Greg Duerden,IAP,5
+Sanpete,Axtell,Governor,,Spencer J. Cox,REP,152
+Sanpete,Centerfield City,Governor,,Spencer J. Cox,REP,506
+Sanpete,Ephraim City,Governor,,Spencer J. Cox,REP,1672
+Sanpete,Ephraim unincorporated,Governor,,Spencer J. Cox,REP,123
+Sanpete,Fayette Town,Governor,,Spencer J. Cox,REP,113
+Sanpete,Fairview City,Governor,,Spencer J. Cox,REP,611
+Sanpete,Fairview unincorporated,Governor,,Spencer J. Cox,REP,622
+Sanpete,Fountain Green City,Governor,,Spencer J. Cox,REP,512
+Sanpete,Gunnison City,Governor,,Spencer J. Cox,REP,732
+Sanpete,Manti City,Governor,,Spencer J. Cox,REP,1383
+Sanpete,Manti unincorporated,Governor,,Spencer J. Cox,REP,96
+Sanpete,Mayfield City,Governor,,Spencer J. Cox,REP,258
+Sanpete,Moroni City,Governor,,Spencer J. Cox,REP,504
+Sanpete,Moroni unincorporated,Governor,,Spencer J. Cox,REP,113
+Sanpete,Mount Pleasant City 1,Governor,,Spencer J. Cox,REP,790
+Sanpete,Mount Pleasant City 1 unincorporated,Governor,,Spencer J. Cox,REP,211
+Sanpete,Mount Pleasant City 2,Governor,,Spencer J. Cox,REP,407
+Sanpete,Mount Pleasant City 2 unincorporated,Governor,,Spencer J. Cox,REP,105
+Sanpete,Mount Pleasant City 3 unincorporated,Governor,,Spencer J. Cox,REP,100
+Sanpete,Wales-Chester-Fountain Green unincorporated,Governor,,Spencer J. Cox,REP,266
+Sanpete,Spring City,Governor,,Spencer J. Cox,REP,429
+Sanpete,Spring City unincorporated,Governor,,Spencer J. Cox,REP,150
+Sanpete,Centerfield-Sterling-Fayette,Governor,,Spencer J. Cox,REP,188
+Sanpete,Sterling Town,Governor,,Spencer J. Cox,REP,127
+Sanpete,Wales Town,Governor,,Spencer J. Cox,REP,156
+Sanpete,Axtell,Governor,,Daniel Rhead Cottam,LIB,8
+Sanpete,Centerfield City,Governor,,Daniel Rhead Cottam,LIB,14
+Sanpete,Ephraim City,Governor,,Daniel Rhead Cottam,LIB,48
+Sanpete,Ephraim unincorporated,Governor,,Daniel Rhead Cottam,LIB,0
+Sanpete,Fayette Town,Governor,,Daniel Rhead Cottam,LIB,7
+Sanpete,Fairview City,Governor,,Daniel Rhead Cottam,LIB,16
+Sanpete,Fairview unincorporated,Governor,,Daniel Rhead Cottam,LIB,14
+Sanpete,Fountain Green City,Governor,,Daniel Rhead Cottam,LIB,19
+Sanpete,Gunnison City,Governor,,Daniel Rhead Cottam,LIB,19
+Sanpete,Manti City,Governor,,Daniel Rhead Cottam,LIB,61
+Sanpete,Manti unincorporated,Governor,,Daniel Rhead Cottam,LIB,2
+Sanpete,Mayfield City,Governor,,Daniel Rhead Cottam,LIB,7
+Sanpete,Moroni City,Governor,,Daniel Rhead Cottam,LIB,27
+Sanpete,Moroni unincorporated,Governor,,Daniel Rhead Cottam,LIB,3
+Sanpete,Mount Pleasant City 1,Governor,,Daniel Rhead Cottam,LIB,33
+Sanpete,Mount Pleasant City 1 unincorporated,Governor,,Daniel Rhead Cottam,LIB,6
+Sanpete,Mount Pleasant City 2,Governor,,Daniel Rhead Cottam,LIB,25
+Sanpete,Mount Pleasant City 2 unincorporated,Governor,,Daniel Rhead Cottam,LIB,4
+Sanpete,Mount Pleasant City 3 unincorporated,Governor,,Daniel Rhead Cottam,LIB,7
+Sanpete,Wales-Chester-Fountain Green unincorporated,Governor,,Daniel Rhead Cottam,LIB,8
+Sanpete,Spring City,Governor,,Daniel Rhead Cottam,LIB,16
+Sanpete,Spring City unincorporated,Governor,,Daniel Rhead Cottam,LIB,8
+Sanpete,Centerfield-Sterling-Fayette,Governor,,Daniel Rhead Cottam,LIB,3
+Sanpete,Sterling Town,Governor,,Daniel Rhead Cottam,LIB,4
+Sanpete,Wales Town,Governor,,Daniel Rhead Cottam,LIB,4
 Sanpete,Axtell,Governor,,Write-In Totals,,3
 Sanpete,Centerfield City,Governor,,Write-In Totals,,28
 Sanpete,Ephraim City,Governor,,Write-In Totals,,68
