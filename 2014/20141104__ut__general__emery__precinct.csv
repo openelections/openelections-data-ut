@@ -11,11 +11,11 @@ Emery,1,U.S. House,3,ZACK STRONG ,IAP ,3,0,0,0,3
 Emery,1,U.S. House,3,JASON CHAFFETZ ,REP ,74,0,3,0,77
 Emery,1,U.S. House,3,STEPHEN P. TRYON ,,0,0,0,0,0
 Emery,1,U.S. House,3,Write-ins,,0,0,0,0,0
-Emery,1,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,5,0,0,0,5
-Emery,1,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,6,0,0,0,6
-Emery,1,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,12,0,1,0,13
-Emery,1,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,68,0,3,0,71
-Emery,1,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,0,0,0,0,0
+Emery,1,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,5,0,0,0,5
+Emery,1,Attorney General ,,GREGORY G. HANSEN ,CON ,6,0,0,0,6
+Emery,1,Attorney General ,,CHARLES A. STORMONT ,DEM ,12,0,1,0,13
+Emery,1,Attorney General ,,SEAN D. REYES ,REP ,68,0,3,0,71
+Emery,1,Attorney General ,,LESLIE D. CURTIS ,IAP ,0,0,0,0,0
 Emery,1,State Representative,70,KAY L. MCIFF ,REP ,70,0,3,0,73
 Emery,1,State Representative,70,KALEN JONES ,DEM ,13,0,1,0,14
 Emery,1,State Representative,70,R. GLENN STONEMAN ,CON ,7,0,0,0,7
@@ -71,11 +71,11 @@ Emery,2,U.S. House,3,ZACK STRONG ,IAP ,11,0,0,0,11
 Emery,2,U.S. House,3,JASON CHAFFETZ ,REP ,205,2,14,1,222
 Emery,2,U.S. House,3,STEPHEN P. TRYON ,,5,0,0,0,5
 Emery,2,U.S. House,3,Write-ins,,0,0,0,0,0
-Emery,2,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,7,0,1,0,8
-Emery,2,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,5,0,0,1,6
-Emery,2,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,29,0,3,0,32
-Emery,2,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,196,2,12,0,210
-Emery,2,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,15,0,0,0,15
+Emery,2,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,7,0,1,0,8
+Emery,2,Attorney General ,,GREGORY G. HANSEN ,CON ,5,0,0,1,6
+Emery,2,Attorney General ,,CHARLES A. STORMONT ,DEM ,29,0,3,0,32
+Emery,2,Attorney General ,,SEAN D. REYES ,REP ,196,2,12,0,210
+Emery,2,Attorney General ,,LESLIE D. CURTIS ,IAP ,15,0,0,0,15
 Emery,2,State Representative,70,KAY L. MCIFF ,REP ,192,2,12,0,206
 Emery,2,State Representative,70,KALEN JONES ,DEM ,38,0,3,0,41
 Emery,2,State Representative,70,R. GLENN STONEMAN ,CON ,16,0,1,1,18
@@ -130,11 +130,11 @@ Emery,3,U.S. House,3,ZACK STRONG ,IAP ,6,0,1,0,7
 Emery,3,U.S. House,3,JASON CHAFFETZ ,REP ,176,3,19,0,198
 Emery,3,U.S. House,3,STEPHEN P. TRYON ,,1,0,0,0,1
 Emery,3,U.S. House,3,Write-ins,,2,0,1,0,3
-Emery,3,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,4,0,0,0,4
-Emery,3,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,8,0,0,0,8
-Emery,3,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,20,1,4,0,25
-Emery,3,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,164,2,20,0,186
-Emery,3,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,9,0,0,0,9
+Emery,3,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,4,0,0,0,4
+Emery,3,Attorney General ,,GREGORY G. HANSEN ,CON ,8,0,0,0,8
+Emery,3,Attorney General ,,CHARLES A. STORMONT ,DEM ,20,1,4,0,25
+Emery,3,Attorney General ,,SEAN D. REYES ,REP ,164,2,20,0,186
+Emery,3,Attorney General ,,LESLIE D. CURTIS ,IAP ,9,0,0,0,9
 Emery,3,State Representative,70,KAY L. MCIFF ,REP ,155,3,17,0,175
 Emery,3,State Representative,70,KALEN JONES ,DEM ,31,0,6,0,37
 Emery,3,State Representative,70,R. GLENN STONEMAN ,CON ,16,0,1,0,17
@@ -189,11 +189,11 @@ Emery,4,U.S. House,3,ZACK STRONG ,IAP ,0,0,0,0,0
 Emery,4,U.S. House,3,JASON CHAFFETZ ,REP ,58,4,6,0,68
 Emery,4,U.S. House,3,STEPHEN P. TRYON ,,0,0,0,0,0
 Emery,4,U.S. House,3,Write-ins,,0,0,1,0,1
-Emery,4,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,0,0,0,0,0
-Emery,4,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,1,0,0,0,1
-Emery,4,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,11,0,0,0,11
-Emery,4,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,55,4,6,0,65
-Emery,4,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,0,0,0,0,0
+Emery,4,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,0,0,0,0,0
+Emery,4,Attorney General ,,GREGORY G. HANSEN ,CON ,1,0,0,0,1
+Emery,4,Attorney General ,,CHARLES A. STORMONT ,DEM ,11,0,0,0,11
+Emery,4,Attorney General ,,SEAN D. REYES ,REP ,55,4,6,0,65
+Emery,4,Attorney General ,,LESLIE D. CURTIS ,IAP ,0,0,0,0,0
 Emery,4,State Representative,70,KAY L. MCIFF ,REP ,54,1,5,0,60
 Emery,4,State Representative,70,KALEN JONES ,DEM ,9,3,0,0,12
 Emery,4,State Representative,70,R. GLENN STONEMAN ,CON ,1,0,1,0,2
@@ -248,11 +248,11 @@ Emery,5,U.S. House,3,ZACK STRONG ,IAP ,11,0,0,0,11
 Emery,5,U.S. House,3,JASON CHAFFETZ ,REP ,267,6,37,0,310
 Emery,5,U.S. House,3,STEPHEN P. TRYON ,,6,0,1,0,7
 Emery,5,U.S. House,3,Write-ins,,1,0,0,0,1
-Emery,5,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,13,0,1,0,14
-Emery,5,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,9,0,2,0,11
-Emery,5,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,57,4,2,0,63
-Emery,5,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,242,6,33,0,281
-Emery,5,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,15,0,1,0,16
+Emery,5,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,13,0,1,0,14
+Emery,5,Attorney General ,,GREGORY G. HANSEN ,CON ,9,0,2,0,11
+Emery,5,Attorney General ,,CHARLES A. STORMONT ,DEM ,57,4,2,0,63
+Emery,5,Attorney General ,,SEAN D. REYES ,REP ,242,6,33,0,281
+Emery,5,Attorney General ,,LESLIE D. CURTIS ,IAP ,15,0,1,0,16
 Emery,5,State Representative,70,KAY L. MCIFF ,REP ,257,6,32,0,295
 Emery,5,State Representative,70,KALEN JONES ,DEM ,63,4,4,0,71
 Emery,5,State Representative,70,R. GLENN STONEMAN ,CON ,12,0,3,0,15
@@ -307,11 +307,11 @@ Emery,6,U.S. House,3,ZACK STRONG ,IAP ,6,0,1,0,7
 Emery,6,U.S. House,3,JASON CHAFFETZ ,REP ,127,1,19,0,147
 Emery,6,U.S. House,3,STEPHEN P. TRYON ,,1,0,0,0,1
 Emery,6,U.S. House,3,Write-ins,,0,0,0,0,0
-Emery,6,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,5,0,1,0,6
-Emery,6,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,4,1,1,0,6
-Emery,6,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,21,2,8,0,31
-Emery,6,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,114,0,18,0,132
-Emery,6,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,7,0,0,0,7
+Emery,6,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,5,0,1,0,6
+Emery,6,Attorney General ,,GREGORY G. HANSEN ,CON ,4,1,1,0,6
+Emery,6,Attorney General ,,CHARLES A. STORMONT ,DEM ,21,2,8,0,31
+Emery,6,Attorney General ,,SEAN D. REYES ,REP ,114,0,18,0,132
+Emery,6,Attorney General ,,LESLIE D. CURTIS ,IAP ,7,0,0,0,7
 Emery,6,State Representative,70,KAY L. MCIFF ,REP ,114,1,20,0,135
 Emery,6,State Representative,70,KALEN JONES ,DEM ,27,2,6,0,35
 Emery,6,State Representative,70,R. GLENN STONEMAN ,CON ,8,0,2,0,10
@@ -366,11 +366,11 @@ Emery,7,U.S. House,3,ZACK STRONG ,IAP ,7,0,2,0,9
 Emery,7,U.S. House,3,JASON CHAFFETZ ,REP ,172,3,32,1,208
 Emery,7,U.S. House,3,STEPHEN P. TRYON ,,2,0,0,0,2
 Emery,7,U.S. House,3,Write-ins,,0,0,0,0,0
-Emery,7,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,5,0,1,0,6
-Emery,7,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,9,0,0,0,9
-Emery,7,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,22,0,5,0,27
-Emery,7,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,162,3,31,1,197
-Emery,7,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,11,0,2,0,13
+Emery,7,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,5,0,1,0,6
+Emery,7,Attorney General ,,GREGORY G. HANSEN ,CON ,9,0,0,0,9
+Emery,7,Attorney General ,,CHARLES A. STORMONT ,DEM ,22,0,5,0,27
+Emery,7,Attorney General ,,SEAN D. REYES ,REP ,162,3,31,1,197
+Emery,7,Attorney General ,,LESLIE D. CURTIS ,IAP ,11,0,2,0,13
 Emery,7,State Representative,70,KAY L. MCIFF ,REP ,152,3,33,0,188
 Emery,7,State Representative,70,KALEN JONES ,DEM ,41,0,7,0,48
 Emery,7,State Representative,70,R. GLENN STONEMAN ,CON ,10,0,0,0,10
@@ -425,11 +425,11 @@ Emery,8,U.S. House,3,ZACK STRONG ,IAP ,11,0,0,0,11
 Emery,8,U.S. House,3,JASON CHAFFETZ ,REP ,190,7,12,4,213
 Emery,8,U.S. House,3,STEPHEN P. TRYON ,,5,0,4,0,9
 Emery,8,U.S. House,3,Write-ins,,1,0,0,0,1
-Emery,8,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,10,0,0,0,10
-Emery,8,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,9,0,0,0,9
-Emery,8,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,46,2,3,2,53
-Emery,8,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,175,5,14,3,197
-Emery,8,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,13,0,2,0,15
+Emery,8,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,10,0,0,0,10
+Emery,8,Attorney General ,,GREGORY G. HANSEN ,CON ,9,0,0,0,9
+Emery,8,Attorney General ,,CHARLES A. STORMONT ,DEM ,46,2,3,2,53
+Emery,8,Attorney General ,,SEAN D. REYES ,REP ,175,5,14,3,197
+Emery,8,Attorney General ,,LESLIE D. CURTIS ,IAP ,13,0,2,0,15
 Emery,8,State Representative,70,KAY L. MCIFF ,REP ,170,6,11,5,192
 Emery,8,State Representative,70,KALEN JONES ,DEM ,56,1,4,0,61
 Emery,8,State Representative,70,R. GLENN STONEMAN ,CON ,21,0,3,0,24
@@ -485,11 +485,11 @@ Emery,9,U.S. House,3,ZACK STRONG ,IAP ,4,0,0,0,4
 Emery,9,U.S. House,3,JASON CHAFFETZ ,REP ,162,0,7,0,169
 Emery,9,U.S. House,3,STEPHEN P. TRYON ,,11,0,0,0,11
 Emery,9,U.S. House,3,Write-ins,,0,0,0,0,0
-Emery,9,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,7,0,0,0,7
-Emery,9,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,10,0,0,0,10
-Emery,9,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,39,0,6,0,45
-Emery,9,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,150,1,8,0,159
-Emery,9,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,9,0,1,0,10
+Emery,9,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,7,0,0,0,7
+Emery,9,Attorney General ,,GREGORY G. HANSEN ,CON ,10,0,0,0,10
+Emery,9,Attorney General ,,CHARLES A. STORMONT ,DEM ,39,0,6,0,45
+Emery,9,Attorney General ,,SEAN D. REYES ,REP ,150,1,8,0,159
+Emery,9,Attorney General ,,LESLIE D. CURTIS ,IAP ,9,0,1,0,10
 Emery,9,State Representative,70,KAY L. MCIFF ,REP ,153,1,7,0,161
 Emery,9,State Representative,70,KALEN JONES ,DEM ,46,0,7,0,53
 Emery,9,State Representative,70,R. GLENN STONEMAN ,CON ,15,0,1,0,16
@@ -545,11 +545,11 @@ Emery,10,U.S. House,3,ZACK STRONG ,IAP ,7,0,0,0,7
 Emery,10,U.S. House,3,JASON CHAFFETZ ,REP ,165,0,6,1,172
 Emery,10,U.S. House,3,STEPHEN P. TRYON ,,6,0,0,0,6
 Emery,10,U.S. House,3,Write-ins,,0,0,0,0,0
-Emery,10,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,4,0,0,0,4
-Emery,10,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,6,0,1,0,7
-Emery,10,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,23,1,2,0,26
-Emery,10,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,161,0,5,1,167
-Emery,10,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,6,0,0,0,6
+Emery,10,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,4,0,0,0,4
+Emery,10,Attorney General ,,GREGORY G. HANSEN ,CON ,6,0,1,0,7
+Emery,10,Attorney General ,,CHARLES A. STORMONT ,DEM ,23,1,2,0,26
+Emery,10,Attorney General ,,SEAN D. REYES ,REP ,161,0,5,1,167
+Emery,10,Attorney General ,,LESLIE D. CURTIS ,IAP ,6,0,0,0,6
 Emery,10,State Representative,70,KAY L. MCIFF ,REP ,164,0,5,1,170
 Emery,10,State Representative,70,KALEN JONES ,DEM ,29,1,1,0,31
 Emery,10,State Representative,70,R. GLENN STONEMAN ,CON ,5,0,2,0,7
@@ -605,11 +605,11 @@ Emery,11,U.S. House,3,ZACK STRONG ,IAP ,5,0,0,0,5
 Emery,11,U.S. House,3,JASON CHAFFETZ ,REP ,128,2,6,0,136
 Emery,11,U.S. House,3,STEPHEN P. TRYON ,,1,0,0,1,2
 Emery,11,U.S. House,3,Write-ins,,0,0,0,0,0
-Emery,11,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,4,0,0,1,5
-Emery,11,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,2,0,0,0,2
-Emery,11,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,25,0,0,1,26
-Emery,11,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,117,2,7,0,126
-Emery,11,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,10,0,0,0,10
+Emery,11,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,4,0,0,1,5
+Emery,11,Attorney General ,,GREGORY G. HANSEN ,CON ,2,0,0,0,2
+Emery,11,Attorney General ,,CHARLES A. STORMONT ,DEM ,25,0,0,1,26
+Emery,11,Attorney General ,,SEAN D. REYES ,REP ,117,2,7,0,126
+Emery,11,Attorney General ,,LESLIE D. CURTIS ,IAP ,10,0,0,0,10
 Emery,11,State Representative,70,KAY L. MCIFF ,REP ,113,2,7,2,124
 Emery,11,State Representative,70,KALEN JONES ,DEM ,29,0,0,0,29
 Emery,11,State Representative,70,R. GLENN STONEMAN ,CON ,7,0,0,0,7
@@ -665,11 +665,11 @@ Emery,12,U.S. House,3,ZACK STRONG ,IAP ,12,0,0,0,12
 Emery,12,U.S. House,3,JASON CHAFFETZ ,REP ,200,7,1,0,208
 Emery,12,U.S. House,3,STEPHEN P. TRYON ,,4,0,0,0,4
 Emery,12,U.S. House,3,Write-ins,,1,0,0,0,1
-Emery,12,ATTORNEY GENERAL ,,W. ANDREW McCULLOUGH ,LIB ,5,0,0,0,5
-Emery,12,ATTORNEY GENERAL ,,GREGORY G. HANSEN ,CON ,11,0,0,0,11
-Emery,12,ATTORNEY GENERAL ,,CHARLES A. STORMONT ,DEM ,38,0,0,1,39
-Emery,12,ATTORNEY GENERAL ,,SEAN D. REYES ,REP ,183,6,1,0,190
-Emery,12,ATTORNEY GENERAL ,,LESLIE D. CURTIS ,IAP ,11,0,0,1,12
+Emery,12,Attorney General ,,W. ANDREW McCULLOUGH ,LIB ,5,0,0,0,5
+Emery,12,Attorney General ,,GREGORY G. HANSEN ,CON ,11,0,0,0,11
+Emery,12,Attorney General ,,CHARLES A. STORMONT ,DEM ,38,0,0,1,39
+Emery,12,Attorney General ,,SEAN D. REYES ,REP ,183,6,1,0,190
+Emery,12,Attorney General ,,LESLIE D. CURTIS ,IAP ,11,0,0,1,12
 Emery,12,State Representative,69,BILL LABRUM ,REP ,140,7,1,0,148
 Emery,12,State Representative,69,BRAD KING ,DEM ,109,0,0,2,111
 Emery,12,COUNTY COMM A ,,KEITH BRADY ,REP ,217,6,1,2,226
