@@ -1,96 +1,96 @@
 county,precinct,office,district,party,candidate,votes
-Cache,AMA,U.S. Senate,,Con ,Tim Aalders,11
-Cache,BEN,U.S. Senate,,Con ,Tim Aalders,6
-Cache,CLK,U.S. Senate,,Con ,Tim Aalders,11
-Cache,COR,U.S. Senate,,Con ,Tim Aalders,5
-Cache,COV,U.S. Senate,,Con ,Tim Aalders,11
-Cache,CY,U.S. Senate,,Con ,Tim Aalders,13
-Cache,HYD01,U.S. Senate,,Con ,Tim Aalders,24
-Cache,HYD02,U.S. Senate,,Con ,Tim Aalders,34
-Cache,HYR01,U.S. Senate,,Con ,Tim Aalders,28
-Cache,HYR02,U.S. Senate,,Con ,Tim Aalders,10
-Cache,HYR03,U.S. Senate,,Con ,Tim Aalders,21
-Cache,HYR04,U.S. Senate,,Con ,Tim Aalders,32
-Cache,HYR05,U.S. Senate,,Con ,Tim Aalders,25
-Cache,LEW01,U.S. Senate,,Con ,Tim Aalders,16
-Cache,LEW02,U.S. Senate,,Con ,Tim Aalders,11
-Cache,LOG01-1,U.S. Senate,,Con ,Tim Aalders,4
-Cache,LOG02,U.S. Senate,,Con ,Tim Aalders,17
-Cache,LOG03,U.S. Senate,,Con ,Tim Aalders,10
-Cache,LOG04,U.S. Senate,,Con ,Tim Aalders,11
-Cache,LOG05,U.S. Senate,,Con ,Tim Aalders,22
-Cache,LOG06,U.S. Senate,,Con ,Tim Aalders,11
-Cache,LOG07,U.S. Senate,,Con ,Tim Aalders,2
-Cache,LOG08,U.S. Senate,,Con ,Tim Aalders,3
-Cache,LOG09,U.S. Senate,,Con ,Tim Aalders,9
-Cache,LOG10,U.S. Senate,,Con ,Tim Aalders,3
-Cache,LOG11,U.S. Senate,,Con ,Tim Aalders,12
-Cache,LOG12,U.S. Senate,,Con ,Tim Aalders,4
-Cache,LOG13,U.S. Senate,,Con ,Tim Aalders,14
-Cache,LOG14,U.S. Senate,,Con ,Tim Aalders,4
-Cache,LOG15,U.S. Senate,,Con ,Tim Aalders,12
-Cache,LOG16,U.S. Senate,,Con ,Tim Aalders,15
-Cache,LOG17,U.S. Senate,,Con ,Tim Aalders,14
-Cache,LOG18,U.S. Senate,,Con ,Tim Aalders,4
-Cache,LOG19,U.S. Senate,,Con ,Tim Aalders,9
-Cache,LOG20,U.S. Senate,,Con ,Tim Aalders,8
-Cache,LOG21,U.S. Senate,,Con ,Tim Aalders,9
-Cache,LOG22,U.S. Senate,,Con ,Tim Aalders,17
-Cache,LOG23,U.S. Senate,,Con ,Tim Aalders,4
-Cache,LOG24,U.S. Senate,,Con ,Tim Aalders,8
-Cache,LOG25,U.S. Senate,,Con ,Tim Aalders,16
-Cache,LOG26,U.S. Senate,,Con ,Tim Aalders,7
-Cache,LOG27-1,U.S. Senate,,Con ,Tim Aalders,11
-Cache,LOG28,U.S. Senate,,Con ,Tim Aalders,7
-Cache,LOG29-1,U.S. Senate,,Con ,Tim Aalders,8
-Cache,LOG30,U.S. Senate,,Con ,Tim Aalders,17
-Cache,LOG31,U.S. Senate,,Con ,Tim Aalders,10
-Cache,LOG32,U.S. Senate,,Con ,Tim Aalders,9
-Cache,LOG33-1,U.S. Senate,,Con ,Tim Aalders,17
-Cache,MEN01,U.S. Senate,,Con ,Tim Aalders,10
-Cache,MEN02,U.S. Senate,,Con ,Tim Aalders,31
-Cache,MIL17,U.S. Senate,,Con ,Tim Aalders,1
-Cache,MIL25,U.S. Senate,,Con ,Tim Aalders,17
-Cache,NEW,U.S. Senate,,Con ,Tim Aalders,18
-Cache,NIB01,U.S. Senate,,Con ,Tim Aalders,25
-Cache,NIB03,U.S. Senate,,Con ,Tim Aalders,34
-Cache,NIB17,U.S. Senate,,Con ,Tim Aalders,16
-Cache,NIB25,U.S. Senate,,Con ,Tim Aalders,0
-Cache,NLG01,U.S. Senate,,Con ,Tim Aalders,12
-Cache,NLG02,U.S. Senate,,Con ,Tim Aalders,3
-Cache,NLG03,U.S. Senate,,Con ,Tim Aalders,14
-Cache,NLG04,U.S. Senate,,Con ,Tim Aalders,22
-Cache,NLG05,U.S. Senate,,Con ,Tim Aalders,21
-Cache,NLG06,U.S. Senate,,Con ,Tim Aalders,17
-Cache,PAR,U.S. Senate,,Con ,Tim Aalders,40
-Cache,PRO01,U.S. Senate,,Con ,Tim Aalders,16
-Cache,PRO02,U.S. Senate,,Con ,Tim Aalders,14
-Cache,PRO03,U.S. Senate,,Con ,Tim Aalders,14
-Cache,PRO04,U.S. Senate,,Con ,Tim Aalders,17
-Cache,PRO05,U.S. Senate,,Con ,Tim Aalders,9
-Cache,RCH01,U.S. Senate,,Con ,Tim Aalders,20
-Cache,RCH02,U.S. Senate,,Con ,Tim Aalders,20
-Cache,RVH01,U.S. Senate,,Con ,Tim Aalders,7
-Cache,RVH02,U.S. Senate,,Con ,Tim Aalders,12
-Cache,SMI01,U.S. Senate,,Con ,Tim Aalders,26
-Cache,SMI02,U.S. Senate,,Con ,Tim Aalders,15
-Cache,SMI03,U.S. Senate,,Con ,Tim Aalders,26
-Cache,SMI04,U.S. Senate,,Con ,Tim Aalders,20
-Cache,SMI05,U.S. Senate,,Con ,Tim Aalders,16
-Cache,SMI06,U.S. Senate,,Con ,Tim Aalders,27
-Cache,SMI07,U.S. Senate,,Con ,Tim Aalders,29
-Cache,TRE,U.S. Senate,,Con ,Tim Aalders,11
-Cache,WEL01,U.S. Senate,,Con ,Tim Aalders,16
-Cache,WEL02,U.S. Senate,,Con ,Tim Aalders,33
-Cache,WEL03,U.S. Senate,,Con ,Tim Aalders,13
-Cache,WEL04,U.S. Senate,,Con ,Tim Aalders,14
-Cache,LOG01-CSD,U.S. Senate,,Con ,Tim Aalders,1
-Cache,LOG27-U,U.S. Senate,,Con ,Tim Aalders,0
-Cache,LOG37-CSD,U.S. Senate,,Con ,Tim Aalders,2
-Cache,LOG27-17C,U.S. Senate,,Con ,Tim Aalders,2
-Cache,LOG29-CSD,U.S. Senate,,Con ,Tim Aalders,0
-Cache,LOG33-5,U.S. Senate,,Con ,Tim Aalders,3
-Cache,LOG33-CSD,U.S. Senate,,Con ,Tim Aalders,0
+Cache,AMA,U.S. Senate,,Con,Tim Aalders,11
+Cache,BEN,U.S. Senate,,Con,Tim Aalders,6
+Cache,CLK,U.S. Senate,,Con,Tim Aalders,11
+Cache,COR,U.S. Senate,,Con,Tim Aalders,5
+Cache,COV,U.S. Senate,,Con,Tim Aalders,11
+Cache,CY,U.S. Senate,,Con,Tim Aalders,13
+Cache,HYD01,U.S. Senate,,Con,Tim Aalders,24
+Cache,HYD02,U.S. Senate,,Con,Tim Aalders,34
+Cache,HYR01,U.S. Senate,,Con,Tim Aalders,28
+Cache,HYR02,U.S. Senate,,Con,Tim Aalders,10
+Cache,HYR03,U.S. Senate,,Con,Tim Aalders,21
+Cache,HYR04,U.S. Senate,,Con,Tim Aalders,32
+Cache,HYR05,U.S. Senate,,Con,Tim Aalders,25
+Cache,LEW01,U.S. Senate,,Con,Tim Aalders,16
+Cache,LEW02,U.S. Senate,,Con,Tim Aalders,11
+Cache,LOG01-1,U.S. Senate,,Con,Tim Aalders,4
+Cache,LOG02,U.S. Senate,,Con,Tim Aalders,17
+Cache,LOG03,U.S. Senate,,Con,Tim Aalders,10
+Cache,LOG04,U.S. Senate,,Con,Tim Aalders,11
+Cache,LOG05,U.S. Senate,,Con,Tim Aalders,22
+Cache,LOG06,U.S. Senate,,Con,Tim Aalders,11
+Cache,LOG07,U.S. Senate,,Con,Tim Aalders,2
+Cache,LOG08,U.S. Senate,,Con,Tim Aalders,3
+Cache,LOG09,U.S. Senate,,Con,Tim Aalders,9
+Cache,LOG10,U.S. Senate,,Con,Tim Aalders,3
+Cache,LOG11,U.S. Senate,,Con,Tim Aalders,12
+Cache,LOG12,U.S. Senate,,Con,Tim Aalders,4
+Cache,LOG13,U.S. Senate,,Con,Tim Aalders,14
+Cache,LOG14,U.S. Senate,,Con,Tim Aalders,4
+Cache,LOG15,U.S. Senate,,Con,Tim Aalders,12
+Cache,LOG16,U.S. Senate,,Con,Tim Aalders,15
+Cache,LOG17,U.S. Senate,,Con,Tim Aalders,14
+Cache,LOG18,U.S. Senate,,Con,Tim Aalders,4
+Cache,LOG19,U.S. Senate,,Con,Tim Aalders,9
+Cache,LOG20,U.S. Senate,,Con,Tim Aalders,8
+Cache,LOG21,U.S. Senate,,Con,Tim Aalders,9
+Cache,LOG22,U.S. Senate,,Con,Tim Aalders,17
+Cache,LOG23,U.S. Senate,,Con,Tim Aalders,4
+Cache,LOG24,U.S. Senate,,Con,Tim Aalders,8
+Cache,LOG25,U.S. Senate,,Con,Tim Aalders,16
+Cache,LOG26,U.S. Senate,,Con,Tim Aalders,7
+Cache,LOG27-1,U.S. Senate,,Con,Tim Aalders,11
+Cache,LOG28,U.S. Senate,,Con,Tim Aalders,7
+Cache,LOG29-1,U.S. Senate,,Con,Tim Aalders,8
+Cache,LOG30,U.S. Senate,,Con,Tim Aalders,17
+Cache,LOG31,U.S. Senate,,Con,Tim Aalders,10
+Cache,LOG32,U.S. Senate,,Con,Tim Aalders,9
+Cache,LOG33-1,U.S. Senate,,Con,Tim Aalders,17
+Cache,MEN01,U.S. Senate,,Con,Tim Aalders,10
+Cache,MEN02,U.S. Senate,,Con,Tim Aalders,31
+Cache,MIL17,U.S. Senate,,Con,Tim Aalders,1
+Cache,MIL25,U.S. Senate,,Con,Tim Aalders,17
+Cache,NEW,U.S. Senate,,Con,Tim Aalders,18
+Cache,NIB01,U.S. Senate,,Con,Tim Aalders,25
+Cache,NIB03,U.S. Senate,,Con,Tim Aalders,34
+Cache,NIB17,U.S. Senate,,Con,Tim Aalders,16
+Cache,NIB25,U.S. Senate,,Con,Tim Aalders,0
+Cache,NLG01,U.S. Senate,,Con,Tim Aalders,12
+Cache,NLG02,U.S. Senate,,Con,Tim Aalders,3
+Cache,NLG03,U.S. Senate,,Con,Tim Aalders,14
+Cache,NLG04,U.S. Senate,,Con,Tim Aalders,22
+Cache,NLG05,U.S. Senate,,Con,Tim Aalders,21
+Cache,NLG06,U.S. Senate,,Con,Tim Aalders,17
+Cache,PAR,U.S. Senate,,Con,Tim Aalders,40
+Cache,PRO01,U.S. Senate,,Con,Tim Aalders,16
+Cache,PRO02,U.S. Senate,,Con,Tim Aalders,14
+Cache,PRO03,U.S. Senate,,Con,Tim Aalders,14
+Cache,PRO04,U.S. Senate,,Con,Tim Aalders,17
+Cache,PRO05,U.S. Senate,,Con,Tim Aalders,9
+Cache,RCH01,U.S. Senate,,Con,Tim Aalders,20
+Cache,RCH02,U.S. Senate,,Con,Tim Aalders,20
+Cache,RVH01,U.S. Senate,,Con,Tim Aalders,7
+Cache,RVH02,U.S. Senate,,Con,Tim Aalders,12
+Cache,SMI01,U.S. Senate,,Con,Tim Aalders,26
+Cache,SMI02,U.S. Senate,,Con,Tim Aalders,15
+Cache,SMI03,U.S. Senate,,Con,Tim Aalders,26
+Cache,SMI04,U.S. Senate,,Con,Tim Aalders,20
+Cache,SMI05,U.S. Senate,,Con,Tim Aalders,16
+Cache,SMI06,U.S. Senate,,Con,Tim Aalders,27
+Cache,SMI07,U.S. Senate,,Con,Tim Aalders,29
+Cache,TRE,U.S. Senate,,Con,Tim Aalders,11
+Cache,WEL01,U.S. Senate,,Con,Tim Aalders,16
+Cache,WEL02,U.S. Senate,,Con,Tim Aalders,33
+Cache,WEL03,U.S. Senate,,Con,Tim Aalders,13
+Cache,WEL04,U.S. Senate,,Con,Tim Aalders,14
+Cache,LOG01-CSD,U.S. Senate,,Con,Tim Aalders,1
+Cache,LOG27-U,U.S. Senate,,Con,Tim Aalders,0
+Cache,LOG37-CSD,U.S. Senate,,Con,Tim Aalders,2
+Cache,LOG27-17C,U.S. Senate,,Con,Tim Aalders,2
+Cache,LOG29-CSD,U.S. Senate,,Con,Tim Aalders,0
+Cache,LOG33-5,U.S. Senate,,Con,Tim Aalders,3
+Cache,LOG33-CSD,U.S. Senate,,Con,Tim Aalders,0
 Cache,AMA,U.S. Senate,,Lbt,Craig Bowden,1
 Cache,BEN,U.S. Senate,,Lbt,Craig Bowden,3
 Cache,CLK,U.S. Senate,,Lbt,Craig Bowden,1

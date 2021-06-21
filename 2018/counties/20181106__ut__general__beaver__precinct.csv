@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes
-Beaver,Beaver 1,U.S. Senate,,Con ,Tim Aalders,19
-Beaver,Beaver 2,U.S. Senate,,Con ,Tim Aalders,17
-Beaver,Beaver 3,U.S. Senate,,Con ,Tim Aalders,12
-Beaver,Beaver 4,U.S. Senate,,Con ,Tim Aalders,23
-Beaver,Greenville,U.S. Senate,,Con ,Tim Aalders,1
-Beaver,Milford 1,U.S. Senate,,Con ,Tim Aalders,0
-Beaver,Milford 2,U.S. Senate,,Con ,Tim Aalders,18
-Beaver,Milford 3,U.S. Senate,,Con ,Tim Aalders,8
-Beaver,Minersville,U.S. Senate,,Con ,Tim Aalders,40
+Beaver,Beaver 1,U.S. Senate,,Con,Tim Aalders,19
+Beaver,Beaver 2,U.S. Senate,,Con,Tim Aalders,17
+Beaver,Beaver 3,U.S. Senate,,Con,Tim Aalders,12
+Beaver,Beaver 4,U.S. Senate,,Con,Tim Aalders,23
+Beaver,Greenville,U.S. Senate,,Con,Tim Aalders,1
+Beaver,Milford 1,U.S. Senate,,Con,Tim Aalders,0
+Beaver,Milford 2,U.S. Senate,,Con,Tim Aalders,18
+Beaver,Milford 3,U.S. Senate,,Con,Tim Aalders,8
+Beaver,Minersville,U.S. Senate,,Con,Tim Aalders,40
 Beaver,Beaver 1,U.S. Senate,,Lbt,Craig Bowden,9
 Beaver,Beaver 2,U.S. Senate,,Lbt,Craig Bowden,10
 Beaver,Beaver 3,U.S. Senate,,Lbt,Craig Bowden,2
@@ -118,5 +118,5 @@ Beaver,Milford 3,State House,73,UNA,Marsha Holland,32
 Beaver,Minersville,State House,73,UNA,Marsha Holland,40
 Beaver,Milford 1,State House,68,Lbt,Denyse Cox,4
 Beaver,Milford 2,State House,68,Lbt,Denyse Cox,10
-Beaver,Milford 1,State House,68,Con ,Kirk Pearson,2
-Beaver,Milford 2,State House,68,Con ,Kirk Pearson,8
+Beaver,Milford 1,State House,68,Con,Kirk Pearson,2
+Beaver,Milford 2,State House,68,Con,Kirk Pearson,8
