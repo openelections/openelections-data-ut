@@ -863,54 +863,54 @@ Carbon,Price North,State Senate,,Write-In Votes,,0,0,0,0,0,0,0
 Carbon,Price North,State House,,Christine Watkins,DEM,120,104,8,7,0,0,239
 Carbon,Price North,State House,,Jerry Anderson,REP,42,78,6,7,0,0,133
 Carbon,Price North,State House,,Write-In Votes,,0,0,0,0,0,0,0
-Carbon,Castle Heights ,Registered Voters,,,,,,,,,,744
-Carbon,Castle Heights ,Ballots Cast,,,,231,155,18,19,0,0,423
-Carbon,Castle Heights ,Straight Party,,,CON,0,0,0,0,0,0,0
-Carbon,Castle Heights ,Straight Party,,,LIB,1,0,0,0,0,0,1
-Carbon,Castle Heights ,Straight Party,,,DEM,13,15,4,2,0,0,34
-Carbon,Castle Heights ,Straight Party,,,REP,49,36,2,9,0,0,96
-Carbon,Castle Heights ,Straight Party,,,JUS,0,0,0,0,0,0,0
-Carbon,Castle Heights ,Straight Party,,,GRN,0,0,0,0,0,0,0
-Carbon,Castle Heights ,President,,Jill Stein,GRN,0,0,0,0,0,0,0
-Carbon,Castle Heights ,President,,Gloria La Riva,,0,0,0,0,0,0,0
-Carbon,Castle Heights ,President,,Mitt Romney,REP,179,108,7,16,0,0,310
-Carbon,Castle Heights ,President,,Barack Obama,DEM,47,40,11,3,0,0,101
-Carbon,Castle Heights ,President,,Gary Johnson,LIB,2,3,0,0,0,0,5
-Carbon,Castle Heights ,President,,Virgil Goode,CON,1,1,0,0,0,0,2
-Carbon,Castle Heights ,President,,Ross C. Anderson,JUS,1,0,0,0,0,0,1
-Carbon,Castle Heights ,President,,Write-In Votes,,0,0,0,0,0,0,0
-Carbon,Castle Heights ,U.S. Senate,,Shaun McCausland,CON,5,2,0,0,0,0,7
-Carbon,Castle Heights ,U.S. Senate,,Scott Howell,DEM,58,51,10,4,0,0,123
-Carbon,Castle Heights ,U.S. Senate,,Orrin Hatch,REP,158,95,7,15,0,0,275
-Carbon,Castle Heights ,U.S. Senate,,Daniel Geery,JUS,0,1,0,0,0,0,1
-Carbon,Castle Heights ,U.S. Senate,,Bill Barron,,5,1,0,0,0,0,6
-Carbon,Castle Heights ,U.S. Senate,,Write-In Votes,,0,0,0,0,0,0,0
-Carbon,Castle Heights ,U.S. House,,Jason Chaffetz,REP,168,112,8,13,0,0,301
-Carbon,Castle Heights ,U.S. House,,Soren Simonsen,DEM,54,37,9,5,0,0,105
-Carbon,Castle Heights ,U.S. House,,Write-In Votes,,0,0,0,0,0,0,0
-Carbon,Castle Heights ,Governor,,Peter Cooke,DEM,46,45,11,4,0,0,106
-Carbon,Castle Heights ,Governor,,Ken Larsen,LIB,3,1,0,1,0,0,5
-Carbon,Castle Heights ,Governor,,Kirk Pearson,CON,0,2,0,0,0,0,2
-Carbon,Castle Heights ,Governor,,Gary Herbert,REP,177,106,6,14,0,0,303
-Carbon,Castle Heights ,Governor,,Write-In Votes,,0,0,0,0,0,0,0
-Carbon,Castle Heights ,Attorney General,,Dee Smith,DEM,56,50,13,3,0,0,122
-Carbon,Castle Heights ,Attorney General,,John Swallow,REP,157,97,4,14,0,0,272
-Carbon,Castle Heights ,Attorney General,,W. Andrew McCullough,LIB,10,6,0,0,0,0,16
-Carbon,Castle Heights ,Attorney General,,Write-In Votes,,0,0,0,0,0,0,0
-Carbon,Castle Heights ,State Auditor,,Mark Sage,DEM,63,48,11,5,0,0,127
-Carbon,Castle Heights ,State Auditor,,John Dougall,REP,147,92,5,11,0,0,255
-Carbon,Castle Heights ,State Auditor,,Richard Proctor,CON,11,6,1,1,0,0,19
-Carbon,Castle Heights ,State Auditor,,Write-In Votes,,0,0,0,0,0,0,0
-Carbon,Castle Heights ,State Treasurer,,Christopher Stout,DEM,64,46,13,5,0,0,128
-Carbon,Castle Heights ,State Treasurer,,Vincent C. Marcus,LIB,9,6,0,0,0,0,15
-Carbon,Castle Heights ,State Treasurer,,Richard Ellis,REP,148,95,4,12,0,0,259
-Carbon,Castle Heights ,State Treasurer,,Write-In Votes,,0,0,0,0,0,0,0
-Carbon,Castle Heights ,State Senate,,David Hinkins,REP,176,107,6,15,0,0,304
-Carbon,Castle Heights ,State Senate,,Michael Binyon,DEM,49,43,10,3,0,0,105
-Carbon,Castle Heights ,State Senate,,Write-In Votes,,0,0,0,0,0,0,0
-Carbon,Castle Heights ,State House,,Christine Watkins,DEM,127,83,11,8,0,0,229
-Carbon,Castle Heights ,State House,,Jerry Anderson,REP,101,66,5,9,0,0,181
-Carbon,Castle Heights ,State House,,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights,Registered Voters,,,,,,,,,,744
+Carbon,Castle Heights,Ballots Cast,,,,231,155,18,19,0,0,423
+Carbon,Castle Heights,Straight Party,,,CON,0,0,0,0,0,0,0
+Carbon,Castle Heights,Straight Party,,,LIB,1,0,0,0,0,0,1
+Carbon,Castle Heights,Straight Party,,,DEM,13,15,4,2,0,0,34
+Carbon,Castle Heights,Straight Party,,,REP,49,36,2,9,0,0,96
+Carbon,Castle Heights,Straight Party,,,JUS,0,0,0,0,0,0,0
+Carbon,Castle Heights,Straight Party,,,GRN,0,0,0,0,0,0,0
+Carbon,Castle Heights,President,,Jill Stein,GRN,0,0,0,0,0,0,0
+Carbon,Castle Heights,President,,Gloria La Riva,,0,0,0,0,0,0,0
+Carbon,Castle Heights,President,,Mitt Romney,REP,179,108,7,16,0,0,310
+Carbon,Castle Heights,President,,Barack Obama,DEM,47,40,11,3,0,0,101
+Carbon,Castle Heights,President,,Gary Johnson,LIB,2,3,0,0,0,0,5
+Carbon,Castle Heights,President,,Virgil Goode,CON,1,1,0,0,0,0,2
+Carbon,Castle Heights,President,,Ross C. Anderson,JUS,1,0,0,0,0,0,1
+Carbon,Castle Heights,President,,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights,U.S. Senate,,Shaun McCausland,CON,5,2,0,0,0,0,7
+Carbon,Castle Heights,U.S. Senate,,Scott Howell,DEM,58,51,10,4,0,0,123
+Carbon,Castle Heights,U.S. Senate,,Orrin Hatch,REP,158,95,7,15,0,0,275
+Carbon,Castle Heights,U.S. Senate,,Daniel Geery,JUS,0,1,0,0,0,0,1
+Carbon,Castle Heights,U.S. Senate,,Bill Barron,,5,1,0,0,0,0,6
+Carbon,Castle Heights,U.S. Senate,,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights,U.S. House,,Jason Chaffetz,REP,168,112,8,13,0,0,301
+Carbon,Castle Heights,U.S. House,,Soren Simonsen,DEM,54,37,9,5,0,0,105
+Carbon,Castle Heights,U.S. House,,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights,Governor,,Peter Cooke,DEM,46,45,11,4,0,0,106
+Carbon,Castle Heights,Governor,,Ken Larsen,LIB,3,1,0,1,0,0,5
+Carbon,Castle Heights,Governor,,Kirk Pearson,CON,0,2,0,0,0,0,2
+Carbon,Castle Heights,Governor,,Gary Herbert,REP,177,106,6,14,0,0,303
+Carbon,Castle Heights,Governor,,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights,Attorney General,,Dee Smith,DEM,56,50,13,3,0,0,122
+Carbon,Castle Heights,Attorney General,,John Swallow,REP,157,97,4,14,0,0,272
+Carbon,Castle Heights,Attorney General,,W. Andrew McCullough,LIB,10,6,0,0,0,0,16
+Carbon,Castle Heights,Attorney General,,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights,State Auditor,,Mark Sage,DEM,63,48,11,5,0,0,127
+Carbon,Castle Heights,State Auditor,,John Dougall,REP,147,92,5,11,0,0,255
+Carbon,Castle Heights,State Auditor,,Richard Proctor,CON,11,6,1,1,0,0,19
+Carbon,Castle Heights,State Auditor,,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights,State Treasurer,,Christopher Stout,DEM,64,46,13,5,0,0,128
+Carbon,Castle Heights,State Treasurer,,Vincent C. Marcus,LIB,9,6,0,0,0,0,15
+Carbon,Castle Heights,State Treasurer,,Richard Ellis,REP,148,95,4,12,0,0,259
+Carbon,Castle Heights,State Treasurer,,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights,State Senate,,David Hinkins,REP,176,107,6,15,0,0,304
+Carbon,Castle Heights,State Senate,,Michael Binyon,DEM,49,43,10,3,0,0,105
+Carbon,Castle Heights,State Senate,,Write-In Votes,,0,0,0,0,0,0,0
+Carbon,Castle Heights,State House,,Christine Watkins,DEM,127,83,11,8,0,0,229
+Carbon,Castle Heights,State House,,Jerry Anderson,REP,101,66,5,9,0,0,181
+Carbon,Castle Heights,State House,,Write-In Votes,,0,0,0,0,0,0,0
 Carbon,South County,Registered Voters,,,,,,,,,,696
 Carbon,South County,Ballots Cast,,,,206,165,21,20,0,0,412
 Carbon,South County,Straight Party,,,CON,3,0,0,0,0,0,3
