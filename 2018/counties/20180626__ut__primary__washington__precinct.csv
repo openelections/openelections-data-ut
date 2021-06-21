@@ -1,4 +1,4 @@
-county,precinct,office,district,Candidate,party,polling,polling_2 ,polling_3 ,early_voting ,absentee ,provisional ,paper ,votes 
+county,precinct,office,district,candidate,party,polling,polling_2 ,polling_3 ,early_voting ,absentee ,provisional ,paper ,votes 
 Washington,AV51,Registered Voters,,,,407,407,407,407,407,407,407,407
 Washington,COAND,Registered Voters,,,,4,4,4,4,4,4,4,4
 Washington,COCDSR,Registered Voters,,,,138,138,138,138,138,138,138,138
