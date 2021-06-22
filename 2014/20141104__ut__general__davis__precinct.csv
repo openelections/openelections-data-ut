@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
 Davis,Bountiful 1,Straight ticket,,Libertarian,,1
 Davis,Bountiful 2,Straight ticket,,Libertarian,,1
-Davis,Bountiful 3,Straight ticket,,Libertarian,,-
+Davis,Bountiful 3,Straight ticket,,Libertarian,,
 Davis,Bountiful 4,Straight ticket,,Libertarian,,2
 Davis,Bountiful 5,Straight ticket,,Libertarian,,2
 Davis,Bountiful 6,Straight ticket,,Libertarian,,1
@@ -11,35 +11,35 @@ Davis,Bountiful 9,Straight ticket,,Libertarian,,2
 Davis,Bountiful 10,Straight ticket,,Libertarian,,1
 Davis,Bountiful 11,Straight ticket,,Libertarian,,2
 Davis,Bountiful 12,Straight ticket,,Libertarian,,3
-Davis,Bountiful 13,Straight ticket,,Libertarian,,-
+Davis,Bountiful 13,Straight ticket,,Libertarian,,
 Davis,Bountiful 14,Straight ticket,,Libertarian,,2
-Davis,Bountiful 15,Straight ticket,,Libertarian,,-
+Davis,Bountiful 15,Straight ticket,,Libertarian,,
 Davis,Bountiful 16,Straight ticket,,Libertarian,,1
-Davis,Bountiful 17,Straight ticket,,Libertarian,,-
-Davis,Bountiful 18,Straight ticket,,Libertarian,,-
+Davis,Bountiful 17,Straight ticket,,Libertarian,,
+Davis,Bountiful 18,Straight ticket,,Libertarian,,
 Davis,Bountiful 19,Straight ticket,,Libertarian,,3
 Davis,Bountiful 20,Straight ticket,,Libertarian,,1
 Davis,Bountiful 21,Straight ticket,,Libertarian,,4
-Davis,Bountiful 22,Straight ticket,,Libertarian,,-
+Davis,Bountiful 22,Straight ticket,,Libertarian,,
 Davis,Bountiful 23,Straight ticket,,Libertarian,,2
-Davis,Bountiful 24,Straight ticket,,Libertarian,,-
+Davis,Bountiful 24,Straight ticket,,Libertarian,,
 Davis,Bountiful 25,Straight ticket,,Libertarian,,2
 Davis,Bountiful 26,Straight ticket,,Libertarian,,3
-Davis,Bountiful 27,Straight ticket,,Libertarian,,-
+Davis,Bountiful 27,Straight ticket,,Libertarian,,
 Davis,Bountiful 28,Straight ticket,,Libertarian,,2
 Davis,Bountiful 29,Straight ticket,,Libertarian,,1
-Davis,Bountiful 30,Straight ticket,,Libertarian,,-
+Davis,Bountiful 30,Straight ticket,,Libertarian,,
 Davis,Bountiful 31,Straight ticket,,Libertarian,,1
 Davis,Centerville 1,Straight ticket,,Libertarian,,1
-Davis,Centerville 2,Straight ticket,,Libertarian,,-
-Davis,Centerville 3,Straight ticket,,Libertarian,,-
+Davis,Centerville 2,Straight ticket,,Libertarian,,
+Davis,Centerville 3,Straight ticket,,Libertarian,,
 Davis,Centerville 4,Straight ticket,,Libertarian,,1
 Davis,Centerville 5,Straight ticket,,Libertarian,,2
-Davis,Centerville 6,Straight ticket,,Libertarian,,-
-Davis,Centerville 7,Straight ticket,,Libertarian,,-
+Davis,Centerville 6,Straight ticket,,Libertarian,,
+Davis,Centerville 7,Straight ticket,,Libertarian,,
 Davis,Centerville 8,Straight ticket,,Libertarian,,1
-Davis,Centerville 9,Straight ticket,,Libertarian,,-
-Davis,Centerville 10,Straight ticket,,Libertarian,,-
+Davis,Centerville 9,Straight ticket,,Libertarian,,
+Davis,Centerville 10,Straight ticket,,Libertarian,,
 Davis,Centerville 11,Straight ticket,,Libertarian,,2
 Davis,Clearfield 1,Straight ticket,,Libertarian,,1
 Davis,Clearfield 2,Straight ticket,,Libertarian,,1
@@ -49,67 +49,67 @@ Davis,Clearfield 5,Straight ticket,,Libertarian,,1
 Davis,Clearfield 6,Straight ticket,,Libertarian,,1
 Davis,Clearfield 7,Straight ticket,,Libertarian,,1
 Davis,Clearfield 8,Straight ticket,,Libertarian,,1
-Davis,Clearfield 9,Straight ticket,,Libertarian,,-
-Davis,Clearfield 10,Straight ticket,,Libertarian,,-
+Davis,Clearfield 9,Straight ticket,,Libertarian,,
+Davis,Clearfield 10,Straight ticket,,Libertarian,,
 Davis,Clearfield 11,Straight ticket,,Libertarian,,2
 Davis,Clearfield 12,Straight ticket,,Libertarian,,2
-Davis,Clearfield 13,Straight ticket,,Libertarian,,-
-Davis,Clearfield 14,Straight ticket,,Libertarian,,-
-Davis,Clearfield 15,Straight ticket,,Libertarian,,-
-Davis,Clinton 1,Straight ticket,,Libertarian,,-
+Davis,Clearfield 13,Straight ticket,,Libertarian,,
+Davis,Clearfield 14,Straight ticket,,Libertarian,,
+Davis,Clearfield 15,Straight ticket,,Libertarian,,
+Davis,Clinton 1,Straight ticket,,Libertarian,,
 Davis,Clinton 2,Straight ticket,,Libertarian,,2
 Davis,Clinton 3,Straight ticket,,Libertarian,,1
-Davis,Clinton 4,Straight ticket,,Libertarian,,-
-Davis,Clinton 5,Straight ticket,,Libertarian,,-
+Davis,Clinton 4,Straight ticket,,Libertarian,,
+Davis,Clinton 5,Straight ticket,,Libertarian,,
 Davis,Clinton 6,Straight ticket,,Libertarian,,3
 Davis,Clinton 7,Straight ticket,,Libertarian,,1
 Davis,Clinton 8,Straight ticket,,Libertarian,,1
 Davis,Clinton 9,Straight ticket,,Libertarian,,2
-Davis,Clinton 10,Straight ticket,,Libertarian,,-
-Davis,Clinton 11,Straight ticket,,Libertarian,,-
-Davis,Clinton 12,Straight ticket,,Libertarian,,-
-Davis,Farmington 1,Straight ticket,,Libertarian,,-
+Davis,Clinton 10,Straight ticket,,Libertarian,,
+Davis,Clinton 11,Straight ticket,,Libertarian,,
+Davis,Clinton 12,Straight ticket,,Libertarian,,
+Davis,Farmington 1,Straight ticket,,Libertarian,,
 Davis,Farmington 2,Straight ticket,,Libertarian,,3
 Davis,Farmington 3,Straight ticket,,Libertarian,,2
-Davis,Farmington 4,Straight ticket,,Libertarian,,-
-Davis,Farmington 5,Straight ticket,,Libertarian,,-
+Davis,Farmington 4,Straight ticket,,Libertarian,,
+Davis,Farmington 5,Straight ticket,,Libertarian,,
 Davis,Farmington 6,Straight ticket,,Libertarian,,3
 Davis,Farmington 7,Straight ticket,,Libertarian,,1
 Davis,Farmington 8,Straight ticket,,Libertarian,,1
 Davis,Farmington 9,Straight ticket,,Libertarian,,2
 Davis,Farmington 10,Straight ticket,,Libertarian,,2
 Davis,Farmington 11,Straight ticket,,Libertarian,,1
-Davis,Farmington 12,Straight ticket,,Libertarian,,-
+Davis,Farmington 12,Straight ticket,,Libertarian,,
 Davis,Farmington 13,Straight ticket,,Libertarian,,1
 Davis,Fruit Heights 1,Straight ticket,,Libertarian,,1
 Davis,Fruit Heights 2,Straight ticket,,Libertarian,,1
 Davis,Fruit Heights 3,Straight ticket,,Libertarian,,3
-Davis,Fruit Heights 4,Straight ticket,,Libertarian,,-
-Davis,Hill AFB 1,Straight ticket,,Libertarian,,-
-Davis,Hill AFB 2,Straight ticket,,Libertarian,,-
+Davis,Fruit Heights 4,Straight ticket,,Libertarian,,
+Davis,Hill AFB 1,Straight ticket,,Libertarian,,
+Davis,Hill AFB 2,Straight ticket,,Libertarian,,
 Davis,Kaysville 1,Straight ticket,,Libertarian,,1
 Davis,Kaysville 2,Straight ticket,,Libertarian,,2
-Davis,Kaysville 3,Straight ticket,,Libertarian,,-
+Davis,Kaysville 3,Straight ticket,,Libertarian,,
 Davis,Kaysville 4,Straight ticket,,Libertarian,,2
-Davis,Kaysville 5,Straight ticket,,Libertarian,,-
+Davis,Kaysville 5,Straight ticket,,Libertarian,,
 Davis,Kaysville 6,Straight ticket,,Libertarian,,3
 Davis,Kaysville 7,Straight ticket,,Libertarian,,1
-Davis,Kaysville 8,Straight ticket,,Libertarian,,-
-Davis,Kaysville 9,Straight ticket,,Libertarian,,-
+Davis,Kaysville 8,Straight ticket,,Libertarian,,
+Davis,Kaysville 9,Straight ticket,,Libertarian,,
 Davis,Kaysville 10,Straight ticket,,Libertarian,,4
-Davis,Kaysville 11,Straight ticket,,Libertarian,,-
+Davis,Kaysville 11,Straight ticket,,Libertarian,,
 Davis,Kaysville 12,Straight ticket,,Libertarian,,1
 Davis,Kaysville 13,Straight ticket,,Libertarian,,1
 Davis,Kaysville 14,Straight ticket,,Libertarian,,1
 Davis,Kaysville 15,Straight ticket,,Libertarian,,1
 Davis,Kaysville 16,Straight ticket,,Libertarian,,1
-Davis,Kaysville 17,Straight ticket,,Libertarian,,-
-Davis,Kaysville 18,Straight ticket,,Libertarian,,-
-Davis,Kaysville 19,Straight ticket,,Libertarian,,-
+Davis,Kaysville 17,Straight ticket,,Libertarian,,
+Davis,Kaysville 18,Straight ticket,,Libertarian,,
+Davis,Kaysville 19,Straight ticket,,Libertarian,,
 Davis,Layton 1,Straight ticket,,Libertarian,,2
 Davis,Layton 2,Straight ticket,,Libertarian,,2
 Davis,Layton 3,Straight ticket,,Libertarian,,1
-Davis,Layton 4,Straight ticket,,Libertarian,,-
+Davis,Layton 4,Straight ticket,,Libertarian,,
 Davis,Layton 5,Straight ticket,,Libertarian,,1
 Davis,Layton 6,Straight ticket,,Libertarian,,3
 Davis,Layton 7,Straight ticket,,Libertarian,,5
@@ -131,39 +131,39 @@ Davis,Layton 22,Straight ticket,,Libertarian,,2
 Davis,Layton 23,Straight ticket,,Libertarian,,2
 Davis,Layton 24,Straight ticket,,Libertarian,,3
 Davis,Layton 25,Straight ticket,,Libertarian,,2
-Davis,Layton 26,Straight ticket,,Libertarian,,-
-Davis,Layton 27,Straight ticket,,Libertarian,,-
+Davis,Layton 26,Straight ticket,,Libertarian,,
+Davis,Layton 27,Straight ticket,,Libertarian,,
 Davis,Layton 28,Straight ticket,,Libertarian,,2
 Davis,Layton 29,Straight ticket,,Libertarian,,2
 Davis,Layton 30,Straight ticket,,Libertarian,,1
 Davis,Layton 31,Straight ticket,,Libertarian,,1
 Davis,Layton 32,Straight ticket,,Libertarian,,1
-Davis,Layton 33,Straight ticket,,Libertarian,,-
+Davis,Layton 33,Straight ticket,,Libertarian,,
 Davis,Layton 34,Straight ticket,,Libertarian,,2
 Davis,Layton 35,Straight ticket,,Libertarian,,1
 Davis,Layton 36,Straight ticket,,Libertarian,,1
 Davis,Layton 37,Straight ticket,,Libertarian,,3
 Davis,Layton 38,Straight ticket,,Libertarian,,3
-Davis,Layton 39,Straight ticket,,Libertarian,,-
-Davis,Layton 40,Straight ticket,,Libertarian,,-
+Davis,Layton 39,Straight ticket,,Libertarian,,
+Davis,Layton 40,Straight ticket,,Libertarian,,
 Davis,Layton 41,Straight ticket,,Libertarian,,1
 Davis,Layton 42,Straight ticket,,Libertarian,,2
 Davis,Layton 43,Straight ticket,,Libertarian,,1
-Davis,Layton 44,Straight ticket,,Libertarian,,-
+Davis,Layton 44,Straight ticket,,Libertarian,,
 Davis,North Salt Lake 1,Straight ticket,,Libertarian,,3
 Davis,North Salt Lake 2,Straight ticket,,Libertarian,,1
-Davis,North Salt Lake 3,Straight ticket,,Libertarian,,-
-Davis,North Salt Lake 4,Straight ticket,,Libertarian,,-
+Davis,North Salt Lake 3,Straight ticket,,Libertarian,,
+Davis,North Salt Lake 4,Straight ticket,,Libertarian,,
 Davis,North Salt Lake 5,Straight ticket,,Libertarian,,1
 Davis,North Salt Lake 6,Straight ticket,,Libertarian,,1
-Davis,North Salt Lake 7,Straight ticket,,Libertarian,,-
-Davis,North Salt Lake 8,Straight ticket,,Libertarian,,-
-Davis,North Salt Lake 9,Straight ticket,,Libertarian,,-
-Davis,North Salt Lake 10,Straight ticket,,Libertarian,,-
+Davis,North Salt Lake 7,Straight ticket,,Libertarian,,
+Davis,North Salt Lake 8,Straight ticket,,Libertarian,,
+Davis,North Salt Lake 9,Straight ticket,,Libertarian,,
+Davis,North Salt Lake 10,Straight ticket,,Libertarian,,
 Davis,South Weber 1,Straight ticket,,Libertarian,,2
-Davis,South Weber 2,Straight ticket,,Libertarian,,-
+Davis,South Weber 2,Straight ticket,,Libertarian,,
 Davis,South Weber 3,Straight ticket,,Libertarian,,4
-Davis,South Weber 4,Straight ticket,,Libertarian,,-
+Davis,South Weber 4,Straight ticket,,Libertarian,,
 Davis,Sunset 1,Straight ticket,,Libertarian,,4
 Davis,Sunset 2,Straight ticket,,Libertarian,,1
 Davis,Sunset 3,Straight ticket,,Libertarian,,3
@@ -171,38 +171,38 @@ Davis,Syracuse 1,Straight ticket,,Libertarian,,1
 Davis,Syracuse 2,Straight ticket,,Libertarian,,2
 Davis,Syracuse 3,Straight ticket,,Libertarian,,2
 Davis,Syracuse 4,Straight ticket,,Libertarian,,1
-Davis,Syracuse 5,Straight ticket,,Libertarian,,-
-Davis,Syracuse 6,Straight ticket,,Libertarian,,-
+Davis,Syracuse 5,Straight ticket,,Libertarian,,
+Davis,Syracuse 6,Straight ticket,,Libertarian,,
 Davis,Syracuse 7,Straight ticket,,Libertarian,,1
 Davis,Syracuse 8,Straight ticket,,Libertarian,,2
 Davis,Syracuse 9,Straight ticket,,Libertarian,,2
 Davis,Syracuse 10,Straight ticket,,Libertarian,,1
-Davis,Syracuse 11,Straight ticket,,Libertarian,,-
+Davis,Syracuse 11,Straight ticket,,Libertarian,,
 Davis,Syracuse 12,Straight ticket,,Libertarian,,1
 Davis,Syracuse 13,Straight ticket,,Libertarian,,2
-Davis,Syracuse 14,Straight ticket,,Libertarian,,-
+Davis,Syracuse 14,Straight ticket,,Libertarian,,
 Davis,West Bountiful 1,Straight ticket,,Libertarian,,2
-Davis,West Bountiful 2,Straight ticket,,Libertarian,,-
+Davis,West Bountiful 2,Straight ticket,,Libertarian,,
 Davis,West Bountiful 3,Straight ticket,,Libertarian,,2
 Davis,West Bountiful 4,Straight ticket,,Libertarian,,1
-Davis,West Point 1,Straight ticket,,Libertarian,,-
-Davis,West Point 2,Straight ticket,,Libertarian,,-
-Davis,West Point 3,Straight ticket,,Libertarian,,-
+Davis,West Point 1,Straight ticket,,Libertarian,,
+Davis,West Point 2,Straight ticket,,Libertarian,,
+Davis,West Point 3,Straight ticket,,Libertarian,,
 Davis,West Point 4,Straight ticket,,Libertarian,,1
 Davis,West Point 5,Straight ticket,,Libertarian,,1
-Davis,West Point 6,Straight ticket,,Libertarian,,-
-Davis,West Point 7,Straight ticket,,Libertarian,,-
-Davis,Woods Cross 1,Straight ticket,,Libertarian,,-
+Davis,West Point 6,Straight ticket,,Libertarian,,
+Davis,West Point 7,Straight ticket,,Libertarian,,
+Davis,Woods Cross 1,Straight ticket,,Libertarian,,
 Davis,Woods Cross 2,Straight ticket,,Libertarian,,3
-Davis,Woods Cross 3,Straight ticket,,Libertarian,,-
-Davis,Woods Cross 4,Straight ticket,,Libertarian,,-
-Davis,Woods Cross 5,Straight ticket,,Libertarian,,-
+Davis,Woods Cross 3,Straight ticket,,Libertarian,,
+Davis,Woods Cross 4,Straight ticket,,Libertarian,,
+Davis,Woods Cross 5,Straight ticket,,Libertarian,,
 Davis,Woods Cross 6,Straight ticket,,Libertarian,,1
 Davis,Bountiful 1,Straight ticket,,Independent American,,2
 Davis,Bountiful 2,Straight ticket,,Independent American,,5
 Davis,Bountiful 3,Straight ticket,,Independent American,,2
 Davis,Bountiful 4,Straight ticket,,Independent American,,1
-Davis,Bountiful 5,Straight ticket,,Independent American,,-
+Davis,Bountiful 5,Straight ticket,,Independent American,,
 Davis,Bountiful 6,Straight ticket,,Independent American,,1
 Davis,Bountiful 7,Straight ticket,,Independent American,,4
 Davis,Bountiful 8,Straight ticket,,Independent American,,5
@@ -226,16 +226,16 @@ Davis,Bountiful 25,Straight ticket,,Independent American,,2
 Davis,Bountiful 26,Straight ticket,,Independent American,,1
 Davis,Bountiful 27,Straight ticket,,Independent American,,2
 Davis,Bountiful 28,Straight ticket,,Independent American,,2
-Davis,Bountiful 29,Straight ticket,,Independent American,,-
+Davis,Bountiful 29,Straight ticket,,Independent American,,
 Davis,Bountiful 30,Straight ticket,,Independent American,,2
-Davis,Bountiful 31,Straight ticket,,Independent American,,-
+Davis,Bountiful 31,Straight ticket,,Independent American,,
 Davis,Centerville 1,Straight ticket,,Independent American,,2
 Davis,Centerville 2,Straight ticket,,Independent American,,2
-Davis,Centerville 3,Straight ticket,,Independent American,,-
+Davis,Centerville 3,Straight ticket,,Independent American,,
 Davis,Centerville 4,Straight ticket,,Independent American,,6
 Davis,Centerville 5,Straight ticket,,Independent American,,3
 Davis,Centerville 6,Straight ticket,,Independent American,,4
-Davis,Centerville 7,Straight ticket,,Independent American,,-
+Davis,Centerville 7,Straight ticket,,Independent American,,
 Davis,Centerville 8,Straight ticket,,Independent American,,1
 Davis,Centerville 9,Straight ticket,,Independent American,,3
 Davis,Centerville 10,Straight ticket,,Independent American,,2
@@ -251,13 +251,13 @@ Davis,Clearfield 8,Straight ticket,,Independent American,,3
 Davis,Clearfield 9,Straight ticket,,Independent American,,1
 Davis,Clearfield 10,Straight ticket,,Independent American,,4
 Davis,Clearfield 11,Straight ticket,,Independent American,,3
-Davis,Clearfield 12,Straight ticket,,Independent American,,-
-Davis,Clearfield 13,Straight ticket,,Independent American,,-
-Davis,Clearfield 14,Straight ticket,,Independent American,,-
-Davis,Clearfield 15,Straight ticket,,Independent American,,-
+Davis,Clearfield 12,Straight ticket,,Independent American,,
+Davis,Clearfield 13,Straight ticket,,Independent American,,
+Davis,Clearfield 14,Straight ticket,,Independent American,,
+Davis,Clearfield 15,Straight ticket,,Independent American,,
 Davis,Clinton 1,Straight ticket,,Independent American,,3
 Davis,Clinton 2,Straight ticket,,Independent American,,4
-Davis,Clinton 3,Straight ticket,,Independent American,,-
+Davis,Clinton 3,Straight ticket,,Independent American,,
 Davis,Clinton 4,Straight ticket,,Independent American,,2
 Davis,Clinton 5,Straight ticket,,Independent American,,1
 Davis,Clinton 6,Straight ticket,,Independent American,,5
@@ -284,48 +284,48 @@ Davis,Fruit Heights 1,Straight ticket,,Independent American,,2
 Davis,Fruit Heights 2,Straight ticket,,Independent American,,1
 Davis,Fruit Heights 3,Straight ticket,,Independent American,,4
 Davis,Fruit Heights 4,Straight ticket,,Independent American,,2
-Davis,Hill AFB 1,Straight ticket,,Independent American,,-
-Davis,Hill AFB 2,Straight ticket,,Independent American,,-
-Davis,Kaysville 1,Straight ticket,,Independent American,,-
+Davis,Hill AFB 1,Straight ticket,,Independent American,,
+Davis,Hill AFB 2,Straight ticket,,Independent American,,
+Davis,Kaysville 1,Straight ticket,,Independent American,,
 Davis,Kaysville 2,Straight ticket,,Independent American,,4
-Davis,Kaysville 3,Straight ticket,,Independent American,,-
+Davis,Kaysville 3,Straight ticket,,Independent American,,
 Davis,Kaysville 4,Straight ticket,,Independent American,,1
 Davis,Kaysville 5,Straight ticket,,Independent American,,7
 Davis,Kaysville 6,Straight ticket,,Independent American,,1
 Davis,Kaysville 7,Straight ticket,,Independent American,,3
 Davis,Kaysville 8,Straight ticket,,Independent American,,3
-Davis,Kaysville 9,Straight ticket,,Independent American,,-
+Davis,Kaysville 9,Straight ticket,,Independent American,,
 Davis,Kaysville 10,Straight ticket,,Independent American,,9
 Davis,Kaysville 11,Straight ticket,,Independent American,,3
 Davis,Kaysville 12,Straight ticket,,Independent American,,2
 Davis,Kaysville 13,Straight ticket,,Independent American,,1
 Davis,Kaysville 14,Straight ticket,,Independent American,,3
 Davis,Kaysville 15,Straight ticket,,Independent American,,2
-Davis,Kaysville 16,Straight ticket,,Independent American,,-
-Davis,Kaysville 17,Straight ticket,,Independent American,,-
+Davis,Kaysville 16,Straight ticket,,Independent American,,
+Davis,Kaysville 17,Straight ticket,,Independent American,,
 Davis,Kaysville 18,Straight ticket,,Independent American,,1
-Davis,Kaysville 19,Straight ticket,,Independent American,,-
-Davis,Layton 1,Straight ticket,,Independent American,,-
-Davis,Layton 2,Straight ticket,,Independent American,,-
-Davis,Layton 3,Straight ticket,,Independent American,,-
+Davis,Kaysville 19,Straight ticket,,Independent American,,
+Davis,Layton 1,Straight ticket,,Independent American,,
+Davis,Layton 2,Straight ticket,,Independent American,,
+Davis,Layton 3,Straight ticket,,Independent American,,
 Davis,Layton 4,Straight ticket,,Independent American,,3
 Davis,Layton 5,Straight ticket,,Independent American,,3
-Davis,Layton 6,Straight ticket,,Independent American,,-
+Davis,Layton 6,Straight ticket,,Independent American,,
 Davis,Layton 7,Straight ticket,,Independent American,,3
 Davis,Layton 8,Straight ticket,,Independent American,,3
-Davis,Layton 9,Straight ticket,,Independent American,,-
+Davis,Layton 9,Straight ticket,,Independent American,,
 Davis,Layton 10,Straight ticket,,Independent American,,7
 Davis,Layton 11,Straight ticket,,Independent American,,2
 Davis,Layton 12,Straight ticket,,Independent American,,5
 Davis,Layton 13,Straight ticket,,Independent American,,3
 Davis,Layton 14,Straight ticket,,Independent American,,2
-Davis,Layton 15,Straight ticket,,Independent American,,-
+Davis,Layton 15,Straight ticket,,Independent American,,
 Davis,Layton 16,Straight ticket,,Independent American,,1
 Davis,Layton 17,Straight ticket,,Independent American,,3
 Davis,Layton 18,Straight ticket,,Independent American,,1
 Davis,Layton 19,Straight ticket,,Independent American,,1
 Davis,Layton 20,Straight ticket,,Independent American,,1
-Davis,Layton 21,Straight ticket,,Independent American,,-
+Davis,Layton 21,Straight ticket,,Independent American,,
 Davis,Layton 22,Straight ticket,,Independent American,,3
 Davis,Layton 23,Straight ticket,,Independent American,,4
 Davis,Layton 24,Straight ticket,,Independent American,,2
@@ -356,30 +356,30 @@ Davis,North Salt Lake 4,Straight ticket,,Independent American,,3
 Davis,North Salt Lake 5,Straight ticket,,Independent American,,2
 Davis,North Salt Lake 6,Straight ticket,,Independent American,,1
 Davis,North Salt Lake 7,Straight ticket,,Independent American,,3
-Davis,North Salt Lake 8,Straight ticket,,Independent American,,-
+Davis,North Salt Lake 8,Straight ticket,,Independent American,,
 Davis,North Salt Lake 9,Straight ticket,,Independent American,,2
 Davis,North Salt Lake 10,Straight ticket,,Independent American,,1
 Davis,South Weber 1,Straight ticket,,Independent American,,6
 Davis,South Weber 2,Straight ticket,,Independent American,,3
 Davis,South Weber 3,Straight ticket,,Independent American,,4
-Davis,South Weber 4,Straight ticket,,Independent American,,-
+Davis,South Weber 4,Straight ticket,,Independent American,,
 Davis,Sunset 1,Straight ticket,,Independent American,,4
 Davis,Sunset 2,Straight ticket,,Independent American,,1
 Davis,Sunset 3,Straight ticket,,Independent American,,3
 Davis,Syracuse 1,Straight ticket,,Independent American,,3
 Davis,Syracuse 2,Straight ticket,,Independent American,,1
-Davis,Syracuse 3,Straight ticket,,Independent American,,-
+Davis,Syracuse 3,Straight ticket,,Independent American,,
 Davis,Syracuse 4,Straight ticket,,Independent American,,2
 Davis,Syracuse 5,Straight ticket,,Independent American,,4
 Davis,Syracuse 6,Straight ticket,,Independent American,,5
 Davis,Syracuse 7,Straight ticket,,Independent American,,2
 Davis,Syracuse 8,Straight ticket,,Independent American,,3
 Davis,Syracuse 9,Straight ticket,,Independent American,,4
-Davis,Syracuse 10,Straight ticket,,Independent American,,-
-Davis,Syracuse 11,Straight ticket,,Independent American,,-
+Davis,Syracuse 10,Straight ticket,,Independent American,,
+Davis,Syracuse 11,Straight ticket,,Independent American,,
 Davis,Syracuse 12,Straight ticket,,Independent American,,3
 Davis,Syracuse 13,Straight ticket,,Independent American,,1
-Davis,Syracuse 14,Straight ticket,,Independent American,,-
+Davis,Syracuse 14,Straight ticket,,Independent American,,
 Davis,West Bountiful 1,Straight ticket,,Independent American,,1
 Davis,West Bountiful 2,Straight ticket,,Independent American,,5
 Davis,West Bountiful 3,Straight ticket,,Independent American,,3
@@ -390,7 +390,7 @@ Davis,West Point 3,Straight ticket,,Independent American,,4
 Davis,West Point 4,Straight ticket,,Independent American,,1
 Davis,West Point 5,Straight ticket,,Independent American,,1
 Davis,West Point 6,Straight ticket,,Independent American,,5
-Davis,West Point 7,Straight ticket,,Independent American,,-
+Davis,West Point 7,Straight ticket,,Independent American,,
 Davis,Woods Cross 1,Straight ticket,,Independent American,,2
 Davis,Woods Cross 2,Straight ticket,,Independent American,,2
 Davis,Woods Cross 3,Straight ticket,,Independent American,,3
@@ -484,7 +484,7 @@ Davis,Fruit Heights 2,Straight ticket,,Republican,,122
 Davis,Fruit Heights 3,Straight ticket,,Republican,,154
 Davis,Fruit Heights 4,Straight ticket,,Republican,,117
 Davis,Hill AFB 1,Straight ticket,,Republican,,6
-Davis,Hill AFB 2,Straight ticket,,Republican,,-
+Davis,Hill AFB 2,Straight ticket,,Republican,,
 Davis,Kaysville 1,Straight ticket,,Republican,,113
 Davis,Kaysville 2,Straight ticket,,Republican,,94
 Davis,Kaysville 3,Straight ticket,,Republican,,93
@@ -561,7 +561,7 @@ Davis,North Salt Lake 10,Straight ticket,,Republican,,47
 Davis,South Weber 1,Straight ticket,,Republican,,87
 Davis,South Weber 2,Straight ticket,,Republican,,105
 Davis,South Weber 3,Straight ticket,,Republican,,165
-Davis,South Weber 4,Straight ticket,,Republican,,-
+Davis,South Weber 4,Straight ticket,,Republican,,
 Davis,Sunset 1,Straight ticket,,Republican,,43
 Davis,Sunset 2,Straight ticket,,Republican,,45
 Davis,Sunset 3,Straight ticket,,Republican,,65
@@ -598,7 +598,7 @@ Davis,Woods Cross 5,Straight ticket,,Republican,,57
 Davis,Woods Cross 6,Straight ticket,,Republican,,81
 Davis,Bountiful 1,Straight ticket,,Constitution,,1
 Davis,Bountiful 2,Straight ticket,,Constitution,,1
-Davis,Bountiful 3,Straight ticket,,Constitution,,-
+Davis,Bountiful 3,Straight ticket,,Constitution,,
 Davis,Bountiful 4,Straight ticket,,Constitution,,2
 Davis,Bountiful 5,Straight ticket,,Constitution,,3
 Davis,Bountiful 6,Straight ticket,,Constitution,,1
@@ -619,7 +619,7 @@ Davis,Bountiful 20,Straight ticket,,Constitution,,1
 Davis,Bountiful 21,Straight ticket,,Constitution,,2
 Davis,Bountiful 22,Straight ticket,,Constitution,,1
 Davis,Bountiful 23,Straight ticket,,Constitution,,1
-Davis,Bountiful 24,Straight ticket,,Constitution,,-
+Davis,Bountiful 24,Straight ticket,,Constitution,,
 Davis,Bountiful 25,Straight ticket,,Constitution,,2
 Davis,Bountiful 26,Straight ticket,,Constitution,,1
 Davis,Bountiful 27,Straight ticket,,Constitution,,
@@ -849,7 +849,7 @@ Davis,Clearfield 9,Straight ticket,,Democratic,,26
 Davis,Clearfield 10,Straight ticket,,Democratic,,28
 Davis,Clearfield 11,Straight ticket,,Democratic,,39
 Davis,Clearfield 12,Straight ticket,,Democratic,,38
-Davis,Clearfield 13,Straight ticket,,Democratic,,-
+Davis,Clearfield 13,Straight ticket,,Democratic,,
 Davis,Clearfield 14,Straight ticket,,Democratic,,1
 Davis,Clearfield 15,Straight ticket,,Democratic,,1
 Davis,Clinton 1,Straight ticket,,Democratic,,21
@@ -882,7 +882,7 @@ Davis,Fruit Heights 2,Straight ticket,,Democratic,,16
 Davis,Fruit Heights 3,Straight ticket,,Democratic,,16
 Davis,Fruit Heights 4,Straight ticket,,Democratic,,13
 Davis,Hill AFB 1,Straight ticket,,Democratic,,2
-Davis,Hill AFB 2,Straight ticket,,Democratic,,-
+Davis,Hill AFB 2,Straight ticket,,Democratic,,
 Davis,Kaysville 1,Straight ticket,,Democratic,,21
 Davis,Kaysville 2,Straight ticket,,Democratic,,20
 Davis,Kaysville 3,Straight ticket,,Democratic,,17
@@ -1026,7 +1026,7 @@ Davis,Fruit Heights 2,U.S. House,1,,Donna McAleer,72
 Davis,Fruit Heights 3,U.S. House,1,,Donna McAleer,93
 Davis,Fruit Heights 4,U.S. House,1,,Donna McAleer,57
 Davis,Hill AFB 1,U.S. House,1,,Donna McAleer,4
-Davis,Hill AFB 2,U.S. House,1,,Donna McAleer,-
+Davis,Hill AFB 2,U.S. House,1,,Donna McAleer,
 Davis,Kaysville 1,U.S. House,1,,Donna McAleer,86
 Davis,Kaysville 2,U.S. House,1,,Donna McAleer,69
 Davis,Kaysville 3,U.S. House,1,,Donna McAleer,61
@@ -1130,8 +1130,8 @@ Davis,Clearfield 10,U.S. House,1,,Dwayne A Vance,12
 Davis,Clearfield 11,U.S. House,1,,Dwayne A Vance,11
 Davis,Clearfield 12,U.S. House,1,,Dwayne A Vance,14
 Davis,Clearfield 13,U.S. House,1,,Dwayne A Vance,1
-Davis,Clearfield 14,U.S. House,1,,Dwayne A Vance,-
-Davis,Clearfield 15,U.S. House,1,,Dwayne A Vance,-
+Davis,Clearfield 14,U.S. House,1,,Dwayne A Vance,
+Davis,Clearfield 15,U.S. House,1,,Dwayne A Vance,
 Davis,Clinton 1,U.S. House,1,,Dwayne A Vance,15
 Davis,Clinton 2,U.S. House,1,,Dwayne A Vance,18
 Davis,Clinton 3,U.S. House,1,,Dwayne A Vance,4
@@ -1148,8 +1148,8 @@ Davis,Fruit Heights 1,U.S. House,1,,Dwayne A Vance,11
 Davis,Fruit Heights 2,U.S. House,1,,Dwayne A Vance,14
 Davis,Fruit Heights 3,U.S. House,1,,Dwayne A Vance,8
 Davis,Fruit Heights 4,U.S. House,1,,Dwayne A Vance,4
-Davis,Hill AFB 1,U.S. House,1,,Dwayne A Vance,-
-Davis,Hill AFB 2,U.S. House,1,,Dwayne A Vance,-
+Davis,Hill AFB 1,U.S. House,1,,Dwayne A Vance,
+Davis,Hill AFB 2,U.S. House,1,,Dwayne A Vance,
 Davis,Kaysville 1,U.S. House,1,,Dwayne A Vance,23
 Davis,Kaysville 2,U.S. House,1,,Dwayne A Vance,20
 Davis,Kaysville 3,U.S. House,1,,Dwayne A Vance,12
@@ -1215,7 +1215,7 @@ Davis,Layton 44,U.S. House,1,,Dwayne A Vance,10
 Davis,South Weber 1,U.S. House,1,,Dwayne A Vance,16
 Davis,South Weber 2,U.S. House,1,,Dwayne A Vance,14
 Davis,South Weber 3,U.S. House,1,,Dwayne A Vance,22
-Davis,South Weber 4,U.S. House,1,,Dwayne A Vance,-
+Davis,South Weber 4,U.S. House,1,,Dwayne A Vance,
 Davis,Sunset 1,U.S. House,1,,Dwayne A Vance,4
 Davis,Sunset 2,U.S. House,1,,Dwayne A Vance,6
 Davis,Sunset 3,U.S. House,1,,Dwayne A Vance,12
@@ -1272,7 +1272,7 @@ Davis,Fruit Heights 2,U.S. House,1,,Rob Bishop,308
 Davis,Fruit Heights 3,U.S. House,1,,Rob Bishop,370
 Davis,Fruit Heights 4,U.S. House,1,,Rob Bishop,293
 Davis,Hill AFB 1,U.S. House,1,,Rob Bishop,6
-Davis,Hill AFB 2,U.S. House,1,,Rob Bishop,-
+Davis,Hill AFB 2,U.S. House,1,,Rob Bishop,
 Davis,Kaysville 1,U.S. House,1,,Rob Bishop,300
 Davis,Kaysville 2,U.S. House,1,,Rob Bishop,366
 Davis,Kaysville 3,U.S. House,1,,Rob Bishop,314
@@ -1338,7 +1338,7 @@ Davis,Layton 44,U.S. House,1,,Rob Bishop,178
 Davis,South Weber 1,U.S. House,1,,Rob Bishop,235
 Davis,South Weber 2,U.S. House,1,,Rob Bishop,264
 Davis,South Weber 3,U.S. House,1,,Rob Bishop,351
-Davis,South Weber 4,U.S. House,1,,Rob Bishop,-
+Davis,South Weber 4,U.S. House,1,,Rob Bishop,
 Davis,Sunset 1,U.S. House,1,,Rob Bishop,80
 Davis,Sunset 2,U.S. House,1,,Rob Bishop,126
 Davis,Sunset 3,U.S. House,1,,Rob Bishop,164
@@ -1377,7 +1377,7 @@ Davis,Clearfield 11,U.S. House,1,,Craig Bowden,15
 Davis,Clearfield 12,U.S. House,1,,Craig Bowden,11
 Davis,Clearfield 13,U.S. House,1,,Craig Bowden,2
 Davis,Clearfield 14,U.S. House,1,,Craig Bowden,1
-Davis,Clearfield 15,U.S. House,1,,Craig Bowden,-
+Davis,Clearfield 15,U.S. House,1,,Craig Bowden,
 Davis,Clinton 1,U.S. House,1,,Craig Bowden,10
 Davis,Clinton 2,U.S. House,1,,Craig Bowden,16
 Davis,Clinton 3,U.S. House,1,,Craig Bowden,3
@@ -1394,8 +1394,8 @@ Davis,Fruit Heights 1,U.S. House,1,,Craig Bowden,13
 Davis,Fruit Heights 2,U.S. House,1,,Craig Bowden,14
 Davis,Fruit Heights 3,U.S. House,1,,Craig Bowden,17
 Davis,Fruit Heights 4,U.S. House,1,,Craig Bowden,3
-Davis,Hill AFB 1,U.S. House,1,,Craig Bowden,-
-Davis,Hill AFB 2,U.S. House,1,,Craig Bowden,-
+Davis,Hill AFB 1,U.S. House,1,,Craig Bowden,
+Davis,Hill AFB 2,U.S. House,1,,Craig Bowden,
 Davis,Kaysville 1,U.S. House,1,,Craig Bowden,20
 Davis,Kaysville 2,U.S. House,1,,Craig Bowden,16
 Davis,Kaysville 3,U.S. House,1,,Craig Bowden,9
@@ -1461,7 +1461,7 @@ Davis,Layton 44,U.S. House,1,,Craig Bowden,5
 Davis,South Weber 1,U.S. House,1,,Craig Bowden,13
 Davis,South Weber 2,U.S. House,1,,Craig Bowden,12
 Davis,South Weber 3,U.S. House,1,,Craig Bowden,15
-Davis,South Weber 4,U.S. House,1,,Craig Bowden,-
+Davis,South Weber 4,U.S. House,1,,Craig Bowden,
 Davis,Sunset 1,U.S. House,1,,Craig Bowden,8
 Davis,Sunset 2,U.S. House,1,,Craig Bowden,20
 Davis,Sunset 3,U.S. House,1,,Craig Bowden,15
@@ -1615,7 +1615,7 @@ Davis,Farmington 8,U.S. House,2,,Wayne L. Hill,4
 Davis,Farmington 9,U.S. House,2,,Wayne L. Hill,9
 Davis,Farmington 10,U.S. House,2,,Wayne L. Hill,8
 Davis,Farmington 11,U.S. House,2,,Wayne L. Hill,11
-Davis,Farmington 12,U.S. House,2,,Wayne L. Hill,-
+Davis,Farmington 12,U.S. House,2,,Wayne L. Hill,
 Davis,Farmington 13,U.S. House,2,,Wayne L. Hill,6
 Davis,Kaysville 15,U.S. House,2,,Wayne L. Hill,9
 Davis,North Salt Lake 1,U.S. House,2,,Wayne L. Hill,4
@@ -1806,14 +1806,14 @@ Davis,Bountiful 13,U.S. House,2,,Bill Barron,3
 Davis,Bountiful 14,U.S. House,2,,Bill Barron,3
 Davis,Bountiful 15,U.S. House,2,,Bill Barron,4
 Davis,Bountiful 16,U.S. House,2,,Bill Barron,2
-Davis,Bountiful 17,U.S. House,2,,Bill Barron,-
-Davis,Bountiful 18,U.S. House,2,,Bill Barron,-
+Davis,Bountiful 17,U.S. House,2,,Bill Barron,
+Davis,Bountiful 18,U.S. House,2,,Bill Barron,
 Davis,Bountiful 19,U.S. House,2,,Bill Barron,5
 Davis,Bountiful 20,U.S. House,2,,Bill Barron,5
 Davis,Bountiful 21,U.S. House,2,,Bill Barron,3
 Davis,Bountiful 22,U.S. House,2,,Bill Barron,1
 Davis,Bountiful 23,U.S. House,2,,Bill Barron,4
-Davis,Bountiful 24,U.S. House,2,,Bill Barron,-
+Davis,Bountiful 24,U.S. House,2,,Bill Barron,
 Davis,Bountiful 25,U.S. House,2,,Bill Barron,7
 Davis,Bountiful 26,U.S. House,2,,Bill Barron,6
 Davis,Bountiful 27,U.S. House,2,,Bill Barron,4
@@ -1828,7 +1828,7 @@ Davis,Centerville 4,U.S. House,2,,Bill Barron,6
 Davis,Centerville 5,U.S. House,2,,Bill Barron,4
 Davis,Centerville 6,U.S. House,2,,Bill Barron,1
 Davis,Centerville 7,U.S. House,2,,Bill Barron,1
-Davis,Centerville 8,U.S. House,2,,Bill Barron,-
+Davis,Centerville 8,U.S. House,2,,Bill Barron,
 Davis,Centerville 9,U.S. House,2,,Bill Barron,2
 Davis,Centerville 10,U.S. House,2,,Bill Barron,2
 Davis,Centerville 11,U.S. House,2,,Bill Barron,1
@@ -1836,7 +1836,7 @@ Davis,Farmington 1,U.S. House,2,,Bill Barron,1
 Davis,Farmington 2,U.S. House,2,,Bill Barron,1
 Davis,Farmington 3,U.S. House,2,,Bill Barron,2
 Davis,Farmington 4,U.S. House,2,,Bill Barron,3
-Davis,Farmington 5,U.S. House,2,,Bill Barron,-
+Davis,Farmington 5,U.S. House,2,,Bill Barron,
 Davis,Farmington 6,U.S. House,2,,Bill Barron,5
 Davis,Farmington 7,U.S. House,2,,Bill Barron,2
 Davis,Farmington 8,U.S. House,2,,Bill Barron,4
@@ -1849,7 +1849,7 @@ Davis,Kaysville 15,U.S. House,2,,Bill Barron,1
 Davis,North Salt Lake 1,U.S. House,2,,Bill Barron,4
 Davis,North Salt Lake 2,U.S. House,2,,Bill Barron,4
 Davis,North Salt Lake 3,U.S. House,2,,Bill Barron,4
-Davis,North Salt Lake 4,U.S. House,2,,Bill Barron,-
+Davis,North Salt Lake 4,U.S. House,2,,Bill Barron,
 Davis,North Salt Lake 5,U.S. House,2,,Bill Barron,1
 Davis,North Salt Lake 6,U.S. House,2,,Bill Barron,4
 Davis,North Salt Lake 7,U.S. House,2,,Bill Barron,2
@@ -1921,8 +1921,8 @@ Davis,Clearfield 10,Attorney General,,,W. Andrew McCullough,11
 Davis,Clearfield 11,Attorney General,,,W. Andrew McCullough,11
 Davis,Clearfield 12,Attorney General,,,W. Andrew McCullough,13
 Davis,Clearfield 13,Attorney General,,,W. Andrew McCullough,1
-Davis,Clearfield 14,Attorney General,,,W. Andrew McCullough,-
-Davis,Clearfield 15,Attorney General,,,W. Andrew McCullough,-
+Davis,Clearfield 14,Attorney General,,,W. Andrew McCullough,
+Davis,Clearfield 15,Attorney General,,,W. Andrew McCullough,
 Davis,Clinton 1,Attorney General,,,W. Andrew McCullough,14
 Davis,Clinton 2,Attorney General,,,W. Andrew McCullough,12
 Davis,Clinton 3,Attorney General,,,W. Andrew McCullough,5
@@ -1953,7 +1953,7 @@ Davis,Fruit Heights 2,Attorney General,,,W. Andrew McCullough,12
 Davis,Fruit Heights 3,Attorney General,,,W. Andrew McCullough,15
 Davis,Fruit Heights 4,Attorney General,,,W. Andrew McCullough,9
 Davis,Hill AFB 1,Attorney General,,,W. Andrew McCullough,2
-Davis,Hill AFB 2,Attorney General,,,W. Andrew McCullough,-
+Davis,Hill AFB 2,Attorney General,,,W. Andrew McCullough,
 Davis,Kaysville 1,Attorney General,,,W. Andrew McCullough,10
 Davis,Kaysville 2,Attorney General,,,W. Andrew McCullough,12
 Davis,Kaysville 3,Attorney General,,,W. Andrew McCullough,15
@@ -2030,7 +2030,7 @@ Davis,North Salt Lake 10,Attorney General,,,W. Andrew McCullough,7
 Davis,South Weber 1,Attorney General,,,W. Andrew McCullough,15
 Davis,South Weber 2,Attorney General,,,W. Andrew McCullough,14
 Davis,South Weber 3,Attorney General,,,W. Andrew McCullough,17
-Davis,South Weber 4,Attorney General,,,W. Andrew McCullough,-
+Davis,South Weber 4,Attorney General,,,W. Andrew McCullough,
 Davis,Sunset 1,Attorney General,,,W. Andrew McCullough,11
 Davis,Sunset 2,Attorney General,,,W. Andrew McCullough,18
 Davis,Sunset 3,Attorney General,,,W. Andrew McCullough,14
@@ -2058,7 +2058,7 @@ Davis,West Point 3,Attorney General,,,W. Andrew McCullough,7
 Davis,West Point 4,Attorney General,,,W. Andrew McCullough,13
 Davis,West Point 5,Attorney General,,,W. Andrew McCullough,11
 Davis,West Point 6,Attorney General,,,W. Andrew McCullough,6
-Davis,West Point 7,Attorney General,,,W. Andrew McCullough,-
+Davis,West Point 7,Attorney General,,,W. Andrew McCullough,
 Davis,Woods Cross 1,Attorney General,,,W. Andrew McCullough,8
 Davis,Woods Cross 2,Attorney General,,,W. Andrew McCullough,10
 Davis,Woods Cross 3,Attorney General,,,W. Andrew McCullough,10
@@ -2121,7 +2121,7 @@ Davis,Clearfield 11,Attorney General,,,Gregory G. Hansen,20
 Davis,Clearfield 12,Attorney General,,,Gregory G. Hansen,11
 Davis,Clearfield 13,Attorney General,,,Gregory G. Hansen,2
 Davis,Clearfield 14,Attorney General,,,Gregory G. Hansen,2
-Davis,Clearfield 15,Attorney General,,,Gregory G. Hansen,-
+Davis,Clearfield 15,Attorney General,,,Gregory G. Hansen,
 Davis,Clinton 1,Attorney General,,,Gregory G. Hansen,20
 Davis,Clinton 2,Attorney General,,,Gregory G. Hansen,19
 Davis,Clinton 3,Attorney General,,,Gregory G. Hansen,1
@@ -2151,8 +2151,8 @@ Davis,Fruit Heights 1,Attorney General,,,Gregory G. Hansen,19
 Davis,Fruit Heights 2,Attorney General,,,Gregory G. Hansen,18
 Davis,Fruit Heights 3,Attorney General,,,Gregory G. Hansen,14
 Davis,Fruit Heights 4,Attorney General,,,Gregory G. Hansen,7
-Davis,Hill AFB 1,Attorney General,,,Gregory G. Hansen,-
-Davis,Hill AFB 2,Attorney General,,,Gregory G. Hansen,-
+Davis,Hill AFB 1,Attorney General,,,Gregory G. Hansen,
+Davis,Hill AFB 2,Attorney General,,,Gregory G. Hansen,
 Davis,Kaysville 1,Attorney General,,,Gregory G. Hansen,23
 Davis,Kaysville 2,Attorney General,,,Gregory G. Hansen,18
 Davis,Kaysville 3,Attorney General,,,Gregory G. Hansen,14
@@ -2229,7 +2229,7 @@ Davis,North Salt Lake 10,Attorney General,,,Gregory G. Hansen,7
 Davis,South Weber 1,Attorney General,,,Gregory G. Hansen,18
 Davis,South Weber 2,Attorney General,,,Gregory G. Hansen,11
 Davis,South Weber 3,Attorney General,,,Gregory G. Hansen,15
-Davis,South Weber 4,Attorney General,,,Gregory G. Hansen,-
+Davis,South Weber 4,Attorney General,,,Gregory G. Hansen,
 Davis,Sunset 1,Attorney General,,,Gregory G. Hansen,6
 Davis,Sunset 2,Attorney General,,,Gregory G. Hansen,19
 Davis,Sunset 3,Attorney General,,,Gregory G. Hansen,14
@@ -2318,7 +2318,7 @@ Davis,Clearfield 9,Attorney General,,,Charles A. Stormont,57
 Davis,Clearfield 10,Attorney General,,,Charles A. Stormont,50
 Davis,Clearfield 11,Attorney General,,,Charles A. Stormont,104
 Davis,Clearfield 12,Attorney General,,,Charles A. Stormont,78
-Davis,Clearfield 13,Attorney General,,,Charles A. Stormont,-
+Davis,Clearfield 13,Attorney General,,,Charles A. Stormont,
 Davis,Clearfield 14,Attorney General,,,Charles A. Stormont,2
 Davis,Clearfield 15,Attorney General,,,Charles A. Stormont,2
 Davis,Clinton 1,Attorney General,,,Charles A. Stormont,64
@@ -2351,7 +2351,7 @@ Davis,Fruit Heights 2,Attorney General,,,Charles A. Stormont,67
 Davis,Fruit Heights 3,Attorney General,,,Charles A. Stormont,76
 Davis,Fruit Heights 4,Attorney General,,,Charles A. Stormont,61
 Davis,Hill AFB 1,Attorney General,,,Charles A. Stormont,1
-Davis,Hill AFB 2,Attorney General,,,Charles A. Stormont,-
+Davis,Hill AFB 2,Attorney General,,,Charles A. Stormont,
 Davis,Kaysville 1,Attorney General,,,Charles A. Stormont,77
 Davis,Kaysville 2,Attorney General,,,Charles A. Stormont,61
 Davis,Kaysville 3,Attorney General,,,Charles A. Stormont,49
@@ -2550,7 +2550,7 @@ Davis,Fruit Heights 2,Attorney General,,,Sean D. Reye,301
 Davis,Fruit Heights 3,Attorney General,,,Sean D. Reye,371
 Davis,Fruit Heights 4,Attorney General,,,Sean D. Reye,275
 Davis,Hill AFB 1,Attorney General,,,Sean D. Reye,6
-Davis,Hill AFB 2,Attorney General,,,Sean D. Reye,-
+Davis,Hill AFB 2,Attorney General,,,Sean D. Reye,
 Davis,Kaysville 1,Attorney General,,,Sean D. Reye,307
 Davis,Kaysville 2,Attorney General,,,Sean D. Reye,370
 Davis,Kaysville 3,Attorney General,,,Sean D. Reye,310
@@ -2627,7 +2627,7 @@ Davis,North Salt Lake 10,Attorney General,,,Sean D. Reye,121
 Davis,South Weber 1,Attorney General,,,Sean D. Reye,231
 Davis,South Weber 2,Attorney General,,,Sean D. Reye,273
 Davis,South Weber 3,Attorney General,,,Sean D. Reye,353
-Davis,South Weber 4,Attorney General,,,Sean D. Reye,-
+Davis,South Weber 4,Attorney General,,,Sean D. Reye,
 Davis,Sunset 1,Attorney General,,,Sean D. Reye,100
 Davis,Sunset 2,Attorney General,,,Sean D. Reye,121
 Davis,Sunset 3,Attorney General,,,Sean D. Reye,167
@@ -2718,7 +2718,7 @@ Davis,Clearfield 11,Attorney General,,,Leslie D. Curtis,11
 Davis,Clearfield 12,Attorney General,,,Leslie D. Curtis,6
 Davis,Clearfield 13,Attorney General,,,Leslie D. Curtis,2
 Davis,Clearfield 14,Attorney General,,,Leslie D. Curtis,1
-Davis,Clearfield 15,Attorney General,,,Leslie D. Curtis,-
+Davis,Clearfield 15,Attorney General,,,Leslie D. Curtis,
 Davis,Clinton 1,Attorney General,,,Leslie D. Curtis,8
 Davis,Clinton 2,Attorney General,,,Leslie D. Curtis,16
 Davis,Clinton 3,Attorney General,,,Leslie D. Curtis,2
@@ -2749,7 +2749,7 @@ Davis,Fruit Heights 2,Attorney General,,,Leslie D. Curtis,9
 Davis,Fruit Heights 3,Attorney General,,,Leslie D. Curtis,6
 Davis,Fruit Heights 4,Attorney General,,,Leslie D. Curtis,5
 Davis,Hill AFB 1,Attorney General,,,Leslie D. Curtis,1
-Davis,Hill AFB 2,Attorney General,,,Leslie D. Curtis,-
+Davis,Hill AFB 2,Attorney General,,,Leslie D. Curtis,
 Davis,Kaysville 1,Attorney General,,,Leslie D. Curtis,10
 Davis,Kaysville 2,Attorney General,,,Leslie D. Curtis,10
 Davis,Kaysville 3,Attorney General,,,Leslie D. Curtis,8
@@ -2826,7 +2826,7 @@ Davis,North Salt Lake 10,Attorney General,,,Leslie D. Curtis,5
 Davis,South Weber 1,Attorney General,,,Leslie D. Curtis,23
 Davis,South Weber 2,Attorney General,,,Leslie D. Curtis,8
 Davis,South Weber 3,Attorney General,,,Leslie D. Curtis,17
-Davis,South Weber 4,Attorney General,,,Leslie D. Curtis,-
+Davis,South Weber 4,Attorney General,,,Leslie D. Curtis,
 Davis,Sunset 1,Attorney General,,,Leslie D. Curtis,10
 Davis,Sunset 2,Attorney General,,,Leslie D. Curtis,12
 Davis,Sunset 3,Attorney General,,,Leslie D. Curtis,16
@@ -2869,7 +2869,7 @@ Davis,Hill AFB 1,State Senate,18,,Ann Millner,8
 Davis,South Weber 1,State Senate,18,,Ann Millner,267
 Davis,South Weber 2,State Senate,18,,Ann Millner,305
 Davis,South Weber 3,State Senate,18,,Ann Millner,380
-Davis,South Weber 4,State Senate,18,,Ann Millner,-
+Davis,South Weber 4,State Senate,18,,Ann Millner,
 Davis,Sunset 1,State Senate,18,,Ann Millner,115
 Davis,Clearfield 6,State Senate,18,,Mat Wenzel,78
 Davis,Clearfield 13,State Senate,18,,Mat Wenzel,2
@@ -3126,7 +3126,7 @@ Davis,Centerville 7,State Senate,22,,Brent Zimmerman,19
 Davis,Centerville 9,State Senate,22,,Brent Zimmerman,16
 Davis,Centerville 10,State Senate,22,,Brent Zimmerman,16
 Davis,Centerville 11,State Senate,22,,Brent Zimmerman,21
-Davis,Clearfield 15,State Senate,22,,Brent Zimmerman,-
+Davis,Clearfield 15,State Senate,22,,Brent Zimmerman,
 Davis,Farmington 1,State Senate,22,,Brent Zimmerman,21
 Davis,Farmington 2,State Senate,22,,Brent Zimmerman,24
 Davis,Farmington 3,State Senate,22,,Brent Zimmerman,28
@@ -3190,14 +3190,14 @@ Davis,Layton 42,State Senate,22,,Brent Zimmerman,15
 Davis,Layton 43,State Senate,22,,Brent Zimmerman,24
 Davis,Clearfield 13,State House,11,,Amy Steed Morgan,1
 Davis,Hill AFB 1,State House,11,,Amy Steed Morgan,4
-Davis,Hill AFB 2,State House,11,,Amy Steed Morgan,-
+Davis,Hill AFB 2,State House,11,,Amy Steed Morgan,
 Davis,Layton 2,State House,11,,Amy Steed Morgan,133
 Davis,South Weber 1,State House,11,,Amy Steed Morgan,102
 Davis,South Weber 2,State House,11,,Amy Steed Morgan,134
 Davis,South Weber 3,State House,11,,Amy Steed Morgan,127
 Davis,Clearfield 13,State House,11,,Brad Dee,14
 Davis,Hill AFB 1,State House,11,,Brad Dee,6
-Davis,Hill AFB 2,State House,11,,Brad Dee,-
+Davis,Hill AFB 2,State House,11,,Brad Dee,
 Davis,Layton 2,State House,11,,Brad Dee,255
 Davis,South Weber 1,State House,11,,Brad Dee,259
 Davis,South Weber 2,State House,11,,Brad Dee,262
@@ -3357,7 +3357,7 @@ Davis,Layton 22,State House,16,,Steve Handy,255
 Davis,Layton 23,State House,16,,Steve Handy,329
 Davis,Layton 25,State House,16,,Steve Handy,134
 Davis,Layton 26,State House,16,,Steve Handy,319
-Davis,South Weber 4,State House,16,,Steve Handy,-
+Davis,South Weber 4,State House,16,,Steve Handy,
 Davis,Clearfield 12,State House,16,,Douglas M Sill,79
 Davis,Clearfield 14,State House,16,,Douglas M Sill,4
 Davis,Clearfield 15,State House,16,,Douglas M Sill,2
@@ -3385,8 +3385,8 @@ Davis,Layton 25,State House,16,,Douglas M Sill,46
 Davis,Layton 26,State House,16,,Douglas M Sill,83
 Davis,South Weber 4,State House,16,,Douglas M Sill,2
 Davis,Clearfield 12,State House,16,,Jeffrey Ostler,22
-Davis,Clearfield 14,State House,16,,Jeffrey Ostler,-
-Davis,Clearfield 15,State House,16,,Jeffrey Ostler,-
+Davis,Clearfield 14,State House,16,,Jeffrey Ostler,
+Davis,Clearfield 15,State House,16,,Jeffrey Ostler,
 Davis,Layton 1,State House,16,,Jeffrey Ostler,11
 Davis,Layton 3,State House,16,,Jeffrey Ostler,7
 Davis,Layton 4,State House,16,,Jeffrey Ostler,39
@@ -3409,7 +3409,7 @@ Davis,Layton 22,State House,16,,Jeffrey Ostler,33
 Davis,Layton 23,State House,16,,Jeffrey Ostler,28
 Davis,Layton 25,State House,16,,Jeffrey Ostler,10
 Davis,Layton 26,State House,16,,Jeffrey Ostler,27
-Davis,South Weber 4,State House,16,,Jeffrey Ostler,-
+Davis,South Weber 4,State House,16,,Jeffrey Ostler,
 Davis,Fruit Heights 1,State House,17,,Eric Last,89
 Davis,Fruit Heights 2,State House,17,,Eric Last,77
 Davis,Fruit Heights 3,State House,17,,Eric Last,81
