@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,Polling,Provisional,Absentee,Paper,Early,Mail,votes
+county,precinct,office,district,candidate,party,polling,provisional,absentee,paper,early,mail,votes
 Carbon,Scofield,Registered Voters,,,,,,,,,,28
 Carbon,Scofield,Ballots Cast,,,,0,3,0,0,0,21,24
 Carbon,Scofield,Straight Party,,,CON,0,0,0,0,0,0,0
