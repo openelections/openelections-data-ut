@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes
+﻿county,precinct,office,district,party,candidate,votes
 Carbon,Scofield,President,,,Rocky De La Fuente,0
 Carbon,Scofield,President,,Green,Jill Stein,0
 Carbon,Scofield,President,,Socialist Workers,Alyson Kennedy,0
@@ -246,7 +246,7 @@ Carbon,Wellington,U.S. Senate,,Republican,Mike Lee,414
 Carbon,East Carbon,U.S. Senate,,Democratic,Misty Snow,203
 Carbon,East Carbon,U.S. Senate,,Independent,Bill Barron,9
 Carbon,East Carbon,U.S. Senate,,Independent American,Stoney Fonua,21
-Carbon,East Carbon,U.S. Senate,,Republican,Mike Lee,341
+Carbon,East Carbon,U.S. Senate,,Republican,Mike Lee,342
 Carbon,West Helper,U.S. Senate,,Democratic,Misty Snow,160
 Carbon,West Helper,U.S. Senate,,Independent,Bill Barron,6
 Carbon,West Helper,U.S. Senate,,Independent American,Stoney Fonua,12
