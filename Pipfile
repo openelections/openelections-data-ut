@@ -9,4 +9,4 @@ verify_ssl = true
 clarify = {editable = true, git = "https://github.com/openelections/clarify.git"}
 
 [requires]
-python_version = "3.8"
+python_version = "3.5"
