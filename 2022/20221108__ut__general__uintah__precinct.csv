@@ -1,0 +1,871 @@
+county,precinct,office,district,party,candidate,votes
+Uintah,Jensen #1,Registered Voters,,,,575
+Uintah,Davis East #2,Registered Voters,,,,647
+Uintah,Davis West #3,Registered Voters,,,,633
+Uintah,Naples East #4,Registered Voters,,,,670
+Uintah,South #5,Registered Voters,,,,747
+Uintah,Maeser East #6,Registered Voters,,,,833
+Uintah,Dry Fork #7,Registered Voters,,,,248
+Uintah,Vernal City #8,Registered Voters,,,,588
+Uintah,Vernal City #9,Registered Voters,,,,800
+Uintah,Vernal City #10,Registered Voters,,,,697
+Uintah,Vernal City #11,Registered Voters,,,,522
+Uintah,Vernal City #12,Registered Voters,,,,546
+Uintah,Vernal City #13,Registered Voters,,,,617
+Uintah,Vernal City #14,Registered Voters,,,,357
+Uintah,Ashley East #15,Registered Voters,,,,761
+Uintah,Avalon Willows #16,Registered Voters,,,,213
+Uintah,Glines South #17,Registered Voters,,,,702
+Uintah,Fort Duchesne #18,Registered Voters,,,,534
+Uintah,Ballard #19,Registered Voters,,,,868
+Uintah,Whiterocks #20,Registered Voters,,,,150
+Uintah,Lapoint / Tridell #21,Registered Voters,,,,730
+Uintah,Ashley West #22,Registered Voters,,,,643
+Uintah,Glines North #23,Registered Voters,,,,713
+Uintah,Davis North #24,Registered Voters,,,,417
+Uintah,Maeser West #25,Registered Voters,,,,684
+Uintah,Southwest #26,Registered Voters,,,,736
+Uintah,Maeser North #27,Registered Voters,,,,796
+Uintah,Naples West #28,Registered Voters,,,,572
+Uintah,South East #29,Registered Voters,,,,402
+Uintah,Jensen #1,Ballots Cast,,,,399
+Uintah,Davis East #2,Ballots Cast,,,,391
+Uintah,Davis West #3,Ballots Cast,,,,402
+Uintah,Naples East #4,Ballots Cast,,,,456
+Uintah,South #5,Ballots Cast,,,,455
+Uintah,Maeser East #6,Ballots Cast,,,,515
+Uintah,Dry Fork #7,Ballots Cast,,,,181
+Uintah,Vernal City #8,Ballots Cast,,,,395
+Uintah,Vernal City #9,Ballots Cast,,,,515
+Uintah,Vernal City #10,Ballots Cast,,,,395
+Uintah,Vernal City #11,Ballots Cast,,,,349
+Uintah,Vernal City #12,Ballots Cast,,,,315
+Uintah,Vernal City #13,Ballots Cast,,,,348
+Uintah,Vernal City #14,Ballots Cast,,,,192
+Uintah,Ashley East #15,Ballots Cast,,,,504
+Uintah,Avalon Willows #16,Ballots Cast,,,,116
+Uintah,Glines South #17,Ballots Cast,,,,461
+Uintah,Fort Duchesne #18,Ballots Cast,,,,236
+Uintah,Ballard #19,Ballots Cast,,,,474
+Uintah,Whiterocks #20,Ballots Cast,,,,84
+Uintah,Lapoint / Tridell #21,Ballots Cast,,,,485
+Uintah,Ashley West #22,Ballots Cast,,,,475
+Uintah,Glines North #23,Ballots Cast,,,,435
+Uintah,Davis North #24,Ballots Cast,,,,254
+Uintah,Maeser West #25,Ballots Cast,,,,453
+Uintah,Southwest #26,Ballots Cast,,,,500
+Uintah,Maeser North #27,Ballots Cast,,,,516
+Uintah,Naples West #28,Ballots Cast,,,,357
+Uintah,South East #29,Ballots Cast,,,,256
+Uintah,Jensen #1,Ballots Cast Blank,,,,0
+Uintah,Davis East #2,Ballots Cast Blank,,,,0
+Uintah,Davis West #3,Ballots Cast Blank,,,,0
+Uintah,Naples East #4,Ballots Cast Blank,,,,0
+Uintah,South #5,Ballots Cast Blank,,,,0
+Uintah,Maeser East #6,Ballots Cast Blank,,,,1
+Uintah,Dry Fork #7,Ballots Cast Blank,,,,0
+Uintah,Vernal City #8,Ballots Cast Blank,,,,0
+Uintah,Vernal City #9,Ballots Cast Blank,,,,0
+Uintah,Vernal City #10,Ballots Cast Blank,,,,0
+Uintah,Vernal City #11,Ballots Cast Blank,,,,0
+Uintah,Vernal City #12,Ballots Cast Blank,,,,0
+Uintah,Vernal City #13,Ballots Cast Blank,,,,0
+Uintah,Vernal City #14,Ballots Cast Blank,,,,0
+Uintah,Ashley East #15,Ballots Cast Blank,,,,1
+Uintah,Avalon Willows #16,Ballots Cast Blank,,,,0
+Uintah,Glines South #17,Ballots Cast Blank,,,,0
+Uintah,Fort Duchesne #18,Ballots Cast Blank,,,,0
+Uintah,Ballard #19,Ballots Cast Blank,,,,0
+Uintah,Whiterocks #20,Ballots Cast Blank,,,,0
+Uintah,Lapoint / Tridell #21,Ballots Cast Blank,,,,0
+Uintah,Ashley West #22,Ballots Cast Blank,,,,0
+Uintah,Glines North #23,Ballots Cast Blank,,,,0
+Uintah,Davis North #24,Ballots Cast Blank,,,,0
+Uintah,Maeser West #25,Ballots Cast Blank,,,,0
+Uintah,Southwest #26,Ballots Cast Blank,,,,0
+Uintah,Maeser North #27,Ballots Cast Blank,,,,0
+Uintah,Naples West #28,Ballots Cast Blank,,,,0
+Uintah,South East #29,Ballots Cast Blank,,,,0
+Uintah,Jensen #1,U.S. Senate,,UNA,Evan McMullin,37
+Uintah,Davis East #2,U.S. Senate,,UNA,Evan McMullin,45
+Uintah,Davis West #3,U.S. Senate,,UNA,Evan McMullin,45
+Uintah,Naples East #4,U.S. Senate,,UNA,Evan McMullin,58
+Uintah,South #5,U.S. Senate,,UNA,Evan McMullin,49
+Uintah,Maeser East #6,U.S. Senate,,UNA,Evan McMullin,88
+Uintah,Dry Fork #7,U.S. Senate,,UNA,Evan McMullin,27
+Uintah,Vernal City #8,U.S. Senate,,UNA,Evan McMullin,56
+Uintah,Vernal City #9,U.S. Senate,,UNA,Evan McMullin,89
+Uintah,Vernal City #10,U.S. Senate,,UNA,Evan McMullin,77
+Uintah,Vernal City #11,U.S. Senate,,UNA,Evan McMullin,71
+Uintah,Vernal City #12,U.S. Senate,,UNA,Evan McMullin,61
+Uintah,Vernal City #13,U.S. Senate,,UNA,Evan McMullin,78
+Uintah,Vernal City #14,U.S. Senate,,UNA,Evan McMullin,30
+Uintah,Ashley East #15,U.S. Senate,,UNA,Evan McMullin,52
+Uintah,Avalon Willows #16,U.S. Senate,,UNA,Evan McMullin,24
+Uintah,Glines South #17,U.S. Senate,,UNA,Evan McMullin,56
+Uintah,Fort Duchesne #18,U.S. Senate,,UNA,Evan McMullin,58
+Uintah,Ballard #19,U.S. Senate,,UNA,Evan McMullin,85
+Uintah,Whiterocks #20,U.S. Senate,,UNA,Evan McMullin,25
+Uintah,Lapoint / Tridell #21,U.S. Senate,,UNA,Evan McMullin,42
+Uintah,Ashley West #22,U.S. Senate,,UNA,Evan McMullin,62
+Uintah,Glines North #23,U.S. Senate,,UNA,Evan McMullin,65
+Uintah,Davis North #24,U.S. Senate,,UNA,Evan McMullin,14
+Uintah,Maeser West #25,U.S. Senate,,UNA,Evan McMullin,56
+Uintah,Southwest #26,U.S. Senate,,UNA,Evan McMullin,47
+Uintah,Maeser North #27,U.S. Senate,,UNA,Evan McMullin,59
+Uintah,Naples West #28,U.S. Senate,,UNA,Evan McMullin,62
+Uintah,South East #29,U.S. Senate,,UNA,Evan McMullin,41
+Uintah,Jensen #1,U.S. Senate,,LIB,James Arthur Hansen,8
+Uintah,Davis East #2,U.S. Senate,,LIB,James Arthur Hansen,6
+Uintah,Davis West #3,U.S. Senate,,LIB,James Arthur Hansen,9
+Uintah,Naples East #4,U.S. Senate,,LIB,James Arthur Hansen,6
+Uintah,South #5,U.S. Senate,,LIB,James Arthur Hansen,8
+Uintah,Maeser East #6,U.S. Senate,,LIB,James Arthur Hansen,2
+Uintah,Dry Fork #7,U.S. Senate,,LIB,James Arthur Hansen,0
+Uintah,Vernal City #8,U.S. Senate,,LIB,James Arthur Hansen,10
+Uintah,Vernal City #9,U.S. Senate,,LIB,James Arthur Hansen,11
+Uintah,Vernal City #10,U.S. Senate,,LIB,James Arthur Hansen,8
+Uintah,Vernal City #11,U.S. Senate,,LIB,James Arthur Hansen,13
+Uintah,Vernal City #12,U.S. Senate,,LIB,James Arthur Hansen,6
+Uintah,Vernal City #13,U.S. Senate,,LIB,James Arthur Hansen,14
+Uintah,Vernal City #14,U.S. Senate,,LIB,James Arthur Hansen,8
+Uintah,Ashley East #15,U.S. Senate,,LIB,James Arthur Hansen,7
+Uintah,Avalon Willows #16,U.S. Senate,,LIB,James Arthur Hansen,6
+Uintah,Glines South #17,U.S. Senate,,LIB,James Arthur Hansen,3
+Uintah,Fort Duchesne #18,U.S. Senate,,LIB,James Arthur Hansen,6
+Uintah,Ballard #19,U.S. Senate,,LIB,James Arthur Hansen,9
+Uintah,Whiterocks #20,U.S. Senate,,LIB,James Arthur Hansen,1
+Uintah,Lapoint / Tridell #21,U.S. Senate,,LIB,James Arthur Hansen,4
+Uintah,Ashley West #22,U.S. Senate,,LIB,James Arthur Hansen,5
+Uintah,Glines North #23,U.S. Senate,,LIB,James Arthur Hansen,9
+Uintah,Davis North #24,U.S. Senate,,LIB,James Arthur Hansen,10
+Uintah,Maeser West #25,U.S. Senate,,LIB,James Arthur Hansen,9
+Uintah,Southwest #26,U.S. Senate,,LIB,James Arthur Hansen,10
+Uintah,Maeser North #27,U.S. Senate,,LIB,James Arthur Hansen,7
+Uintah,Naples West #28,U.S. Senate,,LIB,James Arthur Hansen,1
+Uintah,South East #29,U.S. Senate,,LIB,James Arthur Hansen,7
+Uintah,Jensen #1,U.S. Senate,,REP,Mike Lee,348
+Uintah,Davis East #2,U.S. Senate,,REP,Mike Lee,334
+Uintah,Davis West #3,U.S. Senate,,REP,Mike Lee,331
+Uintah,Naples East #4,U.S. Senate,,REP,Mike Lee,382
+Uintah,South #5,U.S. Senate,,REP,Mike Lee,391
+Uintah,Maeser East #6,U.S. Senate,,REP,Mike Lee,415
+Uintah,Dry Fork #7,U.S. Senate,,REP,Mike Lee,145
+Uintah,Vernal City #8,U.S. Senate,,REP,Mike Lee,323
+Uintah,Vernal City #9,U.S. Senate,,REP,Mike Lee,404
+Uintah,Vernal City #10,U.S. Senate,,REP,Mike Lee,294
+Uintah,Vernal City #11,U.S. Senate,,REP,Mike Lee,255
+Uintah,Vernal City #12,U.S. Senate,,REP,Mike Lee,238
+Uintah,Vernal City #13,U.S. Senate,,REP,Mike Lee,241
+Uintah,Vernal City #14,U.S. Senate,,REP,Mike Lee,146
+Uintah,Ashley East #15,U.S. Senate,,REP,Mike Lee,433
+Uintah,Avalon Willows #16,U.S. Senate,,REP,Mike Lee,85
+Uintah,Glines South #17,U.S. Senate,,REP,Mike Lee,395
+Uintah,Fort Duchesne #18,U.S. Senate,,REP,Mike Lee,165
+Uintah,Ballard #19,U.S. Senate,,REP,Mike Lee,371
+Uintah,Whiterocks #20,U.S. Senate,,REP,Mike Lee,55
+Uintah,Lapoint / Tridell #21,U.S. Senate,,REP,Mike Lee,431
+Uintah,Ashley West #22,U.S. Senate,,REP,Mike Lee,396
+Uintah,Glines North #23,U.S. Senate,,REP,Mike Lee,357
+Uintah,Davis North #24,U.S. Senate,,REP,Mike Lee,224
+Uintah,Maeser West #25,U.S. Senate,,REP,Mike Lee,376
+Uintah,Southwest #26,U.S. Senate,,REP,Mike Lee,438
+Uintah,Maeser North #27,U.S. Senate,,REP,Mike Lee,442
+Uintah,Naples West #28,U.S. Senate,,REP,Mike Lee,289
+Uintah,South East #29,U.S. Senate,,REP,Mike Lee,201
+Uintah,Jensen #1,U.S. Senate,,IAP,Tommy Williams,6
+Uintah,Davis East #2,U.S. Senate,,IAP,Tommy Williams,3
+Uintah,Davis West #3,U.S. Senate,,IAP,Tommy Williams,11
+Uintah,Naples East #4,U.S. Senate,,IAP,Tommy Williams,9
+Uintah,South #5,U.S. Senate,,IAP,Tommy Williams,3
+Uintah,Maeser East #6,U.S. Senate,,IAP,Tommy Williams,9
+Uintah,Dry Fork #7,U.S. Senate,,IAP,Tommy Williams,5
+Uintah,Vernal City #8,U.S. Senate,,IAP,Tommy Williams,4
+Uintah,Vernal City #9,U.S. Senate,,IAP,Tommy Williams,7
+Uintah,Vernal City #10,U.S. Senate,,IAP,Tommy Williams,11
+Uintah,Vernal City #11,U.S. Senate,,IAP,Tommy Williams,8
+Uintah,Vernal City #12,U.S. Senate,,IAP,Tommy Williams,6
+Uintah,Vernal City #13,U.S. Senate,,IAP,Tommy Williams,12
+Uintah,Vernal City #14,U.S. Senate,,IAP,Tommy Williams,8
+Uintah,Ashley East #15,U.S. Senate,,IAP,Tommy Williams,5
+Uintah,Avalon Willows #16,U.S. Senate,,IAP,Tommy Williams,1
+Uintah,Glines South #17,U.S. Senate,,IAP,Tommy Williams,4
+Uintah,Fort Duchesne #18,U.S. Senate,,IAP,Tommy Williams,5
+Uintah,Ballard #19,U.S. Senate,,IAP,Tommy Williams,9
+Uintah,Whiterocks #20,U.S. Senate,,IAP,Tommy Williams,1
+Uintah,Lapoint / Tridell #21,U.S. Senate,,IAP,Tommy Williams,6
+Uintah,Ashley West #22,U.S. Senate,,IAP,Tommy Williams,8
+Uintah,Glines North #23,U.S. Senate,,IAP,Tommy Williams,2
+Uintah,Davis North #24,U.S. Senate,,IAP,Tommy Williams,3
+Uintah,Maeser West #25,U.S. Senate,,IAP,Tommy Williams,9
+Uintah,Southwest #26,U.S. Senate,,IAP,Tommy Williams,1
+Uintah,Maeser North #27,U.S. Senate,,IAP,Tommy Williams,6
+Uintah,Naples West #28,U.S. Senate,,IAP,Tommy Williams,1
+Uintah,South East #29,U.S. Senate,,IAP,Tommy Williams,3
+Uintah,Jensen #1,U.S. Senate,,,Write-ins,0
+Uintah,Davis East #2,U.S. Senate,,,Write-ins,0
+Uintah,Davis West #3,U.S. Senate,,,Write-ins,2
+Uintah,Naples East #4,U.S. Senate,,,Write-ins,0
+Uintah,South #5,U.S. Senate,,,Write-ins,1
+Uintah,Maeser East #6,U.S. Senate,,,Write-ins,0
+Uintah,Dry Fork #7,U.S. Senate,,,Write-ins,1
+Uintah,Vernal City #8,U.S. Senate,,,Write-ins,1
+Uintah,Vernal City #9,U.S. Senate,,,Write-ins,0
+Uintah,Vernal City #10,U.S. Senate,,,Write-ins,0
+Uintah,Vernal City #11,U.S. Senate,,,Write-ins,0
+Uintah,Vernal City #12,U.S. Senate,,,Write-ins,2
+Uintah,Vernal City #13,U.S. Senate,,,Write-ins,0
+Uintah,Vernal City #14,U.S. Senate,,,Write-ins,0
+Uintah,Ashley East #15,U.S. Senate,,,Write-ins,0
+Uintah,Avalon Willows #16,U.S. Senate,,,Write-ins,0
+Uintah,Glines South #17,U.S. Senate,,,Write-ins,1
+Uintah,Fort Duchesne #18,U.S. Senate,,,Write-ins,0
+Uintah,Ballard #19,U.S. Senate,,,Write-ins,0
+Uintah,Whiterocks #20,U.S. Senate,,,Write-ins,0
+Uintah,Lapoint / Tridell #21,U.S. Senate,,,Write-ins,0
+Uintah,Ashley West #22,U.S. Senate,,,Write-ins,1
+Uintah,Glines North #23,U.S. Senate,,,Write-ins,0
+Uintah,Davis North #24,U.S. Senate,,,Write-ins,0
+Uintah,Maeser West #25,U.S. Senate,,,Write-ins,0
+Uintah,Southwest #26,U.S. Senate,,,Write-ins,0
+Uintah,Maeser North #27,U.S. Senate,,,Write-ins,1
+Uintah,Naples West #28,U.S. Senate,,,Write-ins,1
+Uintah,South East #29,U.S. Senate,,,Write-ins,1
+Uintah,Jensen #1,U.S. Senate,,,Over Votes,0
+Uintah,Davis East #2,U.S. Senate,,,Over Votes,1
+Uintah,Davis West #3,U.S. Senate,,,Over Votes,0
+Uintah,Naples East #4,U.S. Senate,,,Over Votes,0
+Uintah,South #5,U.S. Senate,,,Over Votes,0
+Uintah,Maeser East #6,U.S. Senate,,,Over Votes,0
+Uintah,Dry Fork #7,U.S. Senate,,,Over Votes,0
+Uintah,Vernal City #8,U.S. Senate,,,Over Votes,0
+Uintah,Vernal City #9,U.S. Senate,,,Over Votes,0
+Uintah,Vernal City #10,U.S. Senate,,,Over Votes,0
+Uintah,Vernal City #11,U.S. Senate,,,Over Votes,0
+Uintah,Vernal City #12,U.S. Senate,,,Over Votes,0
+Uintah,Vernal City #13,U.S. Senate,,,Over Votes,0
+Uintah,Vernal City #14,U.S. Senate,,,Over Votes,0
+Uintah,Ashley East #15,U.S. Senate,,,Over Votes,0
+Uintah,Avalon Willows #16,U.S. Senate,,,Over Votes,0
+Uintah,Glines South #17,U.S. Senate,,,Over Votes,0
+Uintah,Fort Duchesne #18,U.S. Senate,,,Over Votes,0
+Uintah,Ballard #19,U.S. Senate,,,Over Votes,0
+Uintah,Whiterocks #20,U.S. Senate,,,Over Votes,0
+Uintah,Lapoint / Tridell #21,U.S. Senate,,,Over Votes,0
+Uintah,Ashley West #22,U.S. Senate,,,Over Votes,0
+Uintah,Glines North #23,U.S. Senate,,,Over Votes,0
+Uintah,Davis North #24,U.S. Senate,,,Over Votes,0
+Uintah,Maeser West #25,U.S. Senate,,,Over Votes,0
+Uintah,Southwest #26,U.S. Senate,,,Over Votes,0
+Uintah,Maeser North #27,U.S. Senate,,,Over Votes,0
+Uintah,Naples West #28,U.S. Senate,,,Over Votes,0
+Uintah,South East #29,U.S. Senate,,,Over Votes,0
+Uintah,Jensen #1,U.S. Senate,,,Under Votes,0
+Uintah,Davis East #2,U.S. Senate,,,Under Votes,2
+Uintah,Davis West #3,U.S. Senate,,,Under Votes,4
+Uintah,Naples East #4,U.S. Senate,,,Under Votes,1
+Uintah,South #5,U.S. Senate,,,Under Votes,3
+Uintah,Maeser East #6,U.S. Senate,,,Under Votes,1
+Uintah,Dry Fork #7,U.S. Senate,,,Under Votes,3
+Uintah,Vernal City #8,U.S. Senate,,,Under Votes,1
+Uintah,Vernal City #9,U.S. Senate,,,Under Votes,4
+Uintah,Vernal City #10,U.S. Senate,,,Under Votes,5
+Uintah,Vernal City #11,U.S. Senate,,,Under Votes,2
+Uintah,Vernal City #12,U.S. Senate,,,Under Votes,2
+Uintah,Vernal City #13,U.S. Senate,,,Under Votes,3
+Uintah,Vernal City #14,U.S. Senate,,,Under Votes,0
+Uintah,Ashley East #15,U.S. Senate,,,Under Votes,7
+Uintah,Avalon Willows #16,U.S. Senate,,,Under Votes,0
+Uintah,Glines South #17,U.S. Senate,,,Under Votes,2
+Uintah,Fort Duchesne #18,U.S. Senate,,,Under Votes,2
+Uintah,Ballard #19,U.S. Senate,,,Under Votes,0
+Uintah,Whiterocks #20,U.S. Senate,,,Under Votes,2
+Uintah,Lapoint / Tridell #21,U.S. Senate,,,Under Votes,2
+Uintah,Ashley West #22,U.S. Senate,,,Under Votes,3
+Uintah,Glines North #23,U.S. Senate,,,Under Votes,2
+Uintah,Davis North #24,U.S. Senate,,,Under Votes,3
+Uintah,Maeser West #25,U.S. Senate,,,Under Votes,3
+Uintah,Southwest #26,U.S. Senate,,,Under Votes,4
+Uintah,Maeser North #27,U.S. Senate,,,Under Votes,1
+Uintah,Naples West #28,U.S. Senate,,,Under Votes,3
+Uintah,South East #29,U.S. Senate,,,Under Votes,3
+Uintah,Jensen #1,U.S. House,3,IAP,Aaron Heineman,1
+Uintah,Davis East #2,U.S. House,3,IAP,Aaron Heineman,4
+Uintah,Davis West #3,U.S. House,3,IAP,Aaron Heineman,4
+Uintah,Naples East #4,U.S. House,3,IAP,Aaron Heineman,6
+Uintah,South #5,U.S. House,3,IAP,Aaron Heineman,3
+Uintah,Maeser East #6,U.S. House,3,IAP,Aaron Heineman,11
+Uintah,Dry Fork #7,U.S. House,3,IAP,Aaron Heineman,0
+Uintah,Vernal City #8,U.S. House,3,IAP,Aaron Heineman,4
+Uintah,Vernal City #9,U.S. House,3,IAP,Aaron Heineman,4
+Uintah,Vernal City #10,U.S. House,3,IAP,Aaron Heineman,4
+Uintah,Vernal City #11,U.S. House,3,IAP,Aaron Heineman,2
+Uintah,Vernal City #12,U.S. House,3,IAP,Aaron Heineman,7
+Uintah,Vernal City #13,U.S. House,3,IAP,Aaron Heineman,10
+Uintah,Vernal City #14,U.S. House,3,IAP,Aaron Heineman,7
+Uintah,Ashley East #15,U.S. House,3,IAP,Aaron Heineman,7
+Uintah,Avalon Willows #16,U.S. House,3,IAP,Aaron Heineman,2
+Uintah,Glines South #17,U.S. House,3,IAP,Aaron Heineman,2
+Uintah,Fort Duchesne #18,U.S. House,3,IAP,Aaron Heineman,4
+Uintah,Ballard #19,U.S. House,3,IAP,Aaron Heineman,8
+Uintah,Whiterocks #20,U.S. House,3,IAP,Aaron Heineman,1
+Uintah,Lapoint / Tridell #21,U.S. House,3,IAP,Aaron Heineman,6
+Uintah,Ashley West #22,U.S. House,3,IAP,Aaron Heineman,7
+Uintah,Glines North #23,U.S. House,3,IAP,Aaron Heineman,4
+Uintah,Davis North #24,U.S. House,3,IAP,Aaron Heineman,1
+Uintah,Maeser West #25,U.S. House,3,IAP,Aaron Heineman,8
+Uintah,Southwest #26,U.S. House,3,IAP,Aaron Heineman,4
+Uintah,Maeser North #27,U.S. House,3,IAP,Aaron Heineman,3
+Uintah,Naples West #28,U.S. House,3,IAP,Aaron Heineman,2
+Uintah,South East #29,U.S. House,3,IAP,Aaron Heineman,4
+Uintah,Jensen #1,U.S. House,3,DEM,Glenn J. Wright,33
+Uintah,Davis East #2,U.S. House,3,DEM,Glenn J. Wright,25
+Uintah,Davis West #3,U.S. House,3,DEM,Glenn J. Wright,25
+Uintah,Naples East #4,U.S. House,3,DEM,Glenn J. Wright,20
+Uintah,South #5,U.S. House,3,DEM,Glenn J. Wright,29
+Uintah,Maeser East #6,U.S. House,3,DEM,Glenn J. Wright,47
+Uintah,Dry Fork #7,U.S. House,3,DEM,Glenn J. Wright,18
+Uintah,Vernal City #8,U.S. House,3,DEM,Glenn J. Wright,31
+Uintah,Vernal City #9,U.S. House,3,DEM,Glenn J. Wright,54
+Uintah,Vernal City #10,U.S. House,3,DEM,Glenn J. Wright,45
+Uintah,Vernal City #11,U.S. House,3,DEM,Glenn J. Wright,49
+Uintah,Vernal City #12,U.S. House,3,DEM,Glenn J. Wright,30
+Uintah,Vernal City #13,U.S. House,3,DEM,Glenn J. Wright,61
+Uintah,Vernal City #14,U.S. House,3,DEM,Glenn J. Wright,27
+Uintah,Ashley East #15,U.S. House,3,DEM,Glenn J. Wright,34
+Uintah,Avalon Willows #16,U.S. House,3,DEM,Glenn J. Wright,17
+Uintah,Glines South #17,U.S. House,3,DEM,Glenn J. Wright,38
+Uintah,Fort Duchesne #18,U.S. House,3,DEM,Glenn J. Wright,49
+Uintah,Ballard #19,U.S. House,3,DEM,Glenn J. Wright,60
+Uintah,Whiterocks #20,U.S. House,3,DEM,Glenn J. Wright,23
+Uintah,Lapoint / Tridell #21,U.S. House,3,DEM,Glenn J. Wright,20
+Uintah,Ashley West #22,U.S. House,3,DEM,Glenn J. Wright,33
+Uintah,Glines North #23,U.S. House,3,DEM,Glenn J. Wright,32
+Uintah,Davis North #24,U.S. House,3,DEM,Glenn J. Wright,17
+Uintah,Maeser West #25,U.S. House,3,DEM,Glenn J. Wright,31
+Uintah,Southwest #26,U.S. House,3,DEM,Glenn J. Wright,22
+Uintah,Maeser North #27,U.S. House,3,DEM,Glenn J. Wright,32
+Uintah,Naples West #28,U.S. House,3,DEM,Glenn J. Wright,37
+Uintah,South East #29,U.S. House,3,DEM,Glenn J. Wright,30
+Uintah,Jensen #1,U.S. House,3,CON,Daniel Clyde Cummings,12
+Uintah,Davis East #2,U.S. House,3,CON,Daniel Clyde Cummings,2
+Uintah,Davis West #3,U.S. House,3,CON,Daniel Clyde Cummings,7
+Uintah,Naples East #4,U.S. House,3,CON,Daniel Clyde Cummings,5
+Uintah,South #5,U.S. House,3,CON,Daniel Clyde Cummings,12
+Uintah,Maeser East #6,U.S. House,3,CON,Daniel Clyde Cummings,4
+Uintah,Dry Fork #7,U.S. House,3,CON,Daniel Clyde Cummings,2
+Uintah,Vernal City #8,U.S. House,3,CON,Daniel Clyde Cummings,9
+Uintah,Vernal City #9,U.S. House,3,CON,Daniel Clyde Cummings,7
+Uintah,Vernal City #10,U.S. House,3,CON,Daniel Clyde Cummings,14
+Uintah,Vernal City #11,U.S. House,3,CON,Daniel Clyde Cummings,7
+Uintah,Vernal City #12,U.S. House,3,CON,Daniel Clyde Cummings,3
+Uintah,Vernal City #13,U.S. House,3,CON,Daniel Clyde Cummings,11
+Uintah,Vernal City #14,U.S. House,3,CON,Daniel Clyde Cummings,3
+Uintah,Ashley East #15,U.S. House,3,CON,Daniel Clyde Cummings,3
+Uintah,Avalon Willows #16,U.S. House,3,CON,Daniel Clyde Cummings,1
+Uintah,Glines South #17,U.S. House,3,CON,Daniel Clyde Cummings,6
+Uintah,Fort Duchesne #18,U.S. House,3,CON,Daniel Clyde Cummings,4
+Uintah,Ballard #19,U.S. House,3,CON,Daniel Clyde Cummings,13
+Uintah,Whiterocks #20,U.S. House,3,CON,Daniel Clyde Cummings,2
+Uintah,Lapoint / Tridell #21,U.S. House,3,CON,Daniel Clyde Cummings,9
+Uintah,Ashley West #22,U.S. House,3,CON,Daniel Clyde Cummings,4
+Uintah,Glines North #23,U.S. House,3,CON,Daniel Clyde Cummings,2
+Uintah,Davis North #24,U.S. House,3,CON,Daniel Clyde Cummings,6
+Uintah,Maeser West #25,U.S. House,3,CON,Daniel Clyde Cummings,8
+Uintah,Southwest #26,U.S. House,3,CON,Daniel Clyde Cummings,14
+Uintah,Maeser North #27,U.S. House,3,CON,Daniel Clyde Cummings,10
+Uintah,Naples West #28,U.S. House,3,CON,Daniel Clyde Cummings,12
+Uintah,South East #29,U.S. House,3,CON,Daniel Clyde Cummings,3
+Uintah,Jensen #1,U.S. House,3,REP,John Curtis,340
+Uintah,Davis East #2,U.S. House,3,REP,John Curtis,349
+Uintah,Davis West #3,U.S. House,3,REP,John Curtis,343
+Uintah,Naples East #4,U.S. House,3,REP,John Curtis,415
+Uintah,South #5,U.S. House,3,REP,John Curtis,394
+Uintah,Maeser East #6,U.S. House,3,REP,John Curtis,438
+Uintah,Dry Fork #7,U.S. House,3,REP,John Curtis,155
+Uintah,Vernal City #8,U.S. House,3,REP,John Curtis,340
+Uintah,Vernal City #9,U.S. House,3,REP,John Curtis,428
+Uintah,Vernal City #10,U.S. House,3,REP,John Curtis,310
+Uintah,Vernal City #11,U.S. House,3,REP,John Curtis,279
+Uintah,Vernal City #12,U.S. House,3,REP,John Curtis,254
+Uintah,Vernal City #13,U.S. House,3,REP,John Curtis,247
+Uintah,Vernal City #14,U.S. House,3,REP,John Curtis,148
+Uintah,Ashley East #15,U.S. House,3,REP,John Curtis,447
+Uintah,Avalon Willows #16,U.S. House,3,REP,John Curtis,93
+Uintah,Glines South #17,U.S. House,3,REP,John Curtis,395
+Uintah,Fort Duchesne #18,U.S. House,3,REP,John Curtis,168
+Uintah,Ballard #19,U.S. House,3,REP,John Curtis,386
+Uintah,Whiterocks #20,U.S. House,3,REP,John Curtis,57
+Uintah,Lapoint / Tridell #21,U.S. House,3,REP,John Curtis,432
+Uintah,Ashley West #22,U.S. House,3,REP,John Curtis,417
+Uintah,Glines North #23,U.S. House,3,REP,John Curtis,377
+Uintah,Davis North #24,U.S. House,3,REP,John Curtis,218
+Uintah,Maeser West #25,U.S. House,3,REP,John Curtis,383
+Uintah,Southwest #26,U.S. House,3,REP,John Curtis,443
+Uintah,Maeser North #27,U.S. House,3,REP,John Curtis,455
+Uintah,Naples West #28,U.S. House,3,REP,John Curtis,293
+Uintah,South East #29,U.S. House,3,REP,John Curtis,206
+Uintah,Jensen #1,U.S. House,3,LIB,Michael R. Stoddard,9
+Uintah,Davis East #2,U.S. House,3,LIB,Michael R. Stoddard,6
+Uintah,Davis West #3,U.S. House,3,LIB,Michael R. Stoddard,16
+Uintah,Naples East #4,U.S. House,3,LIB,Michael R. Stoddard,6
+Uintah,South #5,U.S. House,3,LIB,Michael R. Stoddard,9
+Uintah,Maeser East #6,U.S. House,3,LIB,Michael R. Stoddard,7
+Uintah,Dry Fork #7,U.S. House,3,LIB,Michael R. Stoddard,2
+Uintah,Vernal City #8,U.S. House,3,LIB,Michael R. Stoddard,6
+Uintah,Vernal City #9,U.S. House,3,LIB,Michael R. Stoddard,17
+Uintah,Vernal City #10,U.S. House,3,LIB,Michael R. Stoddard,10
+Uintah,Vernal City #11,U.S. House,3,LIB,Michael R. Stoddard,8
+Uintah,Vernal City #12,U.S. House,3,LIB,Michael R. Stoddard,11
+Uintah,Vernal City #13,U.S. House,3,LIB,Michael R. Stoddard,10
+Uintah,Vernal City #14,U.S. House,3,LIB,Michael R. Stoddard,6
+Uintah,Ashley East #15,U.S. House,3,LIB,Michael R. Stoddard,4
+Uintah,Avalon Willows #16,U.S. House,3,LIB,Michael R. Stoddard,3
+Uintah,Glines South #17,U.S. House,3,LIB,Michael R. Stoddard,8
+Uintah,Fort Duchesne #18,U.S. House,3,LIB,Michael R. Stoddard,8
+Uintah,Ballard #19,U.S. House,3,LIB,Michael R. Stoddard,7
+Uintah,Whiterocks #20,U.S. House,3,LIB,Michael R. Stoddard,1
+Uintah,Lapoint / Tridell #21,U.S. House,3,LIB,Michael R. Stoddard,14
+Uintah,Ashley West #22,U.S. House,3,LIB,Michael R. Stoddard,4
+Uintah,Glines North #23,U.S. House,3,LIB,Michael R. Stoddard,12
+Uintah,Davis North #24,U.S. House,3,LIB,Michael R. Stoddard,8
+Uintah,Maeser West #25,U.S. House,3,LIB,Michael R. Stoddard,17
+Uintah,Southwest #26,U.S. House,3,LIB,Michael R. Stoddard,8
+Uintah,Maeser North #27,U.S. House,3,LIB,Michael R. Stoddard,6
+Uintah,Naples West #28,U.S. House,3,LIB,Michael R. Stoddard,6
+Uintah,South East #29,U.S. House,3,LIB,Michael R. Stoddard,4
+Uintah,Jensen #1,U.S. House,3,,Over Votes,0
+Uintah,Davis East #2,U.S. House,3,,Over Votes,0
+Uintah,Davis West #3,U.S. House,3,,Over Votes,0
+Uintah,Naples East #4,U.S. House,3,,Over Votes,0
+Uintah,South #5,U.S. House,3,,Over Votes,0
+Uintah,Maeser East #6,U.S. House,3,,Over Votes,0
+Uintah,Dry Fork #7,U.S. House,3,,Over Votes,0
+Uintah,Vernal City #8,U.S. House,3,,Over Votes,0
+Uintah,Vernal City #9,U.S. House,3,,Over Votes,0
+Uintah,Vernal City #10,U.S. House,3,,Over Votes,0
+Uintah,Vernal City #11,U.S. House,3,,Over Votes,0
+Uintah,Vernal City #12,U.S. House,3,,Over Votes,0
+Uintah,Vernal City #13,U.S. House,3,,Over Votes,0
+Uintah,Vernal City #14,U.S. House,3,,Over Votes,0
+Uintah,Ashley East #15,U.S. House,3,,Over Votes,0
+Uintah,Avalon Willows #16,U.S. House,3,,Over Votes,0
+Uintah,Glines South #17,U.S. House,3,,Over Votes,0
+Uintah,Fort Duchesne #18,U.S. House,3,,Over Votes,0
+Uintah,Ballard #19,U.S. House,3,,Over Votes,0
+Uintah,Whiterocks #20,U.S. House,3,,Over Votes,0
+Uintah,Lapoint / Tridell #21,U.S. House,3,,Over Votes,0
+Uintah,Ashley West #22,U.S. House,3,,Over Votes,0
+Uintah,Glines North #23,U.S. House,3,,Over Votes,0
+Uintah,Davis North #24,U.S. House,3,,Over Votes,0
+Uintah,Maeser West #25,U.S. House,3,,Over Votes,0
+Uintah,Southwest #26,U.S. House,3,,Over Votes,0
+Uintah,Maeser North #27,U.S. House,3,,Over Votes,0
+Uintah,Naples West #28,U.S. House,3,,Over Votes,0
+Uintah,South East #29,U.S. House,3,,Over Votes,0
+Uintah,Jensen #1,U.S. House,3,,Under Votes,4
+Uintah,Davis East #2,U.S. House,3,,Under Votes,5
+Uintah,Davis West #3,U.S. House,3,,Under Votes,7
+Uintah,Naples East #4,U.S. House,3,,Under Votes,4
+Uintah,South #5,U.S. House,3,,Under Votes,8
+Uintah,Maeser East #6,U.S. House,3,,Under Votes,8
+Uintah,Dry Fork #7,U.S. House,3,,Under Votes,4
+Uintah,Vernal City #8,U.S. House,3,,Under Votes,5
+Uintah,Vernal City #9,U.S. House,3,,Under Votes,5
+Uintah,Vernal City #10,U.S. House,3,,Under Votes,12
+Uintah,Vernal City #11,U.S. House,3,,Under Votes,4
+Uintah,Vernal City #12,U.S. House,3,,Under Votes,10
+Uintah,Vernal City #13,U.S. House,3,,Under Votes,9
+Uintah,Vernal City #14,U.S. House,3,,Under Votes,1
+Uintah,Ashley East #15,U.S. House,3,,Under Votes,9
+Uintah,Avalon Willows #16,U.S. House,3,,Under Votes,0
+Uintah,Glines South #17,U.S. House,3,,Under Votes,12
+Uintah,Fort Duchesne #18,U.S. House,3,,Under Votes,3
+Uintah,Ballard #19,U.S. House,3,,Under Votes,0
+Uintah,Whiterocks #20,U.S. House,3,,Under Votes,0
+Uintah,Lapoint / Tridell #21,U.S. House,3,,Under Votes,4
+Uintah,Ashley West #22,U.S. House,3,,Under Votes,10
+Uintah,Glines North #23,U.S. House,3,,Under Votes,8
+Uintah,Davis North #24,U.S. House,3,,Under Votes,4
+Uintah,Maeser West #25,U.S. House,3,,Under Votes,6
+Uintah,Southwest #26,U.S. House,3,,Under Votes,9
+Uintah,Maeser North #27,U.S. House,3,,Under Votes,10
+Uintah,Naples West #28,U.S. House,3,,Under Votes,7
+Uintah,South East #29,U.S. House,3,,Under Votes,9
+Uintah,Jensen #1,State Treasurer,,REP,Marlo M. Oaks,354
+Uintah,Davis East #2,State Treasurer,,REP,Marlo M. Oaks,348
+Uintah,Davis West #3,State Treasurer,,REP,Marlo M. Oaks,352
+Uintah,Naples East #4,State Treasurer,,REP,Marlo M. Oaks,410
+Uintah,South #5,State Treasurer,,REP,Marlo M. Oaks,394
+Uintah,Maeser East #6,State Treasurer,,REP,Marlo M. Oaks,453
+Uintah,Dry Fork #7,State Treasurer,,REP,Marlo M. Oaks,155
+Uintah,Vernal City #8,State Treasurer,,REP,Marlo M. Oaks,348
+Uintah,Vernal City #9,State Treasurer,,REP,Marlo M. Oaks,432
+Uintah,Vernal City #10,State Treasurer,,REP,Marlo M. Oaks,326
+Uintah,Vernal City #11,State Treasurer,,REP,Marlo M. Oaks,288
+Uintah,Vernal City #12,State Treasurer,,REP,Marlo M. Oaks,251
+Uintah,Vernal City #13,State Treasurer,,REP,Marlo M. Oaks,275
+Uintah,Vernal City #14,State Treasurer,,REP,Marlo M. Oaks,162
+Uintah,Ashley East #15,State Treasurer,,REP,Marlo M. Oaks,451
+Uintah,Avalon Willows #16,State Treasurer,,REP,Marlo M. Oaks,96
+Uintah,Glines South #17,State Treasurer,,REP,Marlo M. Oaks,399
+Uintah,Fort Duchesne #18,State Treasurer,,REP,Marlo M. Oaks,172
+Uintah,Ballard #19,State Treasurer,,REP,Marlo M. Oaks,400
+Uintah,Whiterocks #20,State Treasurer,,REP,Marlo M. Oaks,59
+Uintah,Lapoint / Tridell #21,State Treasurer,,REP,Marlo M. Oaks,434
+Uintah,Ashley West #22,State Treasurer,,REP,Marlo M. Oaks,430
+Uintah,Glines North #23,State Treasurer,,REP,Marlo M. Oaks,375
+Uintah,Davis North #24,State Treasurer,,REP,Marlo M. Oaks,226
+Uintah,Maeser West #25,State Treasurer,,REP,Marlo M. Oaks,391
+Uintah,Southwest #26,State Treasurer,,REP,Marlo M. Oaks,456
+Uintah,Maeser North #27,State Treasurer,,REP,Marlo M. Oaks,462
+Uintah,Naples West #28,State Treasurer,,REP,Marlo M. Oaks,305
+Uintah,South East #29,State Treasurer,,REP,Marlo M. Oaks,216
+Uintah,Jensen #1,State Treasurer,,UUP,Thomas Alan Horne,7
+Uintah,Davis East #2,State Treasurer,,UUP,Thomas Alan Horne,5
+Uintah,Davis West #3,State Treasurer,,UUP,Thomas Alan Horne,4
+Uintah,Naples East #4,State Treasurer,,UUP,Thomas Alan Horne,8
+Uintah,South #5,State Treasurer,,UUP,Thomas Alan Horne,5
+Uintah,Maeser East #6,State Treasurer,,UUP,Thomas Alan Horne,7
+Uintah,Dry Fork #7,State Treasurer,,UUP,Thomas Alan Horne,4
+Uintah,Vernal City #8,State Treasurer,,UUP,Thomas Alan Horne,6
+Uintah,Vernal City #9,State Treasurer,,UUP,Thomas Alan Horne,16
+Uintah,Vernal City #10,State Treasurer,,UUP,Thomas Alan Horne,11
+Uintah,Vernal City #11,State Treasurer,,UUP,Thomas Alan Horne,12
+Uintah,Vernal City #12,State Treasurer,,UUP,Thomas Alan Horne,14
+Uintah,Vernal City #13,State Treasurer,,UUP,Thomas Alan Horne,8
+Uintah,Vernal City #14,State Treasurer,,UUP,Thomas Alan Horne,3
+Uintah,Ashley East #15,State Treasurer,,UUP,Thomas Alan Horne,3
+Uintah,Avalon Willows #16,State Treasurer,,UUP,Thomas Alan Horne,2
+Uintah,Glines South #17,State Treasurer,,UUP,Thomas Alan Horne,8
+Uintah,Fort Duchesne #18,State Treasurer,,UUP,Thomas Alan Horne,4
+Uintah,Ballard #19,State Treasurer,,UUP,Thomas Alan Horne,12
+Uintah,Whiterocks #20,State Treasurer,,UUP,Thomas Alan Horne,4
+Uintah,Lapoint / Tridell #21,State Treasurer,,UUP,Thomas Alan Horne,9
+Uintah,Ashley West #22,State Treasurer,,UUP,Thomas Alan Horne,9
+Uintah,Glines North #23,State Treasurer,,UUP,Thomas Alan Horne,8
+Uintah,Davis North #24,State Treasurer,,UUP,Thomas Alan Horne,1
+Uintah,Maeser West #25,State Treasurer,,UUP,Thomas Alan Horne,15
+Uintah,Southwest #26,State Treasurer,,UUP,Thomas Alan Horne,2
+Uintah,Maeser North #27,State Treasurer,,UUP,Thomas Alan Horne,6
+Uintah,Naples West #28,State Treasurer,,UUP,Thomas Alan Horne,9
+Uintah,South East #29,State Treasurer,,UUP,Thomas Alan Horne,7
+Uintah,Jensen #1,State Treasurer,,IAP,Warren T Rogers,10
+Uintah,Davis East #2,State Treasurer,,IAP,Warren T Rogers,6
+Uintah,Davis West #3,State Treasurer,,IAP,Warren T Rogers,15
+Uintah,Naples East #4,State Treasurer,,IAP,Warren T Rogers,13
+Uintah,South #5,State Treasurer,,IAP,Warren T Rogers,13
+Uintah,Maeser East #6,State Treasurer,,IAP,Warren T Rogers,17
+Uintah,Dry Fork #7,State Treasurer,,IAP,Warren T Rogers,8
+Uintah,Vernal City #8,State Treasurer,,IAP,Warren T Rogers,14
+Uintah,Vernal City #9,State Treasurer,,IAP,Warren T Rogers,19
+Uintah,Vernal City #10,State Treasurer,,IAP,Warren T Rogers,7
+Uintah,Vernal City #11,State Treasurer,,IAP,Warren T Rogers,9
+Uintah,Vernal City #12,State Treasurer,,IAP,Warren T Rogers,11
+Uintah,Vernal City #13,State Treasurer,,IAP,Warren T Rogers,18
+Uintah,Vernal City #14,State Treasurer,,IAP,Warren T Rogers,7
+Uintah,Ashley East #15,State Treasurer,,IAP,Warren T Rogers,9
+Uintah,Avalon Willows #16,State Treasurer,,IAP,Warren T Rogers,7
+Uintah,Glines South #17,State Treasurer,,IAP,Warren T Rogers,11
+Uintah,Fort Duchesne #18,State Treasurer,,IAP,Warren T Rogers,23
+Uintah,Ballard #19,State Treasurer,,IAP,Warren T Rogers,24
+Uintah,Whiterocks #20,State Treasurer,,IAP,Warren T Rogers,11
+Uintah,Lapoint / Tridell #21,State Treasurer,,IAP,Warren T Rogers,10
+Uintah,Ashley West #22,State Treasurer,,IAP,Warren T Rogers,10
+Uintah,Glines North #23,State Treasurer,,IAP,Warren T Rogers,12
+Uintah,Davis North #24,State Treasurer,,IAP,Warren T Rogers,8
+Uintah,Maeser West #25,State Treasurer,,IAP,Warren T Rogers,12
+Uintah,Southwest #26,State Treasurer,,IAP,Warren T Rogers,10
+Uintah,Maeser North #27,State Treasurer,,IAP,Warren T Rogers,7
+Uintah,Naples West #28,State Treasurer,,IAP,Warren T Rogers,9
+Uintah,South East #29,State Treasurer,,IAP,Warren T Rogers,7
+Uintah,Jensen #1,State Treasurer,,LIB,Joseph Geddes Buchman,14
+Uintah,Davis East #2,State Treasurer,,LIB,Joseph Geddes Buchman,16
+Uintah,Davis West #3,State Treasurer,,LIB,Joseph Geddes Buchman,23
+Uintah,Naples East #4,State Treasurer,,LIB,Joseph Geddes Buchman,17
+Uintah,South #5,State Treasurer,,LIB,Joseph Geddes Buchman,25
+Uintah,Maeser East #6,State Treasurer,,LIB,Joseph Geddes Buchman,19
+Uintah,Dry Fork #7,State Treasurer,,LIB,Joseph Geddes Buchman,4
+Uintah,Vernal City #8,State Treasurer,,LIB,Joseph Geddes Buchman,11
+Uintah,Vernal City #9,State Treasurer,,LIB,Joseph Geddes Buchman,28
+Uintah,Vernal City #10,State Treasurer,,LIB,Joseph Geddes Buchman,28
+Uintah,Vernal City #11,State Treasurer,,LIB,Joseph Geddes Buchman,28
+Uintah,Vernal City #12,State Treasurer,,LIB,Joseph Geddes Buchman,18
+Uintah,Vernal City #13,State Treasurer,,LIB,Joseph Geddes Buchman,32
+Uintah,Vernal City #14,State Treasurer,,LIB,Joseph Geddes Buchman,14
+Uintah,Ashley East #15,State Treasurer,,LIB,Joseph Geddes Buchman,15
+Uintah,Avalon Willows #16,State Treasurer,,LIB,Joseph Geddes Buchman,10
+Uintah,Glines South #17,State Treasurer,,LIB,Joseph Geddes Buchman,19
+Uintah,Fort Duchesne #18,State Treasurer,,LIB,Joseph Geddes Buchman,24
+Uintah,Ballard #19,State Treasurer,,LIB,Joseph Geddes Buchman,24
+Uintah,Whiterocks #20,State Treasurer,,LIB,Joseph Geddes Buchman,5
+Uintah,Lapoint / Tridell #21,State Treasurer,,LIB,Joseph Geddes Buchman,20
+Uintah,Ashley West #22,State Treasurer,,LIB,Joseph Geddes Buchman,10
+Uintah,Glines North #23,State Treasurer,,LIB,Joseph Geddes Buchman,20
+Uintah,Davis North #24,State Treasurer,,LIB,Joseph Geddes Buchman,12
+Uintah,Maeser West #25,State Treasurer,,LIB,Joseph Geddes Buchman,19
+Uintah,Southwest #26,State Treasurer,,LIB,Joseph Geddes Buchman,15
+Uintah,Maeser North #27,State Treasurer,,LIB,Joseph Geddes Buchman,17
+Uintah,Naples West #28,State Treasurer,,LIB,Joseph Geddes Buchman,19
+Uintah,South East #29,State Treasurer,,LIB,Joseph Geddes Buchman,12
+Uintah,Jensen #1,State Treasurer,,,Over Votes,0
+Uintah,Davis East #2,State Treasurer,,,Over Votes,0
+Uintah,Davis West #3,State Treasurer,,,Over Votes,0
+Uintah,Naples East #4,State Treasurer,,,Over Votes,0
+Uintah,South #5,State Treasurer,,,Over Votes,0
+Uintah,Maeser East #6,State Treasurer,,,Over Votes,0
+Uintah,Dry Fork #7,State Treasurer,,,Over Votes,0
+Uintah,Vernal City #8,State Treasurer,,,Over Votes,0
+Uintah,Vernal City #9,State Treasurer,,,Over Votes,0
+Uintah,Vernal City #10,State Treasurer,,,Over Votes,0
+Uintah,Vernal City #11,State Treasurer,,,Over Votes,0
+Uintah,Vernal City #12,State Treasurer,,,Over Votes,0
+Uintah,Vernal City #13,State Treasurer,,,Over Votes,0
+Uintah,Vernal City #14,State Treasurer,,,Over Votes,0
+Uintah,Ashley East #15,State Treasurer,,,Over Votes,0
+Uintah,Avalon Willows #16,State Treasurer,,,Over Votes,0
+Uintah,Glines South #17,State Treasurer,,,Over Votes,0
+Uintah,Fort Duchesne #18,State Treasurer,,,Over Votes,0
+Uintah,Ballard #19,State Treasurer,,,Over Votes,0
+Uintah,Whiterocks #20,State Treasurer,,,Over Votes,0
+Uintah,Lapoint / Tridell #21,State Treasurer,,,Over Votes,0
+Uintah,Ashley West #22,State Treasurer,,,Over Votes,0
+Uintah,Glines North #23,State Treasurer,,,Over Votes,0
+Uintah,Davis North #24,State Treasurer,,,Over Votes,0
+Uintah,Maeser West #25,State Treasurer,,,Over Votes,0
+Uintah,Southwest #26,State Treasurer,,,Over Votes,0
+Uintah,Maeser North #27,State Treasurer,,,Over Votes,0
+Uintah,Naples West #28,State Treasurer,,,Over Votes,0
+Uintah,South East #29,State Treasurer,,,Over Votes,0
+Uintah,Jensen #1,State Treasurer,,,Under Votes,14
+Uintah,Davis East #2,State Treasurer,,,Under Votes,16
+Uintah,Davis West #3,State Treasurer,,,Under Votes,8
+Uintah,Naples East #4,State Treasurer,,,Under Votes,8
+Uintah,South #5,State Treasurer,,,Under Votes,18
+Uintah,Maeser East #6,State Treasurer,,,Under Votes,19
+Uintah,Dry Fork #7,State Treasurer,,,Under Votes,10
+Uintah,Vernal City #8,State Treasurer,,,Under Votes,16
+Uintah,Vernal City #9,State Treasurer,,,Under Votes,20
+Uintah,Vernal City #10,State Treasurer,,,Under Votes,23
+Uintah,Vernal City #11,State Treasurer,,,Under Votes,12
+Uintah,Vernal City #12,State Treasurer,,,Under Votes,21
+Uintah,Vernal City #13,State Treasurer,,,Under Votes,15
+Uintah,Vernal City #14,State Treasurer,,,Under Votes,6
+Uintah,Ashley East #15,State Treasurer,,,Under Votes,26
+Uintah,Avalon Willows #16,State Treasurer,,,Under Votes,1
+Uintah,Glines South #17,State Treasurer,,,Under Votes,24
+Uintah,Fort Duchesne #18,State Treasurer,,,Under Votes,13
+Uintah,Ballard #19,State Treasurer,,,Under Votes,14
+Uintah,Whiterocks #20,State Treasurer,,,Under Votes,5
+Uintah,Lapoint / Tridell #21,State Treasurer,,,Under Votes,12
+Uintah,Ashley West #22,State Treasurer,,,Under Votes,16
+Uintah,Glines North #23,State Treasurer,,,Under Votes,20
+Uintah,Davis North #24,State Treasurer,,,Under Votes,7
+Uintah,Maeser West #25,State Treasurer,,,Under Votes,16
+Uintah,Southwest #26,State Treasurer,,,Under Votes,17
+Uintah,Maeser North #27,State Treasurer,,,Under Votes,24
+Uintah,Naples West #28,State Treasurer,,,Under Votes,15
+Uintah,South East #29,State Treasurer,,,Under Votes,14
+Uintah,Jensen #1,State Senate,20,REP,Ronald M. Winterton,355
+Uintah,Davis East #2,State Senate,20,REP,Ronald M. Winterton,352
+Uintah,Davis West #3,State Senate,20,REP,Ronald M. Winterton,355
+Uintah,Naples East #4,State Senate,20,REP,Ronald M. Winterton,429
+Uintah,South #5,State Senate,20,REP,Ronald M. Winterton,409
+Uintah,Maeser East #6,State Senate,20,REP,Ronald M. Winterton,453
+Uintah,Dry Fork #7,State Senate,20,REP,Ronald M. Winterton,153
+Uintah,Vernal City #8,State Senate,20,REP,Ronald M. Winterton,348
+Uintah,Vernal City #9,State Senate,20,REP,Ronald M. Winterton,437
+Uintah,Vernal City #10,State Senate,20,REP,Ronald M. Winterton,326
+Uintah,Vernal City #11,State Senate,20,REP,Ronald M. Winterton,283
+Uintah,Vernal City #12,State Senate,20,REP,Ronald M. Winterton,258
+Uintah,Vernal City #13,State Senate,20,REP,Ronald M. Winterton,273
+Uintah,Vernal City #14,State Senate,20,REP,Ronald M. Winterton,155
+Uintah,Ashley East #15,State Senate,20,REP,Ronald M. Winterton,453
+Uintah,Avalon Willows #16,State Senate,20,REP,Ronald M. Winterton,95
+Uintah,Glines South #17,State Senate,20,REP,Ronald M. Winterton,411
+Uintah,Fort Duchesne #18,State Senate,20,REP,Ronald M. Winterton,174
+Uintah,Ballard #19,State Senate,20,REP,Ronald M. Winterton,404
+Uintah,Whiterocks #20,State Senate,20,REP,Ronald M. Winterton,60
+Uintah,Lapoint / Tridell #21,State Senate,20,REP,Ronald M. Winterton,449
+Uintah,Ashley West #22,State Senate,20,REP,Ronald M. Winterton,426
+Uintah,Glines North #23,State Senate,20,REP,Ronald M. Winterton,382
+Uintah,Davis North #24,State Senate,20,REP,Ronald M. Winterton,229
+Uintah,Maeser West #25,State Senate,20,REP,Ronald M. Winterton,396
+Uintah,Southwest #26,State Senate,20,REP,Ronald M. Winterton,453
+Uintah,Maeser North #27,State Senate,20,REP,Ronald M. Winterton,465
+Uintah,Naples West #28,State Senate,20,REP,Ronald M. Winterton,306
+Uintah,South East #29,State Senate,20,REP,Ronald M. Winterton,215
+Uintah,Jensen #1,State Senate,20,DEM,Jill M. Fellow,40
+Uintah,Davis East #2,State Senate,20,DEM,Jill M. Fellow,32
+Uintah,Davis West #3,State Senate,20,DEM,Jill M. Fellow,37
+Uintah,Naples East #4,State Senate,20,DEM,Jill M. Fellow,21
+Uintah,South #5,State Senate,20,DEM,Jill M. Fellow,39
+Uintah,Maeser East #6,State Senate,20,DEM,Jill M. Fellow,56
+Uintah,Dry Fork #7,State Senate,20,DEM,Jill M. Fellow,23
+Uintah,Vernal City #8,State Senate,20,DEM,Jill M. Fellow,38
+Uintah,Vernal City #9,State Senate,20,DEM,Jill M. Fellow,69
+Uintah,Vernal City #10,State Senate,20,DEM,Jill M. Fellow,57
+Uintah,Vernal City #11,State Senate,20,DEM,Jill M. Fellow,56
+Uintah,Vernal City #12,State Senate,20,DEM,Jill M. Fellow,50
+Uintah,Vernal City #13,State Senate,20,DEM,Jill M. Fellow,66
+Uintah,Vernal City #14,State Senate,20,DEM,Jill M. Fellow,33
+Uintah,Ashley East #15,State Senate,20,DEM,Jill M. Fellow,41
+Uintah,Avalon Willows #16,State Senate,20,DEM,Jill M. Fellow,21
+Uintah,Glines South #17,State Senate,20,DEM,Jill M. Fellow,38
+Uintah,Fort Duchesne #18,State Senate,20,DEM,Jill M. Fellow,58
+Uintah,Ballard #19,State Senate,20,DEM,Jill M. Fellow,62
+Uintah,Whiterocks #20,State Senate,20,DEM,Jill M. Fellow,24
+Uintah,Lapoint / Tridell #21,State Senate,20,DEM,Jill M. Fellow,28
+Uintah,Ashley West #22,State Senate,20,DEM,Jill M. Fellow,37
+Uintah,Glines North #23,State Senate,20,DEM,Jill M. Fellow,39
+Uintah,Davis North #24,State Senate,20,DEM,Jill M. Fellow,18
+Uintah,Maeser West #25,State Senate,20,DEM,Jill M. Fellow,44
+Uintah,Southwest #26,State Senate,20,DEM,Jill M. Fellow,34
+Uintah,Maeser North #27,State Senate,20,DEM,Jill M. Fellow,42
+Uintah,Naples West #28,State Senate,20,DEM,Jill M. Fellow,44
+Uintah,South East #29,State Senate,20,DEM,Jill M. Fellow,32
+Uintah,Jensen #1,State Senate,20,,Over Votes,0
+Uintah,Davis East #2,State Senate,20,,Over Votes,0
+Uintah,Davis West #3,State Senate,20,,Over Votes,0
+Uintah,Naples East #4,State Senate,20,,Over Votes,0
+Uintah,South #5,State Senate,20,,Over Votes,0
+Uintah,Maeser East #6,State Senate,20,,Over Votes,0
+Uintah,Dry Fork #7,State Senate,20,,Over Votes,0
+Uintah,Vernal City #8,State Senate,20,,Over Votes,0
+Uintah,Vernal City #9,State Senate,20,,Over Votes,0
+Uintah,Vernal City #10,State Senate,20,,Over Votes,0
+Uintah,Vernal City #11,State Senate,20,,Over Votes,0
+Uintah,Vernal City #12,State Senate,20,,Over Votes,0
+Uintah,Vernal City #13,State Senate,20,,Over Votes,0
+Uintah,Vernal City #14,State Senate,20,,Over Votes,0
+Uintah,Ashley East #15,State Senate,20,,Over Votes,0
+Uintah,Avalon Willows #16,State Senate,20,,Over Votes,0
+Uintah,Glines South #17,State Senate,20,,Over Votes,0
+Uintah,Fort Duchesne #18,State Senate,20,,Over Votes,0
+Uintah,Ballard #19,State Senate,20,,Over Votes,0
+Uintah,Whiterocks #20,State Senate,20,,Over Votes,0
+Uintah,Lapoint / Tridell #21,State Senate,20,,Over Votes,0
+Uintah,Ashley West #22,State Senate,20,,Over Votes,0
+Uintah,Glines North #23,State Senate,20,,Over Votes,0
+Uintah,Davis North #24,State Senate,20,,Over Votes,0
+Uintah,Maeser West #25,State Senate,20,,Over Votes,0
+Uintah,Southwest #26,State Senate,20,,Over Votes,0
+Uintah,Maeser North #27,State Senate,20,,Over Votes,0
+Uintah,Naples West #28,State Senate,20,,Over Votes,0
+Uintah,South East #29,State Senate,20,,Over Votes,1
+Uintah,Jensen #1,State Senate,20,,Under Votes,4
+Uintah,Davis East #2,State Senate,20,,Under Votes,7
+Uintah,Davis West #3,State Senate,20,,Under Votes,10
+Uintah,Naples East #4,State Senate,20,,Under Votes,6
+Uintah,South #5,State Senate,20,,Under Votes,7
+Uintah,Maeser East #6,State Senate,20,,Under Votes,6
+Uintah,Dry Fork #7,State Senate,20,,Under Votes,5
+Uintah,Vernal City #8,State Senate,20,,Under Votes,9
+Uintah,Vernal City #9,State Senate,20,,Under Votes,9
+Uintah,Vernal City #10,State Senate,20,,Under Votes,12
+Uintah,Vernal City #11,State Senate,20,,Under Votes,10
+Uintah,Vernal City #12,State Senate,20,,Under Votes,7
+Uintah,Vernal City #13,State Senate,20,,Under Votes,9
+Uintah,Vernal City #14,State Senate,20,,Under Votes,4
+Uintah,Ashley East #15,State Senate,20,,Under Votes,10
+Uintah,Avalon Willows #16,State Senate,20,,Under Votes,0
+Uintah,Glines South #17,State Senate,20,,Under Votes,12
+Uintah,Fort Duchesne #18,State Senate,20,,Under Votes,4
+Uintah,Ballard #19,State Senate,20,,Under Votes,8
+Uintah,Whiterocks #20,State Senate,20,,Under Votes,0
+Uintah,Lapoint / Tridell #21,State Senate,20,,Under Votes,8
+Uintah,Ashley West #22,State Senate,20,,Under Votes,12
+Uintah,Glines North #23,State Senate,20,,Under Votes,14
+Uintah,Davis North #24,State Senate,20,,Under Votes,7
+Uintah,Maeser West #25,State Senate,20,,Under Votes,13
+Uintah,Southwest #26,State Senate,20,,Under Votes,13
+Uintah,Maeser North #27,State Senate,20,,Under Votes,9
+Uintah,Naples West #28,State Senate,20,,Under Votes,7
+Uintah,South East #29,State Senate,20,,Under Votes,8
+Uintah,Jensen #1,State House,68,REP,Scott H. Chew,369
+Uintah,Davis East #2,State House,68,REP,Scott H. Chew,360
+Uintah,Davis West #3,State House,68,REP,Scott H. Chew,377
+Uintah,Naples East #4,State House,68,REP,Scott H. Chew,435
+Uintah,South #5,State House,68,REP,Scott H. Chew,426
+Uintah,Maeser East #6,State House,68,REP,Scott H. Chew,477
+Uintah,Dry Fork #7,State House,68,REP,Scott H. Chew,164
+Uintah,Vernal City #8,State House,68,REP,Scott H. Chew,364
+Uintah,Vernal City #9,State House,68,REP,Scott H. Chew,464
+Uintah,Vernal City #10,State House,68,REP,Scott H. Chew,349
+Uintah,Vernal City #11,State House,68,REP,Scott H. Chew,321
+Uintah,Vernal City #12,State House,68,REP,Scott H. Chew,274
+Uintah,Vernal City #13,State House,68,REP,Scott H. Chew,293
+Uintah,Vernal City #14,State House,68,REP,Scott H. Chew,176
+Uintah,Ashley East #15,State House,68,REP,Scott H. Chew,462
+Uintah,Avalon Willows #16,State House,68,REP,Scott H. Chew,105
+Uintah,Glines South #17,State House,68,REP,Scott H. Chew,415
+Uintah,Fort Duchesne #18,State House,68,REP,Scott H. Chew,197
+Uintah,Ballard #19,State House,68,REP,Scott H. Chew,430
+Uintah,Whiterocks #20,State House,68,REP,Scott H. Chew,65
+Uintah,Lapoint / Tridell #21,State House,68,REP,Scott H. Chew,461
+Uintah,Ashley West #22,State House,68,REP,Scott H. Chew,445
+Uintah,Glines North #23,State House,68,REP,Scott H. Chew,392
+Uintah,Davis North #24,State House,68,REP,Scott H. Chew,227
+Uintah,Maeser West #25,State House,68,REP,Scott H. Chew,419
+Uintah,Southwest #26,State House,68,REP,Scott H. Chew,465
+Uintah,Maeser North #27,State House,68,REP,Scott H. Chew,480
+Uintah,Naples West #28,State House,68,REP,Scott H. Chew,323
+Uintah,South East #29,State House,68,REP,Scott H. Chew,236
+Uintah,Jensen #1,State House,68,,Over Votes,0
+Uintah,Davis East #2,State House,68,,Over Votes,0
+Uintah,Davis West #3,State House,68,,Over Votes,0
+Uintah,Naples East #4,State House,68,,Over Votes,0
+Uintah,South #5,State House,68,,Over Votes,0
+Uintah,Maeser East #6,State House,68,,Over Votes,0
+Uintah,Dry Fork #7,State House,68,,Over Votes,0
+Uintah,Vernal City #8,State House,68,,Over Votes,0
+Uintah,Vernal City #9,State House,68,,Over Votes,0
+Uintah,Vernal City #10,State House,68,,Over Votes,0
+Uintah,Vernal City #11,State House,68,,Over Votes,0
+Uintah,Vernal City #12,State House,68,,Over Votes,0
+Uintah,Vernal City #13,State House,68,,Over Votes,0
+Uintah,Vernal City #14,State House,68,,Over Votes,0
+Uintah,Ashley East #15,State House,68,,Over Votes,0
+Uintah,Avalon Willows #16,State House,68,,Over Votes,0
+Uintah,Glines South #17,State House,68,,Over Votes,0
+Uintah,Fort Duchesne #18,State House,68,,Over Votes,0
+Uintah,Ballard #19,State House,68,,Over Votes,0
+Uintah,Whiterocks #20,State House,68,,Over Votes,0
+Uintah,Lapoint / Tridell #21,State House,68,,Over Votes,0
+Uintah,Ashley West #22,State House,68,,Over Votes,0
+Uintah,Glines North #23,State House,68,,Over Votes,0
+Uintah,Davis North #24,State House,68,,Over Votes,0
+Uintah,Maeser West #25,State House,68,,Over Votes,0
+Uintah,Southwest #26,State House,68,,Over Votes,0
+Uintah,Maeser North #27,State House,68,,Over Votes,0
+Uintah,Naples West #28,State House,68,,Over Votes,0
+Uintah,South East #29,State House,68,,Over Votes,0
+Uintah,Jensen #1,State House,68,,Under Votes,30
+Uintah,Davis East #2,State House,68,,Under Votes,31
+Uintah,Davis West #3,State House,68,,Under Votes,25
+Uintah,Naples East #4,State House,68,,Under Votes,21
+Uintah,South #5,State House,68,,Under Votes,29
+Uintah,Maeser East #6,State House,68,,Under Votes,38
+Uintah,Dry Fork #7,State House,68,,Under Votes,17
+Uintah,Vernal City #8,State House,68,,Under Votes,31
+Uintah,Vernal City #9,State House,68,,Under Votes,51
+Uintah,Vernal City #10,State House,68,,Under Votes,46
+Uintah,Vernal City #11,State House,68,,Under Votes,28
+Uintah,Vernal City #12,State House,68,,Under Votes,41
+Uintah,Vernal City #13,State House,68,,Under Votes,55
+Uintah,Vernal City #14,State House,68,,Under Votes,16
+Uintah,Ashley East #15,State House,68,,Under Votes,42
+Uintah,Avalon Willows #16,State House,68,,Under Votes,11
+Uintah,Glines South #17,State House,68,,Under Votes,46
+Uintah,Fort Duchesne #18,State House,68,,Under Votes,39
+Uintah,Ballard #19,State House,68,,Under Votes,44
+Uintah,Whiterocks #20,State House,68,,Under Votes,19
+Uintah,Lapoint / Tridell #21,State House,68,,Under Votes,24
+Uintah,Ashley West #22,State House,68,,Under Votes,30
+Uintah,Glines North #23,State House,68,,Under Votes,43
+Uintah,Davis North #24,State House,68,,Under Votes,27
+Uintah,Maeser West #25,State House,68,,Under Votes,34
+Uintah,Southwest #26,State House,68,,Under Votes,35
+Uintah,Maeser North #27,State House,68,,Under Votes,36
+Uintah,Naples West #28,State House,68,,Under Votes,34
+Uintah,South East #29,State House,68,,Under Votes,20
