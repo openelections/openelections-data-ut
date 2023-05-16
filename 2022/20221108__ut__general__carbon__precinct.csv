@@ -1,0 +1,809 @@
+county,precinct,office,district,party,candidate,votes
+Carbon,Scofield/Clear Creek 02,Registered Voters,,,,32
+Carbon,Scofield/Clear Creek 02,Ballots Cast,,,,23
+Carbon,Scofield/Clear Creek 02,Paper Ballots Cast,,,,15
+Carbon,Scofield/Clear Creek 02,Ballots Cast - Blank,,,,0
+Carbon,Scofield/Clear Creek 02,Paper Ballots Cast - Blank,,,,0
+Carbon,Scofield/Clear Creek 02,U.S. Senate,,IND,EVAN MCMULLIN,8
+Carbon,Scofield/Clear Creek 02,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
+Carbon,Scofield/Clear Creek 02,U.S. Senate,,REP,MIKE LEE,14
+Carbon,Scofield/Clear Creek 02,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Carbon,Scofield/Clear Creek 02,U.S. Senate,,,Write-ins,0
+Carbon,Scofield/Clear Creek 02,U.S. House,3,IAP,AARON HEINEMAN,0
+Carbon,Scofield/Clear Creek 02,U.S. House,3,DEM,GLENN J. WRIGHT,3
+Carbon,Scofield/Clear Creek 02,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,0
+Carbon,Scofield/Clear Creek 02,U.S. House,3,REP,JOHN CURTIS,17
+Carbon,Scofield/Clear Creek 02,U.S. House,3,LIB,MICHAEL R. STODDARD,2
+Carbon,Scofield/Clear Creek 02,State Treasurer,,REP,MARLO M. OAKS,19
+Carbon,Scofield/Clear Creek 02,State Treasurer,,UUP,THOMAS ALAN HORNE,0
+Carbon,Scofield/Clear Creek 02,State Treasurer,,IAP,WARREN T ROGERS,2
+Carbon,Scofield/Clear Creek 02,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,1
+Carbon,Scofield/Clear Creek 02,State House,67,REP,CHRISTINE F. WATKINS,21
+Carbon,Scofield/Clear Creek 02,State School Board,14,REP,EMILY GREEN,17
+Carbon,Scofield/Clear Creek 02,State School Board,14,LIB,RICHARD JENSEN,4
+Carbon,Scofield/Clear Creek 02,Commission,,IAP,LITA RILEY,1
+Carbon,Scofield/Clear Creek 02,Commission,,DEM,ED CHAVEZ,3
+Carbon,Scofield/Clear Creek 02,Commission,,REP,LARRY G. JENSEN,17
+Carbon,Scofield/Clear Creek 02,Commissioner/Surveyor,,LIB,FUZZY NANCE,6
+Carbon,Scofield/Clear Creek 02,Commissioner/Surveyor,,REP,TONY MARTINES,15
+Carbon,Scofield/Clear Creek 02,Commissioner/Surveyor,,,Write-ins,2
+Carbon,Scofield/Clear Creek 02,County Attorney,,REP,CHRISTIAN B. BRYNER,20
+Carbon,Scofield/Clear Creek 02,Clerk/Auditor,,REP,SETH MARSING,21
+Carbon,Scofield/Clear Creek 02,Sheriff,,,ZACHARY PALACIOS,4
+Carbon,Scofield/Clear Creek 02,Sheriff,,REP,JEFFREY L. WOOD,19
+Carbon,Scofield/Clear Creek 02,PAIGE PETERSEN Judicial Retention,,,YES,17
+Carbon,Scofield/Clear Creek 02,PAIGE PETERSEN Judicial Retention,,,NO,5
+Carbon,Scofield/Clear Creek 02,DON M.TORGERSON Judicial Retention,,,YES,14
+Carbon,Scofield/Clear Creek 02,DON M.TORGERSON Judicial Retention,,,NO,7
+Carbon,Scofield/Clear Creek 02,GEORGE M. HARMOND Judicial Retention,,,YES,18
+Carbon,Scofield/Clear Creek 02,GEORGE M. HARMOND Judicial Retention,,,NO,3
+Carbon,Scofield/Clear Creek 02,Constitutional Amendment A,,,FOR,3
+Carbon,Scofield/Clear Creek 02,Constitutional Amendment A,,,AGAINST,19
+Carbon,Pleasant Valley 03,Registered Voters,,,,32
+Carbon,Pleasant Valley 03,Ballots Cast,,,,24
+Carbon,Pleasant Valley 03,Paper Ballots Cast,,,,17
+Carbon,Pleasant Valley 03,Ballots Cast - Blank,,,,0
+Carbon,Pleasant Valley 03,Paper Ballots Cast - Blank,,,,0
+Carbon,Pleasant Valley 03,U.S. Senate,,IND,EVAN MCMULLIN,9
+Carbon,Pleasant Valley 03,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,0
+Carbon,Pleasant Valley 03,U.S. Senate,,REP,MIKE LEE,15
+Carbon,Pleasant Valley 03,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Carbon,Pleasant Valley 03,U.S. Senate,,,Write-ins,0
+Carbon,Pleasant Valley 03,U.S. House,3,IAP,AARON HEINEMAN,0
+Carbon,Pleasant Valley 03,U.S. House,3,DEM,GLENN J. WRIGHT,6
+Carbon,Pleasant Valley 03,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,1
+Carbon,Pleasant Valley 03,U.S. House,3,REP,JOHN CURTIS,17
+Carbon,Pleasant Valley 03,U.S. House,3,LIB,MICHAEL R. STODDARD,0
+Carbon,Pleasant Valley 03,State Treasurer,,REP,MARLO M. OAKS,17
+Carbon,Pleasant Valley 03,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+Carbon,Pleasant Valley 03,State Treasurer,,IAP,WARREN T ROGERS,1
+Carbon,Pleasant Valley 03,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,2
+Carbon,Pleasant Valley 03,State House,67,REP,CHRISTINE F. WATKINS,20
+Carbon,Pleasant Valley 03,State School Board,14,REP,EMILY GREEN,19
+Carbon,Pleasant Valley 03,State School Board,14,LIB,RICHARD JENSEN,4
+Carbon,Pleasant Valley 03,Commission,,IAP,LITA RILEY,3
+Carbon,Pleasant Valley 03,Commission,,DEM,ED CHAVEZ,9
+Carbon,Pleasant Valley 03,Commission,,REP,LARRY G. JENSEN,12
+Carbon,Pleasant Valley 03,Commissioner/Surveyor,,LIB,FUZZY NANCE,8
+Carbon,Pleasant Valley 03,Commissioner/Surveyor,,REP,TONY MARTINES,10
+Carbon,Pleasant Valley 03,Commissioner/Surveyor,,,Write-ins,5
+Carbon,Pleasant Valley 03,County Attorney,,REP,CHRISTIAN B. BRYNER,22
+Carbon,Pleasant Valley 03,Clerk/Auditor,,REP,SETH MARSING,21
+Carbon,Pleasant Valley 03,Sheriff,,,ZACHARY PALACIOS,8
+Carbon,Pleasant Valley 03,Sheriff,,REP,JEFFREY L. WOOD,16
+Carbon,Pleasant Valley 03,PAIGE PETERSEN Judicial Retention,,,YES,18
+Carbon,Pleasant Valley 03,PAIGE PETERSEN Judicial Retention,,,NO,3
+Carbon,Pleasant Valley 03,DON M.TORGERSON Judicial Retention,,,YES,16
+Carbon,Pleasant Valley 03,DON M.TORGERSON Judicial Retention,,,NO,6
+Carbon,Pleasant Valley 03,GEORGE M. HARMOND Judicial Retention,,,YES,16
+Carbon,Pleasant Valley 03,GEORGE M. HARMOND Judicial Retention,,,NO,6
+Carbon,Pleasant Valley 03,Constitutional Amendment A,,,FOR,12
+Carbon,Pleasant Valley 03,Constitutional Amendment A,,,AGAINST,11
+Carbon,Wellington 19,Registered Voters,,,,824
+Carbon,Wellington 19,Ballots Cast,,,,471
+Carbon,Wellington 19,Paper Ballots Cast,,,,131
+Carbon,Wellington 19,Ballots Cast - Blank,,,,1
+Carbon,Wellington 19,Paper Ballots Cast - Blank,,,,1
+Carbon,Wellington 19,U.S. Senate,,IND,EVAN MCMULLIN,107
+Carbon,Wellington 19,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,17
+Carbon,Wellington 19,U.S. Senate,,REP,MIKE LEE,334
+Carbon,Wellington 19,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+Carbon,Wellington 19,U.S. Senate,,,Write-ins,1
+Carbon,Wellington 19,U.S. House,3,IAP,AARON HEINEMAN,6
+Carbon,Wellington 19,U.S. House,3,DEM,GLENN J. WRIGHT,70
+Carbon,Wellington 19,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,12
+Carbon,Wellington 19,U.S. House,3,REP,JOHN CURTIS,358
+Carbon,Wellington 19,U.S. House,3,LIB,MICHAEL R. STODDARO,13
+Carbon,Wellington 19,State Treasurer,,REP,MARLO M. OAKS,353
+Carbon,Wellington 19,State Treasurer,,UUP,THOMAS ALAN HORNE,27
+Carbon,Wellington 19,State Treasurer,,IAP,WARREN T ROGERS,25
+Carbon,Wellington 19,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,34
+Carbon,Wellington 19,State House,67,REP,CHRISTINE F. WATKINS,417
+Carbon,Wellington 19,State School Board,14,REP,EMILY GREEN,332
+Carbon,Wellington 19,State School Board,14,LIB,RICHARD JENSEN,107
+Carbon,Wellington 19,Commission,,IAP,LITA RILEY,57
+Carbon,Wellington 19,Commission,,DEM,ED CHAVEZ,129
+Carbon,Wellington 19,Commission,,REP,LARRY G. JENSEN,274
+Carbon,Wellington 19,Commissioner/Surveyor,,LIB,FUZZY NANCE,124
+Carbon,Wellington 19,Commissioner/Surveyor,,REP,TONY MARTINES,287
+Carbon,Wellington 19,Commissioner/Surveyor,,,Write-ins,44
+Carbon,Wellington 19,County Attorney,,REP,CHRISTIAN B. BRYNER,416
+Carbon,Wellington 19,Clerk/Auditor,,REP,SETH MARSING,406
+Carbon,Wellington 19,Sheriff,,,ZACHARY PALACIOS,198
+Carbon,Wellington 19,Sheriff,,REP,JEFFREY L. WOOD,264
+Carbon,Wellington 19,School Board District 5,,,NICOLE HOBBS,403
+Carbon,Wellington 19,PAIGE PETERSEN Judicial Retention,,,YES,364
+Carbon,Wellington 19,PAIGE PETERSEN Judicial Retention,,,NO,67
+Carbon,Wellington 19,DON M.TORGERSON Judicial Retention,,,YES,325
+Carbon,Wellington 19,DON M.TORGERSON Judicial Retention,,,NO,112
+Carbon,Wellington 19,GEORGE M. HARMOND Judicial Retention,,,YES,346
+Carbon,Wellington 19,GEORGE M. HARMOND Judicial Retention,,,NO,96
+Carbon,Wellington 19,Constitutional Amendment A,,,FOR,154
+Carbon,Wellington 19,Constitutional Amendment A,,,AGAINST,286
+Carbon,East County 22,Registered Voters,,,,748
+Carbon,East County 22,Ballots Cast,,,,512
+Carbon,East County 22,Paper Ballots Cast,,,,275
+Carbon,East County 22,Ballots Cast - Blank,,,,0
+Carbon,East County 22,Paper Ballots Cast - Blank,,,,0
+Carbon,East County 22,U.S. Senate,,IND,EVAN MCMULLIN,107
+Carbon,East County 22,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,13
+Carbon,East County 22,U.S. Senate,,REP,MIKE LEE,376
+Carbon,East County 22,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+Carbon,East County 22,U.S. Senate,,,Write-ins,4
+Carbon,East County 22,U.S. House,3,IAP,AARON HEINEMAN,6
+Carbon,East County 22,U.S. House,3,DEM,GLENN J. WRIGHT,65
+Carbon,East County 22,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,7
+Carbon,East County 22,U.S. House,3,REP,JOHN CURTIS,408
+Carbon,East County 22,U.S. House,3,LIB,MICHAEL R. STODDARD,13
+Carbon,East County 22,State Treasurer,,REP,MARLO M. OAKS,415
+Carbon,East County 22,State Treasurer,,UUP,THOMAS ALAN HORNE,20
+Carbon,East County 22,State Treasurer,,IAP,WARREN T ROGERS,22
+Carbon,East County 22,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,34
+Carbon,East County 22,State House,67,REP,CHRISTINE F. WATKINS,461
+Carbon,East County 22,State School Board,14,REP,EMILY GREEN,407
+Carbon,East County 22,State School Board,14,LIB,RICHARD JENSEN,80
+Carbon,East County 22,Commission,,IAP,LITA RILEY,50
+Carbon,East County 22,Commission,,DEM,ED CHAVEZ,158
+Carbon,East County 22,Commission,,REP,LARRY G. JENSEN,294
+Carbon,East County 22,Commissioner/Surveyor,,LIB,FUZZY NANCE,147
+Carbon,East County 22,Commissioner/Surveyor,,REP,TONY MARTINES,278
+Carbon,East County 22,Commissioner/Surveyor,,,Write-ins,72
+Carbon,East County 22,County Attorney,,REP,CHRISTIAN B. BRYNER,453
+Carbon,East County 22,Clerk/Auditor,,REP,SETH MARSING,483
+Carbon,East County 22,Sheriff,,,ZACHARY PALACIOS,248
+Carbon,East County 22,Sheriff,,REP,JEFFREY L. WOOD,250
+Carbon,East County 22,School Board District 5,,,NICOLE HOBBS,439
+Carbon,East County 22,PAIGE PETERSEN Judicial Retention,,,YES,398
+Carbon,East County 22,PAIGE PETERSEN Judicial Retention,,,NO,77
+Carbon,East County 22,DON M.TORGERSON Judicial Retention,,,YES,357
+Carbon,East County 22,DON M.TORGERSON Judicial Retention,,,NO,128
+Carbon,East County 22,GEORGE M. HARMOND Judicial Retention,,,YES,361
+Carbon,East County 22,GEORGE M. HARMOND Judicial Retention,,,NO,131
+Carbon,East County 22,Constitutional Amendment A,,,FOR,161
+Carbon,East County 22,Constitutional Amendment A,,,AGAINST,333
+Carbon,South Price 16,Registered Voters,,,,735
+Carbon,South Price 16,Ballots Cast,,,,385
+Carbon,South Price 16,Paper Ballots Cast,,,,163
+Carbon,South Price 16,Ballots Cast - Blank,,,,0
+Carbon,South Price 16,Paper Ballots Cast - Blank,,,,0
+Carbon,South Price 16,U.S. Senate,,IND,EVAN MCMULLIN,117
+Carbon,South Price 16,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,20
+Carbon,South Price 16,U.S. Senate,,REP,MIKE LEE,237
+Carbon,South Price 16,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+Carbon,South Price 16,U.S. Senate,,,Write-ins,1
+Carbon,South Price 16,U.S. House,3,IAP,AARON HEINEMAN,10
+Carbon,South Price 16,U.S. House,3,DEM,GLENN J. WRIGHT,77
+Carbon,South Price 16,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,8
+Carbon,South Price 16,U.S. House,3,REP,JOHN CURTIS,260
+Carbon,South Price 16,U.S. House,3,LIB,MICHAEL R. STODDARD,19
+Carbon,South Price 16,State Treasurer,,REP,MARLO M. OAKS,261
+Carbon,South Price 16,State Treasurer,,UUP,THOMAS ALAN HORNE,19
+Carbon,South Price 16,State Treasurer,,IAP,WARREN T ROGERS,28
+Carbon,South Price 16,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,45
+Carbon,South Price 16,State House,67,REP,CHRISTINE F. WATKINS,314
+Carbon,South Price 16,State School Board,14,REP,EMILY GREEN,257
+Carbon,South Price 16,State School Board,14,LIB,RICHARD JENSEN,99
+Carbon,South Price 16,Commission,,IAP,LITA RILEY,34
+Carbon,South Price 16,Commission,,DEM,ED CHAVEZ,121
+Carbon,South Price 16,Commission,,REP,LARRY G. JENSEN,225
+Carbon,South Price 16,Commissioner/Surveyor,,LIB,FUZZY NANCE,118
+Carbon,South Price 16,Commissioner/Surveyor,,REP,TONY MARTINES,227
+Carbon,South Price 16,Commissioner/Surveyor,,,Write-ins,22
+Carbon,South Price 16,County Attorney,,REP,CHRISTIAN B. BRYNER,323
+Carbon,South Price 16,Clerk/Auditor,,REP,SETH MARSING,315
+Carbon,South Price 16,Sheriff,,,ZACHARY PALACIOS,88
+Carbon,South Price 16,Sheriff,,REP,JEFFREY L. WOOD,15
+Carbon,South Price 16,PAIGE PETERSEN Judicial Retention,,,YES,285
+Carbon,South Price 16,PAIGE PETERSEN Judicial Retention,,,NO,63
+Carbon,South Price 16,DON M.TORGERSON Judicial Retention,,,YES,252
+Carbon,South Price 16,DON M.TORGERSON Judicial Retention,,,NO,104
+Carbon,South Price 16,GEORGE M. HARMOND Judicial Retention,,,YES,267
+Carbon,South Price 16,GEORGE M. HARMOND Judicial Retention,,,NO,94
+Carbon,South Price 16,Constitutional Amendment A,,,FOR,135
+Carbon,South Price 16,Constitutional Amendment A,,,AGAINST,222
+Carbon,East Price 17,Registered Voters,,,,676
+Carbon,East Price 17,Ballots Cast,,,,376
+Carbon,East Price 17,Paper Ballots Cast,,,,187
+Carbon,East Price 17,Ballots Cast - Blank,,,,0
+Carbon,East Price 17,Paper Ballots Cast - Blank,,,,0
+Carbon,East Price 17,U.S. Senate,,IND,EVAN MCMULLIN,127
+Carbon,East Price 17,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,21
+Carbon,East Price 17,U.S. Senate,,REP,MIKE LEE,214
+Carbon,East Price 17,U.S. Senate,,IAP,TOMMY WILLIAMS,10
+Carbon,East Price 17,U.S. Senate,,,Write-ins,1
+Carbon,East Price 17,U.S. Senate,,,Abraham Korb,0
+Carbon,East Price 17,U.S. House,3,IAP,AARON HEINEMAN,10
+Carbon,East Price 17,U.S. House,3,DEM,GLENN J. WRIGHT,94
+Carbon,East Price 17,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,6
+Carbon,East Price 17,U.S. House,3,REP,JOHN CURTIS,243
+Carbon,East Price 17,U.S. House,3,LIB,MICHAEL R. STODDARD,17
+Carbon,East Price 17,State Treasurer,,REP,MARLO M. OAKS,248
+Carbon,East Price 17,State Treasurer,,UUP,THOMAS ALAN HORNE,22
+Carbon,East Price 17,State Treasurer,,IAP,WARREN T ROGERS,24
+Carbon,East Price 17,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,58
+Carbon,East Price 17,State House,67,REP,CHRISTINE F. WATKINS,326
+Carbon,East Price 17,State School Board,14,REP,EMILY GREEN,245
+Carbon,East Price 17,State School Board,14,LIB,RICHARD JENSEN,111
+Carbon,East Price 17,Commission,,IAP,LITA RILEY,33
+Carbon,East Price 17,Commission,,DEM,ED CHAVEZ,125
+Carbon,East Price 17,Commission,,REP,LARRY G. JENSEN,211
+Carbon,East Price 17,Commissioner/Surveyor,,LIB,FUZZY NANCE,140
+Carbon,East Price 17,Commissioner/Surveyor,,REP,TONY MARTINES,204
+Carbon,East Price 17,Commissioner/Surveyor,,,Write-ins,16
+Carbon,East Price 17,County Attorney,,REP,CHRISTIAN B. BRYNER,326
+Carbon,East Price 17,Clerk/Auditor,,REP,SETH MARSING,315
+Carbon,East Price 17,Sheriff,,,ZACHARY PALACIOS,207
+Carbon,East Price 17,Sheriff,,REP,JEFFREY L. WOOD,164
+Carbon,East Price 17,PAIGE PETERSEN Judicial Retention,,,YES,299
+Carbon,East Price 17,PAIGE PETERSEN Judicial Retention,,,NO,52
+Carbon,East Price 17,DON M.TORGERSON Judicial Retention,,,YES,271
+Carbon,East Price 17,GEORGE M. HARMOND Judicial Retention,,i,YES,284
+Carbon,East Price 17,GEORGE M. HARMOND Judicial Retention,,,NO,75
+Carbon,East Price 17,Constitutional Amendment A,,,FOR,151
+Carbon,East Price 17,Constitutional Amendment A,,,AGAINST,202
+Carbon,Castle Heights North 30,Registered Voters,,,,671
+Carbon,Castle Heights North 30,Ballots Cast,,,,421
+Carbon,Castle Heights North 30,Paper Ballots Cast,,,,138
+Carbon,Castle Heights North 30,Ballots Cast - Blank,,,,0
+Carbon,Castle Heights North 30,Paper Ballots Cast - Blank,,,,0
+Carbon,Castle Heights North 30,U.S. Senate,,IND,EVAN MCMULLIN,117
+Carbon,Castle Heights North 30,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,12
+Carbon,Castle Heights North 30,U.S. Senate,,REP,MIKE LEE,284
+Carbon,Castle Heights North 30,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+Carbon,Castle Heights North 30,U.S. Senate,,,Write-ins,0
+Carbon,Castle Heights North 30,U.S. House,3,IAP,AARON HEINEMAN,7
+Carbon,Castle Heights North 30,U.S. House,3,DEM,GLENN J. WRIGHT,65
+Carbon,Castle Heights North 30,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,9
+Carbon,Castle Heights North 30,U.S. House,3,REP,JOHN CURTIS,327
+Carbon,Castle Heights North 30,U.S. House,3,LIB,MICHAEL R. STODDARD,8
+Carbon,Castle Heights North 30,State Treasurer,,REP,MARLO M. OAKS,320
+Carbon,Castle Heights North 30,State Treasurer,,UUP,THOMAS ALAN HORNE,15
+Carbon,Castle Heights North 30,State Treasurer,,IAP,WARREN T ROGERS,24
+Carbon,Castle Heights North 30,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,32
+Carbon,Castle Heights North 30,State House,67,REP,CHRISTINE F. WATKINS,347
+Carbon,Castle Heights North 30,State School Board,14,REP,EMILY GREEN,326
+Carbon,Castle Heights North 30,State School Board,14,LIB,RICHARD JENSEN,61
+Carbon,Castle Heights North 30,Commission,,IAP,LITA RILEY,26
+Carbon,Castle Heights North 30,Commission,,DEM,ED CHAVEZ,105
+Carbon,Castle Heights North 30,Commission,,REP,LARRY G. JENSEN,279
+Carbon,Castle Heights North 30,Commissioner/Surveyor,,LIB,FUZZY NANCE,115
+Carbon,Castle Heights North 30,Commissioner/Surveyor,,REP,TONY MARTINES,271
+Carbon,Castle Heights North 30,Commissioner/Surveyor,,,Write-ins,19
+Carbon,Castle Heights North 30,County Attorney,,REP,CHRISTIAN B. BRYNER,376
+Carbon,Castle Heights North 30,Clerk/Auditor,,REP,SETH MARSING,364
+Carbon,Castle Heights North 30,Sheriff,,,ZACHARY PALACIOS,190
+Carbon,Castle Heights North 30,Sheriff,,REP,JEFFREY L. WOOD,225
+Carbon,Castle Heights North 30,School Board District 4,,,WAYNE E. WOODWARD,356
+Carbon,Castle Heights North 30,PAIGE PETERSEN Judicial Retention,,,YES,352
+Carbon,Castle Heights North 30,PAIGE PETERSEN Judicial Retention,,,NO,38
+Carbon,Castle Heights North 30,DON M.TORGERSON Judicial Retention,,,YES,319
+Carbon,Castle Heights North 30,DON M.TORGERSON Judicial Retention,,,NO,74
+Carbon,Castle Heights North 30,GEORGE M. HARMOND Judicial Retention,,,YES,322
+Carbon,Castle Heights North 30,GEORGE M. HARMOND Judicial Retention,,,NO,74
+Carbon,Castle Heights North 30,Constitutional Amendment A,,,FOR,151
+Carbon,Castle Heights North 30,Constitutional Amendment A,,,AGAINST,242
+Carbon,Central Price 31,Registered Voters,,,,367
+Carbon,Central Price 31,Ballots Cast,,,,225
+Carbon,Central Price 31,Paper Ballots Cast,,,,116
+Carbon,Central Price 31,Ballots Cast - Blank,,,,0
+Carbon,Central Price 31,Paper Ballots Cast - Blank,,,,0
+Carbon,Central Price 31,U.S. Senate,,IND,EVAN MCMULLIN,97
+Carbon,Central Price 31,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,9
+Carbon,Central Price 31,U.S. Senate,,REP,MIKE LEE,111
+Carbon,Central Price 31,U.S. Senate,,IAP,TOMMY WILLIAMS,5
+Carbon,Central Price 31,U.S. Senate,,,Write-ins,1
+Carbon,Central Price 31,U.S. House,3,IAP,AARON HEINEMAN,5
+Carbon,Central Price 31,U.S. House,3,DEM,GLENN J. WRIGHT,56
+Carbon,Central Price 31,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Carbon,Central Price 31,U.S. House,3,REP,JOHN CURTIS,144
+Carbon,Central Price 31,U.S. House,3,LIB,MICHAEL R. STODDARD,13
+Carbon,Central Price 31,State Treasurer,,REP,MARLO M. OAKS,134
+Carbon,Central Price 31,State Treasurer,,UUP,THOMAS ALAN HORNE,19
+Carbon,Central Price 31,State Treasurer,,IAP,WARREN T ROGERS,28
+Carbon,Central Price 31,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,23
+Carbon,Central Price 31,State House,67,REP,CHRISTINE F. WATKINS,186
+Carbon,Central Price 31,State School Board,14,REP,EMILY GREEN,138
+Carbon,Central Price 31,State School Board,14,LIB,RICHARD JENSEN,68
+Carbon,Central Price 31,Commission,,IAP,LITA RILEY,37
+Carbon,Central Price 31,Commission,,DEM,ED CHAVEZ,77
+Carbon,Central Price 31,Commission,,REP,LARRY G. JENSEN,108
+Carbon,Central Price 31,Commissioner/Surveyor,,LIB,FUZZY NANCE,87
+Carbon,Central Price 31,Commissioner/Surveyor,,REP,TONY MARTINES,112
+Carbon,Central Price 31,Commissioner/Surveyor,,,Write-ins,13
+Carbon,Central Price 31,County Attorney,,REP,CHRISTIAN B. BRYNER,191
+Carbon,Central Price 31,Clerk/Auditor,,REP,SETH MARSING,191
+Carbon,Central Price 31,Sherlff,,,ZACHARY PALACIOS,114
+Carbon,Central Price 31,Sherlff,,REP,JEFFREY L. WOOD,107
+Carbon,Central Price 31,PAIGE PETERSEN Judicial Retention,,,YES,170
+Carbon,Central Price 31,PAIGE PETERSEN Judicial Retention,,,NO,44
+Carbon,Central Price 31,DON M.TORGERSON Judicial Retention,,,YES,154
+Carbon,Central Price 31,DON M.TORGERSON Judicial Retention,,,NO,60
+Carbon,Central Price 31,GEORGE M. HARMOND Judicial Retention,,,YES,161
+Carbon,Central Price 31,GEORGE M. HARMOND Judicial Retention,,,NO,53
+Carbon,Central Price 31,Constitutional Amendment A,,,FOR,92
+Carbon,Central Price 31,Constitutional Amendment A,,,AGAINST,119
+Carbon,Northeast Price 32,Registered Voters,,,,551
+Carbon,Northeast Price 32,Ballots Cast,,,,349
+Carbon,Northeast Price 32,Paper Ballots Cast,,,,228
+Carbon,Northeast Price 32,Ballots Cast - Blank,,,,0
+Carbon,Northeast Price 32,Paper Ballots Cast - Blank,,,,0
+Carbon,Northeast Price 32,U.S. Senate,,IND,EVAN MCMULLIN,130
+Carbon,Northeast Price 32,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,11
+Carbon,Northeast Price 32,U.S. Senate,,REP,MIKE LEE,201
+Carbon,Northeast Price 32,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+Carbon,Northeast Price 32,U.S. Senate,,,Write-ins,0
+Carbon,Northeast Price 32,U.S. House,3,IAP,AARON HEINEMAN,8
+Carbon,Northeast Price 32,U.S. House,3,DEM,GLENN J. WRIGHT,95
+Carbon,Northeast Price 32,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,1
+Carbon,Northeast Price 32,U.S. House,3,REP,JOHN CURTIS,223
+Carbon,Northeast Price 32,U.S. House,3,LIB,MICHAEL R. STODDARD,10
+Carbon,Northeast Price 32,State Treasurer,,REP,MARLO M. OAKS,235
+Carbon,Northeast Price 32,State Treasurer,,UUP,THOMAS ALAN HORNE,25
+Carbon,Northeast Price 32,State Treasurer,,IAP,WARREN T ROGERS,29
+Carbon,Northeast Price 32,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,34
+Carbon,Northeast Price 32,State House,67,REP,CHRISTINE F. WATKINS,286
+Carbon,Northeast Price 32,State School Board,14,REP,EMILY GREEN,230
+Carbon,Northeast Price 32,State School Board,14,LIB,RICHARD JENSEN,91
+Carbon,Northeast Price 32,Commission,,IAP,LITA RILEY,41
+Carbon,Northeast Price 32,Commission,,DEM,ED CHAVEZ,114
+Carbon,Northeast Price 32,Commission,,REP,LARRY G. JENSEN,183
+Carbon,Northeast Price 32,Commissioner/Surveyor,,LIB,FUZZY NANCE,122
+Carbon,Northeast Price 32,Commissioner/Surveyor,,REP,TONY MARTINES,186
+Carbon,Northeast Price 32,Commissioner/Surveyor,,,Write-ins,25
+Carbon,Northeast Price 32,County Attorney,,REP,CHRISTIAN B. BRYNER,299
+Carbon,Northeast Price 32,Clerk/Auditor,,REP,SETH MARSING,286
+Carbon,Northeast Price 32,Sheriff,,,ZACHARY PALACIOS,157
+Carbon,Northeast Price 32,Sheriff,,REP,JEFFREY L. WOOD,186
+Carbon,Northeast Price 32,School Board District 4,,,WAYNE E. WOODWARD,276
+Carbon,Northeast Price 32,PAIGE PETERSEN Judicial Retention,,,YES,274
+Carbon,Northeast Price 32,PAIGE PETERSEN Judicial Retention,,,NO,44
+Carbon,Northeast Price 32,DON M.TORGERSON Judicial Retention,,,YES,230
+Carbon,Northeast Price 32,DON M.TORGERSON Judicial Retention,,,NO,87
+Carbon,Northeast Price 32,GEORGE M. HARMOND Judicial Retention,,,YES,251
+Carbon,Northeast Price 32,GEORGE M. HARMOND Judicial Retention,,,NO,75
+Carbon,Northeast Price 32,Constitutional Amendment A,,,FOR,119
+Carbon,Northeast Price 32,Constitutional Amendment A,,,AGAINST,203
+Carbon,North Price 33,Registered Voters,,,,486
+Carbon,North Price 33,Ballots Cast,,,,307
+Carbon,North Price 33,Paper Ballots Cast,,,,65
+Carbon,North Price 33,Ballots Cast - Blank,,,,0
+Carbon,North Price 33,Paper Ballots Cast - Blank,,,,0
+Carbon,North Price 33,U.S. Senate,,IND,EVAN MCMULLIN,99
+Carbon,North Price 33,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,6
+Carbon,North Price 33,U.S. Senate,,REP,MIKE LEE,196
+Carbon,North Price 33,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Carbon,North Price 33,U.S. Senate,,,Write-ins,2
+Carbon,North Price 33,U.S. House,3,IAP,AARON HEINEMAN,2
+Carbon,North Price 33,U.S. House,3,DEM,GLENN J. WRIGHT,53
+Carbon,North Price 33,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,5
+Carbon,North Price 33,U.S. House,3,REP,JOHN CURTIS,238
+Carbon,North Price 33,U.S. House,3,LIB,MICHAEL R. STODDARD,6
+Carbon,North Price 33,State Treasurer,,REP,MARLO M. OAKS,228
+Carbon,North Price 33,State Treasurer,,UUP,THOMAS ALAN HORNE,17
+Carbon,North Price 33,State Treasurer,,IAP,WARREN T ROGERS,17
+Carbon,North Price 33,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,20
+Carbon,North Price 33,State House,67,REP,CHRISTINE F. WATKINS,259
+Carbon,North Price 33,State School Board,14,REP,EMILY GREEN,222
+Carbon,North Price 33,State School Board,14,LIB,RICHARD JENSEN,63
+Carbon,North Price 33,Commission,,IAP,LITA RILEY,11
+Carbon,North Price 33,Commission,,DEM,ED CHAVEZ,94
+Carbon,North Price 33,Commission,,REP,LARRY G. JENSEN,198
+Carbon,North Price 33,Commissioner/Surveyor,,LIB,FUZZY NANCE,82
+Carbon,North Price 33,Commissioner/Surveyor,,REP,TONY MARTINES,185
+Carbon,North Price 33,Commissioner/Surveyor,,,Write-ins,25
+Carbon,North Price 33,County Attorney,,REP,CHRISTIAN B. BRYNER,271
+Carbon,North Price 33,Clerk/Auditor,,REP,SETH MARSING,256
+Carbon,North Price 33,Sheriff,,,ZACHARY PALACIOS,121
+Carbon,North Price 33,Sheriff,,REP,JEFFREY L. WOOD,185
+Carbon,North Price 33,School Board District 4,,,WAYNE E. WOODWARD,254
+Carbon,North Price 33,PAIGE PETERSEN Judicial Retention,,,YES,257
+Carbon,North Price 33,PAIGE PETERSEN Judicial Retention,,,NO,2
+Carbon,North Price 33,DON M.TORGERSON Judicial Retention,,,YES,241
+Carbon,North Price 33,DON M.TORGERSON Judicial Retention,,,NO,45
+Carbon,North Price 33,GEORGE M. HARMOND Judicial Retention,,,YES,245
+Carbon,North Price 33,GEORGE M. HARMOND Judicial Retention,,,No,50
+Carbon,North Price 33,Constitutional Amendment A,,,FOR,111
+Carbon,North Price 33,Constitutional Amendment A,,,AGAINST,174
+Carbon,Castle Heights 34,Registered Voters,,,,561
+Carbon,Castle Heights 34,Ballots Cast,,,,348
+Carbon,Castle Heights 34,Paper Ballots Cast,,,,75
+Carbon,Castle Heights 34,Ballots Cast - Blank,,,,0
+Carbon,Castle Heights 34,Paper Ballots Cast - Blank,,,,0
+Carbon,Castle Heights 34,U.S. Senate,,IND,EVAN MCMULLIN,101
+Carbon,Castle Heights 34,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,13
+Carbon,Castle Heights 34,U.S. Senate,,REP,MIKE LEE,228
+Carbon,Castle Heights 34,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Carbon,Castle Heights 34,U.S. Senate,,,Write-ins,1
+Carbon,Castle Heights 34,U.S. House,3,IAP,AARON HEINEMAN,1
+Carbon,Castle Heights 34,U.S. House,3,DEM,GLENN J. WRIGHT,53
+Carbon,Castle Heights 34,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,4
+Carbon,Castle Heights 34,U.S. House,3,REP,JOHN CURTIS,265
+Carbon,Castle Heights 34,U.S. House,3,LIB,MICHAEL R. STODDARD,17
+Carbon,Castle Heights 34,State Treasurer,,REP,MARLO M. OAKS,261
+Carbon,Castle Heights 34,State Treasurer,,UUP,THOMAS ALAN HORNE,11
+Carbon,Castle Heights 34,State Treasurer,,IAP,WARREN T ROGERS,17
+Carbon,Castle Heights 34,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,36
+Carbon,Castle Heights 34,State House,67,REP,CHRISTINE F. WATKINS,311
+Carbon,Castle Heights 34,State School Board,14,REP,EMILY GREEN,255
+Carbon,Castle Heights 34,State School Board,14,LIB,RICHARD JENSEN,80
+Carbon,Castle Heights 34,Commission,,IAP,LITA RILEY,41
+Carbon,Castle Heights 34,Commission,,DEM,ED CHAVEZ,81
+Carbon,Castle Heights 34,Commission,,REP,LARRY G. JENSEN,218
+Carbon,Castle Heights 34,Commissioner/Surveyor,,LIB,FUZZY NANCE,88
+Carbon,Castle Heights 34,Commissioner/Surveyor,,REP,TONY MARTINES,218
+Carbon,Castle Heights 34,Commissioner/Surveyor,,,Write-ins,33
+Carbon,Castle Heights 34,County Attorney,,REP,CHRISTIAN B. BRYNER,321
+Carbon,Castle Heights 34,Clerk/Auditor,,REP,SETH MARSING,313
+Carbon,Castle Heights 34,Sheriff,,,ZACHARY PALACIOS,133
+Carbon,Castle Heights 34,Sheriff,,REP,JEFFREY L. WOOD,211
+Carbon,Castle Heights 34,School Board District 4,,,WAYNE E. WOODWARD,306
+Carbon,Castle Heights 34,PAIGE PETERSEN Judicial Retention,,,YES,287
+Carbon,Castle Heights 34,PAIGE PETERSEN Judicial Retention,,,NO,37
+Carbon,Castle Heights 34,DON M.TORGERSON Judicial Retention,,,YES,263
+Carbon,Castle Heights 34,DON M.TORGERSON Judicial Retention,,,NO,66
+Carbon,Castle Heights 34,GEORGE M. HARMOND Judicial Retention,,,YES,262
+Carbon,Castle Heights 34,GEORGE M. HARMOND Judicial Retention,,,NO,72
+Carbon,Castle Heights 34,Constitutional Amendment A,,,FOR,140
+Carbon,Castle Heights 34,Constitutional Amendment A,,,AGAINST,191
+Carbon,West Helper 21,Registered Voters,,,,666
+Carbon,West Helper 21,Ballots Cast,,,,376
+Carbon,West Helper 21,Paper Ballots Cast,,,,73
+Carbon,West Helper 21,Ballots Cast - Blank,,,,0
+Carbon,West Helper 21,Paper Ballots Cast - Blank,,,,0
+Carbon,West Helper 21,U.S. Senate,,IND,EVAN MCMULLIN,168
+Carbon,West Helper 21,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,15
+Carbon,West Helper 21,U.S. Senate,,REP,MIKE LEE,183
+Carbon,West Helper 21,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+Carbon,West Helper 21,U.S. Senate,,,Write-ins,0
+Carbon,West Helper 21,U.S. House,3,IAP,AARON HEINEMAN,8
+Carbon,West Helper 21,U.S. House,3,DEM,GLENN J. WRIGHT,134
+Carbon,West Helper 21,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,7
+Carbon,West Helper 21,U.S. House,3,REP,JOHN CURTIS,207
+Carbon,West Helper 21,U.S. House,3,LIB,MICHAEL R. STODDARD,8
+Carbon,West Helper 21,State Treasurer,,REP,MARLO M. OAKS,221
+Carbon,West Helper 21,State Treasurer,,UUP,THOMAS ALAN HORNE,36
+Carbon,West Helper 21,State Treasurer,,IAP,WARREN T ROGERS,31
+Carbon,West Helper 21,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,52
+Carbon,West Helper 21,State House,67,REP,CHRISTINE F. WATKINS,308
+Carbon,West Helper 21,State School Board,14,REP,EMILY GREEN,221
+Carbon,West Helper 21,State School Board,14,LIB,RICHARD JENSEN,119
+Carbon,West Helper 21,Commission,,IAP,LITA RILEY,35
+Carbon,West Helper 21,Commission,,DEM,ED CHAVEZ,170
+Carbon,West Helper 21,Commission,,REP,LARRY G. JENSEN,159
+Carbon,West Helper 21,Commissioner/Surveyor,,LIB,FUZZY NANCE,136
+Carbon,West Helper 21,Commissioner/Surveyor,,REP,TONY MARTINES,191
+Carbon,West Helper 21,Commissioner/Surveyor,,,Write-ins,30
+Carbon,West Helper 21,County Attorney,,REP,CHRISTIAN B. BRYNER,314
+Carbon,West Helper 21,Clerk/Auditor,,REP,SETH MARSING,306
+Carbon,West Helper 21,Sheriff,,,ZACHARY PALACIOS,193
+Carbon,West Helper 21,Sheriff,,REP,JEFFREY L. WOOD,178
+Carbon,West Helper 21,PAIGE PETERSEN Judicial Retention,,,YES,284
+Carbon,West Helper 21,PAIGE PETERSEN Judicial Retention,,,NO,67
+Carbon,West Helper 21,DON M.TORGERSON Judicial Retention,,,YES,248
+Carbon,West Helper 21,DON M.TORGERSON Judicial Retention,,,NO,103
+Carbon,West Helper 21,GEORGE M. HARMOND Judicial Retention,,,YES,257
+Carbon,West Helper 21,GEORGE M. HARMOND Judicial Retention,,,NO,102
+Carbon,West Helper 21,Constitutional Amendment A,,,FOR,143
+Carbon,West Helper 21,Constitutional Amendment A,,,AGAINST,211
+Carbon,East Helper 07,Registered Voters,,,,525
+Carbon,East Helper 07,Ballots Cast,,,,315
+Carbon,East Helper 07,Paper Ballots Cast,,,,75
+Carbon,East Helper 07,Ballots Cast - Blank,,,,0
+Carbon,East Helper 07,Paper Ballots Cast - Blank,,,,0
+Carbon,East Helper 07,U.S. Senate,,IND,EVAN MCMULLIN,130
+Carbon,East Helper 07,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,21
+Carbon,East Helper 07,U.S. Senate,,REP,MIKE LEE,150
+Carbon,East Helper 07,U.S. Senate,,IAP,TOMMY WILLIAMS,10
+Carbon,East Helper 07,U.S. Senate,,,Write-ins,1
+Carbon,East Helper 07,U.S. House,3,IAP,AARON HEINEMAN,6
+Carbon,East Helper 07,U.S. House,3,DEM,GLENN J. WRIGHT,108
+Carbon,East Helper 07,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,1
+Carbon,East Helper 07,U.S. House,3,REP,JOHN CURTIS,181
+Carbon,East Helper 07,U.S. House,3,LIB,MICHAEL R. STODDARD,11
+Carbon,East Helper 07,State Treasurer,,REP,MARLO M. OAKS,175
+Carbon,East Helper 07,State Treasurer,,UUP,THOMAS ALAN HORNE,24
+Carbon,East Helper 07,State Treasurer,,IAP,WARREN T ROGERS,35
+Carbon,East Helper 07,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,58
+Carbon,East Helper 07,State House,67,REP,CHRISTINE F. WATKINS,245
+Carbon,East Helper 07,State School Board,14,REP,EMILY GREEN,187
+Carbon,East Helper 07,State School Board,14,LIB,RICHARD JENSEN,105
+Carbon,East Helper 07,Commission,,IAP,LITA RILEY,45
+Carbon,East Helper 07,Commission,,DEM,ED CHAVEZ,146
+Carbon,East Helper 07,Commission,,REP,LARRY G. JENSEN,116
+Carbon,East Helper 07,Commissioner/Surveyor,,LIB,FUZZY NANCE,145
+Carbon,East Helper 07,Commissioner/Surveyor,,REP,TONY MARTINES,131
+Carbon,East Helper 07,Commissioner/Surveyor,,,Write-ins,22
+Carbon,East Helper 07,County Attorney,,REP,CHRISTIAN B. BRYNER,247
+Carbon,East Helper 07,Clerk/Auditor,,REP,SETH MARSING,248
+Carbon,East Helper 07,Sheriff,,,ZACHARY PALACIOS,173
+Carbon,East Helper 07,Sheriff,,REP,JEFFREY L. WOOD,134
+Carbon,East Helper 07,PAIGE PETERSEN Judicial Retention,,,YES,208
+Carbon,East Helper 07,PAIGE PETERSEN Judicial Retention,,,NO,82
+Carbon,East Helper 07,DON M.TORGERSON Judicial Retention,,,YES,170
+Carbon,East Helper 07,DON M.TORGERSON Judicial Retention,,,NO,122
+Carbon,East Helper 07,GEORGE M. HARMOND Judicial Retention,,,YES,193
+Carbon,East Helper 07,GEORGE M. HARMOND Judicial Retention,,,NO,102
+Carbon,East Helper 07,Constitutional Amendment A,,,FOR,111
+Carbon,East Helper 07,Constitutional Amendment A,,,AGAINST,177
+Carbon,Spring Glen 37,Registered Voters,,,,831
+Carbon,Spring Glen 37,Ballots Cast,,,,533
+Carbon,Spring Glen 37,Paper Ballots Cast,,,,218
+Carbon,Spring Glen 37,Ballots Cast - Blank,,,,0
+Carbon,Spring Glen 37,Paper Ballots Cast - Blank,,,,0
+Carbon,Spring Glen 37,U.S. Senate,,IND,EVAN MCMULLIN,154
+Carbon,Spring Glen 37,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,15
+Carbon,Spring Glen 37,U.S. Senate,,REP,MIKE LEE,354
+Carbon,Spring Glen 37,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+Carbon,Spring Glen 37,U.S. Senate,,,Write-ins,1
+Carbon,Spring Glen 37,U.S. House,3,IAP,AARON HEINEMAN,4
+Carbon,Spring Glen 37,U.S. House,3,DEM,GLENN J. WRIGHT,107
+Carbon,Spring Glen 37,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,20
+Carbon,Spring Glen 37,U.S. House,3,REP,JOHN CURTIS,372
+Carbon,Spring Glen 37,U.S. House,3,LIB,MICHAEL R. STODDARD,18
+Carbon,Spring Glen 37,State Treasurer,,REP,MARLO M. OAKS,377
+Carbon,Spring Glen 37,State Treasurer,,UUP,THOMAS ALAN HORNE,26
+Carbon,Spring Glen 37,State Treasurer,,IAP,WARREN T ROGERS,41
+Carbon,Spring Glen 37,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,49
+Carbon,Spring Glen 37,State House,67,REP,CHRISTINE F. WATKINS,462
+Carbon,Spring Glen 37,State School Board,14,REP,EMILY GREEN,382
+Carbon,Spring Glen 37,State School Board,14,LIB,RICHARD JENSEN,110
+Carbon,Spring Glen 37,Commission,,IAP,LITA RILEY,69
+Carbon,Spring Glen 37,Commission,,DEM,ED CHAVEZ,217
+Carbon,Spring Glen 37,Commission,,REP,LARRY G. JENSEN,236
+Carbon,Spring Glen 37,Commissioner/Surveyor,,LIB,FUZZY NANCE,187
+Carbon,Spring Glen 37,Commissioner/Surveyor,,REP,TONY MARTINES,228
+Carbon,Spring Glen 37,Commissioner/Surveyor,,,Write-ins,98
+Carbon,Spring Glen 37,County Attorney,,REP,CHRISTIAN B. BRYNER,452
+Carbon,Spring Glen 37,Clerk/Auditor,,REP,SETH MARSING,448
+Carbon,Spring Glen 37,Sheriff,,,ZACHARY PALACIOS,260
+Carbon,Spring Glen 37,Sheriff,,REP,JEFFREY L. WOOD,272
+Carbon,Spring Glen 37,PAIGE PETERSEN Judicial Retention,,,YES,404
+Carbon,Spring Glen 37,PAIGE PETERSEN Judicial Retention,,,NO,85
+Carbon,Spring Glen 37,DON M.TORGERSON Judicial Retention,,,YES,378
+Carbon,Spring Glen 37,DON M.TORGERSON Judicial Retention,,,NO,124
+Carbon,Spring Glen 37,GEORGE M. HARMOND Judicial Retention,,,YES,417
+Carbon,Spring Glen 37,GEORGE M. HARMOND Judicial Retention,,,NO,89
+Carbon,Spring Glen 37,Constitutional Amendment A,,,FOR,177
+Carbon,Spring Glen 37,Constitutional Amendment A,,,AGAINST,325
+Carbon,East Carbon 20,Registered Voters,,,,786
+Carbon,East Carbon 20,Ballots Cast,,,,504
+Carbon,East Carbon 20,Paper Ballots Cast,,,,464
+Carbon,East Carbon 20,Ballots Cast - Blank,,,,0
+Carbon,East Carbon 20,Paper Ballots Cast - Blank,,,,0
+Carbon,East Carbon 20,U.S. Senate,,IND,EVAN MCMULLIN,198
+Carbon,East Carbon 20,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,16
+Carbon,East Carbon 20,U.S. Senate,,REP,MIKE LEE,266
+Carbon,East Carbon 20,U.S. Senate,,IAP,TOMMY WILLIAMS,16
+Carbon,East Carbon 20,U.S. Senate,,,Write-ins,1
+Carbon,East Carbon 20,U.S. House,3,IAP,AARON HEINEMAN,11
+Carbon,East Carbon 20,U.S. House,3,DEM,GLENN J. WRIGHT,148
+Carbon,East Carbon 20,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,6
+Carbon,East Carbon 20,U.S. House,3,REP,JOHN CURTIS,310
+Carbon,East Carbon 20,U.S. House,3,LIB,MICHAEL R. STODDARD,15
+Carbon,East Carbon 20,State Treasurer,,REP,MARLO M. OAKS,316
+Carbon,East Carbon 20,State Treasurer,,UUP,THOMAS ALAN HORNE,33
+Carbon,East Carbon 20,State Treasurer,,IAP,WARREN T ROGERS,57
+Carbon,East Carbon 20,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,58
+Carbon,East Carbon 20,State House,67,REP,CHRISTINE F. WATKINS,414
+Carbon,East Carbon 20,State School Board,14,REP,EMILY GREEN,324
+Carbon,East Carbon 20,State School Board,14,LIB,RICHARD JENSEN,142
+Carbon,East Carbon 20,Commission,,IAP,LITA RILEY,28
+Carbon,East Carbon 20,Commission,,DEM,ED CHAVEZ,208
+Carbon,East Carbon 20,Commission,,REP,LARRY G. JENSEN,251
+Carbon,East Carbon 20,Commissioner/Surveyor,,LIB,FUZZY NANCE,134
+Carbon,East Carbon 20,Commissioner/Surveyor,,REP,TONY MARTINES,301
+Carbon,East Carbon 20,Commissioner/Surveyor,,,Write-ins,47
+Carbon,East Carbon 20,County Attorney,,REP,CHRISTIAN B. BRYNER,387
+Carbon,East Carbon 20,Clerk/Auditor,,REP,SETH MARSING,389
+Carbon,East Carbon 20,Sheriff,,,ZACHARY PALACIOS,300
+Carbon,East Carbon 20,Sheriff,,REP,JEFFREY L. WOOD,195
+Carbon,East Carbon 20,School Board District 5,,,NICOLE HOBBS,389
+Carbon,East Carbon 20,PAIGE PETERSEN Judicial Retention,,,YES,379
+Carbon,East Carbon 20,PAIGE PETERSEN Judicial Retention,,,NO,0
+Carbon,East Carbon 20,DON M.TORGERSON Judicial Retention,,,YES,331
+Carbon,East Carbon 20,DON M.TORGERSON Judicial Retention,,,,132
+Carbon,East Carbon 20,GEORGE M. HARMOND Judicial Retention,,,YES,371
+Carbon,East Carbon 20,GEORGE M. HARMOND Judicial Retention,,,NO,99
+Carbon,East Carbon 20,Constitutional Amendment A,,,FOR,159
+Carbon,East Carbon 20,Constitutional Amendment A,,,AGAINST,302
+Carbon,Fairgrounds 27,Registered Voters,,,,308
+Carbon,Fairgrounds 27,Ballots Cast,,,,202
+Carbon,Fairgrounds 27,Paper Ballots Cast,,,,85
+Carbon,Fairgrounds 27,Ballots Cast - Blank,,,,0
+Carbon,Fairgrounds 27,Paper Ballots Cast - Blank,,,,0
+Carbon,Fairgrounds 27,U.S. Senate,,IND,EVAN MCMULLIN,70
+Carbon,Fairgrounds 27,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,6
+Carbon,Fairgrounds 27,U.S. Senate,,REP,MIKE LEE,122
+Carbon,Fairgrounds 27,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Carbon,Fairgrounds 27,U.S. Senate,,,Write-ins,0
+Carbon,Fairgrounds 27,U.S. House,3,IAP,AARON HEINEMAN,3
+Carbon,Fairgrounds 27,U.S. House,3,DEM,GLENN J. WRIGHT,34
+Carbon,Fairgrounds 27,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,0
+Carbon,Fairgrounds 27,U.S. House,3,REP,JOHN CURTIS,158
+Carbon,Fairgrounds 27,U.S. House,3,LIB,MICHAEL R. STODDARD,4
+Carbon,Fairgrounds 27,State Treasurer,,REP,MARLO M. OAKS,148
+Carbon,Fairgrounds 27,State Treasurer,,UUP,THOMAS ALAN HORNE,14
+Carbon,Fairgrounds 27,State Treasurer,,IAP,WARREN T ROGERS,12
+Carbon,Fairgrounds 27,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,14
+Carbon,Fairgrounds 27,State House,67,REP,CHRISTINE F. WATKINS,180
+Carbon,Fairgrounds 27,State School Board,14,REP,EMILY GREEN,146
+Carbon,Fairgrounds 27,State School Board,14,LIB,RICHARD JENSEN,41
+Carbon,Fairgrounds 27,Commission,,IAP,LITA RILEY,17
+Carbon,Fairgrounds 27,Commission,,DEM,ED CHAVEZ,67
+Carbon,Fairgrounds 27,Commission,,REP,LARRY G. JENSEN,115
+Carbon,Fairgrounds 27,Commissioner/Surveyor,,LIB,FUZZY NANCE,56
+Carbon,Fairgrounds 27,Commissioner/Surveyor,,REP,TONY MARTINES,130
+Carbon,Fairgrounds 27,Commissioner/Surveyor,,,Write-ins,16
+Carbon,Fairgrounds 27,County Attorney,,REP,CHRISTIAN B. BRYNER,176
+Carbon,Fairgrounds 27,Clerk/Auditor,,REP,SETH MARSING,176
+Carbon,Fairgrounds 27,Sheriff,,,ZACHARY PALACIOS,81
+Carbon,Fairgrounds 27,Sheriff,,REP,JEFFREY L. WOOD,120
+Carbon,Fairgrounds 27,PAIGE PETERSEN Judicial Retention,,,YES,154
+Carbon,Fairgrounds 27,PAIGE PETERSEN Judicial Retention,,,,33
+Carbon,Fairgrounds 27,DON M.TORGERSON Judicial Retention,,,YES,146
+Carbon,Fairgrounds 27,DON M.TORGERSON Judicial Retention,,,NO,42
+Carbon,Fairgrounds 27,GEORGE M. HARMOND Judicial Retention,,,YES,158
+Carbon,Fairgrounds 27,GEORGE M. HARMOND Judicial Retention,,,NO,36
+Carbon,Fairgrounds 27,Constitutional Amendment A,,,FOR,75
+Carbon,Fairgrounds 27,Constitutional Amendment A,,,AGAINST,109
+Carbon,South County 36,Registered Voters,,,,548
+Carbon,South County 36,Ballots Cast,,,,350
+Carbon,South County 36,Paper Ballots Cast,,,,107
+Carbon,South County 36,Ballots Cast - Blank,,,,0
+Carbon,South County 36,Paper Ballots Cast - Blank,,,,0
+Carbon,South County 36,U.S. Senate,,IND,EVAN MCMULLIN,93
+Carbon,South County 36,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,7
+Carbon,South County 36,U.S. Senate,,REP,MIKE LEE,239
+Carbon,South County 36,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+Carbon,South County 36,U.S. Senate,,,Write-ins,0
+Carbon,South County 36,U.S. House,3,IAP,AARON HEINEMAN,2
+Carbon,South County 36,U.S. House,3,DEM,GLENN J. WRIGHT,58
+Carbon,South County 36,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,8
+Carbon,South County 36,U.S. House,3,REP,JOHN CURTIS,268
+Carbon,South County 36,U.S. House,3,LIB,MICHAEL R. STODDARD,10
+Carbon,South County 36,State Treasurer,,REP,MARLO M. OAKS,268
+Carbon,South County 36,State Treasurer,,UUP,THOMAS ALAN HORNE,13
+Carbon,South County 36,State Treasurer,,IAP,WARREN T ROGERS,17
+Carbon,South County 36,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,35
+Carbon,South County 36,State House,67,REP,CHRISTINE F. WATKINS,311
+Carbon,South County 36,State School Board,14,REP,EMILY GREEN,268
+Carbon,South County 36,State School Board,14,LIB,RICHARD JENSEN,65
+Carbon,South County 36,Commission,,IAP,LITA RILEY,38
+Carbon,South County 36,Commission,,DEM,ED CHAVEZ,108
+Carbon,South County 36,Commission,,REP,LARRY G. JENSEN,199
+Carbon,South County 36,Commissioner/Surveyor,,LIB,FUZZY NANCE,104
+Carbon,South County 36,Commissioner/Surveyor,,REP,TONY MARTINES,189
+Carbon,South County 36,Commissioner/Surveyor,,,Write-ins,44
+Carbon,South County 36,County Attorney,,REP,CHRISTIAN B. BRYNER,313
+Carbon,South County 36,Clerk/Auditor,,REP,SETH MARSING,301
+Carbon,South County 36,Sheriff,,,ZACHARY PALACIOS,158
+Carbon,South County 36,Sheriff,,REP,JEFFREY L. WOOD,186
+Carbon,South County 36,PAIGE PETERSEN Judicial Retention,,,YES,279
+Carbon,South County 36,PAIGE PETERSEN Judicial Retention,,,NO,47
+Carbon,South County 36,DON M.TORGERSON Judicial Retention,,,YES,257
+Carbon,South County 36,DON M.TORGERSON Judicial Retention,,,NO,71
+Carbon,South County 36,GEORGE M. HARMOND Judicial Retention,,,YES,262
+Carbon,South County 36,GEORGE M. HARMOND Judicial Retention,,,NO,75
+Carbon,South County 36,Constitutional Amendment A,,,FOR,109
+Carbon,South County 36,Constitutional Amendment A,,,AGAINST,223
+Carbon,Carbonville 38,Registered Voters,,,,781
+Carbon,Carbonville 38,Ballots Cast,,,,499
+Carbon,Carbonville 38,Paper Ballots Cast,,,,296
+Carbon,Carbonville 38,Ballots Cast - Blank,,,,0
+Carbon,Carbonville 38,Paper Ballots Cast - Blank,,,,0
+Carbon,Carbonville 38,U.S. Senate,,IND,EVAN MCMULLIN,130
+Carbon,Carbonville 38,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,14
+Carbon,Carbonville 38,U.S. Senate,,REP,MIKE LEE,334
+Carbon,Carbonville 38,U.S. Senate,,IAP,TOMMY WILLIAMS,10
+Carbon,Carbonville 38,U.S. Senate,,,Write-ins,1
+Carbon,Carbonville 38,U.S. House,3,IAP,AARON HEINEMAN,13
+Carbon,Carbonville 38,U.S. House,3,DEM,GLENN J. WRIGHT,78
+Carbon,Carbonville 38,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,6
+Carbon,Carbonville 38,U.S. House,3,REP,JOHN CURTIS,371
+Carbon,Carbonville 38,U.S. House,3,LIB,MICHAEL R. STODDARD,15
+Carbon,Carbonville 38,State Treasurer,,REP,MARLO M. OAKS,359
+Carbon,Carbonville 38,State Treasurer,,UUP,THOMAS ALAN HORNE,25
+Carbon,Carbonville 38,State Treasurer,,IAP,WARREN T ROGERS,41
+Carbon,Carbonville 38,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,32
+Carbon,Carbonville 38,State House,67,REP,CHRISTINE F. WATKINS,424
+Carbon,Carbonville 38,State School Board,14,REP,EMILY GREEN,376
+Carbon,Carbonville 38,State School Board,14,LIB,RICHARD JENSEN,87
+Carbon,Carbonville 38,Commission,,IAP,LITA RILEY,42
+Carbon,Carbonville 38,Commission,,DEM,ED CHAVEZ,150
+Carbon,Carbonville 38,Commission,,REP,LARRY G. JENSEN,294
+Carbon,Carbonville 38,Commissioner/Surveyor,,LIB,FUZZY NANCE,141
+Carbon,Carbonville 38,Commissioner/Surveyor,,REP,TONY MARTINES,276
+Carbon,Carbonville 38,Commissioner/Surveyor,,,Write-ins,60
+Carbon,Carbonville 38,County Attorney,,REP,CHRISTIAN B. BRYNER,424
+Carbon,Carbonville 38,Clerk/Auditor,,REP,SETH MARSING,419
+Carbon,Carbonville 38,Sheriff,,,ZACHARY PALACIOS,231
+Carbon,Carbonville 38,Sheriff,,REP,JEFFREY L. WOOD,263
+Carbon,Carbonville 38,PAIGE PETERSEN Judicial Retention,,,YES,351
+Carbon,Carbonville 38,PAIGE PETERSEN Judicial Retention,,,NO,91
+Carbon,Carbonville 38,DON M.TORGERSON Judicial Retention,,,YES,336
+Carbon,Carbonville 38,DON M.TORGERSON Judicial Retention,,,NO,120
+Carbon,Carbonville 38,GEORGE M. HARMOND Judicial Retention,,,YES,353
+Carbon,Carbonville 38,GEORGE M. HARMOND Judicial Retention,,,NO,123
+Carbon,Carbonville 38,Constitutional Amendment A,,,FOR,166
+Carbon,Carbonville 38,Constitutional Amendment A,,,AGAINST,303
+Carbon,Westwood 39,Registered Voters,,,,736
+Carbon,Westwood 39,Ballots Cast,,,,456
+Carbon,Westwood 39,Paper Ballots Cast,,,,122
+Carbon,Westwood 39,Ballots Cast - Blank,,,,0
+Carbon,Westwood 39,Paper Ballots Cast - Blank,,,,0
+Carbon,Westwood 39,U.S. Senate,,IND,EVAN MCMULLIN,129
+Carbon,Westwood 39,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,8
+Carbon,Westwood 39,U.S. Senate,,REP,MIKE LEE,309
+Carbon,Westwood 39,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+Carbon,Westwood 39,U.S. Senate,,,Write-ins,1
+Carbon,Westwood 39,U.S. Senate,,,Abraham Karb,0
+Carbon,Westwood 39,U.S. House,3,IAP,AARON HEINEMAN,3
+Carbon,Westwood 39,U.S. House,3,DEM,GLENN J. WRIGHT,65
+Carbon,Westwood 39,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Carbon,Westwood 39,U.S. House,3,REP,JOHN CURTIS,368
+Carbon,Westwood 39,U.S. House,3,LIB,MICHAEL R. STODDARD,11
+Carbon,Westwood 39,State Treasurer,,REP,MARLO M. OAKS,362
+Carbon,Westwood 39,State Treasurer,,UUP,THOMAS ALAN HORNE,19
+Carbon,Westwood 39,State Treasurer,,IAP,WARREN T ROGERS,17
+Carbon,Westwood 39,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,35
+Carbon,Westwood 39,State House,67,REP,CHRISTINE F. WATKINS,400
+Carbon,Westwood 39,State School Board,14,REP,EMILY GREEN,349
+Carbon,Westwood 39,State School Board,14,LIB,RICHARD JENSEN,85
+Carbon,Westwood 39,Commission,,IAP,LITA RILEY,38
+Carbon,Westwood 39,Commission,,DEM,ED CHAVEZ,121
+Carbon,Westwood 39,Commission,,REP,LARRY G. JENSEN,290
+Carbon,Westwood 39,Commissioner/Surveyor,,LIB,FUZZY NANCE,121
+Carbon,Westwood 39,Commissioner/Surveyor,,REP,TONY MARTINES,285
+Carbon,Westwood 39,Commissioner/Surveyor,,,Write-ins,35
+Carbon,Westwood 39,County Attorney,,REP,CHRISTIAN B. BRYNER,423
+Carbon,Westwood 39,Clerk/Auditor,,REP,SETH MARSING,410
+Carbon,Westwood 39,Sheriff,,,ZACHARY PALACIOS,191
+Carbon,Westwood 39,Sheriff,,REP,JEFFREY L. WOOD,259
+Carbon,Westwood 39,PAIGE PETERSEN Judicial Retention,,,YES,372
+Carbon,Westwood 39,PAIGE PETERSEN Judicial Retention,,,NO,51
+Carbon,Westwood 39,DON M.TORGERSON Judicial Retention,,,YES,361
+Carbon,Westwood 39,DON M.TORGERSON Judicial Retention,,,NO,77
+Carbon,Westwood 39,GEORGE M. HARMOND Judicial Retention,,,YES,360
+Carbon,Westwood 39,GEORGE M. HARMOND Judicial Retention,,,NO,69
+Carbon,Westwood 39,Constitutional Amendrnent A,,,FOR,189
+Carbon,Westwood 39,Constitutional Amendrnent A,,,AGAINST,233
+Carbon,MiIler Creek 40,Registered Voters,,,,234
+Carbon,MiIler Creek 40,Ballots Cast,,,,128
+Carbon,MiIler Creek 40,Paper Ballots Cast,,,,26
+Carbon,MiIler Creek 40,Ballots Cast - Blank,,,,0
+Carbon,MiIler Creek 40,Paper Ballots Cast - Blank,,,,0
+Carbon,MiIler Creek 40,U.S. Senate,,IND,EVAN MCMULLIN,23
+Carbon,MiIler Creek 40,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,5
+Carbon,MiIler Creek 40,U.S. Senate,,REP,MIKE LEE,98
+Carbon,MiIler Creek 40,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Carbon,MiIler Creek 40,U.S. Senate,,,Write-ins,0
+Carbon,MiIler Creek 40,U.S. House,3,IAP,AARON HEINEMAN,0
+Carbon,MiIler Creek 40,U.S. House,3,DEM,GLENN J. WRIGHT,19
+Carbon,MiIler Creek 40,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,3
+Carbon,MiIler Creek 40,U.S. House,3,REP,JOHN CURTIS,102
+Carbon,MiIler Creek 40,U.S. House,3,LIB,MICHAEL R. STOODARD,3
+Carbon,MiIler Creek 40,State Treasurer,,,,106
+Carbon,MiIler Creek 40,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+Carbon,MiIler Creek 40,State Treasurer,,IAP,WARREN T ROGERS,9
+Carbon,MiIler Creek 40,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,9
+Carbon,Miller Creek 40,State House,67,REP,CHRISTINE F. WATKINS,120
+Carbon,Miller Creek 40,State School Board,14,REP,EMILY GREEN,101
+Carbon,Miller Creek 40,State School Board,14,LIB,RICHARD JENSEN,24
+Carbon,Miller Creek 40,Commission,,IAP,LITA RILEY,16
+Carbon,Miller Creek 40,Commission,,DEM,ED CHAVEZ,39
+Carbon,Miller Creek 40,Commission,,REP,LARRY G. JENSEN,72
+Carbon,Miller Creek 40,Commissioner/Surveyor,,LIB,FUZZY NANCE,45
+Carbon,Miller Creek 40,Commissioner/Surveyor,,REP,TONY MARTINES,63
+Carbon,Miller Creek 40,Commissioner/Surveyor,,,Write-ins,16
+Carbon,Miller Creek 40,County Attorney,,REP,CHRISTIAN B. BRYNER,120
+Carbon,Miller Creek 40,Clerk/Auditor,,REP,SETH MARSING,121
+Carbon,Miller Creek 40,Sheriff,,,ZACHARY PALACIOS,51
+Carbon,Miller Creek 40,Sheriff,,REP,JEFFREY L. WOOD,76
+Carbon,Miller Creek 40,PAIGE PETERSEN Judicial Retention,,,YES,97
+Carbon,Miller Creek 40,PAIGE PETERSEN Judicial Retention,,,NO,24
+Carbon,Miller Creek 40,DON M.TORGERSON Judicial Retention,,,YES,97
+Carbon,Miller Creek 40,DON M.TORGERSON Judicial Retention,,,NO,24
+Carbon,Miller Creek 40,GEORGE M. HARMOND Judicial Retention,,,YES,88
+Carbon,Miller Creek 40,GEORGE M. HARMOND Judicial Retention,,,NO,32
+Carbon,Miller Creek 40,Constitutional Amendment A,,,FOR,44
+Carbon,Miller Creek 40,Constitutional Amendment A,,,AGAINST,76
