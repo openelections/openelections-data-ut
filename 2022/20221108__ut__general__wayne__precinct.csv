@@ -1,0 +1,634 @@
+county,precinct,office,district,party,candidate,votes
+WAYNE,Fremont,,,,REGISTERED VOTERS-TOTAL,180
+WAYNE,Fremont,,,,BALLOTS CAST-TOTAL,150
+WAYNE,Fremont,,,,PAPER BALLOTS CAST-TOTAL,150
+WAYNE,Fremont,,,,CARDS CAST-TOTAL,0
+WAYNE,Fremont,,,,BALLOTS CAST-BLANK,0
+WAYNE,Fremont,,,,PAPER BALLOTS CAST-BLANK,0
+WAYNE,Fremont,,,,CARDS CAST-BLANK,0
+WAYNE,Fremont,U.S. Senate,,,EVAN MCMULLIN,26
+WAYNE,Fremont,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+WAYNE,Fremont,U.S. Senate,,REP,MIKE LEE,117
+WAYNE,Fremont,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+WAYNE,Fremont,U.S. Senate,,,WRITE-IN TOTALS,0
+WAYNE,Fremont,U.S. Senate,,,NOT ASSIGNED,0
+WAYNE,Fremont,U.S. Senate,,,TOTAL VOTES CAST,146
+WAYNE,Fremont,U.S. Senate,,,OVERVOTES,0
+WAYNE,Fremont,U.S. Senate,,,UNDERVOTES,4
+WAYNE,Fremont,U.S. Senate,,,CONTEST TOTALS,150
+WAYNE,Fremont,U.S. House,2,DEM,NICK MITCHELL,11
+WAYNE,Fremont,U.S. House,2,UUP,JAYMAC MCFARLAND,2
+WAYNE,Fremont,U.S. House,2,CON,CASSIE EASLEY,3
+WAYNE,Fremont,U.S. House,2,REP,CHRIS STEWART,127
+WAYNE,Fremont,U.S. House,2,,TOTAL VOTES CAST,143
+WAYNE,Fremont,U.S. House,2,,OVERVOTES,0
+WAYNE,Fremont,U.S. House,2,,UNDERVOTES,7
+WAYNE,Fremont,U.S. House,2,,CONTEST TOTALS,150
+WAYNE,Fremont,State Treasurer,,REP,MARLO M. OAKS,129
+WAYNE,Fremont,State Treasurer,,UUP,THOMAS ALAN HORNE,5
+WAYNE,Fremont,State Treasurer,,IAP,WARREN T ROGERS,3
+WAYNE,Fremont,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,5
+WAYNE,Fremont,State Treasurer,,,TOTAL VOTES CAST,142
+WAYNE,Fremont,State Treasurer,,,OVERVOTES,0
+WAYNE,Fremont,State Treasurer,,,UNDERVOTES,8
+WAYNE,Fremont,State Treasurer,,,CONTEST TOTALS,150
+WAYNE,Fremont,State House,69,REP,PHIL LYMAN,119
+WAYNE,Fremont,State House,69,DEM,DAVINA SMITH,24
+WAYNE,Fremont,State House,69,,TOTAL VOTES CAST,143
+WAYNE,Fremont,State House,69,,OVERVOTES,0
+WAYNE,Fremont,State House,69,,UNDERVOTES,7
+WAYNE,Fremont,State House,69,,CONTEST TOTALS,150
+WAYNE,Fremont,County Commissioner A,,REP,DENNIS G BLACKBURN,103
+WAYNE,Fremont,County Commissioner A,,,WRITE-IN TOTALS,36
+WAYNE,Fremont,County Commissioner A,,,WRITE-IN: MICHAEL T. ZIRWAS,33
+WAYNE,Fremont,County Commissioner A,,,NOT ASSIGNED,3
+WAYNE,Fremont,County Commissioner A,,,TOTAL VOTES CAST,139
+WAYNE,Fremont,County Commissioner A,,,OVERVOTES,0
+WAYNE,Fremont,County Commissioner A,,,UNDERVOTES,11
+WAYNE,Fremont,County Commissioner A,,,CONTEST TOTALS,150
+WAYNE,Fremont,County Commissioner B,,,MIKE PETREE,40
+WAYNE,Fremont,County Commissioner B,,REP,KERRY K. COOK,108
+WAYNE,Fremont,County Commissioner B,,,TOTAL VOTES CAST,148
+WAYNE,Fremont,County Commissioner B,,,OVERVOTES,0
+WAYNE,Fremont,County Commissioner B,,,UNDERVOTES,2
+WAYNE,Fremont,County Commissioner B,,,CONTEST TOTALS,150
+WAYNE,Fremont,County Attorney,,REP,MICHAEL WINN,126
+WAYNE,Fremont,County Attorney,,,TOTAL VOTES CAST,126
+WAYNE,Fremont,County Attorney,,,OVERVOTES,0
+WAYNE,Fremont,County Attorney,,,UNDERVOTES,24
+WAYNE,Fremont,County Attorney,,,CONTEST TOTALS,150
+WAYNE,Fremont,County Clerk/Auditor,,,WRITE-IN TOTALS,128
+WAYNE,Fremont,County Clerk/Auditor,,,WRITE-IN: FELICIA SNOW,63
+WAYNE,Fremont,County Clerk/Auditor,,,WRITE-IN: ADRIAN RUGER,61
+WAYNE,Fremont,County Clerk/Auditor,,,NOT ASSIGNED,4
+WAYNE,Fremont,County Clerk/Auditor,,,TOTAL VOTES CAST,128
+WAYNE,Fremont,County Clerk/Auditor,,,OVERVOTES,0
+WAYNE,Fremont,County Clerk/Auditor,,,UNDERVOTES,22
+WAYNE,Fremont,County Clerk/Auditor,,,CONTEST TOTALS,150
+WAYNE,Fremont,County Sheriff,,REP,MICAH A. GULLEY,134
+WAYNE,Fremont,County Sheriff,,,TOTAL VOTES CAST,134
+WAYNE,Fremont,County Sheriff,,,OVERVOTES,0
+WAYNE,Fremont,County Sheriff,,,UNDERVOTES,16
+WAYNE,Fremont,County Sheriff,,,CONTEST TOTALS,150
+WAYNE,Fremont,Paige Petersen Judicial Retention,,,YES,121
+WAYNE,Fremont,Paige Petersen Judicial Retention,,,NO,18
+WAYNE,Fremont,Paige Petersen Judicial Retention,,,TOTAL VOTES CAST,139
+WAYNE,Fremont,Paige Petersen Judicial Retention,,,OVERVOTES,1
+WAYNE,Fremont,Paige Petersen Judicial Retention,,,UNDERVOTES,10
+WAYNE,Fremont,Paige Petersen Judicial Retention,,,CONTEST TOTALS,150
+WAYNE,Fremont,Brody L. Keisel Judicial Retention,,,YES,125
+WAYNE,Fremont,Brody L. Keisel Judicial Retention,,,NO,14
+WAYNE,Fremont,Brody L. Keisel Judicial Retention,,,TOTAL VOTES CAST,139
+WAYNE,Fremont,Brody L. Keisel Judicial Retention,,,OVERVOTES,0
+WAYNE,Fremont,Brody L. Keisel Judicial Retention,,,UNDERVOTES,11
+WAYNE,Fremont,Brody L. Keisel Judicial Retention,,,CONTEST TOTALS,150
+WAYNE,Fremont,Constitutional Amendment A,,,FOR,46
+WAYNE,Fremont,Constitutional Amendment A,,,AGAINST,86
+WAYNE,Fremont,Constitutional Amendment A,,,TOTAL VOTES CAST,132
+WAYNE,Fremont,Constitutional Amendment A,,,OVERVOTES,0
+WAYNE,Fremont,Constitutional Amendment A,,,UNDERVOTES,18
+WAYNE,Fremont,Constitutional Amendment A,,,CONTEST TOTALS,150
+WAYNE,Loa Inside/Outside,,,,REGISTERED VOTERS-TOTAL,405
+WAYNE,Loa Inside/Outside,,,,BALLOTS CAST-TOTAL,317
+WAYNE,Loa Inside/Outside,,,,PAPER BALLOTS CAST-TOTAL,312
+WAYNE,Loa Inside/Outside,,,,CARDS CAST-TOTAL,0
+WAYNE,Loa Inside/Outside,,,,BALLOTS CAST-BLANK,0
+WAYNE,Loa Inside/Outside,,,,PAPER BALLOTS CAST-BLANK,0
+WAYNE,Loa Inside/Outside,,,,CARDS CAST-BLANK,0
+WAYNE,Loa Inside/Outside,U.S. Senate,,,EVAN MCMULLIN,37
+WAYNE,Loa Inside/Outside,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
+WAYNE,Loa Inside/Outside,U.S. Senate,,REP,MIKE LEE,273
+WAYNE,Loa Inside/Outside,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+WAYNE,Loa Inside/Outside,U.S. Senate,,,WRITE-IN TOTALS,0
+WAYNE,Loa Inside/Outside,U.S. Senate,,,NOT ASSIGNED,0
+WAYNE,Loa Inside/Outside,U.S. Senate,,,TOTAL VOTES CAST,313
+WAYNE,Loa Inside/Outside,U.S. Senate,,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,U.S. Senate,,,UNDERVOTES,4
+WAYNE,Loa Inside/Outside,U.S. Senate,,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,U.S. House,2,DEM,NICK MITCHELL,17
+WAYNE,Loa Inside/Outside,U.S. House,2,UUP,JAYMAC MCFARLAND,6
+WAYNE,Loa Inside/Outside,U.S. House,2,CON,CASSIE EASLEY,5
+WAYNE,Loa Inside/Outside,U.S. House,2,REP,CHRIS STEWART,286
+WAYNE,Loa Inside/Outside,U.S. House,2,,TOTAL VOTES CAST,314
+WAYNE,Loa Inside/Outside,U.S. House,2,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,U.S. House,2,,UNDERVOTES,3
+WAYNE,Loa Inside/Outside,U.S. House,2,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,State Treasurer,,REP,MARLO M. OAKS,292
+WAYNE,Loa Inside/Outside,State Treasurer,,UUP,THOMAS ALAN HORNE,5
+WAYNE,Loa Inside/Outside,State Treasurer,,IAP,WARREN T ROGERS,3
+WAYNE,Loa Inside/Outside,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,8
+WAYNE,Loa Inside/Outside,State Treasurer,,,TOTAL VOTES CAST,308
+WAYNE,Loa Inside/Outside,State Treasurer,,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,State Treasurer,,,UNDERVOTES,9
+WAYNE,Loa Inside/Outside,State Treasurer,,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,State House,69,REP,PHIL LYMAN,269
+WAYNE,Loa Inside/Outside,State House,69,DEM,DAVINA SMITH,41
+WAYNE,Loa Inside/Outside,State House,69,,TOTAL VOTES CAST,310
+WAYNE,Loa Inside/Outside,State House,69,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,State House,69,,UNDERVOTES,7
+WAYNE,Loa Inside/Outside,State House,69,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,County Commissioner A,,REP,DENNIS G BLACKBURN,177
+WAYNE,Loa Inside/Outside,County Commissioner A,,,WRITE-IN TOTALS,128
+WAYNE,Loa Inside/Outside,County Commissioner A,,,WRITE-IN: MICHAEL T. ZIRWAS,125
+WAYNE,Loa Inside/Outside,County Commissioner A,,,NOT ASSIGNED,3
+WAYNE,Loa Inside/Outside,County Commissioner A,,,TOTAL VOTES CAST,305
+WAYNE,Loa Inside/Outside,County Commissioner A,,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,County Commissioner A,,,UNDERVOTES,12
+WAYNE,Loa Inside/Outside,County Commissioner A,,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,County Commissioner B,,,MIKE PETREE,92
+WAYNE,Loa Inside/Outside,County Commissioner B,,REP,KERRY K. COOK,219
+WAYNE,Loa Inside/Outside,County Commissioner B,,,TOTAL VOTES CAST,311
+WAYNE,Loa Inside/Outside,County Commissioner B,,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,County Commissioner B,,,UNDERVOTES,6
+WAYNE,Loa Inside/Outside,County Commissioner B,,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,County Attorney,,REP,MICHAEL WINN,264
+WAYNE,Loa Inside/Outside,County Attorney,,,TOTAL VOTES CAST,264
+WAYNE,Loa Inside/Outside,County Attorney,,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,County Attorney,,,UNDERVOTES,53
+WAYNE,Loa Inside/Outside,County Attorney,,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,County Clerk/Auditor,,,WRITE-IN TOTALS,260
+WAYNE,Loa Inside/Outside,County Clerk/Auditor,,,WRITE-IN: FELICIA SNOW,148
+WAYNE,Loa Inside/Outside,County Clerk/Auditor,,,WRITE-IN: ADRIAN RUGER,110
+WAYNE,Loa Inside/Outside,County Clerk/Auditor,,,NOT ASSIGNED,2
+WAYNE,Loa Inside/Outside,County Clerk/Auditor,,,TOTAL VOTES CAST,260
+WAYNE,Loa Inside/Outside,County Clerk/Auditor,,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,County Clerk/Auditor,,,UNDERVOTES,57
+WAYNE,Loa Inside/Outside,County Clerk/Auditor,,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,County Sheriff,,REP,MICAH A. GULLEY,284
+WAYNE,Loa Inside/Outside,County Sheriff,,,TOTAL VOTES CAST,284
+WAYNE,Loa Inside/Outside,County Sheriff,,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,County Sheriff,,,UNDERVOTES,33
+WAYNE,Loa Inside/Outside,County Sheriff,,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,Local School Board,4,,JAMES W LAMB,201
+WAYNE,Loa Inside/Outside,Local School Board,4,,CORY L. ANDERSON,108
+WAYNE,Loa Inside/Outside,Local School Board,4,,TOTAL VOTES CAST,309
+WAYNE,Loa Inside/Outside,Local School Board,4,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,Local School Board,4,,UNDERVOTES,8
+WAYNE,Loa Inside/Outside,Local School Board,4,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,Paige Petersen Judicial Retention,,,YES,262
+WAYNE,Loa Inside/Outside,Paige Petersen Judicial Retention,,,NO,35
+WAYNE,Loa Inside/Outside,Paige Petersen Judicial Retention,,,TOTAL VOTES CAST,297
+WAYNE,Loa Inside/Outside,Paige Petersen Judicial Retention,,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,Paige Petersen Judicial Retention,,,UNDERVOTES,20
+WAYNE,Loa Inside/Outside,Paige Petersen Judicial Retention,,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,Brody L. Keisel Judicial Retention,,,YES,263
+WAYNE,Loa Inside/Outside,Brody L. Keisel Judicial Retention,,,NO,35
+WAYNE,Loa Inside/Outside,Brody L. Keisel Judicial Retention,,,TOTAL VOTES CAST,298
+WAYNE,Loa Inside/Outside,Brody L. Keisel Judicial Retention,,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,Brody L. Keisel Judicial Retention,,,UNDERVOTES,19
+WAYNE,Loa Inside/Outside,Brody L. Keisel Judicial Retention,,,CONTEST TOTALS,317
+WAYNE,Loa Inside/Outside,Constitutional Amendment A,,,FOR,118
+WAYNE,Loa Inside/Outside,Constitutional Amendment A,,,AGAINST,170
+WAYNE,Loa Inside/Outside,Constitutional Amendment A,,,TOTAL VOTES CAST,288
+WAYNE,Loa Inside/Outside,Constitutional Amendment A,,,OVERVOTES,0
+WAYNE,Loa Inside/Outside,Constitutional Amendment A,,,UNDERVOTES,29
+WAYNE,Loa Inside/Outside,Constitutional Amendment A,,,CONTEST TOTALS,317
+WAYNE,Lyman Inside/Outside,,,,REGISTERED VOTERS-TOTAL,206
+WAYNE,Lyman Inside/Outside,,,,BALLOTS CAST-TOTAL,165
+WAYNE,Lyman Inside/Outside,,,,PAPER BALLOTS CAST-TOTAL,163
+WAYNE,Lyman Inside/Outside,,,,CARDS CAST-TOTAL,0
+WAYNE,Lyman Inside/Outside,,,,BALLOTS CAST-BLANK,0
+WAYNE,Lyman Inside/Outside,,,,PAPER BALLOTS CAST-BLANK,0
+WAYNE,Lyman Inside/Outside,U.S. Senate,,,EVAN MCMULLIN,18
+WAYNE,Lyman Inside/Outside,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
+WAYNE,Lyman Inside/Outside,U.S. Senate,,REP,MIKE LEE,143
+WAYNE,Lyman Inside/Outside,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+WAYNE,Lyman Inside/Outside,U.S. Senate,,,WRITE-IN TOTALS,0
+WAYNE,Lyman Inside/Outside,U.S. Senate,,,NOT ASSIGNED,0
+WAYNE,Lyman Inside/Outside,U.S. Senate,,,TOTAL VOTES CAST,163
+WAYNE,Lyman Inside/Outside,U.S. Senate,,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,U.S. Senate,,,UNDERVOTES,2
+WAYNE,Lyman Inside/Outside,U.S. Senate,,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,U.S. House,2,DEM,NICK MITCHELL,8
+WAYNE,Lyman Inside/Outside,U.S. House,2,UUP,JAYMAC MCFARLAND,1
+WAYNE,Lyman Inside/Outside,U.S. House,2,CON,CASSIE EASLEY,6
+WAYNE,Lyman Inside/Outside,U.S. House,2,REP,CHRIS STEWART,149
+WAYNE,Lyman Inside/Outside,U.S. House,2,,TOTAL VOTES CAST,164
+WAYNE,Lyman Inside/Outside,U.S. House,2,,OVERVOTES,1
+WAYNE,Lyman Inside/Outside,U.S. House,2,,UNDERVOTES,0
+WAYNE,Lyman Inside/Outside,U.S. House,2,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,State Treasurer,,REP,MARLO M. OAKS,155
+WAYNE,Lyman Inside/Outside,State Treasurer,,UUP,THOMAS ALAN HORNE,2
+WAYNE,Lyman Inside/Outside,State Treasurer,,IAP,WARREN T ROGERS,3
+WAYNE,Lyman Inside/Outside,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,0
+WAYNE,Lyman Inside/Outside,State Treasurer,,,TOTAL VOTES CAST,160
+WAYNE,Lyman Inside/Outside,State Treasurer,,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,State Treasurer,,,UNDERVOTES,5
+WAYNE,Lyman Inside/Outside,State Treasurer,,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,State House,69,REP,PHIL LYMAN,139
+WAYNE,Lyman Inside/Outside,State House,69,DEM,DAVINA SMITH,23
+WAYNE,Lyman Inside/Outside,State House,69,,TOTAL VOTES CAST,162
+WAYNE,Lyman Inside/Outside,State House,69,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,State House,69,,UNDERVOTES,3
+WAYNE,Lyman Inside/Outside,State House,69,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,County Commissioner A,,REP,DENNIS G BLACKBURN,112
+WAYNE,Lyman Inside/Outside,County Commissioner A,,,WRITE-IN TOTALS,51
+WAYNE,Lyman Inside/Outside,County Commissioner A,,,WRITE-IN: MICHAEL T. ZIRWAS,50
+WAYNE,Lyman Inside/Outside,County Commissioner A,,,NOT ASSIGNED,1
+WAYNE,Lyman Inside/Outside,County Commissioner A,,,TOTAL VOTES CAST,163
+WAYNE,Lyman Inside/Outside,County Commissioner A,,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,County Commissioner A,,,UNDERVOTES,2
+WAYNE,Lyman Inside/Outside,County Commissioner A,,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,County Commissioner B,,,MIKE PETREE,35
+WAYNE,Lyman Inside/Outside,County Commissioner B,,REP,KERRY K. COOK,128
+WAYNE,Lyman Inside/Outside,County Commissioner B,,,TOTAL VOTES CAST,163
+WAYNE,Lyman Inside/Outside,County Commissioner B,,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,County Commissioner B,,,UNDERVOTES,2
+WAYNE,Lyman Inside/Outside,County Commissioner B,,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,County Attorney,,REP,MICHAEL WINN,138
+WAYNE,Lyman Inside/Outside,County Attorney,,,TOTAL VOTES CAST,138
+WAYNE,Lyman Inside/Outside,County Attorney,,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,County Attorney,,,UNDERVOTES,27
+WAYNE,Lyman Inside/Outside,County Attorney,,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,County Clerk/Auditor,,,WRITE-IN TOTALS,134
+WAYNE,Lyman Inside/Outside,County Clerk/Auditor,,,WRITE-IN: FELICIA SNOW,70
+WAYNE,Lyman Inside/Outside,County Clerk/Auditor,,,WRITE-IN: ADRIAN RUGER,60
+WAYNE,Lyman Inside/Outside,County Clerk/Auditor,,,NOT ASSIGNED,4
+WAYNE,Lyman Inside/Outside,County Clerk/Auditor,,,TOTAL VOTES CAST,134
+WAYNE,Lyman Inside/Outside,County Clerk/Auditor,,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,County Clerk/Auditor,,,UNDERVOTES,31
+WAYNE,Lyman Inside/Outside,County Clerk/Auditor,,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,County Sheriff,,REP,MICAH A. GULLEY,143
+WAYNE,Lyman Inside/Outside,County Sheriff,,,TOTAL VOTES CAST,143
+WAYNE,Lyman Inside/Outside,County Sheriff,,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,County Sheriff,,,UNDERVOTES,22
+WAYNE,Lyman Inside/Outside,County Sheriff,,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,Paige Petersen Judicial Retention,,,YES,128
+WAYNE,Lyman Inside/Outside,Paige Petersen Judicial Retention,,,NO,14
+WAYNE,Lyman Inside/Outside,Paige Petersen Judicial Retention,,,TOTAL VOTES CAST,142
+WAYNE,Lyman Inside/Outside,Paige Petersen Judicial Retention,,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,Paige Petersen Judicial Retention,,,UNDERVOTES,23
+WAYNE,Lyman Inside/Outside,Paige Petersen Judicial Retention,,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,Brody L. Keisel Judicial Retention,,,YES,125
+WAYNE,Lyman Inside/Outside,Brody L. Keisel Judicial Retention,,,NO,18
+WAYNE,Lyman Inside/Outside,Brody L. Keisel Judicial Retention,,,TOTAL VOTES CAST,143
+WAYNE,Lyman Inside/Outside,Brody L. Keisel Judicial Retention,,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,Brody L. Keisel Judicial Retention,,,UNDERVOTES,22
+WAYNE,Lyman Inside/Outside,Brody L. Keisel Judicial Retention,,,CONTEST TOTALS,165
+WAYNE,Lyman Inside/Outside,Constitutional Amendment A,,,FOR,61
+WAYNE,Lyman Inside/Outside,Constitutional Amendment A,,,AGAINST,84
+WAYNE,Lyman Inside/Outside,Constitutional Amendment A,,,TOTAL VOTES CAST,145
+WAYNE,Lyman Inside/Outside,Constitutional Amendment A,,,OVERVOTES,0
+WAYNE,Lyman Inside/Outside,Constitutional Amendment A,,,UNDERVOTES,20
+WAYNE,Lyman Inside/Outside,Constitutional Amendment A,,,CONTEST TOTALS,165
+WAYNE,Bicknell Inside/Outside,,,,REGISTERED VOTERS-TOTAL,302
+WAYNE,Bicknell Inside/Outside,,,,BALLOTS CAST-TOTAL,257
+WAYNE,Bicknell Inside/Outside,,,,PAPER BALLOTS CAST-TOTAL,256
+WAYNE,Bicknell Inside/Outside,,,,CARDS CAST-TOTAL,0
+WAYNE,Bicknell Inside/Outside,,,,BALLOTS CAST-BLANK,0
+WAYNE,Bicknell Inside/Outside,,,,PAPER BALLOTS CAST-BLANK,0
+WAYNE,Bicknell Inside/Outside,,,,CARDS CAST-BLANK,0
+WAYNE,Bicknell Inside/Outside,U.S. Senate,,,EVAN MCMULLIN,61
+WAYNE,Bicknell Inside/Outside,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,6
+WAYNE,Bicknell Inside/Outside,U.S. Senate,,REP,MIKE LEE,184
+WAYNE,Bicknell Inside/Outside,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+WAYNE,Bicknell Inside/Outside,U.S. Senate,,,WRITE-IN TOTALS,0
+WAYNE,Bicknell Inside/Outside,U.S. Senate,,,NOT ASSIGNED,0
+WAYNE,Bicknell Inside/Outside,U.S. Senate,,,TOTAL VOTES CAST,252
+WAYNE,Bicknell Inside/Outside,U.S. Senate,,,OVERVOTES,1
+WAYNE,Bicknell Inside/Outside,U.S. Senate,,,UNDERVOTES,4
+WAYNE,Bicknell Inside/Outside,U.S. Senate,,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,U.S. House,2,DEM,NICK MITCHELL,41
+WAYNE,Bicknell Inside/Outside,U.S. House,2,UUP,JAYMAC MCFARLAND,6
+WAYNE,Bicknell Inside/Outside,U.S. House,2,CON,CASSIE EASLEY,4
+WAYNE,Bicknell Inside/Outside,U.S. House,2,REP,CHRIS STEWART,201
+WAYNE,Bicknell Inside/Outside,U.S. House,2,,TOTAL VOTES CAST,252
+WAYNE,Bicknell Inside/Outside,U.S. House,2,,OVERVOTES,0
+WAYNE,Bicknell Inside/Outside,U.S. House,2,,UNDERVOTES,5
+WAYNE,Bicknell Inside/Outside,U.S. House,2,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,State Treasurer,,REP,MARLO M. OAKS,193
+WAYNE,Bicknell Inside/Outside,State Treasurer,,UUP,THOMAS ALAN HORNE,13
+WAYNE,Bicknell Inside/Outside,State Treasurer,,IAP,WARREN T ROGERS,18
+WAYNE,Bicknell Inside/Outside,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,14
+WAYNE,Bicknell Inside/Outside,State Treasurer,,,TOTAL VOTES CAST,238
+WAYNE,Bicknell Inside/Outside,State Treasurer,,,UNDERVOTES,0
+WAYNE,Bicknell Inside/Outside,State Treasurer,,,UNDERVOTES,19
+WAYNE,Bicknell Inside/Outside,State Treasurer,,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,State House,69,REP,PHIL LYMAN,184
+WAYNE,Bicknell Inside/Outside,State House,69,DEM,DAVINA SMITH,65
+WAYNE,Bicknell Inside/Outside,State House,69,,TOTAL VOTES CAST,249
+WAYNE,Bicknell Inside/Outside,State House,69,,OVERVOTES,0
+WAYNE,Bicknell Inside/Outside,State House,69,,UNDERVOTES,8
+WAYNE,Bicknell Inside/Outside,State House,69,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,County Commissioner A,,REP,DENNIS G BLACKBURN,155
+WAYNE,Bicknell Inside/Outside,County Commissioner A,,,WRITE-IN TOTALS,82
+WAYNE,Bicknell Inside/Outside,County Commissioner A,,,WRITE-IN: MICHAEL T. ZIRWAS,80
+WAYNE,Bicknell Inside/Outside,County Commissioner A,,,NOT ASSIGNED,2
+WAYNE,Bicknell Inside/Outside,County Commissioner A,,,TOTAL VOTES CAST,237
+WAYNE,Bicknell Inside/Outside,County Commissioner A,,,OVERVOTES,0
+WAYNE,Bicknell Inside/Outside,County Commissioner A,,,UNDERVOTES,20
+WAYNE,Bicknell Inside/Outside,County Commissioner A,,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,County Commissioner B,,,MIKE PETREE,77
+WAYNE,Bicknell Inside/Outside,County Commissioner B,,REP,KERRY K. COOK,166
+WAYNE,Bicknell Inside/Outside,County Commissioner B,,,TOTAL VOTES CAST,243
+WAYNE,Bicknell Inside/Outside,County Commissioner B,,,OVERVOTES,0
+WAYNE,Bicknell Inside/Outside,County Commissioner B,,,UNDERVOTES,14
+WAYNE,Bicknell Inside/Outside,County Commissioner B,,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,County Attorney,,REP,MICHAEL WINN,191
+WAYNE,Bicknell Inside/Outside,County Attorney,,,TOTAL VOTES CAST,191
+WAYNE,Bicknell Inside/Outside,County Attorney,,,UNDERVOTES,66
+WAYNE,Bicknell Inside/Outside,County Attorney,,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,County Clerk/Auditor,,,WRITE-IN TOTALS,201
+WAYNE,Bicknell Inside/Outside,County Clerk/Auditor,,,WRITE-IN: FELICIA SNOW,141
+WAYNE,Bicknell Inside/Outside,County Clerk/Auditor,,,WRITE-IN: ADRIAN RUGER,55
+WAYNE,Bicknell Inside/Outside,County Clerk/Auditor,,,NOT ASSIGNED,5
+WAYNE,Bicknell Inside/Outside,County Clerk/Auditor,,,TOTAL VOTES CAST,201
+WAYNE,Bicknell Inside/Outside,County Clerk/Auditor,,,OVERVOTES,0
+WAYNE,Bicknell Inside/Outside,County Clerk/Auditor,,,UNDERVOTES,56
+WAYNE,Bicknell Inside/Outside,County Clerk/Auditor,,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,County Sheriff,,REP,MICAH A. GULLEY,219
+WAYNE,Bicknell Inside/Outside,County Sheriff,,,TOTAL VOTES CAST,219
+WAYNE,Bicknell Inside/Outside,County Sheriff,,,OVERVOTES,0
+WAYNE,Bicknell Inside/Outside,County Sheriff,,,UNDERVOTES,38
+WAYNE,Bicknell Inside/Outside,County Sheriff,,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,Paige Petersen Judicial Retention,,,YES,188
+WAYNE,Bicknell Inside/Outside,Paige Petersen Judicial Retention,,,NO,36
+WAYNE,Bicknell Inside/Outside,Paige Petersen Judicial Retention,,,TOTAL VOTES CAST,224
+WAYNE,Bicknell Inside/Outside,Paige Petersen Judicial Retention,,,UNDERVOTES,33
+WAYNE,Bicknell Inside/Outside,Paige Petersen Judicial Retention,,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,Brody L. Keisel Judicial Retention,,,YES,183
+WAYNE,Bicknell Inside/Outside,Brody L. Keisel Judicial Retention,,,NO,41
+WAYNE,Bicknell Inside/Outside,Brody L. Keisel Judicial Retention,,,TOTAL VOTES CAST,224
+WAYNE,Bicknell Inside/Outside,Brody L. Keisel Judicial Retention,,,OVERVOTES,0
+WAYNE,Bicknell Inside/Outside,Brody L. Keisel Judicial Retention,,,UNDERVOTES,33
+WAYNE,Bicknell Inside/Outside,Brody L. Keisel Judicial Retention,,,CONTEST TOTALS,257
+WAYNE,Bicknell Inside/Outside,Constitutional Amendment A,,,FOR,79
+WAYNE,Bicknell Inside/Outside,Constitutional Amendment A,,,AGAINST,137
+WAYNE,Bicknell Inside/Outside,Constitutional Amendment A,,,TOTAL VOTES CAST,216
+WAYNE,Bicknell Inside/Outside,Constitutional Amendment A,,,OVERVOTES,1
+WAYNE,Bicknell Inside/Outside,Constitutional Amendment A,,,UNDERVOTES,40
+WAYNE,Bicknell Inside/Outside,Constitutional Amendment A,,,CONTEST TOTALS,257
+WAYNE,Teasdale,,,,REGISTERED VOTERS-TOTAL,250
+WAYNE,Teasdale,,,,BALLOTS CAST-TOTAL,232
+WAYNE,Teasdale,,,,PAPER BALLOTS CAST-TOTAL,225
+WAYNE,Teasdale,,,,CARDS CAST-TOTAL,0
+WAYNE,Teasdale,,,,BALLOTS CAST-BLANK,0
+WAYNE,Teasdale,,,,PAPER BALLOTS CAST-BLANK,0
+WAYNE,Teasdale,,,,CARDS CAST-BLANK,0
+WAYNE,Teasdale,U.S. Senate,,,EVAN MCMULLIN,90
+WAYNE,Teasdale,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+WAYNE,Teasdale,U.S. Senate,,REP,MIKE LEE,130
+WAYNE,Teasdale,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+WAYNE,Teasdale,U.S. Senate,,,WRITE-IN TOTALS,0
+WAYNE,Teasdale,U.S. Senate,,,NOT ASSIGNED,0
+WAYNE,Teasdale,U.S. Senate,,,TOTAL VOTES CAST,227
+WAYNE,Teasdale,U.S. Senate,,,OVERVOTES,0
+WAYNE,Teasdale,U.S. Senate,,,UNDERVOTES,5
+WAYNE,Teasdale,U.S. Senate,,,CONTEST TOTALS,232
+WAYNE,Teasdale,U.S. House,2,DEM,NICK MITCHELL,87
+WAYNE,Teasdale,U.S. House,2,UUP,JAYMAC MCFARLAND,3
+WAYNE,Teasdale,U.S. House,2,CON,CASSIE EASLEY,2
+WAYNE,Teasdale,U.S. House,2,REP,CHRIS STEWART,136
+WAYNE,Teasdale,U.S. House,2,,TOTAL VOTES CAST,228
+WAYNE,Teasdale,U.S. House,2,,OVERVOTES,0
+WAYNE,Teasdale,U.S. House,2,,UNDERVOTES,4
+WAYNE,Teasdale,U.S. House,2,,CONTEST TOTALS,232
+WAYNE,Teasdale,State Treasurer,,REP,MARLO M. OAKS,161
+WAYNE,Teasdale,State Treasurer,,UUP,THOMAS ALAN HORNE,19
+WAYNE,Teasdale,State Treasurer,,IAP,WARREN T ROGERS,21
+WAYNE,Teasdale,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,10
+WAYNE,Teasdale,State Treasurer,,,TOTAL VOTES CAST,211
+WAYNE,Teasdale,State Treasurer,,,OVERVOTES,0
+WAYNE,Teasdale,State Treasurer,,,UNDERVOTES,21
+WAYNE,Teasdale,State Treasurer,,,CONTEST TOTALS,232
+WAYNE,Teasdale,State House,69,REP,PHIL LYMAN,121
+WAYNE,Teasdale,State House,69,DEM,DAVINA SMITH,106
+WAYNE,Teasdale,State House,69,,TOTAL VOTES CAST,227
+WAYNE,Teasdale,State House,69,,UNDERVOTES,5
+WAYNE,Teasdale,State House,69,,CONTEST TOTALS,232
+WAYNE,Teasdale,County Commissioner A,,REP,DENNIS G BLACKBURN,107
+WAYNE,Teasdale,County Commissioner A,,,WRITE-IN TOTALS,118
+WAYNE,Teasdale,County Commissioner A,,,WRITE-IN: MICHAEL T. ZIRWAS,118
+WAYNE,Teasdale,County Commissioner A,,,NOT ASSIGNED,0
+WAYNE,Teasdale,County Commissioner A,,,TOTAL VOTES CAST,225
+WAYNE,Teasdale,County Commissioner A,,,OVERVOTES,0
+WAYNE,Teasdale,County Commissioner A,,,UNDERVOTES,7
+WAYNE,Teasdale,County Commissioner A,,,CONTEST TOTALS,232
+WAYNE,Teasdale,County Commissioner B,,,MIKE PETREE,133
+WAYNE,Teasdale,County Commissioner B,,REP,KERRY K. COOK,94
+WAYNE,Teasdale,County Commissioner B,,,TOTAL VOTES CAST,227
+WAYNE,Teasdale,County Commissioner B,,,OVERVOTES,0
+WAYNE,Teasdale,County Commissioner B,,,UNDERVOTES,5
+WAYNE,Teasdale,County Commissioner B,,,CONTEST TOTALS,232
+WAYNE,Teasdale,County Attorney,,REP,MICHAEL WINN,166
+WAYNE,Teasdale,County Attorney,,,TOTAL VOTES CAST,166
+WAYNE,Teasdale,County Attorney,,,OVERVOTES,0
+WAYNE,Teasdale,County Attorney,,,UNDERVOTES,66
+WAYNE,Teasdale,County Attorney,,,CONTEST TOTALS,232
+WAYNE,Teasdale,County Clerk/Auditor,,,WRITE-IN TOTALS,192
+WAYNE,Teasdale,County Clerk/Auditor,,,WRITE-IN: FELICIA SNOW,157
+WAYNE,Teasdale,County Clerk/Auditor,,,WRITE-IN: ADRIAN RUGER,31
+WAYNE,Teasdale,County Clerk/Auditor,,,NOT ASSIGNED,4
+WAYNE,Teasdale,County Clerk/Auditor,,,TOTAL VOTES CAST,192
+WAYNE,Teasdale,County Clerk/Auditor,,,OVERVOTES,0
+WAYNE,Teasdale,County Clerk/Auditor,,,UNDERVOTES,40
+WAYNE,Teasdale,County Clerk/Auditor,,,CONTEST TOTALS,232
+WAYNE,Teasdale,County Sheriff,,REP,MICAH A. GULLEY,198
+WAYNE,Teasdale,County Sheriff,,,TOTAL VOTES CAST,198
+WAYNE,Teasdale,County Sheriff,,,OVERVOTES,0
+WAYNE,Teasdale,County Sheriff,,,UNDERVOTES,34
+WAYNE,Teasdale,County Sheriff,,,CONTEST TOTALS,232
+WAYNE,Teasdale,Paige Petersen Judicial Retention,,,YES,176
+WAYNE,Teasdale,Paige Petersen Judicial Retention,,,NO,28
+WAYNE,Teasdale,Paige Petersen Judicial Retention,,,TOTAL VOTES CAST,204
+WAYNE,Teasdale,Paige Petersen Judicial Retention,,,OVERVOTES,0
+WAYNE,Teasdale,Paige Petersen Judicial Retention,,,UNDERVOTES,28
+WAYNE,Teasdale,Paige Petersen Judicial Retention,,,CONTEST TOTALS,232
+WAYNE,Teasdale,Brody L. Keisel Judicial Retention,,,YES,169
+WAYNE,Teasdale,Brody L. Keisel Judicial Retention,,,NO,33
+WAYNE,Teasdale,Brody L. Keisel Judicial Retention,,,TOTAL VOTES CAST,202
+WAYNE,Teasdale,Brody L. Keisel Judicial Retention,,,OVERVOTES,0
+WAYNE,Teasdale,Brody L. Keisel Judicial Retention,,,UNDERVOTES,30
+WAYNE,Teasdale,Brody L. Keisel Judicial Retention,,,CONTEST TOTALS,232
+WAYNE,Teasdale,Constitutional Amendment A,,,FOR,80
+WAYNE,Teasdale,Constitutional Amendment A,,,AGAINST,119
+WAYNE,Teasdale,Constitutional Amendment A,,,TOTAL VOTES CAST,199
+WAYNE,Teasdale,Constitutional Amendment A,,,OVERVOTES,0
+WAYNE,Teasdale,Constitutional Amendment A,,,UNDERVOTES,33
+WAYNE,Teasdale,Constitutional Amendment A,,,CONTEST TOTALS,232
+WAYNE,Torrey Inside/Outside,,,,REGISTERED VOTERS-TOTAL,320
+WAYNE,Torrey Inside/Outside,,,,BALLOTS CAST-TOTAL,286
+WAYNE,Torrey Inside/Outside,,,,PAPER BALLOTS CAST-TOTAL,278
+WAYNE,Torrey Inside/Outside,,,,CARDS CAST-TOTAL,0
+WAYNE,Torrey Inside/Outside,,,,BALLOTS CAST-BLANK,0
+WAYNE,Torrey Inside/Outside,,,,PAPER BALLOTS CAST-BLANK,0
+WAYNE,Torrey Inside/Outside,,,,CARDS CAST-BLANK,0
+WAYNE,Torrey Inside/Outside,U.S. Senate,,,EVAN MCMULLIN,161
+WAYNE,Torrey Inside/Outside,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,8
+WAYNE,Torrey Inside/Outside,U.S. Senate,,REP,MIKE LEE,107
+WAYNE,Torrey Inside/Outside,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+WAYNE,Torrey Inside/Outside,U.S. Senate,,,WRITE-IN TOTALS,0
+WAYNE,Torrey Inside/Outside,U.S. Senate,,,NOT ASSIGNED,0
+WAYNE,Torrey Inside/Outside,U.S. Senate,,,TOTAL VOTES CAST,282
+WAYNE,Torrey Inside/Outside,U.S. Senate,,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,U.S. Senate,,,UNDERVOTES,4
+WAYNE,Torrey Inside/Outside,U.S. Senate,,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,U.S. House,2,DEM,NICK MITCHELL,138
+WAYNE,Torrey Inside/Outside,U.S. House,2,UUP,JAYMAC MCFARLAND,9
+WAYNE,Torrey Inside/Outside,U.S. House,2,CON,CASSIE EASLEY,4
+WAYNE,Torrey Inside/Outside,U.S. House,2,REP,CHRIS STEWART,128
+WAYNE,Torrey Inside/Outside,U.S. House,2,,TOTAL VOTES CAST,279
+WAYNE,Torrey Inside/Outside,U.S. House,2,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,U.S. House,2,,UNDERVOTES,7
+WAYNE,Torrey Inside/Outside,U.S. House,2,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,State Treasurer,,REP,MARLO M. OAKS,168
+WAYNE,Torrey Inside/Outside,State Treasurer,,UUP,THOMAS ALAN HORNE,23
+WAYNE,Torrey Inside/Outside,State Treasurer,,IAP,WARREN T ROGERS,20
+WAYNE,Torrey Inside/Outside,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,31
+WAYNE,Torrey Inside/Outside,State Treasurer,,,TOTAL VOTES CAST,242
+WAYNE,Torrey Inside/Outside,State Treasurer,,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,State Treasurer,,,UNDERVOTES,44
+WAYNE,Torrey Inside/Outside,State Treasurer,,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,State House,69,REP,PHIL LYMAN,106
+WAYNE,Torrey Inside/Outside,State House,69,DEM,DAVINA SMITH,174
+WAYNE,Torrey Inside/Outside,State House,69,,TOTAL VOTES CAST,280
+WAYNE,Torrey Inside/Outside,State House,69,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,State House,69,,UNDERVOTES,6
+WAYNE,Torrey Inside/Outside,State House,69,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,County Commissioner A,,REP,DENNIS G BLACKBURN,119
+WAYNE,Torrey Inside/Outside,County Commissioner A,,,WRITE-IN TOTALS,148
+WAYNE,Torrey Inside/Outside,County Commissioner A,,,WRITE-IN: MICHAEL T. ZIRWAS,147
+WAYNE,Torrey Inside/Outside,County Commissioner A,,,NOT ASSIGNED,1
+WAYNE,Torrey Inside/Outside,County Commissioner A,,,TOTAL VOTES CAST,267
+WAYNE,Torrey Inside/Outside,County Commissioner A,,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,County Commissioner A,,,UNDERVOTES,19
+WAYNE,Torrey Inside/Outside,County Commissioner A,,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,County Commissioner B,,,MIKE PETREE,172
+WAYNE,Torrey Inside/Outside,County Commissioner B,,REP,KERRY K. COOK,102
+WAYNE,Torrey Inside/Outside,County Commissioner B,,,TOTAL VOTES CAST,274
+WAYNE,Torrey Inside/Outside,County Commissioner B,,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,County Commissioner B,,,UNDERVOTES,12
+WAYNE,Torrey Inside/Outside,County Commissioner B,,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,County Attorney,,REP,MICHAEL WINN,201
+WAYNE,Torrey Inside/Outside,County Attorney,,,TOTAL VOTES CAST,201
+WAYNE,Torrey Inside/Outside,County Attorney,,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,County Attorney,,,UNDERVOTES,85
+WAYNE,Torrey Inside/Outside,County Attorney,,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,County Clerk/Auditor,,,WRITE-IN TOTALS,225
+WAYNE,Torrey Inside/Outside,County Clerk/Auditor,,,WRITE-IN: FELICIA SNOW,196
+WAYNE,Torrey Inside/Outside,County Clerk/Auditor,,,WRITE-IN: ADRIAN RUGER,26
+WAYNE,Torrey Inside/Outside,County Clerk/Auditor,,,NOT ASSIGNED,3
+WAYNE,Torrey Inside/Outside,County Clerk/Auditor,,,TOTAL VOTES CAST,225
+WAYNE,Torrey Inside/Outside,County Clerk/Auditor,,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,County Clerk/Auditor,,,UNDERVOTES,61
+WAYNE,Torrey Inside/Outside,County Clerk/Auditor,,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,County Sheriff,,REP,MICAH A. GULLEY,240
+WAYNE,Torrey Inside/Outside,County Sheriff,,,TOTAL VOTES CAST,240
+WAYNE,Torrey Inside/Outside,County Sheriff,,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,County Sheriff,,,UNDERVOTES,46
+WAYNE,Torrey Inside/Outside,County Sheriff,,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,Paige Petersen Judicial Retention,,,YES,201
+WAYNE,Torrey Inside/Outside,Paige Petersen Judicial Retention,,,NO,48
+WAYNE,Torrey Inside/Outside,Paige Petersen Judicial Retention,,,TOTAL VOTES CAST,249
+WAYNE,Torrey Inside/Outside,Paige Petersen Judicial Retention,,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,Paige Petersen Judicial Retention,,,UNDERVOTES,37
+WAYNE,Torrey Inside/Outside,Paige Petersen Judicial Retention,,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,Brody L. Keisel Judicial Retention,,,YES,183
+WAYNE,Torrey Inside/Outside,Brody L. Keisel Judicial Retention,,,NO,63
+WAYNE,Torrey Inside/Outside,Brody L. Keisel Judicial Retention,,,TOTAL VOTES CAST,246
+WAYNE,Torrey Inside/Outside,Brody L. Keisel Judicial Retention,,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,Brody L. Keisel Judicial Retention,,,UNDERVOTES,40
+WAYNE,Torrey Inside/Outside,Brody L. Keisel Judicial Retention,,,CONTEST TOTALS,286
+WAYNE,Torrey Inside/Outside,Constitutional Amendment A,,,FOR,89
+WAYNE,Torrey Inside/Outside,Constitutional Amendment A,,,AGAINST,169
+WAYNE,Torrey Inside/Outside,Constitutional Amendment A,,,TOTAL VOTES CAST,258
+WAYNE,Torrey Inside/Outside,Constitutional Amendment A,,,OVERVOTES,0
+WAYNE,Torrey Inside/Outside,Constitutional Amendment A,,,UNDERVOTES,28
+WAYNE,Torrey Inside/Outside,Constitutional Amendment A,,,CONTEST TOTALS,286
+WAYNE,Hanksville Inside/Outside,,,,REGISTERED VOTERS-TOTAL,169
+WAYNE,Hanksville Inside/Outside,,,,BALLOTS CAST-TOTAL,134
+WAYNE,Hanksville Inside/Outside,,,,PAPER BALLOTS CAST-TOTAL,131
+WAYNE,Hanksville Inside/Outside,,,,CARDS CAST-TOTAL,0
+WAYNE,Hanksville Inside/Outside,,,,BALLOTS CAST-BLANK,0
+WAYNE,Hanksville Inside/Outside,,,,PAPER BALLOTS CAST-BLANK,0
+WAYNE,Hanksville Inside/Outside,,,,CARDS CAST-BLANK,0
+WAYNE,Hanksville Inside/Outside,U.S. Senate,,,EVAN MCMULLIN,22
+WAYNE,Hanksville Inside/Outside,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,5
+WAYNE,Hanksville Inside/Outside,U.S. Senate,,REP,MIKE LEE,102
+WAYNE,Hanksville Inside/Outside,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+WAYNE,Hanksville Inside/Outside,U.S. Senate,,,WRITE-IN TOTALS,0
+WAYNE,Hanksville Inside/Outside,U.S. Senate,,,NOT ASSIGNED,0
+WAYNE,Hanksville Inside/Outside,U.S. Senate,,,TOTAL VOTES CAST,131
+WAYNE,Hanksville Inside/Outside,U.S. Senate,,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,U.S. Senate,,,UNDERVOTES,3
+WAYNE,Hanksville Inside/Outside,U.S. Senate,,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,U.S. House,2,DEM,NICK MITCHELL,22
+WAYNE,Hanksville Inside/Outside,U.S. House,2,UUP,JAYMAC MCFARLAND,1
+WAYNE,Hanksville Inside/Outside,U.S. House,2,CON,CASSIE EASLEY,1
+WAYNE,Hanksville Inside/Outside,U.S. House,2,REP,CHRIS STEWART,108
+WAYNE,Hanksville Inside/Outside,U.S. House,2,,TOTAL VOTES CAST,132
+WAYNE,Hanksville Inside/Outside,U.S. House,2,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,U.S. House,2,,UNDERVOTES,2
+WAYNE,Hanksville Inside/Outside,U.S. House,2,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,State Treasurer,,REP,MARLO M. OAKS,109
+WAYNE,Hanksville Inside/Outside,State Treasurer,,UUP,THOMAS ALAN HORNE,6
+WAYNE,Hanksville Inside/Outside,State Treasurer,,IAP,WARREN T ROGERS,7
+WAYNE,Hanksville Inside/Outside,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,5
+WAYNE,Hanksville Inside/Outside,State Treasurer,,,TOTAL VOTES CAST,127
+WAYNE,Hanksville Inside/Outside,State Treasurer,,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,State Treasurer,,,UNDERVOTES,7
+WAYNE,Hanksville Inside/Outside,State Treasurer,,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,State House,69,REP,PHIL LYMAN,102
+WAYNE,Hanksville Inside/Outside,State House,69,DEM,DAVINA SMITH,30
+WAYNE,Hanksville Inside/Outside,State House,69,,TOTAL VOTES CAST,132
+WAYNE,Hanksville Inside/Outside,State House,69,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,State House,69,,UNDERVOTES,2
+WAYNE,Hanksville Inside/Outside,State House,69,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,County Commissioner A,,REP,DENNIS G BLACKBURN,97
+WAYNE,Hanksville Inside/Outside,County Commissioner A,,,WRITE-IN TOTALS,28
+WAYNE,Hanksville Inside/Outside,County Commissioner A,,,WRITE-IN: MICHAEL T. ZIRWAS,28
+WAYNE,Hanksville Inside/Outside,County Commissioner A,,,NOT ASSIGNED,0
+WAYNE,Hanksville Inside/Outside,County Commissioner A,,,TOTAL VOTES CAST,125
+WAYNE,Hanksville Inside/Outside,County Commissioner A,,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,County Commissioner A,,,UNDERVOTES,9
+WAYNE,Hanksville Inside/Outside,County Commissioner A,,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,County Commissioner B,,,MIKE PETREE,35
+WAYNE,Hanksville Inside/Outside,County Commissioner B,,REP,KERRY K. COOK,93
+WAYNE,Hanksville Inside/Outside,County Commissioner B,,,TOTAL VOTES CAST,128
+WAYNE,Hanksville Inside/Outside,County Commissioner B,,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,County Commissioner B,,,UNDERVOTES,6
+WAYNE,Hanksville Inside/Outside,County Commissioner B,,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,County Attorney,,REP,MICHAEL WINN,113
+WAYNE,Hanksville Inside/Outside,County Attorney,,,TOTAL VOTES CAST,113
+WAYNE,Hanksville Inside/Outside,County Attorney,,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,County Attorney,,,UNDERVOTES,21
+WAYNE,Hanksville Inside/Outside,County Attorney,,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,County Clerk/Auditor,,,WRITE-IN TOTALS,71
+WAYNE,Hanksville Inside/Outside,County Clerk/Auditor,,,WRITE-IN: FELICIA SNOW,42
+WAYNE,Hanksville Inside/Outside,County Clerk/Auditor,,,WRITE-IN: ADRIAN RUGER,22
+WAYNE,Hanksville Inside/Outside,County Clerk/Auditor,,,NOT ASSIGNED,7
+WAYNE,Hanksville Inside/Outside,County Clerk/Auditor,,,TOTAL VOTES CAST,71
+WAYNE,Hanksville Inside/Outside,County Clerk/Auditor,,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,County Clerk/Auditor,,,UNDERVOTES,63
+WAYNE,Hanksville Inside/Outside,County Clerk/Auditor,,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,County Sheriff,,REP,MICAH A. GULLEY,118
+WAYNE,Hanksville Inside/Outside,County Sheriff,,,TOTAL VOTES CAST,118
+WAYNE,Hanksville Inside/Outside,County Sheriff,,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,County Sheriff,,,UNDERVOTES,16
+WAYNE,Hanksville Inside/Outside,County Sheriff,,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,Local School Board,5,,CURTIS WHIPPLE,67
+WAYNE,Hanksville Inside/Outside,Local School Board,5,,WRITE-IN TOTALS,48
+WAYNE,Hanksville Inside/Outside,Local School Board,5,,WRITE-IN: SANDY WELLS,48
+WAYNE,Hanksville Inside/Outside,Local School Board,5,,NOT ASSIGNED,0
+WAYNE,Hanksville Inside/Outside,Local School Board,5,,TOTAL VOTES CAST,115
+WAYNE,Hanksville Inside/Outside,Local School Board,5,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,Local School Board,5,,UNDERVOTES,19
+WAYNE,Hanksville Inside/Outside,Local School Board,5,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,Paige Petersen Judicial Retention,,,YES,95
+WAYNE,Hanksville Inside/Outside,Paige Petersen Judicial Retention,,,NO,26
+WAYNE,Hanksville Inside/Outside,Paige Petersen Judicial Retention,,,TOTAL VOTES CAST,121
+WAYNE,Hanksville Inside/Outside,Paige Petersen Judicial Retention,,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,Paige Petersen Judicial Retention,,,UNDERVOTES,13
+WAYNE,Hanksville Inside/Outside,Paige Petersen Judicial Retention,,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,Brody L. Keisel Judicial Retention,,,YES,96
+WAYNE,Hanksville Inside/Outside,Brody L. Keisel Judicial Retention,,,NO,26
+WAYNE,Hanksville Inside/Outside,Brody L. Keisel Judicial Retention,,,TOTAL VOTES CAST,122
+WAYNE,Hanksville Inside/Outside,Brody L. Keisel Judicial Retention,,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,Brody L. Keisel Judicial Retention,,,UNDERVOTES,12
+WAYNE,Hanksville Inside/Outside,Brody L. Keisel Judicial Retention,,,CONTEST TOTALS,134
+WAYNE,Hanksville Inside/Outside,Constitutional Amendment A,,,FOR,33
+WAYNE,Hanksville Inside/Outside,Constitutional Amendment A,,,AGAINST,87
+WAYNE,Hanksville Inside/Outside,Constitutional Amendment A,,,TOTAL VOTES CAST,120
+WAYNE,Hanksville Inside/Outside,Constitutional Amendment A,,,OVERVOTES,0
+WAYNE,Hanksville Inside/Outside,Constitutional Amendment A,,,UNDERVOTES,14
+WAYNE,Hanksville Inside/Outside,Constitutional Amendment A,,,CONTEST TOTALS,134
