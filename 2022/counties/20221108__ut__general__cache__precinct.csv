@@ -1,0 +1,3894 @@
+county,precinct,office,district,candidate,party,votes
+Cache,AMA:I,Registered Voters,,,,290
+Cache,AMA:U1,Registered Voters,,,,2
+Cache,AMA:U2,Registered Voters,,,,0
+Cache,AMA:U3,Registered Voters,,,,13
+Cache,BEN:U,Registered Voters,,,,416
+Cache,CLK:I,Registered Voters,,,,441
+Cache,CLK:U1,Registered Voters,,,,44
+Cache,CLK:U2,Registered Voters,,,,0
+Cache,COR:I,Registered Voters,,,,141
+Cache,COR:U,Registered Voters,,,,17
+Cache,COV:U,Registered Voters,,,,284
+Cache,COV:U2,Registered Voters,,,,54
+Cache,CY:U,Registered Voters,,,,534
+Cache,HYD01:I,Registered Voters,,,,989
+Cache,HYD01:U,Registered Voters,,,,0
+Cache,HYD02:I,Registered Voters,,,,1040
+Cache,HYD02:U1,Registered Voters,,,,50
+Cache,HYD02:U2,Registered Voters,,,,0
+Cache,HYD03:I,Registered Voters,,,,1250
+Cache,HYD03:U,Registered Voters,,,,0
+Cache,HYR01:I,Registered Voters,,,,788
+Cache,HYR01:U,Registered Voters,,,,151
+Cache,HYR02:I,Registered Voters,,,,699
+Cache,HYR02:U1,Registered Voters,,,,14
+Cache,HYR02:U2,Registered Voters,,,,0
+Cache,HYR03:I,Registered Voters,,,,884
+Cache,HYR03:U,Registered Voters,,,,18
+Cache,HYR04:I,Registered Voters,,,,1225
+Cache,HYR04:U1,Registered Voters,,,,2
+Cache,HYR04:U2,Registered Voters,,,,93
+Cache,HYR04:U3,Registered Voters,,,,1
+Cache,HYR05:I,Registered Voters,,,,1315
+Cache,HYR05:U1,Registered Voters,,,,19
+Cache,HYR05:U2,Registered Voters,,,,0
+Cache,LEW00:I,Registered Voters,,,,0
+Cache,LEW01:I,Registered Voters,,,,1003
+Cache,LEW01:U1,Registered Voters,,,,3
+Cache,LEW01:U2,Registered Voters,,,,0
+Cache,LEW01:U3,Registered Voters,,,,0
+Cache,LEW01:U4,Registered Voters,,,,0
+Cache,LOG01:I,Registered Voters,,,,1278
+Cache,LOG02:I,Registered Voters,,,,947
+Cache,LOG03:I,Registered Voters,,,,654
+Cache,LOG04:I,Registered Voters,,,,1103
+Cache,LOG05:I,Registered Voters,,,,1055
+Cache,LOG06:I,Registered Voters,,,,662
+Cache,LOG07:I,Registered Voters,,,,605
+Cache,LOG08:I,Registered Voters,,,,696
+Cache,LOG09:I,Registered Voters,,,,962
+Cache,LOG10:I,Registered Voters,,,,778
+Cache,LOG11:I,Registered Voters,,,,460
+Cache,LOG12:I,Registered Voters,,,,1053
+Cache,LOG13:I,Registered Voters,,,,708
+Cache,LOG13:U,Registered Voters,,,,0
+Cache,LOG14:I,Registered Voters,,,,917
+Cache,LOG14:U1,Registered Voters,,,,0
+Cache,LOG14:U2,Registered Voters,,,,0
+Cache,LOG14:U3,Registered Voters,,,,0
+Cache,LOG15:I,Registered Voters,,,,449
+Cache,LOG16:I,Registered Voters,,,,1175
+Cache,LOG17:I,Registered Voters,,,,891
+Cache,LOG18:CSD,Registered Voters,,,,252
+Cache,LOG18:IA,Registered Voters,,,,1008
+Cache,LOG18:IB,Registered Voters,,,,0
+Cache,LOG19:I,Registered Voters,,,,744
+Cache,LOG20:I,Registered Voters,,,,970
+Cache,LOG21:CSD,Registered Voters,,,,4
+Cache,LOG21:IA,Registered Voters,,,,933
+Cache,LOG21:IB,Registered Voters,,,,0
+Cache,LOG21:IC,Registered Voters,,,,0
+Cache,LOG22:CSD,Registered Voters,,,,65
+Cache,LOG22:I,Registered Voters,,,,463
+Cache,LOG23:I,Registered Voters,,,,853
+Cache,LOG24:17C1,Registered Voters,,,,1
+Cache,LOG24:17C2,Registered Voters,,,,2
+Cache,LOG24:CSD1,Registered Voters,,,,3
+Cache,LOG24:CSD2,Registered Voters,,,,174
+Cache,LOG24:CSD3,Registered Voters,,,,183
+Cache,LOG24:I,Registered Voters,,,,854
+Cache,LOG24:U,Registered Voters,,,,0
+Cache,LOG25:I,Registered Voters,,,,407
+Cache,MEN01:U,Registered Voters,,,,153
+Cache,MEN02:I,Registered Voters,,,,861
+Cache,MEN02:U,Registered Voters,,,,613
+Cache,MIL01:I,Registered Voters,,,,1186
+Cache,MIL01:U,Registered Voters,,,,0
+Cache,MIL02:I,Registered Voters,,,,88
+Cache,MIL02:U1,Registered Voters,,,,56
+Cache,MIL02:U2,Registered Voters,,,,0
+Cache,NEW:I,Registered Voters,,,,526
+Cache,NEW:U,Registered Voters,,,,122
+Cache,NEW:U2,Registered Voters,,,,17
+Cache,NIB01:IA,Registered Voters,,,,739
+Cache,NIB01:IB,Registered Voters,,,,0
+Cache,NIB01:U1,Registered Voters,,,,2
+Cache,NIB01:U2,Registered Voters,,,,4
+Cache,NIB01:U3,Registered Voters,,,,37
+Cache,NIB02:I,Registered Voters,,,,1293
+Cache,NIB03:I,Registered Voters,,,,808
+Cache,NIB04:I,Registered Voters,,,,1098
+Cache,NIB04:U,Registered Voters,,,,56
+Cache,NLG01:I,Registered Voters,,,,1047
+Cache,NLG02:I,Registered Voters,,,,1168
+Cache,NLG03:I,Registered Voters,,,,840
+Cache,NLG03:U,Registered Voters,,,,14
+Cache,NLG04:I,Registered Voters,,,,1184
+Cache,NLG04:U,Registered Voters,,,,44
+Cache,NLG05:I,Registered Voters,,,,848
+Cache,NLG06:I,Registered Voters,,,,918
+Cache,PAR:I,Registered Voters,,,,612
+Cache,PAR:U,Registered Voters,,,,599
+Cache,PRO01:IA,Registered Voters,,,,474
+Cache,PRO01:IB,Registered Voters,,,,0
+Cache,PRO01:IC,Registered Voters,,,,0
+Cache,PRO02:IA,Registered Voters,,,,1056
+Cache,PRO02:IB,Registered Voters,,,,0
+Cache,PRO03:I,Registered Voters,,,,1050
+Cache,PRO03:U1,Registered Voters,,,,2
+Cache,PRO03:U2,Registered Voters,,,,2
+Cache,PRO03:U3,Registered Voters,,,,6
+Cache,PRO04:I,Registered Voters,,,,896
+Cache,PRO04:U,Registered Voters,,,,0
+Cache,PRO05:I,Registered Voters,,,,867
+Cache,PRO06:I,Registered Voters,,,,866
+Cache,RCH01:I,Registered Voters,,,,817
+Cache,RCH01:U1,Registered Voters,,,,2
+Cache,RCH01:U2,Registered Voters,,,,3
+Cache,RCH01:U3,Registered Voters,,,,56
+Cache,RCH02:I,Registered Voters,,,,732
+Cache,RCH02:U1,Registered Voters,,,,25
+Cache,RCH02:U2,Registered Voters,,,,63
+Cache,RCH03:I,Registered Voters,,,,0
+Cache,RVH01:I,Registered Voters,,,,938
+Cache,RVH01:U,Registered Voters,,,,2
+Cache,RVH02:I,Registered Voters,,,,314
+Cache,RVH02:U1,Registered Voters,,,,2
+Cache,RVH02:U2,Registered Voters,,,,2
+Cache,RVH02:U3,Registered Voters,,,,8
+Cache,SMI01:I,Registered Voters,,,,964
+Cache,SMI01:U1,Registered Voters,,,,67
+Cache,SMI01:U2,Registered Voters,,,,0
+Cache,SMI02:I,Registered Voters,,,,1276
+Cache,SMI02:U,Registered Voters,,,,31
+Cache,SMI03:I,Registered Voters,,,,856
+Cache,SMI03:U,Registered Voters,,,,2
+Cache,SMI04:I,Registered Voters,,,,741
+Cache,SMI04:U,Registered Voters,,,,9
+Cache,SMI05:I,Registered Voters,,,,980
+Cache,SMI05:U,Registered Voters,,,,21
+Cache,SMI06:I,Registered Voters,,,,840
+Cache,SMI06:U,Registered Voters,,,,91
+Cache,SMI07:I,Registered Voters,,,,1072
+Cache,SMI07:U,Registered Voters,,,,175
+Cache,SMI08:I,Registered Voters,,,,582
+Cache,TRE:I,Registered Voters,,,,307
+Cache,UNINHC:1,Registered Voters,,,,0
+Cache,UNINHC:2,Registered Voters,,,,0
+Cache,WEL01:I,Registered Voters,,,,928
+Cache,WEL01:U1,Registered Voters,,,,193
+Cache,WEL01:U2,Registered Voters,,,,0
+Cache,WEL01:U3,Registered Voters,,,,5
+Cache,WEL02:I,Registered Voters,,,,707
+Cache,WEL02:U,Registered Voters,,,,38
+Cache,WEL03:I,Registered Voters,,,,674
+Cache,WEL03:U,Registered Voters,,,,242
+Cache,AMA:I,Ballots Cast,,,,187
+Cache,AMA:U1,Ballots Cast,,,,2
+Cache,AMA:U2,Ballots Cast,,,,0
+Cache,AMA:U3,Ballots Cast,,,,10
+Cache,BEN:U,Ballots Cast,,,,277
+Cache,CLK:I,Ballots Cast,,,,257
+Cache,CLK:U1,Ballots Cast,,,,25
+Cache,CLK:U2,Ballots Cast,,,,0
+Cache,COR:I,Ballots Cast,,,,90
+Cache,COR:U,Ballots Cast,,,,10
+Cache,COV:U,Ballots Cast,,,,217
+Cache,COV:U2,Ballots Cast,,,,35
+Cache,CY:U,Ballots Cast,,,,396
+Cache,HYD01:I,Ballots Cast,,,,720
+Cache,HYD01:U,Ballots Cast,,,,0
+Cache,HYD02:I,Ballots Cast,,,,733
+Cache,HYD02:U1,Ballots Cast,,,,36
+Cache,HYD02:U2,Ballots Cast,,,,0
+Cache,HYD03:I,Ballots Cast,,,,867
+Cache,HYD03:U,Ballots Cast,,,,0
+Cache,HYR01:I,Ballots Cast,,,,492
+Cache,HYR01:U,Ballots Cast,,,,98
+Cache,HYR02:I,Ballots Cast,,,,449
+Cache,HYR02:U1,Ballots Cast,,,,11
+Cache,HYR02:U2,Ballots Cast,,,,0
+Cache,HYR03:I,Ballots Cast,,,,585
+Cache,HYR03:U,Ballots Cast,,,,10
+Cache,HYR04:I,Ballots Cast,,,,779
+Cache,HYR04:U1,Ballots Cast,,,,2
+Cache,HYR04:U2,Ballots Cast,,,,61
+Cache,HYR04:U3,Ballots Cast,,,,1
+Cache,HYR05:I,Ballots Cast,,,,760
+Cache,HYR05:U1,Ballots Cast,,,,15
+Cache,HYR05:U2,Ballots Cast,,,,0
+Cache,LEW00:I,Ballots Cast,,,,0
+Cache,LEW01:I,Ballots Cast,,,,681
+Cache,LEW01:U1,Ballots Cast,,,,3
+Cache,LEW01:U2,Ballots Cast,,,,0
+Cache,LEW01:U3,Ballots Cast,,,,0
+Cache,LEW01:U4,Ballots Cast,,,,0
+Cache,LOG01:I,Ballots Cast,,,,599
+Cache,LOG02:I,Ballots Cast,,,,447
+Cache,LOG03:I,Ballots Cast,,,,352
+Cache,LOG04:I,Ballots Cast,,,,643
+Cache,LOG05:I,Ballots Cast,,,,359
+Cache,LOG06:I,Ballots Cast,,,,322
+Cache,LOG07:I,Ballots Cast,,,,419
+Cache,LOG08:I,Ballots Cast,,,,566
+Cache,LOG09:I,Ballots Cast,,,,531
+Cache,LOG10:I,Ballots Cast,,,,401
+Cache,LOG11:I,Ballots Cast,,,,369
+Cache,LOG12:I,Ballots Cast,,,,589
+Cache,LOG13:I,Ballots Cast,,,,370
+Cache,LOG13:U,Ballots Cast,,,,0
+Cache,LOG14:I,Ballots Cast,,,,424
+Cache,LOG14:U1,Ballots Cast,,,,0
+Cache,LOG14:U2,Ballots Cast,,,,0
+Cache,LOG14:U3,Ballots Cast,,,,0
+Cache,LOG15:I,Ballots Cast,,,,227
+Cache,LOG16:I,Ballots Cast,,,,619
+Cache,LOG17:I,Ballots Cast,,,,482
+Cache,LOG18:CSD,Ballots Cast,,,,113
+Cache,LOG18:IA,Ballots Cast,,,,604
+Cache,LOG18:IB,Ballots Cast,,,,0
+Cache,LOG19:I,Ballots Cast,,,,453
+Cache,LOG20:I,Ballots Cast,,,,697
+Cache,LOG21:CSD,Ballots Cast,,,,3
+Cache,LOG21:IA,Ballots Cast,,,,695
+Cache,LOG21:IB,Ballots Cast,,,,0
+Cache,LOG21:IC,Ballots Cast,,,,0
+Cache,LOG22:CSD,Ballots Cast,,,,37
+Cache,LOG22:I,Ballots Cast,,,,267
+Cache,LOG23:I,Ballots Cast,,,,466
+Cache,LOG24:17C1,Ballots Cast,,,,0
+Cache,LOG24:17C2,Ballots Cast,,,,2
+Cache,LOG24:CSD1,Ballots Cast,,,,2
+Cache,LOG24:CSD2,Ballots Cast,,,,88
+Cache,LOG24:CSD3,Ballots Cast,,,,88
+Cache,LOG24:I,Ballots Cast,,,,436
+Cache,LOG24:U,Ballots Cast,,,,0
+Cache,LOG25:I,Ballots Cast,,,,186
+Cache,MEN01:U,Ballots Cast,,,,99
+Cache,MEN02:I,Ballots Cast,,,,604
+Cache,MEN02:U,Ballots Cast,,,,448
+Cache,MIL01:I,Ballots Cast,,,,849
+Cache,MIL01:U,Ballots Cast,,,,0
+Cache,MIL02:I,Ballots Cast,,,,53
+Cache,MIL02:U1,Ballots Cast,,,,42
+Cache,MIL02:U2,Ballots Cast,,,,0
+Cache,NEW:I,Ballots Cast,,,,374
+Cache,NEW:U,Ballots Cast,,,,81
+Cache,NEW:U2,Ballots Cast,,,,7
+Cache,NIB01:IA,Ballots Cast,,,,430
+Cache,NIB01:IB,Ballots Cast,,,,0
+Cache,NIB01:U1,Ballots Cast,,,,2
+Cache,NIB01:U2,Ballots Cast,,,,3
+Cache,NIB01:U3,Ballots Cast,,,,24
+Cache,NIB02:I,Ballots Cast,,,,814
+Cache,NIB03:I,Ballots Cast,,,,530
+Cache,NIB04:I,Ballots Cast,,,,778
+Cache,NIB04:U,Ballots Cast,,,,46
+Cache,NLG01:I,Ballots Cast,,,,578
+Cache,NLG02:I,Ballots Cast,,,,692
+Cache,NLG03:I,Ballots Cast,,,,587
+Cache,NLG03:U,Ballots Cast,,,,9
+Cache,NLG04:I,Ballots Cast,,,,836
+Cache,NLG04:U,Ballots Cast,,,,35
+Cache,NLG05:I,Ballots Cast,,,,656
+Cache,NLG06:I,Ballots Cast,,,,668
+Cache,PAR:I,Ballots Cast,,,,449
+Cache,PAR:U,Ballots Cast,,,,410
+Cache,PRO01:IA,Ballots Cast,,,,338
+Cache,PRO01:IB,Ballots Cast,,,,0
+Cache,PRO01:IC,Ballots Cast,,,,0
+Cache,PRO02:IA,Ballots Cast,,,,767
+Cache,PRO02:IB,Ballots Cast,,,,0
+Cache,PRO03:I,Ballots Cast,,,,706
+Cache,PRO03:U1,Ballots Cast,,,,2
+Cache,PRO03:U2,Ballots Cast,,,,0
+Cache,PRO03:U3,Ballots Cast,,,,7
+Cache,PRO04:I,Ballots Cast,,,,581
+Cache,PRO04:U,Ballots Cast,,,,0
+Cache,PRO05:I,Ballots Cast,,,,603
+Cache,PRO06:I,Ballots Cast,,,,563
+Cache,RCH01:I,Ballots Cast,,,,517
+Cache,RCH01:U1,Ballots Cast,,,,0
+Cache,RCH01:U2,Ballots Cast,,,,0
+Cache,RCH01:U3,Ballots Cast,,,,37
+Cache,RCH02:I,Ballots Cast,,,,503
+Cache,RCH02:U1,Ballots Cast,,,,16
+Cache,RCH02:U2,Ballots Cast,,,,53
+Cache,RCH03:I,Ballots Cast,,,,0
+Cache,RVH01:I,Ballots Cast,,,,666
+Cache,RVH01:U,Ballots Cast,,,,2
+Cache,RVH02:I,Ballots Cast,,,,213
+Cache,RVH02:U1,Ballots Cast,,,,2
+Cache,RVH02:U2,Ballots Cast,,,,2
+Cache,RVH02:U3,Ballots Cast,,,,6
+Cache,SMI01:I,Ballots Cast,,,,604
+Cache,SMI01:U1,Ballots Cast,,,,46
+Cache,SMI01:U2,Ballots Cast,,,,0
+Cache,SMI02:I,Ballots Cast,,,,869
+Cache,SMI02:U,Ballots Cast,,,,23
+Cache,SMI03:I,Ballots Cast,,,,591
+Cache,SMI03:U,Ballots Cast,,,,2
+Cache,SMI04:I,Ballots Cast,,,,491
+Cache,SMI04:U,Ballots Cast,,,,8
+Cache,SMI05:I,Ballots Cast,,,,540
+Cache,SMI05:U,Ballots Cast,,,,16
+Cache,SMI06:I,Ballots Cast,,,,500
+Cache,SMI06:U,Ballots Cast,,,,65
+Cache,SMI07:I,Ballots Cast,,,,697
+Cache,SMI07:U,Ballots Cast,,,,120
+Cache,SMI08:I,Ballots Cast,,,,377
+Cache,TRE:I,Ballots Cast,,,,200
+Cache,UNINHC:1,Ballots Cast,,,,1
+Cache,UNINHC:2,Ballots Cast,,,,0
+Cache,WEL01:I,Ballots Cast,,,,615
+Cache,WEL01:U1,Ballots Cast,,,,133
+Cache,WEL01:U2,Ballots Cast,,,,0
+Cache,WEL01:U3,Ballots Cast,,,,3
+Cache,WEL02:I,Ballots Cast,,,,500
+Cache,WEL02:U,Ballots Cast,,,,24
+Cache,WEL03:I,Ballots Cast,,,,475
+Cache,WEL03:U,Ballots Cast,,,,180
+Cache,AMA:I,U.S. Senate,,Evan McMullin,UNA,59
+Cache,AMA:U1,U.S. Senate,,Evan McMullin,UNA,0
+Cache,AMA:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,AMA:U3,U.S. Senate,,Evan McMullin,UNA,0
+Cache,BEN:U,U.S. Senate,,Evan McMullin,UNA,71
+Cache,CLK:I,U.S. Senate,,Evan McMullin,UNA,46
+Cache,CLK:U1,U.S. Senate,,Evan McMullin,UNA,5
+Cache,CLK:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,COR:I,U.S. Senate,,Evan McMullin,UNA,21
+Cache,COR:U,U.S. Senate,,Evan McMullin,UNA,2
+Cache,COV:U,U.S. Senate,,Evan McMullin,UNA,46
+Cache,COV:U2,U.S. Senate,,Evan McMullin,UNA,5
+Cache,CY:U,U.S. Senate,,Evan McMullin,UNA,94
+Cache,HYD01:I,U.S. Senate,,Evan McMullin,UNA,275
+Cache,HYD01:U,U.S. Senate,,Evan McMullin,UNA,0
+Cache,HYD02:I,U.S. Senate,,Evan McMullin,UNA,295
+Cache,HYD02:U1,U.S. Senate,,Evan McMullin,UNA,7
+Cache,HYD02:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,HYD03:I,U.S. Senate,,Evan McMullin,UNA,304
+Cache,HYD03:U,U.S. Senate,,Evan McMullin,UNA,0
+Cache,HYR01:I,U.S. Senate,,Evan McMullin,UNA,148
+Cache,HYR01:U,U.S. Senate,,Evan McMullin,UNA,31
+Cache,HYR02:I,U.S. Senate,,Evan McMullin,UNA,121
+Cache,HYR02:U1,U.S. Senate,,Evan McMullin,UNA,0
+Cache,HYR02:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,HYR03:I,U.S. Senate,,Evan McMullin,UNA,165
+Cache,HYR03:U,U.S. Senate,,Evan McMullin,UNA,4
+Cache,HYR04:I,U.S. Senate,,Evan McMullin,UNA,221
+Cache,HYR04:U1,U.S. Senate,,Evan McMullin,UNA,0
+Cache,HYR04:U2,U.S. Senate,,Evan McMullin,UNA,11
+Cache,HYR04:U3,U.S. Senate,,Evan McMullin,UNA,0
+Cache,HYR05:I,U.S. Senate,,Evan McMullin,UNA,243
+Cache,HYR05:U1,U.S. Senate,,Evan McMullin,UNA,3
+Cache,HYR05:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LEW00:I,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LEW01:I,U.S. Senate,,Evan McMullin,UNA,133
+Cache,LEW01:U1,U.S. Senate,,Evan McMullin,UNA,3
+Cache,LEW01:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LEW01:U3,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LEW01:U4,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG01:I,U.S. Senate,,Evan McMullin,UNA,297
+Cache,LOG02:I,U.S. Senate,,Evan McMullin,UNA,209
+Cache,LOG03:I,U.S. Senate,,Evan McMullin,UNA,169
+Cache,LOG04:I,U.S. Senate,,Evan McMullin,UNA,291
+Cache,LOG05:I,U.S. Senate,,Evan McMullin,UNA,193
+Cache,LOG06:I,U.S. Senate,,Evan McMullin,UNA,179
+Cache,LOG07:I,U.S. Senate,,Evan McMullin,UNA,223
+Cache,LOG08:I,U.S. Senate,,Evan McMullin,UNA,335
+Cache,LOG09:I,U.S. Senate,,Evan McMullin,UNA,227
+Cache,LOG10:I,U.S. Senate,,Evan McMullin,UNA,272
+Cache,LOG11:I,U.S. Senate,,Evan McMullin,UNA,206
+Cache,LOG12:I,U.S. Senate,,Evan McMullin,UNA,253
+Cache,LOG13:I,U.S. Senate,,Evan McMullin,UNA,205
+Cache,LOG13:U,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG14:I,U.S. Senate,,Evan McMullin,UNA,236
+Cache,LOG14:U1,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG14:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG14:U3,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG15:I,U.S. Senate,,Evan McMullin,UNA,95
+Cache,LOG16:I,U.S. Senate,,Evan McMullin,UNA,325
+Cache,LOG17:I,U.S. Senate,,Evan McMullin,UNA,262
+Cache,LOG18:CSD,U.S. Senate,,Evan McMullin,UNA,66
+Cache,LOG18:IA,U.S. Senate,,Evan McMullin,UNA,328
+Cache,LOG18:IB,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG19:I,U.S. Senate,,Evan McMullin,UNA,233
+Cache,LOG20:I,U.S. Senate,,Evan McMullin,UNA,351
+Cache,LOG21:CSD,U.S. Senate,,Evan McMullin,UNA,3
+Cache,LOG21:IA,U.S. Senate,,Evan McMullin,UNA,337
+Cache,LOG21:IB,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG21:IC,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG22:CSD,U.S. Senate,,Evan McMullin,UNA,19
+Cache,LOG22:I,U.S. Senate,,Evan McMullin,UNA,96
+Cache,LOG23:I,U.S. Senate,,Evan McMullin,UNA,185
+Cache,LOG24:17C1,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG24:17C2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG24:CSD1,U.S. Senate,,Evan McMullin,UNA,2
+Cache,LOG24:CSD2,U.S. Senate,,Evan McMullin,UNA,33
+Cache,LOG24:CSD3,U.S. Senate,,Evan McMullin,UNA,37
+Cache,LOG24:I,U.S. Senate,,Evan McMullin,UNA,175
+Cache,LOG24:U,U.S. Senate,,Evan McMullin,UNA,0
+Cache,LOG25:I,U.S. Senate,,Evan McMullin,UNA,77
+Cache,MEN01:U,U.S. Senate,,Evan McMullin,UNA,22
+Cache,MEN02:I,U.S. Senate,,Evan McMullin,UNA,178
+Cache,MEN02:U,U.S. Senate,,Evan McMullin,UNA,112
+Cache,MIL01:I,U.S. Senate,,Evan McMullin,UNA,214
+Cache,MIL01:U,U.S. Senate,,Evan McMullin,UNA,0
+Cache,MIL02:I,U.S. Senate,,Evan McMullin,UNA,15
+Cache,MIL02:U1,U.S. Senate,,Evan McMullin,UNA,13
+Cache,MIL02:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,NEW:I,U.S. Senate,,Evan McMullin,UNA,79
+Cache,NEW:U,U.S. Senate,,Evan McMullin,UNA,16
+Cache,NEW:U2,U.S. Senate,,Evan McMullin,UNA,1
+Cache,NIB01:IA,U.S. Senate,,Evan McMullin,UNA,133
+Cache,NIB01:IB,U.S. Senate,,Evan McMullin,UNA,0
+Cache,NIB01:U1,U.S. Senate,,Evan McMullin,UNA,0
+Cache,NIB01:U2,U.S. Senate,,Evan McMullin,UNA,2
+Cache,NIB01:U3,U.S. Senate,,Evan McMullin,UNA,5
+Cache,NIB02:I,U.S. Senate,,Evan McMullin,UNA,285
+Cache,NIB03:I,U.S. Senate,,Evan McMullin,UNA,158
+Cache,NIB04:I,U.S. Senate,,Evan McMullin,UNA,210
+Cache,NIB04:U,U.S. Senate,,Evan McMullin,UNA,12
+Cache,NLG01:I,U.S. Senate,,Evan McMullin,UNA,265
+Cache,NLG02:I,U.S. Senate,,Evan McMullin,UNA,293
+Cache,NLG03:I,U.S. Senate,,Evan McMullin,UNA,213
+Cache,NLG03:U,U.S. Senate,,Evan McMullin,UNA,6
+Cache,NLG04:I,U.S. Senate,,Evan McMullin,UNA,316
+Cache,NLG04:U,U.S. Senate,,Evan McMullin,UNA,2
+Cache,NLG05:I,U.S. Senate,,Evan McMullin,UNA,290
+Cache,NLG06:I,U.S. Senate,,Evan McMullin,UNA,297
+Cache,PAR:I,U.S. Senate,,Evan McMullin,UNA,75
+Cache,PAR:U,U.S. Senate,,Evan McMullin,UNA,95
+Cache,PRO01:IA,U.S. Senate,,Evan McMullin,UNA,110
+Cache,PRO01:IB,U.S. Senate,,Evan McMullin,UNA,0
+Cache,PRO01:IC,U.S. Senate,,Evan McMullin,UNA,0
+Cache,PRO02:IA,U.S. Senate,,Evan McMullin,UNA,283
+Cache,PRO02:IB,U.S. Senate,,Evan McMullin,UNA,0
+Cache,PRO03:I,U.S. Senate,,Evan McMullin,UNA,251
+Cache,PRO03:U1,U.S. Senate,,Evan McMullin,UNA,0
+Cache,PRO03:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,PRO03:U3,U.S. Senate,,Evan McMullin,UNA,4
+Cache,PRO04:I,U.S. Senate,,Evan McMullin,UNA,228
+Cache,PRO04:U,U.S. Senate,,Evan McMullin,UNA,0
+Cache,PRO05:I,U.S. Senate,,Evan McMullin,UNA,234
+Cache,PRO06:I,U.S. Senate,,Evan McMullin,UNA,222
+Cache,RCH01:I,U.S. Senate,,Evan McMullin,UNA,127
+Cache,RCH01:U1,U.S. Senate,,Evan McMullin,UNA,0
+Cache,RCH01:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,RCH01:U3,U.S. Senate,,Evan McMullin,UNA,12
+Cache,RCH02:I,U.S. Senate,,Evan McMullin,UNA,126
+Cache,RCH02:U1,U.S. Senate,,Evan McMullin,UNA,2
+Cache,RCH02:U2,U.S. Senate,,Evan McMullin,UNA,11
+Cache,RCH03:I,U.S. Senate,,Evan McMullin,UNA,0
+Cache,RVH01:I,U.S. Senate,,Evan McMullin,UNA,291
+Cache,RVH01:U,U.S. Senate,,Evan McMullin,UNA,0
+Cache,RVH02:I,U.S. Senate,,Evan McMullin,UNA,89
+Cache,RVH02:U1,U.S. Senate,,Evan McMullin,UNA,0
+Cache,RVH02:U2,U.S. Senate,,Evan McMullin,UNA,2
+Cache,RVH02:U3,U.S. Senate,,Evan McMullin,UNA,0
+Cache,SMI01:I,U.S. Senate,,Evan McMullin,UNA,200
+Cache,SMI01:U1,U.S. Senate,,Evan McMullin,UNA,8
+Cache,SMI01:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,SMI02:I,U.S. Senate,,Evan McMullin,UNA,262
+Cache,SMI02:U,U.S. Senate,,Evan McMullin,UNA,10
+Cache,SMI03:I,U.S. Senate,,Evan McMullin,UNA,208
+Cache,SMI03:U,U.S. Senate,,Evan McMullin,UNA,0
+Cache,SMI04:I,U.S. Senate,,Evan McMullin,UNA,151
+Cache,SMI04:U,U.S. Senate,,Evan McMullin,UNA,6
+Cache,SMI05:I,U.S. Senate,,Evan McMullin,UNA,168
+Cache,SMI05:U,U.S. Senate,,Evan McMullin,UNA,6
+Cache,SMI06:I,U.S. Senate,,Evan McMullin,UNA,163
+Cache,SMI06:U,U.S. Senate,,Evan McMullin,UNA,8
+Cache,SMI07:I,U.S. Senate,,Evan McMullin,UNA,239
+Cache,SMI07:U,U.S. Senate,,Evan McMullin,UNA,27
+Cache,SMI08:I,U.S. Senate,,Evan McMullin,UNA,121
+Cache,TRE:I,U.S. Senate,,Evan McMullin,UNA,41
+Cache,UNINHC:1,U.S. Senate,,Evan McMullin,UNA,0
+Cache,UNINHC:2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,WEL01:I,U.S. Senate,,Evan McMullin,UNA,131
+Cache,WEL01:U1,U.S. Senate,,Evan McMullin,UNA,30
+Cache,WEL01:U2,U.S. Senate,,Evan McMullin,UNA,0
+Cache,WEL01:U3,U.S. Senate,,Evan McMullin,UNA,0
+Cache,WEL02:I,U.S. Senate,,Evan McMullin,UNA,127
+Cache,WEL02:U,U.S. Senate,,Evan McMullin,UNA,4
+Cache,WEL03:I,U.S. Senate,,Evan McMullin,UNA,100
+Cache,WEL03:U,U.S. Senate,,Evan McMullin,UNA,39
+Cache,AMA:I,U.S. Senate,,James Arthur Hansen,LIB,3
+Cache,AMA:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,AMA:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,AMA:U3,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,BEN:U,U.S. Senate,,James Arthur Hansen,LIB,2
+Cache,CLK:I,U.S. Senate,,James Arthur Hansen,LIB,2
+Cache,CLK:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,CLK:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,COR:I,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,COR:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,COV:U,U.S. Senate,,James Arthur Hansen,LIB,2
+Cache,COV:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,CY:U,U.S. Senate,,James Arthur Hansen,LIB,8
+Cache,HYD01:I,U.S. Senate,,James Arthur Hansen,LIB,12
+Cache,HYD01:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYD02:I,U.S. Senate,,James Arthur Hansen,LIB,16
+Cache,HYD02:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYD02:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYD03:I,U.S. Senate,,James Arthur Hansen,LIB,17
+Cache,HYD03:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYR01:I,U.S. Senate,,James Arthur Hansen,LIB,19
+Cache,HYR01:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYR02:I,U.S. Senate,,James Arthur Hansen,LIB,22
+Cache,HYR02:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYR02:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYR03:I,U.S. Senate,,James Arthur Hansen,LIB,14
+Cache,HYR03:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYR04:I,U.S. Senate,,James Arthur Hansen,LIB,17
+Cache,HYR04:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYR04:U2,U.S. Senate,,James Arthur Hansen,LIB,1
+Cache,HYR04:U3,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYR05:I,U.S. Senate,,James Arthur Hansen,LIB,14
+Cache,HYR05:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,HYR05:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LEW00:I,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LEW01:I,U.S. Senate,,James Arthur Hansen,LIB,17
+Cache,LEW01:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LEW01:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LEW01:U3,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LEW01:U4,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG01:I,U.S. Senate,,James Arthur Hansen,LIB,23
+Cache,LOG02:I,U.S. Senate,,James Arthur Hansen,LIB,26
+Cache,LOG03:I,U.S. Senate,,James Arthur Hansen,LIB,19
+Cache,LOG04:I,U.S. Senate,,James Arthur Hansen,LIB,37
+Cache,LOG05:I,U.S. Senate,,James Arthur Hansen,LIB,31
+Cache,LOG06:I,U.S. Senate,,James Arthur Hansen,LIB,20
+Cache,LOG07:I,U.S. Senate,,James Arthur Hansen,LIB,6
+Cache,LOG08:I,U.S. Senate,,James Arthur Hansen,LIB,10
+Cache,LOG09:I,U.S. Senate,,James Arthur Hansen,LIB,25
+Cache,LOG10:I,U.S. Senate,,James Arthur Hansen,LIB,25
+Cache,LOG11:I,U.S. Senate,,James Arthur Hansen,LIB,5
+Cache,LOG12:I,U.S. Senate,,James Arthur Hansen,LIB,27
+Cache,LOG13:I,U.S. Senate,,James Arthur Hansen,LIB,29
+Cache,LOG13:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG14:I,U.S. Senate,,James Arthur Hansen,LIB,26
+Cache,LOG14:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG14:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG14:U3,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG15:I,U.S. Senate,,James Arthur Hansen,LIB,7
+Cache,LOG16:I,U.S. Senate,,James Arthur Hansen,LIB,39
+Cache,LOG17:I,U.S. Senate,,James Arthur Hansen,LIB,30
+Cache,LOG18:CSD,U.S. Senate,,James Arthur Hansen,LIB,6
+Cache,LOG18:IA,U.S. Senate,,James Arthur Hansen,LIB,33
+Cache,LOG18:IB,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG19:I,U.S. Senate,,James Arthur Hansen,LIB,24
+Cache,LOG20:I,U.S. Senate,,James Arthur Hansen,LIB,17
+Cache,LOG21:CSD,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG21:IA,U.S. Senate,,James Arthur Hansen,LIB,12
+Cache,LOG21:IB,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG21:IC,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG22:CSD,U.S. Senate,,James Arthur Hansen,LIB,1
+Cache,LOG22:I,U.S. Senate,,James Arthur Hansen,LIB,10
+Cache,LOG23:I,U.S. Senate,,James Arthur Hansen,LIB,18
+Cache,LOG24:17C1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG24:17C2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG24:CSD1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG24:CSD2,U.S. Senate,,James Arthur Hansen,LIB,4
+Cache,LOG24:CSD3,U.S. Senate,,James Arthur Hansen,LIB,11
+Cache,LOG24:I,U.S. Senate,,James Arthur Hansen,LIB,16
+Cache,LOG24:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,LOG25:I,U.S. Senate,,James Arthur Hansen,LIB,11
+Cache,MEN01:U,U.S. Senate,,James Arthur Hansen,LIB,2
+Cache,MEN02:I,U.S. Senate,,James Arthur Hansen,LIB,17
+Cache,MEN02:U,U.S. Senate,,James Arthur Hansen,LIB,7
+Cache,MIL01:I,U.S. Senate,,James Arthur Hansen,LIB,19
+Cache,MIL01:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,MIL02:I,U.S. Senate,,James Arthur Hansen,LIB,4
+Cache,MIL02:U1,U.S. Senate,,James Arthur Hansen,LIB,2
+Cache,MIL02:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,NEW:I,U.S. Senate,,James Arthur Hansen,LIB,9
+Cache,NEW:U,U.S. Senate,,James Arthur Hansen,LIB,1
+Cache,NEW:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,NIB01:IA,U.S. Senate,,James Arthur Hansen,LIB,17
+Cache,NIB01:IB,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,NIB01:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,NIB01:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,NIB01:U3,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,NIB02:I,U.S. Senate,,James Arthur Hansen,LIB,22
+Cache,NIB03:I,U.S. Senate,,James Arthur Hansen,LIB,8
+Cache,NIB04:I,U.S. Senate,,James Arthur Hansen,LIB,20
+Cache,NIB04:U,U.S. Senate,,James Arthur Hansen,LIB,2
+Cache,NLG01:I,U.S. Senate,,James Arthur Hansen,LIB,26
+Cache,NLG02:I,U.S. Senate,,James Arthur Hansen,LIB,27
+Cache,NLG03:I,U.S. Senate,,James Arthur Hansen,LIB,11
+Cache,NLG03:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,NLG04:I,U.S. Senate,,James Arthur Hansen,LIB,9
+Cache,NLG04:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,NLG05:I,U.S. Senate,,James Arthur Hansen,LIB,11
+Cache,NLG06:I,U.S. Senate,,James Arthur Hansen,LIB,6
+Cache,PAR:I,U.S. Senate,,James Arthur Hansen,LIB,4
+Cache,PAR:U,U.S. Senate,,James Arthur Hansen,LIB,12
+Cache,PRO01:IA,U.S. Senate,,James Arthur Hansen,LIB,7
+Cache,PRO01:IB,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,PRO01:IC,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,PRO02:IA,U.S. Senate,,James Arthur Hansen,LIB,13
+Cache,PRO02:IB,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,PRO03:I,U.S. Senate,,James Arthur Hansen,LIB,17
+Cache,PRO03:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,PRO03:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,PRO03:U3,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,PRO04:I,U.S. Senate,,James Arthur Hansen,LIB,19
+Cache,PRO04:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,PRO05:I,U.S. Senate,,James Arthur Hansen,LIB,11
+Cache,PRO06:I,U.S. Senate,,James Arthur Hansen,LIB,11
+Cache,RCH01:I,U.S. Senate,,James Arthur Hansen,LIB,14
+Cache,RCH01:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,RCH01:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,RCH01:U3,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,RCH02:I,U.S. Senate,,James Arthur Hansen,LIB,12
+Cache,RCH02:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,RCH02:U2,U.S. Senate,,James Arthur Hansen,LIB,1
+Cache,RCH03:I,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,RVH01:I,U.S. Senate,,James Arthur Hansen,LIB,18
+Cache,RVH01:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,RVH02:I,U.S. Senate,,James Arthur Hansen,LIB,4
+Cache,RVH02:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,RVH02:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,RVH02:U3,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,SMI01:I,U.S. Senate,,James Arthur Hansen,LIB,11
+Cache,SMI01:U1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,SMI01:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,SMI02:I,U.S. Senate,,James Arthur Hansen,LIB,21
+Cache,SMI02:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,SMI03:I,U.S. Senate,,James Arthur Hansen,LIB,12
+Cache,SMI03:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,SMI04:I,U.S. Senate,,James Arthur Hansen,LIB,7
+Cache,SMI04:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,SMI05:I,U.S. Senate,,James Arthur Hansen,LIB,12
+Cache,SMI05:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,SMI06:I,U.S. Senate,,James Arthur Hansen,LIB,16
+Cache,SMI06:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,SMI07:I,U.S. Senate,,James Arthur Hansen,LIB,13
+Cache,SMI07:U,U.S. Senate,,James Arthur Hansen,LIB,2
+Cache,SMI08:I,U.S. Senate,,James Arthur Hansen,LIB,5
+Cache,TRE:I,U.S. Senate,,James Arthur Hansen,LIB,14
+Cache,UNINHC:1,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,UNINHC:2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,WEL01:I,U.S. Senate,,James Arthur Hansen,LIB,12
+Cache,WEL01:U1,U.S. Senate,,James Arthur Hansen,LIB,1
+Cache,WEL01:U2,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,WEL01:U3,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,WEL02:I,U.S. Senate,,James Arthur Hansen,LIB,11
+Cache,WEL02:U,U.S. Senate,,James Arthur Hansen,LIB,0
+Cache,WEL03:I,U.S. Senate,,James Arthur Hansen,LIB,10
+Cache,WEL03:U,U.S. Senate,,James Arthur Hansen,LIB,4
+Cache,AMA:I,U.S. Senate,,Mike Lee,REP,120
+Cache,AMA:U1,U.S. Senate,,Mike Lee,REP,2
+Cache,AMA:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,AMA:U3,U.S. Senate,,Mike Lee,REP,10
+Cache,BEN:U,U.S. Senate,,Mike Lee,REP,198
+Cache,CLK:I,U.S. Senate,,Mike Lee,REP,203
+Cache,CLK:U1,U.S. Senate,,Mike Lee,REP,20
+Cache,CLK:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,COR:I,U.S. Senate,,Mike Lee,REP,62
+Cache,COR:U,U.S. Senate,,Mike Lee,REP,8
+Cache,COV:U,U.S. Senate,,Mike Lee,REP,163
+Cache,COV:U2,U.S. Senate,,Mike Lee,REP,29
+Cache,CY:U,U.S. Senate,,Mike Lee,REP,279
+Cache,HYD01:I,U.S. Senate,,Mike Lee,REP,421
+Cache,HYD01:U,U.S. Senate,,Mike Lee,REP,0
+Cache,HYD02:I,U.S. Senate,,Mike Lee,REP,413
+Cache,HYD02:U1,U.S. Senate,,Mike Lee,REP,28
+Cache,HYD02:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,HYD03:I,U.S. Senate,,Mike Lee,REP,531
+Cache,HYD03:U,U.S. Senate,,Mike Lee,REP,0
+Cache,HYR01:I,U.S. Senate,,Mike Lee,REP,313
+Cache,HYR01:U,U.S. Senate,,Mike Lee,REP,67
+Cache,HYR02:I,U.S. Senate,,Mike Lee,REP,295
+Cache,HYR02:U1,U.S. Senate,,Mike Lee,REP,11
+Cache,HYR02:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,HYR03:I,U.S. Senate,,Mike Lee,REP,388
+Cache,HYR03:U,U.S. Senate,,Mike Lee,REP,6
+Cache,HYR04:I,U.S. Senate,,Mike Lee,REP,519
+Cache,HYR04:U1,U.S. Senate,,Mike Lee,REP,2
+Cache,HYR04:U2,U.S. Senate,,Mike Lee,REP,45
+Cache,HYR04:U3,U.S. Senate,,Mike Lee,REP,1
+Cache,HYR05:I,U.S. Senate,,Mike Lee,REP,482
+Cache,HYR05:U1,U.S. Senate,,Mike Lee,REP,12
+Cache,HYR05:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,LEW00:I,U.S. Senate,,Mike Lee,REP,0
+Cache,LEW01:I,U.S. Senate,,Mike Lee,REP,522
+Cache,LEW01:U1,U.S. Senate,,Mike Lee,REP,0
+Cache,LEW01:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,LEW01:U3,U.S. Senate,,Mike Lee,REP,0
+Cache,LEW01:U4,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG01:I,U.S. Senate,,Mike Lee,REP,265
+Cache,LOG02:I,U.S. Senate,,Mike Lee,REP,197
+Cache,LOG03:I,U.S. Senate,,Mike Lee,REP,147
+Cache,LOG04:I,U.S. Senate,,Mike Lee,REP,295
+Cache,LOG05:I,U.S. Senate,,Mike Lee,REP,129
+Cache,LOG06:I,U.S. Senate,,Mike Lee,REP,113
+Cache,LOG07:I,U.S. Senate,,Mike Lee,REP,178
+Cache,LOG08:I,U.S. Senate,,Mike Lee,REP,209
+Cache,LOG09:I,U.S. Senate,,Mike Lee,REP,268
+Cache,LOG10:I,U.S. Senate,,Mike Lee,REP,96
+Cache,LOG11:I,U.S. Senate,,Mike Lee,REP,150
+Cache,LOG12:I,U.S. Senate,,Mike Lee,REP,282
+Cache,LOG13:I,U.S. Senate,,Mike Lee,REP,125
+Cache,LOG13:U,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG14:I,U.S. Senate,,Mike Lee,REP,148
+Cache,LOG14:U1,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG14:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG14:U3,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG15:I,U.S. Senate,,Mike Lee,REP,114
+Cache,LOG16:I,U.S. Senate,,Mike Lee,REP,234
+Cache,LOG17:I,U.S. Senate,,Mike Lee,REP,180
+Cache,LOG18:CSD,U.S. Senate,,Mike Lee,REP,38
+Cache,LOG18:IA,U.S. Senate,,Mike Lee,REP,226
+Cache,LOG18:IB,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG19:I,U.S. Senate,,Mike Lee,REP,176
+Cache,LOG20:I,U.S. Senate,,Mike Lee,REP,321
+Cache,LOG21:CSD,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG21:IA,U.S. Senate,,Mike Lee,REP,332
+Cache,LOG21:IB,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG21:IC,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG22:CSD,U.S. Senate,,Mike Lee,REP,17
+Cache,LOG22:I,U.S. Senate,,Mike Lee,REP,154
+Cache,LOG23:I,U.S. Senate,,Mike Lee,REP,250
+Cache,LOG24:17C1,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG24:17C2,U.S. Senate,,Mike Lee,REP,2
+Cache,LOG24:CSD1,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG24:CSD2,U.S. Senate,,Mike Lee,REP,50
+Cache,LOG24:CSD3,U.S. Senate,,Mike Lee,REP,38
+Cache,LOG24:I,U.S. Senate,,Mike Lee,REP,228
+Cache,LOG24:U,U.S. Senate,,Mike Lee,REP,0
+Cache,LOG25:I,U.S. Senate,,Mike Lee,REP,94
+Cache,MEN01:U,U.S. Senate,,Mike Lee,REP,75
+Cache,MEN02:I,U.S. Senate,,Mike Lee,REP,395
+Cache,MEN02:U,U.S. Senate,,Mike Lee,REP,319
+Cache,MIL01:I,U.S. Senate,,Mike Lee,REP,602
+Cache,MIL01:U,U.S. Senate,,Mike Lee,REP,0
+Cache,MIL02:I,U.S. Senate,,Mike Lee,REP,34
+Cache,MIL02:U1,U.S. Senate,,Mike Lee,REP,27
+Cache,MIL02:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,NEW:I,U.S. Senate,,Mike Lee,REP,277
+Cache,NEW:U,U.S. Senate,,Mike Lee,REP,63
+Cache,NEW:U2,U.S. Senate,,Mike Lee,REP,6
+Cache,NIB01:IA,U.S. Senate,,Mike Lee,REP,267
+Cache,NIB01:IB,U.S. Senate,,Mike Lee,REP,0
+Cache,NIB01:U1,U.S. Senate,,Mike Lee,REP,2
+Cache,NIB01:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,NIB01:U3,U.S. Senate,,Mike Lee,REP,18
+Cache,NIB02:I,U.S. Senate,,Mike Lee,REP,486
+Cache,NIB03:I,U.S. Senate,,Mike Lee,REP,350
+Cache,NIB04:I,U.S. Senate,,Mike Lee,REP,529
+Cache,NIB04:U,U.S. Senate,,Mike Lee,REP,30
+Cache,NLG01:I,U.S. Senate,,Mike Lee,REP,275
+Cache,NLG02:I,U.S. Senate,,Mike Lee,REP,352
+Cache,NLG03:I,U.S. Senate,,Mike Lee,REP,346
+Cache,NLG03:U,U.S. Senate,,Mike Lee,REP,3
+Cache,NLG04:I,U.S. Senate,,Mike Lee,REP,501
+Cache,NLG04:U,U.S. Senate,,Mike Lee,REP,31
+Cache,NLG05:I,U.S. Senate,,Mike Lee,REP,347
+Cache,NLG06:I,U.S. Senate,,Mike Lee,REP,346
+Cache,PAR:I,U.S. Senate,,Mike Lee,REP,361
+Cache,PAR:U,U.S. Senate,,Mike Lee,REP,294
+Cache,PRO01:IA,U.S. Senate,,Mike Lee,REP,212
+Cache,PRO01:IB,U.S. Senate,,Mike Lee,REP,0
+Cache,PRO01:IC,U.S. Senate,,Mike Lee,REP,0
+Cache,PRO02:IA,U.S. Senate,,Mike Lee,REP,454
+Cache,PRO02:IB,U.S. Senate,,Mike Lee,REP,0
+Cache,PRO03:I,U.S. Senate,,Mike Lee,REP,422
+Cache,PRO03:U1,U.S. Senate,,Mike Lee,REP,2
+Cache,PRO03:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,PRO03:U3,U.S. Senate,,Mike Lee,REP,3
+Cache,PRO04:I,U.S. Senate,,Mike Lee,REP,321
+Cache,PRO04:U,U.S. Senate,,Mike Lee,REP,0
+Cache,PRO05:I,U.S. Senate,,Mike Lee,REP,347
+Cache,PRO06:I,U.S. Senate,,Mike Lee,REP,312
+Cache,RCH01:I,U.S. Senate,,Mike Lee,REP,356
+Cache,RCH01:U1,U.S. Senate,,Mike Lee,REP,0
+Cache,RCH01:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,RCH01:U3,U.S. Senate,,Mike Lee,REP,25
+Cache,RCH02:I,U.S. Senate,,Mike Lee,REP,354
+Cache,RCH02:U1,U.S. Senate,,Mike Lee,REP,13
+Cache,RCH02:U2,U.S. Senate,,Mike Lee,REP,41
+Cache,RCH03:I,U.S. Senate,,Mike Lee,REP,0
+Cache,RVH01:I,U.S. Senate,,Mike Lee,REP,337
+Cache,RVH01:U,U.S. Senate,,Mike Lee,REP,2
+Cache,RVH02:I,U.S. Senate,,Mike Lee,REP,114
+Cache,RVH02:U1,U.S. Senate,,Mike Lee,REP,2
+Cache,RVH02:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,RVH02:U3,U.S. Senate,,Mike Lee,REP,6
+Cache,SMI01:I,U.S. Senate,,Mike Lee,REP,373
+Cache,SMI01:U1,U.S. Senate,,Mike Lee,REP,38
+Cache,SMI01:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,SMI02:I,U.S. Senate,,Mike Lee,REP,579
+Cache,SMI02:U,U.S. Senate,,Mike Lee,REP,13
+Cache,SMI03:I,U.S. Senate,,Mike Lee,REP,364
+Cache,SMI03:U,U.S. Senate,,Mike Lee,REP,2
+Cache,SMI04:I,U.S. Senate,,Mike Lee,REP,319
+Cache,SMI04:U,U.S. Senate,,Mike Lee,REP,1
+Cache,SMI05:I,U.S. Senate,,Mike Lee,REP,349
+Cache,SMI05:U,U.S. Senate,,Mike Lee,REP,10
+Cache,SMI06:I,U.S. Senate,,Mike Lee,REP,308
+Cache,SMI06:U,U.S. Senate,,Mike Lee,REP,54
+Cache,SMI07:I,U.S. Senate,,Mike Lee,REP,432
+Cache,SMI07:U,U.S. Senate,,Mike Lee,REP,89
+Cache,SMI08:I,U.S. Senate,,Mike Lee,REP,241
+Cache,TRE:I,U.S. Senate,,Mike Lee,REP,140
+Cache,UNINHC:1,U.S. Senate,,Mike Lee,REP,1
+Cache,UNINHC:2,U.S. Senate,,Mike Lee,REP,0
+Cache,WEL01:I,U.S. Senate,,Mike Lee,REP,455
+Cache,WEL01:U1,U.S. Senate,,Mike Lee,REP,100
+Cache,WEL01:U2,U.S. Senate,,Mike Lee,REP,0
+Cache,WEL01:U3,U.S. Senate,,Mike Lee,REP,3
+Cache,WEL02:I,U.S. Senate,,Mike Lee,REP,345
+Cache,WEL02:U,U.S. Senate,,Mike Lee,REP,20
+Cache,WEL03:I,U.S. Senate,,Mike Lee,REP,350
+Cache,WEL03:U,U.S. Senate,,Mike Lee,REP,137
+Cache,AMA:I,U.S. Senate,,Tommy Williams,IAP,3
+Cache,AMA:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,AMA:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,AMA:U3,U.S. Senate,,Tommy Williams,IAP,0
+Cache,BEN:U,U.S. Senate,,Tommy Williams,IAP,4
+Cache,CLK:I,U.S. Senate,,Tommy Williams,IAP,4
+Cache,CLK:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,CLK:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,COR:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,COR:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,COV:U,U.S. Senate,,Tommy Williams,IAP,1
+Cache,COV:U2,U.S. Senate,,Tommy Williams,IAP,1
+Cache,CY:U,U.S. Senate,,Tommy Williams,IAP,7
+Cache,HYD01:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,HYD01:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYD02:I,U.S. Senate,,Tommy Williams,IAP,4
+Cache,HYD02:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYD02:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYD03:I,U.S. Senate,,Tommy Williams,IAP,4
+Cache,HYD03:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYR01:I,U.S. Senate,,Tommy Williams,IAP,11
+Cache,HYR01:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYR02:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,HYR02:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYR02:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYR03:I,U.S. Senate,,Tommy Williams,IAP,10
+Cache,HYR03:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYR04:I,U.S. Senate,,Tommy Williams,IAP,16
+Cache,HYR04:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYR04:U2,U.S. Senate,,Tommy Williams,IAP,3
+Cache,HYR04:U3,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYR05:I,U.S. Senate,,Tommy Williams,IAP,14
+Cache,HYR05:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,HYR05:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LEW00:I,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LEW01:I,U.S. Senate,,Tommy Williams,IAP,7
+Cache,LEW01:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LEW01:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LEW01:U3,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LEW01:U4,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG01:I,U.S. Senate,,Tommy Williams,IAP,6
+Cache,LOG02:I,U.S. Senate,,Tommy Williams,IAP,13
+Cache,LOG03:I,U.S. Senate,,Tommy Williams,IAP,12
+Cache,LOG04:I,U.S. Senate,,Tommy Williams,IAP,15
+Cache,LOG05:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,LOG06:I,U.S. Senate,,Tommy Williams,IAP,6
+Cache,LOG07:I,U.S. Senate,,Tommy Williams,IAP,3
+Cache,LOG08:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,LOG09:I,U.S. Senate,,Tommy Williams,IAP,8
+Cache,LOG10:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,LOG11:I,U.S. Senate,,Tommy Williams,IAP,1
+Cache,LOG12:I,U.S. Senate,,Tommy Williams,IAP,23
+Cache,LOG13:I,U.S. Senate,,Tommy Williams,IAP,3
+Cache,LOG13:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG14:I,U.S. Senate,,Tommy Williams,IAP,12
+Cache,LOG14:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG14:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG14:U3,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG15:I,U.S. Senate,,Tommy Williams,IAP,8
+Cache,LOG16:I,U.S. Senate,,Tommy Williams,IAP,10
+Cache,LOG17:I,U.S. Senate,,Tommy Williams,IAP,7
+Cache,LOG18:CSD,U.S. Senate,,Tommy Williams,IAP,2
+Cache,LOG18:IA,U.S. Senate,,Tommy Williams,IAP,12
+Cache,LOG18:IB,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG19:I,U.S. Senate,,Tommy Williams,IAP,8
+Cache,LOG20:I,U.S. Senate,,Tommy Williams,IAP,3
+Cache,LOG21:CSD,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG21:IA,U.S. Senate,,Tommy Williams,IAP,7
+Cache,LOG21:IB,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG21:IC,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG22:CSD,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG22:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,LOG23:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,LOG24:17C1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG24:17C2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG24:CSD1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG24:CSD2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG24:CSD3,U.S. Senate,,Tommy Williams,IAP,1
+Cache,LOG24:I,U.S. Senate,,Tommy Williams,IAP,9
+Cache,LOG24:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,LOG25:I,U.S. Senate,,Tommy Williams,IAP,2
+Cache,MEN01:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,MEN02:I,U.S. Senate,,Tommy Williams,IAP,7
+Cache,MEN02:U,U.S. Senate,,Tommy Williams,IAP,6
+Cache,MIL01:I,U.S. Senate,,Tommy Williams,IAP,4
+Cache,MIL01:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,MIL02:I,U.S. Senate,,Tommy Williams,IAP,0
+Cache,MIL02:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,MIL02:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,NEW:I,U.S. Senate,,Tommy Williams,IAP,7
+Cache,NEW:U,U.S. Senate,,Tommy Williams,IAP,1
+Cache,NEW:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,NIB01:IA,U.S. Senate,,Tommy Williams,IAP,7
+Cache,NIB01:IB,U.S. Senate,,Tommy Williams,IAP,0
+Cache,NIB01:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,NIB01:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,NIB01:U3,U.S. Senate,,Tommy Williams,IAP,0
+Cache,NIB02:I,U.S. Senate,,Tommy Williams,IAP,13
+Cache,NIB03:I,U.S. Senate,,Tommy Williams,IAP,11
+Cache,NIB04:I,U.S. Senate,,Tommy Williams,IAP,9
+Cache,NIB04:U,U.S. Senate,,Tommy Williams,IAP,2
+Cache,NLG01:I,U.S. Senate,,Tommy Williams,IAP,9
+Cache,NLG02:I,U.S. Senate,,Tommy Williams,IAP,12
+Cache,NLG03:I,U.S. Senate,,Tommy Williams,IAP,10
+Cache,NLG03:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,NLG04:I,U.S. Senate,,Tommy Williams,IAP,3
+Cache,NLG04:U,U.S. Senate,,Tommy Williams,IAP,2
+Cache,NLG05:I,U.S. Senate,,Tommy Williams,IAP,2
+Cache,NLG06:I,U.S. Senate,,Tommy Williams,IAP,12
+Cache,PAR:I,U.S. Senate,,Tommy Williams,IAP,3
+Cache,PAR:U,U.S. Senate,,Tommy Williams,IAP,2
+Cache,PRO01:IA,U.S. Senate,,Tommy Williams,IAP,5
+Cache,PRO01:IB,U.S. Senate,,Tommy Williams,IAP,0
+Cache,PRO01:IC,U.S. Senate,,Tommy Williams,IAP,0
+Cache,PRO02:IA,U.S. Senate,,Tommy Williams,IAP,9
+Cache,PRO02:IB,U.S. Senate,,Tommy Williams,IAP,0
+Cache,PRO03:I,U.S. Senate,,Tommy Williams,IAP,9
+Cache,PRO03:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,PRO03:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,PRO03:U3,U.S. Senate,,Tommy Williams,IAP,0
+Cache,PRO04:I,U.S. Senate,,Tommy Williams,IAP,6
+Cache,PRO04:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,PRO05:I,U.S. Senate,,Tommy Williams,IAP,2
+Cache,PRO06:I,U.S. Senate,,Tommy Williams,IAP,9
+Cache,RCH01:I,U.S. Senate,,Tommy Williams,IAP,10
+Cache,RCH01:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,RCH01:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,RCH01:U3,U.S. Senate,,Tommy Williams,IAP,0
+Cache,RCH02:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,RCH02:U1,U.S. Senate,,Tommy Williams,IAP,1
+Cache,RCH02:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,RCH03:I,U.S. Senate,,Tommy Williams,IAP,0
+Cache,RVH01:I,U.S. Senate,,Tommy Williams,IAP,12
+Cache,RVH01:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,RVH02:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,RVH02:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,RVH02:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,RVH02:U3,U.S. Senate,,Tommy Williams,IAP,0
+Cache,SMI01:I,U.S. Senate,,Tommy Williams,IAP,11
+Cache,SMI01:U1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,SMI01:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,SMI02:I,U.S. Senate,,Tommy Williams,IAP,4
+Cache,SMI02:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,SMI03:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,SMI03:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,SMI04:I,U.S. Senate,,Tommy Williams,IAP,7
+Cache,SMI04:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,SMI05:I,U.S. Senate,,Tommy Williams,IAP,7
+Cache,SMI05:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,SMI06:I,U.S. Senate,,Tommy Williams,IAP,10
+Cache,SMI06:U,U.S. Senate,,Tommy Williams,IAP,1
+Cache,SMI07:I,U.S. Senate,,Tommy Williams,IAP,5
+Cache,SMI07:U,U.S. Senate,,Tommy Williams,IAP,2
+Cache,SMI08:I,U.S. Senate,,Tommy Williams,IAP,6
+Cache,TRE:I,U.S. Senate,,Tommy Williams,IAP,4
+Cache,UNINHC:1,U.S. Senate,,Tommy Williams,IAP,0
+Cache,UNINHC:2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,WEL01:I,U.S. Senate,,Tommy Williams,IAP,12
+Cache,WEL01:U1,U.S. Senate,,Tommy Williams,IAP,1
+Cache,WEL01:U2,U.S. Senate,,Tommy Williams,IAP,0
+Cache,WEL01:U3,U.S. Senate,,Tommy Williams,IAP,0
+Cache,WEL02:I,U.S. Senate,,Tommy Williams,IAP,7
+Cache,WEL02:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,WEL03:I,U.S. Senate,,Tommy Williams,IAP,9
+Cache,WEL03:U,U.S. Senate,,Tommy Williams,IAP,0
+Cache,AMA:I,U.S. Senate,,Write-ins,,0
+Cache,AMA:U1,U.S. Senate,,Write-ins,,0
+Cache,AMA:U2,U.S. Senate,,Write-ins,,0
+Cache,AMA:U3,U.S. Senate,,Write-ins,,0
+Cache,BEN:U,U.S. Senate,,Write-ins,,0
+Cache,CLK:I,U.S. Senate,,Write-ins,,0
+Cache,CLK:U1,U.S. Senate,,Write-ins,,0
+Cache,CLK:U2,U.S. Senate,,Write-ins,,0
+Cache,COR:I,U.S. Senate,,Write-ins,,0
+Cache,COR:U,U.S. Senate,,Write-ins,,0
+Cache,COV:U,U.S. Senate,,Write-ins,,1
+Cache,COV:U2,U.S. Senate,,Write-ins,,0
+Cache,CY:U,U.S. Senate,,Write-ins,,1
+Cache,HYD01:I,U.S. Senate,,Write-ins,,2
+Cache,HYD01:U,U.S. Senate,,Write-ins,,0
+Cache,HYD02:I,U.S. Senate,,Write-ins,,2
+Cache,HYD02:U1,U.S. Senate,,Write-ins,,0
+Cache,HYD02:U2,U.S. Senate,,Write-ins,,0
+Cache,HYD03:I,U.S. Senate,,Write-ins,,3
+Cache,HYD03:U,U.S. Senate,,Write-ins,,0
+Cache,HYR01:I,U.S. Senate,,Write-ins,,1
+Cache,HYR01:U,U.S. Senate,,Write-ins,,0
+Cache,HYR02:I,U.S. Senate,,Write-ins,,1
+Cache,HYR02:U1,U.S. Senate,,Write-ins,,0
+Cache,HYR02:U2,U.S. Senate,,Write-ins,,0
+Cache,HYR03:I,U.S. Senate,,Write-ins,,2
+Cache,HYR03:U,U.S. Senate,,Write-ins,,0
+Cache,HYR04:I,U.S. Senate,,Write-ins,,4
+Cache,HYR04:U1,U.S. Senate,,Write-ins,,0
+Cache,HYR04:U2,U.S. Senate,,Write-ins,,0
+Cache,HYR04:U3,U.S. Senate,,Write-ins,,0
+Cache,HYR05:I,U.S. Senate,,Write-ins,,3
+Cache,HYR05:U1,U.S. Senate,,Write-ins,,0
+Cache,HYR05:U2,U.S. Senate,,Write-ins,,0
+Cache,LEW00:I,U.S. Senate,,Write-ins,,0
+Cache,LEW01:I,U.S. Senate,,Write-ins,,1
+Cache,LEW01:U1,U.S. Senate,,Write-ins,,0
+Cache,LEW01:U2,U.S. Senate,,Write-ins,,0
+Cache,LEW01:U3,U.S. Senate,,Write-ins,,0
+Cache,LEW01:U4,U.S. Senate,,Write-ins,,0
+Cache,LOG01:I,U.S. Senate,,Write-ins,,4
+Cache,LOG02:I,U.S. Senate,,Write-ins,,0
+Cache,LOG03:I,U.S. Senate,,Write-ins,,2
+Cache,LOG04:I,U.S. Senate,,Write-ins,,0
+Cache,LOG05:I,U.S. Senate,,Write-ins,,1
+Cache,LOG06:I,U.S. Senate,,Write-ins,,1
+Cache,LOG07:I,U.S. Senate,,Write-ins,,2
+Cache,LOG08:I,U.S. Senate,,Write-ins,,0
+Cache,LOG09:I,U.S. Senate,,Write-ins,,0
+Cache,LOG10:I,U.S. Senate,,Write-ins,,0
+Cache,LOG11:I,U.S. Senate,,Write-ins,,2
+Cache,LOG12:I,U.S. Senate,,Write-ins,,2
+Cache,LOG13:I,U.S. Senate,,Write-ins,,2
+Cache,LOG13:U,U.S. Senate,,Write-ins,,0
+Cache,LOG14:I,U.S. Senate,,Write-ins,,0
+Cache,LOG14:U1,U.S. Senate,,Write-ins,,0
+Cache,LOG14:U2,U.S. Senate,,Write-ins,,0
+Cache,LOG14:U3,U.S. Senate,,Write-ins,,0
+Cache,LOG15:I,U.S. Senate,,Write-ins,,1
+Cache,LOG16:I,U.S. Senate,,Write-ins,,3
+Cache,LOG17:I,U.S. Senate,,Write-ins,,1
+Cache,LOG18:CSD,U.S. Senate,,Write-ins,,0
+Cache,LOG18:IA,U.S. Senate,,Write-ins,,0
+Cache,LOG18:IB,U.S. Senate,,Write-ins,,0
+Cache,LOG19:I,U.S. Senate,,Write-ins,,6
+Cache,LOG20:I,U.S. Senate,,Write-ins,,0
+Cache,LOG21:CSD,U.S. Senate,,Write-ins,,0
+Cache,LOG21:IA,U.S. Senate,,Write-ins,,2
+Cache,LOG21:IB,U.S. Senate,,Write-ins,,0
+Cache,LOG21:IC,U.S. Senate,,Write-ins,,0
+Cache,LOG22:CSD,U.S. Senate,,Write-ins,,0
+Cache,LOG22:I,U.S. Senate,,Write-ins,,2
+Cache,LOG23:I,U.S. Senate,,Write-ins,,1
+Cache,LOG24:17C1,U.S. Senate,,Write-ins,,0
+Cache,LOG24:17C2,U.S. Senate,,Write-ins,,0
+Cache,LOG24:CSD1,U.S. Senate,,Write-ins,,0
+Cache,LOG24:CSD2,U.S. Senate,,Write-ins,,0
+Cache,LOG24:CSD3,U.S. Senate,,Write-ins,,0
+Cache,LOG24:I,U.S. Senate,,Write-ins,,2
+Cache,LOG24:U,U.S. Senate,,Write-ins,,0
+Cache,LOG25:I,U.S. Senate,,Write-ins,,1
+Cache,MEN01:U,U.S. Senate,,Write-ins,,0
+Cache,MEN02:I,U.S. Senate,,Write-ins,,5
+Cache,MEN02:U,U.S. Senate,,Write-ins,,0
+Cache,MIL01:I,U.S. Senate,,Write-ins,,4
+Cache,MIL01:U,U.S. Senate,,Write-ins,,0
+Cache,MIL02:I,U.S. Senate,,Write-ins,,0
+Cache,MIL02:U1,U.S. Senate,,Write-ins,,0
+Cache,MIL02:U2,U.S. Senate,,Write-ins,,0
+Cache,NEW:I,U.S. Senate,,Write-ins,,1
+Cache,NEW:U,U.S. Senate,,Write-ins,,0
+Cache,NEW:U2,U.S. Senate,,Write-ins,,0
+Cache,NIB01:IA,U.S. Senate,,Write-ins,,1
+Cache,NIB01:IB,U.S. Senate,,Write-ins,,0
+Cache,NIB01:U1,U.S. Senate,,Write-ins,,0
+Cache,NIB01:U2,U.S. Senate,,Write-ins,,0
+Cache,NIB01:U3,U.S. Senate,,Write-ins,,0
+Cache,NIB02:I,U.S. Senate,,Write-ins,,3
+Cache,NIB03:I,U.S. Senate,,Write-ins,,1
+Cache,NIB04:I,U.S. Senate,,Write-ins,,0
+Cache,NIB04:U,U.S. Senate,,Write-ins,,0
+Cache,NLG01:I,U.S. Senate,,Write-ins,,1
+Cache,NLG02:I,U.S. Senate,,Write-ins,,2
+Cache,NLG03:I,U.S. Senate,,Write-ins,,2
+Cache,NLG03:U,U.S. Senate,,Write-ins,,0
+Cache,NLG04:I,U.S. Senate,,Write-ins,,2
+Cache,NLG04:U,U.S. Senate,,Write-ins,,0
+Cache,NLG05:I,U.S. Senate,,Write-ins,,1
+Cache,NLG06:I,U.S. Senate,,Write-ins,,1
+Cache,PAR:I,U.S. Senate,,Write-ins,,0
+Cache,PAR:U,U.S. Senate,,Write-ins,,1
+Cache,PRO01:IA,U.S. Senate,,Write-ins,,1
+Cache,PRO01:IB,U.S. Senate,,Write-ins,,0
+Cache,PRO01:IC,U.S. Senate,,Write-ins,,0
+Cache,PRO02:IA,U.S. Senate,,Write-ins,,4
+Cache,PRO02:IB,U.S. Senate,,Write-ins,,0
+Cache,PRO03:I,U.S. Senate,,Write-ins,,2
+Cache,PRO03:U1,U.S. Senate,,Write-ins,,0
+Cache,PRO03:U2,U.S. Senate,,Write-ins,,0
+Cache,PRO03:U3,U.S. Senate,,Write-ins,,0
+Cache,PRO04:I,U.S. Senate,,Write-ins,,2
+Cache,PRO04:U,U.S. Senate,,Write-ins,,0
+Cache,PRO05:I,U.S. Senate,,Write-ins,,3
+Cache,PRO06:I,U.S. Senate,,Write-ins,,2
+Cache,RCH01:I,U.S. Senate,,Write-ins,,5
+Cache,RCH01:U1,U.S. Senate,,Write-ins,,0
+Cache,RCH01:U2,U.S. Senate,,Write-ins,,0
+Cache,RCH01:U3,U.S. Senate,,Write-ins,,0
+Cache,RCH02:I,U.S. Senate,,Write-ins,,1
+Cache,RCH02:U1,U.S. Senate,,Write-ins,,0
+Cache,RCH02:U2,U.S. Senate,,Write-ins,,0
+Cache,RCH03:I,U.S. Senate,,Write-ins,,0
+Cache,RVH01:I,U.S. Senate,,Write-ins,,1
+Cache,RVH01:U,U.S. Senate,,Write-ins,,0
+Cache,RVH02:I,U.S. Senate,,Write-ins,,1
+Cache,RVH02:U1,U.S. Senate,,Write-ins,,0
+Cache,RVH02:U2,U.S. Senate,,Write-ins,,0
+Cache,RVH02:U3,U.S. Senate,,Write-ins,,0
+Cache,SMI01:I,U.S. Senate,,Write-ins,,6
+Cache,SMI01:U1,U.S. Senate,,Write-ins,,0
+Cache,SMI01:U2,U.S. Senate,,Write-ins,,0
+Cache,SMI02:I,U.S. Senate,,Write-ins,,0
+Cache,SMI02:U,U.S. Senate,,Write-ins,,0
+Cache,SMI03:I,U.S. Senate,,Write-ins,,0
+Cache,SMI03:U,U.S. Senate,,Write-ins,,0
+Cache,SMI04:I,U.S. Senate,,Write-ins,,1
+Cache,SMI04:U,U.S. Senate,,Write-ins,,1
+Cache,SMI05:I,U.S. Senate,,Write-ins,,2
+Cache,SMI05:U,U.S. Senate,,Write-ins,,0
+Cache,SMI06:I,U.S. Senate,,Write-ins,,1
+Cache,SMI06:U,U.S. Senate,,Write-ins,,1
+Cache,SMI07:I,U.S. Senate,,Write-ins,,1
+Cache,SMI07:U,U.S. Senate,,Write-ins,,0
+Cache,SMI08:I,U.S. Senate,,Write-ins,,0
+Cache,TRE:I,U.S. Senate,,Write-ins,,1
+Cache,UNINHC:1,U.S. Senate,,Write-ins,,0
+Cache,UNINHC:2,U.S. Senate,,Write-ins,,0
+Cache,WEL01:I,U.S. Senate,,Write-ins,,0
+Cache,WEL01:U1,U.S. Senate,,Write-ins,,0
+Cache,WEL01:U2,U.S. Senate,,Write-ins,,0
+Cache,WEL01:U3,U.S. Senate,,Write-ins,,0
+Cache,WEL02:I,U.S. Senate,,Write-ins,,5
+Cache,WEL02:U,U.S. Senate,,Write-ins,,0
+Cache,WEL03:I,U.S. Senate,,Write-ins,,0
+Cache,WEL03:U,U.S. Senate,,Write-ins,,0
+Cache,AMA:I,U.S. Senate,,Over Votes,,0
+Cache,AMA:U1,U.S. Senate,,Over Votes,,0
+Cache,AMA:U2,U.S. Senate,,Over Votes,,0
+Cache,AMA:U3,U.S. Senate,,Over Votes,,0
+Cache,BEN:U,U.S. Senate,,Over Votes,,1
+Cache,CLK:I,U.S. Senate,,Over Votes,,0
+Cache,CLK:U1,U.S. Senate,,Over Votes,,0
+Cache,CLK:U2,U.S. Senate,,Over Votes,,0
+Cache,COR:I,U.S. Senate,,Over Votes,,0
+Cache,COR:U,U.S. Senate,,Over Votes,,0
+Cache,COV:U,U.S. Senate,,Over Votes,,0
+Cache,COV:U2,U.S. Senate,,Over Votes,,0
+Cache,CY:U,U.S. Senate,,Over Votes,,0
+Cache,HYD01:I,U.S. Senate,,Over Votes,,0
+Cache,HYD01:U,U.S. Senate,,Over Votes,,0
+Cache,HYD02:I,U.S. Senate,,Over Votes,,0
+Cache,HYD02:U1,U.S. Senate,,Over Votes,,0
+Cache,HYD02:U2,U.S. Senate,,Over Votes,,0
+Cache,HYD03:I,U.S. Senate,,Over Votes,,0
+Cache,HYD03:U,U.S. Senate,,Over Votes,,0
+Cache,HYR01:I,U.S. Senate,,Over Votes,,0
+Cache,HYR01:U,U.S. Senate,,Over Votes,,0
+Cache,HYR02:I,U.S. Senate,,Over Votes,,0
+Cache,HYR02:U1,U.S. Senate,,Over Votes,,0
+Cache,HYR02:U2,U.S. Senate,,Over Votes,,0
+Cache,HYR03:I,U.S. Senate,,Over Votes,,0
+Cache,HYR03:U,U.S. Senate,,Over Votes,,0
+Cache,HYR04:I,U.S. Senate,,Over Votes,,0
+Cache,HYR04:U1,U.S. Senate,,Over Votes,,0
+Cache,HYR04:U2,U.S. Senate,,Over Votes,,0
+Cache,HYR04:U3,U.S. Senate,,Over Votes,,0
+Cache,HYR05:I,U.S. Senate,,Over Votes,,0
+Cache,HYR05:U1,U.S. Senate,,Over Votes,,0
+Cache,HYR05:U2,U.S. Senate,,Over Votes,,0
+Cache,LEW00:I,U.S. Senate,,Over Votes,,0
+Cache,LEW01:I,U.S. Senate,,Over Votes,,0
+Cache,LEW01:U1,U.S. Senate,,Over Votes,,0
+Cache,LEW01:U2,U.S. Senate,,Over Votes,,0
+Cache,LEW01:U3,U.S. Senate,,Over Votes,,0
+Cache,LEW01:U4,U.S. Senate,,Over Votes,,0
+Cache,LOG01:I,U.S. Senate,,Over Votes,,0
+Cache,LOG02:I,U.S. Senate,,Over Votes,,0
+Cache,LOG03:I,U.S. Senate,,Over Votes,,0
+Cache,LOG04:I,U.S. Senate,,Over Votes,,0
+Cache,LOG05:I,U.S. Senate,,Over Votes,,0
+Cache,LOG06:I,U.S. Senate,,Over Votes,,0
+Cache,LOG07:I,U.S. Senate,,Over Votes,,0
+Cache,LOG08:I,U.S. Senate,,Over Votes,,1
+Cache,LOG09:I,U.S. Senate,,Over Votes,,0
+Cache,LOG10:I,U.S. Senate,,Over Votes,,1
+Cache,LOG11:I,U.S. Senate,,Over Votes,,1
+Cache,LOG12:I,U.S. Senate,,Over Votes,,0
+Cache,LOG13:I,U.S. Senate,,Over Votes,,0
+Cache,LOG13:U,U.S. Senate,,Over Votes,,0
+Cache,LOG14:I,U.S. Senate,,Over Votes,,0
+Cache,LOG14:U1,U.S. Senate,,Over Votes,,0
+Cache,LOG14:U2,U.S. Senate,,Over Votes,,0
+Cache,LOG14:U3,U.S. Senate,,Over Votes,,0
+Cache,LOG15:I,U.S. Senate,,Over Votes,,0
+Cache,LOG16:I,U.S. Senate,,Over Votes,,0
+Cache,LOG17:I,U.S. Senate,,Over Votes,,0
+Cache,LOG18:CSD,U.S. Senate,,Over Votes,,0
+Cache,LOG18:IA,U.S. Senate,,Over Votes,,0
+Cache,LOG18:IB,U.S. Senate,,Over Votes,,0
+Cache,LOG19:I,U.S. Senate,,Over Votes,,0
+Cache,LOG20:I,U.S. Senate,,Over Votes,,0
+Cache,LOG21:CSD,U.S. Senate,,Over Votes,,0
+Cache,LOG21:IA,U.S. Senate,,Over Votes,,0
+Cache,LOG21:IB,U.S. Senate,,Over Votes,,0
+Cache,LOG21:IC,U.S. Senate,,Over Votes,,0
+Cache,LOG22:CSD,U.S. Senate,,Over Votes,,0
+Cache,LOG22:I,U.S. Senate,,Over Votes,,0
+Cache,LOG23:I,U.S. Senate,,Over Votes,,0
+Cache,LOG24:17C1,U.S. Senate,,Over Votes,,0
+Cache,LOG24:17C2,U.S. Senate,,Over Votes,,0
+Cache,LOG24:CSD1,U.S. Senate,,Over Votes,,0
+Cache,LOG24:CSD2,U.S. Senate,,Over Votes,,0
+Cache,LOG24:CSD3,U.S. Senate,,Over Votes,,0
+Cache,LOG24:I,U.S. Senate,,Over Votes,,0
+Cache,LOG24:U,U.S. Senate,,Over Votes,,0
+Cache,LOG25:I,U.S. Senate,,Over Votes,,0
+Cache,MEN01:U,U.S. Senate,,Over Votes,,0
+Cache,MEN02:I,U.S. Senate,,Over Votes,,0
+Cache,MEN02:U,U.S. Senate,,Over Votes,,0
+Cache,MIL01:I,U.S. Senate,,Over Votes,,0
+Cache,MIL01:U,U.S. Senate,,Over Votes,,0
+Cache,MIL02:I,U.S. Senate,,Over Votes,,0
+Cache,MIL02:U1,U.S. Senate,,Over Votes,,0
+Cache,MIL02:U2,U.S. Senate,,Over Votes,,0
+Cache,NEW:I,U.S. Senate,,Over Votes,,0
+Cache,NEW:U,U.S. Senate,,Over Votes,,0
+Cache,NEW:U2,U.S. Senate,,Over Votes,,0
+Cache,NIB01:IA,U.S. Senate,,Over Votes,,0
+Cache,NIB01:IB,U.S. Senate,,Over Votes,,0
+Cache,NIB01:U1,U.S. Senate,,Over Votes,,0
+Cache,NIB01:U2,U.S. Senate,,Over Votes,,0
+Cache,NIB01:U3,U.S. Senate,,Over Votes,,0
+Cache,NIB02:I,U.S. Senate,,Over Votes,,0
+Cache,NIB03:I,U.S. Senate,,Over Votes,,0
+Cache,NIB04:I,U.S. Senate,,Over Votes,,0
+Cache,NIB04:U,U.S. Senate,,Over Votes,,0
+Cache,NLG01:I,U.S. Senate,,Over Votes,,0
+Cache,NLG02:I,U.S. Senate,,Over Votes,,0
+Cache,NLG03:I,U.S. Senate,,Over Votes,,1
+Cache,NLG03:U,U.S. Senate,,Over Votes,,0
+Cache,NLG04:I,U.S. Senate,,Over Votes,,0
+Cache,NLG04:U,U.S. Senate,,Over Votes,,0
+Cache,NLG05:I,U.S. Senate,,Over Votes,,0
+Cache,NLG06:I,U.S. Senate,,Over Votes,,0
+Cache,PAR:I,U.S. Senate,,Over Votes,,0
+Cache,PAR:U,U.S. Senate,,Over Votes,,0
+Cache,PRO01:IA,U.S. Senate,,Over Votes,,0
+Cache,PRO01:IB,U.S. Senate,,Over Votes,,0
+Cache,PRO01:IC,U.S. Senate,,Over Votes,,0
+Cache,PRO02:IA,U.S. Senate,,Over Votes,,0
+Cache,PRO02:IB,U.S. Senate,,Over Votes,,0
+Cache,PRO03:I,U.S. Senate,,Over Votes,,0
+Cache,PRO03:U1,U.S. Senate,,Over Votes,,0
+Cache,PRO03:U2,U.S. Senate,,Over Votes,,0
+Cache,PRO03:U3,U.S. Senate,,Over Votes,,0
+Cache,PRO04:I,U.S. Senate,,Over Votes,,0
+Cache,PRO04:U,U.S. Senate,,Over Votes,,0
+Cache,PRO05:I,U.S. Senate,,Over Votes,,0
+Cache,PRO06:I,U.S. Senate,,Over Votes,,3
+Cache,RCH01:I,U.S. Senate,,Over Votes,,0
+Cache,RCH01:U1,U.S. Senate,,Over Votes,,0
+Cache,RCH01:U2,U.S. Senate,,Over Votes,,0
+Cache,RCH01:U3,U.S. Senate,,Over Votes,,0
+Cache,RCH02:I,U.S. Senate,,Over Votes,,0
+Cache,RCH02:U1,U.S. Senate,,Over Votes,,0
+Cache,RCH02:U2,U.S. Senate,,Over Votes,,0
+Cache,RCH03:I,U.S. Senate,,Over Votes,,0
+Cache,RVH01:I,U.S. Senate,,Over Votes,,0
+Cache,RVH01:U,U.S. Senate,,Over Votes,,0
+Cache,RVH02:I,U.S. Senate,,Over Votes,,0
+Cache,RVH02:U1,U.S. Senate,,Over Votes,,0
+Cache,RVH02:U2,U.S. Senate,,Over Votes,,0
+Cache,RVH02:U3,U.S. Senate,,Over Votes,,0
+Cache,SMI01:I,U.S. Senate,,Over Votes,,0
+Cache,SMI01:U1,U.S. Senate,,Over Votes,,0
+Cache,SMI01:U2,U.S. Senate,,Over Votes,,0
+Cache,SMI02:I,U.S. Senate,,Over Votes,,0
+Cache,SMI02:U,U.S. Senate,,Over Votes,,0
+Cache,SMI03:I,U.S. Senate,,Over Votes,,0
+Cache,SMI03:U,U.S. Senate,,Over Votes,,0
+Cache,SMI04:I,U.S. Senate,,Over Votes,,0
+Cache,SMI04:U,U.S. Senate,,Over Votes,,0
+Cache,SMI05:I,U.S. Senate,,Over Votes,,0
+Cache,SMI05:U,U.S. Senate,,Over Votes,,0
+Cache,SMI06:I,U.S. Senate,,Over Votes,,0
+Cache,SMI06:U,U.S. Senate,,Over Votes,,0
+Cache,SMI07:I,U.S. Senate,,Over Votes,,0
+Cache,SMI07:U,U.S. Senate,,Over Votes,,0
+Cache,SMI08:I,U.S. Senate,,Over Votes,,0
+Cache,TRE:I,U.S. Senate,,Over Votes,,0
+Cache,UNINHC:1,U.S. Senate,,Over Votes,,0
+Cache,UNINHC:2,U.S. Senate,,Over Votes,,0
+Cache,WEL01:I,U.S. Senate,,Over Votes,,0
+Cache,WEL01:U1,U.S. Senate,,Over Votes,,0
+Cache,WEL01:U2,U.S. Senate,,Over Votes,,0
+Cache,WEL01:U3,U.S. Senate,,Over Votes,,0
+Cache,WEL02:I,U.S. Senate,,Over Votes,,0
+Cache,WEL02:U,U.S. Senate,,Over Votes,,0
+Cache,WEL03:I,U.S. Senate,,Over Votes,,1
+Cache,WEL03:U,U.S. Senate,,Over Votes,,0
+Cache,AMA:I,U.S. Senate,,Under Votes,,2
+Cache,AMA:U1,U.S. Senate,,Under Votes,,0
+Cache,AMA:U2,U.S. Senate,,Under Votes,,0
+Cache,AMA:U3,U.S. Senate,,Under Votes,,0
+Cache,BEN:U,U.S. Senate,,Under Votes,,1
+Cache,CLK:I,U.S. Senate,,Under Votes,,2
+Cache,CLK:U1,U.S. Senate,,Under Votes,,0
+Cache,CLK:U2,U.S. Senate,,Under Votes,,0
+Cache,COR:I,U.S. Senate,,Under Votes,,2
+Cache,COR:U,U.S. Senate,,Under Votes,,0
+Cache,COV:U,U.S. Senate,,Under Votes,,4
+Cache,COV:U2,U.S. Senate,,Under Votes,,0
+Cache,CY:U,U.S. Senate,,Under Votes,,7
+Cache,HYD01:I,U.S. Senate,,Under Votes,,5
+Cache,HYD01:U,U.S. Senate,,Under Votes,,0
+Cache,HYD02:I,U.S. Senate,,Under Votes,,3
+Cache,HYD02:U1,U.S. Senate,,Under Votes,,1
+Cache,HYD02:U2,U.S. Senate,,Under Votes,,0
+Cache,HYD03:I,U.S. Senate,,Under Votes,,8
+Cache,HYD03:U,U.S. Senate,,Under Votes,,0
+Cache,HYR01:I,U.S. Senate,,Under Votes,,0
+Cache,HYR01:U,U.S. Senate,,Under Votes,,0
+Cache,HYR02:I,U.S. Senate,,Under Votes,,5
+Cache,HYR02:U1,U.S. Senate,,Under Votes,,0
+Cache,HYR02:U2,U.S. Senate,,Under Votes,,0
+Cache,HYR03:I,U.S. Senate,,Under Votes,,6
+Cache,HYR03:U,U.S. Senate,,Under Votes,,0
+Cache,HYR04:I,U.S. Senate,,Under Votes,,2
+Cache,HYR04:U1,U.S. Senate,,Under Votes,,0
+Cache,HYR04:U2,U.S. Senate,,Under Votes,,1
+Cache,HYR04:U3,U.S. Senate,,Under Votes,,0
+Cache,HYR05:I,U.S. Senate,,Under Votes,,4
+Cache,HYR05:U1,U.S. Senate,,Under Votes,,0
+Cache,HYR05:U2,U.S. Senate,,Under Votes,,0
+Cache,LEW00:I,U.S. Senate,,Under Votes,,0
+Cache,LEW01:I,U.S. Senate,,Under Votes,,1
+Cache,LEW01:U1,U.S. Senate,,Under Votes,,0
+Cache,LEW01:U2,U.S. Senate,,Under Votes,,0
+Cache,LEW01:U3,U.S. Senate,,Under Votes,,0
+Cache,LEW01:U4,U.S. Senate,,Under Votes,,0
+Cache,LOG01:I,U.S. Senate,,Under Votes,,4
+Cache,LOG02:I,U.S. Senate,,Under Votes,,2
+Cache,LOG03:I,U.S. Senate,,Under Votes,,3
+Cache,LOG04:I,U.S. Senate,,Under Votes,,5
+Cache,LOG05:I,U.S. Senate,,Under Votes,,0
+Cache,LOG06:I,U.S. Senate,,Under Votes,,3
+Cache,LOG07:I,U.S. Senate,,Under Votes,,7
+Cache,LOG08:I,U.S. Senate,,Under Votes,,6
+Cache,LOG09:I,U.S. Senate,,Under Votes,,3
+Cache,LOG10:I,U.S. Senate,,Under Votes,,2
+Cache,LOG11:I,U.S. Senate,,Under Votes,,4
+Cache,LOG12:I,U.S. Senate,,Under Votes,,2
+Cache,LOG13:I,U.S. Senate,,Under Votes,,6
+Cache,LOG13:U,U.S. Senate,,Under Votes,,0
+Cache,LOG14:I,U.S. Senate,,Under Votes,,2
+Cache,LOG14:U1,U.S. Senate,,Under Votes,,0
+Cache,LOG14:U2,U.S. Senate,,Under Votes,,0
+Cache,LOG14:U3,U.S. Senate,,Under Votes,,0
+Cache,LOG15:I,U.S. Senate,,Under Votes,,2
+Cache,LOG16:I,U.S. Senate,,Under Votes,,8
+Cache,LOG17:I,U.S. Senate,,Under Votes,,2
+Cache,LOG18:CSD,U.S. Senate,,Under Votes,,1
+Cache,LOG18:IA,U.S. Senate,,Under Votes,,5
+Cache,LOG18:IB,U.S. Senate,,Under Votes,,0
+Cache,LOG19:I,U.S. Senate,,Under Votes,,6
+Cache,LOG20:I,U.S. Senate,,Under Votes,,5
+Cache,LOG21:CSD,U.S. Senate,,Under Votes,,0
+Cache,LOG21:IA,U.S. Senate,,Under Votes,,5
+Cache,LOG21:IB,U.S. Senate,,Under Votes,,0
+Cache,LOG21:IC,U.S. Senate,,Under Votes,,0
+Cache,LOG22:CSD,U.S. Senate,,Under Votes,,0
+Cache,LOG22:I,U.S. Senate,,Under Votes,,0
+Cache,LOG23:I,U.S. Senate,,Under Votes,,7
+Cache,LOG24:17C1,U.S. Senate,,Under Votes,,0
+Cache,LOG24:17C2,U.S. Senate,,Under Votes,,0
+Cache,LOG24:CSD1,U.S. Senate,,Under Votes,,0
+Cache,LOG24:CSD2,U.S. Senate,,Under Votes,,1
+Cache,LOG24:CSD3,U.S. Senate,,Under Votes,,1
+Cache,LOG24:I,U.S. Senate,,Under Votes,,6
+Cache,LOG24:U,U.S. Senate,,Under Votes,,0
+Cache,LOG25:I,U.S. Senate,,Under Votes,,1
+Cache,MEN01:U,U.S. Senate,,Under Votes,,0
+Cache,MEN02:I,U.S. Senate,,Under Votes,,2
+Cache,MEN02:U,U.S. Senate,,Under Votes,,4
+Cache,MIL01:I,U.S. Senate,,Under Votes,,6
+Cache,MIL01:U,U.S. Senate,,Under Votes,,0
+Cache,MIL02:I,U.S. Senate,,Under Votes,,0
+Cache,MIL02:U1,U.S. Senate,,Under Votes,,0
+Cache,MIL02:U2,U.S. Senate,,Under Votes,,0
+Cache,NEW:I,U.S. Senate,,Under Votes,,1
+Cache,NEW:U,U.S. Senate,,Under Votes,,0
+Cache,NEW:U2,U.S. Senate,,Under Votes,,0
+Cache,NIB01:IA,U.S. Senate,,Under Votes,,5
+Cache,NIB01:IB,U.S. Senate,,Under Votes,,0
+Cache,NIB01:U1,U.S. Senate,,Under Votes,,0
+Cache,NIB01:U2,U.S. Senate,,Under Votes,,1
+Cache,NIB01:U3,U.S. Senate,,Under Votes,,1
+Cache,NIB02:I,U.S. Senate,,Under Votes,,5
+Cache,NIB03:I,U.S. Senate,,Under Votes,,2
+Cache,NIB04:I,U.S. Senate,,Under Votes,,10
+Cache,NIB04:U,U.S. Senate,,Under Votes,,0
+Cache,NLG01:I,U.S. Senate,,Under Votes,,2
+Cache,NLG02:I,U.S. Senate,,Under Votes,,6
+Cache,NLG03:I,U.S. Senate,,Under Votes,,4
+Cache,NLG03:U,U.S. Senate,,Under Votes,,0
+Cache,NLG04:I,U.S. Senate,,Under Votes,,5
+Cache,NLG04:U,U.S. Senate,,Under Votes,,0
+Cache,NLG05:I,U.S. Senate,,Under Votes,,5
+Cache,NLG06:I,U.S. Senate,,Under Votes,,6
+Cache,PAR:I,U.S. Senate,,Under Votes,,6
+Cache,PAR:U,U.S. Senate,,Under Votes,,6
+Cache,PRO01:IA,U.S. Senate,,Under Votes,,3
+Cache,PRO01:IB,U.S. Senate,,Under Votes,,0
+Cache,PRO01:IC,U.S. Senate,,Under Votes,,0
+Cache,PRO02:IA,U.S. Senate,,Under Votes,,4
+Cache,PRO02:IB,U.S. Senate,,Under Votes,,0
+Cache,PRO03:I,U.S. Senate,,Under Votes,,5
+Cache,PRO03:U1,U.S. Senate,,Under Votes,,0
+Cache,PRO03:U2,U.S. Senate,,Under Votes,,0
+Cache,PRO03:U3,U.S. Senate,,Under Votes,,0
+Cache,PRO04:I,U.S. Senate,,Under Votes,,5
+Cache,PRO04:U,U.S. Senate,,Under Votes,,0
+Cache,PRO05:I,U.S. Senate,,Under Votes,,6
+Cache,PRO06:I,U.S. Senate,,Under Votes,,4
+Cache,RCH01:I,U.S. Senate,,Under Votes,,5
+Cache,RCH01:U1,U.S. Senate,,Under Votes,,0
+Cache,RCH01:U2,U.S. Senate,,Under Votes,,0
+Cache,RCH01:U3,U.S. Senate,,Under Votes,,0
+Cache,RCH02:I,U.S. Senate,,Under Votes,,5
+Cache,RCH02:U1,U.S. Senate,,Under Votes,,0
+Cache,RCH02:U2,U.S. Senate,,Under Votes,,0
+Cache,RCH03:I,U.S. Senate,,Under Votes,,0
+Cache,RVH01:I,U.S. Senate,,Under Votes,,7
+Cache,RVH01:U,U.S. Senate,,Under Votes,,0
+Cache,RVH02:I,U.S. Senate,,Under Votes,,0
+Cache,RVH02:U1,U.S. Senate,,Under Votes,,0
+Cache,RVH02:U2,U.S. Senate,,Under Votes,,0
+Cache,RVH02:U3,U.S. Senate,,Under Votes,,0
+Cache,SMI01:I,U.S. Senate,,Under Votes,,3
+Cache,SMI01:U1,U.S. Senate,,Under Votes,,0
+Cache,SMI01:U2,U.S. Senate,,Under Votes,,0
+Cache,SMI02:I,U.S. Senate,,Under Votes,,3
+Cache,SMI02:U,U.S. Senate,,Under Votes,,0
+Cache,SMI03:I,U.S. Senate,,Under Votes,,2
+Cache,SMI03:U,U.S. Senate,,Under Votes,,0
+Cache,SMI04:I,U.S. Senate,,Under Votes,,6
+Cache,SMI04:U,U.S. Senate,,Under Votes,,0
+Cache,SMI05:I,U.S. Senate,,Under Votes,,2
+Cache,SMI05:U,U.S. Senate,,Under Votes,,0
+Cache,SMI06:I,U.S. Senate,,Under Votes,,2
+Cache,SMI06:U,U.S. Senate,,Under Votes,,1
+Cache,SMI07:I,U.S. Senate,,Under Votes,,7
+Cache,SMI07:U,U.S. Senate,,Under Votes,,0
+Cache,SMI08:I,U.S. Senate,,Under Votes,,4
+Cache,TRE:I,U.S. Senate,,Under Votes,,0
+Cache,UNINHC:1,U.S. Senate,,Under Votes,,0
+Cache,UNINHC:2,U.S. Senate,,Under Votes,,0
+Cache,WEL01:I,U.S. Senate,,Under Votes,,5
+Cache,WEL01:U1,U.S. Senate,,Under Votes,,1
+Cache,WEL01:U2,U.S. Senate,,Under Votes,,0
+Cache,WEL01:U3,U.S. Senate,,Under Votes,,0
+Cache,WEL02:I,U.S. Senate,,Under Votes,,5
+Cache,WEL02:U,U.S. Senate,,Under Votes,,0
+Cache,WEL03:I,U.S. Senate,,Under Votes,,5
+Cache,WEL03:U,U.S. Senate,,Under Votes,,0
+Cache,AMA:I,U.S. House,1,Blake D. Moore,REP,157
+Cache,AMA:U1,U.S. House,1,Blake D. Moore,REP,2
+Cache,AMA:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,AMA:U3,U.S. House,1,Blake D. Moore,REP,9
+Cache,BEN:U,U.S. House,1,Blake D. Moore,REP,236
+Cache,CLK:I,U.S. House,1,Blake D. Moore,REP,228
+Cache,CLK:U1,U.S. House,1,Blake D. Moore,REP,23
+Cache,CLK:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,COR:I,U.S. House,1,Blake D. Moore,REP,78
+Cache,COR:U,U.S. House,1,Blake D. Moore,REP,10
+Cache,COV:U,U.S. House,1,Blake D. Moore,REP,189
+Cache,COV:U2,U.S. House,1,Blake D. Moore,REP,29
+Cache,CY:U,U.S. House,1,Blake D. Moore,REP,350
+Cache,HYD01:I,U.S. House,1,Blake D. Moore,REP,581
+Cache,HYD01:U,U.S. House,1,Blake D. Moore,REP,0
+Cache,HYD02:I,U.S. House,1,Blake D. Moore,REP,559
+Cache,HYD02:U1,U.S. House,1,Blake D. Moore,REP,31
+Cache,HYD02:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,HYD03:I,U.S. House,1,Blake D. Moore,REP,678
+Cache,HYD03:U,U.S. House,1,Blake D. Moore,REP,0
+Cache,HYR01:I,U.S. House,1,Blake D. Moore,REP,378
+Cache,HYR01:U,U.S. House,1,Blake D. Moore,REP,84
+Cache,HYR02:I,U.S. House,1,Blake D. Moore,REP,353
+Cache,HYR02:U1,U.S. House,1,Blake D. Moore,REP,11
+Cache,HYR02:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,HYR03:I,U.S. House,1,Blake D. Moore,REP,471
+Cache,HYR03:U,U.S. House,1,Blake D. Moore,REP,10
+Cache,HYR04:I,U.S. House,1,Blake D. Moore,REP,647
+Cache,HYR04:U1,U.S. House,1,Blake D. Moore,REP,2
+Cache,HYR04:U2,U.S. House,1,Blake D. Moore,REP,55
+Cache,HYR04:U3,U.S. House,1,Blake D. Moore,REP,1
+Cache,HYR05:I,U.S. House,1,Blake D. Moore,REP,620
+Cache,HYR05:U1,U.S. House,1,Blake D. Moore,REP,13
+Cache,HYR05:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,LEW00:I,U.S. House,1,Blake D. Moore,REP,0
+Cache,LEW01:I,U.S. House,1,Blake D. Moore,REP,597
+Cache,LEW01:U1,U.S. House,1,Blake D. Moore,REP,0
+Cache,LEW01:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,LEW01:U3,U.S. House,1,Blake D. Moore,REP,0
+Cache,LEW01:U4,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG01:I,U.S. House,1,Blake D. Moore,REP,377
+Cache,LOG02:I,U.S. House,1,Blake D. Moore,REP,261
+Cache,LOG03:I,U.S. House,1,Blake D. Moore,REP,209
+Cache,LOG04:I,U.S. House,1,Blake D. Moore,REP,396
+Cache,LOG05:I,U.S. House,1,Blake D. Moore,REP,208
+Cache,LOG06:I,U.S. House,1,Blake D. Moore,REP,205
+Cache,LOG07:I,U.S. House,1,Blake D. Moore,REP,270
+Cache,LOG08:I,U.S. House,1,Blake D. Moore,REP,323
+Cache,LOG09:I,U.S. House,1,Blake D. Moore,REP,353
+Cache,LOG10:I,U.S. House,1,Blake D. Moore,REP,154
+Cache,LOG11:I,U.S. House,1,Blake D. Moore,REP,219
+Cache,LOG12:I,U.S. House,1,Blake D. Moore,REP,362
+Cache,LOG13:I,U.S. House,1,Blake D. Moore,REP,177
+Cache,LOG13:U,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG14:I,U.S. House,1,Blake D. Moore,REP,204
+Cache,LOG14:U1,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG14:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG14:U3,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG15:I,U.S. House,1,Blake D. Moore,REP,166
+Cache,LOG16:I,U.S. House,1,Blake D. Moore,REP,323
+Cache,LOG17:I,U.S. House,1,Blake D. Moore,REP,240
+Cache,LOG18:CSD,U.S. House,1,Blake D. Moore,REP,48
+Cache,LOG18:IA,U.S. House,1,Blake D. Moore,REP,316
+Cache,LOG19:I,U.S. House,1,Blake D. Moore,REP,236
+Cache,LOG20:I,U.S. House,1,Blake D. Moore,REP,437
+Cache,LOG21:CSD,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG21:IA,U.S. House,1,Blake D. Moore,REP,449
+Cache,LOG21:IB,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG21:IC,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG22:CSD,U.S. House,1,Blake D. Moore,REP,25
+Cache,LOG22:I,U.S. House,1,Blake D. Moore,REP,210
+Cache,LOG23:I,U.S. House,1,Blake D. Moore,REP,312
+Cache,LOG24:17C1,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG24:17C2,U.S. House,1,Blake D. Moore,REP,2
+Cache,LOG24:CSD1,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG24:CSD2,U.S. House,1,Blake D. Moore,REP,63
+Cache,LOG24:CSD3,U.S. House,1,Blake D. Moore,REP,49
+Cache,LOG24:I,U.S. House,1,Blake D. Moore,REP,308
+Cache,LOG24:U,U.S. House,1,Blake D. Moore,REP,0
+Cache,LOG25:I,U.S. House,1,Blake D. Moore,REP,120
+Cache,MEN01:U,U.S. House,1,Blake D. Moore,REP,90
+Cache,MEN02:I,U.S. House,1,Blake D. Moore,REP,513
+Cache,MEN02:U,U.S. House,1,Blake D. Moore,REP,381
+Cache,MIL01:I,U.S. House,1,Blake D. Moore,REP,717
+Cache,MIL01:U,U.S. House,1,Blake D. Moore,REP,0
+Cache,MIL02:I,U.S. House,1,Blake D. Moore,REP,46
+Cache,MIL02:U1,U.S. House,1,Blake D. Moore,REP,35
+Cache,MIL02:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,NEW:I,U.S. House,1,Blake D. Moore,REP,325
+Cache,NEW:U,U.S. House,1,Blake D. Moore,REP,68
+Cache,NEW:U2,U.S. House,1,Blake D. Moore,REP,7
+Cache,NIB01:IA,U.S. House,1,Blake D. Moore,REP,361
+Cache,NIB01:IB,U.S. House,1,Blake D. Moore,REP,0
+Cache,NIB01:U1,U.S. House,1,Blake D. Moore,REP,2
+Cache,NIB01:U2,U.S. House,1,Blake D. Moore,REP,1
+Cache,NIB01:U3,U.S. House,1,Blake D. Moore,REP,19
+Cache,NIB02:I,U.S. House,1,Blake D. Moore,REP,643
+Cache,NIB03:I,U.S. House,1,Blake D. Moore,REP,431
+Cache,NIB04:I,U.S. House,1,Blake D. Moore,REP,639
+Cache,NIB04:U,U.S. House,1,Blake D. Moore,REP,43
+Cache,NLG01:I,U.S. House,1,Blake D. Moore,REP,356
+Cache,NLG02:I,U.S. House,1,Blake D. Moore,REP,469
+Cache,NLG03:I,U.S. House,1,Blake D. Moore,REP,478
+Cache,NLG03:U,U.S. House,1,Blake D. Moore,REP,8
+Cache,NLG04:I,U.S. House,1,Blake D. Moore,REP,643
+Cache,NLG04:U,U.S. House,1,Blake D. Moore,REP,34
+Cache,NLG05:I,U.S. House,1,Blake D. Moore,REP,474
+Cache,NLG06:I,U.S. House,1,Blake D. Moore,REP,457
+Cache,PAR:I,U.S. House,1,Blake D. Moore,REP,395
+Cache,PAR:U,U.S. House,1,Blake D. Moore,REP,325
+Cache,PRO01:IA,U.S. House,1,Blake D. Moore,REP,265
+Cache,PRO01:IB,U.S. House,1,Blake D. Moore,REP,0
+Cache,PRO01:IC,U.S. House,1,Blake D. Moore,REP,0
+Cache,PRO02:IA,U.S. House,1,Blake D. Moore,REP,586
+Cache,PRO02:IB,U.S. House,1,Blake D. Moore,REP,0
+Cache,PRO03:I,U.S. House,1,Blake D. Moore,REP,535
+Cache,PRO03:U1,U.S. House,1,Blake D. Moore,REP,2
+Cache,PRO03:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,PRO03:U3,U.S. House,1,Blake D. Moore,REP,5
+Cache,PRO04:I,U.S. House,1,Blake D. Moore,REP,430
+Cache,PRO04:U,U.S. House,1,Blake D. Moore,REP,0
+Cache,PRO05:I,U.S. House,1,Blake D. Moore,REP,445
+Cache,PRO06:I,U.S. House,1,Blake D. Moore,REP,412
+Cache,RCH01:I,U.S. House,1,Blake D. Moore,REP,438
+Cache,RCH01:U1,U.S. House,1,Blake D. Moore,REP,0
+Cache,RCH01:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,RCH01:U3,U.S. House,1,Blake D. Moore,REP,31
+Cache,RCH02:I,U.S. House,1,Blake D. Moore,REP,431
+Cache,RCH02:U1,U.S. House,1,Blake D. Moore,REP,14
+Cache,RCH02:U2,U.S. House,1,Blake D. Moore,REP,43
+Cache,RCH03:I,U.S. House,1,Blake D. Moore,REP,0
+Cache,RVH01:I,U.S. House,1,Blake D. Moore,REP,474
+Cache,RVH01:U,U.S. House,1,Blake D. Moore,REP,2
+Cache,RVH02:I,U.S. House,1,Blake D. Moore,REP,147
+Cache,RVH02:U1,U.S. House,1,Blake D. Moore,REP,2
+Cache,RVH02:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,RVH02:U3,U.S. House,1,Blake D. Moore,REP,6
+Cache,SMI01:I,U.S. House,1,Blake D. Moore,REP,491
+Cache,SMI01:U1,U.S. House,1,Blake D. Moore,REP,41
+Cache,SMI01:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,SMI02:I,U.S. House,1,Blake D. Moore,REP,721
+Cache,SMI02:U,U.S. House,1,Blake D. Moore,REP,13
+Cache,SMI03:I,U.S. House,1,Blake D. Moore,REP,480
+Cache,SMI03:U,U.S. House,1,Blake D. Moore,REP,2
+Cache,SMI04:I,U.S. House,1,Blake D. Moore,REP,405
+Cache,SMI04:U,U.S. House,1,Blake D. Moore,REP,1
+Cache,SMI05:I,U.S. House,1,Blake D. Moore,REP,417
+Cache,SMI05:U,U.S. House,1,Blake D. Moore,REP,12
+Cache,SMI06:I,U.S. House,1,Blake D. Moore,REP,397
+Cache,SMI06:U,U.S. House,1,Blake D. Moore,REP,62
+Cache,SMI07:I,U.S. House,1,Blake D. Moore,REP,525
+Cache,SMI07:U,U.S. House,1,Blake D. Moore,REP,105
+Cache,SMI08:I,U.S. House,1,Blake D. Moore,REP,306
+Cache,TRE:I,U.S. House,1,Blake D. Moore,REP,168
+Cache,UNINHC:1,U.S. House,1,Blake D. Moore,REP,1
+Cache,UNINHC:2,U.S. House,1,Blake D. Moore,REP,0
+Cache,WEL01:I,U.S. House,1,Blake D. Moore,REP,539
+Cache,WEL01:U1,U.S. House,1,Blake D. Moore,REP,120
+Cache,WEL01:U2,U.S. House,1,Blake D. Moore,REP,0
+Cache,WEL01:U3,U.S. House,1,Blake D. Moore,REP,3
+Cache,WEL02:I,U.S. House,1,Blake D. Moore,REP,418
+Cache,WEL02:U,U.S. House,1,Blake D. Moore,REP,23
+Cache,WEL03:I,U.S. House,1,Blake D. Moore,REP,412
+Cache,WEL03:U,U.S. House,1,Blake D. Moore,REP,160
+Cache,AMA:I,U.S. House,1,Rick Edwin Jones,DEM,28
+Cache,AMA:U1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,AMA:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,AMA:U3,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,BEN:U,U.S. House,1,Rick Edwin Jones,DEM,33
+Cache,CLK:I,U.S. House,1,Rick Edwin Jones,DEM,24
+Cache,CLK:U1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,CLK:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,COR:I,U.S. House,1,Rick Edwin Jones,DEM,12
+Cache,COR:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,COV:U,U.S. House,1,Rick Edwin Jones,DEM,24
+Cache,COV:U2,U.S. House,1,Rick Edwin Jones,DEM,6
+Cache,CY:U,U.S. House,1,Rick Edwin Jones,DEM,38
+Cache,HYD01:I,U.S. House,1,Rick Edwin Jones,DEM,120
+Cache,HYD01:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,HYD02:I,U.S. House,1,Rick Edwin Jones,DEM,154
+Cache,HYD02:U1,U.S. House,1,Rick Edwin Jones,DEM,1
+Cache,HYD02:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,HYD03:I,U.S. House,1,Rick Edwin Jones,DEM,162
+Cache,HYD03:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,HYR01:I,U.S. House,1,Rick Edwin Jones,DEM,100
+Cache,HYR01:U,U.S. House,1,Rick Edwin Jones,DEM,12
+Cache,HYR02:I,U.S. House,1,Rick Edwin Jones,DEM,77
+Cache,HYR02:U1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,HYR02:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,HYR03:I,U.S. House,1,Rick Edwin Jones,DEM,101
+Cache,HYR03:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,HYR04:I,U.S. House,1,Rick Edwin Jones,DEM,122
+Cache,HYR04:U1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,HYR04:U2,U.S. House,1,Rick Edwin Jones,DEM,5
+Cache,HYR04:U3,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,HYR05:I,U.S. House,1,Rick Edwin Jones,DEM,121
+Cache,HYR05:U1,U.S. House,1,Rick Edwin Jones,DEM,2
+Cache,HYR05:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LEW00:I,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LEW01:I,U.S. House,1,Rick Edwin Jones,DEM,73
+Cache,LEW01:U1,U.S. House,1,Rick Edwin Jones,DEM,3
+Cache,LEW01:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LEW01:U3,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LEW01:U4,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LOG01:I,U.S. House,1,Rick Edwin Jones,DEM,210
+Cache,LOG02:I,U.S. House,1,Rick Edwin Jones,DEM,180
+Cache,LOG03:I,U.S. House,1,Rick Edwin Jones,DEM,136
+Cache,LOG04:I,U.S. House,1,Rick Edwin Jones,DEM,225
+Cache,LOG05:I,U.S. House,1,Rick Edwin Jones,DEM,143
+Cache,LOG06:I,U.S. House,1,Rick Edwin Jones,DEM,106
+Cache,LOG07:I,U.S. House,1,Rick Edwin Jones,DEM,141
+Cache,LOG08:I,U.S. House,1,Rick Edwin Jones,DEM,217
+Cache,LOG09:I,U.S. House,1,Rick Edwin Jones,DEM,166
+Cache,LOG10:I,U.S. House,1,Rick Edwin Jones,DEM,233
+Cache,LOG11:I,U.S. House,1,Rick Edwin Jones,DEM,143
+Cache,LOG12:I,U.S. House,1,Rick Edwin Jones,DEM,209
+Cache,LOG13:I,U.S. House,1,Rick Edwin Jones,DEM,181
+Cache,LOG13:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LOG14:I,U.S. House,1,Rick Edwin Jones,DEM,199
+Cache,LOG14:U1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LOG14:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LOG14:U3,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LOG15:I,U.S. House,1,Rick Edwin Jones,DEM,57
+Cache,LOG16:I,U.S. House,1,Rick Edwin Jones,DEM,278
+Cache,LOG17:I,U.S. House,1,Rick Edwin Jones,DEM,232
+Cache,LOG18:CSD,U.S. House,1,Rick Edwin Jones,DEM,65
+Cache,LOG18:IA,U.S. House,1,Rick Edwin Jones,DEM,275
+Cache,LOG19:I,U.S. House,1,Rick Edwin Jones,DEM,202
+Cache,LOG20:I,U.S. House,1,Rick Edwin Jones,DEM,242
+Cache,LOG21:CSD,U.S. House,1,Rick Edwin Jones,DEM,3
+Cache,LOG21:IA,U.S. House,1,Rick Edwin Jones,DEM,227
+Cache,LOG21:IB,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LOG21:IC,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LOG22:CSD,U.S. House,1,Rick Edwin Jones,DEM,12
+Cache,LOG22:I,U.S. House,1,Rick Edwin Jones,DEM,52
+Cache,LOG23:I,U.S. House,1,Rick Edwin Jones,DEM,141
+Cache,LOG24:17C1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LOG24:17C2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LOG24:CSD1,U.S. House,1,Rick Edwin Jones,DEM,2
+Cache,LOG24:CSD2,U.S. House,1,Rick Edwin Jones,DEM,22
+Cache,LOG24:CSD3,U.S. House,1,Rick Edwin Jones,DEM,35
+Cache,LOG24:I,U.S. House,1,Rick Edwin Jones,DEM,113
+Cache,LOG24:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,LOG25:I,U.S. House,1,Rick Edwin Jones,DEM,62
+Cache,MEN01:U,U.S. House,1,Rick Edwin Jones,DEM,8
+Cache,MEN02:I,U.S. House,1,Rick Edwin Jones,DEM,72
+Cache,MEN02:U,U.S. House,1,Rick Edwin Jones,DEM,62
+Cache,MIL01:I,U.S. House,1,Rick Edwin Jones,DEM,110
+Cache,MIL01:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,MIL02:I,U.S. House,1,Rick Edwin Jones,DEM,7
+Cache,MIL02:U1,U.S. House,1,Rick Edwin Jones,DEM,6
+Cache,MIL02:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,NEW:I,U.S. House,1,Rick Edwin Jones,DEM,44
+Cache,NEW:U,U.S. House,1,Rick Edwin Jones,DEM,10
+Cache,NEW:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,NIB01:IA,U.S. House,1,Rick Edwin Jones,DEM,54
+Cache,NIB01:IB,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,NIB01:U1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,NIB01:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,NIB01:U3,U.S. House,1,Rick Edwin Jones,DEM,5
+Cache,NIB02:I,U.S. House,1,Rick Edwin Jones,DEM,143
+Cache,NIB03:I,U.S. House,1,Rick Edwin Jones,DEM,82
+Cache,NIB04:I,U.S. House,1,Rick Edwin Jones,DEM,111
+Cache,NIB04:U,U.S. House,1,Rick Edwin Jones,DEM,3
+Cache,NLG01:I,U.S. House,1,Rick Edwin Jones,DEM,211
+Cache,NLG02:I,U.S. House,1,Rick Edwin Jones,DEM,200
+Cache,NLG03:I,U.S. House,1,Rick Edwin Jones,DEM,89
+Cache,NLG03:U,U.S. House,1,Rick Edwin Jones,DEM,1
+Cache,NLG04:I,U.S. House,1,Rick Edwin Jones,DEM,160
+Cache,NLG04:U,U.S. House,1,Rick Edwin Jones,DEM,1
+Cache,NLG05:I,U.S. House,1,Rick Edwin Jones,DEM,159
+Cache,NLG06:I,U.S. House,1,Rick Edwin Jones,DEM,191
+Cache,PAR:I,U.S. House,1,Rick Edwin Jones,DEM,39
+Cache,PAR:U,U.S. House,1,Rick Edwin Jones,DEM,67
+Cache,PRO01:IA,U.S. House,1,Rick Edwin Jones,DEM,59
+Cache,PRO01:IB,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,PRO01:IC,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,PRO02:IA,U.S. House,1,Rick Edwin Jones,DEM,164
+Cache,PRO02:IB,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,PRO03:I,U.S. House,1,Rick Edwin Jones,DEM,150
+Cache,PRO03:U1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,PRO03:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,PRO03:U3,U.S. House,1,Rick Edwin Jones,DEM,2
+Cache,PRO04:I,U.S. House,1,Rick Edwin Jones,DEM,135
+Cache,PRO04:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,PRO05:I,U.S. House,1,Rick Edwin Jones,DEM,144
+Cache,PRO06:I,U.S. House,1,Rick Edwin Jones,DEM,117
+Cache,RCH01:I,U.S. House,1,Rick Edwin Jones,DEM,65
+Cache,RCH01:U1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,RCH01:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,RCH01:U3,U.S. House,1,Rick Edwin Jones,DEM,5
+Cache,RCH02:I,U.S. House,1,Rick Edwin Jones,DEM,66
+Cache,RCH02:U1,U.S. House,1,Rick Edwin Jones,DEM,2
+Cache,RCH02:U2,U.S. House,1,Rick Edwin Jones,DEM,9
+Cache,RCH03:I,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,RVH01:I,U.S. House,1,Rick Edwin Jones,DEM,171
+Cache,RVH01:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,RVH02:I,U.S. House,1,Rick Edwin Jones,DEM,63
+Cache,RVH02:U1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,RVH02:U2,U.S. House,1,Rick Edwin Jones,DEM,2
+Cache,RVH02:U3,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,SMI01:I,U.S. House,1,Rick Edwin Jones,DEM,95
+Cache,SMI01:U1,U.S. House,1,Rick Edwin Jones,DEM,3
+Cache,SMI01:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,SMI02:I,U.S. House,1,Rick Edwin Jones,DEM,132
+Cache,SMI02:U,U.S. House,1,Rick Edwin Jones,DEM,10
+Cache,SMI03:I,U.S. House,1,Rick Edwin Jones,DEM,92
+Cache,SMI03:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,SMI04:I,U.S. House,1,Rick Edwin Jones,DEM,71
+Cache,SMI04:U,U.S. House,1,Rick Edwin Jones,DEM,7
+Cache,SMI05:I,U.S. House,1,Rick Edwin Jones,DEM,107
+Cache,SMI05:U,U.S. House,1,Rick Edwin Jones,DEM,4
+Cache,SMI06:I,U.S. House,1,Rick Edwin Jones,DEM,92
+Cache,SMI06:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,SMI07:I,U.S. House,1,Rick Edwin Jones,DEM,153
+Cache,SMI07:U,U.S. House,1,Rick Edwin Jones,DEM,12
+Cache,SMI08:I,U.S. House,1,Rick Edwin Jones,DEM,65
+Cache,TRE:I,U.S. House,1,Rick Edwin Jones,DEM,28
+Cache,UNINHC:1,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,UNINHC:2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,WEL01:I,U.S. House,1,Rick Edwin Jones,DEM,67
+Cache,WEL01:U1,U.S. House,1,Rick Edwin Jones,DEM,12
+Cache,WEL01:U2,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,WEL01:U3,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,WEL02:I,U.S. House,1,Rick Edwin Jones,DEM,65
+Cache,WEL02:U,U.S. House,1,Rick Edwin Jones,DEM,0
+Cache,WEL03:I,U.S. House,1,Rick Edwin Jones,DEM,54
+Cache,WEL03:U,U.S. House,1,Rick Edwin Jones,DEM,19
+Cache,AMA:I,U.S. House,1,Over Votes,,0
+Cache,AMA:U1,U.S. House,1,Over Votes,,0
+Cache,AMA:U2,U.S. House,1,Over Votes,,0
+Cache,AMA:U3,U.S. House,1,Over Votes,,0
+Cache,BEN:U,U.S. House,1,Over Votes,,0
+Cache,CLK:I,U.S. House,1,Over Votes,,0
+Cache,CLK:U1,U.S. House,1,Over Votes,,0
+Cache,CLK:U2,U.S. House,1,Over Votes,,0
+Cache,COR:I,U.S. House,1,Over Votes,,0
+Cache,COR:U,U.S. House,1,Over Votes,,0
+Cache,COV:U,U.S. House,1,Over Votes,,0
+Cache,COV:U2,U.S. House,1,Over Votes,,0
+Cache,CY:U,U.S. House,1,Over Votes,,0
+Cache,HYD01:I,U.S. House,1,Over Votes,,0
+Cache,HYD01:U,U.S. House,1,Over Votes,,0
+Cache,HYD02:I,U.S. House,1,Over Votes,,0
+Cache,HYD02:U1,U.S. House,1,Over Votes,,0
+Cache,HYD02:U2,U.S. House,1,Over Votes,,0
+Cache,HYD03:I,U.S. House,1,Over Votes,,0
+Cache,HYD03:U,U.S. House,1,Over Votes,,0
+Cache,HYR01:I,U.S. House,1,Over Votes,,0
+Cache,HYR01:U,U.S. House,1,Over Votes,,0
+Cache,HYR02:I,U.S. House,1,Over Votes,,0
+Cache,HYR02:U1,U.S. House,1,Over Votes,,0
+Cache,HYR02:U2,U.S. House,1,Over Votes,,0
+Cache,HYR03:I,U.S. House,1,Over Votes,,0
+Cache,HYR03:U,U.S. House,1,Over Votes,,0
+Cache,HYR04:I,U.S. House,1,Over Votes,,0
+Cache,HYR04:U1,U.S. House,1,Over Votes,,0
+Cache,HYR04:U2,U.S. House,1,Over Votes,,0
+Cache,HYR04:U3,U.S. House,1,Over Votes,,0
+Cache,HYR05:I,U.S. House,1,Over Votes,,0
+Cache,HYR05:U1,U.S. House,1,Over Votes,,0
+Cache,HYR05:U2,U.S. House,1,Over Votes,,0
+Cache,LEW00:I,U.S. House,1,Over Votes,,0
+Cache,LEW01:I,U.S. House,1,Over Votes,,0
+Cache,LEW01:U1,U.S. House,1,Over Votes,,0
+Cache,LEW01:U2,U.S. House,1,Over Votes,,0
+Cache,LEW01:U3,U.S. House,1,Over Votes,,0
+Cache,LEW01:U4,U.S. House,1,Over Votes,,0
+Cache,LOG01:I,U.S. House,1,Over Votes,,0
+Cache,LOG02:I,U.S. House,1,Over Votes,,0
+Cache,LOG03:I,U.S. House,1,Over Votes,,0
+Cache,LOG04:I,U.S. House,1,Over Votes,,0
+Cache,LOG05:I,U.S. House,1,Over Votes,,0
+Cache,LOG06:I,U.S. House,1,Over Votes,,0
+Cache,LOG07:I,U.S. House,1,Over Votes,,0
+Cache,LOG08:I,U.S. House,1,Over Votes,,0
+Cache,LOG09:I,U.S. House,1,Over Votes,,0
+Cache,LOG10:I,U.S. House,1,Over Votes,,0
+Cache,LOG11:I,U.S. House,1,Over Votes,,0
+Cache,LOG12:I,U.S. House,1,Over Votes,,0
+Cache,LOG13:I,U.S. House,1,Over Votes,,0
+Cache,LOG13:U,U.S. House,1,Over Votes,,0
+Cache,LOG14:I,U.S. House,1,Over Votes,,0
+Cache,LOG14:U1,U.S. House,1,Over Votes,,0
+Cache,LOG14:U2,U.S. House,1,Over Votes,,0
+Cache,LOG14:U3,U.S. House,1,Over Votes,,0
+Cache,LOG15:I,U.S. House,1,Over Votes,,0
+Cache,LOG16:I,U.S. House,1,Over Votes,,1
+Cache,LOG17:I,U.S. House,1,Over Votes,,0
+Cache,LOG18:CSD,U.S. House,1,Over Votes,,0
+Cache,LOG18:IA,U.S. House,1,Over Votes,,0
+Cache,LOG19:I,U.S. House,1,Over Votes,,0
+Cache,LOG20:I,U.S. House,1,Over Votes,,0
+Cache,LOG21:CSD,U.S. House,1,Over Votes,,0
+Cache,LOG21:IA,U.S. House,1,Over Votes,,0
+Cache,LOG21:IB,U.S. House,1,Over Votes,,0
+Cache,LOG21:IC,U.S. House,1,Over Votes,,0
+Cache,LOG22:CSD,U.S. House,1,Over Votes,,0
+Cache,LOG22:I,U.S. House,1,Over Votes,,0
+Cache,LOG23:I,U.S. House,1,Over Votes,,0
+Cache,LOG24:17C1,U.S. House,1,Over Votes,,0
+Cache,LOG24:17C2,U.S. House,1,Over Votes,,0
+Cache,LOG24:CSD1,U.S. House,1,Over Votes,,0
+Cache,LOG24:CSD2,U.S. House,1,Over Votes,,0
+Cache,LOG24:CSD3,U.S. House,1,Over Votes,,0
+Cache,LOG24:I,U.S. House,1,Over Votes,,0
+Cache,LOG24:U,U.S. House,1,Over Votes,,0
+Cache,LOG25:I,U.S. House,1,Over Votes,,0
+Cache,MEN01:U,U.S. House,1,Over Votes,,0
+Cache,MEN02:I,U.S. House,1,Over Votes,,0
+Cache,MEN02:U,U.S. House,1,Over Votes,,0
+Cache,MIL01:I,U.S. House,1,Over Votes,,0
+Cache,MIL01:U,U.S. House,1,Over Votes,,0
+Cache,MIL02:I,U.S. House,1,Over Votes,,0
+Cache,MIL02:U1,U.S. House,1,Over Votes,,0
+Cache,MIL02:U2,U.S. House,1,Over Votes,,0
+Cache,NEW:I,U.S. House,1,Over Votes,,0
+Cache,NEW:U,U.S. House,1,Over Votes,,0
+Cache,NEW:U2,U.S. House,1,Over Votes,,0
+Cache,NIB01:IA,U.S. House,1,Over Votes,,0
+Cache,NIB01:IB,U.S. House,1,Over Votes,,0
+Cache,NIB01:U1,U.S. House,1,Over Votes,,0
+Cache,NIB01:U2,U.S. House,1,Over Votes,,0
+Cache,NIB01:U3,U.S. House,1,Over Votes,,0
+Cache,NIB02:I,U.S. House,1,Over Votes,,0
+Cache,NIB03:I,U.S. House,1,Over Votes,,0
+Cache,NIB04:I,U.S. House,1,Over Votes,,0
+Cache,NIB04:U,U.S. House,1,Over Votes,,0
+Cache,NLG01:I,U.S. House,1,Over Votes,,0
+Cache,NLG02:I,U.S. House,1,Over Votes,,0
+Cache,NLG03:I,U.S. House,1,Over Votes,,0
+Cache,NLG03:U,U.S. House,1,Over Votes,,0
+Cache,NLG04:I,U.S. House,1,Over Votes,,0
+Cache,NLG04:U,U.S. House,1,Over Votes,,0
+Cache,NLG05:I,U.S. House,1,Over Votes,,0
+Cache,NLG06:I,U.S. House,1,Over Votes,,0
+Cache,PAR:I,U.S. House,1,Over Votes,,0
+Cache,PAR:U,U.S. House,1,Over Votes,,0
+Cache,PRO01:IA,U.S. House,1,Over Votes,,0
+Cache,PRO01:IB,U.S. House,1,Over Votes,,0
+Cache,PRO01:IC,U.S. House,1,Over Votes,,0
+Cache,PRO02:IA,U.S. House,1,Over Votes,,0
+Cache,PRO02:IB,U.S. House,1,Over Votes,,0
+Cache,PRO03:I,U.S. House,1,Over Votes,,0
+Cache,PRO03:U1,U.S. House,1,Over Votes,,0
+Cache,PRO03:U2,U.S. House,1,Over Votes,,0
+Cache,PRO03:U3,U.S. House,1,Over Votes,,0
+Cache,PRO04:I,U.S. House,1,Over Votes,,0
+Cache,PRO04:U,U.S. House,1,Over Votes,,0
+Cache,PRO05:I,U.S. House,1,Over Votes,,0
+Cache,PRO06:I,U.S. House,1,Over Votes,,0
+Cache,RCH01:I,U.S. House,1,Over Votes,,0
+Cache,RCH01:U1,U.S. House,1,Over Votes,,0
+Cache,RCH01:U2,U.S. House,1,Over Votes,,0
+Cache,RCH01:U3,U.S. House,1,Over Votes,,0
+Cache,RCH02:I,U.S. House,1,Over Votes,,0
+Cache,RCH02:U1,U.S. House,1,Over Votes,,0
+Cache,RCH02:U2,U.S. House,1,Over Votes,,0
+Cache,RCH03:I,U.S. House,1,Over Votes,,0
+Cache,RVH01:I,U.S. House,1,Over Votes,,0
+Cache,RVH01:U,U.S. House,1,Over Votes,,0
+Cache,RVH02:I,U.S. House,1,Over Votes,,0
+Cache,RVH02:U1,U.S. House,1,Over Votes,,0
+Cache,RVH02:U2,U.S. House,1,Over Votes,,0
+Cache,RVH02:U3,U.S. House,1,Over Votes,,0
+Cache,SMI01:I,U.S. House,1,Over Votes,,0
+Cache,SMI01:U1,U.S. House,1,Over Votes,,0
+Cache,SMI01:U2,U.S. House,1,Over Votes,,0
+Cache,SMI02:I,U.S. House,1,Over Votes,,0
+Cache,SMI02:U,U.S. House,1,Over Votes,,0
+Cache,SMI03:I,U.S. House,1,Over Votes,,0
+Cache,SMI03:U,U.S. House,1,Over Votes,,0
+Cache,SMI04:I,U.S. House,1,Over Votes,,0
+Cache,SMI04:U,U.S. House,1,Over Votes,,0
+Cache,SMI05:I,U.S. House,1,Over Votes,,0
+Cache,SMI05:U,U.S. House,1,Over Votes,,0
+Cache,SMI06:I,U.S. House,1,Over Votes,,0
+Cache,SMI06:U,U.S. House,1,Over Votes,,0
+Cache,SMI07:I,U.S. House,1,Over Votes,,0
+Cache,SMI07:U,U.S. House,1,Over Votes,,0
+Cache,SMI08:I,U.S. House,1,Over Votes,,0
+Cache,TRE:I,U.S. House,1,Over Votes,,0
+Cache,UNINHC:1,U.S. House,1,Over Votes,,0
+Cache,UNINHC:2,U.S. House,1,Over Votes,,0
+Cache,WEL01:I,U.S. House,1,Over Votes,,0
+Cache,WEL01:U1,U.S. House,1,Over Votes,,0
+Cache,WEL01:U2,U.S. House,1,Over Votes,,0
+Cache,WEL01:U3,U.S. House,1,Over Votes,,0
+Cache,WEL02:I,U.S. House,1,Over Votes,,0
+Cache,WEL02:U,U.S. House,1,Over Votes,,0
+Cache,WEL03:I,U.S. House,1,Over Votes,,0
+Cache,WEL03:U,U.S. House,1,Over Votes,,0
+Cache,AMA:I,U.S. House,1,Under Votes,,2
+Cache,AMA:U1,U.S. House,1,Under Votes,,0
+Cache,AMA:U2,U.S. House,1,Under Votes,,0
+Cache,AMA:U3,U.S. House,1,Under Votes,,1
+Cache,BEN:U,U.S. House,1,Under Votes,,8
+Cache,CLK:I,U.S. House,1,Under Votes,,5
+Cache,CLK:U1,U.S. House,1,Under Votes,,2
+Cache,CLK:U2,U.S. House,1,Under Votes,,0
+Cache,COR:I,U.S. House,1,Under Votes,,0
+Cache,COR:U,U.S. House,1,Under Votes,,0
+Cache,COV:U,U.S. House,1,Under Votes,,4
+Cache,COV:U2,U.S. House,1,Under Votes,,0
+Cache,CY:U,U.S. House,1,Under Votes,,8
+Cache,HYD01:I,U.S. House,1,Under Votes,,19
+Cache,HYD01:U,U.S. House,1,Under Votes,,0
+Cache,HYD02:I,U.S. House,1,Under Votes,,20
+Cache,HYD02:U1,U.S. House,1,Under Votes,,4
+Cache,HYD02:U2,U.S. House,1,Under Votes,,0
+Cache,HYD03:I,U.S. House,1,Under Votes,,27
+Cache,HYD03:U,U.S. House,1,Under Votes,,0
+Cache,HYR01:I,U.S. House,1,Under Votes,,14
+Cache,HYR01:U,U.S. House,1,Under Votes,,2
+Cache,HYR02:I,U.S. House,1,Under Votes,,19
+Cache,HYR02:U1,U.S. House,1,Under Votes,,0
+Cache,HYR02:U2,U.S. House,1,Under Votes,,0
+Cache,HYR03:I,U.S. House,1,Under Votes,,13
+Cache,HYR03:U,U.S. House,1,Under Votes,,0
+Cache,HYR04:I,U.S. House,1,Under Votes,,10
+Cache,HYR04:U1,U.S. House,1,Under Votes,,0
+Cache,HYR04:U2,U.S. House,1,Under Votes,,1
+Cache,HYR04:U3,U.S. House,1,Under Votes,,0
+Cache,HYR05:I,U.S. House,1,Under Votes,,19
+Cache,HYR05:U1,U.S. House,1,Under Votes,,0
+Cache,HYR05:U2,U.S. House,1,Under Votes,,0
+Cache,LEW00:I,U.S. House,1,Under Votes,,0
+Cache,LEW01:I,U.S. House,1,Under Votes,,11
+Cache,LEW01:U1,U.S. House,1,Under Votes,,0
+Cache,LEW01:U2,U.S. House,1,Under Votes,,0
+Cache,LEW01:U3,U.S. House,1,Under Votes,,0
+Cache,LEW01:U4,U.S. House,1,Under Votes,,0
+Cache,LOG01:I,U.S. House,1,Under Votes,,12
+Cache,LOG02:I,U.S. House,1,Under Votes,,6
+Cache,LOG03:I,U.S. House,1,Under Votes,,7
+Cache,LOG04:I,U.S. House,1,Under Votes,,22
+Cache,LOG05:I,U.S. House,1,Under Votes,,8
+Cache,LOG06:I,U.S. House,1,Under Votes,,11
+Cache,LOG07:I,U.S. House,1,Under Votes,,8
+Cache,LOG08:I,U.S. House,1,Under Votes,,26
+Cache,LOG09:I,U.S. House,1,Under Votes,,12
+Cache,LOG10:I,U.S. House,1,Under Votes,,14
+Cache,LOG11:I,U.S. House,1,Under Votes,,7
+Cache,LOG12:I,U.S. House,1,Under Votes,,18
+Cache,LOG13:I,U.S. House,1,Under Votes,,12
+Cache,LOG13:U,U.S. House,1,Under Votes,,0
+Cache,LOG14:I,U.S. House,1,Under Votes,,21
+Cache,LOG14:U1,U.S. House,1,Under Votes,,0
+Cache,LOG14:U2,U.S. House,1,Under Votes,,0
+Cache,LOG14:U3,U.S. House,1,Under Votes,,0
+Cache,LOG15:I,U.S. House,1,Under Votes,,4
+Cache,LOG16:I,U.S. House,1,Under Votes,,17
+Cache,LOG17:I,U.S. House,1,Under Votes,,10
+Cache,LOG18:CSD,U.S. House,1,Under Votes,,0
+Cache,LOG18:IA,U.S. House,1,Under Votes,,13
+Cache,LOG19:I,U.S. House,1,Under Votes,,15
+Cache,LOG20:I,U.S. House,1,Under Votes,,18
+Cache,LOG21:CSD,U.S. House,1,Under Votes,,0
+Cache,LOG21:IA,U.S. House,1,Under Votes,,19
+Cache,LOG21:IB,U.S. House,1,Under Votes,,0
+Cache,LOG21:IC,U.S. House,1,Under Votes,,0
+Cache,LOG22:CSD,U.S. House,1,Under Votes,,0
+Cache,LOG22:I,U.S. House,1,Under Votes,,5
+Cache,LOG23:I,U.S. House,1,Under Votes,,13
+Cache,LOG24:17C1,U.S. House,1,Under Votes,,0
+Cache,LOG24:17C2,U.S. House,1,Under Votes,,0
+Cache,LOG24:CSD1,U.S. House,1,Under Votes,,0
+Cache,LOG24:CSD2,U.S. House,1,Under Votes,,3
+Cache,LOG24:CSD3,U.S. House,1,Under Votes,,4
+Cache,LOG24:I,U.S. House,1,Under Votes,,15
+Cache,LOG24:U,U.S. House,1,Under Votes,,0
+Cache,LOG25:I,U.S. House,1,Under Votes,,4
+Cache,MEN01:U,U.S. House,1,Under Votes,,1
+Cache,MEN02:I,U.S. House,1,Under Votes,,19
+Cache,MEN02:U,U.S. House,1,Under Votes,,5
+Cache,MIL01:I,U.S. House,1,Under Votes,,22
+Cache,MIL01:U,U.S. House,1,Under Votes,,0
+Cache,MIL02:I,U.S. House,1,Under Votes,,0
+Cache,MIL02:U1,U.S. House,1,Under Votes,,1
+Cache,MIL02:U2,U.S. House,1,Under Votes,,0
+Cache,NEW:I,U.S. House,1,Under Votes,,5
+Cache,NEW:U,U.S. House,1,Under Votes,,3
+Cache,NEW:U2,U.S. House,1,Under Votes,,0
+Cache,NIB01:IA,U.S. House,1,Under Votes,,15
+Cache,NIB01:IB,U.S. House,1,Under Votes,,0
+Cache,NIB01:U1,U.S. House,1,Under Votes,,0
+Cache,NIB01:U2,U.S. House,1,Under Votes,,2
+Cache,NIB01:U3,U.S. House,1,Under Votes,,0
+Cache,NIB02:I,U.S. House,1,Under Votes,,28
+Cache,NIB03:I,U.S. House,1,Under Votes,,17
+Cache,NIB04:I,U.S. House,1,Under Votes,,28
+Cache,NIB04:U,U.S. House,1,Under Votes,,0
+Cache,NLG01:I,U.S. House,1,Under Votes,,11
+Cache,NLG02:I,U.S. House,1,Under Votes,,23
+Cache,NLG03:I,U.S. House,1,Under Votes,,20
+Cache,NLG03:U,U.S. House,1,Under Votes,,0
+Cache,NLG04:I,U.S. House,1,Under Votes,,33
+Cache,NLG04:U,U.S. House,1,Under Votes,,0
+Cache,NLG05:I,U.S. House,1,Under Votes,,23
+Cache,NLG06:I,U.S. House,1,Under Votes,,20
+Cache,PAR:I,U.S. House,1,Under Votes,,15
+Cache,PAR:U,U.S. House,1,Under Votes,,18
+Cache,PRO01:IA,U.S. House,1,Under Votes,,14
+Cache,PRO01:IB,U.S. House,1,Under Votes,,0
+Cache,PRO01:IC,U.S. House,1,Under Votes,,0
+Cache,PRO02:IA,U.S. House,1,Under Votes,,17
+Cache,PRO02:IB,U.S. House,1,Under Votes,,0
+Cache,PRO03:I,U.S. House,1,Under Votes,,21
+Cache,PRO03:U1,U.S. House,1,Under Votes,,0
+Cache,PRO03:U2,U.S. House,1,Under Votes,,0
+Cache,PRO03:U3,U.S. House,1,Under Votes,,0
+Cache,PRO04:I,U.S. House,1,Under Votes,,16
+Cache,PRO04:U,U.S. House,1,Under Votes,,0
+Cache,PRO05:I,U.S. House,1,Under Votes,,14
+Cache,PRO06:I,U.S. House,1,Under Votes,,34
+Cache,RCH01:I,U.S. House,1,Under Votes,,14
+Cache,RCH01:U1,U.S. House,1,Under Votes,,0
+Cache,RCH01:U2,U.S. House,1,Under Votes,,0
+Cache,RCH01:U3,U.S. House,1,Under Votes,,1
+Cache,RCH02:I,U.S. House,1,Under Votes,,6
+Cache,RCH02:U1,U.S. House,1,Under Votes,,0
+Cache,RCH02:U2,U.S. House,1,Under Votes,,1
+Cache,RCH03:I,U.S. House,1,Under Votes,,0
+Cache,RVH01:I,U.S. House,1,Under Votes,,21
+Cache,RVH01:U,U.S. House,1,Under Votes,,0
+Cache,RVH02:I,U.S. House,1,Under Votes,,3
+Cache,RVH02:U1,U.S. House,1,Under Votes,,0
+Cache,RVH02:U2,U.S. House,1,Under Votes,,0
+Cache,RVH02:U3,U.S. House,1,Under Votes,,0
+Cache,SMI01:I,U.S. House,1,Under Votes,,18
+Cache,SMI01:U1,U.S. House,1,Under Votes,,2
+Cache,SMI01:U2,U.S. House,1,Under Votes,,0
+Cache,SMI02:I,U.S. House,1,Under Votes,,16
+Cache,SMI02:U,U.S. House,1,Under Votes,,0
+Cache,SMI03:I,U.S. House,1,Under Votes,,19
+Cache,SMI03:U,U.S. House,1,Under Votes,,0
+Cache,SMI04:I,U.S. House,1,Under Votes,,15
+Cache,SMI04:U,U.S. House,1,Under Votes,,0
+Cache,SMI05:I,U.S. House,1,Under Votes,,16
+Cache,SMI05:U,U.S. House,1,Under Votes,,0
+Cache,SMI06:I,U.S. House,1,Under Votes,,11
+Cache,SMI06:U,U.S. House,1,Under Votes,,3
+Cache,SMI07:I,U.S. House,1,Under Votes,,19
+Cache,SMI07:U,U.S. House,1,Under Votes,,3
+Cache,SMI08:I,U.S. House,1,Under Votes,,6
+Cache,TRE:I,U.S. House,1,Under Votes,,4
+Cache,UNINHC:1,U.S. House,1,Under Votes,,0
+Cache,UNINHC:2,U.S. House,1,Under Votes,,0
+Cache,WEL01:I,U.S. House,1,Under Votes,,9
+Cache,WEL01:U1,U.S. House,1,Under Votes,,1
+Cache,WEL01:U2,U.S. House,1,Under Votes,,0
+Cache,WEL01:U3,U.S. House,1,Under Votes,,0
+Cache,WEL02:I,U.S. House,1,Under Votes,,17
+Cache,WEL02:U,U.S. House,1,Under Votes,,1
+Cache,WEL03:I,U.S. House,1,Under Votes,,9
+Cache,WEL03:U,U.S. House,1,Under Votes,,1
+Cache,AMA:I,State Treasurer,,Marlo M. Oaks,REP,154
+Cache,AMA:U1,State Treasurer,,Marlo M. Oaks,REP,2
+Cache,AMA:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,AMA:U3,State Treasurer,,Marlo M. Oaks,REP,9
+Cache,BEN:U,State Treasurer,,Marlo M. Oaks,REP,216
+Cache,CLK:I,State Treasurer,,Marlo M. Oaks,REP,220
+Cache,CLK:U1,State Treasurer,,Marlo M. Oaks,REP,21
+Cache,CLK:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,COR:I,State Treasurer,,Marlo M. Oaks,REP,69
+Cache,COR:U,State Treasurer,,Marlo M. Oaks,REP,10
+Cache,COV:U,State Treasurer,,Marlo M. Oaks,REP,181
+Cache,COV:U2,State Treasurer,,Marlo M. Oaks,REP,29
+Cache,CY:U,State Treasurer,,Marlo M. Oaks,REP,324
+Cache,HYD01:I,State Treasurer,,Marlo M. Oaks,REP,559
+Cache,HYD01:U,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,HYD02:I,State Treasurer,,Marlo M. Oaks,REP,551
+Cache,HYD02:U1,State Treasurer,,Marlo M. Oaks,REP,33
+Cache,HYD02:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,HYD03:I,State Treasurer,,Marlo M. Oaks,REP,653
+Cache,HYD03:U,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,HYR01:I,State Treasurer,,Marlo M. Oaks,REP,364
+Cache,HYR01:U,State Treasurer,,Marlo M. Oaks,REP,84
+Cache,HYR02:I,State Treasurer,,Marlo M. Oaks,REP,326
+Cache,HYR02:U1,State Treasurer,,Marlo M. Oaks,REP,11
+Cache,HYR02:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,HYR03:I,State Treasurer,,Marlo M. Oaks,REP,451
+Cache,HYR03:U,State Treasurer,,Marlo M. Oaks,REP,10
+Cache,HYR04:I,State Treasurer,,Marlo M. Oaks,REP,632
+Cache,HYR04:U1,State Treasurer,,Marlo M. Oaks,REP,1
+Cache,HYR04:U2,State Treasurer,,Marlo M. Oaks,REP,55
+Cache,HYR04:U3,State Treasurer,,Marlo M. Oaks,REP,1
+Cache,HYR05:I,State Treasurer,,Marlo M. Oaks,REP,616
+Cache,HYR05:U1,State Treasurer,,Marlo M. Oaks,REP,11
+Cache,HYR05:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LEW00:I,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LEW01:I,State Treasurer,,Marlo M. Oaks,REP,570
+Cache,LEW01:U1,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LEW01:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LEW01:U3,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LEW01:U4,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG01:I,State Treasurer,,Marlo M. Oaks,REP,375
+Cache,LOG02:I,State Treasurer,,Marlo M. Oaks,REP,277
+Cache,LOG03:I,State Treasurer,,Marlo M. Oaks,REP,199
+Cache,LOG04:I,State Treasurer,,Marlo M. Oaks,REP,403
+Cache,LOG05:I,State Treasurer,,Marlo M. Oaks,REP,222
+Cache,LOG06:I,State Treasurer,,Marlo M. Oaks,REP,199
+Cache,LOG07:I,State Treasurer,,Marlo M. Oaks,REP,253
+Cache,LOG08:I,State Treasurer,,Marlo M. Oaks,REP,344
+Cache,LOG09:I,State Treasurer,,Marlo M. Oaks,REP,358
+Cache,LOG10:I,State Treasurer,,Marlo M. Oaks,REP,180
+Cache,LOG11:I,State Treasurer,,Marlo M. Oaks,REP,239
+Cache,LOG12:I,State Treasurer,,Marlo M. Oaks,REP,349
+Cache,LOG13:I,State Treasurer,,Marlo M. Oaks,REP,187
+Cache,LOG13:U,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG14:I,State Treasurer,,Marlo M. Oaks,REP,215
+Cache,LOG14:U1,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG14:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG14:U3,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG15:I,State Treasurer,,Marlo M. Oaks,REP,164
+Cache,LOG16:I,State Treasurer,,Marlo M. Oaks,REP,340
+Cache,LOG17:I,State Treasurer,,Marlo M. Oaks,REP,251
+Cache,LOG18:CSD,State Treasurer,,Marlo M. Oaks,REP,53
+Cache,LOG18:IA,State Treasurer,,Marlo M. Oaks,REP,325
+Cache,LOG18:IB,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG19:I,State Treasurer,,Marlo M. Oaks,REP,248
+Cache,LOG20:I,State Treasurer,,Marlo M. Oaks,REP,444
+Cache,LOG21:CSD,State Treasurer,,Marlo M. Oaks,REP,2
+Cache,LOG21:IA,State Treasurer,,Marlo M. Oaks,REP,479
+Cache,LOG21:IB,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG21:IC,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG22:CSD,State Treasurer,,Marlo M. Oaks,REP,24
+Cache,LOG22:I,State Treasurer,,Marlo M. Oaks,REP,196
+Cache,LOG23:I,State Treasurer,,Marlo M. Oaks,REP,317
+Cache,LOG24:17C1,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG24:17C2,State Treasurer,,Marlo M. Oaks,REP,2
+Cache,LOG24:CSD1,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG24:CSD2,State Treasurer,,Marlo M. Oaks,REP,67
+Cache,LOG24:CSD3,State Treasurer,,Marlo M. Oaks,REP,51
+Cache,LOG24:I,State Treasurer,,Marlo M. Oaks,REP,289
+Cache,LOG24:U,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,LOG25:I,State Treasurer,,Marlo M. Oaks,REP,124
+Cache,MEN01:U,State Treasurer,,Marlo M. Oaks,REP,90
+Cache,MEN02:I,State Treasurer,,Marlo M. Oaks,REP,490
+Cache,MEN02:U,State Treasurer,,Marlo M. Oaks,REP,373
+Cache,MIL01:I,State Treasurer,,Marlo M. Oaks,REP,681
+Cache,MIL01:U,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,MIL02:I,State Treasurer,,Marlo M. Oaks,REP,45
+Cache,MIL02:U1,State Treasurer,,Marlo M. Oaks,REP,32
+Cache,MIL02:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,NEW:I,State Treasurer,,Marlo M. Oaks,REP,302
+Cache,NEW:U,State Treasurer,,Marlo M. Oaks,REP,71
+Cache,NEW:U2,State Treasurer,,Marlo M. Oaks,REP,6
+Cache,NIB01:IA,State Treasurer,,Marlo M. Oaks,REP,342
+Cache,NIB01:IB,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,NIB01:U1,State Treasurer,,Marlo M. Oaks,REP,2
+Cache,NIB01:U2,State Treasurer,,Marlo M. Oaks,REP,1
+Cache,NIB01:U3,State Treasurer,,Marlo M. Oaks,REP,17
+Cache,NIB02:I,State Treasurer,,Marlo M. Oaks,REP,616
+Cache,NIB03:I,State Treasurer,,Marlo M. Oaks,REP,415
+Cache,NIB04:I,State Treasurer,,Marlo M. Oaks,REP,613
+Cache,NIB04:U,State Treasurer,,Marlo M. Oaks,REP,39
+Cache,NLG01:I,State Treasurer,,Marlo M. Oaks,REP,361
+Cache,NLG02:I,State Treasurer,,Marlo M. Oaks,REP,473
+Cache,NLG03:I,State Treasurer,,Marlo M. Oaks,REP,468
+Cache,NLG03:U,State Treasurer,,Marlo M. Oaks,REP,6
+Cache,NLG04:I,State Treasurer,,Marlo M. Oaks,REP,646
+Cache,NLG04:U,State Treasurer,,Marlo M. Oaks,REP,30
+Cache,NLG05:I,State Treasurer,,Marlo M. Oaks,REP,478
+Cache,NLG06:I,State Treasurer,,Marlo M. Oaks,REP,457
+Cache,PAR:I,State Treasurer,,Marlo M. Oaks,REP,382
+Cache,PAR:U,State Treasurer,,Marlo M. Oaks,REP,324
+Cache,PRO01:IA,State Treasurer,,Marlo M. Oaks,REP,270
+Cache,PRO01:IB,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,PRO01:IC,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,PRO02:IA,State Treasurer,,Marlo M. Oaks,REP,562
+Cache,PRO02:IB,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,PRO03:I,State Treasurer,,Marlo M. Oaks,REP,530
+Cache,PRO03:U1,State Treasurer,,Marlo M. Oaks,REP,2
+Cache,PRO03:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,PRO03:U3,State Treasurer,,Marlo M. Oaks,REP,5
+Cache,PRO04:I,State Treasurer,,Marlo M. Oaks,REP,412
+Cache,PRO04:U,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,PRO05:I,State Treasurer,,Marlo M. Oaks,REP,434
+Cache,PRO06:I,State Treasurer,,Marlo M. Oaks,REP,420
+Cache,RCH01:I,State Treasurer,,Marlo M. Oaks,REP,416
+Cache,RCH01:U1,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,RCH01:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,RCH01:U3,State Treasurer,,Marlo M. Oaks,REP,31
+Cache,RCH02:I,State Treasurer,,Marlo M. Oaks,REP,402
+Cache,RCH02:U1,State Treasurer,,Marlo M. Oaks,REP,11
+Cache,RCH02:U2,State Treasurer,,Marlo M. Oaks,REP,47
+Cache,RCH03:I,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,RVH01:I,State Treasurer,,Marlo M. Oaks,REP,467
+Cache,RVH01:U,State Treasurer,,Marlo M. Oaks,REP,2
+Cache,RVH02:I,State Treasurer,,Marlo M. Oaks,REP,152
+Cache,RVH02:U1,State Treasurer,,Marlo M. Oaks,REP,2
+Cache,RVH02:U2,State Treasurer,,Marlo M. Oaks,REP,2
+Cache,RVH02:U3,State Treasurer,,Marlo M. Oaks,REP,6
+Cache,SMI01:I,State Treasurer,,Marlo M. Oaks,REP,462
+Cache,SMI01:U1,State Treasurer,,Marlo M. Oaks,REP,39
+Cache,SMI01:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,SMI02:I,State Treasurer,,Marlo M. Oaks,REP,701
+Cache,SMI02:U,State Treasurer,,Marlo M. Oaks,REP,15
+Cache,SMI03:I,State Treasurer,,Marlo M. Oaks,REP,474
+Cache,SMI03:U,State Treasurer,,Marlo M. Oaks,REP,2
+Cache,SMI04:I,State Treasurer,,Marlo M. Oaks,REP,405
+Cache,SMI04:U,State Treasurer,,Marlo M. Oaks,REP,3
+Cache,SMI05:I,State Treasurer,,Marlo M. Oaks,REP,423
+Cache,SMI05:U,State Treasurer,,Marlo M. Oaks,REP,13
+Cache,SMI06:I,State Treasurer,,Marlo M. Oaks,REP,378
+Cache,SMI06:U,State Treasurer,,Marlo M. Oaks,REP,60
+Cache,SMI07:I,State Treasurer,,Marlo M. Oaks,REP,528
+Cache,SMI07:U,State Treasurer,,Marlo M. Oaks,REP,103
+Cache,SMI08:I,State Treasurer,,Marlo M. Oaks,REP,301
+Cache,TRE:I,State Treasurer,,Marlo M. Oaks,REP,160
+Cache,UNINHC:1,State Treasurer,,Marlo M. Oaks,REP,1
+Cache,UNINHC:2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,WEL01:I,State Treasurer,,Marlo M. Oaks,REP,510
+Cache,WEL01:U1,State Treasurer,,Marlo M. Oaks,REP,116
+Cache,WEL01:U2,State Treasurer,,Marlo M. Oaks,REP,0
+Cache,WEL01:U3,State Treasurer,,Marlo M. Oaks,REP,3
+Cache,WEL02:I,State Treasurer,,Marlo M. Oaks,REP,412
+Cache,WEL02:U,State Treasurer,,Marlo M. Oaks,REP,22
+Cache,WEL03:I,State Treasurer,,Marlo M. Oaks,REP,398
+Cache,WEL03:U,State Treasurer,,Marlo M. Oaks,REP,155
+Cache,AMA:I,State Treasurer,,Thomas Alan Horne,UUP,12
+Cache,AMA:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,AMA:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,AMA:U3,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,BEN:U,State Treasurer,,Thomas Alan Horne,UUP,14
+Cache,CLK:I,State Treasurer,,Thomas Alan Horne,UUP,2
+Cache,CLK:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,CLK:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,COR:I,State Treasurer,,Thomas Alan Horne,UUP,4
+Cache,COR:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,COV:U,State Treasurer,,Thomas Alan Horne,UUP,7
+Cache,COV:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,CY:U,State Treasurer,,Thomas Alan Horne,UUP,11
+Cache,HYD01:I,State Treasurer,,Thomas Alan Horne,UUP,23
+Cache,HYD01:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYD02:I,State Treasurer,,Thomas Alan Horne,UUP,31
+Cache,HYD02:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYD02:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYD03:I,State Treasurer,,Thomas Alan Horne,UUP,36
+Cache,HYD03:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYR01:I,State Treasurer,,Thomas Alan Horne,UUP,26
+Cache,HYR01:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYR02:I,State Treasurer,,Thomas Alan Horne,UUP,25
+Cache,HYR02:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYR02:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYR03:I,State Treasurer,,Thomas Alan Horne,UUP,18
+Cache,HYR03:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYR04:I,State Treasurer,,Thomas Alan Horne,UUP,50
+Cache,HYR04:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYR04:U2,State Treasurer,,Thomas Alan Horne,UUP,1
+Cache,HYR04:U3,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYR05:I,State Treasurer,,Thomas Alan Horne,UUP,33
+Cache,HYR05:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,HYR05:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LEW00:I,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LEW01:I,State Treasurer,,Thomas Alan Horne,UUP,13
+Cache,LEW01:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LEW01:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LEW01:U3,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LEW01:U4,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG01:I,State Treasurer,,Thomas Alan Horne,UUP,62
+Cache,LOG02:I,State Treasurer,,Thomas Alan Horne,UUP,38
+Cache,LOG03:I,State Treasurer,,Thomas Alan Horne,UUP,39
+Cache,LOG04:I,State Treasurer,,Thomas Alan Horne,UUP,42
+Cache,LOG05:I,State Treasurer,,Thomas Alan Horne,UUP,27
+Cache,LOG06:I,State Treasurer,,Thomas Alan Horne,UUP,29
+Cache,LOG07:I,State Treasurer,,Thomas Alan Horne,UUP,36
+Cache,LOG08:I,State Treasurer,,Thomas Alan Horne,UUP,49
+Cache,LOG09:I,State Treasurer,,Thomas Alan Horne,UUP,28
+Cache,LOG10:I,State Treasurer,,Thomas Alan Horne,UUP,54
+Cache,LOG11:I,State Treasurer,,Thomas Alan Horne,UUP,30
+Cache,LOG12:I,State Treasurer,,Thomas Alan Horne,UUP,48
+Cache,LOG13:I,State Treasurer,,Thomas Alan Horne,UUP,37
+Cache,LOG13:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG14:I,State Treasurer,,Thomas Alan Horne,UUP,45
+Cache,LOG14:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG14:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG14:U3,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG15:I,State Treasurer,,Thomas Alan Horne,UUP,15
+Cache,LOG16:I,State Treasurer,,Thomas Alan Horne,UUP,61
+Cache,LOG17:I,State Treasurer,,Thomas Alan Horne,UUP,59
+Cache,LOG18:CSD,State Treasurer,,Thomas Alan Horne,UUP,9
+Cache,LOG18:IA,State Treasurer,,Thomas Alan Horne,UUP,53
+Cache,LOG18:IB,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG19:I,State Treasurer,,Thomas Alan Horne,UUP,40
+Cache,LOG20:I,State Treasurer,,Thomas Alan Horne,UUP,63
+Cache,LOG21:CSD,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG21:IA,State Treasurer,,Thomas Alan Horne,UUP,37
+Cache,LOG21:IB,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG21:IC,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG22:CSD,State Treasurer,,Thomas Alan Horne,UUP,2
+Cache,LOG22:I,State Treasurer,,Thomas Alan Horne,UUP,14
+Cache,LOG23:I,State Treasurer,,Thomas Alan Horne,UUP,42
+Cache,LOG24:17C1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG24:17C2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG24:CSD1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG24:CSD2,State Treasurer,,Thomas Alan Horne,UUP,3
+Cache,LOG24:CSD3,State Treasurer,,Thomas Alan Horne,UUP,3
+Cache,LOG24:I,State Treasurer,,Thomas Alan Horne,UUP,21
+Cache,LOG24:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,LOG25:I,State Treasurer,,Thomas Alan Horne,UUP,18
+Cache,MEN01:U,State Treasurer,,Thomas Alan Horne,UUP,1
+Cache,MEN02:I,State Treasurer,,Thomas Alan Horne,UUP,14
+Cache,MEN02:U,State Treasurer,,Thomas Alan Horne,UUP,19
+Cache,MIL01:I,State Treasurer,,Thomas Alan Horne,UUP,23
+Cache,MIL01:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,MIL02:I,State Treasurer,,Thomas Alan Horne,UUP,2
+Cache,MIL02:U1,State Treasurer,,Thomas Alan Horne,UUP,1
+Cache,MIL02:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,NEW:I,State Treasurer,,Thomas Alan Horne,UUP,6
+Cache,NEW:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,NEW:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,NIB01:IA,State Treasurer,,Thomas Alan Horne,UUP,21
+Cache,NIB01:IB,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,NIB01:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,NIB01:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,NIB01:U3,State Treasurer,,Thomas Alan Horne,UUP,2
+Cache,NIB02:I,State Treasurer,,Thomas Alan Horne,UUP,34
+Cache,NIB03:I,State Treasurer,,Thomas Alan Horne,UUP,16
+Cache,NIB04:I,State Treasurer,,Thomas Alan Horne,UUP,27
+Cache,NIB04:U,State Treasurer,,Thomas Alan Horne,UUP,2
+Cache,NLG01:I,State Treasurer,,Thomas Alan Horne,UUP,38
+Cache,NLG02:I,State Treasurer,,Thomas Alan Horne,UUP,53
+Cache,NLG03:I,State Treasurer,,Thomas Alan Horne,UUP,19
+Cache,NLG03:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,NLG04:I,State Treasurer,,Thomas Alan Horne,UUP,32
+Cache,NLG04:U,State Treasurer,,Thomas Alan Horne,UUP,1
+Cache,NLG05:I,State Treasurer,,Thomas Alan Horne,UUP,37
+Cache,NLG06:I,State Treasurer,,Thomas Alan Horne,UUP,53
+Cache,PAR:I,State Treasurer,,Thomas Alan Horne,UUP,17
+Cache,PAR:U,State Treasurer,,Thomas Alan Horne,UUP,19
+Cache,PRO01:IA,State Treasurer,,Thomas Alan Horne,UUP,6
+Cache,PRO01:IB,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,PRO01:IC,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,PRO02:IA,State Treasurer,,Thomas Alan Horne,UUP,34
+Cache,PRO02:IB,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,PRO03:I,State Treasurer,,Thomas Alan Horne,UUP,27
+Cache,PRO03:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,PRO03:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,PRO03:U3,State Treasurer,,Thomas Alan Horne,UUP,2
+Cache,PRO04:I,State Treasurer,,Thomas Alan Horne,UUP,34
+Cache,PRO04:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,PRO05:I,State Treasurer,,Thomas Alan Horne,UUP,27
+Cache,PRO06:I,State Treasurer,,Thomas Alan Horne,UUP,25
+Cache,RCH01:I,State Treasurer,,Thomas Alan Horne,UUP,17
+Cache,RCH01:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,RCH01:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,RCH01:U3,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,RCH02:I,State Treasurer,,Thomas Alan Horne,UUP,15
+Cache,RCH02:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,RCH02:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,RCH03:I,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,RVH01:I,State Treasurer,,Thomas Alan Horne,UUP,24
+Cache,RVH01:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,RVH02:I,State Treasurer,,Thomas Alan Horne,UUP,6
+Cache,RVH02:U1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,RVH02:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,RVH02:U3,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,SMI01:I,State Treasurer,,Thomas Alan Horne,UUP,26
+Cache,SMI01:U1,State Treasurer,,Thomas Alan Horne,UUP,3
+Cache,SMI01:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,SMI02:I,State Treasurer,,Thomas Alan Horne,UUP,21
+Cache,SMI02:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,SMI03:I,State Treasurer,,Thomas Alan Horne,UUP,9
+Cache,SMI03:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,SMI04:I,State Treasurer,,Thomas Alan Horne,UUP,12
+Cache,SMI04:U,State Treasurer,,Thomas Alan Horne,UUP,2
+Cache,SMI05:I,State Treasurer,,Thomas Alan Horne,UUP,30
+Cache,SMI05:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,SMI06:I,State Treasurer,,Thomas Alan Horne,UUP,17
+Cache,SMI06:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,SMI07:I,State Treasurer,,Thomas Alan Horne,UUP,34
+Cache,SMI07:U,State Treasurer,,Thomas Alan Horne,UUP,3
+Cache,SMI08:I,State Treasurer,,Thomas Alan Horne,UUP,17
+Cache,TRE:I,State Treasurer,,Thomas Alan Horne,UUP,9
+Cache,UNINHC:1,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,UNINHC:2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,WEL01:I,State Treasurer,,Thomas Alan Horne,UUP,9
+Cache,WEL01:U1,State Treasurer,,Thomas Alan Horne,UUP,2
+Cache,WEL01:U2,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,WEL01:U3,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,WEL02:I,State Treasurer,,Thomas Alan Horne,UUP,15
+Cache,WEL02:U,State Treasurer,,Thomas Alan Horne,UUP,0
+Cache,WEL03:I,State Treasurer,,Thomas Alan Horne,UUP,9
+Cache,WEL03:U,State Treasurer,,Thomas Alan Horne,UUP,5
+Cache,AMA:I,State Treasurer,,Warren T Rogers,IAP,7
+Cache,AMA:U1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,AMA:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,AMA:U3,State Treasurer,,Warren T Rogers,IAP,0
+Cache,BEN:U,State Treasurer,,Warren T Rogers,IAP,12
+Cache,CLK:I,State Treasurer,,Warren T Rogers,IAP,6
+Cache,CLK:U1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,CLK:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,COR:I,State Treasurer,,Warren T Rogers,IAP,7
+Cache,COR:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,COV:U,State Treasurer,,Warren T Rogers,IAP,3
+Cache,COV:U2,State Treasurer,,Warren T Rogers,IAP,2
+Cache,CY:U,State Treasurer,,Warren T Rogers,IAP,7
+Cache,HYD01:I,State Treasurer,,Warren T Rogers,IAP,27
+Cache,HYD01:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,HYD02:I,State Treasurer,,Warren T Rogers,IAP,46
+Cache,HYD02:U1,State Treasurer,,Warren T Rogers,IAP,1
+Cache,HYD02:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,HYD03:I,State Treasurer,,Warren T Rogers,IAP,27
+Cache,HYD03:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,HYR01:I,State Treasurer,,Warren T Rogers,IAP,29
+Cache,HYR01:U,State Treasurer,,Warren T Rogers,IAP,3
+Cache,HYR02:I,State Treasurer,,Warren T Rogers,IAP,20
+Cache,HYR02:U1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,HYR02:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,HYR03:I,State Treasurer,,Warren T Rogers,IAP,25
+Cache,HYR03:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,HYR04:I,State Treasurer,,Warren T Rogers,IAP,28
+Cache,HYR04:U1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,HYR04:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,HYR04:U3,State Treasurer,,Warren T Rogers,IAP,0
+Cache,HYR05:I,State Treasurer,,Warren T Rogers,IAP,30
+Cache,HYR05:U1,State Treasurer,,Warren T Rogers,IAP,2
+Cache,HYR05:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LEW00:I,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LEW01:I,State Treasurer,,Warren T Rogers,IAP,24
+Cache,LEW01:U1,State Treasurer,,Warren T Rogers,IAP,1
+Cache,LEW01:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LEW01:U3,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LEW01:U4,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG01:I,State Treasurer,,Warren T Rogers,IAP,47
+Cache,LOG02:I,State Treasurer,,Warren T Rogers,IAP,35
+Cache,LOG03:I,State Treasurer,,Warren T Rogers,IAP,28
+Cache,LOG04:I,State Treasurer,,Warren T Rogers,IAP,37
+Cache,LOG05:I,State Treasurer,,Warren T Rogers,IAP,33
+Cache,LOG06:I,State Treasurer,,Warren T Rogers,IAP,18
+Cache,LOG07:I,State Treasurer,,Warren T Rogers,IAP,18
+Cache,LOG08:I,State Treasurer,,Warren T Rogers,IAP,30
+Cache,LOG09:I,State Treasurer,,Warren T Rogers,IAP,43
+Cache,LOG10:I,State Treasurer,,Warren T Rogers,IAP,27
+Cache,LOG11:I,State Treasurer,,Warren T Rogers,IAP,13
+Cache,LOG12:I,State Treasurer,,Warren T Rogers,IAP,51
+Cache,LOG13:I,State Treasurer,,Warren T Rogers,IAP,21
+Cache,LOG13:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG14:I,State Treasurer,,Warren T Rogers,IAP,33
+Cache,LOG14:U1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG14:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG14:U3,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG15:I,State Treasurer,,Warren T Rogers,IAP,11
+Cache,LOG16:I,State Treasurer,,Warren T Rogers,IAP,54
+Cache,LOG17:I,State Treasurer,,Warren T Rogers,IAP,40
+Cache,LOG18:CSD,State Treasurer,,Warren T Rogers,IAP,10
+Cache,LOG18:IA,State Treasurer,,Warren T Rogers,IAP,49
+Cache,LOG18:IB,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG19:I,State Treasurer,,Warren T Rogers,IAP,33
+Cache,LOG20:I,State Treasurer,,Warren T Rogers,IAP,35
+Cache,LOG21:CSD,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG21:IA,State Treasurer,,Warren T Rogers,IAP,29
+Cache,LOG21:IB,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG21:IC,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG22:CSD,State Treasurer,,Warren T Rogers,IAP,1
+Cache,LOG22:I,State Treasurer,,Warren T Rogers,IAP,12
+Cache,LOG23:I,State Treasurer,,Warren T Rogers,IAP,20
+Cache,LOG24:17C1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG24:17C2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG24:CSD1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG24:CSD2,State Treasurer,,Warren T Rogers,IAP,6
+Cache,LOG24:CSD3,State Treasurer,,Warren T Rogers,IAP,4
+Cache,LOG24:I,State Treasurer,,Warren T Rogers,IAP,33
+Cache,LOG24:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,LOG25:I,State Treasurer,,Warren T Rogers,IAP,10
+Cache,MEN01:U,State Treasurer,,Warren T Rogers,IAP,1
+Cache,MEN02:I,State Treasurer,,Warren T Rogers,IAP,14
+Cache,MEN02:U,State Treasurer,,Warren T Rogers,IAP,18
+Cache,MIL01:I,State Treasurer,,Warren T Rogers,IAP,22
+Cache,MIL01:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,MIL02:I,State Treasurer,,Warren T Rogers,IAP,1
+Cache,MIL02:U1,State Treasurer,,Warren T Rogers,IAP,2
+Cache,MIL02:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,NEW:I,State Treasurer,,Warren T Rogers,IAP,21
+Cache,NEW:U,State Treasurer,,Warren T Rogers,IAP,1
+Cache,NEW:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,NIB01:IA,State Treasurer,,Warren T Rogers,IAP,17
+Cache,NIB01:IB,State Treasurer,,Warren T Rogers,IAP,0
+Cache,NIB01:U1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,NIB01:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,NIB01:U3,State Treasurer,,Warren T Rogers,IAP,2
+Cache,NIB02:I,State Treasurer,,Warren T Rogers,IAP,30
+Cache,NIB03:I,State Treasurer,,Warren T Rogers,IAP,13
+Cache,NIB04:I,State Treasurer,,Warren T Rogers,IAP,21
+Cache,NIB04:U,State Treasurer,,Warren T Rogers,IAP,2
+Cache,NLG01:I,State Treasurer,,Warren T Rogers,IAP,33
+Cache,NLG02:I,State Treasurer,,Warren T Rogers,IAP,33
+Cache,NLG03:I,State Treasurer,,Warren T Rogers,IAP,16
+Cache,NLG03:U,State Treasurer,,Warren T Rogers,IAP,2
+Cache,NLG04:I,State Treasurer,,Warren T Rogers,IAP,20
+Cache,NLG04:U,State Treasurer,,Warren T Rogers,IAP,2
+Cache,NLG05:I,State Treasurer,,Warren T Rogers,IAP,31
+Cache,NLG06:I,State Treasurer,,Warren T Rogers,IAP,40
+Cache,PAR:I,State Treasurer,,Warren T Rogers,IAP,11
+Cache,PAR:U,State Treasurer,,Warren T Rogers,IAP,10
+Cache,PRO01:IA,State Treasurer,,Warren T Rogers,IAP,9
+Cache,PRO01:IB,State Treasurer,,Warren T Rogers,IAP,0
+Cache,PRO01:IC,State Treasurer,,Warren T Rogers,IAP,0
+Cache,PRO02:IA,State Treasurer,,Warren T Rogers,IAP,31
+Cache,PRO02:IB,State Treasurer,,Warren T Rogers,IAP,0
+Cache,PRO03:I,State Treasurer,,Warren T Rogers,IAP,31
+Cache,PRO03:U1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,PRO03:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,PRO03:U3,State Treasurer,,Warren T Rogers,IAP,0
+Cache,PRO04:I,State Treasurer,,Warren T Rogers,IAP,21
+Cache,PRO04:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,PRO05:I,State Treasurer,,Warren T Rogers,IAP,21
+Cache,PRO06:I,State Treasurer,,Warren T Rogers,IAP,29
+Cache,RCH01:I,State Treasurer,,Warren T Rogers,IAP,24
+Cache,RCH01:U1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,RCH01:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,RCH01:U3,State Treasurer,,Warren T Rogers,IAP,1
+Cache,RCH02:I,State Treasurer,,Warren T Rogers,IAP,16
+Cache,RCH02:U1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,RCH02:U2,State Treasurer,,Warren T Rogers,IAP,4
+Cache,RCH03:I,State Treasurer,,Warren T Rogers,IAP,0
+Cache,RVH01:I,State Treasurer,,Warren T Rogers,IAP,33
+Cache,RVH01:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,RVH02:I,State Treasurer,,Warren T Rogers,IAP,11
+Cache,RVH02:U1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,RVH02:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,RVH02:U3,State Treasurer,,Warren T Rogers,IAP,0
+Cache,SMI01:I,State Treasurer,,Warren T Rogers,IAP,30
+Cache,SMI01:U1,State Treasurer,,Warren T Rogers,IAP,1
+Cache,SMI01:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,SMI02:I,State Treasurer,,Warren T Rogers,IAP,19
+Cache,SMI02:U,State Treasurer,,Warren T Rogers,IAP,2
+Cache,SMI03:I,State Treasurer,,Warren T Rogers,IAP,30
+Cache,SMI03:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,SMI04:I,State Treasurer,,Warren T Rogers,IAP,27
+Cache,SMI04:U,State Treasurer,,Warren T Rogers,IAP,1
+Cache,SMI05:I,State Treasurer,,Warren T Rogers,IAP,13
+Cache,SMI05:U,State Treasurer,,Warren T Rogers,IAP,1
+Cache,SMI06:I,State Treasurer,,Warren T Rogers,IAP,29
+Cache,SMI06:U,State Treasurer,,Warren T Rogers,IAP,2
+Cache,SMI07:I,State Treasurer,,Warren T Rogers,IAP,29
+Cache,SMI07:U,State Treasurer,,Warren T Rogers,IAP,2
+Cache,SMI08:I,State Treasurer,,Warren T Rogers,IAP,12
+Cache,TRE:I,State Treasurer,,Warren T Rogers,IAP,13
+Cache,UNINHC:1,State Treasurer,,Warren T Rogers,IAP,0
+Cache,UNINHC:2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,WEL01:I,State Treasurer,,Warren T Rogers,IAP,11
+Cache,WEL01:U1,State Treasurer,,Warren T Rogers,IAP,2
+Cache,WEL01:U2,State Treasurer,,Warren T Rogers,IAP,0
+Cache,WEL01:U3,State Treasurer,,Warren T Rogers,IAP,0
+Cache,WEL02:I,State Treasurer,,Warren T Rogers,IAP,15
+Cache,WEL02:U,State Treasurer,,Warren T Rogers,IAP,0
+Cache,WEL03:I,State Treasurer,,Warren T Rogers,IAP,10
+Cache,WEL03:U,State Treasurer,,Warren T Rogers,IAP,3
+Cache,AMA:I,State Treasurer,,Joseph Geddes Buchman,LIB,8
+Cache,AMA:U1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,AMA:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,AMA:U3,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,BEN:U,State Treasurer,,Joseph Geddes Buchman,LIB,13
+Cache,CLK:I,State Treasurer,,Joseph Geddes Buchman,LIB,20
+Cache,CLK:U1,State Treasurer,,Joseph Geddes Buchman,LIB,2
+Cache,CLK:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,COR:I,State Treasurer,,Joseph Geddes Buchman,LIB,6
+Cache,COR:U,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,COV:U,State Treasurer,,Joseph Geddes Buchman,LIB,18
+Cache,COV:U2,State Treasurer,,Joseph Geddes Buchman,LIB,3
+Cache,CY:U,State Treasurer,,Joseph Geddes Buchman,LIB,17
+Cache,HYD01:I,State Treasurer,,Joseph Geddes Buchman,LIB,40
+Cache,HYD01:U,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,HYD02:I,State Treasurer,,Joseph Geddes Buchman,LIB,47
+Cache,HYD02:U1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,HYD02:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,HYD03:I,State Treasurer,,Joseph Geddes Buchman,LIB,50
+Cache,HYD03:U,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,HYR01:I,State Treasurer,,Joseph Geddes Buchman,LIB,38
+Cache,HYR01:U,State Treasurer,,Joseph Geddes Buchman,LIB,6
+Cache,HYR02:I,State Treasurer,,Joseph Geddes Buchman,LIB,42
+Cache,HYR02:U1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,HYR02:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,HYR03:I,State Treasurer,,Joseph Geddes Buchman,LIB,41
+Cache,HYR03:U,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,HYR04:I,State Treasurer,,Joseph Geddes Buchman,LIB,36
+Cache,HYR04:U1,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,HYR04:U2,State Treasurer,,Joseph Geddes Buchman,LIB,3
+Cache,HYR04:U3,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,HYR05:I,State Treasurer,,Joseph Geddes Buchman,LIB,32
+Cache,HYR05:U1,State Treasurer,,Joseph Geddes Buchman,LIB,2
+Cache,HYR05:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LEW00:I,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LEW01:I,State Treasurer,,Joseph Geddes Buchman,LIB,35
+Cache,LEW01:U1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LEW01:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LEW01:U3,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LEW01:U4,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG01:I,State Treasurer,,Joseph Geddes Buchman,LIB,70
+Cache,LOG02:I,State Treasurer,,Joseph Geddes Buchman,LIB,56
+Cache,LOG03:I,State Treasurer,,Joseph Geddes Buchman,LIB,41
+Cache,LOG04:I,State Treasurer,,Joseph Geddes Buchman,LIB,66
+Cache,LOG05:I,State Treasurer,,Joseph Geddes Buchman,LIB,46
+Cache,LOG06:I,State Treasurer,,Joseph Geddes Buchman,LIB,38
+Cache,LOG07:I,State Treasurer,,Joseph Geddes Buchman,LIB,36
+Cache,LOG08:I,State Treasurer,,Joseph Geddes Buchman,LIB,42
+Cache,LOG09:I,State Treasurer,,Joseph Geddes Buchman,LIB,59
+Cache,LOG10:I,State Treasurer,,Joseph Geddes Buchman,LIB,57
+Cache,LOG11:I,State Treasurer,,Joseph Geddes Buchman,LIB,27
+Cache,LOG12:I,State Treasurer,,Joseph Geddes Buchman,LIB,84
+Cache,LOG13:I,State Treasurer,,Joseph Geddes Buchman,LIB,50
+Cache,LOG13:U,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG14:I,State Treasurer,,Joseph Geddes Buchman,LIB,62
+Cache,LOG14:U1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG14:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG14:U3,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG15:I,State Treasurer,,Joseph Geddes Buchman,LIB,18
+Cache,LOG16:I,State Treasurer,,Joseph Geddes Buchman,LIB,70
+Cache,LOG17:I,State Treasurer,,Joseph Geddes Buchman,LIB,63
+Cache,LOG18:CSD,State Treasurer,,Joseph Geddes Buchman,LIB,22
+Cache,LOG18:IA,State Treasurer,,Joseph Geddes Buchman,LIB,74
+Cache,LOG18:IB,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG19:I,State Treasurer,,Joseph Geddes Buchman,LIB,56
+Cache,LOG20:I,State Treasurer,,Joseph Geddes Buchman,LIB,51
+Cache,LOG21:CSD,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,LOG21:IA,State Treasurer,,Joseph Geddes Buchman,LIB,50
+Cache,LOG21:IB,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG21:IC,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG22:CSD,State Treasurer,,Joseph Geddes Buchman,LIB,5
+Cache,LOG22:I,State Treasurer,,Joseph Geddes Buchman,LIB,31
+Cache,LOG23:I,State Treasurer,,Joseph Geddes Buchman,LIB,44
+Cache,LOG24:17C1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG24:17C2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG24:CSD1,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,LOG24:CSD2,State Treasurer,,Joseph Geddes Buchman,LIB,4
+Cache,LOG24:CSD3,State Treasurer,,Joseph Geddes Buchman,LIB,15
+Cache,LOG24:I,State Treasurer,,Joseph Geddes Buchman,LIB,51
+Cache,LOG24:U,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,LOG25:I,State Treasurer,,Joseph Geddes Buchman,LIB,16
+Cache,MEN01:U,State Treasurer,,Joseph Geddes Buchman,LIB,2
+Cache,MEN02:I,State Treasurer,,Joseph Geddes Buchman,LIB,38
+Cache,MEN02:U,State Treasurer,,Joseph Geddes Buchman,LIB,23
+Cache,MIL01:I,State Treasurer,,Joseph Geddes Buchman,LIB,46
+Cache,MIL01:U,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,MIL02:I,State Treasurer,,Joseph Geddes Buchman,LIB,4
+Cache,MIL02:U1,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,MIL02:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,NEW:I,State Treasurer,,Joseph Geddes Buchman,LIB,21
+Cache,NEW:U,State Treasurer,,Joseph Geddes Buchman,LIB,3
+Cache,NEW:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,NIB01:IA,State Treasurer,,Joseph Geddes Buchman,LIB,25
+Cache,NIB01:IB,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,NIB01:U1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,NIB01:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,NIB01:U3,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,NIB02:I,State Treasurer,,Joseph Geddes Buchman,LIB,52
+Cache,NIB03:I,State Treasurer,,Joseph Geddes Buchman,LIB,37
+Cache,NIB04:I,State Treasurer,,Joseph Geddes Buchman,LIB,40
+Cache,NIB04:U,State Treasurer,,Joseph Geddes Buchman,LIB,3
+Cache,NLG01:I,State Treasurer,,Joseph Geddes Buchman,LIB,71
+Cache,NLG02:I,State Treasurer,,Joseph Geddes Buchman,LIB,61
+Cache,NLG03:I,State Treasurer,,Joseph Geddes Buchman,LIB,32
+Cache,NLG03:U,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,NLG04:I,State Treasurer,,Joseph Geddes Buchman,LIB,39
+Cache,NLG04:U,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,NLG05:I,State Treasurer,,Joseph Geddes Buchman,LIB,39
+Cache,NLG06:I,State Treasurer,,Joseph Geddes Buchman,LIB,39
+Cache,PAR:I,State Treasurer,,Joseph Geddes Buchman,LIB,10
+Cache,PAR:U,State Treasurer,,Joseph Geddes Buchman,LIB,18
+Cache,PRO01:IA,State Treasurer,,Joseph Geddes Buchman,LIB,17
+Cache,PRO01:IB,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,PRO01:IC,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,PRO02:IA,State Treasurer,,Joseph Geddes Buchman,LIB,53
+Cache,PRO02:IB,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,PRO03:I,State Treasurer,,Joseph Geddes Buchman,LIB,43
+Cache,PRO03:U1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,PRO03:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,PRO03:U3,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,PRO04:I,State Treasurer,,Joseph Geddes Buchman,LIB,47
+Cache,PRO04:U,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,PRO05:I,State Treasurer,,Joseph Geddes Buchman,LIB,51
+Cache,PRO06:I,State Treasurer,,Joseph Geddes Buchman,LIB,31
+Cache,RCH01:I,State Treasurer,,Joseph Geddes Buchman,LIB,26
+Cache,RCH01:U1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,RCH01:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,RCH01:U3,State Treasurer,,Joseph Geddes Buchman,LIB,2
+Cache,RCH02:I,State Treasurer,,Joseph Geddes Buchman,LIB,31
+Cache,RCH02:U1,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,RCH02:U2,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,RCH03:I,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,RVH01:I,State Treasurer,,Joseph Geddes Buchman,LIB,52
+Cache,RVH01:U,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,RVH02:I,State Treasurer,,Joseph Geddes Buchman,LIB,18
+Cache,RVH02:U1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,RVH02:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,RVH02:U3,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,SMI01:I,State Treasurer,,Joseph Geddes Buchman,LIB,47
+Cache,SMI01:U1,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,SMI01:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,SMI02:I,State Treasurer,,Joseph Geddes Buchman,LIB,58
+Cache,SMI02:U,State Treasurer,,Joseph Geddes Buchman,LIB,3
+Cache,SMI03:I,State Treasurer,,Joseph Geddes Buchman,LIB,37
+Cache,SMI03:U,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,SMI04:I,State Treasurer,,Joseph Geddes Buchman,LIB,20
+Cache,SMI04:U,State Treasurer,,Joseph Geddes Buchman,LIB,2
+Cache,SMI05:I,State Treasurer,,Joseph Geddes Buchman,LIB,37
+Cache,SMI05:U,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,SMI06:I,State Treasurer,,Joseph Geddes Buchman,LIB,37
+Cache,SMI06:U,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,SMI07:I,State Treasurer,,Joseph Geddes Buchman,LIB,51
+Cache,SMI07:U,State Treasurer,,Joseph Geddes Buchman,LIB,5
+Cache,SMI08:I,State Treasurer,,Joseph Geddes Buchman,LIB,25
+Cache,TRE:I,State Treasurer,,Joseph Geddes Buchman,LIB,8
+Cache,UNINHC:1,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,UNINHC:2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,WEL01:I,State Treasurer,,Joseph Geddes Buchman,LIB,41
+Cache,WEL01:U1,State Treasurer,,Joseph Geddes Buchman,LIB,4
+Cache,WEL01:U2,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,WEL01:U3,State Treasurer,,Joseph Geddes Buchman,LIB,0
+Cache,WEL02:I,State Treasurer,,Joseph Geddes Buchman,LIB,26
+Cache,WEL02:U,State Treasurer,,Joseph Geddes Buchman,LIB,1
+Cache,WEL03:I,State Treasurer,,Joseph Geddes Buchman,LIB,29
+Cache,WEL03:U,State Treasurer,,Joseph Geddes Buchman,LIB,9
+Cache,AMA:I,State Treasurer,,Over Votes,,0
+Cache,AMA:U1,State Treasurer,,Over Votes,,0
+Cache,AMA:U2,State Treasurer,,Over Votes,,0
+Cache,AMA:U3,State Treasurer,,Over Votes,,0
+Cache,BEN:U,State Treasurer,,Over Votes,,0
+Cache,CLK:I,State Treasurer,,Over Votes,,0
+Cache,CLK:U1,State Treasurer,,Over Votes,,0
+Cache,CLK:U2,State Treasurer,,Over Votes,,0
+Cache,COR:I,State Treasurer,,Over Votes,,0
+Cache,COR:U,State Treasurer,,Over Votes,,0
+Cache,COV:U,State Treasurer,,Over Votes,,0
+Cache,COV:U2,State Treasurer,,Over Votes,,0
+Cache,CY:U,State Treasurer,,Over Votes,,1
+Cache,HYD01:I,State Treasurer,,Over Votes,,0
+Cache,HYD01:U,State Treasurer,,Over Votes,,0
+Cache,HYD02:I,State Treasurer,,Over Votes,,0
+Cache,HYD02:U1,State Treasurer,,Over Votes,,0
+Cache,HYD02:U2,State Treasurer,,Over Votes,,0
+Cache,HYD03:I,State Treasurer,,Over Votes,,0
+Cache,HYD03:U,State Treasurer,,Over Votes,,0
+Cache,HYR01:I,State Treasurer,,Over Votes,,0
+Cache,HYR01:U,State Treasurer,,Over Votes,,0
+Cache,HYR02:I,State Treasurer,,Over Votes,,0
+Cache,HYR02:U1,State Treasurer,,Over Votes,,0
+Cache,HYR02:U2,State Treasurer,,Over Votes,,0
+Cache,HYR03:I,State Treasurer,,Over Votes,,0
+Cache,HYR03:U,State Treasurer,,Over Votes,,0
+Cache,HYR04:I,State Treasurer,,Over Votes,,0
+Cache,HYR04:U1,State Treasurer,,Over Votes,,0
+Cache,HYR04:U2,State Treasurer,,Over Votes,,0
+Cache,HYR04:U3,State Treasurer,,Over Votes,,0
+Cache,HYR05:I,State Treasurer,,Over Votes,,0
+Cache,HYR05:U1,State Treasurer,,Over Votes,,0
+Cache,HYR05:U2,State Treasurer,,Over Votes,,0
+Cache,LEW00:I,State Treasurer,,Over Votes,,0
+Cache,LEW01:I,State Treasurer,,Over Votes,,0
+Cache,LEW01:U1,State Treasurer,,Over Votes,,0
+Cache,LEW01:U2,State Treasurer,,Over Votes,,0
+Cache,LEW01:U3,State Treasurer,,Over Votes,,0
+Cache,LEW01:U4,State Treasurer,,Over Votes,,0
+Cache,LOG01:I,State Treasurer,,Over Votes,,0
+Cache,LOG02:I,State Treasurer,,Over Votes,,0
+Cache,LOG03:I,State Treasurer,,Over Votes,,0
+Cache,LOG04:I,State Treasurer,,Over Votes,,0
+Cache,LOG05:I,State Treasurer,,Over Votes,,0
+Cache,LOG06:I,State Treasurer,,Over Votes,,0
+Cache,LOG07:I,State Treasurer,,Over Votes,,0
+Cache,LOG08:I,State Treasurer,,Over Votes,,0
+Cache,LOG09:I,State Treasurer,,Over Votes,,0
+Cache,LOG10:I,State Treasurer,,Over Votes,,0
+Cache,LOG11:I,State Treasurer,,Over Votes,,0
+Cache,LOG12:I,State Treasurer,,Over Votes,,0
+Cache,LOG13:I,State Treasurer,,Over Votes,,0
+Cache,LOG13:U,State Treasurer,,Over Votes,,0
+Cache,LOG14:I,State Treasurer,,Over Votes,,0
+Cache,LOG14:U1,State Treasurer,,Over Votes,,0
+Cache,LOG14:U2,State Treasurer,,Over Votes,,0
+Cache,LOG14:U3,State Treasurer,,Over Votes,,0
+Cache,LOG15:I,State Treasurer,,Over Votes,,1
+Cache,LOG16:I,State Treasurer,,Over Votes,,0
+Cache,LOG17:I,State Treasurer,,Over Votes,,0
+Cache,LOG18:CSD,State Treasurer,,Over Votes,,0
+Cache,LOG18:IA,State Treasurer,,Over Votes,,0
+Cache,LOG18:IB,State Treasurer,,Over Votes,,0
+Cache,LOG19:I,State Treasurer,,Over Votes,,1
+Cache,LOG20:I,State Treasurer,,Over Votes,,0
+Cache,LOG21:CSD,State Treasurer,,Over Votes,,0
+Cache,LOG21:IA,State Treasurer,,Over Votes,,0
+Cache,LOG21:IB,State Treasurer,,Over Votes,,0
+Cache,LOG21:IC,State Treasurer,,Over Votes,,0
+Cache,LOG22:CSD,State Treasurer,,Over Votes,,0
+Cache,LOG22:I,State Treasurer,,Over Votes,,0
+Cache,LOG23:I,State Treasurer,,Over Votes,,0
+Cache,LOG24:17C1,State Treasurer,,Over Votes,,0
+Cache,LOG24:17C2,State Treasurer,,Over Votes,,0
+Cache,LOG24:CSD1,State Treasurer,,Over Votes,,0
+Cache,LOG24:CSD2,State Treasurer,,Over Votes,,0
+Cache,LOG24:CSD3,State Treasurer,,Over Votes,,0
+Cache,LOG24:I,State Treasurer,,Over Votes,,0
+Cache,LOG24:U,State Treasurer,,Over Votes,,0
+Cache,LOG25:I,State Treasurer,,Over Votes,,0
+Cache,MEN01:U,State Treasurer,,Over Votes,,0
+Cache,MEN02:I,State Treasurer,,Over Votes,,0
+Cache,MEN02:U,State Treasurer,,Over Votes,,1
+Cache,MIL01:I,State Treasurer,,Over Votes,,0
+Cache,MIL01:U,State Treasurer,,Over Votes,,0
+Cache,MIL02:I,State Treasurer,,Over Votes,,0
+Cache,MIL02:U1,State Treasurer,,Over Votes,,0
+Cache,MIL02:U2,State Treasurer,,Over Votes,,0
+Cache,NEW:I,State Treasurer,,Over Votes,,0
+Cache,NEW:U,State Treasurer,,Over Votes,,0
+Cache,NEW:U2,State Treasurer,,Over Votes,,0
+Cache,NIB01:IA,State Treasurer,,Over Votes,,0
+Cache,NIB01:IB,State Treasurer,,Over Votes,,0
+Cache,NIB01:U1,State Treasurer,,Over Votes,,0
+Cache,NIB01:U2,State Treasurer,,Over Votes,,0
+Cache,NIB01:U3,State Treasurer,,Over Votes,,0
+Cache,NIB02:I,State Treasurer,,Over Votes,,0
+Cache,NIB03:I,State Treasurer,,Over Votes,,0
+Cache,NIB04:I,State Treasurer,,Over Votes,,0
+Cache,NIB04:U,State Treasurer,,Over Votes,,0
+Cache,NLG01:I,State Treasurer,,Over Votes,,0
+Cache,NLG02:I,State Treasurer,,Over Votes,,0
+Cache,NLG03:I,State Treasurer,,Over Votes,,0
+Cache,NLG03:U,State Treasurer,,Over Votes,,0
+Cache,NLG04:I,State Treasurer,,Over Votes,,0
+Cache,NLG04:U,State Treasurer,,Over Votes,,0
+Cache,NLG05:I,State Treasurer,,Over Votes,,0
+Cache,NLG06:I,State Treasurer,,Over Votes,,0
+Cache,PAR:I,State Treasurer,,Over Votes,,0
+Cache,PAR:U,State Treasurer,,Over Votes,,0
+Cache,PRO01:IA,State Treasurer,,Over Votes,,0
+Cache,PRO01:IB,State Treasurer,,Over Votes,,0
+Cache,PRO01:IC,State Treasurer,,Over Votes,,0
+Cache,PRO02:IA,State Treasurer,,Over Votes,,0
+Cache,PRO02:IB,State Treasurer,,Over Votes,,0
+Cache,PRO03:I,State Treasurer,,Over Votes,,0
+Cache,PRO03:U1,State Treasurer,,Over Votes,,0
+Cache,PRO03:U2,State Treasurer,,Over Votes,,0
+Cache,PRO03:U3,State Treasurer,,Over Votes,,0
+Cache,PRO04:I,State Treasurer,,Over Votes,,0
+Cache,PRO04:U,State Treasurer,,Over Votes,,0
+Cache,PRO05:I,State Treasurer,,Over Votes,,0
+Cache,PRO06:I,State Treasurer,,Over Votes,,0
+Cache,RCH01:I,State Treasurer,,Over Votes,,0
+Cache,RCH01:U1,State Treasurer,,Over Votes,,0
+Cache,RCH01:U2,State Treasurer,,Over Votes,,0
+Cache,RCH01:U3,State Treasurer,,Over Votes,,0
+Cache,RCH02:I,State Treasurer,,Over Votes,,0
+Cache,RCH02:U1,State Treasurer,,Over Votes,,0
+Cache,RCH02:U2,State Treasurer,,Over Votes,,0
+Cache,RCH03:I,State Treasurer,,Over Votes,,0
+Cache,RVH01:I,State Treasurer,,Over Votes,,0
+Cache,RVH01:U,State Treasurer,,Over Votes,,0
+Cache,RVH02:I,State Treasurer,,Over Votes,,0
+Cache,RVH02:U1,State Treasurer,,Over Votes,,0
+Cache,RVH02:U2,State Treasurer,,Over Votes,,0
+Cache,RVH02:U3,State Treasurer,,Over Votes,,0
+Cache,SMI01:I,State Treasurer,,Over Votes,,0
+Cache,SMI01:U1,State Treasurer,,Over Votes,,0
+Cache,SMI01:U2,State Treasurer,,Over Votes,,0
+Cache,SMI02:I,State Treasurer,,Over Votes,,0
+Cache,SMI02:U,State Treasurer,,Over Votes,,0
+Cache,SMI03:I,State Treasurer,,Over Votes,,0
+Cache,SMI03:U,State Treasurer,,Over Votes,,0
+Cache,SMI04:I,State Treasurer,,Over Votes,,0
+Cache,SMI04:U,State Treasurer,,Over Votes,,0
+Cache,SMI05:I,State Treasurer,,Over Votes,,0
+Cache,SMI05:U,State Treasurer,,Over Votes,,0
+Cache,SMI06:I,State Treasurer,,Over Votes,,0
+Cache,SMI06:U,State Treasurer,,Over Votes,,0
+Cache,SMI07:I,State Treasurer,,Over Votes,,0
+Cache,SMI07:U,State Treasurer,,Over Votes,,0
+Cache,SMI08:I,State Treasurer,,Over Votes,,0
+Cache,TRE:I,State Treasurer,,Over Votes,,0
+Cache,UNINHC:1,State Treasurer,,Over Votes,,0
+Cache,UNINHC:2,State Treasurer,,Over Votes,,0
+Cache,WEL01:I,State Treasurer,,Over Votes,,0
+Cache,WEL01:U1,State Treasurer,,Over Votes,,0
+Cache,WEL01:U2,State Treasurer,,Over Votes,,0
+Cache,WEL01:U3,State Treasurer,,Over Votes,,0
+Cache,WEL02:I,State Treasurer,,Over Votes,,0
+Cache,WEL02:U,State Treasurer,,Over Votes,,0
+Cache,WEL03:I,State Treasurer,,Over Votes,,0
+Cache,WEL03:U,State Treasurer,,Over Votes,,0
+Cache,AMA:I,State Treasurer,,Under Votes,,6
+Cache,AMA:U1,State Treasurer,,Under Votes,,0
+Cache,AMA:U2,State Treasurer,,Under Votes,,0
+Cache,AMA:U3,State Treasurer,,Under Votes,,1
+Cache,BEN:U,State Treasurer,,Under Votes,,22
+Cache,CLK:I,State Treasurer,,Under Votes,,9
+Cache,CLK:U1,State Treasurer,,Under Votes,,2
+Cache,CLK:U2,State Treasurer,,Under Votes,,0
+Cache,COR:I,State Treasurer,,Under Votes,,4
+Cache,COR:U,State Treasurer,,Under Votes,,0
+Cache,COV:U,State Treasurer,,Under Votes,,8
+Cache,COV:U2,State Treasurer,,Under Votes,,1
+Cache,CY:U,State Treasurer,,Under Votes,,36
+Cache,HYD01:I,State Treasurer,,Under Votes,,71
+Cache,HYD01:U,State Treasurer,,Under Votes,,0
+Cache,HYD02:I,State Treasurer,,Under Votes,,58
+Cache,HYD02:U1,State Treasurer,,Under Votes,,2
+Cache,HYD02:U2,State Treasurer,,Under Votes,,0
+Cache,HYD03:I,State Treasurer,,Under Votes,,101
+Cache,HYD03:U,State Treasurer,,Under Votes,,0
+Cache,HYR01:I,State Treasurer,,Under Votes,,35
+Cache,HYR01:U,State Treasurer,,Under Votes,,5
+Cache,HYR02:I,State Treasurer,,Under Votes,,36
+Cache,HYR02:U1,State Treasurer,,Under Votes,,0
+Cache,HYR02:U2,State Treasurer,,Under Votes,,0
+Cache,HYR03:I,State Treasurer,,Under Votes,,50
+Cache,HYR03:U,State Treasurer,,Under Votes,,0
+Cache,HYR04:I,State Treasurer,,Under Votes,,33
+Cache,HYR04:U1,State Treasurer,,Under Votes,,0
+Cache,HYR04:U2,State Treasurer,,Under Votes,,2
+Cache,HYR04:U3,State Treasurer,,Under Votes,,0
+Cache,HYR05:I,State Treasurer,,Under Votes,,49
+Cache,HYR05:U1,State Treasurer,,Under Votes,,0
+Cache,HYR05:U2,State Treasurer,,Under Votes,,0
+Cache,LEW00:I,State Treasurer,,Under Votes,,0
+Cache,LEW01:I,State Treasurer,,Under Votes,,39
+Cache,LEW01:U1,State Treasurer,,Under Votes,,2
+Cache,LEW01:U2,State Treasurer,,Under Votes,,0
+Cache,LEW01:U3,State Treasurer,,Under Votes,,0
+Cache,LEW01:U4,State Treasurer,,Under Votes,,0
+Cache,LOG01:I,State Treasurer,,Under Votes,,45
+Cache,LOG02:I,State Treasurer,,Under Votes,,41
+Cache,LOG03:I,State Treasurer,,Under Votes,,45
+Cache,LOG04:I,State Treasurer,,Under Votes,,95
+Cache,LOG05:I,State Treasurer,,Under Votes,,31
+Cache,LOG06:I,State Treasurer,,Under Votes,,38
+Cache,LOG07:I,State Treasurer,,Under Votes,,76
+Cache,LOG08:I,State Treasurer,,Under Votes,,101
+Cache,LOG09:I,State Treasurer,,Under Votes,,43
+Cache,LOG10:I,State Treasurer,,Under Votes,,83
+Cache,LOG11:I,State Treasurer,,Under Votes,,60
+Cache,LOG12:I,State Treasurer,,Under Votes,,57
+Cache,LOG13:I,State Treasurer,,Under Votes,,75
+Cache,LOG13:U,State Treasurer,,Under Votes,,0
+Cache,LOG14:I,State Treasurer,,Under Votes,,69
+Cache,LOG14:U1,State Treasurer,,Under Votes,,0
+Cache,LOG14:U2,State Treasurer,,Under Votes,,0
+Cache,LOG14:U3,State Treasurer,,Under Votes,,0
+Cache,LOG15:I,State Treasurer,,Under Votes,,18
+Cache,LOG16:I,State Treasurer,,Under Votes,,94
+Cache,LOG17:I,State Treasurer,,Under Votes,,69
+Cache,LOG18:CSD,State Treasurer,,Under Votes,,19
+Cache,LOG18:IA,State Treasurer,,Under Votes,,103
+Cache,LOG18:IB,State Treasurer,,Under Votes,,0
+Cache,LOG19:I,State Treasurer,,Under Votes,,75
+Cache,LOG20:I,State Treasurer,,Under Votes,,104
+Cache,LOG21:CSD,State Treasurer,,Under Votes,,0
+Cache,LOG21:IA,State Treasurer,,Under Votes,,100
+Cache,LOG21:IB,State Treasurer,,Under Votes,,0
+Cache,LOG21:IC,State Treasurer,,Under Votes,,0
+Cache,LOG22:CSD,State Treasurer,,Under Votes,,5
+Cache,LOG22:I,State Treasurer,,Under Votes,,14
+Cache,LOG23:I,State Treasurer,,Under Votes,,43
+Cache,LOG24:17C1,State Treasurer,,Under Votes,,0
+Cache,LOG24:17C2,State Treasurer,,Under Votes,,0
+Cache,LOG24:CSD1,State Treasurer,,Under Votes,,1
+Cache,LOG24:CSD2,State Treasurer,,Under Votes,,8
+Cache,LOG24:CSD3,State Treasurer,,Under Votes,,15
+Cache,LOG24:I,State Treasurer,,Under Votes,,42
+Cache,LOG24:U,State Treasurer,,Under Votes,,0
+Cache,LOG25:I,State Treasurer,,Under Votes,,18
+Cache,MEN01:U,State Treasurer,,Under Votes,,5
+Cache,MEN02:I,State Treasurer,,Under Votes,,48
+Cache,MEN02:U,State Treasurer,,Under Votes,,14
+Cache,MIL01:I,State Treasurer,,Under Votes,,77
+Cache,MIL01:U,State Treasurer,,Under Votes,,0
+Cache,MIL02:I,State Treasurer,,Under Votes,,1
+Cache,MIL02:U1,State Treasurer,,Under Votes,,6
+Cache,MIL02:U2,State Treasurer,,Under Votes,,0
+Cache,NEW:I,State Treasurer,,Under Votes,,24
+Cache,NEW:U,State Treasurer,,Under Votes,,6
+Cache,NEW:U2,State Treasurer,,Under Votes,,1
+Cache,NIB01:IA,State Treasurer,,Under Votes,,25
+Cache,NIB01:IB,State Treasurer,,Under Votes,,0
+Cache,NIB01:U1,State Treasurer,,Under Votes,,0
+Cache,NIB01:U2,State Treasurer,,Under Votes,,2
+Cache,NIB01:U3,State Treasurer,,Under Votes,,2
+Cache,NIB02:I,State Treasurer,,Under Votes,,82
+Cache,NIB03:I,State Treasurer,,Under Votes,,49
+Cache,NIB04:I,State Treasurer,,Under Votes,,77
+Cache,NIB04:U,State Treasurer,,Under Votes,,0
+Cache,NLG01:I,State Treasurer,,Under Votes,,75
+Cache,NLG02:I,State Treasurer,,Under Votes,,72
+Cache,NLG03:I,State Treasurer,,Under Votes,,52
+Cache,NLG03:U,State Treasurer,,Under Votes,,0
+Cache,NLG04:I,State Treasurer,,Under Votes,,99
+Cache,NLG04:U,State Treasurer,,Under Votes,,1
+Cache,NLG05:I,State Treasurer,,Under Votes,,71
+Cache,NLG06:I,State Treasurer,,Under Votes,,79
+Cache,PAR:I,State Treasurer,,Under Votes,,29
+Cache,PAR:U,State Treasurer,,Under Votes,,39
+Cache,PRO01:IA,State Treasurer,,Under Votes,,36
+Cache,PRO01:IB,State Treasurer,,Under Votes,,0
+Cache,PRO01:IC,State Treasurer,,Under Votes,,0
+Cache,PRO02:IA,State Treasurer,,Under Votes,,87
+Cache,PRO02:IB,State Treasurer,,Under Votes,,0
+Cache,PRO03:I,State Treasurer,,Under Votes,,75
+Cache,PRO03:U1,State Treasurer,,Under Votes,,0
+Cache,PRO03:U2,State Treasurer,,Under Votes,,0
+Cache,PRO03:U3,State Treasurer,,Under Votes,,0
+Cache,PRO04:I,State Treasurer,,Under Votes,,67
+Cache,PRO04:U,State Treasurer,,Under Votes,,0
+Cache,PRO05:I,State Treasurer,,Under Votes,,70
+Cache,PRO06:I,State Treasurer,,Under Votes,,58
+Cache,RCH01:I,State Treasurer,,Under Votes,,34
+Cache,RCH01:U1,State Treasurer,,Under Votes,,0
+Cache,RCH01:U2,State Treasurer,,Under Votes,,0
+Cache,RCH01:U3,State Treasurer,,Under Votes,,3
+Cache,RCH02:I,State Treasurer,,Under Votes,,39
+Cache,RCH02:U1,State Treasurer,,Under Votes,,4
+Cache,RCH02:U2,State Treasurer,,Under Votes,,1
+Cache,RCH03:I,State Treasurer,,Under Votes,,0
+Cache,RVH01:I,State Treasurer,,Under Votes,,90
+Cache,RVH01:U,State Treasurer,,Under Votes,,0
+Cache,RVH02:I,State Treasurer,,Under Votes,,26
+Cache,RVH02:U1,State Treasurer,,Under Votes,,0
+Cache,RVH02:U2,State Treasurer,,Under Votes,,0
+Cache,RVH02:U3,State Treasurer,,Under Votes,,0
+Cache,SMI01:I,State Treasurer,,Under Votes,,39
+Cache,SMI01:U1,State Treasurer,,Under Votes,,2
+Cache,SMI01:U2,State Treasurer,,Under Votes,,0
+Cache,SMI02:I,State Treasurer,,Under Votes,,70
+Cache,SMI02:U,State Treasurer,,Under Votes,,3
+Cache,SMI03:I,State Treasurer,,Under Votes,,41
+Cache,SMI03:U,State Treasurer,,Under Votes,,0
+Cache,SMI04:I,State Treasurer,,Under Votes,,27
+Cache,SMI04:U,State Treasurer,,Under Votes,,0
+Cache,SMI05:I,State Treasurer,,Under Votes,,37
+Cache,SMI05:U,State Treasurer,,Under Votes,,1
+Cache,SMI06:I,State Treasurer,,Under Votes,,39
+Cache,SMI06:U,State Treasurer,,Under Votes,,2
+Cache,SMI07:I,State Treasurer,,Under Votes,,55
+Cache,SMI07:U,State Treasurer,,Under Votes,,7
+Cache,SMI08:I,State Treasurer,,Under Votes,,22
+Cache,TRE:I,State Treasurer,,Under Votes,,10
+Cache,UNINHC:1,State Treasurer,,Under Votes,,0
+Cache,UNINHC:2,State Treasurer,,Under Votes,,0
+Cache,WEL01:I,State Treasurer,,Under Votes,,44
+Cache,WEL01:U1,State Treasurer,,Under Votes,,9
+Cache,WEL01:U2,State Treasurer,,Under Votes,,0
+Cache,WEL01:U3,State Treasurer,,Under Votes,,0
+Cache,WEL02:I,State Treasurer,,Under Votes,,32
+Cache,WEL02:U,State Treasurer,,Under Votes,,1
+Cache,WEL03:I,State Treasurer,,Under Votes,,29
+Cache,WEL03:U,State Treasurer,,Under Votes,,8
+Cache,HYR01:I,State Senate,1,Scott Sandall,REP,400
+Cache,HYR01:U,State Senate,1,Scott Sandall,REP,84
+Cache,HYR02:I,State Senate,1,Scott Sandall,REP,366
+Cache,HYR02:U1,State Senate,1,Scott Sandall,REP,11
+Cache,HYR02:U2,State Senate,1,Scott Sandall,REP,0
+Cache,HYR03:I,State Senate,1,Scott Sandall,REP,477
+Cache,HYR03:U,State Senate,1,Scott Sandall,REP,10
+Cache,HYR04:I,State Senate,1,Scott Sandall,REP,645
+Cache,HYR04:U1,State Senate,1,Scott Sandall,REP,2
+Cache,HYR04:U2,State Senate,1,Scott Sandall,REP,54
+Cache,HYR04:U3,State Senate,1,Scott Sandall,REP,1
+Cache,HYR05:I,State Senate,1,Scott Sandall,REP,637
+Cache,HYR05:U1,State Senate,1,Scott Sandall,REP,13
+Cache,HYR05:U2,State Senate,1,Scott Sandall,REP,0
+Cache,MIL02:I,State Senate,1,Scott Sandall,REP,47
+Cache,MIL02:U1,State Senate,1,Scott Sandall,REP,28
+Cache,MIL02:U2,State Senate,1,Scott Sandall,REP,0
+Cache,NIB01:IA,State Senate,1,Scott Sandall,REP,350
+Cache,NIB01:U3,State Senate,1,Scott Sandall,REP,19
+Cache,NIB02:I,State Senate,1,Scott Sandall,REP,653
+Cache,NIB03:I,State Senate,1,Scott Sandall,REP,431
+Cache,NIB04:I,State Senate,1,Scott Sandall,REP,635
+Cache,NIB04:U,State Senate,1,Scott Sandall,REP,40
+Cache,PAR:I,State Senate,1,Scott Sandall,REP,380
+Cache,PAR:U,State Senate,1,Scott Sandall,REP,311
+Cache,WEL01:I,State Senate,1,Scott Sandall,REP,509
+Cache,WEL01:U1,State Senate,1,Scott Sandall,REP,109
+Cache,WEL01:U2,State Senate,1,Scott Sandall,REP,0
+Cache,WEL01:U3,State Senate,1,Scott Sandall,REP,3
+Cache,WEL02:I,State Senate,1,Scott Sandall,REP,407
+Cache,WEL02:U,State Senate,1,Scott Sandall,REP,23
+Cache,WEL03:I,State Senate,1,Scott Sandall,REP,406
+Cache,WEL03:U,State Senate,1,Scott Sandall,REP,153
+Cache,HYR01:I,State Senate,1,Over Votes,,0
+Cache,HYR01:U,State Senate,1,Over Votes,,0
+Cache,HYR02:I,State Senate,1,Over Votes,,0
+Cache,HYR02:U1,State Senate,1,Over Votes,,0
+Cache,HYR02:U2,State Senate,1,Over Votes,,0
+Cache,HYR03:I,State Senate,1,Over Votes,,0
+Cache,HYR03:U,State Senate,1,Over Votes,,0
+Cache,HYR04:I,State Senate,1,Over Votes,,0
+Cache,HYR04:U1,State Senate,1,Over Votes,,0
+Cache,HYR04:U2,State Senate,1,Over Votes,,0
+Cache,HYR04:U3,State Senate,1,Over Votes,,0
+Cache,HYR05:I,State Senate,1,Over Votes,,0
+Cache,HYR05:U1,State Senate,1,Over Votes,,0
+Cache,HYR05:U2,State Senate,1,Over Votes,,0
+Cache,MIL02:I,State Senate,1,Over Votes,,0
+Cache,MIL02:U1,State Senate,1,Over Votes,,0
+Cache,MIL02:U2,State Senate,1,Over Votes,,0
+Cache,NIB01:IA,State Senate,1,Over Votes,,0
+Cache,NIB01:U3,State Senate,1,Over Votes,,0
+Cache,NIB02:I,State Senate,1,Over Votes,,0
+Cache,NIB03:I,State Senate,1,Over Votes,,0
+Cache,NIB04:I,State Senate,1,Over Votes,,0
+Cache,NIB04:U,State Senate,1,Over Votes,,0
+Cache,PAR:I,State Senate,1,Over Votes,,0
+Cache,PAR:U,State Senate,1,Over Votes,,0
+Cache,WEL01:I,State Senate,1,Over Votes,,0
+Cache,WEL01:U1,State Senate,1,Over Votes,,0
+Cache,WEL01:U2,State Senate,1,Over Votes,,0
+Cache,WEL01:U3,State Senate,1,Over Votes,,0
+Cache,WEL02:I,State Senate,1,Over Votes,,0
+Cache,WEL02:U,State Senate,1,Over Votes,,0
+Cache,WEL03:I,State Senate,1,Over Votes,,0
+Cache,WEL03:U,State Senate,1,Over Votes,,0
+Cache,HYR01:I,State Senate,1,Under Votes,,92
+Cache,HYR01:U,State Senate,1,Under Votes,,14
+Cache,HYR02:I,State Senate,1,Under Votes,,83
+Cache,HYR02:U1,State Senate,1,Under Votes,,0
+Cache,HYR02:U2,State Senate,1,Under Votes,,0
+Cache,HYR03:I,State Senate,1,Under Votes,,108
+Cache,HYR03:U,State Senate,1,Under Votes,,0
+Cache,HYR04:I,State Senate,1,Under Votes,,134
+Cache,HYR04:U1,State Senate,1,Under Votes,,0
+Cache,HYR04:U2,State Senate,1,Under Votes,,7
+Cache,HYR04:U3,State Senate,1,Under Votes,,0
+Cache,HYR05:I,State Senate,1,Under Votes,,123
+Cache,HYR05:U1,State Senate,1,Under Votes,,2
+Cache,HYR05:U2,State Senate,1,Under Votes,,0
+Cache,MIL02:I,State Senate,1,Under Votes,,6
+Cache,MIL02:U1,State Senate,1,Under Votes,,14
+Cache,MIL02:U2,State Senate,1,Under Votes,,0
+Cache,NIB01:IA,State Senate,1,Under Votes,,80
+Cache,NIB01:U3,State Senate,1,Under Votes,,5
+Cache,NIB02:I,State Senate,1,Under Votes,,161
+Cache,NIB03:I,State Senate,1,Under Votes,,99
+Cache,NIB04:I,State Senate,1,Under Votes,,143
+Cache,NIB04:U,State Senate,1,Under Votes,,6
+Cache,PAR:I,State Senate,1,Under Votes,,69
+Cache,PAR:U,State Senate,1,Under Votes,,99
+Cache,WEL01:I,State Senate,1,Under Votes,,106
+Cache,WEL01:U1,State Senate,1,Under Votes,,24
+Cache,WEL01:U2,State Senate,1,Under Votes,,0
+Cache,WEL01:U3,State Senate,1,Under Votes,,0
+Cache,WEL02:I,State Senate,1,Under Votes,,93
+Cache,WEL02:U,State Senate,1,Under Votes,,1
+Cache,WEL03:I,State Senate,1,Under Votes,,69
+Cache,WEL03:U,State Senate,1,Under Votes,,27
+Cache,CLK:I,State House,1,Joshua Hardy,DEM,27
+Cache,CLK:U1,State House,1,Joshua Hardy,DEM,2
+Cache,CLK:U2,State House,1,Joshua Hardy,DEM,0
+Cache,COR:I,State House,1,Joshua Hardy,DEM,15
+Cache,COR:U,State House,1,Joshua Hardy,DEM,0
+Cache,NEW:I,State House,1,Joshua Hardy,DEM,57
+Cache,NEW:U,State House,1,Joshua Hardy,DEM,12
+Cache,CLK:I,State House,1,Joel Ferry,REP,225
+Cache,CLK:U1,State House,1,Joel Ferry,REP,21
+Cache,CLK:U2,State House,1,Joel Ferry,REP,0
+Cache,COR:I,State House,1,Joel Ferry,REP,73
+Cache,COR:U,State House,1,Joel Ferry,REP,10
+Cache,NEW:I,State House,1,Joel Ferry,REP,301
+Cache,NEW:U,State House,1,Joel Ferry,REP,65
+Cache,CLK:I,State House,1,Write-ins,,0
+Cache,CLK:U1,State House,1,Write-ins,,0
+Cache,CLK:U2,State House,1,Write-ins,,0
+Cache,COR:I,State House,1,Write-ins,,0
+Cache,COR:U,State House,1,Write-ins,,0
+Cache,NEW:I,State House,1,Write-ins,,2
+Cache,NEW:U,State House,1,Write-ins,,0
+Cache,CLK:I,State House,1,Over Votes,,0
+Cache,CLK:U1,State House,1,Over Votes,,0
+Cache,CLK:U2,State House,1,Over Votes,,0
+Cache,COR:I,State House,1,Over Votes,,0
+Cache,COR:U,State House,1,Over Votes,,0
+Cache,NEW:I,State House,1,Over Votes,,0
+Cache,NEW:U,State House,1,Over Votes,,0
+Cache,CLK:I,State House,1,Under Votes,,5
+Cache,CLK:U1,State House,1,Under Votes,,2
+Cache,CLK:U2,State House,1,Under Votes,,0
+Cache,COR:I,State House,1,Under Votes,,2
+Cache,COR:U,State House,1,Under Votes,,0
+Cache,NEW:I,State House,1,Under Votes,,14
+Cache,NEW:U,State House,1,Under Votes,,4
+Cache,AMA:I,State House,2,Mike Petersen,REP,146
+Cache,AMA:U1,State House,2,Mike Petersen,REP,2
+Cache,AMA:U2,State House,2,Mike Petersen,REP,0
+Cache,AMA:U3,State House,2,Mike Petersen,REP,9
+Cache,BEN:U,State House,2,Mike Petersen,REP,217
+Cache,COV:U2,State House,2,Mike Petersen,REP,31
+Cache,HYD01:I,State House,2,Mike Petersen,REP,513
+Cache,HYD01:U,State House,2,Mike Petersen,REP,0
+Cache,HYD02:I,State House,2,Mike Petersen,REP,511
+Cache,HYD02:U1,State House,2,Mike Petersen,REP,34
+Cache,HYD02:U2,State House,2,Mike Petersen,REP,0
+Cache,HYD03:I,State House,2,Mike Petersen,REP,626
+Cache,HYD03:U,State House,2,Mike Petersen,REP,0
+Cache,LEW01:I,State House,2,Mike Petersen,REP,570
+Cache,LEW01:U1,State House,2,Mike Petersen,REP,0
+Cache,LEW01:U2,State House,2,Mike Petersen,REP,0
+Cache,LEW01:U3,State House,2,Mike Petersen,REP,0
+Cache,LEW01:U4,State House,2,Mike Petersen,REP,0
+Cache,LOG01:I,State House,2,Mike Petersen,REP,335
+Cache,LOG02:I,State House,2,Mike Petersen,REP,239
+Cache,LOG09:I,State House,2,Mike Petersen,REP,332
+Cache,MEN01:U,State House,2,Mike Petersen,REP,87
+Cache,NEW:U2,State House,2,Mike Petersen,REP,7
+Cache,NLG01:I,State House,2,Mike Petersen,REP,320
+Cache,NLG02:I,State House,2,Mike Petersen,REP,424
+Cache,NLG03:I,State House,2,Mike Petersen,REP,432
+Cache,NLG03:U,State House,2,Mike Petersen,REP,6
+Cache,NLG04:I,State House,2,Mike Petersen,REP,599
+Cache,NLG04:U,State House,2,Mike Petersen,REP,33
+Cache,NLG05:I,State House,2,Mike Petersen,REP,420
+Cache,NLG06:I,State House,2,Mike Petersen,REP,426
+Cache,RCH01:U1,State House,2,Mike Petersen,REP,0
+Cache,RCH02:U1,State House,2,Mike Petersen,REP,14
+Cache,RCH03:I,State House,2,Mike Petersen,REP,0
+Cache,SMI01:I,State House,2,Mike Petersen,REP,453
+Cache,SMI01:U1,State House,2,Mike Petersen,REP,39
+Cache,SMI01:U2,State House,2,Mike Petersen,REP,0
+Cache,SMI02:I,State House,2,Mike Petersen,REP,681
+Cache,SMI02:U,State House,2,Mike Petersen,REP,13
+Cache,SMI03:I,State House,2,Mike Petersen,REP,441
+Cache,SMI03:U,State House,2,Mike Petersen,REP,2
+Cache,SMI04:I,State House,2,Mike Petersen,REP,371
+Cache,SMI04:U,State House,2,Mike Petersen,REP,1
+Cache,SMI05:I,State House,2,Mike Petersen,REP,401
+Cache,SMI05:U,State House,2,Mike Petersen,REP,10
+Cache,SMI06:I,State House,2,Mike Petersen,REP,378
+Cache,SMI06:U,State House,2,Mike Petersen,REP,61
+Cache,SMI07:I,State House,2,Mike Petersen,REP,503
+Cache,SMI07:U,State House,2,Mike Petersen,REP,102
+Cache,SMI08:I,State House,2,Mike Petersen,REP,288
+Cache,TRE:I,State House,2,Mike Petersen,REP,161
+Cache,AMA:I,State House,2,Holly Gunther,DEM,38
+Cache,AMA:U1,State House,2,Holly Gunther,DEM,0
+Cache,AMA:U2,State House,2,Holly Gunther,DEM,0
+Cache,AMA:U3,State House,2,Holly Gunther,DEM,0
+Cache,BEN:U,State House,2,Holly Gunther,DEM,57
+Cache,COV:U2,State House,2,Holly Gunther,DEM,4
+Cache,HYD01:I,State House,2,Holly Gunther,DEM,187
+Cache,HYD01:U,State House,2,Holly Gunther,DEM,0
+Cache,HYD02:I,State House,2,Holly Gunther,DEM,205
+Cache,HYD02:U1,State House,2,Holly Gunther,DEM,1
+Cache,HYD02:U2,State House,2,Holly Gunther,DEM,0
+Cache,HYD03:I,State House,2,Holly Gunther,DEM,209
+Cache,HYD03:U,State House,2,Holly Gunther,DEM,0
+Cache,LEW01:I,State House,2,Holly Gunther,DEM,97
+Cache,LEW01:U1,State House,2,Holly Gunther,DEM,3
+Cache,LEW01:U2,State House,2,Holly Gunther,DEM,0
+Cache,LEW01:U3,State House,2,Holly Gunther,DEM,0
+Cache,LEW01:U4,State House,2,Holly Gunther,DEM,0
+Cache,LOG01:I,State House,2,Holly Gunther,DEM,249
+Cache,LOG02:I,State House,2,Holly Gunther,DEM,201
+Cache,LOG09:I,State House,2,Holly Gunther,DEM,190
+Cache,MEN01:U,State House,2,Holly Gunther,DEM,10
+Cache,NEW:U2,State House,2,Holly Gunther,DEM,0
+Cache,NLG01:I,State House,2,Holly Gunther,DEM,242
+Cache,NLG02:I,State House,2,Holly Gunther,DEM,240
+Cache,NLG03:I,State House,2,Holly Gunther,DEM,139
+Cache,NLG03:U,State House,2,Holly Gunther,DEM,2
+Cache,NLG04:I,State House,2,Holly Gunther,DEM,204
+Cache,NLG04:U,State House,2,Holly Gunther,DEM,2
+Cache,NLG05:I,State House,2,Holly Gunther,DEM,218
+Cache,NLG06:I,State House,2,Holly Gunther,DEM,224
+Cache,RCH01:U1,State House,2,Holly Gunther,DEM,0
+Cache,RCH02:U1,State House,2,Holly Gunther,DEM,2
+Cache,RCH03:I,State House,2,Holly Gunther,DEM,0
+Cache,SMI01:I,State House,2,Holly Gunther,DEM,135
+Cache,SMI01:U1,State House,2,Holly Gunther,DEM,4
+Cache,SMI01:U2,State House,2,Holly Gunther,DEM,0
+Cache,SMI02:I,State House,2,Holly Gunther,DEM,170
+Cache,SMI02:U,State House,2,Holly Gunther,DEM,10
+Cache,SMI03:I,State House,2,Holly Gunther,DEM,129
+Cache,SMI03:U,State House,2,Holly Gunther,DEM,0
+Cache,SMI04:I,State House,2,Holly Gunther,DEM,106
+Cache,SMI04:U,State House,2,Holly Gunther,DEM,7
+Cache,SMI05:I,State House,2,Holly Gunther,DEM,127
+Cache,SMI05:U,State House,2,Holly Gunther,DEM,5
+Cache,SMI06:I,State House,2,Holly Gunther,DEM,110
+Cache,SMI06:U,State House,2,Holly Gunther,DEM,3
+Cache,SMI07:I,State House,2,Holly Gunther,DEM,178
+Cache,SMI07:U,State House,2,Holly Gunther,DEM,15
+Cache,SMI08:I,State House,2,Holly Gunther,DEM,82
+Cache,TRE:I,State House,2,Holly Gunther,DEM,33
+Cache,AMA:I,State House,2,Over Votes,,0
+Cache,AMA:U1,State House,2,Over Votes,,0
+Cache,AMA:U2,State House,2,Over Votes,,0
+Cache,AMA:U3,State House,2,Over Votes,,0
+Cache,BEN:U,State House,2,Over Votes,,0
+Cache,COV:U2,State House,2,Over Votes,,0
+Cache,HYD01:I,State House,2,Over Votes,,0
+Cache,HYD01:U,State House,2,Over Votes,,0
+Cache,HYD02:I,State House,2,Over Votes,,0
+Cache,HYD02:U1,State House,2,Over Votes,,0
+Cache,HYD02:U2,State House,2,Over Votes,,0
+Cache,HYD03:I,State House,2,Over Votes,,0
+Cache,HYD03:U,State House,2,Over Votes,,0
+Cache,LEW01:I,State House,2,Over Votes,,0
+Cache,LEW01:U1,State House,2,Over Votes,,0
+Cache,LEW01:U2,State House,2,Over Votes,,0
+Cache,LEW01:U3,State House,2,Over Votes,,0
+Cache,LEW01:U4,State House,2,Over Votes,,0
+Cache,LOG01:I,State House,2,Over Votes,,0
+Cache,LOG02:I,State House,2,Over Votes,,0
+Cache,LOG09:I,State House,2,Over Votes,,0
+Cache,MEN01:U,State House,2,Over Votes,,0
+Cache,NEW:U2,State House,2,Over Votes,,0
+Cache,NLG01:I,State House,2,Over Votes,,0
+Cache,NLG02:I,State House,2,Over Votes,,0
+Cache,NLG03:I,State House,2,Over Votes,,0
+Cache,NLG03:U,State House,2,Over Votes,,0
+Cache,NLG04:I,State House,2,Over Votes,,0
+Cache,NLG04:U,State House,2,Over Votes,,0
+Cache,NLG05:I,State House,2,Over Votes,,0
+Cache,NLG06:I,State House,2,Over Votes,,0
+Cache,RCH01:U1,State House,2,Over Votes,,0
+Cache,RCH02:U1,State House,2,Over Votes,,0
+Cache,RCH03:I,State House,2,Over Votes,,0
+Cache,SMI01:I,State House,2,Over Votes,,0
+Cache,SMI01:U1,State House,2,Over Votes,,0
+Cache,SMI01:U2,State House,2,Over Votes,,0
+Cache,SMI02:I,State House,2,Over Votes,,0
+Cache,SMI02:U,State House,2,Over Votes,,0
+Cache,SMI03:I,State House,2,Over Votes,,0
+Cache,SMI03:U,State House,2,Over Votes,,0
+Cache,SMI04:I,State House,2,Over Votes,,0
+Cache,SMI04:U,State House,2,Over Votes,,0
+Cache,SMI05:I,State House,2,Over Votes,,0
+Cache,SMI05:U,State House,2,Over Votes,,0
+Cache,SMI06:I,State House,2,Over Votes,,0
+Cache,SMI06:U,State House,2,Over Votes,,0
+Cache,SMI07:I,State House,2,Over Votes,,0
+Cache,SMI07:U,State House,2,Over Votes,,0
+Cache,SMI08:I,State House,2,Over Votes,,0
+Cache,TRE:I,State House,2,Over Votes,,0
+Cache,AMA:I,State House,2,Under Votes,,3
+Cache,AMA:U1,State House,2,Under Votes,,0
+Cache,AMA:U2,State House,2,Under Votes,,0
+Cache,AMA:U3,State House,2,Under Votes,,1
+Cache,BEN:U,State House,2,Under Votes,,3
+Cache,COV:U2,State House,2,Under Votes,,0
+Cache,HYD01:I,State House,2,Under Votes,,20
+Cache,HYD01:U,State House,2,Under Votes,,0
+Cache,HYD02:I,State House,2,Under Votes,,17
+Cache,HYD02:U1,State House,2,Under Votes,,1
+Cache,HYD02:U2,State House,2,Under Votes,,0
+Cache,HYD03:I,State House,2,Under Votes,,32
+Cache,HYD03:U,State House,2,Under Votes,,0
+Cache,LEW01:I,State House,2,Under Votes,,14
+Cache,LEW01:U1,State House,2,Under Votes,,0
+Cache,LEW01:U2,State House,2,Under Votes,,0
+Cache,LEW01:U3,State House,2,Under Votes,,0
+Cache,LEW01:U4,State House,2,Under Votes,,0
+Cache,LOG01:I,State House,2,Under Votes,,15
+Cache,LOG02:I,State House,2,Under Votes,,7
+Cache,LOG09:I,State House,2,Under Votes,,9
+Cache,MEN01:U,State House,2,Under Votes,,2
+Cache,NEW:U2,State House,2,Under Votes,,0
+Cache,NLG01:I,State House,2,Under Votes,,16
+Cache,NLG02:I,State House,2,Under Votes,,28
+Cache,NLG03:I,State House,2,Under Votes,,16
+Cache,NLG03:U,State House,2,Under Votes,,1
+Cache,NLG04:I,State House,2,Under Votes,,33
+Cache,NLG04:U,State House,2,Under Votes,,0
+Cache,NLG05:I,State House,2,Under Votes,,18
+Cache,NLG06:I,State House,2,Under Votes,,18
+Cache,RCH01:U1,State House,2,Under Votes,,0
+Cache,RCH02:U1,State House,2,Under Votes,,0
+Cache,RCH03:I,State House,2,Under Votes,,0
+Cache,SMI01:I,State House,2,Under Votes,,16
+Cache,SMI01:U1,State House,2,Under Votes,,3
+Cache,SMI01:U2,State House,2,Under Votes,,0
+Cache,SMI02:I,State House,2,Under Votes,,18
+Cache,SMI02:U,State House,2,Under Votes,,0
+Cache,SMI03:I,State House,2,Under Votes,,21
+Cache,SMI03:U,State House,2,Under Votes,,0
+Cache,SMI04:I,State House,2,Under Votes,,14
+Cache,SMI04:U,State House,2,Under Votes,,0
+Cache,SMI05:I,State House,2,Under Votes,,12
+Cache,SMI05:U,State House,2,Under Votes,,1
+Cache,SMI06:I,State House,2,Under Votes,,12
+Cache,SMI06:U,State House,2,Under Votes,,1
+Cache,SMI07:I,State House,2,Under Votes,,16
+Cache,SMI07:U,State House,2,Under Votes,,3
+Cache,SMI08:I,State House,2,Under Votes,,7
+Cache,TRE:I,State House,2,Under Votes,,6
+Cache,CY:U,State House,5,Casey Snider,REP,320
+Cache,HYR01:I,State House,5,Casey Snider,REP,393
+Cache,HYR01:U,State House,5,Casey Snider,REP,86
+Cache,HYR02:I,State House,5,Casey Snider,REP,359
+Cache,HYR02:U1,State House,5,Casey Snider,REP,11
+Cache,HYR02:U2,State House,5,Casey Snider,REP,0
+Cache,HYR03:I,State House,5,Casey Snider,REP,479
+Cache,HYR03:U,State House,5,Casey Snider,REP,10
+Cache,HYR04:I,State House,5,Casey Snider,REP,666
+Cache,HYR04:U1,State House,5,Casey Snider,REP,2
+Cache,HYR04:U2,State House,5,Casey Snider,REP,55
+Cache,HYR04:U3,State House,5,Casey Snider,REP,1
+Cache,HYR05:I,State House,5,Casey Snider,REP,638
+Cache,HYR05:U1,State House,5,Casey Snider,REP,13
+Cache,HYR05:U2,State House,5,Casey Snider,REP,0
+Cache,LOG18:IB,State House,5,Casey Snider,REP,0
+Cache,LOG21:IB,State House,5,Casey Snider,REP,0
+Cache,LOG21:IC,State House,5,Casey Snider,REP,0
+Cache,LOG22:CSD,State House,5,Casey Snider,REP,27
+Cache,LOG22:I,State House,5,Casey Snider,REP,215
+Cache,LOG24:17C1,State House,5,Casey Snider,REP,0
+Cache,LOG24:17C2,State House,5,Casey Snider,REP,2
+Cache,LOG24:CSD1,State House,5,Casey Snider,REP,0
+Cache,LOG24:CSD2,State House,5,Casey Snider,REP,71
+Cache,LOG24:CSD3,State House,5,Casey Snider,REP,57
+Cache,LOG24:I,State House,5,Casey Snider,REP,337
+Cache,LOG24:U,State House,5,Casey Snider,REP,0
+Cache,LOG25:I,State House,5,Casey Snider,REP,131
+Cache,MEN02:I,State House,5,Casey Snider,REP,509
+Cache,MEN02:U,State House,5,Casey Snider,REP,394
+Cache,MIL01:I,State House,5,Casey Snider,REP,735
+Cache,MIL01:U,State House,5,Casey Snider,REP,0
+Cache,MIL02:I,State House,5,Casey Snider,REP,46
+Cache,MIL02:U1,State House,5,Casey Snider,REP,31
+Cache,MIL02:U2,State House,5,Casey Snider,REP,0
+Cache,NIB01:IA,State House,5,Casey Snider,REP,356
+Cache,NIB01:IB,State House,5,Casey Snider,REP,0
+Cache,NIB01:U1,State House,5,Casey Snider,REP,2
+Cache,NIB01:U2,State House,5,Casey Snider,REP,1
+Cache,NIB01:U3,State House,5,Casey Snider,REP,15
+Cache,NIB02:I,State House,5,Casey Snider,REP,662
+Cache,NIB03:I,State House,5,Casey Snider,REP,429
+Cache,NIB04:I,State House,5,Casey Snider,REP,654
+Cache,NIB04:U,State House,5,Casey Snider,REP,36
+Cache,PAR:I,State House,5,Casey Snider,REP,396
+Cache,PAR:U,State House,5,Casey Snider,REP,345
+Cache,PRO01:IA,State House,5,Casey Snider,REP,275
+Cache,PRO02:IA,State House,5,Casey Snider,REP,596
+Cache,PRO03:I,State House,5,Casey Snider,REP,560
+Cache,PRO03:U1,State House,5,Casey Snider,REP,2
+Cache,PRO03:U2,State House,5,Casey Snider,REP,0
+Cache,PRO03:U3,State House,5,Casey Snider,REP,5
+Cache,PRO04:I,State House,5,Casey Snider,REP,435
+Cache,PRO04:U,State House,5,Casey Snider,REP,0
+Cache,PRO05:I,State House,5,Casey Snider,REP,465
+Cache,PRO06:I,State House,5,Casey Snider,REP,436
+Cache,RVH02:I,State House,5,Casey Snider,REP,151
+Cache,RVH02:U3,State House,5,Casey Snider,REP,5
+Cache,WEL01:I,State House,5,Casey Snider,REP,525
+Cache,WEL01:U1,State House,5,Casey Snider,REP,115
+Cache,WEL01:U2,State House,5,Casey Snider,REP,0
+Cache,WEL01:U3,State House,5,Casey Snider,REP,3
+Cache,WEL02:I,State House,5,Casey Snider,REP,417
+Cache,WEL03:I,State House,5,Casey Snider,REP,398
+Cache,WEL03:U,State House,5,Casey Snider,REP,155
+Cache,CY:U,State House,5,Write-ins,,7
+Cache,HYR01:I,State House,5,Write-ins,,18
+Cache,HYR01:U,State House,5,Write-ins,,4
+Cache,HYR02:I,State House,5,Write-ins,,15
+Cache,HYR02:U1,State House,5,Write-ins,,0
+Cache,HYR02:U2,State House,5,Write-ins,,0
+Cache,HYR03:I,State House,5,Write-ins,,21
+Cache,HYR03:U,State House,5,Write-ins,,0
+Cache,HYR04:I,State House,5,Write-ins,,21
+Cache,HYR04:U1,State House,5,Write-ins,,0
+Cache,HYR04:U2,State House,5,Write-ins,,0
+Cache,HYR04:U3,State House,5,Write-ins,,0
+Cache,HYR05:I,State House,5,Write-ins,,18
+Cache,HYR05:U1,State House,5,Write-ins,,0
+Cache,HYR05:U2,State House,5,Write-ins,,0
+Cache,LOG18:IB,State House,5,Write-ins,,0
+Cache,LOG21:IB,State House,5,Write-ins,,0
+Cache,LOG21:IC,State House,5,Write-ins,,0
+Cache,LOG22:CSD,State House,5,Write-ins,,3
+Cache,LOG22:I,State House,5,Write-ins,,14
+Cache,LOG24:17C1,State House,5,Write-ins,,0
+Cache,LOG24:17C2,State House,5,Write-ins,,0
+Cache,LOG24:CSD1,State House,5,Write-ins,,0
+Cache,LOG24:CSD2,State House,5,Write-ins,,3
+Cache,LOG24:CSD3,State House,5,Write-ins,,8
+Cache,LOG24:I,State House,5,Write-ins,,26
+Cache,LOG24:U,State House,5,Write-ins,,0
+Cache,LOG25:I,State House,5,Write-ins,,24
+Cache,MEN02:I,State House,5,Write-ins,,11
+Cache,MEN02:U,State House,5,Write-ins,,9
+Cache,MIL01:I,State House,5,Write-ins,,17
+Cache,MIL01:U,State House,5,Write-ins,,0
+Cache,MIL02:I,State House,5,Write-ins,,4
+Cache,MIL02:U1,State House,5,Write-ins,,1
+Cache,MIL02:U2,State House,5,Write-ins,,0
+Cache,NIB01:IA,State House,5,Write-ins,,5
+Cache,NIB01:IB,State House,5,Write-ins,,0
+Cache,NIB01:U1,State House,5,Write-ins,,0
+Cache,NIB01:U2,State House,5,Write-ins,,0
+Cache,NIB01:U3,State House,5,Write-ins,,2
+Cache,NIB02:I,State House,5,Write-ins,,22
+Cache,NIB03:I,State House,5,Write-ins,,11
+Cache,NIB04:I,State House,5,Write-ins,,21
+Cache,NIB04:U,State House,5,Write-ins,,3
+Cache,PAR:I,State House,5,Write-ins,,9
+Cache,PAR:U,State House,5,Write-ins,,8
+Cache,PRO01:IA,State House,5,Write-ins,,5
+Cache,PRO02:IA,State House,5,Write-ins,,19
+Cache,PRO03:I,State House,5,Write-ins,,25
+Cache,PRO03:U1,State House,5,Write-ins,,0
+Cache,PRO03:U2,State House,5,Write-ins,,0
+Cache,PRO03:U3,State House,5,Write-ins,,0
+Cache,PRO04:I,State House,5,Write-ins,,27
+Cache,PRO04:U,State House,5,Write-ins,,0
+Cache,PRO05:I,State House,5,Write-ins,,28
+Cache,PRO06:I,State House,5,Write-ins,,18
+Cache,RVH02:I,State House,5,Write-ins,,16
+Cache,RVH02:U3,State House,5,Write-ins,,0
+Cache,WEL01:I,State House,5,Write-ins,,14
+Cache,WEL01:U1,State House,5,Write-ins,,1
+Cache,WEL01:U2,State House,5,Write-ins,,0
+Cache,WEL01:U3,State House,5,Write-ins,,0
+Cache,WEL02:I,State House,5,Write-ins,,15
+Cache,WEL03:I,State House,5,Write-ins,,17
+Cache,WEL03:U,State House,5,Write-ins,,2
+Cache,CY:U,State House,5,Over Votes,,0
+Cache,HYR01:I,State House,5,Over Votes,,0
+Cache,HYR01:U,State House,5,Over Votes,,0
+Cache,HYR02:I,State House,5,Over Votes,,0
+Cache,HYR02:U1,State House,5,Over Votes,,0
+Cache,HYR02:U2,State House,5,Over Votes,,0
+Cache,HYR03:I,State House,5,Over Votes,,0
+Cache,HYR03:U,State House,5,Over Votes,,0
+Cache,HYR04:I,State House,5,Over Votes,,0
+Cache,HYR04:U1,State House,5,Over Votes,,0
+Cache,HYR04:U2,State House,5,Over Votes,,0
+Cache,HYR04:U3,State House,5,Over Votes,,0
+Cache,HYR05:I,State House,5,Over Votes,,0
+Cache,HYR05:U1,State House,5,Over Votes,,0
+Cache,HYR05:U2,State House,5,Over Votes,,0
+Cache,LOG18:IB,State House,5,Over Votes,,0
+Cache,LOG21:IB,State House,5,Over Votes,,0
+Cache,LOG21:IC,State House,5,Over Votes,,0
+Cache,LOG22:CSD,State House,5,Over Votes,,0
+Cache,LOG22:I,State House,5,Over Votes,,0
+Cache,LOG24:17C1,State House,5,Over Votes,,0
+Cache,LOG24:17C2,State House,5,Over Votes,,0
+Cache,LOG24:CSD1,State House,5,Over Votes,,0
+Cache,LOG24:CSD2,State House,5,Over Votes,,0
+Cache,LOG24:CSD3,State House,5,Over Votes,,0
+Cache,LOG24:I,State House,5,Over Votes,,0
+Cache,LOG24:U,State House,5,Over Votes,,0
+Cache,LOG25:I,State House,5,Over Votes,,0
+Cache,MEN02:I,State House,5,Over Votes,,0
+Cache,MEN02:U,State House,5,Over Votes,,0
+Cache,MIL01:I,State House,5,Over Votes,,0
+Cache,MIL01:U,State House,5,Over Votes,,0
+Cache,MIL02:I,State House,5,Over Votes,,0
+Cache,MIL02:U1,State House,5,Over Votes,,0
+Cache,MIL02:U2,State House,5,Over Votes,,0
+Cache,NIB01:IA,State House,5,Over Votes,,0
+Cache,NIB01:IB,State House,5,Over Votes,,0
+Cache,NIB01:U1,State House,5,Over Votes,,0
+Cache,NIB01:U2,State House,5,Over Votes,,0
+Cache,NIB01:U3,State House,5,Over Votes,,0
+Cache,NIB02:I,State House,5,Over Votes,,0
+Cache,NIB03:I,State House,5,Over Votes,,0
+Cache,NIB04:I,State House,5,Over Votes,,0
+Cache,NIB04:U,State House,5,Over Votes,,0
+Cache,PAR:I,State House,5,Over Votes,,0
+Cache,PAR:U,State House,5,Over Votes,,0
+Cache,PRO01:IA,State House,5,Over Votes,,0
+Cache,PRO02:IA,State House,5,Over Votes,,0
+Cache,PRO03:I,State House,5,Over Votes,,0
+Cache,PRO03:U1,State House,5,Over Votes,,0
+Cache,PRO03:U2,State House,5,Over Votes,,0
+Cache,PRO03:U3,State House,5,Over Votes,,0
+Cache,PRO04:I,State House,5,Over Votes,,0
+Cache,PRO04:U,State House,5,Over Votes,,0
+Cache,PRO05:I,State House,5,Over Votes,,0
+Cache,PRO06:I,State House,5,Over Votes,,0
+Cache,RVH02:I,State House,5,Over Votes,,0
+Cache,RVH02:U3,State House,5,Over Votes,,0
+Cache,WEL01:I,State House,5,Over Votes,,0
+Cache,WEL01:U1,State House,5,Over Votes,,0
+Cache,WEL01:U2,State House,5,Over Votes,,0
+Cache,WEL01:U3,State House,5,Over Votes,,0
+Cache,WEL02:I,State House,5,Over Votes,,0
+Cache,WEL03:I,State House,5,Over Votes,,0
+Cache,WEL03:U,State House,5,Over Votes,,0
+Cache,CY:U,State House,5,Under Votes,,69
+Cache,HYR01:I,State House,5,Under Votes,,81
+Cache,HYR01:U,State House,5,Under Votes,,8
+Cache,HYR02:I,State House,5,Under Votes,,75
+Cache,HYR02:U1,State House,5,Under Votes,,0
+Cache,HYR02:U2,State House,5,Under Votes,,0
+Cache,HYR03:I,State House,5,Under Votes,,85
+Cache,HYR03:U,State House,5,Under Votes,,0
+Cache,HYR04:I,State House,5,Under Votes,,92
+Cache,HYR04:U1,State House,5,Under Votes,,0
+Cache,HYR04:U2,State House,5,Under Votes,,6
+Cache,HYR04:U3,State House,5,Under Votes,,0
+Cache,HYR05:I,State House,5,Under Votes,,104
+Cache,HYR05:U1,State House,5,Under Votes,,2
+Cache,HYR05:U2,State House,5,Under Votes,,0
+Cache,LOG18:IB,State House,5,Under Votes,,0
+Cache,LOG21:IB,State House,5,Under Votes,,0
+Cache,LOG21:IC,State House,5,Under Votes,,0
+Cache,LOG22:CSD,State House,5,Under Votes,,7
+Cache,LOG22:I,State House,5,Under Votes,,38
+Cache,LOG24:17C1,State House,5,Under Votes,,0
+Cache,LOG24:17C2,State House,5,Under Votes,,0
+Cache,LOG24:CSD1,State House,5,Under Votes,,2
+Cache,LOG24:CSD2,State House,5,Under Votes,,14
+Cache,LOG24:CSD3,State House,5,Under Votes,,23
+Cache,LOG24:I,State House,5,Under Votes,,73
+Cache,LOG24:U,State House,5,Under Votes,,0
+Cache,LOG25:I,State House,5,Under Votes,,31
+Cache,MEN02:I,State House,5,Under Votes,,84
+Cache,MEN02:U,State House,5,Under Votes,,45
+Cache,MIL01:I,State House,5,Under Votes,,97
+Cache,MIL01:U,State House,5,Under Votes,,0
+Cache,MIL02:I,State House,5,Under Votes,,3
+Cache,MIL02:U1,State House,5,Under Votes,,10
+Cache,MIL02:U2,State House,5,Under Votes,,0
+Cache,NIB01:IA,State House,5,Under Votes,,69
+Cache,NIB01:IB,State House,5,Under Votes,,0
+Cache,NIB01:U1,State House,5,Under Votes,,0
+Cache,NIB01:U2,State House,5,Under Votes,,2
+Cache,NIB01:U3,State House,5,Under Votes,,7
+Cache,NIB02:I,State House,5,Under Votes,,130
+Cache,NIB03:I,State House,5,Under Votes,,90
+Cache,NIB04:I,State House,5,Under Votes,,103
+Cache,NIB04:U,State House,5,Under Votes,,7
+Cache,PAR:I,State House,5,Under Votes,,44
+Cache,PAR:U,State House,5,Under Votes,,57
+Cache,PRO01:IA,State House,5,Under Votes,,58
+Cache,PRO02:IA,State House,5,Under Votes,,152
+Cache,PRO03:I,State House,5,Under Votes,,121
+Cache,PRO03:U1,State House,5,Under Votes,,0
+Cache,PRO03:U2,State House,5,Under Votes,,0
+Cache,PRO03:U3,State House,5,Under Votes,,2
+Cache,PRO04:I,State House,5,Under Votes,,119
+Cache,PRO04:U,State House,5,Under Votes,,0
+Cache,PRO05:I,State House,5,Under Votes,,110
+Cache,PRO06:I,State House,5,Under Votes,,109
+Cache,RVH02:I,State House,5,Under Votes,,46
+Cache,RVH02:U3,State House,5,Under Votes,,1
+Cache,WEL01:I,State House,5,Under Votes,,76
+Cache,WEL01:U1,State House,5,Under Votes,,17
+Cache,WEL01:U2,State House,5,Under Votes,,0
+Cache,WEL01:U3,State House,5,Under Votes,,0
+Cache,WEL02:I,State House,5,Under Votes,,68
+Cache,WEL03:I,State House,5,Under Votes,,60
+Cache,WEL03:U,State House,5,Under Votes,,23
+Cache,COV:U,State House,3,Patrick Belmont,DEM,28
+Cache,LEW00:I,State House,3,Patrick Belmont,DEM,0
+Cache,LOG03:I,State House,3,Patrick Belmont,DEM,157
+Cache,LOG04:I,State House,3,Patrick Belmont,DEM,284
+Cache,LOG05:I,State House,3,Patrick Belmont,DEM,193
+Cache,LOG06:I,State House,3,Patrick Belmont,DEM,135
+Cache,LOG07:I,State House,3,Patrick Belmont,DEM,175
+Cache,LOG08:I,State House,3,Patrick Belmont,DEM,265
+Cache,LOG10:I,State House,3,Patrick Belmont,DEM,248
+Cache,LOG11:I,State House,3,Patrick Belmont,DEM,167
+Cache,LOG12:I,State House,3,Patrick Belmont,DEM,248
+Cache,LOG13:I,State House,3,Patrick Belmont,DEM,206
+Cache,LOG13:U,State House,3,Patrick Belmont,DEM,0
+Cache,LOG14:I,State House,3,Patrick Belmont,DEM,235
+Cache,LOG14:U1,State House,3,Patrick Belmont,DEM,0
+Cache,LOG14:U2,State House,3,Patrick Belmont,DEM,0
+Cache,LOG14:U3,State House,3,Patrick Belmont,DEM,0
+Cache,LOG15:I,State House,3,Patrick Belmont,DEM,68
+Cache,LOG16:I,State House,3,Patrick Belmont,DEM,310
+Cache,LOG17:I,State House,3,Patrick Belmont,DEM,252
+Cache,LOG18:CSD,State House,3,Patrick Belmont,DEM,67
+Cache,LOG18:IA,State House,3,Patrick Belmont,DEM,293
+Cache,LOG19:I,State House,3,Patrick Belmont,DEM,227
+Cache,LOG20:I,State House,3,Patrick Belmont,DEM,304
+Cache,LOG21:CSD,State House,3,Patrick Belmont,DEM,3
+Cache,LOG21:IA,State House,3,Patrick Belmont,DEM,267
+Cache,LOG23:I,State House,3,Patrick Belmont,DEM,160
+Cache,PRO01:IB,State House,3,Patrick Belmont,DEM,0
+Cache,PRO01:IC,State House,3,Patrick Belmont,DEM,0
+Cache,PRO02:IB,State House,3,Patrick Belmont,DEM,0
+Cache,RCH01:I,State House,3,Patrick Belmont,DEM,102
+Cache,RCH01:U2,State House,3,Patrick Belmont,DEM,0
+Cache,RCH01:U3,State House,3,Patrick Belmont,DEM,10
+Cache,RCH02:I,State House,3,Patrick Belmont,DEM,102
+Cache,RCH02:U2,State House,3,Patrick Belmont,DEM,10
+Cache,RVH01:I,State House,3,Patrick Belmont,DEM,236
+Cache,RVH01:U,State House,3,Patrick Belmont,DEM,0
+Cache,RVH02:U1,State House,3,Patrick Belmont,DEM,0
+Cache,RVH02:U2,State House,3,Patrick Belmont,DEM,2
+Cache,UNINHC:1,State House,3,Patrick Belmont,DEM,0
+Cache,UNINHC:2,State House,3,Patrick Belmont,DEM,0
+Cache,COV:U,State House,3,Dan Johnson,REP,187
+Cache,LEW00:I,State House,3,Dan Johnson,REP,0
+Cache,LOG03:I,State House,3,Dan Johnson,REP,192
+Cache,LOG04:I,State House,3,Dan Johnson,REP,341
+Cache,LOG05:I,State House,3,Dan Johnson,REP,158
+Cache,LOG06:I,State House,3,Dan Johnson,REP,172
+Cache,LOG07:I,State House,3,Dan Johnson,REP,241
+Cache,LOG08:I,State House,3,Dan Johnson,REP,291
+Cache,LOG10:I,State House,3,Dan Johnson,REP,143
+Cache,LOG11:I,State House,3,Dan Johnson,REP,198
+Cache,LOG12:I,State House,3,Dan Johnson,REP,330
+Cache,LOG13:I,State House,3,Dan Johnson,REP,151
+Cache,LOG13:U,State House,3,Dan Johnson,REP,0
+Cache,LOG14:I,State House,3,Dan Johnson,REP,174
+Cache,LOG14:U1,State House,3,Dan Johnson,REP,0
+Cache,LOG14:U2,State House,3,Dan Johnson,REP,0
+Cache,LOG14:U3,State House,3,Dan Johnson,REP,0
+Cache,LOG15:I,State House,3,Dan Johnson,REP,155
+Cache,LOG16:I,State House,3,Dan Johnson,REP,300
+Cache,LOG17:I,State House,3,Dan Johnson,REP,223
+Cache,LOG18:CSD,State House,3,Dan Johnson,REP,45
+Cache,LOG18:IA,State House,3,Dan Johnson,REP,298
+Cache,LOG19:I,State House,3,Dan Johnson,REP,215
+Cache,LOG20:I,State House,3,Dan Johnson,REP,384
+Cache,LOG21:CSD,State House,3,Dan Johnson,REP,0
+Cache,LOG21:IA,State House,3,Dan Johnson,REP,417
+Cache,LOG23:I,State House,3,Dan Johnson,REP,301
+Cache,PRO01:IB,State House,3,Dan Johnson,REP,0
+Cache,PRO01:IC,State House,3,Dan Johnson,REP,0
+Cache,PRO02:IB,State House,3,Dan Johnson,REP,0
+Cache,RCH01:I,State House,3,Dan Johnson,REP,399
+Cache,RCH01:U2,State House,3,Dan Johnson,REP,0
+Cache,RCH01:U3,State House,3,Dan Johnson,REP,26
+Cache,RCH02:I,State House,3,Dan Johnson,REP,394
+Cache,RCH02:U2,State House,3,Dan Johnson,REP,43
+Cache,RVH01:I,State House,3,Dan Johnson,REP,411
+Cache,RVH01:U,State House,3,Dan Johnson,REP,2
+Cache,RVH02:U1,State House,3,Dan Johnson,REP,2
+Cache,RVH02:U2,State House,3,Dan Johnson,REP,0
+Cache,UNINHC:1,State House,3,Dan Johnson,REP,1
+Cache,UNINHC:2,State House,3,Dan Johnson,REP,0
+Cache,COV:U,State House,3,Over Votes,,0
+Cache,LEW00:I,State House,3,Over Votes,,0
+Cache,LOG03:I,State House,3,Over Votes,,0
+Cache,LOG04:I,State House,3,Over Votes,,0
+Cache,LOG05:I,State House,3,Over Votes,,0
+Cache,LOG06:I,State House,3,Over Votes,,0
+Cache,LOG07:I,State House,3,Over Votes,,0
+Cache,LOG08:I,State House,3,Over Votes,,0
+Cache,LOG10:I,State House,3,Over Votes,,0
+Cache,LOG11:I,State House,3,Over Votes,,0
+Cache,LOG12:I,State House,3,Over Votes,,1
+Cache,LOG13:I,State House,3,Over Votes,,0
+Cache,LOG13:U,State House,3,Over Votes,,0
+Cache,LOG14:I,State House,3,Over Votes,,0
+Cache,LOG14:U1,State House,3,Over Votes,,0
+Cache,LOG14:U2,State House,3,Over Votes,,0
+Cache,LOG14:U3,State House,3,Over Votes,,0
+Cache,LOG15:I,State House,3,Over Votes,,0
+Cache,LOG16:I,State House,3,Over Votes,,0
+Cache,LOG17:I,State House,3,Over Votes,,0
+Cache,LOG18:CSD,State House,3,Over Votes,,0
+Cache,LOG18:IA,State House,3,Over Votes,,0
+Cache,LOG19:I,State House,3,Over Votes,,0
+Cache,LOG20:I,State House,3,Over Votes,,0
+Cache,LOG21:CSD,State House,3,Over Votes,,0
+Cache,LOG21:IA,State House,3,Over Votes,,0
+Cache,LOG23:I,State House,3,Over Votes,,0
+Cache,PRO01:IB,State House,3,Over Votes,,0
+Cache,PRO01:IC,State House,3,Over Votes,,0
+Cache,PRO02:IB,State House,3,Over Votes,,0
+Cache,RCH01:I,State House,3,Over Votes,,0
+Cache,RCH01:U2,State House,3,Over Votes,,0
+Cache,RCH01:U3,State House,3,Over Votes,,0
+Cache,RCH02:I,State House,3,Over Votes,,0
+Cache,RCH02:U2,State House,3,Over Votes,,0
+Cache,RVH01:I,State House,3,Over Votes,,0
+Cache,RVH01:U,State House,3,Over Votes,,0
+Cache,RVH02:U1,State House,3,Over Votes,,0
+Cache,RVH02:U2,State House,3,Over Votes,,0
+Cache,UNINHC:1,State House,3,Over Votes,,0
+Cache,UNINHC:2,State House,3,Over Votes,,0
+Cache,COV:U,State House,3,Under Votes,,2
+Cache,LEW00:I,State House,3,Under Votes,,0
+Cache,LOG03:I,State House,3,Under Votes,,3
+Cache,LOG04:I,State House,3,Under Votes,,18
+Cache,LOG05:I,State House,3,Under Votes,,8
+Cache,LOG06:I,State House,3,Under Votes,,15
+Cache,LOG07:I,State House,3,Under Votes,,3
+Cache,LOG08:I,State House,3,Under Votes,,10
+Cache,LOG10:I,State House,3,Under Votes,,10
+Cache,LOG11:I,State House,3,Under Votes,,4
+Cache,LOG12:I,State House,3,Under Votes,,10
+Cache,LOG13:I,State House,3,Under Votes,,13
+Cache,LOG13:U,State House,3,Under Votes,,0
+Cache,LOG14:I,State House,3,Under Votes,,15
+Cache,LOG14:U1,State House,3,Under Votes,,0
+Cache,LOG14:U2,State House,3,Under Votes,,0
+Cache,LOG14:U3,State House,3,Under Votes,,0
+Cache,LOG15:I,State House,3,Under Votes,,4
+Cache,LOG16:I,State House,3,Under Votes,,9
+Cache,LOG17:I,State House,3,Under Votes,,7
+Cache,LOG18:CSD,State House,3,Under Votes,,1
+Cache,LOG18:IA,State House,3,Under Votes,,13
+Cache,LOG19:I,State House,3,Under Votes,,11
+Cache,LOG20:I,State House,3,Under Votes,,9
+Cache,LOG21:CSD,State House,3,Under Votes,,0
+Cache,LOG21:IA,State House,3,Under Votes,,11
+Cache,LOG23:I,State House,3,Under Votes,,5
+Cache,PRO01:IB,State House,3,Under Votes,,0
+Cache,PRO01:IC,State House,3,Under Votes,,0
+Cache,PRO02:IB,State House,3,Under Votes,,0
+Cache,RCH01:I,State House,3,Under Votes,,16
+Cache,RCH01:U2,State House,3,Under Votes,,0
+Cache,RCH01:U3,State House,3,Under Votes,,1
+Cache,RCH02:I,State House,3,Under Votes,,7
+Cache,RCH02:U2,State House,3,Under Votes,,0
+Cache,RVH01:I,State House,3,Under Votes,,19
+Cache,RVH01:U,State House,3,Under Votes,,0
+Cache,RVH02:U1,State House,3,Under Votes,,0
+Cache,RVH02:U2,State House,3,Under Votes,,0
+Cache,UNINHC:1,State House,3,Under Votes,,0
+Cache,UNINHC:2,State House,3,Under Votes,,0

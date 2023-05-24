@@ -1,0 +1,214 @@
+county,precinct,office,district,party,candidate,votes
+Emery,Emery #1,Registered Voters,,,,190
+Emery,Ferron #2,Registered Voters,,,,505
+Emery,Ferron #3,Registered Voters,,,,431
+Emery,Clawson #4,Registered Voters,,,,196
+Emery,Orangeville #5,Registered Voters,,,,803
+Emery,Castle Dale #6,Registered Voters,,,,425
+Emery,Castle Dale #7,Registered Voters,,,,492
+Emery,Huntington #8,Registered Voters,,,,685
+Emery,Huntington #9,Registered Voters,,,,644
+Emery,Cleveland #10,Registered Voters,,,,564
+Emery,Elmo #11,Registered Voters,,,,402
+Emery,Green River #12,Registered Voters,,,,473
+Emery,Emery #1,Ballots Cast,,,,131
+Emery,Ferron #2,Ballots Cast,,,,330
+Emery,Ferron #3,Ballots Cast,,,,330
+Emery,Clawson #4,Ballots Cast,,,,154
+Emery,Orangeville #5,Ballots Cast,,,,590
+Emery,Castle Dale #6,Ballots Cast,,,,344
+Emery,Castle Dale #7,Ballots Cast,,,,380
+Emery,Huntington #8,Ballots Cast,,,,450
+Emery,Huntington #9,Ballots Cast,,,,430
+Emery,Cleveland #10,Ballots Cast,,,,421
+Emery,Elmo #11,Ballots Cast,,,,277
+Emery,Green River #12,Ballots Cast,,,,309
+Emery,Canvas,Ballots Cast,,,,24
+Emery,Emery #1,U.S. Senate,,,Evan McMullin,17
+Emery,Ferron #2,U.S. Senate,,,Evan McMullin,49
+Emery,Ferron #3,U.S. Senate,,,Evan McMullin,55
+Emery,Clawson #4,U.S. Senate,,,Evan McMullin,19
+Emery,Orangeville #5,U.S. Senate,,,Evan McMullin,111
+Emery,Castle Dale #6,U.S. Senate,,,Evan McMullin,70
+Emery,Castle Dale #7,U.S. Senate,,,Evan McMullin,70
+Emery,Huntington #8,U.S. Senate,,,Evan McMullin,76
+Emery,Huntington #9,U.S. Senate,,,Evan McMullin,79
+Emery,Cleveland #10,U.S. Senate,,,Evan McMullin,50
+Emery,Elmo #11,U.S. Senate,,,Evan McMullin,46
+Emery,Green River #12,U.S. Senate,,,Evan McMullin,66
+Emery,Canvas,U.S. Senate,,,Evan McMullin,4
+Emery,Emery #1,U.S. Senate,,LIB,James Arthur Hansen,4
+Emery,Ferron #2,U.S. Senate,,LIB,James Arthur Hansen,3
+Emery,Ferron #3,U.S. Senate,,LIB,James Arthur Hansen,6
+Emery,Clawson #4,U.S. Senate,,LIB,James Arthur Hansen,2
+Emery,Orangeville #5,U.S. Senate,,LIB,James Arthur Hansen,8
+Emery,Castle Dale #6,U.S. Senate,,LIB,James Arthur Hansen,11
+Emery,Castle Dale #7,U.S. Senate,,LIB,James Arthur Hansen,5
+Emery,Huntington #8,U.S. Senate,,LIB,James Arthur Hansen,4
+Emery,Huntington #9,U.S. Senate,,LIB,James Arthur Hansen,9
+Emery,Cleveland #10,U.S. Senate,,LIB,James Arthur Hansen,5
+Emery,Elmo #11,U.S. Senate,,LIB,James Arthur Hansen,5
+Emery,Green River #12,U.S. Senate,,LIB,James Arthur Hansen,8
+Emery,Canvas,U.S. Senate,,LIB,James Arthur Hansen,0
+Emery,Emery #1,U.S. Senate,,REP,Mike Lee,106
+Emery,Ferron #2,U.S. Senate,,REP,Mike Lee,274
+Emery,Ferron #3,U.S. Senate,,REP,Mike Lee,263
+Emery,Clawson #4,U.S. Senate,,REP,Mike Lee,132
+Emery,Orangeville #5,U.S. Senate,,REP,Mike Lee,459
+Emery,Castle Dale #6,U.S. Senate,,REP,Mike Lee,251
+Emery,Castle Dale #7,U.S. Senate,,REP,Mike Lee,297
+Emery,Huntington #8,U.S. Senate,,REP,Mike Lee,352
+Emery,Huntington #9,U.S. Senate,,REP,Mike Lee,320
+Emery,Cleveland #10,U.S. Senate,,REP,Mike Lee,351
+Emery,Elmo #11,U.S. Senate,,REP,Mike Lee,217
+Emery,Green River #12,U.S. Senate,,REP,Mike Lee,229
+Emery,Canvas,U.S. Senate,,REP,Mike Lee,18
+Emery,Emery #1,U.S. Senate,,IAP,Tommy Williams,3
+Emery,Ferron #2,U.S. Senate,,IAP,Tommy Williams,2
+Emery,Ferron #3,U.S. Senate,,IAP,Tommy Williams,4
+Emery,Clawson #4,U.S. Senate,,IAP,Tommy Williams,0
+Emery,Orangeville #5,U.S. Senate,,IAP,Tommy Williams,7
+Emery,Castle Dale #6,U.S. Senate,,IAP,Tommy Williams,10
+Emery,Castle Dale #7,U.S. Senate,,IAP,Tommy Williams,2
+Emery,Huntington #8,U.S. Senate,,IAP,Tommy Williams,6
+Emery,Huntington #9,U.S. Senate,,IAP,Tommy Williams,11
+Emery,Cleveland #10,U.S. Senate,,IAP,Tommy Williams,4
+Emery,Elmo #11,U.S. Senate,,IAP,Tommy Williams,5
+Emery,Green River #12,U.S. Senate,,IAP,Tommy Williams,1
+Emery,Canvas,U.S. Senate,,IAP,Tommy Williams,1
+Emery,Emery #1,U.S. House,3,IAP,Aaron Heineman,0
+Emery,Ferron #2,U.S. House,3,IAP,Aaron Heineman,2
+Emery,Ferron #3,U.S. House,3,IAP,Aaron Heineman,5
+Emery,Clawson #4,U.S. House,3,IAP,Aaron Heineman,4
+Emery,Orangeville #5,U.S. House,3,IAP,Aaron Heineman,2
+Emery,Castle Dale #6,U.S. House,3,IAP,Aaron Heineman,5
+Emery,Castle Dale #7,U.S. House,3,IAP,Aaron Heineman,4
+Emery,Huntington #8,U.S. House,3,IAP,Aaron Heineman,8
+Emery,Huntington #9,U.S. House,3,IAP,Aaron Heineman,0
+Emery,Cleveland #10,U.S. House,3,IAP,Aaron Heineman,4
+Emery,Elmo #11,U.S. House,3,IAP,Aaron Heineman,0
+Emery,Green River #12,U.S. House,3,IAP,Aaron Heineman,2
+Emery,Canvas,U.S. House,3,IAP,Aaron Heineman,1
+Emery,Emery #1,U.S. House,3,DEM,Glenn J. Wright,9
+Emery,Ferron #2,U.S. House,3,DEM,Glenn J. Wright,18
+Emery,Ferron #3,U.S. House,3,DEM,Glenn J. Wright,25
+Emery,Clawson #4,U.S. House,3,DEM,Glenn J. Wright,4
+Emery,Orangeville #5,U.S. House,3,DEM,Glenn J. Wright,37
+Emery,Castle Dale #6,U.S. House,3,DEM,Glenn J. Wright,31
+Emery,Castle Dale #7,U.S. House,3,DEM,Glenn J. Wright,25
+Emery,Huntington #8,U.S. House,3,DEM,Glenn J. Wright,40
+Emery,Huntington #9,U.S. House,3,DEM,Glenn J. Wright,40
+Emery,Cleveland #10,U.S. House,3,DEM,Glenn J. Wright,22
+Emery,Elmo #11,U.S. House,3,DEM,Glenn J. Wright,24
+Emery,Green River #12,U.S. House,3,DEM,Glenn J. Wright,41
+Emery,Canvas,U.S. House,3,DEM,Glenn J. Wright,1
+Emery,Emery #1,U.S. House,3,CON,Daniel Clyde Cummings,5
+Emery,Ferron #2,U.S. House,3,CON,Daniel Clyde Cummings,6
+Emery,Ferron #3,U.S. House,3,CON,Daniel Clyde Cummings,5
+Emery,Clawson #4,U.S. House,3,CON,Daniel Clyde Cummings,2
+Emery,Orangeville #5,U.S. House,3,CON,Daniel Clyde Cummings,6
+Emery,Castle Dale #6,U.S. House,3,CON,Daniel Clyde Cummings,4
+Emery,Castle Dale #7,U.S. House,3,CON,Daniel Clyde Cummings,5
+Emery,Huntington #8,U.S. House,3,CON,Daniel Clyde Cummings,5
+Emery,Huntington #9,U.S. House,3,CON,Daniel Clyde Cummings,7
+Emery,Cleveland #10,U.S. House,3,CON,Daniel Clyde Cummings,9
+Emery,Elmo #11,U.S. House,3,CON,Daniel Clyde Cummings,9
+Emery,Green River #12,U.S. House,3,CON,Daniel Clyde Cummings,10
+Emery,Canvas,U.S. House,3,CON,Daniel Clyde Cummings,2
+Emery,Emery #1,U.S. House,3,REP,John Curtis,112
+Emery,Ferron #2,U.S. House,3,REP,John Curtis,292
+Emery,Ferron #3,U.S. House,3,REP,John Curtis,277
+Emery,Clawson #4,U.S. House,3,REP,John Curtis,136
+Emery,Orangeville #5,U.S. House,3,REP,John Curtis,515
+Emery,Castle Dale #6,U.S. House,3,REP,John Curtis,291
+Emery,Castle Dale #7,U.S. House,3,REP,John Curtis,325
+Emery,Huntington #8,U.S. House,3,REP,John Curtis,385
+Emery,Huntington #9,U.S. House,3,REP,John Curtis,356
+Emery,Cleveland #10,U.S. House,3,REP,John Curtis,365
+Emery,Elmo #11,U.S. House,3,REP,John Curtis,233
+Emery,Green River #12,U.S. House,3,REP,John Curtis,239
+Emery,Canvas,U.S. House,3,REP,John Curtis,17
+Emery,Emery #1,U.S. House,3,LIB,Michael R. Stoddard,3
+Emery,Ferron #2,U.S. House,3,LIB,Michael R. Stoddard,8
+Emery,Ferron #3,U.S. House,3,LIB,Michael R. Stoddard,7
+Emery,Clawson #4,U.S. House,3,LIB,Michael R. Stoddard,5
+Emery,Orangeville #5,U.S. House,3,LIB,Michael R. Stoddard,16
+Emery,Castle Dale #6,U.S. House,3,LIB,Michael R. Stoddard,8
+Emery,Castle Dale #7,U.S. House,3,LIB,Michael R. Stoddard,13
+Emery,Huntington #8,U.S. House,3,LIB,Michael R. Stoddard,4
+Emery,Huntington #9,U.S. House,3,LIB,Michael R. Stoddard,12
+Emery,Cleveland #10,U.S. House,3,LIB,Michael R. Stoddard,6
+Emery,Elmo #11,U.S. House,3,LIB,Michael R. Stoddard,3
+Emery,Green River #12,U.S. House,3,LIB,Michael R. Stoddard,12
+Emery,Canvas,U.S. House,3,LIB,Michael R. Stoddard,1
+Emery,Emery #1,State Treasurer,,REP,Marlo M. Oaks,118
+Emery,Ferron #2,State Treasurer,,REP,Marlo M. Oaks,291
+Emery,Ferron #3,State Treasurer,,REP,Marlo M. Oaks,284
+Emery,Clawson #4,State Treasurer,,REP,Marlo M. Oaks,134
+Emery,Orangeville #5,State Treasurer,,REP,Marlo M. Oaks,513
+Emery,Castle Dale #6,State Treasurer,,REP,Marlo M. Oaks,278
+Emery,Castle Dale #7,State Treasurer,,REP,Marlo M. Oaks,326
+Emery,Huntington #8,State Treasurer,,REP,Marlo M. Oaks,387
+Emery,Huntington #9,State Treasurer,,REP,Marlo M. Oaks,362
+Emery,Cleveland #10,State Treasurer,,REP,Marlo M. Oaks,364
+Emery,Elmo #11,State Treasurer,,REP,Marlo M. Oaks,230
+Emery,Green River #12,State Treasurer,,REP,Marlo M. Oaks,238
+Emery,Canvas,State Treasurer,,REP,Marlo M. Oaks,17
+Emery,Emery #1,State Treasurer,,UUP,Thomas Alan Horne,1
+Emery,Ferron #2,State Treasurer,,UUP,Thomas Alan Horne,2
+Emery,Ferron #3,State Treasurer,,UUP,Thomas Alan Horne,3
+Emery,Clawson #4,State Treasurer,,UUP,Thomas Alan Horne,0
+Emery,Orangeville #5,State Treasurer,,UUP,Thomas Alan Horne,11
+Emery,Castle Dale #6,State Treasurer,,UUP,Thomas Alan Horne,7
+Emery,Castle Dale #7,State Treasurer,,UUP,Thomas Alan Horne,8
+Emery,Huntington #8,State Treasurer,,UUP,Thomas Alan Horne,11
+Emery,Huntington #9,State Treasurer,,UUP,Thomas Alan Horne,7
+Emery,Cleveland #10,State Treasurer,,UUP,Thomas Alan Horne,8
+Emery,Elmo #11,State Treasurer,,UUP,Thomas Alan Horne,9
+Emery,Green River #12,State Treasurer,,UUP,Thomas Alan Horne,10
+Emery,Canvas,State Treasurer,,UUP,Thomas Alan Horne,0
+Emery,Emery #1,State Treasurer,,IAP,Warren T. Rogers,2
+Emery,Ferron #2,State Treasurer,,IAP,Warren T. Rogers,9
+Emery,Ferron #3,State Treasurer,,IAP,Warren T. Rogers,9
+Emery,Clawson #4,State Treasurer,,IAP,Warren T. Rogers,2
+Emery,Orangeville #5,State Treasurer,,IAP,Warren T. Rogers,13
+Emery,Castle Dale #6,State Treasurer,,IAP,Warren T. Rogers,17
+Emery,Castle Dale #7,State Treasurer,,IAP,Warren T. Rogers,10
+Emery,Huntington #8,State Treasurer,,IAP,Warren T. Rogers,11
+Emery,Huntington #9,State Treasurer,,IAP,Warren T. Rogers,6
+Emery,Cleveland #10,State Treasurer,,IAP,Warren T. Rogers,3
+Emery,Elmo #11,State Treasurer,,IAP,Warren T. Rogers,3
+Emery,Green River #12,State Treasurer,,IAP,Warren T. Rogers,11
+Emery,Canvas,State Treasurer,,IAP,Warren T. Rogers,2
+Emery,Emery #1,State Treasurer,,LIB,Joseph Geddes Buchman,6
+Emery,Ferron #2,State Treasurer,,LIB,Joseph Geddes Buchman,11
+Emery,Ferron #3,State Treasurer,,LIB,Joseph Geddes Buchman,15
+Emery,Clawson #4,State Treasurer,,LIB,Joseph Geddes Buchman,9
+Emery,Orangeville #5,State Treasurer,,LIB,Joseph Geddes Buchman,24
+Emery,Castle Dale #6,State Treasurer,,LIB,Joseph Geddes Buchman,18
+Emery,Castle Dale #7,State Treasurer,,LIB,Joseph Geddes Buchman,13
+Emery,Huntington #8,State Treasurer,,LIB,Joseph Geddes Buchman,20
+Emery,Huntington #9,State Treasurer,,LIB,Joseph Geddes Buchman,27
+Emery,Cleveland #10,State Treasurer,,LIB,Joseph Geddes Buchman,12
+Emery,Elmo #11,State Treasurer,,LIB,Joseph Geddes Buchman,16
+Emery,Green River #12,State Treasurer,,LIB,Joseph Geddes Buchman,19
+Emery,Canvas,State Treasurer,,LIB,Joseph Geddes Buchman,1
+Emery,Emery #1,State House,69,REP,Phil Lyman,111
+Emery,Ferron #2,State House,69,REP,Phil Lyman,280
+Emery,Ferron #3,State House,69,REP,Phil Lyman,257
+Emery,Clawson #4,State House,67,REP,Christine F. Watkins,123
+Emery,Orangeville #5,State House,67,REP,Christine F. Watkins,488
+Emery,Castle Dale #6,State House,67,REP,Christine F. Watkins,296
+Emery,Castle Dale #7,State House,67,REP,Christine F. Watkins,302
+Emery,Huntington #8,State House,67,REP,Christine F. Watkins,397
+Emery,Huntington #9,State House,67,REP,Christine F. Watkins,353
+Emery,Cleveland #10,State House,67,REP,Christine F. Watkins,348
+Emery,Elmo #11,State House,67,REP,Christine F. Watkins,212
+Emery,Green River #12,State House,69,REP,Phil Lyman,225
+Emery,Canvas,State House,69,REP,Phil Lyman,4
+Emery,Canvas,State House,67,REP,Christine F. Watkins,15
+Emery,Emery #1,State House,69,DEM,Davina Smith,15
+Emery,Ferron #2,State House,69,DEM,Davina Smith,40
+Emery,Ferron #3,State House,69,DEM,Davina Smith,63
+Emery,Green River #12,State House,69,DEM,Davina Smith,75
+Emery,Canvas,State House,69,DEM,Davina Smith,1

@@ -1,0 +1,1565 @@
+county,precinct,office,district,party,candidate,votes
+Grand,1-C,Registered Voters,,,,258
+Grand,1-C,Ballots Cast,,,,223
+Grand,1-C,Paper Ballots Cast,,,,210
+Grand,1-C,Ballots Cast - Blank,,,,0
+Grand,1-C,Paper Ballots Cast - Blank,,,,0
+Grand,1-C,Cards Cast - Blank,,,,0
+Grand,1-C,U.S. Senate,,IND,EVAN MCMULLIN,155
+Grand,1-C,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,7
+Grand,1-C,U.S. Senate,,REP,MIKE LEE,54
+Grand,1-C,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+Grand,1-C,U.S. Senate,,,Write-ins,0
+Grand,1-C,U.S. Senate,,,Over Votes,0
+Grand,1-C,U.S. Senate,,,Under Votes,3
+Grand,1-C,U.S. House,3,IAP,AARON HEINEMAN,4
+Grand,1-C,U.S. House,3,DEM,GLENN J. WRIGHT,143
+Grand,1-C,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Grand,1-C,U.S. House,3,REP,JOHN CURTIS,65
+Grand,1-C,U.S. House,3,LIB,MICHAEL STODDARD,7
+Grand,1-C,U.S. House,3,,Over Votes,0
+Grand,1-C,U.S. House,3,,Under Votes,2
+Grand,1-C,State Treasurer,,REP,MARLO M. OAKS,82
+Grand,1-C,State Treasurer,,UUP,THOMAS ALAN HORNE,26
+Grand,1-C,State Treasurer,,IAP,WARREN T ROGERS,28
+Grand,1-C,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,35
+Grand,1-C,State Treasurer,,,Over Votes,0
+Grand,1-C,State Treasurer,,,Under Votes,52
+Grand,1-C,State House,69,REP,PHIL LYMAN,54
+Grand,1-C,State House,69,DEM,DAVINA SMITH,168
+Grand,1-C,State House,69,,Over Votes,0
+Grand,1-C,State House,69,,Under Votes,1
+Grand,1-C,State School Board,14,REP,EMILY GREEN,98
+Grand,1-C,State School Board,14,LIB,RICHARD JENSEN,80
+Grand,1-C,State School Board,14,,Over Votes,0
+Grand,1-C,State School Board,14,,Under Votes,45
+Grand,1-C,Grand County Commission At-Large,,,BILL WINFIELD,59
+Grand,1-C,Grand County Commission At-Large,,,EMILY CAMPBELL,150
+Grand,1-C,Grand County Commission At-Large,,,Over Votes,0
+Grand,1-C,Grand County Commission At-Large,,,Under Votes,14
+Grand,1-C,Grand County Attorney,,,STEPHEN J. STOCKS,59
+Grand,1-C,Grand County Attorney,,,CHRISTINA SLOAN,155
+Grand,1-C,Grand County Attorney,,,Over Votes,0
+Grand,1-C,Grand County Attorney,,,Under Votes,9
+Grand,1-C,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,171
+Grand,1-C,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,1-C,Grand County Clerk/Auditor,,,Under Votes,52
+Grand,1-C,Grand County Sheriff,,,JAMISON WIGGINS,145
+Grand,1-C,Grand County Sheriff,,,CURT BREWER,64
+Grand,1-C,Grand County Sheriff,,,Over Votes,0
+Grand,1-C,Grand County Sheriff,,,Under Votes,14
+Grand,1-C,Grand County School District 1,,,KATHERINE WILLIAMS,181
+Grand,1-C,Grand County School District 1,,,Over Votes,0
+Grand,1-C,Grand County School District 1,,,Under Votes,42
+Grand,1-C,PAIGE PETERSEN Judicial Retention,,,YES,129
+Grand,1-C,PAIGE PETERSEN Judicial Retention,,,NO,43
+Grand,1-C,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,1-C,PAIGE PETERSEN Judicial Retention,,,Under Votes,51
+Grand,1-C,DON M.TORGERSON Judicial Retention,,,YES,127
+Grand,1-C,DON M.TORGERSON Judicial Retention,,,NO,51
+Grand,1-C,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,1-C,DON M.TORGERSON Judicial Retention,,,Under Votes,45
+Grand,1-C,GEORGE M. HARMOND Judicial Retention,,,YES,116
+Grand,1-C,GEORGE M. HARMOND Judicial Retention,,,NO,54
+Grand,1-C,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,1-C,GEORGE M. HARMOND Judicial Retention,,,Under Votes,53
+Grand,1-C,Constitutional Amendment A,,,FOR,58
+Grand,1-C,Constitutional Amendment A,,,AGAINST,145
+Grand,1-C,Constitutional Amendment A,,,Over Votes,0
+Grand,1-C,Constitutional Amendment A,,,Under Votes,20
+Grand,1-M,Registered Voters,,,,26
+Grand,1-M,Ballots Cast,,,,21
+Grand,1-M,Paper Ballots Cast,,,,18
+Grand,1-M,Ballots Cast - Blank,,,,0
+Grand,1-M,Paper Ballots Cast - Blank,,,,0
+Grand,1-M,Cards Cast - Blank,,,,0
+Grand,1-M,U.S. Senate,,IND,EVAN MCMULLIN,18
+Grand,1-M,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
+Grand,1-M,U.S. Senate,,REP,MIKE LEE,2
+Grand,1-M,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Grand,1-M,U.S. Senate,,,Write-ins,0
+Grand,1-M,U.S. Senate,,,Over Votes,0
+Grand,1-M,U.S. Senate,,,Under Votes,0
+Grand,1-M,U.S. House,3,IAP,AARON HEINEMAN,0
+Grand,1-M,U.S. House,3,DEM,GLENN J. WRIGHT,16
+Grand,1-M,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,0
+Grand,1-M,U.S. House,3,REP,JOHN CURTIS,4
+Grand,1-M,U.S. House,3,LIB,MICHAEL STODDARD,0
+Grand,1-M,U.S. House,3,,Over Votes,0
+Grand,1-M,U.S. House,3,,Under Votes,1
+Grand,1-M,State Treasurer,,REP,MARLO M. OAKS,7
+Grand,1-M,State Treasurer,,UUP,THOMAS ALAN HORNE,3
+Grand,1-M,State Treasurer,,IAP,WARREN T ROGERS,4
+Grand,1-M,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,1
+Grand,1-M,State Treasurer,,,Over Votes,0
+Grand,1-M,State Treasurer,,,Under Votes,6
+Grand,1-M,State House,69,REP,PHIL LYMAN,2
+Grand,1-M,State House,69,DEM,DAVINA SMITH,19
+Grand,1-M,State House,69,,Over Votes,0
+Grand,1-M,State House,69,,Under Votes,0
+Grand,1-M,State School Board,14,REP,EMILY GREEN,8
+Grand,1-M,State School Board,14,LIB,RICHARD JENSEN,5
+Grand,1-M,State School Board,14,,Over Votes,1
+Grand,1-M,State School Board,14,,Under Votes,7
+Grand,1-M,Grand County Commission At-Large,,,BILL WINFIELD,4
+Grand,1-M,Grand County Commission At-Large,,,EMILY CAMPBELL,14
+Grand,1-M,Grand County Commission At-Large,,,Over Votes,0
+Grand,1-M,Grand County Commission At-Large,,,Under Votes,3
+Grand,1-M,Grand County Attorney,,,STEPHEN J. STOCKS,4
+Grand,1-M,Grand County Attorney,,,CHRISTINA SLOAN,17
+Grand,1-M,Grand County Attorney,,,Over Votes,0
+Grand,1-M,Grand County Attorney,,,Under Votes,0
+Grand,1-M,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,17
+Grand,1-M,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,1-M,Grand County Clerk/Auditor,,,Under Votes,4
+Grand,1-M,Grand County Sheriff,,,JAMISON WIGGINS,10
+Grand,1-M,Grand County Sheriff,,,CURT BREWER,8
+Grand,1-M,Grand County Sheriff,,,Over Votes,0
+Grand,1-M,Grand County Sheriff,,,Under Votes,3
+Grand,1-M,Grand County School District 1,,,KATHERINE WILLIAMS,15
+Grand,1-M,Grand County School District 1,,,Over Votes,0
+Grand,1-M,Grand County School District 1,,,Under Votes,6
+Grand,1-M,Moab Valley Fire District,,,CHARLIE HARRISON,11
+Grand,1-M,Moab Valley Fire District,,,SAMUEL VAN WETTER,8
+Grand,1-M,Moab Valley Fire District,,,Over Votes,0
+Grand,1-M,Moab Valley Fire District,,,Under Votes,2
+Grand,1-M,PAIGE PETERSEN Judicial Retention,,,YES,12
+Grand,1-M,PAIGE PETERSEN Judicial Retention,,,NO,2
+Grand,1-M,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,1-M,PAIGE PETERSEN Judicial Retention,,,Under Votes,7
+Grand,1-M,DON M.TORGERSON Judicial Retention,,,YES,12
+Grand,1-M,DON M.TORGERSON Judicial Retention,,,NO,3
+Grand,1-M,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,1-M,DON M.TORGERSON Judicial Retention,,,Under Votes,6
+Grand,1-M,GEORGE M. HARMOND Judicial Retention,,,YES,8
+Grand,1-M,GEORGE M. HARMOND Judicial Retention,,,NO,6
+Grand,1-M,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,1-M,GEORGE M. HARMOND Judicial Retention,,,Under Votes,7
+Grand,1-M,Constitutional Amendment A,,,FOR,7
+Grand,1-M,Constitutional Amendment A,,,AGAINST,11
+Grand,1-M,Constitutional Amendment A,,,Over Votes,0
+Grand,1-M,Constitutional Amendment A,,,Under Votes,3
+Grand,1-T,Registered Voters,,,,35
+Grand,1-T,Ballots Cast,,,,22
+Grand,1-T,Paper Ballots Cast,,,,21
+Grand,1-T,Ballots Cast - Blank,,,,0
+Grand,1-T,Paper Ballots Cast - Blank,,,,0
+Grand,1-T,Cards Cast - Blank,,,,0
+Grand,1-T,U.S. Senate,,IND,EVAN MCMULLIN,6
+Grand,1-T,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+Grand,1-T,U.S. Senate,,REP,MIKE LEE,11
+Grand,1-T,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Grand,1-T,U.S. Senate,,,Write-ins,0
+Grand,1-T,U.S. Senate,,,Over Votes,0
+Grand,1-T,U.S. Senate,,,Under Votes,1
+Grand,1-T,U.S. House,3,IAP,AARON HEINEMAN,0
+Grand,1-T,U.S. House,3,DEM,GLENN J. WRIGHT,6
+Grand,1-T,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,1
+Grand,1-T,U.S. House,3,REP,JOHN CURTIS,13
+Grand,1-T,U.S. House,3,LIB,MICHAEL STODDARD,1
+Grand,1-T,U.S. House,3,,Over Votes,0
+Grand,1-T,U.S. House,3,,Under Votes,1
+Grand,1-T,State Treasurer,,REP,MARLO M. OAKS,9
+Grand,1-T,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+Grand,1-T,State Treasurer,,IAP,WARREN T ROGERS,3
+Grand,1-T,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,4
+Grand,1-T,State Treasurer,,,Over Votes,0
+Grand,1-T,State Treasurer,,,Under Votes,5
+Grand,1-T,State House,69,REP,PHIL LYMAN,11
+Grand,1-T,State House,69,DEM,DAVINA SMITH,10
+Grand,1-T,State House,69,,Over Votes,0
+Grand,1-T,State House,69,,Under Votes,1
+Grand,1-T,State School Board,14,REP,EMILY GREEN,11
+Grand,1-T,State School Board,14,LIB,RICHARD JENSEN,5
+Grand,1-T,State School Board,14,,Over Votes,1
+Grand,1-T,State School Board,14,,Under Votes,5
+Grand,1-T,Grand County Commission At-Large,,,BILL WINFIELD,12
+Grand,1-T,Grand County Commission At-Large,,,EMILY CAMPBELL,7
+Grand,1-T,Grand County Commission At-Large,,,Over Votes,1
+Grand,1-T,Grand County Commission At-Large,,,Under Votes,2
+Grand,1-T,Grand County Attorney,,,STEPHEN J. STOCKS,15
+Grand,1-T,Grand County Attorney,,,CHRISTINA SLOAN,5
+Grand,1-T,Grand County Attorney,,,Over Votes,0
+Grand,1-T,Grand County Attorney,,,Under Votes,2
+Grand,1-T,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,17
+Grand,1-T,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,1-T,Grand County Clerk/Auditor,,,Under Votes,5
+Grand,1-T,Grand County Sheriff,,,JAMISON WIGGINS,6
+Grand,1-T,Grand County Sheriff,,,CURT BREWER,13
+Grand,1-T,Grand County Sheriff,,,Over Votes,0
+Grand,1-T,Grand County Sheriff,,,Under Votes,3
+Grand,1-T,Grand County School District 1,,,KATHERINE WILLIAMS,16
+Grand,1-T,Grand County School District 1,,,Over Votes,0
+Grand,1-T,Grand County School District 1,,,Under Votes,6
+Grand,1-T,PAIGE PETERSEN Judicial Retention,,,YES,14
+Grand,1-T,PAIGE PETERSEN Judicial Retention,,,NO,3
+Grand,1-T,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,1-T,PAIGE PETERSEN Judicial Retention,,,Under Votes,5
+Grand,1-T,DON M.TORGERSON Judicial Retention,,,YES,11
+Grand,1-T,DON M.TORGERSON Judicial Retention,,,NO,6
+Grand,1-T,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,1-T,DON M.TORGERSON Judicial Retention,,,Under Votes,5
+Grand,1-T,GEORGE M. HARMOND Judicial Retention,,,YES,11
+Grand,1-T,GEORGE M. HARMOND Judicial Retention,,,NO,3
+Grand,1-T,GEORGE M. HARMOND Judicial Retention,,,Over Votes,1
+Grand,1-T,GEORGE M. HARMOND Judicial Retention,,,Under Votes,7
+Grand,1-T,Constitutional Amendment A,,,FOR,8
+Grand,1-T,Constitutional Amendment A,,,AGAINST,9
+Grand,1-T,Constitutional Amendment A,,,Over Votes,1
+Grand,1-T,Constitutional Amendment A,,,Under Votes,4
+Grand,1-U1,Registered Voters,,,,714
+Grand,1-U1,Ballots Cast,,,,583
+Grand,1-U1,Paper Ballots Cast,,,,564
+Grand,1-U1,Ballots Cast - Blank,,,,0
+Grand,1-U1,Paper Ballots Cast - Blank,,,,0
+Grand,1-U1,Cards Cast - Blank,,,,0
+Grand,1-U1,U.S. Senate,,IND,EVAN MCMULLIN,305
+Grand,1-U1,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,28
+Grand,1-U1,U.S. Senate,,REP,MIKE LEE,237
+Grand,1-U1,U.S. Senate,,IAP,TOMMY WILLIAMS,3
+Grand,1-U1,U.S. Senate,,,Write-ins,0
+Grand,1-U1,U.S. Senate,,,Over Votes,0
+Grand,1-U1,U.S. Senate,,,Under Votes,10
+Grand,1-U1,U.S. House,3,IAP,AARON HEINEMAN,7
+Grand,1-U1,U.S. House,3,DEM,GLENN J. WRIGHT,272
+Grand,1-U1,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,5
+Grand,1-U1,U.S. House,3,REP,JOHN CURTIS,269
+Grand,1-U1,U.S. House,3,LIB,MICHAEL STODDARD,16
+Grand,1-U1,U.S. House,3,,Over Votes,1
+Grand,1-U1,U.S. House,3,,Under Votes,13
+Grand,1-U1,State Treasurer,,REP,MARLO M. OAKS,291
+Grand,1-U1,State Treasurer,,UUP,THOMAS ALAN HORNE,64
+Grand,1-U1,State Treasurer,,IAP,WARREN T ROGERS,47
+Grand,1-U1,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,68
+Grand,1-U1,State Treasurer,,,Over Votes,0
+Grand,1-U1,State Treasurer,,,Under Votes,113
+Grand,1-U1,State House,69,REP,PHIL LYMAN,252
+Grand,1-U1,State House,69,DEM,DAVINA SMITH,322
+Grand,1-U1,State House,69,,Over Votes,0
+Grand,1-U1,State House,69,,Under Votes,9
+Grand,1-U1,State School Board,14,REP,EMILY GREEN,318
+Grand,1-U1,State School Board,14,LIB,RICHARD JENSEN,146
+Grand,1-U1,State School Board,14,,Over Votes,0
+Grand,1-U1,State School Board,14,,Under Votes,119
+Grand,1-U1,Grand County Commission At-Large,,,BILL WINFIELD,297
+Grand,1-U1,Grand County Commission At-Large,,,EMILY CAMPBELL,263
+Grand,1-U1,Grand County Commission At-Large,,,Over Votes,0
+Grand,1-U1,Grand County Commission At-Large,,,Under Votes,23
+Grand,1-U1,Grand County Attorney,,,STEPHEN J. STOCKS,327
+Grand,1-U1,Grand County Attorney,,,CHRISTINA SLOAN,232
+Grand,1-U1,Grand County Attorney,,,Over Votes,0
+Grand,1-U1,Grand County Attorney,,,Under Votes,24
+Grand,1-U1,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,418
+Grand,1-U1,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,1-U1,Grand County Clerk/Auditor,,,Under Votes,165
+Grand,1-U1,Grand County Sheriff,,,JAMISON WIGGINS,303
+Grand,1-U1,Grand County Sheriff,,,CURT BREWER,256
+Grand,1-U1,Grand County Sheriff,,,Over Votes,0
+Grand,1-U1,Grand County Sheriff,,,Under Votes,24
+Grand,1-U1,Grand County School District 1,,,KATHERINE WILLIAMS,484
+Grand,1-U1,Grand County School District 1,,,Over Votes,0
+Grand,1-U1,Grand County School District 1,,,Under Votes,99
+Grand,1-U1,Moab Valley Fire District,,,CHARLIE HARRISON,369
+Grand,1-U1,Moab Valley Fire District,,,SAMUEL VAN WETTER,169
+Grand,1-U1,Moab Valley Fire District,,,Over Votes,0
+Grand,1-U1,Moab Valley Fire District,,,Under Votes,45
+Grand,1-U1,PAIGE PETERSEN Judicial Retention,,,YES,410
+Grand,1-U1,PAIGE PETERSEN Judicial Retention,,,NO,66
+Grand,1-U1,PAIGE PETERSEN Judicial Retention,,,Over Votes,1
+Grand,1-U1,PAIGE PETERSEN Judicial Retention,,,Under Votes,106
+Grand,1-U1,DON M.TORGERSON Judicial Retention,,,YES,404
+Grand,1-U1,DON M.TORGERSON Judicial Retention,,,NO,93
+Grand,1-U1,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,1-U1,DON M.TORGERSON Judicial Retention,,,Under Votes,86
+Grand,1-U1,GEORGE M. HARMOND Judicial Retention,,,YES,379
+Grand,1-U1,GEORGE M. HARMOND Judicial Retention,,,NO,81
+Grand,1-U1,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,1-U1,GEORGE M. HARMOND Judicial Retention,,,Under Votes,123
+Grand,1-U1,Constitutional Amendment A,,,FOR,143
+Grand,1-U1,Constitutional Amendment A,,,AGAINST,383
+Grand,1-U1,Constitutional Amendment A,,,Over Votes,0
+Grand,1-U1,Constitutional Amendment A,,,Under Votes,57
+Grand,1-U2,Registered Voters,,,,221
+Grand,1-U2,Ballots Cast,,,,176
+Grand,1-U2,Paper Ballots Cast,,,,166
+Grand,1-U2,Ballots Cast - Blank,,,,0
+Grand,1-U2,Paper Ballots Cast - Blank,,,,0
+Grand,1-U2,Cards Cast - Blank,,,,0
+Grand,1-U2,U.S. Senate,,IND,EVAN MCMULLIN,91
+Grand,1-U2,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,6
+Grand,1-U2,U.S. Senate,,REP,MIKE LEE,76
+Grand,1-U2,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Grand,1-U2,U.S. Senate,,,Write-ins,0
+Grand,1-U2,U.S. Senate,,,Over Votes,0
+Grand,1-U2,U.S. Senate,,,Under Votes,3
+Grand,1-U2,U.S. House,3,IAP,AARON HEINEMAN,1
+Grand,1-U2,U.S. House,3,DEM,GLENN J. WRIGHT,78
+Grand,1-U2,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Grand,1-U2,U.S. House,3,REP,JOHN CURTIS,91
+Grand,1-U2,U.S. House,3,LIB,MICHAEL STODDARD,1
+Grand,1-U2,U.S. House,3,,Over Votes,0
+Grand,1-U2,U.S. House,3,,Under Votes,3
+Grand,1-U2,State Treasurer,,REP,MARLO M. OAKS,88
+Grand,1-U2,State Treasurer,,UUP,THOMAS ALAN HORNE,26
+Grand,1-U2,State Treasurer,,IAP,WARREN T ROGERS,11
+Grand,1-U2,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,25
+Grand,1-U2,State Treasurer,,,Over Votes,0
+Grand,1-U2,State Treasurer,,,Under Votes,26
+Grand,1-U2,State House,69,REP,PHIL LYMAN,81
+Grand,1-U2,State House,69,DEM,DAVINA SMITH,95
+Grand,1-U2,State House,69,,Over Votes,0
+Grand,1-U2,State House,69,,Under Votes,0
+Grand,1-U2,State School Board,14,REP,EMILY GREEN,96
+Grand,1-U2,State School Board,14,LIB,RICHARD JENSEN,45
+Grand,1-U2,State School Board,14,,Over Votes,0
+Grand,1-U2,State School Board,14,,Under Votes,35
+Grand,1-U2,Grand County Commission At-Large,,,BILL WINFIELD,89
+Grand,1-U2,Grand County Commission At-Large,,,EMILY CAMPBELL,80
+Grand,1-U2,Grand County Commission At-Large,,,Over Votes,0
+Grand,1-U2,Grand County Commission At-Large,,,Under Votes,7
+Grand,1-U2,Grand County Attorney,,,STEPHEN J. STOCKS,98
+Grand,1-U2,Grand County Attorney,,,CHRISTINA SLOAN,70
+Grand,1-U2,Grand County Attorney,,,Over Votes,0
+Grand,1-U2,Grand County Attorney,,,Under Votes,8
+Grand,1-U2,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,123
+Grand,1-U2,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,1-U2,Grand County Clerk/Auditor,,,Under Votes,53
+Grand,1-U2,Grand County Sheriff,,,JAMISON WIGGINS,95
+Grand,1-U2,Grand County Sheriff,,,CURT BREWER,69
+Grand,1-U2,Grand County Sheriff,,,Over Votes,0
+Grand,1-U2,Grand County Sheriff,,,Under Votes,12
+Grand,1-U2,Grand County School District 1,,,KATHERINE WILLIAMS,139
+Grand,1-U2,Grand County School District 1,,,Over Votes,0
+Grand,1-U2,Grand County School District 1,,,Under Votes,37
+Grand,1-U2,Moab Valley Fire District,,,CHARLIE HARRISON,120
+Grand,1-U2,Moab Valley Fire District,,,SAMUEL VAN WETTER,46
+Grand,1-U2,Moab Valley Fire District,,,Over Votes,0
+Grand,1-U2,Moab Valley Fire District,,,Under Votes,10
+Grand,1-U2,PAIGE PETERSEN Judicial Retention,,,YES,116
+Grand,1-U2,PAIGE PETERSEN Judicial Retention,,,NO,29
+Grand,1-U2,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,1-U2,PAIGE PETERSEN Judicial Retention,,,Under Votes,31
+Grand,1-U2,DON M.TORGERSON Judicial Retention,,,YES,116
+Grand,1-U2,DON M.TORGERSON Judicial Retention,,,NO,34
+Grand,1-U2,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,1-U2,DON M.TORGERSON Judicial Retention,,,Under Votes,26
+Grand,1-U2,GEORGE M. HARMOND Judicial Retention,,,YES,107
+Grand,1-U2,GEORGE M. HARMOND Judicial Retention,,,NO,39
+Grand,1-U2,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,1-U2,GEORGE M. HARMOND Judicial Retention,,,Under Votes,30
+Grand,1-U2,Constitutional Amendment A,,,FOR,41
+Grand,1-U2,Constitutional Amendment A,,,AGAINST,121
+Grand,1-U2,Constitutional Amendment A,,,Over Votes,0
+Grand,1-U2,Constitutional Amendment A,,,Under Votes,14
+Grand,1-U3,Registered Voters,,,,96
+Grand,1-U3,Ballots Cast,,,,64
+Grand,1-U3,Paper Ballots Cast,,,,61
+Grand,1-U3,Ballots Cast - Blank,,,,0
+Grand,1-U3,Paper Ballots Cast - Blank,,,,0
+Grand,1-U3,Cards Cast - Blank,,,,0
+Grand,1-U3,U.S. Senate,,IND,EVAN MCMULLIN,28
+Grand,1-U3,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+Grand,1-U3,U.S. Senate,,REP,MIKE LEE,33
+Grand,1-U3,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+Grand,1-U3,U.S. Senate,,,Write-ins,0
+Grand,1-U3,U.S. Senate,,,Over Votes,0
+Grand,1-U3,U.S. Senate,,,Under Votes,0
+Grand,1-U3,U.S. House,3,IAP,AARON HEINEMAN,0
+Grand,1-U3,U.S. House,3,DEM,GLENN J. WRIGHT,24
+Grand,1-U3,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,0
+Grand,1-U3,U.S. House,3,REP,JOHN CURTIS,36
+Grand,1-U3,U.S. House,3,LIB,MICHAEL STODDARD,2
+Grand,1-U3,U.S. House,3,,Over Votes,0
+Grand,1-U3,U.S. House,3,,Under Votes,2
+Grand,1-U3,State Treasurer,,REP,MARLO M. OAKS,38
+Grand,1-U3,State Treasurer,,UUP,THOMAS ALAN HORNE,2
+Grand,1-U3,State Treasurer,,IAP,WARREN T ROGERS,10
+Grand,1-U3,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,10
+Grand,1-U3,State Treasurer,,,Over Votes,0
+Grand,1-U3,State Treasurer,,,Under Votes,4
+Grand,1-U3,State House,69,REP,PHIL LYMAN,29
+Grand,1-U3,State House,69,DEM,DAVINA SMITH,35
+Grand,1-U3,State House,69,,Over Votes,0
+Grand,1-U3,State House,69,,Under Votes,0
+Grand,1-U3,State School Board,14,REP,EMILY GREEN,41
+Grand,1-U3,State School Board,14,LIB,RICHARD JENSEN,17
+Grand,1-U3,State School Board,14,,Over Votes,0
+Grand,1-U3,State School Board,14,,Under Votes,6
+Grand,1-U3,Grand County Commission At-Large,,,BILL WINFIELD,29
+Grand,1-U3,Grand County Commission At-Large,,,EMILY CAMPBELL,30
+Grand,1-U3,Grand County Commission At-Large,,,Over Votes,0
+Grand,1-U3,Grand County Commission At-Large,,,Under Votes,5
+Grand,1-U3,Grand County Attorney,,,STEPHEN J. STOCKS,29
+Grand,1-U3,Grand County Attorney,,,CHRISTINA SLOAN,33
+Grand,1-U3,Grand County Attorney,,,Over Votes,0
+Grand,1-U3,Grand County Attorney,,,Under Votes,2
+Grand,1-U3,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,48
+Grand,1-U3,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,1-U3,Grand County Clerk/Auditor,,,Under Votes,16
+Grand,1-U3,Grand County Sheriff,,,JAMISON WIGGINS,29
+Grand,1-U3,Grand County Sheriff,,,CURT BREWER,33
+Grand,1-U3,Grand County Sheriff,,,Over Votes,0
+Grand,1-U3,Grand County Sheriff,,,Under Votes,2
+Grand,1-U3,Grand County School District 1,,,KATHERINE WILLIAMS,48
+Grand,1-U3,Grand County School District 1,,,Over Votes,0
+Grand,1-U3,Grand County School District 1,,,Under Votes,16
+Grand,1-U3,PAIGE PETERSEN Judicial Retention,,,YES,44
+Grand,1-U3,PAIGE PETERSEN Judicial Retention,,,NO,7
+Grand,1-U3,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,1-U3,PAIGE PETERSEN Judicial Retention,,,Under Votes,13
+Grand,1-U3,DON M.TORGERSON Judicial Retention,,,YES,45
+Grand,1-U3,DON M.TORGERSON Judicial Retention,,,NO,7
+Grand,1-U3,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,1-U3,DON M.TORGERSON Judicial Retention,,,Under Votes,12
+Grand,1-U3,GEORGE M. HARMOND Judicial Retention,,,YES,42
+Grand,1-U3,GEORGE M. HARMOND Judicial Retention,,,NO,6
+Grand,1-U3,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,1-U3,GEORGE M. HARMOND Judicial Retention,,,Under Votes,16
+Grand,1-U3,Constitutional Amendment A,,,FOR,23
+Grand,1-U3,Constitutional Amendment A,,,AGAINST,36
+Grand,1-U3,Constitutional Amendment A,,,Over Votes,0
+Grand,1-U3,Constitutional Amendment A,,,Under Votes,5
+Grand,2-M1,Registered Voters,,,,349
+Grand,2-M1,Ballots Cast,,,,257
+Grand,2-M1,Paper Ballots Cast,,,,245
+Grand,2-M1,Ballots Cast - Blank,,,,0
+Grand,2-M1,Paper Ballots Cast - Blank,,,,0
+Grand,2-M1,Cards Cast - Blank,,,,0
+Grand,2-M1,U.S. Senate,,IND,EVAN MCMULLIN,136
+Grand,2-M1,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,15
+Grand,2-M1,U.S. Senate,,REP,MIKE LEE,94
+Grand,2-M1,U.S. Senate,,IAP,TOMMY WILLIAMS,8
+Grand,2-M1,U.S. Senate,,,Write-ins,0
+Grand,2-M1,U.S. Senate,,,Over Votes,0
+Grand,2-M1,U.S. Senate,,,Under Votes,4
+Grand,2-M1,U.S. House,3,IAP,AARON HEINEMAN,2
+Grand,2-M1,U.S. House,3,DEM,GLENN J. WRIGHT,118
+Grand,2-M1,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,6
+Grand,2-M1,U.S. House,3,REP,JOHN CURTIS,113
+Grand,2-M1,U.S. House,3,LIB,MICHAEL STODDARD,12
+Grand,2-M1,U.S. House,3,,Over Votes,0
+Grand,2-M1,U.S. House,3,,Under Votes,6
+Grand,2-M1,State Treasurer,,REP,MARLO M. OAKS,127
+Grand,2-M1,State Treasurer,,UUP,THOMAS ALAN HORNE,31
+Grand,2-M1,State Treasurer,,IAP,WARREN T ROGERS,27
+Grand,2-M1,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,32
+Grand,2-M1,State Treasurer,,,Over Votes,0
+Grand,2-M1,State Treasurer,,,Under Votes,40
+Grand,2-M1,State House,69,REP,PHIL LYMAN,100
+Grand,2-M1,State House,69,DEM,DAVINA SMITH,154
+Grand,2-M1,State House,69,,Over Votes,0
+Grand,2-M1,State House,69,,Under Votes,3
+Grand,2-M1,State School Board,14,REP,EMILY GREEN,143
+Grand,2-M1,State School Board,14,LIB,RICHARD JENSEN,64
+Grand,2-M1,State School Board,14,,Over Votes,0
+Grand,2-M1,State School Board,14,,Under Votes,50
+Grand,2-M1,Grand County Commission At-Large,,,BILL WINFIELD,130
+Grand,2-M1,Grand County Commission At-Large,,,EMILY CAMPBELL,120
+Grand,2-M1,Grand County Commission At-Large,,,Over Votes,0
+Grand,2-M1,Grand County Commission At-Large,,,Under Votes,7
+Grand,2-M1,Grand County Attorney,,,STEPHEN J. STOCKS,143
+Grand,2-M1,Grand County Attorney,,,CHRISTINA SLOAN,106
+Grand,2-M1,Grand County Attorney,,,Over Votes,0
+Grand,2-M1,Grand County Attorney,,,Under Votes,8
+Grand,2-M1,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,195
+Grand,2-M1,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,2-M1,Grand County Clerk/Auditor,,,Under Votes,62
+Grand,2-M1,Grand County Sheriff,,,JAMISON WIGGINS,125
+Grand,2-M1,Grand County Sheriff,,,CURT BREWER,122
+Grand,2-M1,Grand County Sheriff,,,Over Votes,0
+Grand,2-M1,Grand County Sheriff,,,Under Votes,10
+Grand,2-M1,Moab Valley Fire District,,,CHARLIE HARRISON,179
+Grand,2-M1,Moab Valley Fire District,,,SAMUEL VAN WETTER,64
+Grand,2-M1,Moab Valley Fire District,,,Over Votes,0
+Grand,2-M1,Moab Valley Fire District,,,Under Votes,14
+Grand,2-M1,PAIGE PETERSEN Judicial Retention,,,YES,176
+Grand,2-M1,PAIGE PETERSEN Judicial Retention,,,NO,39
+Grand,2-M1,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,2-M1,PAIGE PETERSEN Judicial Retention,,,Under Votes,42
+Grand,2-M1,DON M.TORGERSON Judicial Retention,,,YES,165
+Grand,2-M1,DON M.TORGERSON Judicial Retention,,,NO,64
+Grand,2-M1,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,2-M1,DON M.TORGERSON Judicial Retention,,,Under Votes,28
+Grand,2-M1,GEORGE M. HARMOND Judicial Retention,,,YES,155
+Grand,2-M1,GEORGE M. HARMOND Judicial Retention,,,NO,55
+Grand,2-M1,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,2-M1,GEORGE M. HARMOND Judicial Retention,,,Under Votes,47
+Grand,2-M1,Constitutional Amendment A,,,FOR,77
+Grand,2-M1,Constitutional Amendment A,,,AGAINST,149
+Grand,2-M1,Constitutional Amendment A,,,Over Votes,0
+Grand,2-M1,Constitutional Amendment A,,,Under Votes,31
+Grand,2-M2,Registered Voters,,,,279
+Grand,2-M2,Ballots Cast,,,,204
+Grand,2-M2,Paper Ballots Cast,,,,192
+Grand,2-M2,Ballots Cast - Blank,,,,0
+Grand,2-M2,Paper Ballots Cast - Blank,,,,0
+Grand,2-M2,Cards Cast - Blank,,,,0
+Grand,2-M2,U.S. Senate,,IND,EVAN MCMULLIN,87
+Grand,2-M2,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,11
+Grand,2-M2,U.S. Senate,,REP,MIKE LEE,96
+Grand,2-M2,U.S. Senate,,IAP,TOMMY WILLIAMS,8
+Grand,2-M2,U.S. Senate,,,Write-ins,0
+Grand,2-M2,U.S. Senate,,,Over Votes,0
+Grand,2-M2,U.S. Senate,,,Under Votes,2
+Grand,2-M2,U.S. House,3,IAP,AARON HEINEMAN,2
+Grand,2-M2,U.S. House,3,DEM,GLENN J. WRIGHT,83
+Grand,2-M2,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,3
+Grand,2-M2,U.S. House,3,REP,JOHN CURTIS,105
+Grand,2-M2,U.S. House,3,LIB,MICHAEL STODDARD,4
+Grand,2-M2,U.S. House,3,,Over Votes,0
+Grand,2-M2,U.S. House,3,,Under Votes,7
+Grand,2-M2,State Treasurer,,REP,MARLO M. OAKS,103
+Grand,2-M2,State Treasurer,,UUP,THOMAS ALAN HORNE,23
+Grand,2-M2,State Treasurer,,IAP,WARREN T ROGERS,26
+Grand,2-M2,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,21
+Grand,2-M2,State Treasurer,,,Over Votes,0
+Grand,2-M2,State Treasurer,,,Under Votes,31
+Grand,2-M2,State House,69,REP,PHIL LYMAN,98
+Grand,2-M2,State House,69,DEM,DAVINA SMITH,103
+Grand,2-M2,State House,69,,Over Votes,0
+Grand,2-M2,State House,69,,Under Votes,3
+Grand,2-M2,State School Board,14,REP,EMILY GREEN,121
+Grand,2-M2,State School Board,14,LIB,RICHARD JENSEN,45
+Grand,2-M2,State School Board,14,,Over Votes,0
+Grand,2-M2,State School Board,14,,Under Votes,38
+Grand,2-M2,Grand County Commission At-Large,,,BILL WINFIELD,115
+Grand,2-M2,Grand County Commission At-Large,,,EMILY CAMPBELL,86
+Grand,2-M2,Grand County Commission At-Large,,,Over Votes,0
+Grand,2-M2,Grand County Commission At-Large,,,Under Votes,3
+Grand,2-M2,Grand County Attorney,,,STEPHEN J. STOCKS,133
+Grand,2-M2,Grand County Attorney,,,CHRISTINA SLOAN,68
+Grand,2-M2,Grand County Attorney,,,Over Votes,0
+Grand,2-M2,Grand County Attorney,,,Under Votes,3
+Grand,2-M2,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,153
+Grand,2-M2,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,2-M2,Grand County Clerk/Auditor,,,Under Votes,51
+Grand,2-M2,Grand County Sheriff,,,JAMISON WIGGINS,102
+Grand,2-M2,Grand County Sheriff,,,CURT BREWER,95
+Grand,2-M2,Grand County Sheriff,,,Over Votes,0
+Grand,2-M2,Grand County Sheriff,,,Under Votes,7
+Grand,2-M2,Moab Valley Fire District,,,CHARLIE HARRISON,152
+Grand,2-M2,Moab Valley Fire District,,,SAMUEL VAN WETTER,40
+Grand,2-M2,Moab Valley Fire District,,,Over Votes,0
+Grand,2-M2,Moab Valley Fire District,,,Under Votes,12
+Grand,2-M2,PAIGE PETERSEN Judicial Retention,,,YES,134
+Grand,2-M2,PAIGE PETERSEN Judicial Retention,,,NO,39
+Grand,2-M2,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,2-M2,PAIGE PETERSEN Judicial Retention,,,Under Votes,31
+Grand,2-M2,DON M.TORGERSON Judicial Retention,,,YES,130
+Grand,2-M2,DON M.TORGERSON Judicial Retention,,,NO,51
+Grand,2-M2,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,2-M2,DON M.TORGERSON Judicial Retention,,,Under Votes,23
+Grand,2-M2,GEORGE M. HARMOND Judicial Retention,,,YES,129
+Grand,2-M2,GEORGE M. HARMOND Judicial Retention,,,NO,45
+Grand,2-M2,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,2-M2,GEORGE M. HARMOND Judicial Retention,,,Under Votes,30
+Grand,2-M2,Constitutional Amendment A,,,FOR,48
+Grand,2-M2,Constitutional Amendment A,,,AGAINST,127
+Grand,2-M2,Constitutional Amendment A,,,Over Votes,0
+Grand,2-M2,Constitutional Amendment A,,,Under Votes,29
+Grand,2-M3,Registered Voters,,,,316
+Grand,2-M3,Ballots Cast,,,,254
+Grand,2-M3,Paper Ballots Cast,,,,233
+Grand,2-M3,Ballots Cast - Blank,,,,0
+Grand,2-M3,Paper Ballots Cast - Blank,,,,0
+Grand,2-M3,Cards Cast - Blank,,,,0
+Grand,2-M3,U.S. Senate,,IND,EVAN MCMULLIN,163
+Grand,2-M3,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,11
+Grand,2-M3,U.S. Senate,,REP,MIKE LEE,73
+Grand,2-M3,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+Grand,2-M3,U.S. Senate,,,Write-ins,0
+Grand,2-M3,U.S. Senate,,,Over Votes,0
+Grand,2-M3,U.S. Senate,,,Under Votes,6
+Grand,2-M3,U.S. House,3,IAP,AARON HEINEMAN,2
+Grand,2-M3,U.S. House,3,DEM,GLENN J. WRIGHT,129
+Grand,2-M3,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,1
+Grand,2-M3,U.S. House,3,REP,JOHN CURTIS,106
+Grand,2-M3,U.S. House,3,LIB,MICHAEL STODDARD,9
+Grand,2-M3,U.S. House,3,,Over Votes,0
+Grand,2-M3,U.S. House,3,,Under Votes,7
+Grand,2-M3,State Treasurer,,REP,MARLO M. OAKS,114
+Grand,2-M3,State Treasurer,,UUP,THOMAS ALAN HORNE,40
+Grand,2-M3,State Treasurer,,IAP,WARREN T ROGERS,18
+Grand,2-M3,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,33
+Grand,2-M3,State Treasurer,,,Over Votes,0
+Grand,2-M3,State Treasurer,,,Under Votes,49
+Grand,2-M3,State House,69,REP,PHIL LYMAN,89
+Grand,2-M3,State House,69,DEM,DAVINA SMITH,163
+Grand,2-M3,State House,69,,Over Votes,0
+Grand,2-M3,State House,69,,Under Votes,2
+Grand,2-M3,State School Board,14,REP,EMILY GREEN,137
+Grand,2-M3,State School Board,14,LIB,RICHARD JENSEN,70
+Grand,2-M3,State School Board,14,,Over Votes,0
+Grand,2-M3,State School Board,14,,Under Votes,47
+Grand,2-M3,Grand County Commission At-Large,,,BILL WINFIELD,115
+Grand,2-M3,Grand County Commission At-Large,,,EMILY CAMPBELL,135
+Grand,2-M3,Grand County Commission At-Large,,,Over Votes,0
+Grand,2-M3,Grand County Commission At-Large,,,Under Votes,4
+Grand,2-M3,Grand County Attorney,,,STEPHEN J. STOCKS,120
+Grand,2-M3,Grand County Attorney,,,CHRISTINA SLOAN,129
+Grand,2-M3,Grand County Attorney,,,Over Votes,0
+Grand,2-M3,Grand County Attorney,,,Under Votes,5
+Grand,2-M3,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,203
+Grand,2-M3,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,2-M3,Grand County Clerk/Auditor,,,Under Votes,51
+Grand,2-M3,Grand County Sheriff,,,JAMISON WIGGINS,130
+Grand,2-M3,Grand County Sheriff,,,CURT BREWER,115
+Grand,2-M3,Grand County Sheriff,,,Over Votes,0
+Grand,2-M3,Grand County Sheriff,,,Under Votes,9
+Grand,2-M3,Moab Valley Fire District,,,CHARLIE HARRISON,159
+Grand,2-M3,Moab Valley Fire District,,,SAMUEL VAN WETTER,78
+Grand,2-M3,Moab Valley Fire District,,,Over Votes,0
+Grand,2-M3,Moab Valley Fire District,,,Under Votes,17
+Grand,2-M3,PAIGE PETERSEN Judicial Retention,,,YES,166
+Grand,2-M3,PAIGE PETERSEN Judicial Retention,,,NO,33
+Grand,2-M3,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,2-M3,PAIGE PETERSEN Judicial Retention,,,Under Votes,55
+Grand,2-M3,DON M.TORGERSON Judicial Retention,,,YES,161
+Grand,2-M3,DON M.TORGERSON Judicial Retention,,,NO,49
+Grand,2-M3,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,2-M3,DON M.TORGERSON Judicial Retention,,,Under Votes,44
+Grand,2-M3,GEORGE M. HARMOND Judicial Retention,,,YES,165
+Grand,2-M3,GEORGE M. HARMOND Judicial Retention,,,NO,34
+Grand,2-M3,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,2-M3,GEORGE M. HARMOND Judicial Retention,,,Under Votes,55
+Grand,2-M3,Constitutional Amendment A,,,FOR,79
+Grand,2-M3,Constitutional Amendment A,,,AGAINST,145
+Grand,2-M3,Constitutional Amendment A,,,Over Votes,0
+Grand,2-M3,Constitutional Amendment A,,,Under Votes,30
+Grand,2-U,Registered Voters,,,,41
+Grand,2-U,Ballots Cast,,,,27
+Grand,2-U,Paper Ballots Cast,,,,25
+Grand,2-U,Ballots Cast - Blank,,,,0
+Grand,2-U,Paper Ballots Cast - Blank,,,,0
+Grand,2-U,Cards Cast - Blank,,,,0
+Grand,2-U,U.S. Senate,,IND,EVAN MCMULLIN,17
+Grand,2-U,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
+Grand,2-U,U.S. Senate,,REP,MIKE LEE,9
+Grand,2-U,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Grand,2-U,U.S. Senate,,,Write-ins,0
+Grand,2-U,U.S. Senate,,,Over Votes,0
+Grand,2-U,U.S. Senate,,,Under Votes,0
+Grand,2-U,U.S. House,3,IAP,AARON HEINEMAN,0
+Grand,2-U,U.S. House,3,DEM,GLENN J. WRIGHT,12
+Grand,2-U,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,1
+Grand,2-U,U.S. House,3,REP,JOHN CURTIS,13
+Grand,2-U,U.S. House,3,LIB,MICHAEL STODDARD,1
+Grand,2-U,U.S. House,3,,Over Votes,0
+Grand,2-U,U.S. House,3,,Under Votes,0
+Grand,2-U,State Treasurer,,REP,MARLO M. OAKS,12
+Grand,2-U,State Treasurer,,UUP,THOMAS ALAN HORNE,7
+Grand,2-U,State Treasurer,,IAP,WARREN T ROGERS,5
+Grand,2-U,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,2
+Grand,2-U,State Treasurer,,,Over Votes,0
+Grand,2-U,State Treasurer,,,Under Votes,1
+Grand,2-U,State House,69,REP,PHIL LYMAN,11
+Grand,2-U,State House,69,DEM,DAVINA SMITH,15
+Grand,2-U,State House,69,,Over Votes,1
+Grand,2-U,State House,69,,Under Votes,0
+Grand,2-U,State School Board,14,REP,EMILY GREEN,15
+Grand,2-U,State School Board,14,LIB,RICHARD JENSEN,11
+Grand,2-U,State School Board,14,,Over Votes,0
+Grand,2-U,State School Board,14,,Under Votes,1
+Grand,2-U,Grand County Commission At-Large,,,BILL WINFIELD,12
+Grand,2-U,Grand County Commission At-Large,,,EMILY CAMPBELL,15
+Grand,2-U,Grand County Commission At-Large,,,Over Votes,0
+Grand,2-U,Grand County Commission At-Large,,,Under Votes,0
+Grand,2-U,Grand County Attorney,,,STEPHEN J. STOCKS,16
+Grand,2-U,Grand County Attorney,,,CHRISTINA SLOAN,11
+Grand,2-U,Grand County Attorney,,,Over Votes,0
+Grand,2-U,Grand County Attorney,,,Under Votes,0
+Grand,2-U,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,24
+Grand,2-U,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,2-U,Grand County Clerk/Auditor,,,Under Votes,3
+Grand,2-U,Grand County Sheriff,,,JAMISON WIGGINS,17
+Grand,2-U,Grand County Sheriff,,,CURT BREWER,10
+Grand,2-U,Grand County Sheriff,,,Over Votes,0
+Grand,2-U,Grand County Sheriff,,,Under Votes,0
+Grand,2-U,Moab Valley Fire District,,,CHARLIE HARRISON,25
+Grand,2-U,Moab Valley Fire District,,,SAMUEL VAN WETTER,2
+Grand,2-U,Moab Valley Fire District,,,Over Votes,0
+Grand,2-U,Moab Valley Fire District,,,Under Votes,0
+Grand,2-U,PAIGE PETERSEN Judicial Retention,,,YES,18
+Grand,2-U,PAIGE PETERSEN Judicial Retention,,,NO,6
+Grand,2-U,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,2-U,PAIGE PETERSEN Judicial Retention,,,Under Votes,3
+Grand,2-U,DON M.TORGERSON Judicial Retention,,,YES,21
+Grand,2-U,DON M.TORGERSON Judicial Retention,,,NO,5
+Grand,2-U,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,2-U,DON M.TORGERSON Judicial Retention,,,Under Votes,1
+Grand,2-U,GEORGE M. HARMOND Judicial Retention,,,YES,16
+Grand,2-U,GEORGE M. HARMOND Judicial Retention,,,NO,8
+Grand,2-U,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,2-U,GEORGE M. HARMOND Judicial Retention,,,Under Votes,3
+Grand,2-U,Constitutional Amendment A,,,FOR,6
+Grand,2-U,Constitutional Amendment A,,,AGAINST,21
+Grand,2-U,Constitutional Amendment A,,,Over Votes,0
+Grand,2-U,Constitutional Amendment A,,,Under Votes,0
+Grand,3-M1,Registered Voters,,,,426
+Grand,3-M1,Ballots Cast,,,,313
+Grand,3-M1,Paper Ballots Cast,,,,304
+Grand,3-M1,Ballots Cast - Blank,,,,1
+Grand,3-M1,Paper Ballots Cast - Blank,,,,1
+Grand,3-M1,Cards Cast - Blank,,,,1
+Grand,3-M1,U.S. Senate,,IND,EVAN MCMULLIN,158
+Grand,3-M1,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,17
+Grand,3-M1,U.S. Senate,,REP,MIKE LEE,122
+Grand,3-M1,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+Grand,3-M1,U.S. Senate,,,Write-ins,0
+Grand,3-M1,U.S. Senate,,,Over Votes,0
+Grand,3-M1,U.S. Senate,,,Under Votes,9
+Grand,3-M1,U.S. House,3,IAP,AARON HEINEMAN,8
+Grand,3-M1,U.S. House,3,DEM,GLENN J. WRIGHT,128
+Grand,3-M1,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,7
+Grand,3-M1,U.S. House,3,REP,JOHN CURTIS,147
+Grand,3-M1,U.S. House,3,LIB,MICHAEL STODDARD,14
+Grand,3-M1,U.S. House,3,,Over Votes,0
+Grand,3-M1,U.S. House,3,,Under Votes,9
+Grand,3-M1,State Treasurer,,REP,MARLO M. OAKS,159
+Grand,3-M1,State Treasurer,,UUP,THOMAS ALAN HORNE,19
+Grand,3-M1,State Treasurer,,IAP,WARREN T ROGERS,37
+Grand,3-M1,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,47
+Grand,3-M1,State Treasurer,,,Over Votes,0
+Grand,3-M1,State Treasurer,,,Under Votes,51
+Grand,3-M1,State House,69,REP,PHIL LYMAN,128
+Grand,3-M1,State House,69,DEM,DAVINA SMITH,181
+Grand,3-M1,State House,69,,Over Votes,0
+Grand,3-M1,State House,69,,Under Votes,4
+Grand,3-M1,State School Board,14,REP,EMILY GREEN,169
+Grand,3-M1,State School Board,14,LIB,RICHARD JENSEN,85
+Grand,3-M1,State School Board,14,,Over Votes,0
+Grand,3-M1,State School Board,14,,Under Votes,59
+Grand,3-M1,Grand County Commission At-Large,,,BILL WINFIELD,176
+Grand,3-M1,Grand County Commission At-Large,,,EMILY CAMPBELL,131
+Grand,3-M1,Grand County Commission At-Large,,,Over Votes,0
+Grand,3-M1,Grand County Commission At-Large,,,Under Votes,6
+Grand,3-M1,Grand County Attorney,,,STEPHEN J. STOCKS,202
+Grand,3-M1,Grand County Attorney,,,CHRISTINA SLOAN,101
+Grand,3-M1,Grand County Attorney,,,Over Votes,1
+Grand,3-M1,Grand County Attorney,,,Under Votes,9
+Grand,3-M1,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,218
+Grand,3-M1,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,3-M1,Grand County Clerk/Auditor,,,Under Votes,95
+Grand,3-M1,Grand County Sheriff,,,JAMISON WIGGINS,153
+Grand,3-M1,Grand County Sheriff,,,CURT BREWER,150
+Grand,3-M1,Grand County Sheriff,,,Over Votes,0
+Grand,3-M1,Grand County Sheriff,,,Under Votes,10
+Grand,3-M1,Moab Valley Fire District,,,CHARLIE HARRISON,217
+Grand,3-M1,Moab Valley Fire District,,,SAMUEL VAN WETTER,71
+Grand,3-M1,Moab Valley Fire District,,,Over Votes,0
+Grand,3-M1,Moab Valley Fire District,,,Under Votes,25
+Grand,3-M1,PAIGE PETERSEN Judicial Retention,,,YES,219
+Grand,3-M1,PAIGE PETERSEN Judicial Retention,,,NO,48
+Grand,3-M1,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,3-M1,PAIGE PETERSEN Judicial Retention,,,Under Votes,46
+Grand,3-M1,DON M.TORGERSON Judicial Retention,,,YES,212
+Grand,3-M1,DON M.TORGERSON Judicial Retention,,,NO,56
+Grand,3-M1,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,3-M1,DON M.TORGERSON Judicial Retention,,,Under Votes,45
+Grand,3-M1,GEORGE M. HARMOND Judicial Retention,,,YES,203
+Grand,3-M1,GEORGE M. HARMOND Judicial Retention,,,NO,56
+Grand,3-M1,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,3-M1,GEORGE M. HARMOND Judicial Retention,,,Under Votes,54
+Grand,3-M1,Constitutional Amendment A,,,FOR,94
+Grand,3-M1,Constitutional Amendment A,,,AGAINST,187
+Grand,3-M1,Constitutional Amendment A,,,Over Votes,0
+Grand,3-M1,Constitutional Amendment A,,,Under Votes,32
+Grand,3-M2,Registered Voters,,,,308
+Grand,3-M2,Ballots Cast,,,,235
+Grand,3-M2,Paper Ballots Cast,,,,220
+Grand,3-M2,Ballots Cast - Blank,,,,0
+Grand,3-M2,Paper Ballots Cast - Blank,,,,0
+Grand,3-M2,Cards Cast - Blank,,,,0
+Grand,3-M2,U.S. Senate,,IND,EVAN MCMULLIN,114
+Grand,3-M2,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,11
+Grand,3-M2,U.S. Senate,,REP,MIKE LEE,97
+Grand,3-M2,U.S. Senate,,IAP,TOMMY WILLIAMS,8
+Grand,3-M2,U.S. Senate,,,Write-ins,0
+Grand,3-M2,U.S. Senate,,,Over Votes,0
+Grand,3-M2,U.S. Senate,,,Under Votes,5
+Grand,3-M2,U.S. House,3,IAP,AARON HEINEMAN,5
+Grand,3-M2,U.S. House,3,DEM,GLENN J. WRIGHT,107
+Grand,3-M2,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Grand,3-M2,U.S. House,3,REP,JOHN CURTIS,109
+Grand,3-M2,U.S. House,3,LIB,MICHAEL STODDARD,7
+Grand,3-M2,U.S. House,3,,Over Votes,0
+Grand,3-M2,U.S. House,3,,Under Votes,5
+Grand,3-M2,State Treasurer,,REP,MARLO M. OAKS,109
+Grand,3-M2,State Treasurer,,UUP,THOMAS ALAN HORNE,25
+Grand,3-M2,State Treasurer,,IAP,WARREN T ROGERS,35
+Grand,3-M2,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,34
+Grand,3-M2,State Treasurer,,,Over Votes,0
+Grand,3-M2,State Treasurer,,,Under Votes,32
+Grand,3-M2,State House,69,REP,PHIL LYMAN,93
+Grand,3-M2,State House,69,DEM,DAVINA SMITH,140
+Grand,3-M2,State House,69,,Over Votes,0
+Grand,3-M2,State House,69,,Under Votes,2
+Grand,3-M2,State School Board,14,REP,EMILY GREEN,117
+Grand,3-M2,State School Board,14,LIB,RICHARD JENSEN,88
+Grand,3-M2,State School Board,14,,Over Votes,0
+Grand,3-M2,State School Board,14,,Under Votes,30
+Grand,3-M2,Grand County Commission At-Large,,,BILL WINFIELD,125
+Grand,3-M2,Grand County Commission At-Large,,,EMILY CAMPBELL,102
+Grand,3-M2,Grand County Commission At-Large,,,Over Votes,0
+Grand,3-M2,Grand County Commission At-Large,,,Under Votes,8
+Grand,3-M2,Grand County Attorney,,,STEPHEN J. STOCKS,150
+Grand,3-M2,Grand County Attorney,,,CHRISTINA SLOAN,78
+Grand,3-M2,Grand County Attorney,,,Over Votes,0
+Grand,3-M2,Grand County Attorney,,,Under Votes,7
+Grand,3-M2,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,164
+Grand,3-M2,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,3-M2,Grand County Clerk/Auditor,,,Under Votes,71
+Grand,3-M2,Grand County Sheriff,,,JAMISON WIGGINS,102
+Grand,3-M2,Grand County Sheriff,,,CURT BREWER,122
+Grand,3-M2,Grand County Sheriff,,,Over Votes,0
+Grand,3-M2,Grand County Sheriff,,,Under Votes,11
+Grand,3-M2,Moab Valley Fire District,,,CHARLIE HARRISON,146
+Grand,3-M2,Moab Valley Fire District,,,SAMUEL VAN WETTER,74
+Grand,3-M2,Moab Valley Fire District,,,Over Votes,0
+Grand,3-M2,Moab Valley Fire District,,,Under Votes,15
+Grand,3-M2,PAIGE PETERSEN Judicial Retention,,,YES,163
+Grand,3-M2,PAIGE PETERSEN Judicial Retention,,,NO,39
+Grand,3-M2,PAIGE PETERSEN Judicial Retention,,,Over Votes,1
+Grand,3-M2,PAIGE PETERSEN Judicial Retention,,,Under Votes,32
+Grand,3-M2,DON M.TORGERSON Judicial Retention,,,YES,157
+Grand,3-M2,DON M.TORGERSON Judicial Retention,,,NO,54
+Grand,3-M2,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,3-M2,DON M.TORGERSON Judicial Retention,,,Under Votes,24
+Grand,3-M2,GEORGE M. HARMOND Judicial Retention,,,YES,151
+Grand,3-M2,GEORGE M. HARMOND Judicial Retention,,,NO,48
+Grand,3-M2,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,3-M2,GEORGE M. HARMOND Judicial Retention,,,Under Votes,36
+Grand,3-M2,Constitutional Amendment A,,,FOR,63
+Grand,3-M2,Constitutional Amendment A,,,AGAINST,151
+Grand,3-M2,Constitutional Amendment A,,,Over Votes,1
+Grand,3-M2,Constitutional Amendment A,,,Under Votes,20
+Grand,3-M3,Registered Voters,,,,335
+Grand,3-M3,Ballots Cast,,,,258
+Grand,3-M3,Paper Ballots Cast,,,,244
+Grand,3-M3,Ballots Cast - Blank,,,,0
+Grand,3-M3,Paper Ballots Cast - Blank,,,,0
+Grand,3-M3,Cards Cast - Blank,,,,0
+Grand,3-M3,U.S. Senate,,IND,EVAN MCMULLIN,158
+Grand,3-M3,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,24
+Grand,3-M3,U.S. Senate,,REP,MIKE LEE,68
+Grand,3-M3,U.S. Senate,,IAP,TOMMY WILLIAMS,3
+Grand,3-M3,U.S. Senate,,,Write-ins,1
+Grand,3-M3,U.S. Senate,,,Over Votes,0
+Grand,3-M3,U.S. Senate,,,Under Votes,4
+Grand,3-M3,U.S. House,3,IAP,AARON HEINEMAN,5
+Grand,3-M3,U.S. House,3,DEM,GLENN J. WRIGHT,141
+Grand,3-M3,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Grand,3-M3,U.S. House,3,REP,JOHN CURTIS,90
+Grand,3-M3,U.S. House,3,LIB,MICHAEL STODDARD,9
+Grand,3-M3,U.S. House,3,,Over Votes,0
+Grand,3-M3,U.S. House,3,,Under Votes,11
+Grand,3-M3,State Treasurer,,REP,MARLO M. OAKS,87
+Grand,3-M3,State Treasurer,,UUP,THOMAS ALAN HORNE,36
+Grand,3-M3,State Treasurer,,IAP,WARREN T ROGERS,31
+Grand,3-M3,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,52
+Grand,3-M3,State Treasurer,,,Over Votes,0
+Grand,3-M3,State Treasurer,,,Under Votes,52
+Grand,3-M3,State House,69,REP,PHIL LYMAN,68
+Grand,3-M3,State House,69,DEM,DAVINA SMITH,182
+Grand,3-M3,State House,69,,Over Votes,0
+Grand,3-M3,State House,69,,Under Votes,8
+Grand,3-M3,State School Board,14,REP,EMILY GREEN,108
+Grand,3-M3,State School Board,14,LIB,RICHARD JENSEN,86
+Grand,3-M3,State School Board,14,,Over Votes,0
+Grand,3-M3,State School Board,14,,Under Votes,64
+Grand,3-M3,Grand County Commission At-Large,,,BILL WINFIELD,102
+Grand,3-M3,Grand County Commission At-Large,,,EMILY CAMPBELL,152
+Grand,3-M3,Grand County Commission At-Large,,,Over Votes,0
+Grand,3-M3,Grand County Commission At-Large,,,Under Votes,4
+Grand,3-M3,Grand County Attorney,,,STEPHEN J. STOCKS,114
+Grand,3-M3,Grand County Attorney,,,CHRISTINA SLOAN,134
+Grand,3-M3,Grand County Attorney,,,Over Votes,0
+Grand,3-M3,Grand County Attorney,,,Under Votes,10
+Grand,3-M3,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,176
+Grand,3-M3,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,3-M3,Grand County Clerk/Auditor,,,Under Votes,82
+Grand,3-M3,Grand County Sheriff,,,JAMISON WIGGINS,141
+Grand,3-M3,Grand County Sheriff,,,CURT BREWER,100
+Grand,3-M3,Grand County Sheriff,,,Over Votes,0
+Grand,3-M3,Grand County Sheriff,,,Under Votes,17
+Grand,3-M3,Moab Valley Fire District,,,CHARLIE HARRISON,127
+Grand,3-M3,Moab Valley Fire District,,,SAMUEL VAN WETTER,98
+Grand,3-M3,Moab Valley Fire District,,,Over Votes,0
+Grand,3-M3,Moab Valley Fire District,,,Under Votes,33
+Grand,3-M3,PAIGE PETERSEN Judicial Retention,,,YES,152
+Grand,3-M3,PAIGE PETERSEN Judicial Retention,,,NO,55
+Grand,3-M3,PAIGE PETERSEN Judicial Retention,,,Over Votes,1
+Grand,3-M3,PAIGE PETERSEN Judicial Retention,,,Under Votes,50
+Grand,3-M3,DON M.TORGERSON Judicial Retention,,,YES,145
+Grand,3-M3,DON M.TORGERSON Judicial Retention,,,NO,70
+Grand,3-M3,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,3-M3,DON M.TORGERSON Judicial Retention,,,Under Votes,43
+Grand,3-M3,GEORGE M. HARMOND Judicial Retention,,,YES,142
+Grand,3-M3,GEORGE M. HARMOND Judicial Retention,,,NO,66
+Grand,3-M3,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,3-M3,GEORGE M. HARMOND Judicial Retention,,,Under Votes,50
+Grand,3-M3,Constitutional Amendment A,,,FOR,58
+Grand,3-M3,Constitutional Amendment A,,,AGAINST,171
+Grand,3-M3,Constitutional Amendment A,,,Over Votes,0
+Grand,3-M3,Constitutional Amendment A,,,Under Votes,29
+Grand,3-M4,Registered Voters,,,,67
+Grand,3-M4,Ballots Cast,,,,55
+Grand,3-M4,Paper Ballots Cast,,,,50
+Grand,3-M4,Ballots Cast - Blank,,,,0
+Grand,3-M4,Paper Ballots Cast - Blank,,,,0
+Grand,3-M4,Cards Cast - Blank,,,,0
+Grand,3-M4,U.S. Senate,,IND,EVAN MCMULLIN,36
+Grand,3-M4,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+Grand,3-M4,U.S. Senate,,REP,MIKE LEE,13
+Grand,3-M4,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+Grand,3-M4,U.S. Senate,,,Write-ins,0
+Grand,3-M4,U.S. Senate,,,Over Votes,0
+Grand,3-M4,U.S. Senate,,,Under Votes,1
+Grand,3-M4,U.S. House,3,IAP,AARON HEINEMAN,1
+Grand,3-M4,U.S. House,3,DEM,GLENN J. WRIGHT,36
+Grand,3-M4,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,0
+Grand,3-M4,U.S. House,3,REP,JOHN CURTIS,16
+Grand,3-M4,U.S. House,3,LIB,MICHAEL STODDARD,1
+Grand,3-M4,U.S. House,3,,Over Votes,0
+Grand,3-M4,U.S. House,3,,Under Votes,1
+Grand,3-M4,State Treasurer,,REP,MARLO M. OAKS,21
+Grand,3-M4,State Treasurer,,UUP,THOMAS ALAN HORNE,6
+Grand,3-M4,State Treasurer,,IAP,WARREN T ROGERS,4
+Grand,3-M4,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,15
+Grand,3-M4,State Treasurer,,,Over Votes,0
+Grand,3-M4,State Treasurer,,,Under Votes,9
+Grand,3-M4,State House,69,REP,PHIL LYMAN,13
+Grand,3-M4,State House,69,DEM,DAVINA SMITH,42
+Grand,3-M4,State House,69,,Over Votes,0
+Grand,3-M4,State House,69,,Under Votes,0
+Grand,3-M4,State School Board,14,REP,EMILY GREEN,21
+Grand,3-M4,State School Board,14,LIB,RICHARD JENSEN,20
+Grand,3-M4,State School Board,14,,Over Votes,0
+Grand,3-M4,State School Board,14,,Under Votes,14
+Grand,3-M4,Grand County Commission At-Large,,,BILL WINFIELD,27
+Grand,3-M4,Grand County Commission At-Large,,,EMILY CAMPBELL,26
+Grand,3-M4,Grand County Commission At-Large,,,Over Votes,0
+Grand,3-M4,Grand County Commission At-Large,,,Under Votes,2
+Grand,3-M4,Grand County Attorney,,,STEPHEN J. STOCKS,27
+Grand,3-M4,Grand County Attorney,,,CHRISTINA SLOAN,26
+Grand,3-M4,Grand County Attorney,,,Over Votes,0
+Grand,3-M4,Grand County Attorney,,,Under Votes,2
+Grand,3-M4,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,32
+Grand,3-M4,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,3-M4,Grand County Clerk/Auditor,,,Under Votes,23
+Grand,3-M4,Grand County Sheriff,,,JAMISON WIGGINS,32
+Grand,3-M4,Grand County Sheriff,,,CURT BREWER,19
+Grand,3-M4,Grand County Sheriff,,,Over Votes,0
+Grand,3-M4,Grand County Sheriff,,,Under Votes,4
+Grand,3-M4,Moab Valley Fire District,,,CHARLIE HARRISON,29
+Grand,3-M4,Moab Valley Fire District,,,SAMUEL VAN WETTER,20
+Grand,3-M4,Moab Valley Fire District,,,Over Votes,0
+Grand,3-M4,Moab Valley Fire District,,,Under Votes,6
+Grand,3-M4,PAIGE PETERSEN Judicial Retention,,,YES,36
+Grand,3-M4,PAIGE PETERSEN Judicial Retention,,,NO,12
+Grand,3-M4,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,3-M4,PAIGE PETERSEN Judicial Retention,,,Under Votes,7
+Grand,3-M4,DON M.TORGERSON Judicial Retention,,,YES,38
+Grand,3-M4,DON M.TORGERSON Judicial Retention,,,NO,11
+Grand,3-M4,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,3-M4,DON M.TORGERSON Judicial Retention,,,Under Votes,6
+Grand,3-M4,GEORGE M. HARMOND Judicial Retention,,,YES,33
+Grand,3-M4,GEORGE M. HARMOND Judicial Retention,,,NO,16
+Grand,3-M4,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,3-M4,GEORGE M. HARMOND Judicial Retention,,,Under Votes,6
+Grand,3-M4,Constitutional Amendment A,,,FOR,11
+Grand,3-M4,Constitutional Amendment A,,,AGAINST,38
+Grand,3-M4,Constitutional Amendment A,,,Over Votes,0
+Grand,3-M4,Constitutional Amendment A,,,Under Votes,6
+Grand,3-U,Registered Voters,,,,0
+Grand,3-U,Ballots Cast,,,,0
+Grand,3-U,Paper Ballots Cast,,,,0
+Grand,3-U,Ballots Cast - Blank,,,,0
+Grand,3-U,Paper Ballots Cast - Blank,,,,0
+Grand,3-U,Cards Cast - Blank,,,,0
+Grand,3-U,U.S. Senate,,IND,EVAN MCMULLIN,0
+Grand,3-U,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,0
+Grand,3-U,U.S. Senate,,REP,MIKE LEE,0
+Grand,3-U,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Grand,3-U,U.S. Senate,,,Write-ins,0
+Grand,3-U,U.S. Senate,,,Over Votes,0
+Grand,3-U,U.S. Senate,,,Under Votes,0
+Grand,3-U,U.S. House,3,IAP,AARON HEINEMAN,0
+Grand,3-U,U.S. House,3,DEM,GLENN J. WRIGHT,0
+Grand,3-U,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,0
+Grand,3-U,U.S. House,3,REP,JOHN CURTIS,0
+Grand,3-U,U.S. House,3,LIB,MICHAEL STODDARD,0
+Grand,3-U,U.S. House,3,,Over Votes,0
+Grand,3-U,U.S. House,3,,Under Votes,0
+Grand,3-U,State Treasurer,,REP,MARLO M. OAKS,0
+Grand,3-U,State Treasurer,,UUP,THOMAS ALAN HORNE,0
+Grand,3-U,State Treasurer,,IAP,WARREN T ROGERS,0
+Grand,3-U,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,0
+Grand,3-U,State Treasurer,,,Over Votes,0
+Grand,3-U,State Treasurer,,,Under Votes,0
+Grand,3-U,State House,69,REP,PHIL LYMAN,0
+Grand,3-U,State House,69,DEM,DAVINA SMITH,0
+Grand,3-U,State House,69,,Over Votes,0
+Grand,3-U,State House,69,,Under Votes,0
+Grand,3-U,State School Board,14,REP,EMILY GREEN,0
+Grand,3-U,State School Board,14,LIB,RICHARD JENSEN,0
+Grand,3-U,State School Board,14,,Over Votes,0
+Grand,3-U,State School Board,14,,Under Votes,0
+Grand,3-U,Grand County Commission At-Large,,,BILL WINFIELD,0
+Grand,3-U,Grand County Commission At-Large,,,EMILY CAMPBELL,0
+Grand,3-U,Grand County Commission At-Large,,,Over Votes,0
+Grand,3-U,Grand County Commission At-Large,,,Under Votes,0
+Grand,3-U,Grand County Attorney,,,STEPHEN J. STOCKS,0
+Grand,3-U,Grand County Attorney,,,CHRISTINA SLOAN,0
+Grand,3-U,Grand County Attorney,,,Over Votes,0
+Grand,3-U,Grand County Attorney,,,Under Votes,0
+Grand,3-U,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,0
+Grand,3-U,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,3-U,Grand County Clerk/Auditor,,,Under Votes,0
+Grand,3-U,Grand County Sheriff,,,JAMISON WIGGINS,0
+Grand,3-U,Grand County Sheriff,,,CURT BREWER,0
+Grand,3-U,Grand County Sheriff,,,Over Votes,0
+Grand,3-U,Grand County Sheriff,,,Under Votes,0
+Grand,3-U,Moab Valley Fire District,,,CHARLIE HARRISON,0
+Grand,3-U,Moab Valley Fire District,,,SAMUEL VAN WETTER,0
+Grand,3-U,Moab Valley Fire District,,,Over Votes,0
+Grand,3-U,Moab Valley Fire District,,,Under Votes,0
+Grand,3-U,PAIGE PETERSEN Judicial Retention,,,YES,0
+Grand,3-U,PAIGE PETERSEN Judicial Retention,,,NO,0
+Grand,3-U,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,3-U,PAIGE PETERSEN Judicial Retention,,,Under Votes,0
+Grand,3-U,DON M.TORGERSON Judicial Retention,,,YES,0
+Grand,3-U,DON M.TORGERSON Judicial Retention,,,NO,0
+Grand,3-U,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,3-U,DON M.TORGERSON Judicial Retention,,,Under Votes,0
+Grand,3-U,GEORGE M. HARMOND Judicial Retention,,,YES,0
+Grand,3-U,GEORGE M. HARMOND Judicial Retention,,,NO,0
+Grand,3-U,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,3-U,GEORGE M. HARMOND Judicial Retention,,,Under Votes,0
+Grand,3-U,Constitutional Amendment A,,,FOR,0
+Grand,3-U,Constitutional Amendment A,,,AGAINST,0
+Grand,3-U,Constitutional Amendment A,,,Over Votes,0
+Grand,3-U,Constitutional Amendment A,,,Under Votes,0
+Grand,4-M1,Registered Voters,,,,616
+Grand,4-M1,Ballots Cast,,,,521
+Grand,4-M1,Paper Ballots Cast,,,,480
+Grand,4-M1,Ballots Cast - Blank,,,,0
+Grand,4-M1,Paper Ballots Cast - Blank,,,,0
+Grand,4-M1,Cards Cast - Blank,,,,0
+Grand,4-M1,U.S. Senate,,IND,EVAN MCMULLIN,285
+Grand,4-M1,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,31
+Grand,4-M1,U.S. Senate,,REP,MIKE LEE,184
+Grand,4-M1,U.S. Senate,,IAP,TOMMY WILLIAMS,8
+Grand,4-M1,U.S. Senate,,,Write-ins,0
+Grand,4-M1,U.S. Senate,,,Over Votes,0
+Grand,4-M1,U.S. Senate,,,Under Votes,13
+Grand,4-M1,U.S. House,3,IAP,AARON HEINEMAN,10
+Grand,4-M1,U.S. House,3,DEM,GLENN J. WRIGHT,275
+Grand,4-M1,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Grand,4-M1,U.S. House,3,REP,JOHN CURTIS,216
+Grand,4-M1,U.S. House,3,LIB,MICHAEL STODDARD,6
+Grand,4-M1,U.S. House,3,,Over Votes,0
+Grand,4-M1,U.S. House,3,,Under Votes,12
+Grand,4-M1,State Treasurer,,REP,MARLO M. OAKS,251
+Grand,4-M1,State Treasurer,,UUP,THOMAS ALAN HORNE,50
+Grand,4-M1,State Treasurer,,IAP,WARREN T ROGERS,43
+Grand,4-M1,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,63
+Grand,4-M1,State Treasurer,,,Over Votes,0
+Grand,4-M1,State Treasurer,,,Under Votes,114
+Grand,4-M1,State House,69,REP,PHIL LYMAN,183
+Grand,4-M1,State House,69,DEM,DAVINA SMITH,331
+Grand,4-M1,State House,69,,Over Votes,0
+Grand,4-M1,State House,69,,Under Votes,7
+Grand,4-M1,State School Board,14,REP,EMILY GREEN,273
+Grand,4-M1,State School Board,14,LIB,RICHARD JENSEN,131
+Grand,4-M1,State School Board,14,,Over Votes,1
+Grand,4-M1,State School Board,14,,Under Votes,116
+Grand,4-M1,Grand County Commission At-Large,,,BILL WINFIELD,240
+Grand,4-M1,Grand County Commission At-Large,,,EMILY CAMPBELL,269
+Grand,4-M1,Grand County Commission At-Large,,,Over Votes,0
+Grand,4-M1,Grand County Commission At-Large,,,Under Votes,12
+Grand,4-M1,Grand County Commission District 4,,REP,LORI MCFARLAND,231
+Grand,4-M1,Grand County Commission District 4,,,MARY MCGANN,280
+Grand,4-M1,Grand County Commission District 4,,,Over Votes,0
+Grand,4-M1,Grand County Commission District 4,,,Under Votes,10
+Grand,4-M1,Grand County Attorney,,,STEPHEN J. STOCKS,250
+Grand,4-M1,Grand County Attorney,,,CHRISTINA SLOAN,256
+Grand,4-M1,Grand County Attorney,,,Over Votes,0
+Grand,4-M1,Grand County Attorney,,,Under Votes,15
+Grand,4-M1,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,376
+Grand,4-M1,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,4-M1,Grand County Clerk/Auditor,,,Under Votes,145
+Grand,4-M1,Grand County Sheriff,,,JAMISON WIGGINS,275
+Grand,4-M1,Grand County Sheriff,,,CURT BREWER,214
+Grand,4-M1,Grand County Sheriff,,,Over Votes,0
+Grand,4-M1,Grand County Sheriff,,,Under Votes,32
+Grand,4-M1,Moab Valley Fire District,,,CHARLIE HARRISON,301
+Grand,4-M1,Moab Valley Fire District,,,SAMUEL VAN WETTER,178
+Grand,4-M1,Moab Valley Fire District,,,Over Votes,0
+Grand,4-M1,Moab Valley Fire District,,,Under Votes,42
+Grand,4-M1,PAIGE PETERSEN Judicial Retention,,,YES,334
+Grand,4-M1,PAIGE PETERSEN Judicial Retention,,,NO,75
+Grand,4-M1,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,4-M1,PAIGE PETERSEN Judicial Retention,,,Under Votes,112
+Grand,4-M1,DON M.TORGERSON Judicial Retention,,,YES,332
+Grand,4-M1,DON M.TORGERSON Judicial Retention,,,NO,88
+Grand,4-M1,DON M.TORGERSON Judicial Retention,,,Over Votes,1
+Grand,4-M1,DON M.TORGERSON Judicial Retention,,,Under Votes,100
+Grand,4-M1,GEORGE M. HARMOND Judicial Retention,,,YES,312
+Grand,4-M1,GEORGE M. HARMOND Judicial Retention,,,NO,81
+Grand,4-M1,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,4-M1,GEORGE M. HARMOND Judicial Retention,,,Under Votes,128
+Grand,4-M1,Constitutional Amendment A,,,FOR,123
+Grand,4-M1,Constitutional Amendment A,,,AGAINST,337
+Grand,4-M1,Constitutional Amendment A,,,Over Votes,0
+Grand,4-M1,Constitutional Amendment A,,,Under Votes,61
+Grand,4-M2,Registered Voters,,,,333
+Grand,4-M2,Ballots Cast,,,,251
+Grand,4-M2,Paper Ballots Cast,,,,237
+Grand,4-M2,Ballots Cast - Blank,,,,0
+Grand,4-M2,Paper Ballots Cast - Blank,,,,0
+Grand,4-M2,Cards Cast - Blank,,,,0
+Grand,4-M2,U.S. Senate,,IND,EVAN MCMULLIN,146
+Grand,4-M2,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,23
+Grand,4-M2,U.S. Senate,,REP,MIKE LEE,69
+Grand,4-M2,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Grand,4-M2,U.S. Senate,,,Write-ins,0
+Grand,4-M2,U.S. Senate,,,Over Votes,0
+Grand,4-M2,U.S. Senate,,,Under Votes,11
+Grand,4-M2,U.S. House,3,IAP,AARON HEINEMAN,3
+Grand,4-M2,U.S. House,3,DEM,GLENN J. WRIGHT,131
+Grand,4-M2,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,0
+Grand,4-M2,U.S. House,3,REP,JOHN CURTIS,94
+Grand,4-M2,U.S. House,3,LIB,MICHAEL STODDARD,9
+Grand,4-M2,U.S. House,3,,Over Votes,0
+Grand,4-M2,U.S. House,3,,Under Votes,14
+Grand,4-M2,State Treasurer,,REP,MARLO M. OAKS,111
+Grand,4-M2,State Treasurer,,UUP,THOMAS ALAN HORNE,28
+Grand,4-M2,State Treasurer,,IAP,WARREN T ROGERS,17
+Grand,4-M2,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,32
+Grand,4-M2,State Treasurer,,,Over Votes,0
+Grand,4-M2,State Treasurer,,,Under Votes,63
+Grand,4-M2,State House,69,REP,PHIL LYMAN,72
+Grand,4-M2,State House,69,DEM,DAVINA SMITH,171
+Grand,4-M2,State House,69,,Over Votes,0
+Grand,4-M2,State House,69,,Under Votes,8
+Grand,4-M2,State School Board,14,REP,EMILY GREEN,125
+Grand,4-M2,State School Board,14,LIB,RICHARD JENSEN,83
+Grand,4-M2,State School Board,14,,Over Votes,0
+Grand,4-M2,State School Board,14,,Under Votes,43
+Grand,4-M2,Grand County Commission At-Large,,,BILL WINFIELD,102
+Grand,4-M2,Grand County Commission At-Large,,,EMILY CAMPBELL,141
+Grand,4-M2,Grand County Commission At-Large,,,Over Votes,0
+Grand,4-M2,Grand County Commission At-Large,,,Under Votes,8
+Grand,4-M2,Grand County Commission District 4,,REP,LORI MCFARLAND,101
+Grand,4-M2,Grand County Commission District 4,,,MARY MCGANN,137
+Grand,4-M2,Grand County Commission District 4,,,Over Votes,0
+Grand,4-M2,Grand County Commission District 4,,,Under Votes,13
+Grand,4-M2,Grand County Attorney,,,STEPHEN J. STOCKS,130
+Grand,4-M2,Grand County Attorney,,,CHRISTINA SLOAN,114
+Grand,4-M2,Grand County Attorney,,,Over Votes,0
+Grand,4-M2,Grand County Attorney,,,Under Votes,7
+Grand,4-M2,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,180
+Grand,4-M2,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,4-M2,Grand County Clerk/Auditor,,,Under Votes,71
+Grand,4-M2,Grand County Sheriff,,,JAMISON WIGGINS,119
+Grand,4-M2,Grand County Sheriff,,,CURT BREWER,113
+Grand,4-M2,Grand County Sheriff,,,Over Votes,0
+Grand,4-M2,Grand County Sheriff,,,Under Votes,19
+Grand,4-M2,Moab Valley Fire District,,,CHARLIE HARRISON,148
+Grand,4-M2,Moab Valley Fire District,,,SAMUEL VAN WETTER,80
+Grand,4-M2,Moab Valley Fire District,,,Over Votes,0
+Grand,4-M2,Moab Valley Fire District,,,Under Votes,23
+Grand,4-M2,PAIGE PETERSEN Judicial Retention,,,YES,175
+Grand,4-M2,PAIGE PETERSEN Judicial Retention,,,NO,34
+Grand,4-M2,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,4-M2,PAIGE PETERSEN Judicial Retention,,,Under Votes,42
+Grand,4-M2,DON M.TORGERSON Judicial Retention,,,YES,172
+Grand,4-M2,DON M.TORGERSON Judicial Retention,,,NO,40
+Grand,4-M2,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,4-M2,DON M.TORGERSON Judicial Retention,,,Under Votes,39
+Grand,4-M2,GEORGE M. HARMOND Judicial Retention,,,YES,163
+Grand,4-M2,GEORGE M. HARMOND Judicial Retention,,,NO,43
+Grand,4-M2,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,4-M2,GEORGE M. HARMOND Judicial Retention,,,Under Votes,45
+Grand,4-M2,Constitutional Amendment A,,,FOR,78
+Grand,4-M2,Constitutional Amendment A,,,AGAINST,130
+Grand,4-M2,Constitutional Amendment A,,,Over Votes,0
+Grand,4-M2,Constitutional Amendment A,,,Under Votes,43
+Grand,4-U,Registered Voters,,,,352
+Grand,4-U,Ballots Cast,,,,255
+Grand,4-U,Paper Ballots Cast,,,,238
+Grand,4-U,Ballots Cast - Blank,,,,0
+Grand,4-U,Paper Ballots Cast - Blank,,,,0
+Grand,4-U,Cards Cast - Blank,,,,0
+Grand,4-U,U.S. Senate,,IND,EVAN MCMULLIN,122
+Grand,4-U,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,15
+Grand,4-U,U.S. Senate,,REP,MIKE LEE,110
+Grand,4-U,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Grand,4-U,U.S. Senate,,,Write-ins,0
+Grand,4-U,U.S. Senate,,,Over Votes,0
+Grand,4-U,U.S. Senate,,,Under Votes,6
+Grand,4-U,U.S. House,3,IAP,AARON HEINEMAN,3
+Grand,4-U,U.S. House,3,DEM,GLENN J. WRIGHT,117
+Grand,4-U,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,7
+Grand,4-U,U.S. House,3,REP,JOHN CURTIS,116
+Grand,4-U,U.S. House,3,LIB,MICHAEL STODDARD,6
+Grand,4-U,U.S. House,3,,Over Votes,0
+Grand,4-U,U.S. House,3,,Under Votes,6
+Grand,4-U,State Treasurer,,REP,MARLO M. OAKS,121
+Grand,4-U,State Treasurer,,UUP,THOMAS ALAN HORNE,30
+Grand,4-U,State Treasurer,,IAP,WARREN T ROGERS,24
+Grand,4-U,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,43
+Grand,4-U,State Treasurer,,,Over Votes,0
+Grand,4-U,State Treasurer,,,Under Votes,37
+Grand,4-U,State House,69,REP,PHIL LYMAN,113
+Grand,4-U,State House,69,DEM,DAVINA SMITH,139
+Grand,4-U,State House,69,,Over Votes,0
+Grand,4-U,State House,69,,Under Votes,3
+Grand,4-U,State School Board,14,REP,EMILY GREEN,138
+Grand,4-U,State School Board,14,LIB,RICHARD JENSEN,75
+Grand,4-U,State School Board,14,,Over Votes,0
+Grand,4-U,State School Board,14,,Under Votes,42
+Grand,4-U,Grand County Commission At-Large,,,BILL WINFIELD,124
+Grand,4-U,Grand County Commission At-Large,,,EMILY CAMPBELL,125
+Grand,4-U,Grand County Commission At-Large,,,Over Votes,0
+Grand,4-U,Grand County Commission At-Large,,,Under Votes,6
+Grand,4-U,Grand County Commission District 4,,REP,LORI MCFARLAND,131
+Grand,4-U,Grand County Commission District 4,,,MARY MCGANN,120
+Grand,4-U,Grand County Commission District 4,,,Over Votes,0
+Grand,4-U,Grand County Commission District 4,,,Under Votes,4
+Grand,4-U,Grand County Attorney,,,STEPHEN J. STOCKS,156
+Grand,4-U,Grand County Attorney,,,CHRISTINA SLOAN,94
+Grand,4-U,Grand County Attorney,,,Over Votes,0
+Grand,4-U,Grand County Attorney,,,Under Votes,5
+Grand,4-U,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,185
+Grand,4-U,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,4-U,Grand County Clerk/Auditor,,,Under Votes,70
+Grand,4-U,Grand County Sheriff,,,JAMISON WIGGINS,149
+Grand,4-U,Grand County Sheriff,,,CURT BREWER,87
+Grand,4-U,Grand County Sheriff,,,Over Votes,0
+Grand,4-U,Grand County Sheriff,,,Under Votes,19
+Grand,4-U,Moab Valley Fire District,,,CHARLIE HARRISON,171
+Grand,4-U,Moab Valley Fire District,,,SAMUEL VAN WETTER,68
+Grand,4-U,Moab Valley Fire District,,,Over Votes,0
+Grand,4-U,Moab Valley Fire District,,,Under Votes,16
+Grand,4-U,PAIGE PETERSEN Judicial Retention,,,YES,168
+Grand,4-U,PAIGE PETERSEN Judicial Retention,,,NO,57
+Grand,4-U,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,4-U,PAIGE PETERSEN Judicial Retention,,,Under Votes,30
+Grand,4-U,DON M.TORGERSON Judicial Retention,,,YES,175
+Grand,4-U,DON M.TORGERSON Judicial Retention,,,NO,55
+Grand,4-U,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,4-U,DON M.TORGERSON Judicial Retention,,,Under Votes,25
+Grand,4-U,GEORGE M. HARMOND Judicial Retention,,,YES,166
+Grand,4-U,GEORGE M. HARMOND Judicial Retention,,,NO,57
+Grand,4-U,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,4-U,GEORGE M. HARMOND Judicial Retention,,,Under Votes,32
+Grand,4-U,Constitutional Amendment A,,,FOR,64
+Grand,4-U,Constitutional Amendment A,,,AGAINST,165
+Grand,4-U,Constitutional Amendment A,,,Over Votes,0
+Grand,4-U,Constitutional Amendment A,,,Under Votes,26
+Grand,5-M,Registered Voters,,,,0
+Grand,5-M,Ballots Cast,,,,0
+Grand,5-M,Paper Ballots Cast,,,,0
+Grand,5-M,Ballots Cast - Blank,,,,0
+Grand,5-M,Paper Ballots Cast - Blank,,,,0
+Grand,5-M,Cards Cast - Blank,,,,0
+Grand,5-M,U.S. Senate,,IND,EVAN MCMULLIN,0
+Grand,5-M,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,0
+Grand,5-M,U.S. Senate,,REP,MIKE LEE,0
+Grand,5-M,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Grand,5-M,U.S. Senate,,,Write-ins,0
+Grand,5-M,U.S. Senate,,,Over Votes,0
+Grand,5-M,U.S. Senate,,,Under Votes,0
+Grand,5-M,U.S. House,3,IAP,AARON HEINEMAN,0
+Grand,5-M,U.S. House,3,DEM,GLENN J. WRIGHT,0
+Grand,5-M,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,0
+Grand,5-M,U.S. House,3,REP,JOHN CURTIS,0
+Grand,5-M,U.S. House,3,LIB,MICHAEL STODDARD,0
+Grand,5-M,U.S. House,3,,Over Votes,0
+Grand,5-M,U.S. House,3,,Under Votes,0
+Grand,5-M,State Treasurer,,REP,MARLO M. OAKS,0
+Grand,5-M,State Treasurer,,UUP,THOMAS ALAN HORNE,0
+Grand,5-M,State Treasurer,,IAP,WARREN T ROGERS,0
+Grand,5-M,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,0
+Grand,5-M,State Treasurer,,,Over Votes,0
+Grand,5-M,State Treasurer,,,Under Votes,0
+Grand,5-M,State House,69,REP,PHIL LYMAN,0
+Grand,5-M,State House,69,DEM,DAVINA SMITH,0
+Grand,5-M,State House,69,,Over Votes,0
+Grand,5-M,State House,69,,Under Votes,0
+Grand,5-M,State School Board,14,REP,EMILY GREEN,0
+Grand,5-M,State School Board,14,LIB,RICHARD JENSEN,0
+Grand,5-M,State School Board,14,,Over Votes,0
+Grand,5-M,State School Board,14,,Under Votes,0
+Grand,5-M,Grand County Commission At-Large,,,BILL WINFIELD,0
+Grand,5-M,Grand County Commission At-Large,,,EMILY CAMPBELL,0
+Grand,5-M,Grand County Commission At-Large,,,Over Votes,0
+Grand,5-M,Grand County Commission At-Large,,,Under Votes,0
+Grand,5-M,Grand County Commission District 5,,REP,MIKE MCCURDY,0
+Grand,5-M,Grand County Commission District 5,,,STEVE GETZ,0
+Grand,5-M,Grand County Commission District 5,,,Over Votes,0
+Grand,5-M,Grand County Commission District 5,,,Under Votes,0
+Grand,5-M,Grand County Attorney,,,STEPHEN J. STOCKS,0
+Grand,5-M,Grand County Attorney,,,CHRISTINA SLOAN,0
+Grand,5-M,Grand County Attorney,,,Over Votes,0
+Grand,5-M,Grand County Attorney,,,Under Votes,0
+Grand,5-M,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,0
+Grand,5-M,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,5-M,Grand County Clerk/Auditor,,,Under Votes,0
+Grand,5-M,Grand County Sheriff,,,JAMISON WIGGINS,0
+Grand,5-M,Grand County Sheriff,,,CURT BREWER,0
+Grand,5-M,Grand County Sheriff,,,Over Votes,0
+Grand,5-M,Grand County Sheriff,,,Under Votes,0
+Grand,5-M,Grand County School District 5,,,DEERAY WARDLE,0
+Grand,5-M,Grand County School District 5,,,Over Votes,0
+Grand,5-M,Grand County School District 5,,,Under Votes,0
+Grand,5-M,Moab Valley Fire District,,,CHARLIE HARRISON,0
+Grand,5-M,Moab Valley Fire District,,,SAMUEL VAN WETTER,0
+Grand,5-M,Moab Valley Fire District,,,Over Votes,0
+Grand,5-M,Moab Valley Fire District,,,Under Votes,0
+Grand,5-M,PAIGE PETERSEN Judicial Retention,,,YES,0
+Grand,5-M,PAIGE PETERSEN Judicial Retention,,,NO,0
+Grand,5-M,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,5-M,PAIGE PETERSEN Judicial Retention,,,Under Votes,0
+Grand,5-M,DON M.TORGERSON Judicial Retention,,,YES,0
+Grand,5-M,DON M.TORGERSON Judicial Retention,,,NO,0
+Grand,5-M,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,5-M,DON M.TORGERSON Judicial Retention,,,Under Votes,0
+Grand,5-M,GEORGE M. HARMOND Judicial Retention,,,YES,0
+Grand,5-M,GEORGE M. HARMOND Judicial Retention,,,NO,0
+Grand,5-M,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,5-M,GEORGE M. HARMOND Judicial Retention,,,Under Votes,0
+Grand,5-M,Constitutional Amendment A,,,FOR,0
+Grand,5-M,Constitutional Amendment A,,,AGAINST,0
+Grand,5-M,Constitutional Amendment A,,,Over Votes,0
+Grand,5-M,Constitutional Amendment A,,,Under Votes,0
+Grand,5-U1,Registered Voters,,,,424
+Grand,5-U1,Ballots Cast,,,,309
+Grand,5-U1,Paper Ballots Cast,,,,289
+Grand,5-U1,Ballots Cast - Blank,,,,0
+Grand,5-U1,Paper Ballots Cast - Blank,,,,0
+Grand,5-U1,Cards Cast - Blank,,,,0
+Grand,5-U1,U.S. Senate,,IND,EVAN MCMULLIN,115
+Grand,5-U1,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,21
+Grand,5-U1,U.S. Senate,,REP,MIKE LEE,161
+Grand,5-U1,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+Grand,5-U1,U.S. Senate,,,Write-ins,0
+Grand,5-U1,U.S. Senate,,,Over Votes,0
+Grand,5-U1,U.S. Senate,,,Under Votes,8
+Grand,5-U1,U.S. House,3,IAP,AARON HEINEMAN,4
+Grand,5-U1,U.S. House,3,DEM,GLENN J. WRIGHT,114
+Grand,5-U1,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,1
+Grand,5-U1,U.S. House,3,REP,JOHN CURTIS,169
+Grand,5-U1,U.S. House,3,LIB,MICHAEL STODDARD,12
+Grand,5-U1,U.S. House,3,,Over Votes,0
+Grand,5-U1,U.S. House,3,,Under Votes,9
+Grand,5-U1,State Treasurer,,REP,MARLO M. OAKS,169
+Grand,5-U1,State Treasurer,,UUP,THOMAS ALAN HORNE,24
+Grand,5-U1,State Treasurer,,IAP,WARREN T ROGERS,29
+Grand,5-U1,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,50
+Grand,5-U1,State Treasurer,,,Over Votes,0
+Grand,5-U1,State Treasurer,,,Under Votes,37
+Grand,5-U1,State House,69,REP,PHIL LYMAN,164
+Grand,5-U1,State House,69,DEM,DAVINA SMITH,142
+Grand,5-U1,State House,69,,Over Votes,0
+Grand,5-U1,State House,69,,Under Votes,3
+Grand,5-U1,State School Board,14,REP,EMILY GREEN,195
+Grand,5-U1,State School Board,14,LIB,RICHARD JENSEN,84
+Grand,5-U1,State School Board,14,,Over Votes,0
+Grand,5-U1,State School Board,14,,Under Votes,30
+Grand,5-U1,Grand County Commission At-Large,,,BILL WINFIELD,192
+Grand,5-U1,Grand County Commission At-Large,,,EMILY CAMPBELL,112
+Grand,5-U1,Grand County Commission At-Large,,,Over Votes,0
+Grand,5-U1,Grand County Commission At-Large,,,Under Votes,5
+Grand,5-U1,Grand County Commission District 5,,REP,MIKE MCCURDY,184
+Grand,5-U1,Grand County Commission District 5,,,STEVE GETZ,119
+Grand,5-U1,Grand County Commission District 5,,,Over Votes,0
+Grand,5-U1,Grand County Commission District 5,,,Under Votes,6
+Grand,5-U1,Grand County Attorney,,,STEPHEN J. STOCKS,206
+Grand,5-U1,Grand County Attorney,,,CHRISTINA SLOAN,97
+Grand,5-U1,Grand County Attorney,,,Over Votes,0
+Grand,5-U1,Grand County Attorney,,,Under Votes,6
+Grand,5-U1,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,229
+Grand,5-U1,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,5-U1,Grand County Clerk/Auditor,,,Under Votes,80
+Grand,5-U1,Grand County Sheriff,,,JAMISON WIGGINS,156
+Grand,5-U1,Grand County Sheriff,,,CURT BREWER,141
+Grand,5-U1,Grand County Sheriff,,,Over Votes,0
+Grand,5-U1,Grand County Sheriff,,,Under Votes,12
+Grand,5-U1,Grand County School District 5,,,DEERAY WARDLE,214
+Grand,5-U1,Grand County School District 5,,,Over Votes,0
+Grand,5-U1,Grand County School District 5,,,Under Votes,95
+Grand,5-U1,Moab Valley Fire District,,,CHARLIE HARRISON,237
+Grand,5-U1,Moab Valley Fire District,,,SAMUEL VAN WETTER,57
+Grand,5-U1,Moab Valley Fire District,,,Over Votes,0
+Grand,5-U1,Moab Valley Fire District,,,Under Votes,15
+Grand,5-U1,PAIGE PETERSEN Judicial Retention,,,YES,217
+Grand,5-U1,PAIGE PETERSEN Judicial Retention,,,NO,53
+Grand,5-U1,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,5-U1,PAIGE PETERSEN Judicial Retention,,,Under Votes,39
+Grand,5-U1,DON M.TORGERSON Judicial Retention,,,YES,210
+Grand,5-U1,DON M.TORGERSON Judicial Retention,,,NO,69
+Grand,5-U1,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,5-U1,DON M.TORGERSON Judicial Retention,,,Under Votes,30
+Grand,5-U1,GEORGE M. HARMOND Judicial Retention,,,YES,209
+Grand,5-U1,GEORGE M. HARMOND Judicial Retention,,,NO,58
+Grand,5-U1,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,5-U1,GEORGE M. HARMOND Judicial Retention,,,Under Votes,42
+Grand,5-U1,Constitutional Amendment A,,,FOR,81
+Grand,5-U1,Constitutional Amendment A,,,AGAINST,194
+Grand,5-U1,Constitutional Amendment A,,,Over Votes,0
+Grand,5-U1,Constitutional Amendment A,,,Under Votes,34
+Grand,5-U2,Registered Voters,,,,435
+Grand,5-U2,Ballots Cast,,,,354
+Grand,5-U2,Paper Ballots Cast,,,,332
+Grand,5-U2,Ballots Cast - Blank,,,,0
+Grand,5-U2,Paper Ballots Cast - Blank,,,,0
+Grand,5-U2,Cards Cast - Blank,,,,0
+Grand,5-U2,U.S. Senate,,IND,EVAN MCMULLIN,149
+Grand,5-U2,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,8
+Grand,5-U2,U.S. Senate,,REP,MIKE LEE,188
+Grand,5-U2,U.S. Senate,,IAP,TOMMY WILLIAMS,5
+Grand,5-U2,U.S. Senate,,,Write-ins,0
+Grand,5-U2,U.S. Senate,,,Over Votes,0
+Grand,5-U2,U.S. Senate,,,Under Votes,4
+Grand,5-U2,U.S. House,3,IAP,AARON HEINEMAN,3
+Grand,5-U2,U.S. House,3,DEM,GLENN J. WRIGHT,128
+Grand,5-U2,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,3
+Grand,5-U2,U.S. House,3,REP,JOHN CURTIS,206
+Grand,5-U2,U.S. House,3,LIB,MICHAEL STODDARD,5
+Grand,5-U2,U.S. House,3,,Over Votes,0
+Grand,5-U2,U.S. House,3,,Under Votes,9
+Grand,5-U2,State Treasurer,,REP,MARLO M. OAKS,204
+Grand,5-U2,State Treasurer,,UUP,THOMAS ALAN HORNE,29
+Grand,5-U2,State Treasurer,,IAP,WARREN T ROGERS,29
+Grand,5-U2,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,34
+Grand,5-U2,State Treasurer,,,Over Votes,0
+Grand,5-U2,State Treasurer,,,Under Votes,58
+Grand,5-U2,State House,69,REP,PHIL LYMAN,187
+Grand,5-U2,State House,69,DEM,DAVINA SMITH,166
+Grand,5-U2,State House,69,,Over Votes,0
+Grand,5-U2,State House,69,,Under Votes,1
+Grand,5-U2,State School Board,14,REP,EMILY GREEN,207
+Grand,5-U2,State School Board,14,LIB,RICHARD JENSEN,81
+Grand,5-U2,State School Board,14,,Over Votes,0
+Grand,5-U2,State School Board,14,,Under Votes,66
+Grand,5-U2,Grand County Commission At-Large,,,BILL WINFIELD,208
+Grand,5-U2,Grand County Commission At-Large,,,EMILY CAMPBELL,141
+Grand,5-U2,Grand County Commission At-Large,,,Over Votes,0
+Grand,5-U2,Grand County Commission At-Large,,,Under Votes,5
+Grand,5-U2,Grand County Commission District 5,,REP,MIKE MCCURDY,205
+Grand,5-U2,Grand County Commission District 5,,,STEVE GETZ,145
+Grand,5-U2,Grand County Commission District 5,,,Over Votes,0
+Grand,5-U2,Grand County Commission District 5,,,Under Votes,4
+Grand,5-U2,Grand County Attorney,,,STEPHEN J. STOCKS,220
+Grand,5-U2,Grand County Attorney,,,CHRISTINA SLOAN,126
+Grand,5-U2,Grand County Attorney,,,Over Votes,0
+Grand,5-U2,Grand County Attorney,,,Under Votes,8
+Grand,5-U2,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,248
+Grand,5-U2,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,5-U2,Grand County Clerk/Auditor,,,Under Votes,106
+Grand,5-U2,Grand County Sheriff,,,JAMISON WIGGINS,201
+Grand,5-U2,Grand County Sheriff,,,CURT BREWER,147
+Grand,5-U2,Grand County Sheriff,,,Over Votes,0
+Grand,5-U2,Grand County Sheriff,,,Under Votes,6
+Grand,5-U2,Grand County School District 5,,,DEERAY WARDLE,226
+Grand,5-U2,Grand County School District 5,,,Over Votes,0
+Grand,5-U2,Grand County School District 5,,,Under Votes,128
+Grand,5-U2,Moab Valley Fire District,,,CHARLIE HARRISON,259
+Grand,5-U2,Moab Valley Fire District,,,SAMUEL VAN WETTER,77
+Grand,5-U2,Moab Valley Fire District,,,Over Votes,0
+Grand,5-U2,Moab Valley Fire District,,,Under Votes,18
+Grand,5-U2,PAIGE PETERSEN Judicial Retention,,,YES,250
+Grand,5-U2,PAIGE PETERSEN Judicial Retention,,,NO,43
+Grand,5-U2,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,5-U2,PAIGE PETERSEN Judicial Retention,,,Under Votes,61
+Grand,5-U2,DON M.TORGERSON Judicial Retention,,,YES,251
+Grand,5-U2,DON M.TORGERSON Judicial Retention,,,NO,55
+Grand,5-U2,DON M.TORGERSON Judicial Retention,,,Over Votes,0
+Grand,5-U2,DON M.TORGERSON Judicial Retention,,,Under Votes,48
+Grand,5-U2,GEORGE M. HARMOND Judicial Retention,,,YES,232
+Grand,5-U2,GEORGE M. HARMOND Judicial Retention,,,NO,61
+Grand,5-U2,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,5-U2,GEORGE M. HARMOND Judicial Retention,,,Under Votes,61
+Grand,5-U2,Constitutional Amendment A,,,FOR,80
+Grand,5-U2,Constitutional Amendment A,,,AGAINST,240
+Grand,5-U2,Constitutional Amendment A,,,Over Votes,0
+Grand,5-U2,Constitutional Amendment A,,,Under Votes,34
+Grand,5-U3,Registered Voters,,,,435
+Grand,5-U3,Ballots Cast,,,,358
+Grand,5-U3,Paper Ballots Cast,,,,327
+Grand,5-U3,Ballots Cast - Blank,,,,0
+Grand,5-U3,Paper Ballots Cast - Blank,,,,0
+Grand,5-U3,Cards Cast - Blank,,,,0
+Grand,5-U3,U.S. Senate,,IND,EVAN MCMULLIN,133
+Grand,5-U3,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,12
+Grand,5-U3,U.S. Senate,,REP,MIKE LEE,204
+Grand,5-U3,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+Grand,5-U3,U.S. Senate,,,Write-ins,0
+Grand,5-U3,U.S. Senate,,,Over Votes,0
+Grand,5-U3,U.S. Senate,,,Under Votes,5
+Grand,5-U3,U.S. House,3,IAP,AARON HEINEMAN,6
+Grand,5-U3,U.S. House,3,DEM,GLENN J. WRIGHT,126
+Grand,5-U3,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Grand,5-U3,U.S. House,3,REP,JOHN CURTIS,215
+Grand,5-U3,U.S. House,3,LIB,MICHAEL STODDARD,5
+Grand,5-U3,U.S. House,3,,Over Votes,0
+Grand,5-U3,U.S. House,3,,Under Votes,4
+Grand,5-U3,State Treasurer,,REP,MARLO M. OAKS,223
+Grand,5-U3,State Treasurer,,UUP,THOMAS ALAN HORNE,30
+Grand,5-U3,State Treasurer,,IAP,WARREN T ROGERS,24
+Grand,5-U3,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,33
+Grand,5-U3,State Treasurer,,,Over Votes,0
+Grand,5-U3,State Treasurer,,,Under Votes,48
+Grand,5-U3,State House,69,REP,PHIL LYMAN,203
+Grand,5-U3,State House,69,DEM,DAVINA SMITH,150
+Grand,5-U3,State House,69,,Over Votes,0
+Grand,5-U3,State House,69,,Under Votes,5
+Grand,5-U3,State School Board,14,REP,EMILY GREEN,230
+Grand,5-U3,State School Board,14,LIB,RICHARD JENSEN,70
+Grand,5-U3,State School Board,14,,Over Votes,0
+Grand,5-U3,State School Board,14,,Under Votes,58
+Grand,5-U3,Grand County Commission At-Large,,,BILL WINFIELD,199
+Grand,5-U3,Grand County Commission At-Large,,,EMILY CAMPBELL,148
+Grand,5-U3,Grand County Commission At-Large,,,Over Votes,0
+Grand,5-U3,Grand County Commission At-Large,,,Under Votes,11
+Grand,5-U3,Grand County Commission District 5,,REP,MIKE MCCURDY,206
+Grand,5-U3,Grand County Commission District 5,,,STEVE GETZ,143
+Grand,5-U3,Grand County Commission District 5,,,Over Votes,0
+Grand,5-U3,Grand County Commission District 5,,,Under Votes,9
+Grand,5-U3,Grand County Attorney,,,STEPHEN J. STOCKS,228
+Grand,5-U3,Grand County Attorney,,,CHRISTINA SLOAN,123
+Grand,5-U3,Grand County Attorney,,,Over Votes,0
+Grand,5-U3,Grand County Attorney,,,Under Votes,7
+Grand,5-U3,Grand County Clerk/Auditor,,,GABRIEL WOYTEK,240
+Grand,5-U3,Grand County Clerk/Auditor,,,Over Votes,0
+Grand,5-U3,Grand County Clerk/Auditor,,,Under Votes,118
+Grand,5-U3,Grand County Sheriff,,,JAMISON WIGGINS,185
+Grand,5-U3,Grand County Sheriff,,,CURT BREWER,164
+Grand,5-U3,Grand County Sheriff,,,Over Votes,0
+Grand,5-U3,Grand County Sheriff,,,Under Votes,9
+Grand,5-U3,Grand County School District 5,,,DEERAY WARDLE,229
+Grand,5-U3,Grand County School District 5,,,Over Votes,0
+Grand,5-U3,Grand County School District 5,,,Under Votes,129
+Grand,5-U3,Moab Valley Fire District,,,CHARLIE HARRISON,263
+Grand,5-U3,Moab Valley Fire District,,,SAMUEL VAN WETTER,71
+Grand,5-U3,Moab Valley Fire District,,,Over Votes,0
+Grand,5-U3,Moab Valley Fire District,,,Under Votes,24
+Grand,5-U3,PAIGE PETERSEN Judicial Retention,,,YES,259
+Grand,5-U3,PAIGE PETERSEN Judicial Retention,,,NO,42
+Grand,5-U3,PAIGE PETERSEN Judicial Retention,,,Over Votes,0
+Grand,5-U3,PAIGE PETERSEN Judicial Retention,,,Under Votes,57
+Grand,5-U3,DON M.TORGERSON Judicial Retention,,,YES,242
+Grand,5-U3,DON M.TORGERSON Judicial Retention,,,NO,58
+Grand,5-U3,DON M.TORGERSON Judicial Retention,,,Over Votes,1
+Grand,5-U3,DON M.TORGERSON Judicial Retention,,,Under Votes,57
+Grand,5-U3,GEORGE M. HARMOND Judicial Retention,,,YES,244
+Grand,5-U3,GEORGE M. HARMOND Judicial Retention,,,NO,49
+Grand,5-U3,GEORGE M. HARMOND Judicial Retention,,,Over Votes,0
+Grand,5-U3,GEORGE M. HARMOND Judicial Retention,,,Under Votes,65
+Grand,5-U3,Constitutional Amendment A,,,FOR,107
+Grand,5-U3,Constitutional Amendment A,,,AGAINST,197
+Grand,5-U3,Constitutional Amendment A,,,Over Votes,0
+Grand,5-U3,Constitutional Amendment A,,,Under Votes,54

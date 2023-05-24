@@ -1,0 +1,725 @@
+county,precinct,office,district,party,candidate,votes
+SEVIER,Annabella 1,,,,REGISTERED VOTERS - TOTAL,542
+SEVIER,Annabella 1,,,,BALLOTS CAST - TOTAL,369
+SEVIER,Annabella 1,U.S. Senate,,,EVAN MCMULLIN,48
+SEVIER,Annabella 1,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,7
+SEVIER,Annabella 1,U.S. Senate,,REP,MIKE LEE,309
+SEVIER,Annabella 1,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+SEVIER,Annabella 1,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Annabella 1,U.S. House,2,DEM,NICK MITCHELL,15
+SEVIER,Annabella 1,U.S. House,2,UUP,JAYMAC MCFARLAND,8
+SEVIER,Annabella 1,U.S. House,2,CON,CASSIE EASLEY,9
+SEVIER,Annabella 1,U.S. House,2,REP,CHRIS STEWART,336
+SEVIER,Annabella 1,State Treasurer,,REP,MARLO M. OAKS,330
+SEVIER,Annabella 1,State Treasurer,,UUP,THOMAS ALAN HORNE,7
+SEVIER,Annabella 1,State Treasurer,,IAP,WARREN T ROGERS,15
+SEVIER,Annabella 1,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,7
+SEVIER,Annabella 1,State House,70,UUP,ZENO B PARRY,35
+SEVIER,Annabella 1,State House,70,REP,CARL R. ALBRECHT,330
+SEVIER,Annabella 1,State School Board,14,REP,EMILY GREEN,333
+SEVIER,Annabella 1,State School Board,14,LIB,RICHARD JENSEN,25
+SEVIER,Annabella 1,County Commission Seat A,,REP,SCOTT T. JOHNSON,333
+SEVIER,Annabella 1,County Commission Seat B,,REP,GREG JENSEN,334
+SEVIER,Annabella 1,County Attorney,,REP,CASEY WAYNE JEWKES,334
+SEVIER,Annabella 1,County Clerk/Auditor,,REP,STEVEN C WALL,339
+SEVIER,Annabella 1,County Sheriff,,REP,NATHAN J. CURTIS,349
+SEVIER,Annabella 1,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,341
+SEVIER,Annabella 1,Paige Petersen Judicial Retention,,,YES,291
+SEVIER,Annabella 1,Paige Petersen Judicial Retention,,,NO,43
+SEVIER,Annabella 1,Brody L. Keisel Judicial Retention,,,YES,293
+SEVIER,Annabella 1,Brody L. Keisel Judicial Retention,,,NO,46
+SEVIER,Annabella 1,Constitutional Amendment A,,,FOR,120
+SEVIER,Annabella 1,Constitutional Amendment A,,,AGAINST,210
+SEVIER,Aurora 2,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,702
+SEVIER,Aurora 2,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,468
+SEVIER,Aurora 2,U.S. Senate,,,EVAN MCMULLIN,46
+SEVIER,Aurora 2,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+SEVIER,Aurora 2,U.S. Senate,,REP,MIKE LEE,403
+SEVIER,Aurora 2,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+SEVIER,Aurora 2,U.S. Senate,,,WRITE-IN TOTALS,4
+SEVIER,Aurora 2,U.S. House,2,DEM,NICK MITCHELL,22
+SEVIER,Aurora 2,U.S. House,2,UUP,JAYMAC MCFARLAND,10
+SEVIER,Aurora 2,U.S. House,2,CON,CASSIE EASLEY,10
+SEVIER,Aurora 2,U.S. House,2,REP,CHRIS STEWART,424
+SEVIER,Aurora 2,State Treasurer,,REP,MARLO M. OAKS,421
+SEVIER,Aurora 2,State Treasurer,,UUP,THOMAS ALAN HORNE,9
+SEVIER,Aurora 2,State Treasurer,,IAP,WARREN T ROGERS,8
+SEVIER,Aurora 2,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,13
+SEVIER,Aurora 2,State House,70,UUP,ZENO B PARRY,16
+SEVIER,Aurora 2,State House,70,REP,CARL R. ALBRECHT,442
+SEVIER,Aurora 2,State School Board,14,REP,EMILY GREEN,419
+SEVIER,Aurora 2,State School Board,14,LIB,RICHARD JENSEN,30
+SEVIER,Aurora 2,County Commission Seat A,,REP,SCOTT T. JOHNSON,444
+SEVIER,Aurora 2,County Commission Seat B,,REP,GREG JENSEN,435
+SEVIER,Aurora 2,County Attorney,,REP,CASEY WAYNE JEWKES,435
+SEVIER,Aurora 2,County Clerk/Auditor,,REP,STEVEN C WALL,438
+SEVIER,Aurora 2,County Sheriff,,REP,NATHAN J. CURTIS,440
+SEVIER,Aurora 2,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,433
+SEVIER,Aurora 2,Paige Petersen Judicial Retention,,,YES,386
+SEVIER,Aurora 2,Paige Petersen Judicial Retention,,,NO,54
+SEVIER,Aurora 2,Brody L. Keisel Judicial Retention,,,YES,391
+SEVIER,Aurora 2,Brody L. Keisel Judicial Retention,,,NO,52
+SEVIER,Aurora 2,Constitutional Amendment A,,,FOR,135
+SEVIER,Aurora 2,Constitutional Amendment A,,,AGAINST,284
+SEVIER,Central Valley 4,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,470
+SEVIER,Central Valley 4,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,333
+SEVIER,Central Valley 4,U.S. Senate,,,EVAN MCMULLIN,45
+SEVIER,Central Valley 4,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,6
+SEVIER,Central Valley 4,U.S. Senate,,REP,MIKE LEE,278
+SEVIER,Central Valley 4,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+SEVIER,Central Valley 4,U.S. Senate,,,WRITE-IN TOTALS,1
+SEVIER,Central Valley 4,U.S. House,2,DEM,NICK MITCHELL,20
+SEVIER,Central Valley 4,U.S. House,2,UUP,JAYMAC MCFARLAND,2
+SEVIER,Central Valley 4,U.S. House,2,CON,CASSIE EASLEY,3
+SEVIER,Central Valley 4,U.S. House,2,REP,CHRIS STEWART,304
+SEVIER,Central Valley 4,State Treasurer,,REP,MARLO M. OAKS,295
+SEVIER,Central Valley 4,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+SEVIER,Central Valley 4,State Treasurer,,IAP,WARREN T ROGERS,5
+SEVIER,Central Valley 4,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,18
+SEVIER,Central Valley 4,State House,70,UUP,ZENO B PARRY,12
+SEVIER,Central Valley 4,State House,70,REP,CARL R. ALBRECHT,316
+SEVIER,Central Valley 4,State School Board,14,REP,EMILY GREEN,292
+SEVIER,Central Valley 4,State School Board,14,LIB,RICHARD JENSEN,28
+SEVIER,Central Valley 4,County Commission Seat A,,REP,SCOTT T. JOHNSON,306
+SEVIER,Central Valley 4,County Commission Seat B,,REP,GREG JENSEN,307
+SEVIER,Central Valley 4,County Attorney,,REP,CASEY WAYNE JEWKES,304
+SEVIER,Central Valley 4,County Clerk/Auditor,,REP,STEVEN C WALL,299
+SEVIER,Central Valley 4,County Sheriff,,REP,NATHAN J. CURTIS,310
+SEVIER,Central Valley 4,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,302
+SEVIER,Central Valley 4,Paige Petersen Judicial Retention,,,YES,261
+SEVIER,Central Valley 4,Paige Petersen Judicial Retention,,,NO,44
+SEVIER,Central Valley 4,Brody L. Keisel Judicial Retention,,,YES,264
+SEVIER,Central Valley 4,Brody L. Keisel Judicial Retention,,,NO,45
+SEVIER,Central Valley 4,Constitutional Amendment A,,,FOR,85
+SEVIER,Central Valley 4,Constitutional Amendment A,,,AGAINST,216
+SEVIER,Elsinore 5,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,674
+SEVIER,Elsinore 5,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,426
+SEVIER,Elsinore 5,U.S. Senate,,,EVAN MCMULLIN,63
+SEVIER,Elsinore 5,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,13
+SEVIER,Elsinore 5,U.S. Senate,,REP,MIKE LEE,339
+SEVIER,Elsinore 5,U.S. Senate,,IAP,TOMMY WILLIAMS,9
+SEVIER,Elsinore 5,U.S. Senate,,,WRITE-IN TOTALS,2
+SEVIER,Elsinore 5,U.S. House,2,DEM,NICK MITCHELL,44
+SEVIER,Elsinore 5,U.S. House,2,UUP,JAYMAC MCFARLAND,13
+SEVIER,Elsinore 5,U.S. House,2,CON,CASSIE EASLEY,8
+SEVIER,Elsinore 5,U.S. House,2,REP,CHRIS STEWART,358
+SEVIER,Elsinore 5,State Treasurer,,REP,MARLO M. OAKS,358
+SEVIER,Elsinore 5,State Treasurer,,UUP,THOMAS ALAN HORNE,21
+SEVIER,Elsinore 5,State Treasurer,,IAP,WARREN T ROGERS,9
+SEVIER,Elsinore 5,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,25
+SEVIER,Elsinore 5,State House,70,UUP,ZENO B PARRY,35
+SEVIER,Elsinore 5,State House,70,REP,CARL R. ALBRECHT,380
+SEVIER,Elsinore 5,State School Board,14,REP,EMILY GREEN,354
+SEVIER,Elsinore 5,State School Board,14,LIB,RICHARD JENSEN,53
+SEVIER,Elsinore 5,County Commission Seat A,,REP,SCOTT T. JOHNSON,382
+SEVIER,Elsinore 5,County Commission Seat B,,REP,GREG JENSEN,383
+SEVIER,Elsinore 5,County Attorney,,REP,CASEY WAYNE JEWKES,376
+SEVIER,Elsinore 5,County Clerk/Auditor,,REP,STEVEN C WALL,384
+SEVIER,Elsinore 5,County Sheriff,,REP,NATHAN J. CURTIS,387
+SEVIER,Elsinore 5,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,381
+SEVIER,Elsinore 5,Paige Petersen Judicial Retention,,,YES,360
+SEVIER,Elsinore 5,Paige Petersen Judicial Retention,,,NO,42
+SEVIER,Elsinore 5,Brody L. Keisel Judicial Retention,,,YES,347
+SEVIER,Elsinore 5,Brody L. Keisel Judicial Retention,,,NO,51
+SEVIER,Elsinore 5,Constitutional Amendment A,,,FOR,113
+SEVIER,Elsinore 5,Constitutional Amendment A,,,AGAINST,273
+SEVIER,Glenwood 6,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,418
+SEVIER,Glenwood 6,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,328
+SEVIER,Glenwood 6,U.S. Senate,,,EVAN MCMULLIN,33
+SEVIER,Glenwood 6,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+SEVIER,Glenwood 6,U.S. Senate,,REP,MIKE LEE,285
+SEVIER,Glenwood 6,U.S. Senate,,IAP,TOMMY WILLIAMS,3
+SEVIER,Glenwood 6,U.S. Senate,,,WRITE-IN TOTALS,1
+SEVIER,Glenwood 6,U.S. House,2,DEM,NICK MITCHELL,12
+SEVIER,Glenwood 6,U.S. House,2,UUP,JAYMAC MCFARLAND,0
+SEVIER,Glenwood 6,U.S. House,2,CON,CASSIE EASLEY,5
+SEVIER,Glenwood 6,U.S. House,2,REP,CHRIS STEWART,305
+SEVIER,Glenwood 6,State Treasurer,,REP,MARLO M. OAKS,303
+SEVIER,Glenwood 6,State Treasurer,,UUP,THOMAS ALAN HORNE,5
+SEVIER,Glenwood 6,State Treasurer,,IAP,WARREN T ROGERS,4
+SEVIER,Glenwood 6,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,7
+SEVIER,Glenwood 6,State House,70,UUP,ZENO B PARRY,23
+SEVIER,Glenwood 6,State House,70,REP,CARL R. ALBRECHT,302
+SEVIER,Glenwood 6,State School Board,14,REP,EMILY GREEN,290
+SEVIER,Glenwood 6,State School Board,14,LIB,RICHARD JENSEN,23
+SEVIER,Glenwood 6,County Commission Seat A,,REP,SCOTT T. JOHNSON,297
+SEVIER,Glenwood 6,County Commission Seat B,,REP,GREG JENSEN,304
+SEVIER,Glenwood 6,County Attorney,,REP,CASEY WAYNE JEWKES,293
+SEVIER,Glenwood 6,County Clerk/Auditor,,REP,STEVEN C WALL,300
+SEVIER,Glenwood 6,County Sheriff,,REP,NATHAN J. CURTIS,303
+SEVIER,Glenwood 6,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,289
+SEVIER,Glenwood 6,Paige Petersen Judicial Retention,,,YES,245
+SEVIER,Glenwood 6,Paige Petersen Judicial Retention,,,NO,53
+SEVIER,Glenwood 6,Brody L. Keisel Judicial Retention,,,YES,248
+SEVIER,Glenwood 6,Brody L. Keisel Judicial Retention,,,NO,48
+SEVIER,Glenwood 6,Constitutional Amendment A,,,FOR,113
+SEVIER,Glenwood 6,Constitutional Amendment A,,,AGAINST,186
+SEVIER,Joseph 7,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,354
+SEVIER,Joseph 7,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,251
+SEVIER,Joseph 7,U.S. Senate,,,EVAN MCMULLIN,22
+SEVIER,Joseph 7,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+SEVIER,Joseph 7,U.S. Senate,,REP,MIKE LEE,222
+SEVIER,Joseph 7,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+SEVIER,Joseph 7,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Joseph 7,U.S. House,2,DEM,NICK MITCHELL,17
+SEVIER,Joseph 7,U.S. House,2,UUP,JAYMAC MCFARLAND,2
+SEVIER,Joseph 7,U.S. House,2,CON,CASSIE EASLEY,6
+SEVIER,Joseph 7,U.S. House,2,REP,CHRIS STEWART,224
+SEVIER,Joseph 7,State Treasurer,,REP,MARLO M. OAKS,232
+SEVIER,Joseph 7,State Treasurer,,UUP,THOMAS ALAN HORNE,3
+SEVIER,Joseph 7,State Treasurer,,IAP,WARREN T ROGERS,6
+SEVIER,Joseph 7,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,6
+SEVIER,Joseph 7,State House,70,UUP,ZENO B PARRY,13
+SEVIER,Joseph 7,State House,70,REP,CARL R. ALBRECHT,237
+SEVIER,Joseph 7,State School Board,14,REP,EMILY GREEN,230
+SEVIER,Joseph 7,State School Board,14,LIB,RICHARD JENSEN,15
+SEVIER,Joseph 7,County Commission Seat A,,REP,SCOTT T. JOHNSON,232
+SEVIER,Joseph 7,County Commission Seat B,,REP,GREG JENSEN,237
+SEVIER,Joseph 7,County Attorney,,REP,CASEY WAYNE JEWKES,226
+SEVIER,Joseph 7,County Clerk/Auditor,,REP,STEVEN C WALL,231
+SEVIER,Joseph 7,County Sheriff,,REP,NATHAN J. CURTIS,237
+SEVIER,Joseph 7,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,230
+SEVIER,Joseph 7,Local School Board,1,,RICHARD L ORR,216
+SEVIER,Joseph 7,Paige Petersen Judicial Retention,,,YES,195
+SEVIER,Joseph 7,Paige Petersen Judicial Retention,,,NO,26
+SEVIER,Joseph 7,Brody L. Keisel Judicial Retention,,,YES,192
+SEVIER,Joseph 7,Brody L. Keisel Judicial Retention,,,NO,31
+SEVIER,Joseph 7,Constitutional Amendment A,,,FOR,75
+SEVIER,Joseph 7,Constitutional Amendment A,,,AGAINST,161
+SEVIER,Monroe 8,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,1033
+SEVIER,Monroe 8,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,723
+SEVIER,Monroe 8,U.S. Senate,,,EVAN MCMULLIN,102
+SEVIER,Monroe 8,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,10
+SEVIER,Monroe 8,U.S. Senate,,REP,MIKE LEE,596
+SEVIER,Monroe 8,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+SEVIER,Monroe 8,U.S. Senate,,,WRITE-IN TOTALS,6
+SEVIER,Monroe 8,U.S. House,2,DEM,NICK MITCHELL,54
+SEVIER,Monroe 8,U.S. House,2,UUP,JAYMAC MCFARLAND,16
+SEVIER,Monroe 8,U.S. House,2,CON,CASSIE EASLEY,16
+SEVIER,Monroe 8,U.S. House,2,REP,CHRIS STEWART,628
+SEVIER,Monroe 8,State Treasurer,,REP,MARLO M. OAKS,629
+SEVIER,Monroe 8,State Treasurer,,UUP,THOMAS ALAN HORNE,21
+SEVIER,Monroe 8,State Treasurer,,IAP,WARREN T ROGERS,22
+SEVIER,Monroe 8,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,26
+SEVIER,Monroe 8,State House,70,UUP,ZENO B PARRY,63
+SEVIER,Monroe 8,State House,70,REP,CARL R. ALBRECHT,648
+SEVIER,Monroe 8,State School Board,14,REP,EMILY GREEN,632
+SEVIER,Monroe 8,State School Board,14,LIB,RICHARD JENSEN,70
+SEVIER,Monroe 8,County Commission Seat A,,REP,SCOTT T. JOHNSON,637
+SEVIER,Monroe 8,County Commission Seat B,,REP,GREG JENSEN,634
+SEVIER,Monroe 8,County Attorney,,REP,CASEY WAYNE JEWKES,643
+SEVIER,Monroe 8,County Clerk/Auditor,,REP,STEVEN C WALL,645
+SEVIER,Monroe 8,County Sheriff,,REP,NATHAN J. CURTIS,653
+SEVIER,Monroe 8,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,644
+SEVIER,Monroe 8,Local School Board,1,,RICHARD L ORR,609
+SEVIER,Monroe 8,Paige Petersen Judicial Retention,,,YES,554
+SEVIER,Monroe 8,Paige Petersen Judicial Retention,,,NO,102
+SEVIER,Monroe 8,Brody L. Keisel Judicial Retention,,,YES,560
+SEVIER,Monroe 8,Brody L. Keisel Judicial Retention,,,NO,104
+SEVIER,Monroe 8,Constitutional Amendment A,,,FOR,241
+SEVIER,Monroe 8,Constitutional Amendment A,,,AGAINST,432
+SEVIER,Monroe 9,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,856
+SEVIER,Monroe 9,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,601
+SEVIER,Monroe 9,U.S. Senate,,,EVAN MCMULLIN,108
+SEVIER,Monroe 9,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+SEVIER,Monroe 9,U.S. Senate,,REP,MIKE LEE,478
+SEVIER,Monroe 9,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+SEVIER,Monroe 9,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Monroe 9,U.S. House,2,DEM,NICK MITCHELL,66
+SEVIER,Monroe 9,U.S. House,2,UUP,JAYMAC MCFARLAND,6
+SEVIER,Monroe 9,U.S. House,2,CON,CASSIE EASLEY,16
+SEVIER,Monroe 9,U.S. House,2,REP,CHRIS STEWART,507
+SEVIER,Monroe 9,State Treasurer,,REP,MARLO M. OAKS,502
+SEVIER,Monroe 9,State Treasurer,,UUP,THOMAS ALAN HORNE,27
+SEVIER,Monroe 9,State Treasurer,,IAP,WARREN T ROGERS,17
+SEVIER,Monroe 9,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,20
+SEVIER,Monroe 9,State House,70,UUP,ZENO B PARRY,43
+SEVIER,Monroe 9,State House,70,REP,CARL R. ALBRECHT,547
+SEVIER,Monroe 9,State School Board,14,REP,EMILY GREEN,495
+SEVIER,Monroe 9,State School Board,14,LIB,RICHARD JENSEN,64
+SEVIER,Monroe 9,County Commission Seat A,,REP,SCOTT T. JOHNSON,535
+SEVIER,Monroe 9,County Commission Seat B,,REP,GREG JENSEN,535
+SEVIER,Monroe 9,County Attorney,,REP,CASEY WAYNE JEWKES,528
+SEVIER,Monroe 9,County Clerk/Auditor,,REP,STEVEN C WALL,536
+SEVIER,Monroe 9,County Sheriff,,REP,NATHAN J. CURTIS,539
+SEVIER,Monroe 9,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,531
+SEVIER,Monroe 9,Local School Board,1,,RICHARD L ORR,533
+SEVIER,Monroe 9,Paige Petersen Judicial Retention,,,YES,462
+SEVIER,Monroe 9,Paige Petersen Judicial Retention,,,NO,69
+SEVIER,Monroe 9,Brody L. Keisel Judicial Retention,,,YES,460
+SEVIER,Monroe 9,Brody L. Keisel Judicial Retention,,,NO,74
+SEVIER,Monroe 9,Constitutional Amendment A,,,FOR,179
+SEVIER,Monroe 9,Constitutional Amendment A,,,AGAINST,346
+SEVIER,Redmond 10,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,493
+SEVIER,Redmond 10,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,318
+SEVIER,Redmond 10,U.S. Senate,,,EVAN MCMULLIN,34
+SEVIER,Redmond 10,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+SEVIER,Redmond 10,U.S. Senate,,REP,MIKE LEE,281
+SEVIER,Redmond 10,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+SEVIER,Redmond 10,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Redmond 10,U.S. House,2,DEM,NICK MITCHELL,20
+SEVIER,Redmond 10,U.S. House,2,UUP,JAYMAC MCFARLAND,7
+SEVIER,Redmond 10,U.S. House,2,CON,CASSIE EASLEY,1
+SEVIER,Redmond 10,U.S. House,2,REP,CHRIS STEWART,289
+SEVIER,Redmond 10,State Treasurer,,REP,MARLO M. OAKS,291
+SEVIER,Redmond 10,State Treasurer,,UUP,THOMAS ALAN HORNE,7
+SEVIER,Redmond 10,State Treasurer,,IAP,WARREN T ROGERS,9
+SEVIER,Redmond 10,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,7
+SEVIER,Redmond 10,State House,70,UUP,ZENO B PARRY,22
+SEVIER,Redmond 10,State House,70,REP,CARL R. ALBRECHT,294
+SEVIER,Redmond 10,State School Board,14,REP,EMILY GREEN,284
+SEVIER,Redmond 10,State School Board,14,LIB,RICHARD JENSEN,31
+SEVIER,Redmond 10,County Commission Seat A,,REP,SCOTT T. JOHNSON,303
+SEVIER,Redmond 10,County Commission Seat B,,REP,GREG JENSEN,304
+SEVIER,Redmond 10,County Attorney,,REP,CASEY WAYNE JEWKES,298
+SEVIER,Redmond 10,County Clerk/Auditor,,REP,STEVEN C WALL,301
+SEVIER,Redmond 10,County Sheriff,,REP,NATHAN J. CURTIS,302
+SEVIER,Redmond 10,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,307
+SEVIER,Redmond 10,Paige Petersen Judicial Retention,,,YES,260
+SEVIER,Redmond 10,Paige Petersen Judicial Retention,,,NO,28
+SEVIER,Redmond 10,Brody L. Keisel Judicial Retention,,,YES,262
+SEVIER,Redmond 10,Brody L. Keisel Judicial Retention,,,NO,27
+SEVIER,Redmond 10,Constitutional Amendment A,,,FOR,89
+SEVIER,Redmond 10,Constitutional Amendment A,,,AGAINST,202
+SEVIER,Richfield 11,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,521
+SEVIER,Richfield 11,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,333
+SEVIER,Richfield 11,U.S. Senate,,,EVAN MCMULLIN,52
+SEVIER,Richfield 11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,8
+SEVIER,Richfield 11,U.S. Senate,,REP,MIKE LEE,267
+SEVIER,Richfield 11,U.S. Senate,,IAP,TOMMY WILLIAMS,5
+SEVIER,Richfield 11,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Richfield 11,U.S. House,2,DEM,NICK MITCHELL,30
+SEVIER,Richfield 11,U.S. House,2,UUP,JAYMAC MCFARLAND,7
+SEVIER,Richfield 11,U.S. House,2,CON,CASSIE EASLEY,9
+SEVIER,Richfield 11,U.S. House,2,REP,CHRIS STEWART,285
+SEVIER,Richfield 11,State Treasurer,,REP,MARLO M. OAKS,281
+SEVIER,Richfield 11,State Treasurer,,UUP,THOMAS ALAN HORNE,10
+SEVIER,Richfield 11,State Treasurer,,IAP,WARREN T ROGERS,12
+SEVIER,Richfield 11,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,18
+SEVIER,Richfield 11,State House,70,UUP,ZENO B PARRY,22
+SEVIER,Richfield 11,State House,70,REP,CARL R. ALBRECHT,299
+SEVIER,Richfield 11,State School Board,14,REP,EMILY GREEN,271
+SEVIER,Richfield 11,State School Board,14,LIB,RICHARD JENSEN,42
+SEVIER,Richfield 11,County Commission Seat A,,REP,SCOTT T. JOHNSON,301
+SEVIER,Richfield 11,County Commission Seat B,,REP,GREG JENSEN,295
+SEVIER,Richfield 11,County Attorney,,REP,CASEY WAYNE JEWKES,295
+SEVIER,Richfield 11,County Clerk/Auditor,,REP,STEVEN C WALL,294
+SEVIER,Richfield 11,County Sheriff,,REP,NATHAN J. CURTIS,312
+SEVIER,Richfield 11,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,302
+SEVIER,Richfield 11,Local School Board,3,,JACK G HANSEN,289
+SEVIER,Richfield 11,Paige Petersen Judicial Retention,,,YES,269
+SEVIER,Richfield 11,Paige Petersen Judicial Retention,,,NO,37
+SEVIER,Richfield 11,Brody L. Keisel Judicial Retention,,,YES,268
+SEVIER,Richfield 11,Brody L. Keisel Judicial Retention,,,NO,40
+SEVIER,Richfield 11,Constitutional Amendment A,,,FOR,126
+SEVIER,Richfield 11,Constitutional Amendment A,,,AGAINST,182
+SEVIER,Richfield 12,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,435
+SEVIER,Richfield 12,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,317
+SEVIER,Richfield 12,U.S. Senate,,,EVAN MCMULLIN,64
+SEVIER,Richfield 12,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+SEVIER,Richfield 12,U.S. Senate,,REP,MIKE LEE,241
+SEVIER,Richfield 12,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+SEVIER,Richfield 12,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Richfield 12,U.S. House,2,DEM,NICK MITCHELL,28
+SEVIER,Richfield 12,U.S. House,2,UUP,JAYMAC MCFARLAND,8
+SEVIER,Richfield 12,U.S. House,2,CON,CASSIE EASLEY,7
+SEVIER,Richfield 12,U.S. House,2,REP,CHRIS STEWART,272
+SEVIER,Richfield 12,State Treasurer,,REP,MARLO M. OAKS,266
+SEVIER,Richfield 12,State Treasurer,,UUP,THOMAS ALAN HORNE,16
+SEVIER,Richfield 12,State Treasurer,,IAP,WARREN T ROGERS,4
+SEVIER,Richfield 12,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,17
+SEVIER,Richfield 12,State House,70,UUP,ZENO B PARRY,25
+SEVIER,Richfield 12,State House,70,REP,CARL R. ALBRECHT,285
+SEVIER,Richfield 12,State School Board,14,REP,EMILY GREEN,262
+SEVIER,Richfield 12,State School Board,14,LIB,RICHARD JENSEN,37
+SEVIER,Richfield 12,County Commission Seat A,,REP,SCOTT T. JOHNSON,280
+SEVIER,Richfield 12,County Commission Seat B,,REP,GREG JENSEN,285
+SEVIER,Richfield 12,County Attorney,,REP,CASEY WAYNE JEWKES,290
+SEVIER,Richfield 12,County Clerk/Auditor,,REP,STEVEN C WALL,285
+SEVIER,Richfield 12,County Sheriff,,REP,NATHAN J. CURTIS,297
+SEVIER,Richfield 12,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,284
+SEVIER,Richfield 12,Local School Board,2,,RYAN W SAVAGE,282
+SEVIER,Richfield 12,Paige Petersen Judicial Retention,,,YES,259
+SEVIER,Richfield 12,Paige Petersen Judicial Retention,,,NO,31
+SEVIER,Richfield 12,Brody L. Keisel Judicial Retention,,,YES,255
+SEVIER,Richfield 12,Brody L. Keisel Judicial Retention,,,NO,36
+SEVIER,Richfield 12,Constitutional Amendment A,,,FOR,125
+SEVIER,Richfield 12,Constitutional Amendment A,,,AGAINST,173
+SEVIER,Richfield 13,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,498
+SEVIER,Richfield 13,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,336
+SEVIER,Richfield 13,U.S. Senate,,,EVAN MCMULLIN,56
+SEVIER,Richfield 13,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,7
+SEVIER,Richfield 13,U.S. Senate,,REP,MIKE LEE,269
+SEVIER,Richfield 13,U.S. Senate,,IAP,TOMMY WILLIAMS,3
+SEVIER,Richfield 13,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Richfield 13,U.S. House,2,DEM,NICK MITCHELL,28
+SEVIER,Richfield 13,U.S. House,2,UUP,JAYMAC MCFARLAND,4
+SEVIER,Richfield 13,U.S. House,2,CON,CASSIE EASLEY,6
+SEVIER,Richfield 13,U.S. House,2,REP,CHRIS STEWART,296
+SEVIER,Richfield 13,State Treasurer,,REP,MARLO M. OAKS,284
+SEVIER,Richfield 13,State Treasurer,,UUP,THOMAS ALAN HORNE,12
+SEVIER,Richfield 13,State Treasurer,,IAP,WARREN T ROGERS,5
+SEVIER,Richfield 13,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,17
+SEVIER,Richfield 13,State House,70,UUP,ZENO B PARRY,23
+SEVIER,Richfield 13,State House,70,REP,CARL R. ALBRECHT,307
+SEVIER,Richfield 13,State School Board,14,REP,EMILY GREEN,287
+SEVIER,Richfield 13,State School Board,14,LIB,RICHARD JENSEN,33
+SEVIER,Richfield 13,County Commission Seat A,,REP,SCOTT T. JOHNSON,314
+SEVIER,Richfield 13,County Commission Seat B,,REP,GREG JENSEN,313
+SEVIER,Richfield 13,County Attorney,,REP,CASEY WAYNE JEWKES,315
+SEVIER,Richfield 13,County Clerk/Auditor,,REP,STEVEN C WALL,308
+SEVIER,Richfield 13,County Sheriff,,REP,NATHAN J. CURTIS,318
+SEVIER,Richfield 13,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,310
+SEVIER,Richfield 13,Local School Board,2,,RYAN W SAVAGE,308
+SEVIER,Richfield 13,Paige Petersen Judicial Retention,,,YES,289
+SEVIER,Richfield 13,Paige Petersen Judicial Retention,,,NO,18
+SEVIER,Richfield 13,Brody L. Keisel Judicial Retention,,,YES,288
+SEVIER,Richfield 13,Brody L. Keisel Judicial Retention,,,NO,21
+SEVIER,Richfield 13,Constitutional Amendment A,,,FOR,128
+SEVIER,Richfield 13,Constitutional Amendment A,,,AGAINST,198
+SEVIER,Salina 14,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,387
+SEVIER,Salina 14,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,245
+SEVIER,Salina 14,U.S. Senate,,,EVAN MCMULLIN,31
+SEVIER,Salina 14,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
+SEVIER,Salina 14,U.S. Senate,,REP,MIKE LEE,206
+SEVIER,Salina 14,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+SEVIER,Salina 14,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Salina 14,U.S. House,2,DEM,NICK MITCHELL,19
+SEVIER,Salina 14,U.S. House,2,UUP,JAYMAC MCFARLAND,3
+SEVIER,Salina 14,U.S. House,2,CON,CASSIE EASLEY,8
+SEVIER,Salina 14,U.S. House,2,REP,CHRIS STEWART,214
+SEVIER,Salina 14,State Treasurer,,REP,MARLO M. OAKS,218
+SEVIER,Salina 14,State Treasurer,,UUP,THOMAS ALAN HORNE,10
+SEVIER,Salina 14,State Treasurer,,IAP,WARREN T ROGERS,7
+SEVIER,Salina 14,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,8
+SEVIER,Salina 14,State House,70,UUP,ZENO B PARRY,18
+SEVIER,Salina 14,State House,70,REP,CARL R. ALBRECHT,225
+SEVIER,Salina 14,State School Board,14,REP,EMILY GREEN,208
+SEVIER,Salina 14,State School Board,14,LIB,RICHARD JENSEN,29
+SEVIER,Salina 14,County Commission Seat A,,REP,SCOTT T. JOHNSON,223
+SEVIER,Salina 14,County Commission Seat B,,REP,GREG JENSEN,226
+SEVIER,Salina 14,County Attorney,,REP,CASEY WAYNE JEWKES,221
+SEVIER,Salina 14,County Clerk/Auditor,,REP,STEVEN C WALL,224
+SEVIER,Salina 14,County Sheriff,,REP,NATHAN J. CURTIS,226
+SEVIER,Salina 14,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,219
+SEVIER,Salina 14,Paige Petersen Judicial Retention,,,YES,195
+SEVIER,Salina 14,Paige Petersen Judicial Retention,,,NO,32
+SEVIER,Salina 14,Brody L. Keisel Judicial Retention,,,YES,189
+SEVIER,Salina 14,Brody L. Keisel Judicial Retention,,,NO,41
+SEVIER,Salina 14,Constitutional Amendment A,,,FOR,72
+SEVIER,Salina 14,Constitutional Amendment A,,,AGAINST,160
+SEVIER,Salina 15,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,541
+SEVIER,Salina 15,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,293
+SEVIER,Salina 15,U.S. Senate,,,EVAN MCMULLIN,37
+SEVIER,Salina 15,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+SEVIER,Salina 15,U.S. Senate,,REP,MIKE LEE,251
+SEVIER,Salina 15,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+SEVIER,Salina 15,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Salina 15,U.S. House,2,DEM,NICK MITCHELL,26
+SEVIER,Salina 15,U.S. House,2,UUP,JAYMAC MCFARLAND,3
+SEVIER,Salina 15,U.S. House,2,CON,CASSIE EASLEY,5
+SEVIER,Salina 15,U.S. House,2,REP,CHRIS STEWART,259
+SEVIER,Salina 15,State Treasurer,,REP,MARLO M. OAKS,254
+SEVIER,Salina 15,State Treasurer,,UUP,THOMAS ALAN HORNE,8
+SEVIER,Salina 15,State Treasurer,,IAP,WARREN T ROGERS,17
+SEVIER,Salina 15,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,9
+SEVIER,Salina 15,State House,70,UUP,ZENO B PARRY,30
+SEVIER,Salina 15,State House,70,REP,CARL R. ALBRECHT,261
+SEVIER,Salina 15,State School Board,14,REP,EMILY GREEN,257
+SEVIER,Salina 15,State School Board,14,LIB,RICHARD JENSEN,30
+SEVIER,Salina 15,County Commission Seat A,,REP,SCOTT T. JOHNSON,276
+SEVIER,Salina 15,County Commission Seat B,,REP,GREG JENSEN,269
+SEVIER,Salina 15,County Attorney,,REP,CASEY WAYNE JEWKES,269
+SEVIER,Salina 15,County Clerk/Auditor,,REP,STEVEN C WALL,274
+SEVIER,Salina 15,County Sheriff,,REP,NATHAN J. CURTIS,277
+SEVIER,Salina 15,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,265
+SEVIER,Salina 15,Paige Petersen Judicial Retention,,,YES,241
+SEVIER,Salina 15,Paige Petersen Judicial Retention,,,NO,28
+SEVIER,Salina 15,Brody L. Keisel Judicial Retention,,,YES,240
+SEVIER,Salina 15,Brody L. Keisel Judicial Retention,,,NO,31
+SEVIER,Salina 15,Constitutional Amendment A,,,FOR,104
+SEVIER,Salina 15,Constitutional Amendment A,,,AGAINST,159
+SEVIER,Sigurd 16,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,239
+SEVIER,Sigurd 16,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,155
+SEVIER,Sigurd 16,U.S. Senate,,,EVAN MCMULLIN,24
+SEVIER,Sigurd 16,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+SEVIER,Sigurd 16,U.S. Senate,,REP,MIKE LEE,124
+SEVIER,Sigurd 16,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+SEVIER,Sigurd 16,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Sigurd 16,U.S. House,2,DEM,NICK MITCHELL,11
+SEVIER,Sigurd 16,U.S. House,2,UUP,JAYMAC MCFARLAND,1
+SEVIER,Sigurd 16,U.S. House,2,CON,CASSIE EASLEY,4
+SEVIER,Sigurd 16,U.S. House,2,REP,CHRIS STEWART,136
+SEVIER,Sigurd 16,State Treasurer,,REP,MARLO M. OAKS,133
+SEVIER,Sigurd 16,State Treasurer,,UUP,THOMAS ALAN HORNE,2
+SEVIER,Sigurd 16,State Treasurer,,IAP,WARREN T ROGERS,3
+SEVIER,Sigurd 16,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,10
+SEVIER,Sigurd 16,State House,70,UUP,ZENO B PARRY,8
+SEVIER,Sigurd 16,State House,70,REP,CARL R. ALBRECHT,145
+SEVIER,Sigurd 16,State School Board,14,REP,EMILY GREEN,131
+SEVIER,Sigurd 16,State School Board,14,LIB,RICHARD JENSEN,19
+SEVIER,Sigurd 16,County Commission Seat A,,REP,SCOTT T. JOHNSON,138
+SEVIER,Sigurd 16,County Commission Seat B,,REP,GREG JENSEN,140
+SEVIER,Sigurd 16,County Attorney,,REP,CASEY WAYNE JEWKES,135
+SEVIER,Sigurd 16,County Clerk/Auditor,,REP,STEVEN C WALL,135
+SEVIER,Sigurd 16,County Sheriff,,REP,NATHAN J. CURTIS,140
+SEVIER,Sigurd 16,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,136
+SEVIER,Sigurd 16,Paige Petersen Judicial Retention,,,YES,106
+SEVIER,Sigurd 16,Paige Petersen Judicial Retention,,,NO,28
+SEVIER,Sigurd 16,Brody L. Keisel Judicial Retention,,,YES,115
+SEVIER,Sigurd 16,Brody L. Keisel Judicial Retention,,,NO,22
+SEVIER,Sigurd 16,Constitutional Amendment A,,,FOR,32
+SEVIER,Sigurd 16,Constitutional Amendment A,,,AGAINST,114
+SEVIER,Koosharem 17,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,179
+SEVIER,Koosharem 17,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,118
+SEVIER,Koosharem 17,U.S. Senate,,,EVAN MCMULLIN,10
+SEVIER,Koosharem 17,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+SEVIER,Koosharem 17,U.S. Senate,,REP,MIKE LEE,106
+SEVIER,Koosharem 17,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+SEVIER,Koosharem 17,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Koosharem 17,U.S. House,2,DEM,NICK MITCHELL,7
+SEVIER,Koosharem 17,U.S. House,2,UUP,JAYMAC MCFARLAND,1
+SEVIER,Koosharem 17,U.S. House,2,CON,CASSIE EASLEY,2
+SEVIER,Koosharem 17,U.S. House,2,REP,CHRIS STEWART,107
+SEVIER,Koosharem 17,State Treasurer,,REP,MARLO M. OAKS,103
+SEVIER,Koosharem 17,State Treasurer,,UUP,THOMAS ALAN HORNE,5
+SEVIER,Koosharem 17,State Treasurer,,IAP,WARREN T ROGERS,2
+SEVIER,Koosharem 17,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,3
+SEVIER,Koosharem 17,State House,70,UUP,ZENO B PARRY,8
+SEVIER,Koosharem 17,State House,70,REP,CARL R. ALBRECHT,107
+SEVIER,Koosharem 17,State School Board,14,REP,EMILY GREEN,106
+SEVIER,Koosharem 17,State School Board,14,LIB,RICHARD JENSEN,8
+SEVIER,Koosharem 17,County Commission Seat A,,REP,SCOTT T. JOHNSON,110
+SEVIER,Koosharem 17,County Commission Seat B,,REP,GREG JENSEN,111
+SEVIER,Koosharem 17,County Attorney,,REP,CASEY WAYNE JEWKES,108
+SEVIER,Koosharem 17,County Clerk/Auditor,,REP,STEVEN C WALL,112
+SEVIER,Koosharem 17,County Sheriff,,REP,NATHAN J. CURTIS,112
+SEVIER,Koosharem 17,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,111
+SEVIER,Koosharem 17,Paige Petersen Judicial Retention,,,YES,99
+SEVIER,Koosharem 17,Paige Petersen Judicial Retention,,,NO,11
+SEVIER,Koosharem 17,Brody L. Keisel Judicial Retention,,,YES,97
+SEVIER,Koosharem 17,Brody L. Keisel Judicial Retention,,,NO,13
+SEVIER,Koosharem 17,Constitutional Amendment A,,,FOR,37
+SEVIER,Koosharem 17,Constitutional Amendment A,,,AGAINST,78
+SEVIER,Venice 18,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,231
+SEVIER,Venice 18,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,169
+SEVIER,Venice 18,U.S. Senate,,,EVAN MCMULLIN,16
+SEVIER,Venice 18,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+SEVIER,Venice 18,U.S. Senate,,REP,MIKE LEE,146
+SEVIER,Venice 18,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+SEVIER,Venice 18,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Venice 18,U.S. House,2,DEM,NICK MITCHELL,8
+SEVIER,Venice 18,U.S. House,2,UUP,JAYMAC MCFARLAND,3
+SEVIER,Venice 18,U.S. House,2,CON,CASSIE EASLEY,4
+SEVIER,Venice 18,U.S. House,2,REP,CHRIS STEWART,151
+SEVIER,Venice 18,State Treasurer,,REP,MARLO M. OAKS,150
+SEVIER,Venice 18,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+SEVIER,Venice 18,State Treasurer,,IAP,WARREN T ROGERS,4
+SEVIER,Venice 18,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,5
+SEVIER,Venice 18,State House,70,UUP,ZENO B PARRY,4
+SEVIER,Venice 18,State House,70,REP,CARL R. ALBRECHT,163
+SEVIER,Venice 18,State School Board,14,REP,EMILY GREEN,144
+SEVIER,Venice 18,State School Board,14,LIB,RICHARD JENSEN,12
+SEVIER,Venice 18,County Commission Seat A,,REP,SCOTT T. JOHNSON,152
+SEVIER,Venice 18,County Commission Seat B,,REP,GREG JENSEN,157
+SEVIER,Venice 18,County Attorney,,REP,CASEY WAYNE JEWKES,152
+SEVIER,Venice 18,County Clerk/Auditor,,REP,STEVEN C WALL,158
+SEVIER,Venice 18,County Sheriff,,REP,NATHAN J. CURTIS,162
+SEVIER,Venice 18,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,154
+SEVIER,Venice 18,Paige Petersen Judicial Retention,,,YES,139
+SEVIER,Venice 18,Paige Petersen Judicial Retention,,,NO,21
+SEVIER,Venice 18,Brody L. Keisel Judicial Retention,,,YES,143
+SEVIER,Venice 18,Brody L. Keisel Judicial Retention,,,NO,20
+SEVIER,Venice 18,Constitutional Amendment A,,,FOR,64
+SEVIER,Venice 18,Constitutional Amendment A,,,AGAINST,95
+SEVIER,Richfield 20,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,472
+SEVIER,Richfield 20,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,296
+SEVIER,Richfield 20,U.S. Senate,,,EVAN MCMULLIN,59
+SEVIER,Richfield 20,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,10
+SEVIER,Richfield 20,U.S. Senate,,REP,MIKE LEE,215
+SEVIER,Richfield 20,U.S. Senate,,IAP,TOMMY WILLIAMS,9
+SEVIER,Richfield 20,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Richfield 20,U.S. House,2,DEM,NICK MITCHELL,36
+SEVIER,Richfield 20,U.S. House,2,UUP,JAYMAC MCFARLAND,7
+SEVIER,Richfield 20,U.S. House,2,CON,CASSIE EASLEY,7
+SEVIER,Richfield 20,U.S. House,2,REP,CHRIS STEWART,243
+SEVIER,Richfield 20,State Treasurer,,REP,MARLO M. OAKS,241
+SEVIER,Richfield 20,State Treasurer,,UUP,THOMAS ALAN HORNE,8
+SEVIER,Richfield 20,State Treasurer,,IAP,WARREN T ROGERS,15
+SEVIER,Richfield 20,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,24
+SEVIER,Richfield 20,State House,70,UUP,ZENO B PARRY,39
+SEVIER,Richfield 20,State House,70,REP,CARL R. ALBRECHT,251
+SEVIER,Richfield 20,State School Board,14,REP,EMILY GREEN,236
+SEVIER,Richfield 20,State School Board,14,LIB,RICHARD JENSEN,49
+SEVIER,Richfield 20,County Commission Seat A,,REP,SCOTT T. JOHNSON,256
+SEVIER,Richfield 20,County Commission Seat B,,REP,GREG JENSEN,255
+SEVIER,Richfield 20,County Attorney,,REP,CASEY WAYNE JEWKES,251
+SEVIER,Richfield 20,County Clerk/Auditor,,REP,STEVEN C WALL,261
+SEVIER,Richfield 20,County Sheriff,,REP,NATHAN J. CURTIS,273
+SEVIER,Richfield 20,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,256
+SEVIER,Richfield 20,Local School Board,3,,JACK G HANSEN,258
+SEVIER,Richfield 20,Paige Petersen Judicial Retention,,,YES,231
+SEVIER,Richfield 20,Paige Petersen Judicial Retention,,,NO,38
+SEVIER,Richfield 20,Brody L. Keisel Judicial Retention,,,YES,223
+SEVIER,Richfield 20,Brody L. Keisel Judicial Retention,,,NO,47
+SEVIER,Richfield 20,Constitutional Amendment A,,,FOR,99
+SEVIER,Richfield 20,Constitutional Amendment A,,,AGAINST,175
+SEVIER,Richfield 21,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,432
+SEVIER,Richfield 21,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,274
+SEVIER,Richfield 21,U.S. Senate,,,EVAN MCMULLIN,50
+SEVIER,Richfield 21,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
+SEVIER,Richfield 21,U.S. Senate,,REP,MIKE LEE,218
+SEVIER,Richfield 21,U.S. Senate,,IAP,TOMMY WILLIAMS,5
+SEVIER,Richfield 21,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Richfield 21,U.S. House,2,DEM,NICK MITCHELL,30
+SEVIER,Richfield 21,U.S. House,2,UUP,JAYMAC MCFARLAND,5
+SEVIER,Richfield 21,U.S. House,2,CON,CASSIE EASLEY,9
+SEVIER,Richfield 21,U.S. House,2,REP,CHRIS STEWART,229
+SEVIER,Richfield 21,State Treasurer,,REP,MARLO M. OAKS,233
+SEVIER,Richfield 21,State Treasurer,,UUP,THOMAS ALAN HORNE,10
+SEVIER,Richfield 21,State Treasurer,,IAP,WARREN T ROGERS,11
+SEVIER,Richfield 21,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,12
+SEVIER,Richfield 21,State House,70,UUP,ZENO B PARRY,17
+SEVIER,Richfield 21,State House,70,REP,CARL R. ALBRECHT,248
+SEVIER,Richfield 21,State School Board,14,REP,EMILY GREEN,233
+SEVIER,Richfield 21,State School Board,14,LIB,RICHARD JENSEN,27
+SEVIER,Richfield 21,County Commission Seat A,,REP,SCOTT T. JOHNSON,245
+SEVIER,Richfield 21,County Commission Seat B,,REP,GREG JENSEN,250
+SEVIER,Richfield 21,County Attorney,,REP,CASEY WAYNE JEWKES,248
+SEVIER,Richfield 21,County Clerk/Auditor,,REP,STEVEN C WALL,247
+SEVIER,Richfield 21,County Sheriff,,REP,NATHAN J. CURTIS,256
+SEVIER,Richfield 21,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,248
+SEVIER,Richfield 21,Local School Board,2,,RYAN W SAVAGE,244
+SEVIER,Richfield 21,Paige Petersen Judicial Retention,,,YES,231
+SEVIER,Richfield 21,Paige Petersen Judicial Retention,,,NO,27
+SEVIER,Richfield 21,Brody L. Keisel Judicial Retention,,,YES,226
+SEVIER,Richfield 21,Brody L. Keisel Judicial Retention,,,NO,32
+SEVIER,Richfield 21,Constitutional Amendment A,,,FOR,112
+SEVIER,Richfield 21,Constitutional Amendment A,,,AGAINST,147
+SEVIER,Richfield 22,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,447
+SEVIER,Richfield 22,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,348
+SEVIER,Richfield 22,U.S. Senate,,,EVAN MCMULLIN,63
+SEVIER,Richfield 22,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+SEVIER,Richfield 22,U.S. Senate,,REP,MIKE LEE,280
+SEVIER,Richfield 22,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+SEVIER,Richfield 22,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Richfield 22,U.S. House,2,DEM,NICK MITCHELL,22
+SEVIER,Richfield 22,U.S. House,2,UUP,JAYMAC MCFARLAND,9
+SEVIER,Richfield 22,U.S. House,2,CON,CASSIE EASLEY,5
+SEVIER,Richfield 22,U.S. House,2,REP,CHRIS STEWART,310
+SEVIER,Richfield 22,State Treasurer,,REP,MARLO M. OAKS,306
+SEVIER,Richfield 22,State Treasurer,,UUP,THOMAS ALAN HORNE,11
+SEVIER,Richfield 22,State Treasurer,,IAP,WARREN T ROGERS,4
+SEVIER,Richfield 22,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,8
+SEVIER,Richfield 22,State House,70,UUP,ZENO B PARRY,17
+SEVIER,Richfield 22,State House,70,REP,CARL R. ALBRECHT,325
+SEVIER,Richfield 22,State School Board,14,REP,EMILY GREEN,316
+SEVIER,Richfield 22,State School Board,14,LIB,RICHARD JENSEN,19
+SEVIER,Richfield 22,County Commission Seat A,,REP,SCOTT T. JOHNSON,316
+SEVIER,Richfield 22,County Commission Seat B,,REP,GREG JENSEN,318
+SEVIER,Richfield 22,County Attorney,,REP,CASEY WAYNE JEWKES,320
+SEVIER,Richfield 22,County Clerk/Auditor,,REP,STEVEN C WALL,325
+SEVIER,Richfield 22,County Sheriff,,REP,NATHAN J. CURTIS,329
+SEVIER,Richfield 22,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,319
+SEVIER,Richfield 22,Local School Board,3,,JACK G HANSEN,318
+SEVIER,Richfield 22,Paige Petersen Judicial Retention,,,YES,296
+SEVIER,Richfield 22,Paige Petersen Judicial Retention,,,NO,24
+SEVIER,Richfield 22,Brody L. Keisel Judicial Retention,,,YES,289
+SEVIER,Richfield 22,Brody L. Keisel Judicial Retention,,,NO,30
+SEVIER,Richfield 22,Constitutional Amendment A,,,FOR,152
+SEVIER,Richfield 22,Constitutional Amendment A,,,AGAINST,151
+SEVIER,Richfield 23,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,604
+SEVIER,Richfield 23,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,429
+SEVIER,Richfield 23,U.S. Senate,,,EVAN MCMULLIN,69
+SEVIER,Richfield 23,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,12
+SEVIER,Richfield 23,U.S. Senate,,REP,MIKE LEE,339
+SEVIER,Richfield 23,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+SEVIER,Richfield 23,U.S. Senate,,,WRITE-IN TOTALS,1
+SEVIER,Richfield 23,U.S. House,2,DEM,NICK MITCHELL,20
+SEVIER,Richfield 23,U.S. House,2,UUP,JAYMAC MCFARLAND,6
+SEVIER,Richfield 23,U.S. House,2,CON,CASSIE EASLEY,13
+SEVIER,Richfield 23,U.S. House,2,REP,CHRIS STEWART,384
+SEVIER,Richfield 23,State Treasurer,,REP,MARLO M. OAKS,379
+SEVIER,Richfield 23,State Treasurer,,UUP,THOMAS ALAN HORNE,15
+SEVIER,Richfield 23,State Treasurer,,IAP,WARREN T ROGERS,7
+SEVIER,Richfield 23,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,13
+SEVIER,Richfield 23,State House,70,UUP,ZENO B PARRY,19
+SEVIER,Richfield 23,State House,70,REP,CARL R. ALBRECHT,404
+SEVIER,Richfield 23,State School Board,14,REP,EMILY GREEN,367
+SEVIER,Richfield 23,State School Board,14,LIB,RICHARD JENSEN,38
+SEVIER,Richfield 23,County Commission Seat A,,REP,SCOTT T. JOHNSON,401
+SEVIER,Richfield 23,County Commission Seat B,,REP,GREG JENSEN,394
+SEVIER,Richfield 23,County Attorney,,REP,CASEY WAYNE JEWKES,406
+SEVIER,Richfield 23,County Clerk/Auditor,,REP,STEVEN C WALL,401
+SEVIER,Richfield 23,County Sheriff,,REP,NATHAN J. CURTIS,411
+SEVIER,Richfield 23,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,403
+SEVIER,Richfield 23,Local School Board,2,,RYAN W SAVAGE,390
+SEVIER,Richfield 23,Paige Petersen Judicial Retention,,,YES,344
+SEVIER,Richfield 23,Paige Petersen Judicial Retention,,,NO,44
+SEVIER,Richfield 23,Brody L. Keisel Judicial Retention,,,YES,349
+SEVIER,Richfield 23,Brody L. Keisel Judicial Retention,,,NO,42
+SEVIER,Richfield 23,Constitutional Amendment A,,,FOR,171
+SEVIER,Richfield 23,Constitutional Amendment A,,,AGAINST,228
+SEVIER,Richfield 24,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,666
+SEVIER,Richfield 24,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,431
+SEVIER,Richfield 24,U.S. Senate,,,EVAN MCMULLIN,70
+SEVIER,Richfield 24,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,9
+SEVIER,Richfield 24,U.S. Senate,,REP,MIKE LEE,346
+SEVIER,Richfield 24,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+SEVIER,Richfield 24,U.S. Senate,,,WRITE-IN TOTALS,1
+SEVIER,Richfield 24,U.S. House,2,DEM,NICK MITCHELL,40
+SEVIER,Richfield 24,U.S. House,2,UUP,JAYMAC MCFARLAND,9
+SEVIER,Richfield 24,U.S. House,2,CON,CASSIE EASLEY,9
+SEVIER,Richfield 24,U.S. House,2,REP,CHRIS STEWART,368
+SEVIER,Richfield 24,State Treasurer,,REP,MARLO M. OAKS,373
+SEVIER,Richfield 24,State Treasurer,,UUP,THOMAS ALAN HORNE,13
+SEVIER,Richfield 24,State Treasurer,,IAP,WARREN T ROGERS,13
+SEVIER,Richfield 24,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,17
+SEVIER,Richfield 24,State House,70,UUP,ZENO B PARRY,35
+SEVIER,Richfield 24,State House,70,REP,CARL R. ALBRECHT,390
+SEVIER,Richfield 24,State School Board,14,REP,EMILY GREEN,357
+SEVIER,Richfield 24,State School Board,14,LIB,RICHARD JENSEN,44
+SEVIER,Richfield 24,County Commission Seat A,,REP,SCOTT T. JOHNSON,396
+SEVIER,Richfield 24,County Commission Seat B,,REP,GREG JENSEN,402
+SEVIER,Richfield 24,County Attorney,,REP,CASEY WAYNE JEWKES,401
+SEVIER,Richfield 24,County Clerk/Auditor,,REP,STEVEN C WALL,393
+SEVIER,Richfield 24,County Sheriff,,REP,NATHAN J. CURTIS,411
+SEVIER,Richfield 24,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,398
+SEVIER,Richfield 24,Local School Board,3,,JACK G HANSEN,392
+SEVIER,Richfield 24,Paige Petersen Judicial Retention,,,YES,350
+SEVIER,Richfield 24,Paige Petersen Judicial Retention,,,NO,49
+SEVIER,Richfield 24,Brody L. Keisel Judicial Retention,,,YES,348
+SEVIER,Richfield 24,Brody L. Keisel Judicial Retention,,,NO,52
+SEVIER,Richfield 24,Constitutional Amendment A,,,FOR,161
+SEVIER,Richfield 24,Constitutional Amendment A,,,AGAINST,228
+SEVIER,Salina 25,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,421
+SEVIER,Salina 25,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,270
+SEVIER,Salina 25,U.S. Senate,,,EVAN MCMULLIN,50
+SEVIER,Salina 25,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+SEVIER,Salina 25,U.S. Senate,,REP,MIKE LEE,212
+SEVIER,Salina 25,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+SEVIER,Salina 25,U.S. Senate,,,WRITE-IN TOTALS,0
+SEVIER,Salina 25,U.S. House,2,DEM,NICK MITCHELL,28
+SEVIER,Salina 25,U.S. House,2,UUP,JAYMAC MCFARLAND,8
+SEVIER,Salina 25,U.S. House,2,CON,CASSIE EASLEY,7
+SEVIER,Salina 25,U.S. House,2,REP,CHRIS STEWART,227
+SEVIER,Salina 25,State Treasurer,,REP,MARLO M. OAKS,235
+SEVIER,Salina 25,State Treasurer,,UUP,THOMAS ALAN HORNE,9
+SEVIER,Salina 25,State Treasurer,,IAP,WARREN T ROGERS,6
+SEVIER,Salina 25,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,14
+SEVIER,Salina 25,State House,70,UUP,ZENO B PARRY,30
+SEVIER,Salina 25,State House,70,REP,CARL R. ALBRECHT,239
+SEVIER,Salina 25,State School Board,14,REP,EMILY GREEN,222
+SEVIER,Salina 25,State School Board,14,LIB,RICHARD JENSEN,38
+SEVIER,Salina 25,County Commission Seat A,,REP,SCOTT T. JOHNSON,253
+SEVIER,Salina 25,County Commission Seat B,,REP,GREG JENSEN,254
+SEVIER,Salina 25,County Attorney,,REP,CASEY WAYNE JEWKES,249
+SEVIER,Salina 25,County Clerk/Auditor,,REP,STEVEN C WALL,250
+SEVIER,Salina 25,County Sheriff,,REP,NATHAN J. CURTIS,255
+SEVIER,Salina 25,County Treasurer,,REP,LINDSEY HAWLEY HANSEN,251
+SEVIER,Salina 25,Paige Petersen Judicial Retention,,,YES,219
+SEVIER,Salina 25,Paige Petersen Judicial Retention,,,NO,29
+SEVIER,Salina 25,Brody L. Keisel Judicial Retention,,,YES,217
+SEVIER,Salina 25,Brody L. Keisel Judicial Retention,,,NO,32
+SEVIER,Salina 25,Constitutional Amendment A,,,FOR,90
+SEVIER,Salina 25,Constitutional Amendment A,,,AGAINST,159

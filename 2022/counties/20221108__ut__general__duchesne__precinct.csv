@@ -1,0 +1,601 @@
+county,precinct,office,district,party,candidate,votes
+Duchesne,AB11,Registered Voters,,,,513
+Duchesne,AB11,Ballots Cast,,,,312
+Duchesne,AB11,Ballots Cast - Blank,,,,0
+Duchesne,AB11,U.S. Senate,,UNA,EVAN MCMULLIN,28
+Duchesne,AB11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+Duchesne,AB11,U.S. Senate,,REP,MIKE LEE,279
+Duchesne,AB11,U.S. Senate,,IAP,TOMMY WILLIAMS,3
+Duchesne,AB11,U.S. Senate,,,Write-ins,0
+Duchesne,AB11,U.S. Senate,,,Over Votes,0
+Duchesne,AB11,U.S. Senate,,,Under Votes,0
+Duchesne,AB11,U.S. House,3,IAP,AARON HEINEMAN,5
+Duchesne,AB11,U.S. House,3,DEM,GLENN J. WRIGHT,11
+Duchesne,AB11,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,10
+Duchesne,AB11,U.S. House,3,REP,JOHN CURTIS,282
+Duchesne,AB11,U.S. House,3,LIB,MICHAEL R. STODDARD,3
+Duchesne,AB11,U.S. House,3,,Over Votes,0
+Duchesne,AB11,U.S. House,3,,Under Votes,1
+Duchesne,AB11,State Treasurer,,REP,MARLO M. OAKS,286
+Duchesne,AB11,State Treasurer,,UUP,THOMAS ALAN HORNE,0
+Duchesne,AB11,State Treasurer,,IAP,WARREN T ROGERS,10
+Duchesne,AB11,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,9
+Duchesne,AB11,State Treasurer,,,Over Votes,0
+Duchesne,AB11,State Treasurer,,,Under Votes,7
+Duchesne,AB11,State Senate,20,REP,RONALD M. WINTERTON,272
+Duchesne,AB11,State Senate,20,DEM,JILL M. FELLOW,25
+Duchesne,AB11,State Senate,20,,Over Votes,0
+Duchesne,AB11,State Senate,20,,Under Votes,15
+Duchesne,AB11,State House,68,REP,SCOTT H. CHEW,284
+Duchesne,AB11,State House,68,,Over Votes,0
+Duchesne,AB11,State House,68,,Under Votes,28
+Duchesne,AL12,Registered Voters,,,,130
+Duchesne,AL12,Ballots Cast,,,,77
+Duchesne,AL12,Ballots Cast - Blank,,,,0
+Duchesne,AL12,U.S. Senate,,UNA,EVAN MCMULLIN,13
+Duchesne,AL12,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+Duchesne,AL12,U.S. Senate,,REP,MIKE LEE,60
+Duchesne,AL12,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Duchesne,AL12,U.S. Senate,,,Write-ins,0
+Duchesne,AL12,U.S. Senate,,,Over Votes,0
+Duchesne,AL12,U.S. Senate,,,Under Votes,1
+Duchesne,AL12,U.S. House,3,IAP,AARON HEINEMAN,1
+Duchesne,AL12,U.S. House,3,DEM,GLENN J. WRIGHT,8
+Duchesne,AL12,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,3
+Duchesne,AL12,U.S. House,3,REP,JOHN CURTIS,63
+Duchesne,AL12,U.S. House,3,LIB,MICHAEL R. STODDARD,0
+Duchesne,AL12,U.S. House,3,,Over Votes,0
+Duchesne,AL12,U.S. House,3,,Under Votes,2
+Duchesne,AL12,State Treasurer,,REP,MARLO M. OAKS,67
+Duchesne,AL12,State Treasurer,,UUP,THOMAS ALAN HORNE,2
+Duchesne,AL12,State Treasurer,,IAP,WARREN T ROGERS,3
+Duchesne,AL12,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,4
+Duchesne,AL12,State Treasurer,,,Over Votes,0
+Duchesne,AL12,State Treasurer,,,Under Votes,1
+Duchesne,AL12,State Senate,20,REP,RONALD M. WINTERTON,62
+Duchesne,AL12,State Senate,20,DEM,JILL M. FELLOW,14
+Duchesne,AL12,State Senate,20,,Over Votes,0
+Duchesne,AL12,State Senate,20,,Under Votes,1
+Duchesne,AL12,State House,68,REP,SCOTT H. CHEW,67
+Duchesne,AL12,State House,68,,Over Votes,0
+Duchesne,AL12,State House,68,,Under Votes,10
+Duchesne,AM11,Registered Voters,,,,371
+Duchesne,AM11,Ballots Cast,,,,259
+Duchesne,AM11,Ballots Cast - Blank,,,,0
+Duchesne,AM11,U.S. Senate,,UNA,EVAN MCMULLIN,31
+Duchesne,AM11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+Duchesne,AM11,U.S. Senate,,REP,MIKE LEE,221
+Duchesne,AM11,U.S. Senate,,IAP,TOMMY WILLIAMS,3
+Duchesne,AM11,U.S. Senate,,,Write-ins,0
+Duchesne,AM11,U.S. Senate,,,Over Votes,0
+Duchesne,AM11,U.S. Senate,,,Under Votes,0
+Duchesne,AM11,U.S. House,3,IAP,AARON HEINEMAN,4
+Duchesne,AM11,U.S. House,3,DEM,GLENN J. WRIGHT,17
+Duchesne,AM11,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,5
+Duchesne,AM11,U.S. House,3,REP,JOHN CURTIS,224
+Duchesne,AM11,U.S. House,3,LIB,MICHAEL R. STODDARD,3
+Duchesne,AM11,U.S. House,3,,Over Votes,0
+Duchesne,AM11,U.S. House,3,,Under Votes,6
+Duchesne,AM11,State Treasurer,,REP,MARLO M. OAKS,229
+Duchesne,AM11,State Treasurer,,UUP,THOMAS ALAN HORNE,3
+Duchesne,AM11,State Treasurer,,IAP,WARREN T ROGERS,7
+Duchesne,AM11,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,11
+Duchesne,AM11,State Treasurer,,,Over Votes,0
+Duchesne,AM11,State Treasurer,,,Under Votes,9
+Duchesne,AM11,State Senate,20,REP,RONALD M. WINTERTON,227
+Duchesne,AM11,State Senate,20,DEM,JILL M. FELLOW,25
+Duchesne,AM11,State Senate,20,,Over Votes,1
+Duchesne,AM11,State Senate,20,,Under Votes,6
+Duchesne,AM11,State House,67,REP,CHRISTINE F. WATKINS,225
+Duchesne,AM11,State House,67,,Over Votes,0
+Duchesne,AM11,State House,67,,Under Votes,34
+Duchesne,AR11,Registered Voters,,,,422
+Duchesne,AR11,Ballots Cast,,,,263
+Duchesne,AR11,Ballots Cast - Blank,,,,0
+Duchesne,AR11,U.S. Senate,,UNA,EVAN MCMULLIN,22
+Duchesne,AR11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
+Duchesne,AR11,U.S. Senate,,REP,MIKE LEE,232
+Duchesne,AR11,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+Duchesne,AR11,U.S. Senate,,,Write-ins,0
+Duchesne,AR11,U.S. Senate,,,Over Votes,0
+Duchesne,AR11,U.S. Senate,,,Under Votes,2
+Duchesne,AR11,U.S. House,3,IAP,AARON HEINEMAN,8
+Duchesne,AR11,U.S. House,3,DEM,GLENN J. WRIGHT,12
+Duchesne,AR11,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,3
+Duchesne,AR11,U.S. House,3,REP,JOHN CURTIS,235
+Duchesne,AR11,U.S. House,3,LIB,MICHAEL R. STODDARD,3
+Duchesne,AR11,U.S. House,3,,Over Votes,0
+Duchesne,AR11,U.S. House,3,,Under Votes,2
+Duchesne,AR11,State Treasurer,,REP,MARLO M. OAKS,242
+Duchesne,AR11,State Treasurer,,UUP,THOMAS ALAN HORNE,3
+Duchesne,AR11,State Treasurer,,IAP,WARREN T ROGERS,6
+Duchesne,AR11,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,4
+Duchesne,AR11,State Treasurer,,,Over Votes,0
+Duchesne,AR11,State Treasurer,,,Under Votes,8
+Duchesne,AR11,State Senate,20,REP,RONALD M. WINTERTON,238
+Duchesne,AR11,State Senate,20,DEM,JILL M. FELLOW,12
+Duchesne,AR11,State Senate,20,,Over Votes,0
+Duchesne,AR11,State Senate,20,,Under Votes,13
+Duchesne,AR11,State House,67,REP,CHRISTINE F. WATKINS,238
+Duchesne,AR11,State House,67,,Over Votes,0
+Duchesne,AR11,State House,67,,Under Votes,25
+Duchesne,DU11,Registered Voters,,,,820
+Duchesne,DU11,Ballots Cast,,,,556
+Duchesne,DU11,Ballots Cast - Blank,,,,0
+Duchesne,DU11,U.S. Senate,,UNA,EVAN MCMULLIN,65
+Duchesne,DU11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,9
+Duchesne,DU11,U.S. Senate,,REP,MIKE LEE,466
+Duchesne,DU11,U.S. Senate,,IAP,TOMMY WILLIAMS,12
+Duchesne,DU11,U.S. Senate,,,Write-ins,1
+Duchesne,DU11,U.S. Senate,,,Over Votes,0
+Duchesne,DU11,U.S. Senate,,,Under Votes,3
+Duchesne,DU11,U.S. House,3,IAP,AARON HEINEMAN,6
+Duchesne,DU11,U.S. House,3,DEM,GLENN J. WRIGHT,48
+Duchesne,DU11,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,12
+Duchesne,DU11,U.S. House,3,REP,JOHN CURTIS,468
+Duchesne,DU11,U.S. House,3,LIB,MICHAEL R. STODDARD,12
+Duchesne,DU11,U.S. House,3,,Over Votes,0
+Duchesne,DU11,U.S. House,3,,Under Votes,10
+Duchesne,DU11,State Treasurer,,REP,MARLO M. OAKS,471
+Duchesne,DU11,State Treasurer,,UUP,THOMAS ALAN HORNE,10
+Duchesne,DU11,State Treasurer,,IAP,WARREN T ROGERS,21
+Duchesne,DU11,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,22
+Duchesne,DU11,State Treasurer,,,Over Votes,0
+Duchesne,DU11,State Treasurer,,,Under Votes,32
+Duchesne,DU11,State Senate,20,REP,RONALD M. WINTERTON,481
+Duchesne,DU11,State Senate,20,DEM,JILL M. FELLOW,60
+Duchesne,DU11,State Senate,20,,Over Votes,0
+Duchesne,DU11,State Senate,20,,Under Votes,15
+Duchesne,DU11,State House,67,REP,CHRISTINE F. WATKINS,454
+Duchesne,DU11,State House,67,,Over Votes,0
+Duchesne,DU11,State House,67,,Under Votes,102
+Duchesne,DU12,Registered Voters,,,,854
+Duchesne,DU12,Ballots Cast,,,,527
+Duchesne,DU12,Ballots Cast - Blank,,,,0
+Duchesne,DU12,U.S. Senate,,UNA,EVAN MCMULLIN,64
+Duchesne,DU12,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,6
+Duchesne,DU12,U.S. Senate,,REP,MIKE LEE,445
+Duchesne,DU12,U.S. Senate,,IAP,TOMMY WILLIAMS,9
+Duchesne,DU12,U.S. Senate,,,Write-ins,1
+Duchesne,DU12,U.S. Senate,,,Over Votes,0
+Duchesne,DU12,U.S. Senate,,,Under Votes,2
+Duchesne,DU12,U.S. House,3,IAP,AARON HEINEMAN,6
+Duchesne,DU12,U.S. House,3,DEM,GLENN J. WRIGHT,22
+Duchesne,DU12,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,27
+Duchesne,DU12,U.S. House,3,REP,JOHN CURTIS,445
+Duchesne,DU12,U.S. House,3,LIB,MICHAEL R. STODDARD,10
+Duchesne,DU12,U.S. House,3,,Over Votes,0
+Duchesne,DU12,U.S. House,3,,Under Votes,17
+Duchesne,DU12,State Treasurer,,REP,MARLO M. OAKS,464
+Duchesne,DU12,State Treasurer,,UUP,THOMAS ALAN HORNE,10
+Duchesne,DU12,State Treasurer,,IAP,WARREN T ROGERS,9
+Duchesne,DU12,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,16
+Duchesne,DU12,State Treasurer,,,Over Votes,0
+Duchesne,DU12,State Treasurer,,,Under Votes,28
+Duchesne,DU12,State Senate,20,REP,RONALD M. WINTERTON,475
+Duchesne,DU12,State Senate,20,DEM,JILL M. FELLOW,37
+Duchesne,DU12,State Senate,20,,Over Votes,0
+Duchesne,DU12,State Senate,20,,Under Votes,15
+Duchesne,DU12,State House,67,REP,CHRISTINE F. WATKINS,449
+Duchesne,DU12,State House,67,,Over Votes,0
+Duchesne,DU12,State House,67,,Under Votes,78
+Duchesne,FR11,Registered Voters,,,,495
+Duchesne,FR11,Ballots Cast,,,,318
+Duchesne,FR11,Ballots Cast - Blank,,,,0
+Duchesne,FR11,U.S. Senate,,UNA,EVAN MCMULLIN,77
+Duchesne,FR11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,9
+Duchesne,FR11,U.S. Senate,,REP,MIKE LEE,225
+Duchesne,FR11,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+Duchesne,FR11,U.S. Senate,,,Write-ins,0
+Duchesne,FR11,U.S. Senate,,,Over Votes,0
+Duchesne,FR11,U.S. Senate,,,Under Votes,1
+Duchesne,FR11,U.S. House,3,IAP,AARON HEINEMAN,6
+Duchesne,FR11,U.S. House,3,DEM,GLENN J. WRIGHT,54
+Duchesne,FR11,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,9
+Duchesne,FR11,U.S. House,3,REP,JOHN CURTIS,244
+Duchesne,FR11,U.S. House,3,LIB,MICHAEL R. STODDARD,4
+Duchesne,FR11,U.S. House,3,,Over Votes,0
+Duchesne,FR11,U.S. House,3,,Under Votes,1
+Duchesne,FR11,State Treasurer,,REP,MARLO M. OAKS,247
+Duchesne,FR11,State Treasurer,,UUP,THOMAS ALAN HORNE,8
+Duchesne,FR11,State Treasurer,,IAP,WARREN T ROGERS,19
+Duchesne,FR11,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,29
+Duchesne,FR11,State Treasurer,,,Over Votes,1
+Duchesne,FR11,State Treasurer,,,Under Votes,14
+Duchesne,FR11,State Senate,20,REP,RONALD M. WINTERTON,248
+Duchesne,FR11,State Senate,20,DEM,JILL M. FELLOW,64
+Duchesne,FR11,State Senate,20,,Over Votes,1
+Duchesne,FR11,State Senate,20,,Under Votes,5
+Duchesne,FR11,State House,67,REP,CHRISTINE F. WATKINS,262
+Duchesne,FR11,State House,67,,Over Votes,0
+Duchesne,FR11,State House,67,,Under Votes,56
+Duchesne,MY12,Registered Voters,,,,228
+Duchesne,MY12,Ballots Cast,,,,126
+Duchesne,MY12,Ballots Cast - Blank,,,,0
+Duchesne,MY12,U.S. Senate,,UNA,EVAN MCMULLIN,21
+Duchesne,MY12,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+Duchesne,MY12,U.S. Senate,,REP,MIKE LEE,94
+Duchesne,MY12,U.S. Senate,,IAP,TOMMY WILLIAMS,5
+Duchesne,MY12,U.S. Senate,,,Write-ins,1
+Duchesne,MY12,U.S. Senate,,,Over Votes,1
+Duchesne,MY12,U.S. Senate,,,Under Votes,2
+Duchesne,MY12,U.S. House,3,IAP,AARON HEINEMAN,4
+Duchesne,MY12,U.S. House,3,DEM,GLENN J. WRIGHT,17
+Duchesne,MY12,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,4
+Duchesne,MY12,U.S. House,3,REP,JOHN CURTIS,96
+Duchesne,MY12,U.S. House,3,LIB,MICHAEL R. STODDARD,1
+Duchesne,MY12,U.S. House,3,,Over Votes,1
+Duchesne,MY12,U.S. House,3,,Under Votes,3
+Duchesne,MY12,State Treasurer,,REP,MARLO M. OAKS,101
+Duchesne,MY12,State Treasurer,,UUP,THOMAS ALAN HORNE,4
+Duchesne,MY12,State Treasurer,,IAP,WARREN T ROGERS,7
+Duchesne,MY12,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,7
+Duchesne,MY12,State Treasurer,,,Over Votes,1
+Duchesne,MY12,State Treasurer,,,Under Votes,6
+Duchesne,MY12,State Senate,20,REP,RONALD M. WINTERTON,102
+Duchesne,MY12,State Senate,20,DEM,JILL M. FELLOW,18
+Duchesne,MY12,State Senate,20,,Over Votes,2
+Duchesne,MY12,State Senate,20,,Under Votes,4
+Duchesne,MY12,State House,67,REP,CHRISTINE F. WATKINS,106
+Duchesne,MY12,State House,67,,Over Votes,0
+Duchesne,MY12,State House,67,,Under Votes,20
+Duchesne,NE11,Registered Voters,,,,1080
+Duchesne,NE11,Ballots Cast,,,,716
+Duchesne,NE11,Ballots Cast - Blank,,,,0
+Duchesne,NE11,U.S. Senate,,UNA,EVAN MCMULLIN,86
+Duchesne,NE11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,11
+Duchesne,NE11,U.S. Senate,,REP,MIKE LEE,597
+Duchesne,NE11,U.S. Senate,,IAP,TOMMY WILLIAMS,16
+Duchesne,NE11,U.S. Senate,,,Write-ins,0
+Duchesne,NE11,U.S. Senate,,,Over Votes,1
+Duchesne,NE11,U.S. Senate,,,Under Votes,5
+Duchesne,NE11,U.S. House,3,IAP,AARON HEINEMAN,10
+Duchesne,NE11,U.S. House,3,DEM,GLENN J. WRIGHT,65
+Duchesne,NE11,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,14
+Duchesne,NE11,U.S. House,3,REP,JOHN CURTIS,610
+Duchesne,NE11,U.S. House,3,LIB,MICHAEL R. STODDARD,13
+Duchesne,NE11,U.S. House,3,,Over Votes,0
+Duchesne,NE11,U.S. House,3,,Under Votes,4
+Duchesne,NE11,State Treasurer,,REP,MARLO M. OAKS,630
+Duchesne,NE11,State Treasurer,,UUP,THOMAS ALAN HORNE,22
+Duchesne,NE11,State Treasurer,,IAP,WARREN T ROGERS,23
+Duchesne,NE11,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,27
+Duchesne,NE11,State Treasurer,,,Over Votes,0
+Duchesne,NE11,State Treasurer,,,Under Votes,14
+Duchesne,NE11,State Senate,20,REP,RONALD M. WINTERTON,626
+Duchesne,NE11,State Senate,20,DEM,JILL M. FELLOW,80
+Duchesne,NE11,State Senate,20,,Over Votes,0
+Duchesne,NE11,State Senate,20,,Under Votes,10
+Duchesne,NE11,State House,68,REP,SCOTT H. CHEW,650
+Duchesne,NE11,State House,68,,Over Votes,0
+Duchesne,NE11,State House,68,,Under Votes,66
+Duchesne,RO11,Registered Voters,,,,62
+Duchesne,RO11,Ballots Cast,,,,48
+Duchesne,RO11,Ballots Cast - Blank,,,,0
+Duchesne,RO11,U.S. Senate,,UNA,EVAN MCMULLIN,7
+Duchesne,RO11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+Duchesne,RO11,U.S. Senate,,REP,MIKE LEE,36
+Duchesne,RO11,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Duchesne,RO11,U.S. Senate,,,Write-ins,0
+Duchesne,RO11,U.S. Senate,,,Over Votes,0
+Duchesne,RO11,U.S. Senate,,,Under Votes,0
+Duchesne,RO11,U.S. House,3,IAP,AARON HEINEMAN,0
+Duchesne,RO11,U.S. House,3,DEM,GLENN J. WRIGHT,0
+Duchesne,RO11,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,1
+Duchesne,RO11,U.S. House,3,REP,JOHN CURTIS,44
+Duchesne,RO11,U.S. House,3,LIB,MICHAEL R. STODDARD,2
+Duchesne,RO11,U.S. House,3,,Over Votes,0
+Duchesne,RO11,U.S. House,3,,Under Votes,1
+Duchesne,RO11,State Treasurer,,REP,MARLO M. OAKS,44
+Duchesne,RO11,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+Duchesne,RO11,State Treasurer,,IAP,WARREN T ROGERS,1
+Duchesne,RO11,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,0
+Duchesne,RO11,State Treasurer,,,Over Votes,0
+Duchesne,RO11,State Treasurer,,,Under Votes,2
+Duchesne,RO11,State Senate,20,REP,RONALD M. WINTERTON,46
+Duchesne,RO11,State Senate,20,DEM,JILL M. FELLOW,1
+Duchesne,RO11,State Senate,20,,Over Votes,0
+Duchesne,RO11,State Senate,20,,Under Votes,1
+Duchesne,RO11,State House,67,REP,CHRISTINE F. WATKINS,37
+Duchesne,RO11,State House,67,,Over Votes,0
+Duchesne,RO11,State House,67,,Under Votes,11
+Duchesne,RO12,Registered Voters,,,,866
+Duchesne,RO12,Ballots Cast,,,,399
+Duchesne,RO12,Ballots Cast - Blank,,,,0
+Duchesne,RO12,U.S. Senate,,UNA,EVAN MCMULLIN,71
+Duchesne,RO12,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,7
+Duchesne,RO12,U.S. Senate,,REP,MIKE LEE,310
+Duchesne,RO12,U.S. Senate,,IAP,TOMMY WILLIAMS,5
+Duchesne,RO12,U.S. Senate,,,Write-ins,2
+Duchesne,RO12,U.S. Senate,,,Over Votes,0
+Duchesne,RO12,U.S. Senate,,,Under Votes,4
+Duchesne,RO12,U.S. House,3,IAP,AARON HEINEMAN,10
+Duchesne,RO12,U.S. House,3,DEM,GLENN J. WRIGHT,32
+Duchesne,RO12,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,10
+Duchesne,RO12,U.S. House,3,REP,JOHN CURTIS,323
+Duchesne,RO12,U.S. House,3,LIB,MICHAEL R. STODDARD,4
+Duchesne,RO12,U.S. House,3,,Over Votes,0
+Duchesne,RO12,U.S. House,3,,Under Votes,20
+Duchesne,RO12,State Treasurer,,REP,MARLO M. OAKS,329
+Duchesne,RO12,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+Duchesne,RO12,State Treasurer,,IAP,WARREN T ROGERS,15
+Duchesne,RO12,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,21
+Duchesne,RO12,State Treasurer,,,Over Votes,0
+Duchesne,RO12,State Treasurer,,,Under Votes,33
+Duchesne,RO12,State Senate,20,REP,RONALD M. WINTERTON,341
+Duchesne,RO12,State Senate,20,DEM,JILL M. FELLOW,43
+Duchesne,RO12,State Senate,20,,Over Votes,0
+Duchesne,RO12,State Senate,20,,Under Votes,15
+Duchesne,RO12,State House,67,REP,CHRISTINE F. WATKINS,345
+Duchesne,RO12,State House,67,,Over Votes,0
+Duchesne,RO12,State House,67,,Under Votes,54
+Duchesne,RO21,Registered Voters,,,,243
+Duchesne,RO21,Ballots Cast,,,,144
+Duchesne,RO21,Ballots Cast - Blank,,,,0
+Duchesne,RO21,U.S. Senate,,UNA,EVAN MCMULLIN,19
+Duchesne,RO21,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+Duchesne,RO21,U.S. Senate,,REP,MIKE LEE,120
+Duchesne,RO21,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Duchesne,RO21,U.S. Senate,,,Write-ins,0
+Duchesne,RO21,U.S. Senate,,,Over Votes,0
+Duchesne,RO21,U.S. Senate,,,Under Votes,0
+Duchesne,RO21,U.S. House,3,IAP,AARON HEINEMAN,2
+Duchesne,RO21,U.S. House,3,DEM,GLENN J. WRIGHT,9
+Duchesne,RO21,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Duchesne,RO21,U.S. House,3,REP,JOHN CURTIS,128
+Duchesne,RO21,U.S. House,3,LIB,MICHAEL R. STODDARD,2
+Duchesne,RO21,U.S. House,3,,Over Votes,0
+Duchesne,RO21,U.S. House,3,,Under Votes,1
+Duchesne,RO21,State Treasurer,,REP,MARLO M. OAKS,131
+Duchesne,RO21,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+Duchesne,RO21,State Treasurer,,IAP,WARREN T ROGERS,3
+Duchesne,RO21,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,3
+Duchesne,RO21,State Treasurer,,,Over Votes,0
+Duchesne,RO21,State Treasurer,,,Under Votes,6
+Duchesne,RO21,State Senate,20,REP,RONALD M. WINTERTON,128
+Duchesne,RO21,State Senate,20,DEM,JILL M. FELLOW,12
+Duchesne,RO21,State Senate,20,,Over Votes,0
+Duchesne,RO21,State Senate,20,,Under Votes,4
+Duchesne,RO21,State House,67,REP,CHRISTINE F. WATKINS,129
+Duchesne,RO21,State House,67,,Over Votes,0
+Duchesne,RO21,State House,67,,Under Votes,15
+Duchesne,RO22,Registered Voters,,,,1019
+Duchesne,RO22,Ballots Cast,,,,475
+Duchesne,RO22,Ballots Cast - Blank,,,,0
+Duchesne,RO22,U.S. Senate,,UNA,EVAN MCMULLIN,119
+Duchesne,RO22,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,12
+Duchesne,RO22,U.S. Senate,,REP,MIKE LEE,325
+Duchesne,RO22,U.S. Senate,,IAP,TOMMY WILLIAMS,11
+Duchesne,RO22,U.S. Senate,,,Write-ins,3
+Duchesne,RO22,U.S. Senate,,,Over Votes,0
+Duchesne,RO22,U.S. Senate,,,Under Votes,5
+Duchesne,RO22,U.S. House,3,IAP,AARON HEINEMAN,10
+Duchesne,RO22,U.S. House,3,DEM,GLENN J. WRIGHT,77
+Duchesne,RO22,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,4
+Duchesne,RO22,U.S. House,3,REP,JOHN CURTIS,365
+Duchesne,RO22,U.S. House,3,LIB,MICHAEL R. STODDARD,14
+Duchesne,RO22,U.S. House,3,,Over Votes,0
+Duchesne,RO22,U.S. House,3,,Under Votes,5
+Duchesne,RO22,State Treasurer,,REP,MARLO M. OAKS,372
+Duchesne,RO22,State Treasurer,,UUP,THOMAS ALAN HORNE,14
+Duchesne,RO22,State Treasurer,,IAP,WARREN T ROGERS,31
+Duchesne,RO22,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,33
+Duchesne,RO22,State Treasurer,,,Over Votes,0
+Duchesne,RO22,State Treasurer,,,Under Votes,25
+Duchesne,RO22,State Senate,20,REP,RONALD M. WINTERTON,375
+Duchesne,RO22,State Senate,20,DEM,JILL M. FELLOW,90
+Duchesne,RO22,State Senate,20,,Over Votes,0
+Duchesne,RO22,State Senate,20,,Under Votes,10
+Duchesne,RO22,State House,67,REP,CHRISTINE F. WATKINS,393
+Duchesne,RO22,State House,67,,Over Votes,0
+Duchesne,RO22,State House,67,,Under Votes,82
+Duchesne,RO31,Registered Voters,,,,179
+Duchesne,RO31,Ballots Cast,,,,92
+Duchesne,RO31,Ballots Cast - Blank,,,,0
+Duchesne,RO31,U.S. Senate,,UNA,EVAN MCMULLIN,13
+Duchesne,RO31,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+Duchesne,RO31,U.S. Senate,,REP,MIKE LEE,76
+Duchesne,RO31,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Duchesne,RO31,U.S. Senate,,,Write-ins,0
+Duchesne,RO31,U.S. Senate,,,Over Votes,0
+Duchesne,RO31,U.S. Senate,,,Under Votes,0
+Duchesne,RO31,U.S. House,3,IAP,AARON HEINEMAN,1
+Duchesne,RO31,U.S. House,3,DEM,GLENN J. WRIGHT,4
+Duchesne,RO31,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,1
+Duchesne,RO31,U.S. House,3,REP,JOHN CURTIS,80
+Duchesne,RO31,U.S. House,3,LIB,MICHAEL R. STODDARD,4
+Duchesne,RO31,U.S. House,3,,Over Votes,0
+Duchesne,RO31,U.S. House,3,,Under Votes,2
+Duchesne,RO31,State Treasurer,,REP,MARLO M. OAKS,79
+Duchesne,RO31,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+Duchesne,RO31,State Treasurer,,IAP,WARREN T ROGERS,3
+Duchesne,RO31,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,6
+Duchesne,RO31,State Treasurer,,,Over Votes,0
+Duchesne,RO31,State Treasurer,,,Under Votes,3
+Duchesne,RO31,State Senate,20,REP,RONALD M. WINTERTON,78
+Duchesne,RO31,State Senate,20,DEM,JILL M. FELLOW,11
+Duchesne,RO31,State Senate,20,,Over Votes,0
+Duchesne,RO31,State Senate,20,,Under Votes,3
+Duchesne,RO31,State House,67,REP,CHRISTINE F. WATKINS,84
+Duchesne,RO31,State House,67,,Over Votes,0
+Duchesne,RO31,State House,67,,Under Votes,8
+Duchesne,RO32,Registered Voters,,,,588
+Duchesne,RO32,Ballots Cast,,,,357
+Duchesne,RO32,Ballots Cast - Blank,,,,0
+Duchesne,RO32,U.S. Senate,,UNA,EVAN MCMULLIN,51
+Duchesne,RO32,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+Duchesne,RO32,U.S. Senate,,REP,MIKE LEE,295
+Duchesne,RO32,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+Duchesne,RO32,U.S. Senate,,,Write-ins,0
+Duchesne,RO32,U.S. Senate,,,Over Votes,0
+Duchesne,RO32,U.S. Senate,,,Under Votes,3
+Duchesne,RO32,U.S. House,3,IAP,AARON HEINEMAN,5
+Duchesne,RO32,U.S. House,3,DEM,GLENN J. WRIGHT,17
+Duchesne,RO32,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,7
+Duchesne,RO32,U.S. House,3,REP,JOHN CURTIS,318
+Duchesne,RO32,U.S. House,3,LIB,MICHAEL R. STODDARD,4
+Duchesne,RO32,U.S. House,3,,Over Votes,0
+Duchesne,RO32,U.S. House,3,,Under Votes,6
+Duchesne,RO32,State Treasurer,,REP,MARLO M. OAKS,318
+Duchesne,RO32,State Treasurer,,UUP,THOMAS ALAN HORNE,0
+Duchesne,RO32,State Treasurer,,IAP,WARREN T ROGERS,9
+Duchesne,RO32,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,10
+Duchesne,RO32,State Treasurer,,,Over Votes,0
+Duchesne,RO32,State Treasurer,,,Under Votes,20
+Duchesne,RO32,State Senate,20,REP,RONALD M. WINTERTON,316
+Duchesne,RO32,State Senate,20,DEM,JILL M. FELLOW,35
+Duchesne,RO32,State Senate,20,,Over Votes,0
+Duchesne,RO32,State Senate,20,,Under Votes,6
+Duchesne,RO32,State House,67,REP,CHRISTINE F. WATKINS,300
+Duchesne,RO32,State House,67,,Over Votes,0
+Duchesne,RO32,State House,67,,Under Votes,57
+Duchesne,RO41,Registered Voters,,,,448
+Duchesne,RO41,Ballots Cast,,,,278
+Duchesne,RO41,Ballots Cast - Blank,,,,0
+Duchesne,RO41,U.S. Senate,,UNA,EVAN MCMULLIN,29
+Duchesne,RO41,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+Duchesne,RO41,U.S. Senate,,REP,MIKE LEE,243
+Duchesne,RO41,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Duchesne,RO41,U.S. Senate,,,Write-ins,0
+Duchesne,RO41,U.S. Senate,,,Over Votes,1
+Duchesne,RO41,U.S. Senate,,,Under Votes,2
+Duchesne,RO41,U.S. House,3,IAP,AARON HEINEMAN,0
+Duchesne,RO41,U.S. House,3,DEM,GLENN J. WRIGHT,7
+Duchesne,RO41,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,8
+Duchesne,RO41,U.S. House,3,REP,JOHN CURTIS,251
+Duchesne,RO41,U.S. House,3,LIB,MICHAEL R. STODDARD,7
+Duchesne,RO41,U.S. House,3,,Over Votes,0
+Duchesne,RO41,U.S. House,3,,Under Votes,5
+Duchesne,RO41,State Treasurer,,REP,MARLO M. OAKS,252
+Duchesne,RO41,State Treasurer,,UUP,THOMAS ALAN HORNE,5
+Duchesne,RO41,State Treasurer,,IAP,WARREN T ROGERS,2
+Duchesne,RO41,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,6
+Duchesne,RO41,State Treasurer,,,Over Votes,0
+Duchesne,RO41,State Treasurer,,,Under Votes,13
+Duchesne,RO41,State Senate,20,REP,RONALD M. WINTERTON,261
+Duchesne,RO41,State Senate,20,DEM,JILL M. FELLOW,17
+Duchesne,RO41,State Senate,20,,Over Votes,0
+Duchesne,RO41,State Senate,20,,Under Votes,0
+Duchesne,RO41,State House,68,REP,SCOTT H. CHEW,247
+Duchesne,RO41,State House,68,,Over Votes,0
+Duchesne,RO41,State House,68,,Under Votes,31
+Duchesne,RO42,Registered Voters,,,,554
+Duchesne,RO42,Ballots Cast,,,,373
+Duchesne,RO42,Ballots Cast - Blank,,,,0
+Duchesne,RO42,U.S. Senate,,UNA,EVAN MCMULLIN,70
+Duchesne,RO42,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+Duchesne,RO42,U.S. Senate,,REP,MIKE LEE,290
+Duchesne,RO42,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+Duchesne,RO42,U.S. Senate,,,Write-ins,1
+Duchesne,RO42,U.S. Senate,,,Over Votes,0
+Duchesne,RO42,U.S. Senate,,,Under Votes,2
+Duchesne,RO42,U.S. House,3,IAP,AARON HEINEMAN,7
+Duchesne,RO42,U.S. House,3,DEM,GLENN J. WRIGHT,30
+Duchesne,RO42,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Duchesne,RO42,U.S. House,3,REP,JOHN CURTIS,318
+Duchesne,RO42,U.S. House,3,LIB,MICHAEL R. STODDARD,11
+Duchesne,RO42,U.S. House,3,,Over Votes,0
+Duchesne,RO42,U.S. House,3,,Under Votes,5
+Duchesne,RO42,State Treasurer,,REP,MARLO M. OAKS,319
+Duchesne,RO42,State Treasurer,,UUP,THOMAS ALAN HORNE,7
+Duchesne,RO42,State Treasurer,,IAP,WARREN T ROGERS,17
+Duchesne,RO42,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,22
+Duchesne,RO42,State Treasurer,,,Over Votes,0
+Duchesne,RO42,State Treasurer,,,Under Votes,8
+Duchesne,RO42,State Senate,20,REP,RONALD M. WINTERTON,329
+Duchesne,RO42,State Senate,20,DEM,JILL M. FELLOW,37
+Duchesne,RO42,State Senate,20,,Over Votes,0
+Duchesne,RO42,State Senate,20,,Under Votes,7
+Duchesne,RO42,State House,67,REP,CHRISTINE F. WATKINS,325
+Duchesne,RO42,State House,67,,Over Votes,0
+Duchesne,RO42,State House,67,,Under Votes,48
+Duchesne,RO51,Registered Voters,,,,576
+Duchesne,RO51,Ballots Cast,,,,337
+Duchesne,RO51,Ballots Cast - Blank,,,,0
+Duchesne,RO51,U.S. Senate,,UNA,EVAN MCMULLIN,44
+Duchesne,RO51,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,6
+Duchesne,RO51,U.S. Senate,,REP,MIKE LEE,281
+Duchesne,RO51,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+Duchesne,RO51,U.S. Senate,,,Write-ins,0
+Duchesne,RO51,U.S. Senate,,,Over Votes,0
+Duchesne,RO51,U.S. Senate,,,Under Votes,2
+Duchesne,RO51,U.S. House,3,IAP,AARON HEINEMAN,7
+Duchesne,RO51,U.S. House,3,DEM,GLENN J. WRIGHT,19
+Duchesne,RO51,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,2
+Duchesne,RO51,U.S. House,3,REP,JOHN CURTIS,295
+Duchesne,RO51,U.S. House,3,LIB,MICHAEL R. STODDARD,10
+Duchesne,RO51,U.S. House,3,,Over Votes,0
+Duchesne,RO51,U.S. House,3,,Under Votes,4
+Duchesne,RO51,State Treasurer,,REP,MARLO M. OAKS,308
+Duchesne,RO51,State Treasurer,,UUP,THOMAS ALAN HORNE,3
+Duchesne,RO51,State Treasurer,,IAP,WARREN T ROGERS,12
+Duchesne,RO51,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,9
+Duchesne,RO51,State Treasurer,,,Over Votes,0
+Duchesne,RO51,State Treasurer,,,Under Votes,5
+Duchesne,RO51,State Senate,20,REP,RONALD M. WINTERTON,292
+Duchesne,RO51,State Senate,20,DEM,JILL M. FELLOW,42
+Duchesne,RO51,State Senate,20,,Over Votes,0
+Duchesne,RO51,State Senate,20,,Under Votes,3
+Duchesne,RO51,State House,67,REP,CHRISTINE F. WATKINS,302
+Duchesne,RO51,State House,67,,Over Votes,0
+Duchesne,RO51,State House,67,,Under Votes,35
+Duchesne,TA12,Registered Voters,,,,104
+Duchesne,TA12,Ballots Cast,,,,72
+Duchesne,TA12,Ballots Cast - Blank,,,,0
+Duchesne,TA12,U.S. Senate,,UNA,EVAN MCMULLIN,2
+Duchesne,TA12,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
+Duchesne,TA12,U.S. Senate,,REP,MIKE LEE,66
+Duchesne,TA12,U.S. Senate,,IAP,TOMMY WILLIAMS,3
+Duchesne,TA12,U.S. Senate,,,Write-ins,0
+Duchesne,TA12,U.S. Senate,,,Over Votes,0
+Duchesne,TA12,U.S. Senate,,,Under Votes,0
+Duchesne,TA12,U.S. House,3,IAP,AARON HEINEMAN,3
+Duchesne,TA12,U.S. House,3,DEM,GLENN J. WRIGHT,2
+Duchesne,TA12,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,1
+Duchesne,TA12,U.S. House,3,REP,JOHN CURTIS,66
+Duchesne,TA12,U.S. House,3,LIB,MICHAEL R. STODDARD,0
+Duchesne,TA12,U.S. House,3,,Over Votes,0
+Duchesne,TA12,U.S. House,3,,Under Votes,0
+Duchesne,TA12,State Treasurer,,REP,MARLO M. OAKS,68
+Duchesne,TA12,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+Duchesne,TA12,State Treasurer,,IAP,WARREN T ROGERS,2
+Duchesne,TA12,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,0
+Duchesne,TA12,State Treasurer,,,Over Votes,0
+Duchesne,TA12,State Treasurer,,,Under Votes,1
+Duchesne,TA12,State Senate,20,REP,RONALD M. WINTERTON,70
+Duchesne,TA12,State Senate,20,DEM,JILL M. FELLOW,2
+Duchesne,TA12,State Senate,20,,Over Votes,0
+Duchesne,TA12,State Senate,20,,Under Votes,0
+Duchesne,TA12,State House,68,REP,SCOTT H. CHEW,65
+Duchesne,TA12,State House,68,,Over Votes,0
+Duchesne,TA12,State House,68,,Under Votes,7
+Duchesne,TM11,Registered Voters,,,,906
+Duchesne,TM11,Ballots Cast,,,,604
+Duchesne,TM11,Ballots Cast - Blank,,,,0
+Duchesne,TM11,U.S. Senate,,UNA,EVAN MCMULLIN,80
+Duchesne,TM11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+Duchesne,TM11,U.S. Senate,,REP,MIKE LEE,509
+Duchesne,TM11,U.S. Senate,,IAP,TOMMY WILLIAMS,6
+Duchesne,TM11,U.S. Senate,,,Write-ins,1
+Duchesne,TM11,U.S. Senate,,,Over Votes,1
+Duchesne,TM11,U.S. Senate,,,Under Votes,4
+Duchesne,TM11,U.S. House,3,IAP,AARON HEINEMAN,10
+Duchesne,TM11,U.S. House,3,DEM,GLENN J. WRIGHT,40
+Duchesne,TM11,U.S. House,3,CON,DANIEL CLYDE CUMMINGS,19
+Duchesne,TM11,U.S. House,3,REP,JOHN CURTIS,524
+Duchesne,TM11,U.S. House,3,LIB,MICHAEL R. STODDARD,3
+Duchesne,TM11,U.S. House,3,,Over Votes,0
+Duchesne,TM11,U.S. House,3,,Under Votes,8
+Duchesne,TM11,State Treasurer,,REP,MARLO M. OAKS,525
+Duchesne,TM11,State Treasurer,,UUP,THOMAS ALAN HORNE,6
+Duchesne,TM11,State Treasurer,,IAP,WARREN T ROGERS,32
+Duchesne,TM11,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,9
+Duchesne,TM11,State Treasurer,,,Over Votes,0
+Duchesne,TM11,State Treasurer,,,Under Votes,32
+Duchesne,TM11,State Senate,20,REP,RONALD M. WINTERTON,535
+Duchesne,TM11,State Senate,20,DEM,JILL M. FELLOW,53
+Duchesne,TM11,State Senate,20,,Over Votes,0
+Duchesne,TM11,State Senate,20,,Under Votes,16
+Duchesne,TM11,State House,68,REP,SCOTT H. CHEW,533
+Duchesne,TM11,State House,68,,Over Votes,0
+Duchesne,TM11,State House,68,,Under Votes,71

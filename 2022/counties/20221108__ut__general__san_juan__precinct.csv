@@ -1,0 +1,406 @@
+county,precinct,office,district,party,candidate,votes
+San Juan,1_S1,Registered Voters,,,,123
+San Juan,1_1,Registered Voters,,,,1455
+San Juan,1_2,Registered Voters,,,,758
+San Juan,1_3_B,Registered Voters,,,,13
+San Juan,1_4,Registered Voters,,,,32
+San Juan,1_5,Registered Voters,,,,70
+San Juan,2_2,Registered Voters,,,,521
+San Juan,2_3,Registered Voters,,,,443
+San Juan,2_5,Registered Voters,,,,1329
+San Juan,3_1,Registered Voters,,,,157
+San Juan,3_2,Registered Voters,,,,125
+San Juan,3_3,Registered Voters,,,,1121
+San Juan,3_4,Registered Voters,,,,1523
+San Juan,3_5,Registered Voters,,,,20
+San Juan,1_S5,Registered Voters,,,,218
+San Juan,1_S1,Ballots Cast,,,,94
+San Juan,1_1,Ballots Cast,,,,1061
+San Juan,1_2,Ballots Cast,,,,612
+San Juan,1_3_B,Ballots Cast,,,,11
+San Juan,1_4,Ballots Cast,,,,25
+San Juan,1_5,Ballots Cast,,,,48
+San Juan,2_2,Ballots Cast,,,,400
+San Juan,2_3,Ballots Cast,,,,324
+San Juan,2_5,Ballots Cast,,,,913
+San Juan,3_1,Ballots Cast,,,,135
+San Juan,3_2,Ballots Cast,,,,100
+San Juan,3_3,Ballots Cast,,,,793
+San Juan,3_4,Ballots Cast,,,,1101
+San Juan,3_5,Ballots Cast,,,,17
+San Juan,1_S5,Ballots Cast,,,,151
+San Juan,1_S1,Paper Ballots Cast,,,,93
+San Juan,1_1,Paper Ballots Cast,,,,1005
+San Juan,1_2,Paper Ballots Cast,,,,586
+San Juan,1_3_B,Paper Ballots Cast,,,,11
+San Juan,1_4,Paper Ballots Cast,,,,24
+San Juan,1_5,Paper Ballots Cast,,,,46
+San Juan,2_2,Paper Ballots Cast,,,,374
+San Juan,2_3,Paper Ballots Cast,,,,310
+San Juan,2_5,Paper Ballots Cast,,,,689
+San Juan,3_1,Paper Ballots Cast,,,,132
+San Juan,3_2,Paper Ballots Cast,,,,95
+San Juan,3_3,Paper Ballots Cast,,,,713
+San Juan,3_4,Paper Ballots Cast,,,,969
+San Juan,3_5,Paper Ballots Cast,,,,15
+San Juan,1_S5,Paper Ballots Cast,,,,147
+San Juan,1_S1,U.S. Senate,,IND,Evan McMullin,34
+San Juan,1_1,U.S. Senate,,IND,Evan McMullin,258
+San Juan,1_2,U.S. Senate,,IND,Evan McMullin,66
+San Juan,1_3_B,U.S. Senate,,IND,Evan McMullin,4
+San Juan,1_4,U.S. Senate,,IND,Evan McMullin,6
+San Juan,1_5,U.S. Senate,,IND,Evan McMullin,5
+San Juan,2_2,U.S. Senate,,IND,Evan McMullin,98
+San Juan,2_3,U.S. Senate,,IND,Evan McMullin,74
+San Juan,2_5,U.S. Senate,,IND,Evan McMullin,346
+San Juan,3_1,U.S. Senate,,IND,Evan McMullin,20
+San Juan,3_2,U.S. Senate,,IND,Evan McMullin,9
+San Juan,3_3,U.S. Senate,,IND,Evan McMullin,396
+San Juan,3_4,U.S. Senate,,IND,Evan McMullin,458
+San Juan,3_5,U.S. Senate,,IND,Evan McMullin,2
+San Juan,1_S5,U.S. Senate,,IND,Evan McMullin,39
+San Juan,1_S1,U.S. Senate,,LIB,James Arthur Hansen,3
+San Juan,1_1,U.S. Senate,,LIB,James Arthur Hansen,30
+San Juan,1_2,U.S. Senate,,LIB,James Arthur Hansen,12
+San Juan,1_3_B,U.S. Senate,,LIB,James Arthur Hansen,0
+San Juan,1_4,U.S. Senate,,LIB,James Arthur Hansen,0
+San Juan,1_5,U.S. Senate,,LIB,James Arthur Hansen,1
+San Juan,2_2,U.S. Senate,,LIB,James Arthur Hansen,10
+San Juan,2_3,U.S. Senate,,LIB,James Arthur Hansen,12
+San Juan,2_5,U.S. Senate,,LIB,James Arthur Hansen,122
+San Juan,3_1,U.S. Senate,,LIB,James Arthur Hansen,2
+San Juan,3_2,U.S. Senate,,LIB,James Arthur Hansen,1
+San Juan,3_3,U.S. Senate,,LIB,James Arthur Hansen,54
+San Juan,3_4,U.S. Senate,,LIB,James Arthur Hansen,88
+San Juan,3_5,U.S. Senate,,LIB,James Arthur Hansen,0
+San Juan,1_S5,U.S. Senate,,LIB,James Arthur Hansen,3
+San Juan,1_S1,U.S. Senate,,REP,Mike Lee,54
+San Juan,1_1,U.S. Senate,,REP,Mike Lee,751
+San Juan,1_2,U.S. Senate,,REP,Mike Lee,514
+San Juan,1_3_B,U.S. Senate,,REP,Mike Lee,6
+San Juan,1_4,U.S. Senate,,REP,Mike Lee,19
+San Juan,1_5,U.S. Senate,,REP,Mike Lee,41
+San Juan,2_2,U.S. Senate,,REP,Mike Lee,278
+San Juan,2_3,U.S. Senate,,REP,Mike Lee,220
+San Juan,2_5,U.S. Senate,,REP,Mike Lee,254
+San Juan,3_1,U.S. Senate,,REP,Mike Lee,102
+San Juan,3_2,U.S. Senate,,REP,Mike Lee,90
+San Juan,3_3,U.S. Senate,,REP,Mike Lee,244
+San Juan,3_4,U.S. Senate,,REP,Mike Lee,425
+San Juan,3_5,U.S. Senate,,REP,Mike Lee,15
+San Juan,1_S5,U.S. Senate,,REP,Mike Lee,105
+San Juan,1_S1,U.S. Senate,,IAP,Tommy Williams,2
+San Juan,1_1,U.S. Senate,,IAP,Tommy Williams,12
+San Juan,1_2,U.S. Senate,,IAP,Tommy Williams,8
+San Juan,1_3_B,U.S. Senate,,IAP,Tommy Williams,0
+San Juan,1_4,U.S. Senate,,IAP,Tommy Williams,0
+San Juan,1_5,U.S. Senate,,IAP,Tommy Williams,0
+San Juan,2_2,U.S. Senate,,IAP,Tommy Williams,9
+San Juan,2_3,U.S. Senate,,IAP,Tommy Williams,9
+San Juan,2_5,U.S. Senate,,IAP,Tommy Williams,119
+San Juan,3_1,U.S. Senate,,IAP,Tommy Williams,10
+San Juan,3_2,U.S. Senate,,IAP,Tommy Williams,0
+San Juan,3_3,U.S. Senate,,IAP,Tommy Williams,49
+San Juan,3_4,U.S. Senate,,IAP,Tommy Williams,67
+San Juan,3_5,U.S. Senate,,IAP,Tommy Williams,0
+San Juan,1_S5,U.S. Senate,,IAP,Tommy Williams,4
+San Juan,1_S1,U.S. Senate,,,Write-ins,0
+San Juan,1_1,U.S. Senate,,,Write-ins,1
+San Juan,1_2,U.S. Senate,,,Write-ins,1
+San Juan,1_3_B,U.S. Senate,,,Write-ins,0
+San Juan,1_4,U.S. Senate,,,Write-ins,0
+San Juan,1_5,U.S. Senate,,,Write-ins,0
+San Juan,2_2,U.S. Senate,,,Write-ins,1
+San Juan,2_3,U.S. Senate,,,Write-ins,1
+San Juan,2_5,U.S. Senate,,,Write-ins,2
+San Juan,3_1,U.S. Senate,,,Write-ins,0
+San Juan,3_2,U.S. Senate,,,Write-ins,0
+San Juan,3_3,U.S. Senate,,,Write-ins,1
+San Juan,3_4,U.S. Senate,,,Write-ins,3
+San Juan,3_5,U.S. Senate,,,Write-ins,0
+San Juan,1_S5,U.S. Senate,,,Write-ins,0
+San Juan,1_S1,U.S. Senate,,,Over Votes,0
+San Juan,1_1,U.S. Senate,,,Over Votes,0
+San Juan,1_2,U.S. Senate,,,Over Votes,0
+San Juan,1_3_B,U.S. Senate,,,Over Votes,0
+San Juan,1_4,U.S. Senate,,,Over Votes,0
+San Juan,1_5,U.S. Senate,,,Over Votes,0
+San Juan,2_2,U.S. Senate,,,Over Votes,0
+San Juan,2_3,U.S. Senate,,,Over Votes,1
+San Juan,2_5,U.S. Senate,,,Over Votes,4
+San Juan,3_1,U.S. Senate,,,Over Votes,0
+San Juan,3_2,U.S. Senate,,,Over Votes,0
+San Juan,3_3,U.S. Senate,,,Over Votes,3
+San Juan,3_4,U.S. Senate,,,Over Votes,1
+San Juan,3_5,U.S. Senate,,,Over Votes,0
+San Juan,1_S5,U.S. Senate,,,Over Votes,0
+San Juan,1_S1,U.S. Senate,,,Under Votes,1
+San Juan,1_1,U.S. Senate,,,Under Votes,9
+San Juan,1_2,U.S. Senate,,,Under Votes,11
+San Juan,1_3_B,U.S. Senate,,,Under Votes,1
+San Juan,1_4,U.S. Senate,,,Under Votes,0
+San Juan,1_5,U.S. Senate,,,Under Votes,1
+San Juan,2_2,U.S. Senate,,,Under Votes,4
+San Juan,2_3,U.S. Senate,,,Under Votes,7
+San Juan,2_5,U.S. Senate,,,Under Votes,66
+San Juan,3_1,U.S. Senate,,,Under Votes,1
+San Juan,3_2,U.S. Senate,,,Under Votes,0
+San Juan,3_3,U.S. Senate,,,Under Votes,46
+San Juan,3_4,U.S. Senate,,,Under Votes,59
+San Juan,3_5,U.S. Senate,,,Under Votes,0
+San Juan,1_S5,U.S. Senate,,,Under Votes,0
+San Juan,1_S1,U.S. House,3,IAP,Aaron Heineman,2
+San Juan,1_1,U.S. House,3,IAP,Aaron Heineman,15
+San Juan,1_2,U.S. House,3,IAP,Aaron Heineman,7
+San Juan,1_3_B,U.S. House,3,IAP,Aaron Heineman,0
+San Juan,1_4,U.S. House,3,IAP,Aaron Heineman,0
+San Juan,1_5,U.S. House,3,IAP,Aaron Heineman,1
+San Juan,2_2,U.S. House,3,IAP,Aaron Heineman,4
+San Juan,2_3,U.S. House,3,IAP,Aaron Heineman,9
+San Juan,2_5,U.S. House,3,IAP,Aaron Heineman,44
+San Juan,3_1,U.S. House,3,IAP,Aaron Heineman,3
+San Juan,3_2,U.S. House,3,IAP,Aaron Heineman,1
+San Juan,3_3,U.S. House,3,IAP,Aaron Heineman,20
+San Juan,3_4,U.S. House,3,IAP,Aaron Heineman,43
+San Juan,3_5,U.S. House,3,IAP,Aaron Heineman,0
+San Juan,1_S5,U.S. House,3,IAP,Aaron Heineman,2
+San Juan,1_S1,U.S. House,3,DEM,Glenn J. Wright,29
+San Juan,1_1,U.S. House,3,DEM,Glenn J. Wright,157
+San Juan,1_2,U.S. House,3,DEM,Glenn J. Wright,38
+San Juan,1_3_B,U.S. House,3,DEM,Glenn J. Wright,5
+San Juan,1_4,U.S. House,3,DEM,Glenn J. Wright,1
+San Juan,1_5,U.S. House,3,DEM,Glenn J. Wright,4
+San Juan,2_2,U.S. House,3,DEM,Glenn J. Wright,67
+San Juan,2_3,U.S. House,3,DEM,Glenn J. Wright,58
+San Juan,2_5,U.S. House,3,DEM,Glenn J. Wright,580
+San Juan,3_1,U.S. House,3,DEM,Glenn J. Wright,17
+San Juan,3_2,U.S. House,3,DEM,Glenn J. Wright,5
+San Juan,3_3,U.S. House,3,DEM,Glenn J. Wright,437
+San Juan,3_4,U.S. House,3,DEM,Glenn J. Wright,568
+San Juan,3_5,U.S. House,3,DEM,Glenn J. Wright,0
+San Juan,1_S5,U.S. House,3,DEM,Glenn J. Wright,32
+San Juan,1_S1,U.S. House,3,CON,Daniel Clyde Cummings,2
+San Juan,1_1,U.S. House,3,CON,Daniel Clyde Cummings,16
+San Juan,1_2,U.S. House,3,CON,Daniel Clyde Cummings,12
+San Juan,1_3_B,U.S. House,3,CON,Daniel Clyde Cummings,0
+San Juan,1_4,U.S. House,3,CON,Daniel Clyde Cummings,0
+San Juan,1_5,U.S. House,3,CON,Daniel Clyde Cummings,1
+San Juan,2_2,U.S. House,3,CON,Daniel Clyde Cummings,10
+San Juan,2_3,U.S. House,3,CON,Daniel Clyde Cummings,7
+San Juan,2_5,U.S. House,3,CON,Daniel Clyde Cummings,22
+San Juan,3_1,U.S. House,3,CON,Daniel Clyde Cummings,4
+San Juan,3_2,U.S. House,3,CON,Daniel Clyde Cummings,2
+San Juan,3_3,U.S. House,3,CON,Daniel Clyde Cummings,12
+San Juan,3_4,U.S. House,3,CON,Daniel Clyde Cummings,14
+San Juan,3_5,U.S. House,3,CON,Daniel Clyde Cummings,1
+San Juan,1_S5,U.S. House,3,CON,Daniel Clyde Cummings,4
+San Juan,1_S1,U.S. House,3,REP,John Curtis,59
+San Juan,1_1,U.S. House,3,REP,John Curtis,834
+San Juan,1_2,U.S. House,3,REP,John Curtis,508
+San Juan,1_3_B,U.S. House,3,REP,John Curtis,5
+San Juan,1_4,U.S. House,3,REP,John Curtis,23
+San Juan,1_5,U.S. House,3,REP,John Curtis,37
+San Juan,2_2,U.S. House,3,REP,John Curtis,295
+San Juan,2_3,U.S. House,3,REP,John Curtis,229
+San Juan,2_5,U.S. House,3,REP,John Curtis,208
+San Juan,3_1,U.S. House,3,REP,John Curtis,106
+San Juan,3_2,U.S. House,3,REP,John Curtis,87
+San Juan,3_3,U.S. House,3,REP,John Curtis,269
+San Juan,3_4,U.S. House,3,REP,John Curtis,402
+San Juan,3_5,U.S. House,3,REP,John Curtis,16
+San Juan,1_S5,U.S. House,3,REP,John Curtis,105
+San Juan,1_S1,U.S. House,3,LIB,Michael R. Stoddard,1
+San Juan,1_1,U.S. House,3,LIB,Michael R. Stoddard,23
+San Juan,1_2,U.S. House,3,LIB,Michael R. Stoddard,25
+San Juan,1_3_B,U.S. House,3,LIB,Michael R. Stoddard,0
+San Juan,1_4,U.S. House,3,LIB,Michael R. Stoddard,1
+San Juan,1_5,U.S. House,3,LIB,Michael R. Stoddard,1
+San Juan,2_2,U.S. House,3,LIB,Michael R. Stoddard,8
+San Juan,2_3,U.S. House,3,LIB,Michael R. Stoddard,10
+San Juan,2_5,U.S. House,3,LIB,Michael R. Stoddard,32
+San Juan,3_1,U.S. House,3,LIB,Michael R. Stoddard,1
+San Juan,3_2,U.S. House,3,LIB,Michael R. Stoddard,3
+San Juan,3_3,U.S. House,3,LIB,Michael R. Stoddard,19
+San Juan,3_4,U.S. House,3,LIB,Michael R. Stoddard,28
+San Juan,3_5,U.S. House,3,LIB,Michael R. Stoddard,0
+San Juan,1_S5,U.S. House,3,LIB,Michael R. Stoddard,6
+San Juan,1_S1,U.S. House,3,,Over Votes,0
+San Juan,1_1,U.S. House,3,,Over Votes,2
+San Juan,1_2,U.S. House,3,,Over Votes,0
+San Juan,1_3_B,U.S. House,3,,Over Votes,0
+San Juan,1_4,U.S. House,3,,Over Votes,0
+San Juan,1_5,U.S. House,3,,Over Votes,0
+San Juan,2_2,U.S. House,3,,Over Votes,0
+San Juan,2_3,U.S. House,3,,Over Votes,0
+San Juan,2_5,U.S. House,3,,Over Votes,1
+San Juan,3_1,U.S. House,3,,Over Votes,0
+San Juan,3_2,U.S. House,3,,Over Votes,0
+San Juan,3_3,U.S. House,3,,Over Votes,0
+San Juan,3_4,U.S. House,3,,Over Votes,3
+San Juan,3_5,U.S. House,3,,Over Votes,0
+San Juan,1_S5,U.S. House,3,,Over Votes,0
+San Juan,1_S1,U.S. House,3,,Under Votes,1
+San Juan,1_1,U.S. House,3,,Under Votes,14
+San Juan,1_2,U.S. House,3,,Under Votes,22
+San Juan,1_3_B,U.S. House,3,,Under Votes,1
+San Juan,1_4,U.S. House,3,,Under Votes,0
+San Juan,1_5,U.S. House,3,,Under Votes,4
+San Juan,2_2,U.S. House,3,,Under Votes,16
+San Juan,2_3,U.S. House,3,,Under Votes,11
+San Juan,2_5,U.S. House,3,,Under Votes,26
+San Juan,3_1,U.S. House,3,,Under Votes,4
+San Juan,3_2,U.S. House,3,,Under Votes,2
+San Juan,3_3,U.S. House,3,,Under Votes,36
+San Juan,3_4,U.S. House,3,,Under Votes,43
+San Juan,3_5,U.S. House,3,,Under Votes,0
+San Juan,1_S5,U.S. House,3,,Under Votes,2
+San Juan,1_S1,State Treasurer,,REP,Marlo M. Oaks,61
+San Juan,1_1,State Treasurer,,REP,Marlo M. Oaks,836
+San Juan,1_2,State Treasurer,,REP,Marlo M. Oaks,523
+San Juan,1_3_B,State Treasurer,,REP,Marlo M. Oaks,8
+San Juan,1_4,State Treasurer,,REP,Marlo M. Oaks,22
+San Juan,1_5,State Treasurer,,REP,Marlo M. Oaks,40
+San Juan,2_2,State Treasurer,,REP,Marlo M. Oaks,295
+San Juan,2_3,State Treasurer,,REP,Marlo M. Oaks,232
+San Juan,2_5,State Treasurer,,REP,Marlo M. Oaks,259
+San Juan,3_1,State Treasurer,,REP,Marlo M. Oaks,103
+San Juan,3_2,State Treasurer,,REP,Marlo M. Oaks,89
+San Juan,3_3,State Treasurer,,REP,Marlo M. Oaks,276
+San Juan,3_4,State Treasurer,,REP,Marlo M. Oaks,442
+San Juan,3_5,State Treasurer,,REP,Marlo M. Oaks,17
+San Juan,1_S5,State Treasurer,,REP,Marlo M. Oaks,110
+San Juan,1_S1,State Treasurer,,UUP,Thomas Alan Horne,6
+San Juan,1_1,State Treasurer,,UUP,Thomas Alan Horne,51
+San Juan,1_2,State Treasurer,,UUP,Thomas Alan Horne,12
+San Juan,1_3_B,State Treasurer,,UUP,Thomas Alan Horne,1
+San Juan,1_4,State Treasurer,,UUP,Thomas Alan Horne,0
+San Juan,1_5,State Treasurer,,UUP,Thomas Alan Horne,1
+San Juan,2_2,State Treasurer,,UUP,Thomas Alan Horne,16
+San Juan,2_3,State Treasurer,,UUP,Thomas Alan Horne,12
+San Juan,2_5,State Treasurer,,UUP,Thomas Alan Horne,130
+San Juan,3_1,State Treasurer,,UUP,Thomas Alan Horne,3
+San Juan,3_2,State Treasurer,,UUP,Thomas Alan Horne,1
+San Juan,3_3,State Treasurer,,UUP,Thomas Alan Horne,95
+San Juan,3_4,State Treasurer,,UUP,Thomas Alan Horne,127
+San Juan,3_5,State Treasurer,,UUP,Thomas Alan Horne,0
+San Juan,1_S5,State Treasurer,,UUP,Thomas Alan Horne,10
+San Juan,1_S1,State Treasurer,,IAP,Warren T Rogers,9
+San Juan,1_1,State Treasurer,,IAP,Warren T Rogers,55
+San Juan,1_2,State Treasurer,,IAP,Warren T Rogers,18
+San Juan,1_3_B,State Treasurer,,IAP,Warren T Rogers,1
+San Juan,1_4,State Treasurer,,IAP,Warren T Rogers,0
+San Juan,1_5,State Treasurer,,IAP,Warren T Rogers,1
+San Juan,2_2,State Treasurer,,IAP,Warren T Rogers,24
+San Juan,2_3,State Treasurer,,IAP,Warren T Rogers,28
+San Juan,2_5,State Treasurer,,IAP,Warren T Rogers,191
+San Juan,3_1,State Treasurer,,IAP,Warren T Rogers,12
+San Juan,3_2,State Treasurer,,IAP,Warren T Rogers,2
+San Juan,3_3,State Treasurer,,IAP,Warren T Rogers,150
+San Juan,3_4,State Treasurer,,IAP,Warren T Rogers,206
+San Juan,3_5,State Treasurer,,IAP,Warren T Rogers,0
+San Juan,1_S5,State Treasurer,,IAP,Warren T Rogers,7
+San Juan,1_S1,State Treasurer,,LIB,Joseph Geddes Buchman,10
+San Juan,1_1,State Treasurer,,LIB,Joseph Geddes Buchman,55
+San Juan,1_2,State Treasurer,,LIB,Joseph Geddes Buchman,25
+San Juan,1_3_B,State Treasurer,,LIB,Joseph Geddes Buchman,0
+San Juan,1_4,State Treasurer,,LIB,Joseph Geddes Buchman,0
+San Juan,1_5,State Treasurer,,LIB,Joseph Geddes Buchman,3
+San Juan,2_2,State Treasurer,,LIB,Joseph Geddes Buchman,38
+San Juan,2_3,State Treasurer,,LIB,Joseph Geddes Buchman,31
+San Juan,2_5,State Treasurer,,LIB,Joseph Geddes Buchman,229
+San Juan,3_1,State Treasurer,,LIB,Joseph Geddes Buchman,7
+San Juan,3_2,State Treasurer,,LIB,Joseph Geddes Buchman,5
+San Juan,3_3,State Treasurer,,LIB,Joseph Geddes Buchman,136
+San Juan,3_4,State Treasurer,,LIB,Joseph Geddes Buchman,190
+San Juan,3_5,State Treasurer,,LIB,Joseph Geddes Buchman,0
+San Juan,1_S5,State Treasurer,,LIB,Joseph Geddes Buchman,15
+San Juan,1_S1,State Treasurer,,,Over Votes,0
+San Juan,1_1,State Treasurer,,,Over Votes,1
+San Juan,1_2,State Treasurer,,,Over Votes,0
+San Juan,1_3_B,State Treasurer,,,Over Votes,0
+San Juan,1_4,State Treasurer,,,Over Votes,0
+San Juan,1_5,State Treasurer,,,Over Votes,0
+San Juan,2_2,State Treasurer,,,Over Votes,0
+San Juan,2_3,State Treasurer,,,Over Votes,0
+San Juan,2_5,State Treasurer,,,Over Votes,1
+San Juan,3_1,State Treasurer,,,Over Votes,1
+San Juan,3_2,State Treasurer,,,Over Votes,0
+San Juan,3_3,State Treasurer,,,Over Votes,0
+San Juan,3_4,State Treasurer,,,Over Votes,0
+San Juan,3_5,State Treasurer,,,Over Votes,0
+San Juan,1_S5,State Treasurer,,,Over Votes,0
+San Juan,1_S1,State Treasurer,,,Under Votes,8
+San Juan,1_1,State Treasurer,,,Under Votes,63
+San Juan,1_2,State Treasurer,,,Under Votes,34
+San Juan,1_3_B,State Treasurer,,,Under Votes,1
+San Juan,1_4,State Treasurer,,,Under Votes,3
+San Juan,1_5,State Treasurer,,,Under Votes,3
+San Juan,2_2,State Treasurer,,,Under Votes,27
+San Juan,2_3,State Treasurer,,,Under Votes,21
+San Juan,2_5,State Treasurer,,,Under Votes,103
+San Juan,3_1,State Treasurer,,,Under Votes,9
+San Juan,3_2,State Treasurer,,,Under Votes,3
+San Juan,3_3,State Treasurer,,,Under Votes,136
+San Juan,3_4,State Treasurer,,,Under Votes,136
+San Juan,3_5,State Treasurer,,,Under Votes,0
+San Juan,1_S5,State Treasurer,,,Under Votes,9
+San Juan,1_S1,State House,69,REP,Phil Lyman,57
+San Juan,1_1,State House,69,REP,Phil Lyman,796
+San Juan,1_2,State House,69,REP,Phil Lyman,545
+San Juan,1_3_B,State House,69,REP,Phil Lyman,5
+San Juan,1_4,State House,69,REP,Phil Lyman,23
+San Juan,1_5,State House,69,REP,Phil Lyman,43
+San Juan,2_2,State House,69,REP,Phil Lyman,278
+San Juan,2_3,State House,69,REP,Phil Lyman,216
+San Juan,2_5,State House,69,REP,Phil Lyman,141
+San Juan,3_1,State House,69,REP,Phil Lyman,104
+San Juan,3_2,State House,69,REP,Phil Lyman,93
+San Juan,3_3,State House,69,REP,Phil Lyman,177
+San Juan,3_4,State House,69,REP,Phil Lyman,313
+San Juan,3_5,State House,69,REP,Phil Lyman,17
+San Juan,1_S5,State House,69,REP,Phil Lyman,111
+San Juan,1_S1,State House,69,DEM,Davina Smith,36
+San Juan,1_1,State House,69,DEM,Davina Smith,248
+San Juan,1_2,State House,69,DEM,Davina Smith,64
+San Juan,1_3_B,State House,69,DEM,Davina Smith,6
+San Juan,1_4,State House,69,DEM,Davina Smith,2
+San Juan,1_5,State House,69,DEM,Davina Smith,4
+San Juan,2_2,State House,69,DEM,Davina Smith,115
+San Juan,2_3,State House,69,DEM,Davina Smith,103
+San Juan,2_5,State House,69,DEM,Davina Smith,764
+San Juan,3_1,State House,69,DEM,Davina Smith,30
+San Juan,3_2,State House,69,DEM,Davina Smith,6
+San Juan,3_3,State House,69,DEM,Davina Smith,603
+San Juan,3_4,State House,69,DEM,Davina Smith,780
+San Juan,3_5,State House,69,DEM,Davina Smith,0
+San Juan,1_S5,State House,69,DEM,Davina Smith,40
+San Juan,1_S1,State House,69,,Over Votes,0
+San Juan,1_1,State House,69,,Over Votes,0
+San Juan,1_2,State House,69,,Over Votes,0
+San Juan,1_3_B,State House,69,,Over Votes,0
+San Juan,1_4,State House,69,,Over Votes,0
+San Juan,1_5,State House,69,,Over Votes,0
+San Juan,2_2,State House,69,,Over Votes,0
+San Juan,2_3,State House,69,,Over Votes,0
+San Juan,2_5,State House,69,,Over Votes,1
+San Juan,3_1,State House,69,,Over Votes,0
+San Juan,3_2,State House,69,,Over Votes,0
+San Juan,3_3,State House,69,,Over Votes,1
+San Juan,3_4,State House,69,,Over Votes,2
+San Juan,3_5,State House,69,,Over Votes,0
+San Juan,1_S5,State House,69,,Over Votes,0
+San Juan,1_S1,State House,69,,Under Votes,1
+San Juan,1_1,State House,69,,Under Votes,17
+San Juan,1_2,State House,69,,Under Votes,3
+San Juan,1_3_B,State House,69,,Under Votes,0
+San Juan,1_4,State House,69,,Under Votes,0
+San Juan,1_5,State House,69,,Under Votes,1
+San Juan,2_2,State House,69,,Under Votes,7
+San Juan,2_3,State House,69,,Under Votes,5
+San Juan,2_5,State House,69,,Under Votes,7
+San Juan,3_1,State House,69,,Under Votes,1
+San Juan,3_2,State House,69,,Under Votes,1
+San Juan,3_3,State House,69,,Under Votes,12
+San Juan,3_4,State House,69,,Under Votes,6
+San Juan,3_5,State House,69,,Under Votes,0
+San Juan,1_S5,State House,69,,Under Votes,0

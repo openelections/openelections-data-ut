@@ -1,0 +1,495 @@
+county,precinct,office,district,party,candidate,votes
+Millard,Abraham 14,Registered Voters,,,,99
+Millard,Abraham 14,Ballots Cast,,,,65
+Millard,Abraham 14,Ballots Cast - Blank,,,,0
+Millard,Abraham 14,U.S. Senate,,UNA,EVAN MCMULLIN,3
+Millard,Abraham 14,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+Millard,Abraham 14,U.S. Senate,,REP,MIKE LEE,59
+Millard,Abraham 14,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+Millard,Abraham 14,U.S. Senate,,,Write-ins,0
+Millard,Abraham 14,U.S. Senate,,,Over Votes,0
+Millard,Abraham 14,U.S. Senate,,,Under Votes,0
+Millard,Abraham 14,U.S. House,2,DEM,NICK MITCHELL,1
+Millard,Abraham 14,U.S. House,2,UUP,JAYMAC MCFARLAND,4
+Millard,Abraham 14,U.S. House,2,CON,CASSIE EASLEY,7
+Millard,Abraham 14,U.S. House,2,REP,CHRIS STEWART,53
+Millard,Abraham 14,U.S. House,2,,Over Votes,0
+Millard,Abraham 14,U.S. House,2,,Under Votes,0
+Millard,Abraham 14,State Treasurer,,REP,MARLO M. OAKS,55
+Millard,Abraham 14,State Treasurer,,UUP,THOMAS ALAN HORNE,2
+Millard,Abraham 14,State Treasurer,,IAP,WARREN T ROGERS,5
+Millard,Abraham 14,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,1
+Millard,Abraham 14,State Treasurer,,,Over Votes,0
+Millard,Abraham 14,State Treasurer,,,Under Votes,2
+Millard,Abraham 14,State Senate,28,REP,EVAN J. VICKERS,58
+Millard,Abraham 14,State Senate,28,UUP,PATRICIA A. BRADFORD,3
+Millard,Abraham 14,State Senate,28,LIB,BARRY EVAN SHORT,3
+Millard,Abraham 14,State Senate,28,,Over Votes,0
+Millard,Abraham 14,State Senate,28,,Under Votes,1
+Millard,Abraham 14,State House,29,CON,KIRK PEARSON,12
+Millard,Abraham 14,State House,29,DEM,CHRIS DYER,1
+Millard,Abraham 14,State House,29,REP,BRIDGER BOLINDER,51
+Millard,Abraham 14,State House,29,,Over Votes,0
+Millard,Abraham 14,State House,29,,Under Votes,1
+Millard,Delta 17,Registered Voters,,,,914
+Millard,Delta 17,Ballots Cast,,,,694
+Millard,Delta 17,Ballots Cast - Blank,,,,0
+Millard,Delta 17,U.S. Senate,,UNA,EVAN MCMULLIN,106
+Millard,Delta 17,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,14
+Millard,Delta 17,U.S. Senate,,REP,MIKE LEE,566
+Millard,Delta 17,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+Millard,Delta 17,U.S. Senate,,,Write-ins,0
+Millard,Delta 17,U.S. Senate,,,Over Votes,1
+Millard,Delta 17,U.S. Senate,,,Under Votes,3
+Millard,Delta 17,U.S. House,2,DEM,NICK MITCHELL,53
+Millard,Delta 17,U.S. House,2,UUP,JAYMAC MCFARLAND,14
+Millard,Delta 17,U.S. House,2,CON,CASSIE EASLEY,21
+Millard,Delta 17,U.S. House,2,REP,CHRIS STEWART,602
+Millard,Delta 17,U.S. House,2,,Over Votes,0
+Millard,Delta 17,U.S. House,2,,Under Votes,4
+Millard,Delta 17,State Treasurer,,REP,MARLO M. OAKS,589
+Millard,Delta 17,State Treasurer,,UUP,THOMAS ALAN HORNE,31
+Millard,Delta 17,State Treasurer,,IAP,WARREN T ROGERS,22
+Millard,Delta 17,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,20
+Millard,Delta 17,State Treasurer,,,Over Votes,0
+Millard,Delta 17,State Treasurer,,,Under Votes,32
+Millard,Delta 17,State Senate,28,REP,EVAN J. VICKERS,592
+Millard,Delta 17,State Senate,28,UUP,PATRICIA A. BRADFORD,60
+Millard,Delta 17,State Senate,28,LIB,BARRY EVAN SHORT,28
+Millard,Delta 17,State Senate,28,,Over Votes,0
+Millard,Delta 17,State Senate,28,,Under Votes,14
+Millard,Delta 17,State House,29,CON,KIRK PEARSON,69
+Millard,Delta 17,State House,29,DEM,CHRIS DYER,60
+Millard,Delta 17,State House,29,REP,BRIDGER BOLINDER,540
+Millard,Delta 17,State House,29,,Over Votes,0
+Millard,Delta 17,State House,29,,Under Votes,25
+Millard,Delta 18,Registered Voters,,,,"1,052"
+Millard,Delta 18,Ballots Cast,,,,735
+Millard,Delta 18,Ballots Cast - Blank,,,,0
+Millard,Delta 18,U.S. Senate,,UNA,EVAN MCMULLIN,93
+Millard,Delta 18,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,22
+Millard,Delta 18,U.S. Senate,,REP,MIKE LEE,598
+Millard,Delta 18,U.S. Senate,,IAP,TOMMY WILLIAMS,10
+Millard,Delta 18,U.S. Senate,,,Write-ins,1
+Millard,Delta 18,U.S. Senate,,,Over Votes,2
+Millard,Delta 18,U.S. Senate,,,Under Votes,9
+Millard,Delta 18,U.S. House,2,DEM,NICK MITCHELL,52
+Millard,Delta 18,U.S. House,2,UUP,JAYMAC MCFARLAND,17
+Millard,Delta 18,U.S. House,2,CON,CASSIE EASLEY,29
+Millard,Delta 18,U.S. House,2,REP,CHRIS STEWART,629
+Millard,Delta 18,U.S. House,2,,Over Votes,0
+Millard,Delta 18,U.S. House,2,,Under Votes,8
+Millard,Delta 18,State Treasurer,,REP,MARLO M. OAKS,618
+Millard,Delta 18,State Treasurer,,UUP,THOMAS ALAN HORNE,23
+Millard,Delta 18,State Treasurer,,IAP,WARREN T ROGERS,22
+Millard,Delta 18,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,40
+Millard,Delta 18,State Treasurer,,,Over Votes,0
+Millard,Delta 18,State Treasurer,,,Under Votes,32
+Millard,Delta 18,State Senate,28,REP,EVAN J. VICKERS,626
+Millard,Delta 18,State Senate,28,UUP,PATRICIA A. BRADFORD,54
+Millard,Delta 18,State Senate,28,LIB,BARRY EVAN SHORT,36
+Millard,Delta 18,State Senate,28,,Over Votes,0
+Millard,Delta 18,State Senate,28,,Under Votes,19
+Millard,Delta 18,State House,29,CON,KIRK PEARSON,63
+Millard,Delta 18,State House,29,DEM,CHRIS DYER,62
+Millard,Delta 18,State House,29,REP,BRIDGER BOLINDER,578
+Millard,Delta 18,State House,29,,Over Votes,0
+Millard,Delta 18,State House,29,,Under Votes,32
+Millard,Deseret-Oasis 5,Registered Voters,,,,403
+Millard,Deseret-Oasis 5,Ballots Cast,,,,295
+Millard,Deseret-Oasis 5,Ballots Cast - Blank,,,,0
+Millard,Deseret-Oasis 5,U.S. Senate,,UNA,EVAN MCMULLIN,36
+Millard,Deseret-Oasis 5,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,5
+Millard,Deseret-Oasis 5,U.S. Senate,,REP,MIKE LEE,248
+Millard,Deseret-Oasis 5,U.S. Senate,,IAP,TOMMY WILLIAMS,5
+Millard,Deseret-Oasis 5,U.S. Senate,,,Write-ins,0
+Millard,Deseret-Oasis 5,U.S. Senate,,,Over Votes,0
+Millard,Deseret-Oasis 5,U.S. Senate,,,Under Votes,1
+Millard,Deseret-Oasis 5,U.S. House,2,DEM,NICK MITCHELL,18
+Millard,Deseret-Oasis 5,U.S. House,2,UUP,JAYMAC MCFARLAND,5
+Millard,Deseret-Oasis 5,U.S. House,2,CON,CASSIE EASLEY,5
+Millard,Deseret-Oasis 5,U.S. House,2,REP,CHRIS STEWART,265
+Millard,Deseret-Oasis 5,U.S. House,2,,Over Votes,0
+Millard,Deseret-Oasis 5,U.S. House,2,,Under Votes,2
+Millard,Deseret-Oasis 5,State Treasurer,,REP,MARLO M. OAKS,258
+Millard,Deseret-Oasis 5,State Treasurer,,UUP,THOMAS ALAN HORNE,9
+Millard,Deseret-Oasis 5,State Treasurer,,IAP,WARREN T ROGERS,8
+Millard,Deseret-Oasis 5,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,13
+Millard,Deseret-Oasis 5,State Treasurer,,,Over Votes,0
+Millard,Deseret-Oasis 5,State Treasurer,,,Under Votes,7
+Millard,Deseret-Oasis 5,State Senate,28,REP,EVAN J. VICKERS,255
+Millard,Deseret-Oasis 5,State Senate,28,UUP,PATRICIA A. BRADFORD,22
+Millard,Deseret-Oasis 5,State Senate,28,LIB,BARRY EVAN SHORT,12
+Millard,Deseret-Oasis 5,State Senate,28,,Over Votes,0
+Millard,Deseret-Oasis 5,State Senate,28,,Under Votes,6
+Millard,Deseret-Oasis 5,State House,29,CON,KIRK PEARSON,27
+Millard,Deseret-Oasis 5,State House,29,DEM,CHRIS DYER,18
+Millard,Deseret-Oasis 5,State House,29,REP,BRIDGER BOLINDER,239
+Millard,Deseret-Oasis 5,State House,29,,Over Votes,0
+Millard,Deseret-Oasis 5,State House,29,,Under Votes,11
+Millard,Fillmore 1,Registered Voters,,,,790
+Millard,Fillmore 1,Ballots Cast,,,,624
+Millard,Fillmore 1,Ballots Cast - Blank,,,,0
+Millard,Fillmore 1,U.S. Senate,,UNA,EVAN MCMULLIN,90
+Millard,Fillmore 1,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,9
+Millard,Fillmore 1,U.S. Senate,,REP,MIKE LEE,511
+Millard,Fillmore 1,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+Millard,Fillmore 1,U.S. Senate,,,Write-ins,0
+Millard,Fillmore 1,U.S. Senate,,,Over Votes,2
+Millard,Fillmore 1,U.S. Senate,,,Under Votes,5
+Millard,Fillmore 1,U.S. House,2,DEM,NICK MITCHELL,44
+Millard,Fillmore 1,U.S. House,2,UUP,JAYMAC MCFARLAND,15
+Millard,Fillmore 1,U.S. House,2,CON,CASSIE EASLEY,18
+Millard,Fillmore 1,U.S. House,2,REP,CHRIS STEWART,539
+Millard,Fillmore 1,U.S. House,2,,Over Votes,0
+Millard,Fillmore 1,U.S. House,2,,Under Votes,8
+Millard,Fillmore 1,State Treasurer,,REP,MARLO M. OAKS,527
+Millard,Fillmore 1,State Treasurer,,UUP,THOMAS ALAN HORNE,22
+Millard,Fillmore 1,State Treasurer,,IAP,WARREN T ROGERS,13
+Millard,Fillmore 1,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,18
+Millard,Fillmore 1,State Treasurer,,,Over Votes,0
+Millard,Fillmore 1,State Treasurer,,,Under Votes,44
+Millard,Fillmore 1,State House,29,CON,KIRK PEARSON,79
+Millard,Fillmore 1,State House,29,DEM,CHRIS DYER,43
+Millard,Fillmore 1,State House,29,REP,BRIDGER BOLINDER,482
+Millard,Fillmore 1,State House,29,,Over Votes,0
+Millard,Fillmore 1,State House,29,,Under Votes,20
+Millard,Fillmore 2,Registered Voters,,,,558
+Millard,Fillmore 2,Ballots Cast,,,,380
+Millard,Fillmore 2,Ballots Cast - Blank,,,,0
+Millard,Fillmore 2,U.S. Senate,,UNA,EVAN MCMULLIN,53
+Millard,Fillmore 2,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+Millard,Fillmore 2,U.S. Senate,,REP,MIKE LEE,310
+Millard,Fillmore 2,U.S. Senate,,IAP,TOMMY WILLIAMS,8
+Millard,Fillmore 2,U.S. Senate,,,Write-ins,0
+Millard,Fillmore 2,U.S. Senate,,,Over Votes,0
+Millard,Fillmore 2,U.S. Senate,,,Under Votes,6
+Millard,Fillmore 2,U.S. House,2,DEM,NICK MITCHELL,34
+Millard,Fillmore 2,U.S. House,2,UUP,JAYMAC MCFARLAND,10
+Millard,Fillmore 2,U.S. House,2,CON,CASSIE EASLEY,7
+Millard,Fillmore 2,U.S. House,2,REP,CHRIS STEWART,324
+Millard,Fillmore 2,U.S. House,2,,Over Votes,1
+Millard,Fillmore 2,U.S. House,2,,Under Votes,4
+Millard,Fillmore 2,State Treasurer,,REP,MARLO M. OAKS,326
+Millard,Fillmore 2,State Treasurer,,UUP,THOMAS ALAN HORNE,20
+Millard,Fillmore 2,State Treasurer,,IAP,WARREN T ROGERS,9
+Millard,Fillmore 2,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,13
+Millard,Fillmore 2,State Treasurer,,,Over Votes,0
+Millard,Fillmore 2,State Treasurer,,,Under Votes,12
+Millard,Fillmore 2,State House,29,CON,KIRK PEARSON,38
+Millard,Fillmore 2,State House,29,DEM,CHRIS DYER,36
+Millard,Fillmore 2,State House,29,REP,BRIDGER BOLINDER,298
+Millard,Fillmore 2,State House,29,,Over Votes,0
+Millard,Fillmore 2,State House,29,,Under Votes,8
+Millard,Flowell 25,Registered Voters,,,,163
+Millard,Flowell 25,Ballots Cast,,,,117
+Millard,Flowell 25,Ballots Cast - Blank,,,,0
+Millard,Flowell 25,U.S. Senate,,UNA,EVAN MCMULLIN,19
+Millard,Flowell 25,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+Millard,Flowell 25,U.S. Senate,,REP,MIKE LEE,92
+Millard,Flowell 25,U.S. Senate,,IAP,TOMMY WILLIAMS,4
+Millard,Flowell 25,U.S. Senate,,,Write-ins,0
+Millard,Flowell 25,U.S. Senate,,,Over Votes,0
+Millard,Flowell 25,U.S. Senate,,,Under Votes,0
+Millard,Flowell 25,U.S. House,2,DEM,NICK MITCHELL,10
+Millard,Flowell 25,U.S. House,2,UUP,JAYMAC MCFARLAND,0
+Millard,Flowell 25,U.S. House,2,CON,CASSIE EASLEY,2
+Millard,Flowell 25,U.S. House,2,REP,CHRIS STEWART,104
+Millard,Flowell 25,U.S. House,2,,Over Votes,0
+Millard,Flowell 25,U.S. House,2,,Under Votes,1
+Millard,Flowell 25,State Treasurer,,REP,MARLO M. OAKS,100
+Millard,Flowell 25,State Treasurer,,UUP,THOMAS ALAN HORNE,3
+Millard,Flowell 25,State Treasurer,,IAP,WARREN T ROGERS,3
+Millard,Flowell 25,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,7
+Millard,Flowell 25,State Treasurer,,,Over Votes,0
+Millard,Flowell 25,State Treasurer,,,Under Votes,4
+Millard,Flowell 25,State House,29,CON,KIRK PEARSON,15
+Millard,Flowell 25,State House,29,DEM,CHRIS DYER,8
+Millard,Flowell 25,State House,29,REP,BRIDGER BOLINDER,92
+Millard,Flowell 25,State House,29,,Over Votes,0
+Millard,Flowell 25,State House,29,,Under Votes,2
+Millard,Garrison 16,Registered Voters,,,,83
+Millard,Garrison 16,Ballots Cast,,,,55
+Millard,Garrison 16,Ballots Cast - Blank,,,,0
+Millard,Garrison 16,U.S. Senate,,UNA,EVAN MCMULLIN,5
+Millard,Garrison 16,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
+Millard,Garrison 16,U.S. Senate,,REP,MIKE LEE,48
+Millard,Garrison 16,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Millard,Garrison 16,U.S. Senate,,,Write-ins,0
+Millard,Garrison 16,U.S. Senate,,,Over Votes,0
+Millard,Garrison 16,U.S. Senate,,,Under Votes,1
+Millard,Garrison 16,U.S. House,2,DEM,NICK MITCHELL,2
+Millard,Garrison 16,U.S. House,2,UUP,JAYMAC MCFARLAND,0
+Millard,Garrison 16,U.S. House,2,CON,CASSIE EASLEY,1
+Millard,Garrison 16,U.S. House,2,REP,CHRIS STEWART,51
+Millard,Garrison 16,U.S. House,2,,Over Votes,0
+Millard,Garrison 16,U.S. House,2,,Under Votes,1
+Millard,Garrison 16,State Treasurer,,REP,MARLO M. OAKS,49
+Millard,Garrison 16,State Treasurer,,UUP,THOMAS ALAN HORNE,1
+Millard,Garrison 16,State Treasurer,,IAP,WARREN T ROGERS,1
+Millard,Garrison 16,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,2
+Millard,Garrison 16,State Treasurer,,,Over Votes,0
+Millard,Garrison 16,State Treasurer,,,Under Votes,2
+Millard,Garrison 16,State Senate,28,REP,EVAN J. VICKERS,50
+Millard,Garrison 16,State Senate,28,UUP,PATRICIA A. BRADFORD,2
+Millard,Garrison 16,State Senate,28,LIB,BARRY EVAN SHORT,1
+Millard,Garrison 16,State Senate,28,,Over Votes,0
+Millard,Garrison 16,State Senate,28,,Under Votes,2
+Millard,Garrison 16,State House,29,CON,KIRK PEARSON,10
+Millard,Garrison 16,State House,29,DEM,CHRIS DYER,3
+Millard,Garrison 16,State House,29,REP,BRIDGER BOLINDER,41
+Millard,Garrison 16,State House,29,,Over Votes,0
+Millard,Garrison 16,State House,29,,Under Votes,1
+Millard,Hinckley 11,Registered Voters,,,,396
+Millard,Hinckley 11,Ballots Cast,,,,289
+Millard,Hinckley 11,Ballots Cast - Blank,,,,0
+Millard,Hinckley 11,U.S. Senate,,UNA,EVAN MCMULLIN,33
+Millard,Hinckley 11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,5
+Millard,Hinckley 11,U.S. Senate,,REP,MIKE LEE,243
+Millard,Hinckley 11,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Millard,Hinckley 11,U.S. Senate,,,Write-ins,3
+Millard,Hinckley 11,U.S. Senate,,,Over Votes,0
+Millard,Hinckley 11,U.S. Senate,,,Under Votes,3
+Millard,Hinckley 11,U.S. House,2,DEM,NICK MITCHELL,23
+Millard,Hinckley 11,U.S. House,2,UUP,JAYMAC MCFARLAND,7
+Millard,Hinckley 11,U.S. House,2,CON,CASSIE EASLEY,10
+Millard,Hinckley 11,U.S. House,2,REP,CHRIS STEWART,243
+Millard,Hinckley 11,U.S. House,2,,Over Votes,0
+Millard,Hinckley 11,U.S. House,2,,Under Votes,6
+Millard,Hinckley 11,State Treasurer,,REP,MARLO M. OAKS,255
+Millard,Hinckley 11,State Treasurer,,UUP,THOMAS ALAN HORNE,12
+Millard,Hinckley 11,State Treasurer,,IAP,WARREN T ROGERS,8
+Millard,Hinckley 11,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,8
+Millard,Hinckley 11,State Treasurer,,,Over Votes,0
+Millard,Hinckley 11,State Treasurer,,,Under Votes,6
+Millard,Hinckley 11,State Senate,28,REP,EVAN J. VICKERS,248
+Millard,Hinckley 11,State Senate,28,UUP,PATRICIA A. BRADFORD,24
+Millard,Hinckley 11,State Senate,28,LIB,BARRY EVAN SHORT,13
+Millard,Hinckley 11,State Senate,28,,Over Votes,0
+Millard,Hinckley 11,State Senate,28,,Under Votes,4
+Millard,Hinckley 11,State House,29,CON,KIRK PEARSON,27
+Millard,Hinckley 11,State House,29,DEM,CHRIS DYER,25
+Millard,Hinckley 11,State House,29,REP,BRIDGER BOLINDER,229
+Millard,Hinckley 11,State House,29,,Over Votes,0
+Millard,Hinckley 11,State House,29,,Under Votes,8
+Millard,Holden 8,Registered Voters,,,,361
+Millard,Holden 8,Ballots Cast,,,,273
+Millard,Holden 8,Ballots Cast - Blank,,,,0
+Millard,Holden 8,U.S. Senate,,UNA,EVAN MCMULLIN,40
+Millard,Holden 8,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+Millard,Holden 8,U.S. Senate,,REP,MIKE LEE,225
+Millard,Holden 8,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Millard,Holden 8,U.S. Senate,,,Write-ins,0
+Millard,Holden 8,U.S. Senate,,,Over Votes,0
+Millard,Holden 8,U.S. Senate,,,Under Votes,2
+Millard,Holden 8,U.S. House,2,DEM,NICK MITCHELL,13
+Millard,Holden 8,U.S. House,2,UUP,JAYMAC MCFARLAND,4
+Millard,Holden 8,U.S. House,2,CON,CASSIE EASLEY,4
+Millard,Holden 8,U.S. House,2,REP,CHRIS STEWART,251
+Millard,Holden 8,U.S. House,2,,Over Votes,0
+Millard,Holden 8,U.S. House,2,,Under Votes,1
+Millard,Holden 8,State Treasurer,,REP,MARLO M. OAKS,247
+Millard,Holden 8,State Treasurer,,UUP,THOMAS ALAN HORNE,12
+Millard,Holden 8,State Treasurer,,IAP,WARREN T ROGERS,4
+Millard,Holden 8,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,4
+Millard,Holden 8,State Treasurer,,,Over Votes,0
+Millard,Holden 8,State Treasurer,,,Under Votes,6
+Millard,Holden 8,State House,29,CON,KIRK PEARSON,17
+Millard,Holden 8,State House,29,DEM,CHRIS DYER,20
+Millard,Holden 8,State House,29,REP,BRIDGER BOLINDER,233
+Millard,Holden 8,State House,29,,Over Votes,0
+Millard,Holden 8,State House,29,,Under Votes,3
+Millard,Kanosh 4,Registered Voters,,,,432
+Millard,Kanosh 4,Ballots Cast,,,,330
+Millard,Kanosh 4,Ballots Cast - Blank,,,,0
+Millard,Kanosh 4,U.S. Senate,,UNA,EVAN MCMULLIN,50
+Millard,Kanosh 4,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+Millard,Kanosh 4,U.S. Senate,,REP,MIKE LEE,267
+Millard,Kanosh 4,U.S. Senate,,IAP,TOMMY WILLIAMS,7
+Millard,Kanosh 4,U.S. Senate,,,Write-ins,0
+Millard,Kanosh 4,U.S. Senate,,,Over Votes,0
+Millard,Kanosh 4,U.S. Senate,,,Under Votes,2
+Millard,Kanosh 4,U.S. House,2,DEM,NICK MITCHELL,32
+Millard,Kanosh 4,U.S. House,2,UUP,JAYMAC MCFARLAND,4
+Millard,Kanosh 4,U.S. House,2,CON,CASSIE EASLEY,27
+Millard,Kanosh 4,U.S. House,2,REP,CHRIS STEWART,263
+Millard,Kanosh 4,U.S. House,2,,Over Votes,0
+Millard,Kanosh 4,U.S. House,2,,Under Votes,4
+Millard,Kanosh 4,State Treasurer,,REP,MARLO M. OAKS,248
+Millard,Kanosh 4,State Treasurer,,UUP,THOMAS ALAN HORNE,23
+Millard,Kanosh 4,State Treasurer,,IAP,WARREN T ROGERS,17
+Millard,Kanosh 4,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,18
+Millard,Kanosh 4,State Treasurer,,,Over Votes,0
+Millard,Kanosh 4,State Treasurer,,,Under Votes,24
+Millard,Kanosh 4,State House,29,CON,KIRK PEARSON,62
+Millard,Kanosh 4,State House,29,DEM,CHRIS DYER,31
+Millard,Kanosh 4,State House,29,REP,BRIDGER BOLINDER,226
+Millard,Kanosh 4,State House,29,,Over Votes,0
+Millard,Kanosh 4,State House,29,,Under Votes,11
+Millard,Leamington 7,Registered Voters,,,,179
+Millard,Leamington 7,Ballots Cast,,,,137
+Millard,Leamington 7,Ballots Cast - Blank,,,,0
+Millard,Leamington 7,U.S. Senate,,UNA,EVAN MCMULLIN,26
+Millard,Leamington 7,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
+Millard,Leamington 7,U.S. Senate,,REP,MIKE LEE,106
+Millard,Leamington 7,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+Millard,Leamington 7,U.S. Senate,,,Write-ins,0
+Millard,Leamington 7,U.S. Senate,,,Over Votes,0
+Millard,Leamington 7,U.S. Senate,,,Under Votes,1
+Millard,Leamington 7,U.S. House,2,DEM,NICK MITCHELL,14
+Millard,Leamington 7,U.S. House,2,UUP,JAYMAC MCFARLAND,0
+Millard,Leamington 7,U.S. House,2,CON,CASSIE EASLEY,3
+Millard,Leamington 7,U.S. House,2,REP,CHRIS STEWART,118
+Millard,Leamington 7,U.S. House,2,,Over Votes,0
+Millard,Leamington 7,U.S. House,2,,Under Votes,2
+Millard,Leamington 7,State Treasurer,,REP,MARLO M. OAKS,116
+Millard,Leamington 7,State Treasurer,,UUP,THOMAS ALAN HORNE,6
+Millard,Leamington 7,State Treasurer,,IAP,WARREN T ROGERS,2
+Millard,Leamington 7,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,6
+Millard,Leamington 7,State Treasurer,,,Over Votes,0
+Millard,Leamington 7,State Treasurer,,,Under Votes,7
+Millard,Leamington 7,State House,29,CON,KIRK PEARSON,7
+Millard,Leamington 7,State House,29,DEM,CHRIS DYER,14
+Millard,Leamington 7,State House,29,REP,BRIDGER BOLINDER,113
+Millard,Leamington 7,State House,29,,Over Votes,0
+Millard,Leamington 7,State House,29,,Under Votes,3
+Millard,Lynndyl 19,Registered Voters,,,,87
+Millard,Lynndyl 19,Ballots Cast,,,,67
+Millard,Lynndyl 19,Ballots Cast - Blank,,,,0
+Millard,Lynndyl 19,U.S. Senate,,UNA,EVAN MCMULLIN,24
+Millard,Lynndyl 19,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+Millard,Lynndyl 19,U.S. Senate,,REP,MIKE LEE,41
+Millard,Lynndyl 19,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Millard,Lynndyl 19,U.S. Senate,,,Write-ins,0
+Millard,Lynndyl 19,U.S. Senate,,,Over Votes,0
+Millard,Lynndyl 19,U.S. Senate,,,Under Votes,0
+Millard,Lynndyl 19,U.S. House,2,DEM,NICK MITCHELL,9
+Millard,Lynndyl 19,U.S. House,2,UUP,JAYMAC MCFARLAND,2
+Millard,Lynndyl 19,U.S. House,2,CON,CASSIE EASLEY,6
+Millard,Lynndyl 19,U.S. House,2,REP,CHRIS STEWART,50
+Millard,Lynndyl 19,U.S. House,2,,Over Votes,0
+Millard,Lynndyl 19,U.S. House,2,,Under Votes,0
+Millard,Lynndyl 19,State Treasurer,,REP,MARLO M. OAKS,47
+Millard,Lynndyl 19,State Treasurer,,UUP,THOMAS ALAN HORNE,10
+Millard,Lynndyl 19,State Treasurer,,IAP,WARREN T ROGERS,0
+Millard,Lynndyl 19,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,5
+Millard,Lynndyl 19,State Treasurer,,,Over Votes,0
+Millard,Lynndyl 19,State Treasurer,,,Under Votes,5
+Millard,Lynndyl 19,State House,29,CON,KIRK PEARSON,12
+Millard,Lynndyl 19,State House,29,DEM,CHRIS DYER,7
+Millard,Lynndyl 19,State House,29,REP,BRIDGER BOLINDER,43
+Millard,Lynndyl 19,State House,29,,Over Votes,0
+Millard,Lynndyl 19,State House,29,,Under Votes,5
+Millard,Meadow 3,Registered Voters,,,,251
+Millard,Meadow 3,Ballots Cast,,,,193
+Millard,Meadow 3,Ballots Cast - Blank,,,,0
+Millard,Meadow 3,U.S. Senate,,UNA,EVAN MCMULLIN,21
+Millard,Meadow 3,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,0
+Millard,Meadow 3,U.S. Senate,,REP,MIKE LEE,168
+Millard,Meadow 3,U.S. Senate,,IAP,TOMMY WILLIAMS,0
+Millard,Meadow 3,U.S. Senate,,,Write-ins,0
+Millard,Meadow 3,U.S. Senate,,,Over Votes,0
+Millard,Meadow 3,U.S. Senate,,,Under Votes,4
+Millard,Meadow 3,U.S. House,2,DEM,NICK MITCHELL,14
+Millard,Meadow 3,U.S. House,2,UUP,JAYMAC MCFARLAND,2
+Millard,Meadow 3,U.S. House,2,CON,CASSIE EASLEY,5
+Millard,Meadow 3,U.S. House,2,REP,CHRIS STEWART,169
+Millard,Meadow 3,U.S. House,2,,Over Votes,0
+Millard,Meadow 3,U.S. House,2,,Under Votes,3
+Millard,Meadow 3,State Treasurer,,REP,MARLO M. OAKS,173
+Millard,Meadow 3,State Treasurer,,UUP,THOMAS ALAN HORNE,9
+Millard,Meadow 3,State Treasurer,,IAP,WARREN T ROGERS,3
+Millard,Meadow 3,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,4
+Millard,Meadow 3,State Treasurer,,,Over Votes,0
+Millard,Meadow 3,State Treasurer,,,Under Votes,4
+Millard,Meadow 3,State House,29,CON,KIRK PEARSON,16
+Millard,Meadow 3,State House,29,DEM,CHRIS DYER,12
+Millard,Meadow 3,State House,29,REP,BRIDGER BOLINDER,162
+Millard,Meadow 3,State House,29,,Over Votes,0
+Millard,Meadow 3,State House,29,,Under Votes,3
+Millard,Oak City 6,Registered Voters,,,,527
+Millard,Oak City 6,Ballots Cast,,,,408
+Millard,Oak City 6,Ballots Cast - Blank,,,,0
+Millard,Oak City 6,U.S. Senate,,UNA,EVAN MCMULLIN,44
+Millard,Oak City 6,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,6
+Millard,Oak City 6,U.S. Senate,,REP,MIKE LEE,347
+Millard,Oak City 6,U.S. Senate,,IAP,TOMMY WILLIAMS,8
+Millard,Oak City 6,U.S. Senate,,,Write-ins,0
+Millard,Oak City 6,U.S. Senate,,,Over Votes,0
+Millard,Oak City 6,U.S. Senate,,,Under Votes,3
+Millard,Oak City 6,U.S. House,2,DEM,NICK MITCHELL,24
+Millard,Oak City 6,U.S. House,2,UUP,JAYMAC MCFARLAND,5
+Millard,Oak City 6,U.S. House,2,CON,CASSIE EASLEY,18
+Millard,Oak City 6,U.S. House,2,REP,CHRIS STEWART,350
+Millard,Oak City 6,U.S. House,2,,Over Votes,0
+Millard,Oak City 6,U.S. House,2,,Under Votes,11
+Millard,Oak City 6,State Treasurer,,REP,MARLO M. OAKS,322
+Millard,Oak City 6,State Treasurer,,UUP,THOMAS ALAN HORNE,3
+Millard,Oak City 6,State Treasurer,,IAP,WARREN T ROGERS,51
+Millard,Oak City 6,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,14
+Millard,Oak City 6,State Treasurer,,,Over Votes,0
+Millard,Oak City 6,State Treasurer,,,Under Votes,18
+Millard,Oak City 6,State House,29,CON,KIRK PEARSON,78
+Millard,Oak City 6,State House,29,DEM,CHRIS DYER,30
+Millard,Oak City 6,State House,29,REP,BRIDGER BOLINDER,292
+Millard,Oak City 6,State House,29,,Over Votes,0
+Millard,Oak City 6,State House,29,,Under Votes,8
+Millard,Scipio 9,Registered Voters,,,,244
+Millard,Scipio 9,Ballots Cast,,,,185
+Millard,Scipio 9,Ballots Cast - Blank,,,,0
+Millard,Scipio 9,U.S. Senate,,UNA,EVAN MCMULLIN,36
+Millard,Scipio 9,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
+Millard,Scipio 9,U.S. Senate,,REP,MIKE LEE,144
+Millard,Scipio 9,U.S. Senate,,IAP,TOMMY WILLIAMS,2
+Millard,Scipio 9,U.S. Senate,,,Write-ins,0
+Millard,Scipio 9,U.S. Senate,,,Over Votes,0
+Millard,Scipio 9,U.S. Senate,,,Under Votes,1
+Millard,Scipio 9,U.S. House,2,DEM,NICK MITCHELL,19
+Millard,Scipio 9,U.S. House,2,UUP,JAYMAC MCFARLAND,11
+Millard,Scipio 9,U.S. House,2,CON,CASSIE EASLEY,4
+Millard,Scipio 9,U.S. House,2,REP,CHRIS STEWART,150
+Millard,Scipio 9,U.S. House,2,,Over Votes,0
+Millard,Scipio 9,U.S. House,2,,Under Votes,1
+Millard,Scipio 9,State Treasurer,,REP,MARLO M. OAKS,163
+Millard,Scipio 9,State Treasurer,,UUP,THOMAS ALAN HORNE,8
+Millard,Scipio 9,State Treasurer,,IAP,WARREN T ROGERS,5
+Millard,Scipio 9,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,3
+Millard,Scipio 9,State Treasurer,,,Over Votes,0
+Millard,Scipio 9,State Treasurer,,,Under Votes,6
+Millard,Scipio 9,State House,29,CON,KIRK PEARSON,15
+Millard,Scipio 9,State House,29,DEM,CHRIS DYER,24
+Millard,Scipio 9,State House,29,REP,BRIDGER BOLINDER,144
+Millard,Scipio 9,State House,29,,Over Votes,0
+Millard,Scipio 9,State House,29,,Under Votes,2
+Millard,Sutherland 20,Registered Voters,,,,438
+Millard,Sutherland 20,Ballots Cast,,,,336
+Millard,Sutherland 20,Ballots Cast - Blank,,,,0
+Millard,Sutherland 20,U.S. Senate,,UNA,EVAN MCMULLIN,22
+Millard,Sutherland 20,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
+Millard,Sutherland 20,U.S. Senate,,REP,MIKE LEE,306
+Millard,Sutherland 20,U.S. Senate,,IAP,TOMMY WILLIAMS,1
+Millard,Sutherland 20,U.S. Senate,,,Write-ins,1
+Millard,Sutherland 20,U.S. Senate,,,Over Votes,2
+Millard,Sutherland 20,U.S. Senate,,,Under Votes,0
+Millard,Sutherland 20,U.S. House,2,DEM,NICK MITCHELL,8
+Millard,Sutherland 20,U.S. House,2,UUP,JAYMAC MCFARLAND,3
+Millard,Sutherland 20,U.S. House,2,CON,CASSIE EASLEY,7
+Millard,Sutherland 20,U.S. House,2,REP,CHRIS STEWART,318
+Millard,Sutherland 20,U.S. House,2,,Over Votes,0
+Millard,Sutherland 20,U.S. House,2,,Under Votes,0
+Millard,Sutherland 20,State Treasurer,,REP,MARLO M. OAKS,309
+Millard,Sutherland 20,State Treasurer,,UUP,THOMAS ALAN HORNE,6
+Millard,Sutherland 20,State Treasurer,,IAP,WARREN T ROGERS,4
+Millard,Sutherland 20,State Treasurer,,LIB,JOSEPH GEDDES BUCHMAN,10
+Millard,Sutherland 20,State Treasurer,,,Over Votes,0
+Millard,Sutherland 20,State Treasurer,,,Under Votes,7
+Millard,Sutherland 20,State Senate,28,REP,EVAN J. VICKERS,310
+Millard,Sutherland 20,State Senate,28,UUP,PATRICIA A. BRADFORD,16
+Millard,Sutherland 20,State Senate,28,LIB,BARRY EVAN SHORT,8
+Millard,Sutherland 20,State Senate,28,,Over Votes,0
+Millard,Sutherland 20,State Senate,28,,Under Votes,2
+Millard,Sutherland 20,State House,29,CON,KIRK PEARSON,31
+Millard,Sutherland 20,State House,29,DEM,CHRIS DYER,17
+Millard,Sutherland 20,State House,29,REP,BRIDGER BOLINDER,282
+Millard,Sutherland 20,State House,29,,Over Votes,0
+Millard,Sutherland 20,State House,29,,Under Votes,6
