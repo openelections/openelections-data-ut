@@ -5,10 +5,7 @@ Wayne,Fremont,STRAIGHT PARTY,,DEMOCRATIC,DEM,3,1,0,4
 Wayne,Fremont,STRAIGHT PARTY,,REPUBLICAN,REP,20,4,6,30
 Wayne,Fremont,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
 Wayne,Fremont,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
-Wayne,Fremont,President,,Registered Voters,,0
-Wayne,Fremont,President,,Registered Voters,,0
-Wayne,Fremont,President,,Registered Voters,,0
-Wayne,Fremont,President,,Registered Voters,,150
+Wayne,Fremont,President,,Registered Voters,,,,,150
 Wayne,Fremont,President,,Jill Stein,GRN,0,0,0,0
 Wayne,Fremont,President,,Gloria La Riva,,0,0,0,0
 Wayne,Fremont,President,,Mitt Romney,REP,71,15,14,100
@@ -69,10 +66,7 @@ Wayne,Loa,STRAIGHT PARTY,,DEMOCRATIC,DEM,2,0,0,2
 Wayne,Loa,STRAIGHT PARTY,,REPUBLICAN,REP,58,19,17,94
 Wayne,Loa,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
 Wayne,Loa,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
-Wayne,Loa,President,,Registered Voters,,0
-Wayne,Loa,President,,Registered Voters,,0
-Wayne,Loa,President,,Registered Voters,,0
-Wayne,Loa,President,,Registered Voters,,426
+Wayne,Loa,President,,Registered Voters,,,,,426
 Wayne,Loa,President,,Jill Stein,GRN,0,0,0,0
 Wayne,Loa,President,,Gloria La Riva,,0,0,0,0
 Wayne,Loa,President,,Mitt Romney,REP,193,57,51,301
@@ -131,10 +125,7 @@ Wayne,Lyman,STRAIGHT PARTY,,DEMOCRATIC,DEM,0,0,0,0
 Wayne,Lyman,STRAIGHT PARTY,,REPUBLICAN,REP,34,6,3,43
 Wayne,Lyman,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
 Wayne,Lyman,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
-Wayne,Lyman,President,,Registered Voters,,0
-Wayne,Lyman,President,,Registered Voters,,0
-Wayne,Lyman,President,,Registered Voters,,0
-Wayne,Lyman,President,,Registered Voters,,190
+Wayne,Lyman,President,,Registered Voters,,,,,190
 Wayne,Lyman,President,,Jill Stein,GRN,0,0,0,0
 Wayne,Lyman,President,,Gloria La Riva,,0,0,0,0
 Wayne,Lyman,President,,Mitt Romney,REP,112,20,11,143
@@ -195,10 +186,7 @@ Wayne,Bicknell,STRAIGHT PARTY,,DEMOCRATIC,DEM,4,1,0,5
 Wayne,Bicknell,STRAIGHT PARTY,,REPUBLICAN,REP,38,13,7,58
 Wayne,Bicknell,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
 Wayne,Bicknell,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
-Wayne,Bicknell,President,,Registered Voters,,0
-Wayne,Bicknell,President,,Registered Voters,,0
-Wayne,Bicknell,President,,Registered Voters,,0
-Wayne,Bicknell,President,,Registered Voters,,306
+Wayne,Bicknell,President,,Registered Voters,,,,,306
 Wayne,Bicknell,President,,Jill Stein,GRN,0,0,0,0
 Wayne,Bicknell,President,,Gloria La Riva,,1,0,0,1
 Wayne,Bicknell,President,,Mitt Romney,REP,148,26,35,209
@@ -259,10 +247,7 @@ Wayne,Teasdale,STRAIGHT PARTY,,DEMOCRATIC,DEM,11,3,0,14
 Wayne,Teasdale,STRAIGHT PARTY,,REPUBLICAN,REP,19,6,3,28
 Wayne,Teasdale,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
 Wayne,Teasdale,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
-Wayne,Teasdale,President,,Registered Voters,,0
-Wayne,Teasdale,President,,Registered Voters,,0
-Wayne,Teasdale,President,,Registered Voters,,0
-Wayne,Teasdale,President,,Registered Voters,,226
+Wayne,Teasdale,President,,Registered Voters,,,,,226
 Wayne,Teasdale,President,,Jill Stein,GRN,1,0,1,2
 Wayne,Teasdale,President,,Gloria La Riva,,0,0,0,0
 Wayne,Teasdale,President,,Mitt Romney,REP,66,21,15,102
@@ -323,10 +308,7 @@ Wayne,Torrey,STRAIGHT PARTY,,DEMOCRATIC,DEM,16,6,4,26
 Wayne,Torrey,STRAIGHT PARTY,,REPUBLICAN,REP,24,11,1,36
 Wayne,Torrey,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
 Wayne,Torrey,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
-Wayne,Torrey,President,,Registered Voters,,0
-Wayne,Torrey,President,,Registered Voters,,0
-Wayne,Torrey,President,,Registered Voters,,0
-Wayne,Torrey,President,,Registered Voters,,329
+Wayne,Torrey,President,,Registered Voters,,,,,329
 Wayne,Torrey,President,,Jill Stein,GRN,1,0,1,2
 Wayne,Torrey,President,,Gloria La Riva,,0,0,0,0
 Wayne,Torrey,President,,Mitt Romney,REP,67,33,19,119
@@ -387,10 +369,7 @@ Wayne,Hanksville,STRAIGHT PARTY,,DEMOCRATIC,DEM,6,0,0,6
 Wayne,Hanksville,STRAIGHT PARTY,,REPUBLICAN,REP,44,0,2,46
 Wayne,Hanksville,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
 Wayne,Hanksville,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
-Wayne,Hanksville,President,,Registered Voters,,0
-Wayne,Hanksville,President,,Registered Voters,,0
-Wayne,Hanksville,President,,Registered Voters,,0
-Wayne,Hanksville,President,,Registered Voters,,185
+Wayne,Hanksville,President,,Registered Voters,,,,,185
 Wayne,Hanksville,President,,Jill Stein,GRN,0,0,0,0
 Wayne,Hanksville,President,,Gloria La Riva,,0,0,0,0
 Wayne,Hanksville,President,,Mitt Romney,REP,105,1,9,115
@@ -449,10 +428,7 @@ Wayne,Election Total,STRAIGHT PARTY,,DEMOCRATIC,DEM,42,11,4,57
 Wayne,Election Total,STRAIGHT PARTY,,REPUBLICAN,REP,237,59,39,335
 Wayne,Election Total,STRAIGHT PARTY,,JUSTICE,JUS,0,0,0,0
 Wayne,Election Total,STRAIGHT PARTY,,GREEN,GRN,0,0,0,0
-Wayne,Election Total,President,,Registered Voters,,0
-Wayne,Election Total,President,,Registered Voters,,0
-Wayne,Election Total,President,,Registered Voters,,0
-Wayne,Election Total,President,,Registered Voters,,1812
+Wayne,Election Total,President,,Registered Voters,,,,,1812
 Wayne,Election Total,President,,Jill Stein,GRN,2,0,2,4
 Wayne,Election Total,President,,Gloria La Riva,,1,0,0,1
 Wayne,Election Total,President,,Mitt Romney,REP,762,173,154,1089
