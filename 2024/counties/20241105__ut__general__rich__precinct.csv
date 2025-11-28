@@ -1,0 +1,717 @@
+county,precinct,office,district,party,candidate,votes
+Rich,1,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,1A,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,1B,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,2,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,2A,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,3,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,3A,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,4,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,4A,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,5,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,5A,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,Federal,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Rich,1,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Rich,1A,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Rich,1B,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Rich,2,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Rich,2A,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",1
+Rich,3,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Rich,3A,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Rich,4,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Rich,4A,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",1
+Rich,5,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Rich,5A,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",2
+Rich,Federal,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Rich,1,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,1A,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,1B,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,2,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,2A,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,3,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,3A,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,4,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,4A,President,,CON,JOEL SKOUSEN / RIK COMBS,2
+Rich,5,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,5A,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,Federal,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Rich,1,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Rich,1A,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Rich,1B,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Rich,2,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Rich,2A,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Rich,3,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Rich,3A,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Rich,4,President,,GRN,JILL STEIN / RUDOLPH WARE,2
+Rich,4A,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Rich,5,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Rich,5A,President,,GRN,JILL STEIN / RUDOLPH WARE,1
+Rich,Federal,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Rich,1,President,,REP,DONALD J. TRUMP / JD VANCE,180
+Rich,1A,President,,REP,DONALD J. TRUMP / JD VANCE,0
+Rich,1B,President,,REP,DONALD J. TRUMP / JD VANCE,95
+Rich,2,President,,REP,DONALD J. TRUMP / JD VANCE,36
+Rich,2A,President,,REP,DONALD J. TRUMP / JD VANCE,245
+Rich,3,President,,REP,DONALD J. TRUMP / JD VANCE,79
+Rich,3A,President,,REP,DONALD J. TRUMP / JD VANCE,148
+Rich,4,President,,REP,DONALD J. TRUMP / JD VANCE,121
+Rich,4A,President,,REP,DONALD J. TRUMP / JD VANCE,96
+Rich,5,President,,REP,DONALD J. TRUMP / JD VANCE,39
+Rich,5A,President,,REP,DONALD J. TRUMP / JD VANCE,161
+Rich,Federal,President,,REP,DONALD J. TRUMP / JD VANCE,0
+Rich,1,President,,LIB,CHASE OLIVER / MIKE TER MAAT,0
+Rich,1A,President,,LIB,CHASE OLIVER / MIKE TER MAAT,0
+Rich,1B,President,,LIB,CHASE OLIVER / MIKE TER MAAT,2
+Rich,2,President,,LIB,CHASE OLIVER / MIKE TER MAAT,0
+Rich,2A,President,,LIB,CHASE OLIVER / MIKE TER MAAT,3
+Rich,3,President,,LIB,CHASE OLIVER / MIKE TER MAAT,0
+Rich,3A,President,,LIB,CHASE OLIVER / MIKE TER MAAT,3
+Rich,4,President,,LIB,CHASE OLIVER / MIKE TER MAAT,1
+Rich,4A,President,,LIB,CHASE OLIVER / MIKE TER MAAT,0
+Rich,5,President,,LIB,CHASE OLIVER / MIKE TER MAAT,0
+Rich,5A,President,,LIB,CHASE OLIVER / MIKE TER MAAT,4
+Rich,Federal,President,,LIB,CHASE OLIVER / MIKE TER MAAT,0
+Rich,1,President,,DEM,KAMALA D. HARRIS / TIM WALZ,7
+Rich,1A,President,,DEM,KAMALA D. HARRIS / TIM WALZ,0
+Rich,1B,President,,DEM,KAMALA D. HARRIS / TIM WALZ,10
+Rich,2,President,,DEM,KAMALA D. HARRIS / TIM WALZ,3
+Rich,2A,President,,DEM,KAMALA D. HARRIS / TIM WALZ,28
+Rich,3,President,,DEM,KAMALA D. HARRIS / TIM WALZ,5
+Rich,3A,President,,DEM,KAMALA D. HARRIS / TIM WALZ,28
+Rich,4,President,,DEM,KAMALA D. HARRIS / TIM WALZ,50
+Rich,4A,President,,DEM,KAMALA D. HARRIS / TIM WALZ,15
+Rich,5,President,,DEM,KAMALA D. HARRIS / TIM WALZ,15
+Rich,5A,President,,DEM,KAMALA D. HARRIS / TIM WALZ,53
+Rich,Federal,President,,DEM,KAMALA D. HARRIS / TIM WALZ,0
+Rich,1,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,1A,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,1B,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,2,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,2A,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,3,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,3A,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,4,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,4A,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,5,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,5A,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,Federal,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Rich,1,President,,,FUTURE MADAM POTUS,0
+Rich,1A,President,,,FUTURE MADAM POTUS,0
+Rich,1B,President,,,FUTURE MADAM POTUS,0
+Rich,2,President,,,FUTURE MADAM POTUS,0
+Rich,2A,President,,,FUTURE MADAM POTUS,0
+Rich,3,President,,,FUTURE MADAM POTUS,0
+Rich,3A,President,,,FUTURE MADAM POTUS,0
+Rich,4,President,,,FUTURE MADAM POTUS,0
+Rich,4A,President,,,FUTURE MADAM POTUS,0
+Rich,5,President,,,FUTURE MADAM POTUS,0
+Rich,5A,President,,,FUTURE MADAM POTUS,0
+Rich,Federal,President,,,FUTURE MADAM POTUS,0
+Rich,1,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,1A,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,1B,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,2,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,2A,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,3,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,3A,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,4,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,4A,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,5,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,5A,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,Federal,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Rich,1,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,1A,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,1B,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,2,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,2A,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,3,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,3A,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,4,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,4A,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,5,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,5A,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,Federal,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Rich,1,President,,,STEVE M. JOHNSON,0
+Rich,1A,President,,,STEVE M. JOHNSON,0
+Rich,1B,President,,,STEVE M. JOHNSON,0
+Rich,2,President,,,STEVE M. JOHNSON,0
+Rich,2A,President,,,STEVE M. JOHNSON,0
+Rich,3,President,,,STEVE M. JOHNSON,0
+Rich,3A,President,,,STEVE M. JOHNSON,0
+Rich,4,President,,,STEVE M. JOHNSON,0
+Rich,4A,President,,,STEVE M. JOHNSON,0
+Rich,5,President,,,STEVE M. JOHNSON,0
+Rich,5A,President,,,STEVE M. JOHNSON,0
+Rich,Federal,President,,,STEVE M. JOHNSON,0
+Rich,1,President,,,ANDRE RAMON MC NEIL,0
+Rich,1A,President,,,ANDRE RAMON MC NEIL,0
+Rich,1B,President,,,ANDRE RAMON MC NEIL,0
+Rich,2,President,,,ANDRE RAMON MC NEIL,0
+Rich,2A,President,,,ANDRE RAMON MC NEIL,0
+Rich,3,President,,,ANDRE RAMON MC NEIL,0
+Rich,3A,President,,,ANDRE RAMON MC NEIL,0
+Rich,4,President,,,ANDRE RAMON MC NEIL,0
+Rich,4A,President,,,ANDRE RAMON MC NEIL,0
+Rich,5,President,,,ANDRE RAMON MC NEIL,0
+Rich,5A,President,,,ANDRE RAMON MC NEIL,0
+Rich,Federal,President,,,ANDRE RAMON MC NEIL,0
+Rich,1,President,,,SHONDRA YEVETTE IRVING,0
+Rich,1A,President,,,SHONDRA YEVETTE IRVING,0
+Rich,1B,President,,,SHONDRA YEVETTE IRVING,0
+Rich,2,President,,,SHONDRA YEVETTE IRVING,0
+Rich,2A,President,,,SHONDRA YEVETTE IRVING,0
+Rich,3,President,,,SHONDRA YEVETTE IRVING,0
+Rich,3A,President,,,SHONDRA YEVETTE IRVING,0
+Rich,4,President,,,SHONDRA YEVETTE IRVING,0
+Rich,4A,President,,,SHONDRA YEVETTE IRVING,0
+Rich,5,President,,,SHONDRA YEVETTE IRVING,0
+Rich,5A,President,,,SHONDRA YEVETTE IRVING,0
+Rich,Federal,President,,,SHONDRA YEVETTE IRVING,0
+Rich,1,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,1A,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,1B,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,2,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,2A,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,3,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,3A,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,4,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,4A,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,5,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,5A,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,Federal,President,,,BUDDIE ARDEN WILKERSON,0
+Rich,1,U.S. Senate,,IAP,CARLTON E. BOWEN,8
+Rich,1A,U.S. Senate,,IAP,CARLTON E. BOWEN,0
+Rich,1B,U.S. Senate,,IAP,CARLTON E. BOWEN,0
+Rich,2,U.S. Senate,,IAP,CARLTON E. BOWEN,0
+Rich,2A,U.S. Senate,,IAP,CARLTON E. BOWEN,16
+Rich,3,U.S. Senate,,IAP,CARLTON E. BOWEN,2
+Rich,3A,U.S. Senate,,IAP,CARLTON E. BOWEN,11
+Rich,4,U.S. Senate,,IAP,CARLTON E. BOWEN,9
+Rich,4A,U.S. Senate,,IAP,CARLTON E. BOWEN,3
+Rich,5,U.S. Senate,,IAP,CARLTON E. BOWEN,1
+Rich,5A,U.S. Senate,,IAP,CARLTON E. BOWEN,8
+Rich,Federal,U.S. Senate,,IAP,CARLTON E. BOWEN,0
+Rich,1,U.S. Senate,,REP,JOHN CURTIS,167
+Rich,1A,U.S. Senate,,REP,JOHN CURTIS,0
+Rich,1B,U.S. Senate,,REP,JOHN CURTIS,102
+Rich,2,U.S. Senate,,REP,JOHN CURTIS,36
+Rich,2A,U.S. Senate,,REP,JOHN CURTIS,231
+Rich,3,U.S. Senate,,REP,JOHN CURTIS,77
+Rich,3A,U.S. Senate,,REP,JOHN CURTIS,151
+Rich,4,U.S. Senate,,REP,JOHN CURTIS,132
+Rich,4A,U.S. Senate,,REP,JOHN CURTIS,96
+Rich,5,U.S. Senate,,REP,JOHN CURTIS,41
+Rich,5A,U.S. Senate,,REP,JOHN CURTIS,170
+Rich,Federal,U.S. Senate,,REP,JOHN CURTIS,0
+Rich,1,U.S. Senate,,DEM,CAROLINE GLEICH,9
+Rich,1A,U.S. Senate,,DEM,CAROLINE GLEICH,0
+Rich,1B,U.S. Senate,,DEM,CAROLINE GLEICH,4
+Rich,2,U.S. Senate,,DEM,CAROLINE GLEICH,2
+Rich,2A,U.S. Senate,,DEM,CAROLINE GLEICH,26
+Rich,3,U.S. Senate,,DEM,CAROLINE GLEICH,5
+Rich,3A,U.S. Senate,,DEM,CAROLINE GLEICH,17
+Rich,4,U.S. Senate,,DEM,CAROLINE GLEICH,34
+Rich,4A,U.S. Senate,,DEM,CAROLINE GLEICH,13
+Rich,5,U.S. Senate,,DEM,CAROLINE GLEICH,11
+Rich,5A,U.S. Senate,,DEM,CAROLINE GLEICH,39
+Rich,Federal,U.S. Senate,,DEM,CAROLINE GLEICH,0
+Rich,1,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,1A,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,1B,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,2,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,2A,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,3,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,3A,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,4,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,4A,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,5,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,5A,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,Federal,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Rich,1,U.S. House,1,DEM,BILL CAMPBELL,9
+Rich,1A,U.S. House,1,DEM,BILL CAMPBELL,0
+Rich,1B,U.S. House,1,DEM,BILL CAMPBELL,6
+Rich,2,U.S. House,1,DEM,BILL CAMPBELL,2
+Rich,2A,U.S. House,1,DEM,BILL CAMPBELL,24
+Rich,3,U.S. House,1,DEM,BILL CAMPBELL,4
+Rich,3A,U.S. House,1,DEM,BILL CAMPBELL,18
+Rich,4,U.S. House,1,DEM,BILL CAMPBELL,33
+Rich,4A,U.S. House,1,DEM,BILL CAMPBELL,10
+Rich,5,U.S. House,1,DEM,BILL CAMPBELL,9
+Rich,5A,U.S. House,1,DEM,BILL CAMPBELL,35
+Rich,Federal,U.S. House,1,DEM,BILL CAMPBELL,0
+Rich,1,U.S. House,1,LIB,DANIEL R. COTTAM,5
+Rich,1A,U.S. House,1,LIB,DANIEL R. COTTAM,0
+Rich,1B,U.S. House,1,LIB,DANIEL R. COTTAM,0
+Rich,2,U.S. House,1,LIB,DANIEL R. COTTAM,0
+Rich,2A,U.S. House,1,LIB,DANIEL R. COTTAM,11
+Rich,3,U.S. House,1,LIB,DANIEL R. COTTAM,0
+Rich,3A,U.S. House,1,LIB,DANIEL R. COTTAM,6
+Rich,4,U.S. House,1,LIB,DANIEL R. COTTAM,2
+Rich,4A,U.S. House,1,LIB,DANIEL R. COTTAM,1
+Rich,5,U.S. House,1,LIB,DANIEL R. COTTAM,0
+Rich,5A,U.S. House,1,LIB,DANIEL R. COTTAM,9
+Rich,Federal,U.S. House,1,LIB,DANIEL R. COTTAM,0
+Rich,1,U.S. House,1,REP,BLAKE D. MOORE,169
+Rich,1A,U.S. House,1,REP,BLAKE D. MOORE,0
+Rich,1B,U.S. House,1,REP,BLAKE D. MOORE,99
+Rich,2,U.S. House,1,REP,BLAKE D. MOORE,36
+Rich,2A,U.S. House,1,REP,BLAKE D. MOORE,231
+Rich,3,U.S. House,1,REP,BLAKE D. MOORE,80
+Rich,3A,U.S. House,1,REP,BLAKE D. MOORE,151
+Rich,4,U.S. House,1,REP,BLAKE D. MOORE,139
+Rich,4A,U.S. House,1,REP,BLAKE D. MOORE,101
+Rich,5,U.S. House,1,REP,BLAKE D. MOORE,44
+Rich,5A,U.S. House,1,REP,BLAKE D. MOORE,174
+Rich,Federal,U.S. House,1,REP,BLAKE D. MOORE,0
+Rich,1,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,135
+Rich,1A,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,0
+Rich,1B,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,83
+Rich,2,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,33
+Rich,2A,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,214
+Rich,3,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,65
+Rich,3A,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,134
+Rich,4,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,122
+Rich,4A,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,89
+Rich,5,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,41
+Rich,5A,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,161
+Rich,1,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,4
+Rich,1A,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,0
+Rich,1B,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,3
+Rich,2,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,0
+Rich,2A,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,9
+Rich,3,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,4
+Rich,3A,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,5
+Rich,4,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,1
+Rich,4A,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,3
+Rich,5,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,1
+Rich,5A,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,5
+Rich,1,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,7
+Rich,1A,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,0
+Rich,1B,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,6
+Rich,2,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,2
+Rich,2A,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,22
+Rich,3,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,4
+Rich,3A,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,19
+Rich,4,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,30
+Rich,4A,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,9
+Rich,5,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,8
+Rich,5A,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,25
+Rich,1,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,7
+Rich,1A,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,0
+Rich,1B,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,2
+Rich,2,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,0
+Rich,2A,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,3
+Rich,3,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,0
+Rich,3A,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,5
+Rich,4,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,2
+Rich,4A,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,3
+Rich,5,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,0
+Rich,5A,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,6
+Rich,1,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,3
+Rich,1A,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,0
+Rich,1B,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,0
+Rich,2,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,1
+Rich,2A,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,1
+Rich,3,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,0
+Rich,3A,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,1
+Rich,4,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,0
+Rich,4A,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,0
+Rich,5,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,0
+Rich,5A,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,1
+Rich,1,Governor,,,PHIL LYMAN NATALIE CLAWSON,27
+Rich,1A,Governor,,,PHIL LYMAN NATALIE CLAWSON,0
+Rich,1B,Governor,,,PHIL LYMAN NATALIE CLAWSON,12
+Rich,2,Governor,,,PHIL LYMAN NATALIE CLAWSON,2
+Rich,2A,Governor,,,PHIL LYMAN NATALIE CLAWSON,23
+Rich,3,Governor,,,PHIL LYMAN NATALIE CLAWSON,9
+Rich,3A,Governor,,,PHIL LYMAN NATALIE CLAWSON,13
+Rich,4,Governor,,,PHIL LYMAN NATALIE CLAWSON,19
+Rich,4A,Governor,,,PHIL LYMAN NATALIE CLAWSON,9
+Rich,5,Governor,,,PHIL LYMAN NATALIE CLAWSON,2
+Rich,5A,Governor,,,PHIL LYMAN NATALIE CLAWSON,20
+Rich,1,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,1A,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,1B,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,2,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,2A,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,3,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,3A,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,4,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,4A,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,5,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,5A,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Rich,1,Attorney General,,REP,DEREK BROWN,166
+Rich,1A,Attorney General,,REP,DEREK BROWN,0
+Rich,1B,Attorney General,,REP,DEREK BROWN,97
+Rich,2,Attorney General,,REP,DEREK BROWN,34
+Rich,2A,Attorney General,,REP,DEREK BROWN,228
+Rich,3,Attorney General,,REP,DEREK BROWN,67
+Rich,3A,Attorney General,,REP,DEREK BROWN,135
+Rich,4,Attorney General,,REP,DEREK BROWN,125
+Rich,4A,Attorney General,,REP,DEREK BROWN,91
+Rich,5,Attorney General,,REP,DEREK BROWN,38
+Rich,5A,Attorney General,,REP,DEREK BROWN,160
+Rich,1,Attorney General,,DEM,RUDY J BAUTISTA,7
+Rich,1A,Attorney General,,DEM,RUDY J BAUTISTA,0
+Rich,1B,Attorney General,,DEM,RUDY J BAUTISTA,5
+Rich,2,Attorney General,,DEM,RUDY J BAUTISTA,2
+Rich,2A,Attorney General,,DEM,RUDY J BAUTISTA,24
+Rich,3,Attorney General,,DEM,RUDY J BAUTISTA,9
+Rich,3A,Attorney General,,DEM,RUDY J BAUTISTA,22
+Rich,4,Attorney General,,DEM,RUDY J BAUTISTA,25
+Rich,4A,Attorney General,,DEM,RUDY J BAUTISTA,13
+Rich,5,Attorney General,,DEM,RUDY J BAUTISTA,9
+Rich,5A,Attorney General,,DEM,RUDY J BAUTISTA,32
+Rich,1,Attorney General,,LIB,W. ANDREW MCCULLOUGH,4
+Rich,1A,Attorney General,,LIB,W. ANDREW MCCULLOUGH,0
+Rich,1B,Attorney General,,LIB,W. ANDREW MCCULLOUGH,0
+Rich,2,Attorney General,,LIB,W. ANDREW MCCULLOUGH,0
+Rich,2A,Attorney General,,LIB,W. ANDREW MCCULLOUGH,6
+Rich,3,Attorney General,,LIB,W. ANDREW MCCULLOUGH,2
+Rich,3A,Attorney General,,LIB,W. ANDREW MCCULLOUGH,5
+Rich,4,Attorney General,,LIB,W. ANDREW MCCULLOUGH,4
+Rich,4A,Attorney General,,LIB,W. ANDREW MCCULLOUGH,4
+Rich,5,Attorney General,,LIB,W. ANDREW MCCULLOUGH,1
+Rich,5A,Attorney General,,LIB,W. ANDREW MCCULLOUGH,9
+Rich,1,Attorney General,,,AUSTIN HEPWORTH,3
+Rich,1A,Attorney General,,,AUSTIN HEPWORTH,0
+Rich,1B,Attorney General,,,AUSTIN HEPWORTH,1
+Rich,2,Attorney General,,,AUSTIN HEPWORTH,0
+Rich,2A,Attorney General,,,AUSTIN HEPWORTH,6
+Rich,3,Attorney General,,,AUSTIN HEPWORTH,1
+Rich,3A,Attorney General,,,AUSTIN HEPWORTH,5
+Rich,4,Attorney General,,,AUSTIN HEPWORTH,8
+Rich,4A,Attorney General,,,AUSTIN HEPWORTH,0
+Rich,5,Attorney General,,,AUSTIN HEPWORTH,1
+Rich,5A,Attorney General,,,AUSTIN HEPWORTH,4
+Rich,1,Attorney General,,UUP,MICHELLE QUIST,2
+Rich,1A,Attorney General,,UUP,MICHELLE QUIST,0
+Rich,1B,Attorney General,,UUP,MICHELLE QUIST,1
+Rich,2,Attorney General,,UUP,MICHELLE QUIST,1
+Rich,2A,Attorney General,,UUP,MICHELLE QUIST,5
+Rich,3,Attorney General,,UUP,MICHELLE QUIST,2
+Rich,3A,Attorney General,,UUP,MICHELLE QUIST,9
+Rich,4,Attorney General,,UUP,MICHELLE QUIST,11
+Rich,4A,Attorney General,,UUP,MICHELLE QUIST,3
+Rich,5,Attorney General,,UUP,MICHELLE QUIST,4
+Rich,5A,Attorney General,,UUP,MICHELLE QUIST,12
+Rich,1,State Auditor,,REP,TINA CANNON,167
+Rich,1A,State Auditor,,REP,TINA CANNON,0
+Rich,1B,State Auditor,,REP,TINA CANNON,94
+Rich,2,State Auditor,,REP,TINA CANNON,32
+Rich,2A,State Auditor,,REP,TINA CANNON,224
+Rich,3,State Auditor,,REP,TINA CANNON,67
+Rich,3A,State Auditor,,REP,TINA CANNON,147
+Rich,4,State Auditor,,REP,TINA CANNON,126
+Rich,4A,State Auditor,,REP,TINA CANNON,98
+Rich,5,State Auditor,,REP,TINA CANNON,37
+Rich,5A,State Auditor,,REP,TINA CANNON,163
+Rich,1,State Auditor,,CON,JEFFREY L. OSTLER,6
+Rich,1A,State Auditor,,CON,JEFFREY L. OSTLER,0
+Rich,1B,State Auditor,,CON,JEFFREY L. OSTLER,4
+Rich,2,State Auditor,,CON,JEFFREY L. OSTLER,3
+Rich,2A,State Auditor,,CON,JEFFREY L. OSTLER,13
+Rich,3,State Auditor,,CON,JEFFREY L. OSTLER,6
+Rich,3A,State Auditor,,CON,JEFFREY L. OSTLER,2
+Rich,4,State Auditor,,CON,JEFFREY L. OSTLER,3
+Rich,4A,State Auditor,,CON,JEFFREY L. OSTLER,1
+Rich,5,State Auditor,,CON,JEFFREY L. OSTLER,1
+Rich,5A,State Auditor,,CON,JEFFREY L. OSTLER,14
+Rich,1,State Auditor,,DEM,CATHERINE VOUTAZ,7
+Rich,1A,State Auditor,,DEM,CATHERINE VOUTAZ,0
+Rich,1B,State Auditor,,DEM,CATHERINE VOUTAZ,4
+Rich,2,State Auditor,,DEM,CATHERINE VOUTAZ,2
+Rich,2A,State Auditor,,DEM,CATHERINE VOUTAZ,26
+Rich,3,State Auditor,,DEM,CATHERINE VOUTAZ,6
+Rich,3A,State Auditor,,DEM,CATHERINE VOUTAZ,22
+Rich,4,State Auditor,,DEM,CATHERINE VOUTAZ,39
+Rich,4A,State Auditor,,DEM,CATHERINE VOUTAZ,8
+Rich,5,State Auditor,,DEM,CATHERINE VOUTAZ,13
+Rich,5A,State Auditor,,DEM,CATHERINE VOUTAZ,32
+Rich,1,State Treasurer,,Utah Forward,MILES POMEROY,5
+Rich,1A,State Treasurer,,Utah Forward,MILES POMEROY,0
+Rich,1B,State Treasurer,,Utah Forward,MILES POMEROY,1
+Rich,2,State Treasurer,,Utah Forward,MILES POMEROY,1
+Rich,2A,State Treasurer,,Utah Forward,MILES POMEROY,6
+Rich,3,State Treasurer,,Utah Forward,MILES POMEROY,1
+Rich,3A,State Treasurer,,Utah Forward,MILES POMEROY,3
+Rich,4,State Treasurer,,Utah Forward,MILES POMEROY,6
+Rich,4A,State Treasurer,,Utah Forward,MILES POMEROY,3
+Rich,5,State Treasurer,,Utah Forward,MILES POMEROY,0
+Rich,5A,State Treasurer,,Utah Forward,MILES POMEROY,11
+Rich,1,State Treasurer,,REP,MARLO M. OAKS,167
+Rich,1A,State Treasurer,,REP,MARLO M. OAKS,0
+Rich,1B,State Treasurer,,REP,MARLO M. OAKS,96
+Rich,2,State Treasurer,,REP,MARLO M. OAKS,34
+Rich,2A,State Treasurer,,REP,MARLO M. OAKS,227
+Rich,3,State Treasurer,,REP,MARLO M. OAKS,70
+Rich,3A,State Treasurer,,REP,MARLO M. OAKS,149
+Rich,4,State Treasurer,,REP,MARLO M. OAKS,126
+Rich,4A,State Treasurer,,REP,MARLO M. OAKS,90
+Rich,5,State Treasurer,,REP,MARLO M. OAKS,40
+Rich,5A,State Treasurer,,REP,MARLO M. OAKS,158
+Rich,1,State Treasurer,,DEM,NEIL A HANSEN,9
+Rich,1A,State Treasurer,,DEM,NEIL A HANSEN,0
+Rich,1B,State Treasurer,,DEM,NEIL A HANSEN,4
+Rich,2,State Treasurer,,DEM,NEIL A HANSEN,2
+Rich,2A,State Treasurer,,DEM,NEIL A HANSEN,28
+Rich,3,State Treasurer,,DEM,NEIL A HANSEN,7
+Rich,3A,State Treasurer,,DEM,NEIL A HANSEN,19
+Rich,4,State Treasurer,,DEM,NEIL A HANSEN,36
+Rich,4A,State Treasurer,,DEM,NEIL A HANSEN,13
+Rich,5,State Treasurer,,DEM,NEIL A HANSEN,12
+Rich,5A,State Treasurer,,DEM,NEIL A HANSEN,39
+Rich,1,State Senate,2,REP,CHRIS WILSON,174
+Rich,1A,State Senate,2,REP,CHRIS WILSON,0
+Rich,1B,State Senate,2,REP,CHRIS WILSON,95
+Rich,2,State Senate,2,REP,CHRIS WILSON,34
+Rich,2A,State Senate,2,REP,CHRIS WILSON,230
+Rich,3,State Senate,2,REP,CHRIS WILSON,72
+Rich,3A,State Senate,2,REP,CHRIS WILSON,146
+Rich,4,State Senate,2,REP,CHRIS WILSON,127
+Rich,4A,State Senate,2,REP,CHRIS WILSON,93
+Rich,5,State Senate,2,REP,CHRIS WILSON,40
+Rich,5A,State Senate,2,REP,CHRIS WILSON,168
+Rich,1,State Senate,2,DEM,NANCY HUNTLY,7
+Rich,1A,State Senate,2,DEM,NANCY HUNTLY,0
+Rich,1B,State Senate,2,DEM,NANCY HUNTLY,8
+Rich,2,State Senate,2,DEM,NANCY HUNTLY,3
+Rich,2A,State Senate,2,DEM,NANCY HUNTLY,32
+Rich,3,State Senate,2,DEM,NANCY HUNTLY,5
+Rich,3A,State Senate,2,DEM,NANCY HUNTLY,26
+Rich,4,State Senate,2,DEM,NANCY HUNTLY,41
+Rich,4A,State Senate,2,DEM,NANCY HUNTLY,12
+Rich,5,State Senate,2,DEM,NANCY HUNTLY,13
+Rich,5A,State Senate,2,DEM,NANCY HUNTLY,43
+Rich,1,State House,4,REP,KERA YATES BIRKELAND,169
+Rich,1A,State House,4,REP,KERA YATES BIRKELAND,0
+Rich,1B,State House,4,REP,KERA YATES BIRKELAND,97
+Rich,2,State House,4,REP,KERA YATES BIRKELAND,34
+Rich,2A,State House,4,REP,KERA YATES BIRKELAND,229
+Rich,3,State House,4,REP,KERA YATES BIRKELAND,68
+Rich,3A,State House,4,REP,KERA YATES BIRKELAND,145
+Rich,4,State House,4,REP,KERA YATES BIRKELAND,122
+Rich,4A,State House,4,REP,KERA YATES BIRKELAND,90
+Rich,5,State House,4,REP,KERA YATES BIRKELAND,39
+Rich,5A,State House,4,REP,KERA YATES BIRKELAND,169
+Rich,1,State House,4,DEM,KRIS CAMPBELL,9
+Rich,1A,State House,4,DEM,KRIS CAMPBELL,0
+Rich,1B,State House,4,DEM,KRIS CAMPBELL,6
+Rich,2,State House,4,DEM,KRIS CAMPBELL,3
+Rich,2A,State House,4,DEM,KRIS CAMPBELL,27
+Rich,3,State House,4,DEM,KRIS CAMPBELL,9
+Rich,3A,State House,4,DEM,KRIS CAMPBELL,27
+Rich,4,State House,4,DEM,KRIS CAMPBELL,46
+Rich,4A,State House,4,DEM,KRIS CAMPBELL,15
+Rich,5,State House,4,DEM,KRIS CAMPBELL,13
+Rich,5A,State House,4,DEM,KRIS CAMPBELL,43
+Rich,1,County Commissioner C,,REP,REP JONATHAN LEE,161
+Rich,1A,County Commissioner C,,REP,REP JONATHAN LEE,0
+Rich,1B,County Commissioner C,,REP,REP JONATHAN LEE,101
+Rich,2,County Commissioner C,,REP,REP JONATHAN LEE,36
+Rich,2A,County Commissioner C,,REP,REP JONATHAN LEE,253
+Rich,3,County Commissioner C,,REP,REP JONATHAN LEE,79
+Rich,3A,County Commissioner C,,REP,REP JONATHAN LEE,164
+Rich,4,County Commissioner C,,REP,REP JONATHAN LEE,154
+Rich,4A,County Commissioner C,,REP,REP JONATHAN LEE,97
+Rich,5,County Commissioner C,,REP,REP JONATHAN LEE,47
+Rich,5A,County Commissioner C,,REP,REP JONATHAN LEE,185
+Rich,1,Assessor,,REP,REP KIM WILSON,162
+Rich,1A,Assessor,,REP,REP KIM WILSON,0
+Rich,1B,Assessor,,REP,REP KIM WILSON,100
+Rich,2,Assessor,,REP,REP KIM WILSON,37
+Rich,2A,Assessor,,REP,REP KIM WILSON,257
+Rich,3,Assessor,,REP,REP KIM WILSON,77
+Rich,3A,Assessor,,REP,REP KIM WILSON,166
+Rich,4,Assessor,,REP,REP KIM WILSON,159
+Rich,4A,Assessor,,REP,REP KIM WILSON,101
+Rich,5,Assessor,,REP,REP KIM WILSON,47
+Rich,5A,Assessor,,REP,REP KIM WILSON,187
+Rich,1,Recorder,,REP,REP KAIA BOWDEN,161
+Rich,1A,Recorder,,REP,REP KAIA BOWDEN,0
+Rich,1B,Recorder,,REP,REP KAIA BOWDEN,93
+Rich,2,Recorder,,REP,REP KAIA BOWDEN,34
+Rich,2A,Recorder,,REP,REP KAIA BOWDEN,222
+Rich,3,Recorder,,REP,REP KAIA BOWDEN,74
+Rich,3A,Recorder,,REP,REP KAIA BOWDEN,160
+Rich,4,Recorder,,REP,REP KAIA BOWDEN,156
+Rich,4A,Recorder,,REP,REP KAIA BOWDEN,99
+Rich,5,Recorder,,REP,REP KAIA BOWDEN,45
+Rich,5A,Recorder,,REP,REP KAIA BOWDEN,182
+Rich,1,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,162
+Rich,1A,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,0
+Rich,1B,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,98
+Rich,2,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,35
+Rich,2A,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,246
+Rich,3,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,75
+Rich,3A,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,164
+Rich,4,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,156
+Rich,4A,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,100
+Rich,5,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,47
+Rich,5A,Treasurer,,REP,REP LOUJEAN MCNEIL ARGYLE,186
+Rich,1,Local School Board District,1,,NIKALUS DAREN WALLENTINE,59
+Rich,1A,Local School Board District,1,,NIKALUS DAREN WALLENTINE,0
+Rich,1B,Local School Board District,1,,NIKALUS DAREN WALLENTINE,60
+Rich,1,Local School Board District,1,,SCOTT DEE SABEY,114
+Rich,1A,Local School Board District,1,,SCOTT DEE SABEY,0
+Rich,1B,Local School Board District,1,,SCOTT DEE SABEY,46
+Rich,2,Local School Board District,2,,PETER C. CORNIA,8
+Rich,2A,Local School Board District,2,,PETER C. CORNIA,73
+Rich,2,Local School Board District,2,,TYLER L. PUGMIRE,31
+Rich,2A,Local School Board District,2,,TYLER L. PUGMIRE,201
+Rich,5,Local School Board District,5,,ZACK MCKEE,46
+Rich,5A,Local School Board District,5,,ZACK MCKEE,189
+Rich,1,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,146
+Rich,1A,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,0
+Rich,1B,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,86
+Rich,2,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,32
+Rich,2A,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,204
+Rich,3,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,61
+Rich,3A,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,145
+Rich,4,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,120
+Rich,4A,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,81
+Rich,5,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,43
+Rich,5A,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,171
+Rich,1,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,9
+Rich,1A,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,0
+Rich,1B,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,9
+Rich,2,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,2
+Rich,2A,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,32
+Rich,3,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,11
+Rich,3A,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,15
+Rich,4,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,33
+Rich,4A,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,13
+Rich,5,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,4
+Rich,5A,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,18
+Rich,1,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,141
+Rich,1A,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,0
+Rich,1B,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,84
+Rich,2,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,31
+Rich,2A,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,209
+Rich,3,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,61
+Rich,3A,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,136
+Rich,4,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,117
+Rich,4A,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,76
+Rich,5,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,41
+Rich,5A,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,165
+Rich,1,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,10
+Rich,1A,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,0
+Rich,1B,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,10
+Rich,2,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,2
+Rich,2A,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,29
+Rich,3,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,12
+Rich,3A,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,22
+Rich,4,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,36
+Rich,4A,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,17
+Rich,5,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,5
+Rich,5A,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,23
+Rich,1,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,141
+Rich,1A,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,0
+Rich,1B,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,86
+Rich,2,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,31
+Rich,2A,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,199
+Rich,3,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,61
+Rich,3A,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,138
+Rich,4,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,118
+Rich,4A,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,79
+Rich,5,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,37
+Rich,5A,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,167
+Rich,1,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,10
+Rich,1A,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,0
+Rich,1B,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,10
+Rich,2,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,2
+Rich,2A,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,39
+Rich,3,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,12
+Rich,3A,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,19
+Rich,4,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,33
+Rich,4A,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,14
+Rich,5,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,10
+Rich,5A,Shall SPENCER D. WALSH be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,22
+Rich,1,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,135
+Rich,1A,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,0
+Rich,1B,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,85
+Rich,2,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,29
+Rich,2A,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,195
+Rich,3,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,59
+Rich,3A,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,138
+Rich,4,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,120
+Rich,4A,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,75
+Rich,5,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,35
+Rich,5A,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,YES,160
+Rich,1,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,15
+Rich,1A,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,0
+Rich,1B,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,10
+Rich,2,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,4
+Rich,2A,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,44
+Rich,3,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,13
+Rich,3A,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,19
+Rich,4,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,32
+Rich,4A,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,19
+Rich,5,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,9
+Rich,5A,Shall BRANDON J. MAYNARD be retained in the office of Judge of the District Court of the First Judicial District?,,,NO,28
+Rich,1,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,135
+Rich,1A,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,0
+Rich,1B,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,87
+Rich,2,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,31
+Rich,2A,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,204
+Rich,3,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,63
+Rich,3A,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,139
+Rich,4,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,122
+Rich,4A,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,82
+Rich,5,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,42
+Rich,5A,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,YES,169
+Rich,1,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,15
+Rich,1A,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,0
+Rich,1B,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,8
+Rich,2,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,2
+Rich,2A,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,34
+Rich,3,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,10
+Rich,3A,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,17
+Rich,4,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,30
+Rich,4A,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,14
+Rich,5,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,4
+Rich,5A,Shall BRYAN P GALLOWAY be retained in the office of Judge of the Juvenile Court of the First Juvenile Court District?,,,NO,21
+Rich,1,Constitutional Amendment B,,,FOR,116
+Rich,1A,Constitutional Amendment B,,,FOR,0
+Rich,1B,Constitutional Amendment B,,,FOR,73
+Rich,2,Constitutional Amendment B,,,FOR,25
+Rich,2A,Constitutional Amendment B,,,FOR,161
+Rich,3,Constitutional Amendment B,,,FOR,52
+Rich,3A,Constitutional Amendment B,,,FOR,122
+Rich,4,Constitutional Amendment B,,,FOR,100
+Rich,4A,Constitutional Amendment B,,,FOR,66
+Rich,5,Constitutional Amendment B,,,FOR,28
+Rich,5A,Constitutional Amendment B,,,FOR,164
+Rich,1,Constitutional Amendment B,,,AGAINST,57
+Rich,1A,Constitutional Amendment B,,,AGAINST,0
+Rich,1B,Constitutional Amendment B,,,AGAINST,32
+Rich,2,Constitutional Amendment B,,,AGAINST,10
+Rich,2A,Constitutional Amendment B,,,AGAINST,89
+Rich,3,Constitutional Amendment B,,,AGAINST,28
+Rich,3A,Constitutional Amendment B,,,AGAINST,55
+Rich,4,Constitutional Amendment B,,,AGAINST,67
+Rich,4A,Constitutional Amendment B,,,AGAINST,39
+Rich,5,Constitutional Amendment B,,,AGAINST,25
+Rich,5A,Constitutional Amendment B,,,AGAINST,45
+Rich,1,Constitutional Amendment C,,,FOR,153
+Rich,1A,Constitutional Amendment C,,,FOR,0
+Rich,1B,Constitutional Amendment C,,,FOR,88
+Rich,2,Constitutional Amendment C,,,FOR,30
+Rich,2A,Constitutional Amendment C,,,FOR,214
+Rich,3,Constitutional Amendment C,,,FOR,65
+Rich,3A,Constitutional Amendment C,,,FOR,153
+Rich,4,Constitutional Amendment C,,,FOR,150
+Rich,4A,Constitutional Amendment C,,,FOR,98
+Rich,5,Constitutional Amendment C,,,FOR,47
+Rich,5A,Constitutional Amendment C,,,FOR,190
+Rich,1,Constitutional Amendment C,,,AGAINST,21
+Rich,1A,Constitutional Amendment C,,,AGAINST,0
+Rich,1B,Constitutional Amendment C,,,AGAINST,15
+Rich,2,Constitutional Amendment C,,,AGAINST,8
+Rich,2A,Constitutional Amendment C,,,AGAINST,39
+Rich,3,Constitutional Amendment C,,,AGAINST,16
+Rich,3A,Constitutional Amendment C,,,AGAINST,24
+Rich,4,Constitutional Amendment C,,,AGAINST,19
+Rich,4A,Constitutional Amendment C,,,AGAINST,9
+Rich,5,Constitutional Amendment C,,,AGAINST,5
+Rich,5A,Constitutional Amendment C,,,AGAINST,20

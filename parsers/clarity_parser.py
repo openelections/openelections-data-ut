@@ -10,7 +10,7 @@ except ImportError:
 
 def statewide_results(url):
     j = clarify.Jurisdiction(url=url, level="state")
-    r = requests.get("http://results.enr.clarityelections.com/WV/74487/207685/reports/detailxml.zip", stream=True)
+    r = requests.get("http://results.enr.clarityelections.com/WV/74487/207685/reports/detailxml.zip", stream=True, headers={"User-Agent": "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"})
     z = zipfile.ZipFile(BytesIO(r.content))
     z.extractall()
     p = clarify.Parser()
@@ -56,7 +56,7 @@ def download_county_files(url, filename):
     subs = j.get_subjurisdictions()
     for sub in subs:
         try:
-            r = requests.get(sub.report_url('xml'), stream=True)
+            r = requests.get(sub.report_url('xml'), stream=True, headers={"User-Agent": "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"})
             z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
             precinct_results(sub.name.replace(' ','_').lower(),filename)
@@ -103,10 +103,10 @@ def precinct_results(county_name, filename):
             results.append({ 'county': county, 'precinct': precinct, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
     vote_types = list(set(vote_types))
-    vote_types.remove('Times Over Voted')
-    vote_types.remove('Number of Under Votes')
-    vote_types.remove('Times Blank Voted')
-    vote_types.remove('regVotersCounty')
+    vote_types.remove('Overvotes')
+    vote_types.remove('Undervotes')
+#    vote_types.remove('Times Blank Voted')
+#    vote_types.remove('regVotersCounty')
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
         headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] + [x.replace(' ','_').lower() for x in vote_types]

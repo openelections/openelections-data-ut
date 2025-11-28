@@ -1,0 +1,656 @@
+county,precinct,office,district,party,candidate,votes
+Kane,KA1,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,1
+Kane,KA2,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,1
+Kane,KA3,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,1
+Kane,KA4,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,1
+Kane,AL,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Kane,BU,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Kane,BW,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Kane,CM,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Kane,CW,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,0
+Kane,GL,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,1
+Kane,OR,President,,,CORNEL RONALD WEST / MELINA ABDULLAH,1
+Kane,KA1,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Kane,KA2,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",1
+Kane,KA3,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Kane,KA4,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",1
+Kane,AL,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Kane,BU,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Kane,BW,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Kane,CM,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Kane,CW,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Kane,GL,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",0
+Kane,OR,President,,,"LUCIFER ""JUSTIN CASE"" EVERYLOVE",1
+Kane,KA1,President,,CON,JOEL SKOUSEN / RIK COMBS,3
+Kane,KA2,President,,CON,JOEL SKOUSEN / RIK COMBS,2
+Kane,KA3,President,,CON,JOEL SKOUSEN / RIK COMBS,2
+Kane,KA4,President,,CON,JOEL SKOUSEN / RIK COMBS,5
+Kane,AL,President,,CON,JOEL SKOUSEN / RIK COMBS,2
+Kane,BU,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Kane,BW,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Kane,CM,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Kane,CW,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Kane,GL,President,,CON,JOEL SKOUSEN / RIK COMBS,2
+Kane,OR,President,,CON,JOEL SKOUSEN / RIK COMBS,0
+Kane,KA1,President,,GRN,JILL STEIN / RUDOLPH WARE,2
+Kane,KA2,President,,GRN,JILL STEIN / RUDOLPH WARE,1
+Kane,KA3,President,,GRN,JILL STEIN / RUDOLPH WARE,2
+Kane,KA4,President,,GRN,JILL STEIN / RUDOLPH WARE,3
+Kane,AL,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Kane,BU,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Kane,BW,President,,GRN,JILL STEIN / RUDOLPH WARE,1
+Kane,CM,President,,GRN,JILL STEIN / RUDOLPH WARE,1
+Kane,CW,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Kane,GL,President,,GRN,JILL STEIN / RUDOLPH WARE,0
+Kane,OR,President,,GRN,JILL STEIN / RUDOLPH WARE,1
+Kane,KA1,President,,REP,DONALD J. TRUMP / JD VANCE,437
+Kane,KA2,President,,REP,DONALD J. TRUMP / JD VANCE,544
+Kane,KA3,President,,REP,DONALD J. TRUMP / JD VANCE,610
+Kane,KA4,President,,REP,DONALD J. TRUMP / JD VANCE,570
+Kane,AL,President,,REP,DONALD J. TRUMP / JD VANCE,108
+Kane,BU,President,,REP,DONALD J. TRUMP / JD VANCE,0
+Kane,BW,President,,REP,DONALD J. TRUMP / JD VANCE,148
+Kane,CM,President,,REP,DONALD J. TRUMP / JD VANCE,219
+Kane,CW,President,,REP,DONALD J. TRUMP / JD VANCE,71
+Kane,GL,President,,REP,DONALD J. TRUMP / JD VANCE,207
+Kane,OR,President,,REP,DONALD J. TRUMP / JD VANCE,356
+Kane,KA1,President,,LIB,CHASE OLIVER / MIKE TER MAAT,4
+Kane,KA2,President,,LIB,CHASE OLIVER / MIKE TER MAAT,4
+Kane,KA3,President,,LIB,CHASE OLIVER / MIKE TER MAAT,4
+Kane,KA4,President,,LIB,CHASE OLIVER / MIKE TER MAAT,5
+Kane,AL,President,,LIB,CHASE OLIVER / MIKE TER MAAT,0
+Kane,BU,President,,LIB,CHASE OLIVER / MIKE TER MAAT,0
+Kane,BW,President,,LIB,CHASE OLIVER / MIKE TER MAAT,3
+Kane,CM,President,,LIB,CHASE OLIVER / MIKE TER MAAT,5
+Kane,CW,President,,LIB,CHASE OLIVER / MIKE TER MAAT,3
+Kane,GL,President,,LIB,CHASE OLIVER / MIKE TER MAAT,1
+Kane,OR,President,,LIB,CHASE OLIVER / MIKE TER MAAT,3
+Kane,KA1,President,,DEM,KAMALA D. HARRIS / TIM WALZ,152
+Kane,KA2,President,,DEM,KAMALA D. HARRIS / TIM WALZ,227
+Kane,KA3,President,,DEM,KAMALA D. HARRIS / TIM WALZ,238
+Kane,KA4,President,,DEM,KAMALA D. HARRIS / TIM WALZ,307
+Kane,AL,President,,DEM,KAMALA D. HARRIS / TIM WALZ,7
+Kane,BU,President,,DEM,KAMALA D. HARRIS / TIM WALZ,0
+Kane,BW,President,,DEM,KAMALA D. HARRIS / TIM WALZ,68
+Kane,CM,President,,DEM,KAMALA D. HARRIS / TIM WALZ,40
+Kane,CW,President,,DEM,KAMALA D. HARRIS / TIM WALZ,24
+Kane,GL,President,,DEM,KAMALA D. HARRIS / TIM WALZ,24
+Kane,OR,President,,DEM,KAMALA D. HARRIS / TIM WALZ,47
+Kane,KA1,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,3
+Kane,KA2,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Kane,KA3,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Kane,KA4,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,1
+Kane,AL,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Kane,BU,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Kane,BW,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Kane,CM,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Kane,CW,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Kane,GL,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Kane,OR,President,,,CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA,0
+Kane,KA1,President,,,FUTURE MADAM POTUS,0
+Kane,KA2,President,,,FUTURE MADAM POTUS,0
+Kane,KA3,President,,,FUTURE MADAM POTUS,0
+Kane,KA4,President,,,FUTURE MADAM POTUS,0
+Kane,AL,President,,,FUTURE MADAM POTUS,0
+Kane,BU,President,,,FUTURE MADAM POTUS,0
+Kane,BW,President,,,FUTURE MADAM POTUS,0
+Kane,CM,President,,,FUTURE MADAM POTUS,0
+Kane,CW,President,,,FUTURE MADAM POTUS,0
+Kane,GL,President,,,FUTURE MADAM POTUS,0
+Kane,OR,President,,,FUTURE MADAM POTUS,0
+Kane,KA1,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Kane,KA2,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Kane,KA3,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,2
+Kane,KA4,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Kane,AL,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Kane,BU,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Kane,BW,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Kane,CM,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Kane,CW,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Kane,GL,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Kane,OR,President,,,PETER SONSKI / LAUREN MICHELLE ONAK,0
+Kane,KA1,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,KA2,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,KA3,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,KA4,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,AL,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,BU,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,BW,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,CM,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,CW,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,GL,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,OR,President,,,JAY J BOWMAN / DE D. BOWMAN,0
+Kane,KA1,President,,,STEVE M. JOHNSON,0
+Kane,KA2,President,,,STEVE M. JOHNSON,0
+Kane,KA3,President,,,STEVE M. JOHNSON,0
+Kane,KA4,President,,,STEVE M. JOHNSON,0
+Kane,AL,President,,,STEVE M. JOHNSON,0
+Kane,BU,President,,,STEVE M. JOHNSON,0
+Kane,BW,President,,,STEVE M. JOHNSON,0
+Kane,CM,President,,,STEVE M. JOHNSON,0
+Kane,CW,President,,,STEVE M. JOHNSON,0
+Kane,GL,President,,,STEVE M. JOHNSON,0
+Kane,OR,President,,,STEVE M. JOHNSON,0
+Kane,KA1,President,,,ANDRE RAMON MC NEIL,0
+Kane,KA2,President,,,ANDRE RAMON MC NEIL,0
+Kane,KA3,President,,,ANDRE RAMON MC NEIL,0
+Kane,KA4,President,,,ANDRE RAMON MC NEIL,0
+Kane,AL,President,,,ANDRE RAMON MC NEIL,0
+Kane,BU,President,,,ANDRE RAMON MC NEIL,0
+Kane,BW,President,,,ANDRE RAMON MC NEIL,0
+Kane,CM,President,,,ANDRE RAMON MC NEIL,0
+Kane,CW,President,,,ANDRE RAMON MC NEIL,0
+Kane,GL,President,,,ANDRE RAMON MC NEIL,0
+Kane,OR,President,,,ANDRE RAMON MC NEIL,0
+Kane,KA1,President,,,SHONDRA YEVETTE IRVING,0
+Kane,KA2,President,,,SHONDRA YEVETTE IRVING,0
+Kane,KA3,President,,,SHONDRA YEVETTE IRVING,0
+Kane,KA4,President,,,SHONDRA YEVETTE IRVING,0
+Kane,AL,President,,,SHONDRA YEVETTE IRVING,0
+Kane,BU,President,,,SHONDRA YEVETTE IRVING,0
+Kane,BW,President,,,SHONDRA YEVETTE IRVING,0
+Kane,CM,President,,,SHONDRA YEVETTE IRVING,0
+Kane,CW,President,,,SHONDRA YEVETTE IRVING,0
+Kane,GL,President,,,SHONDRA YEVETTE IRVING,0
+Kane,OR,President,,,SHONDRA YEVETTE IRVING,0
+Kane,KA1,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,KA2,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,KA3,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,KA4,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,AL,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,BU,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,BW,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,CM,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,CW,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,GL,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,OR,President,,,BUDDIE ARDEN WILKERSON,0
+Kane,KA1,U.S. Senate,,IAP,CARLTON E. BOWEN,25
+Kane,KA2,U.S. Senate,,IAP,CARLTON E. BOWEN,41
+Kane,KA3,U.S. Senate,,IAP,CARLTON E. BOWEN,46
+Kane,KA4,U.S. Senate,,IAP,CARLTON E. BOWEN,44
+Kane,AL,U.S. Senate,,IAP,CARLTON E. BOWEN,16
+Kane,BU,U.S. Senate,,IAP,CARLTON E. BOWEN,0
+Kane,BW,U.S. Senate,,IAP,CARLTON E. BOWEN,6
+Kane,CM,U.S. Senate,,IAP,CARLTON E. BOWEN,4
+Kane,CW,U.S. Senate,,IAP,CARLTON E. BOWEN,7
+Kane,GL,U.S. Senate,,IAP,CARLTON E. BOWEN,17
+Kane,OR,U.S. Senate,,IAP,CARLTON E. BOWEN,34
+Kane,KA1,U.S. Senate,,REP,JOHN CURTIS,427
+Kane,KA2,U.S. Senate,,REP,JOHN CURTIS,508
+Kane,KA3,U.S. Senate,,REP,JOHN CURTIS,593
+Kane,KA4,U.S. Senate,,REP,JOHN CURTIS,551
+Kane,AL,U.S. Senate,,REP,JOHN CURTIS,90
+Kane,BU,U.S. Senate,,REP,JOHN CURTIS,0
+Kane,BW,U.S. Senate,,REP,JOHN CURTIS,143
+Kane,CM,U.S. Senate,,REP,JOHN CURTIS,225
+Kane,CW,U.S. Senate,,REP,JOHN CURTIS,66
+Kane,GL,U.S. Senate,,REP,JOHN CURTIS,191
+Kane,OR,U.S. Senate,,REP,JOHN CURTIS,341
+Kane,KA1,U.S. Senate,,DEM,CAROLINE GLEICH,130
+Kane,KA2,U.S. Senate,,DEM,CAROLINE GLEICH,203
+Kane,KA3,U.S. Senate,,DEM,CAROLINE GLEICH,207
+Kane,KA4,U.S. Senate,,DEM,CAROLINE GLEICH,285
+Kane,AL,U.S. Senate,,DEM,CAROLINE GLEICH,7
+Kane,BU,U.S. Senate,,DEM,CAROLINE GLEICH,0
+Kane,BW,U.S. Senate,,DEM,CAROLINE GLEICH,65
+Kane,CM,U.S. Senate,,DEM,CAROLINE GLEICH,32
+Kane,CW,U.S. Senate,,DEM,CAROLINE GLEICH,25
+Kane,GL,U.S. Senate,,DEM,CAROLINE GLEICH,20
+Kane,OR,U.S. Senate,,DEM,CAROLINE GLEICH,27
+Kane,KA1,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,KA2,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,KA3,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,KA4,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,AL,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,BU,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,BW,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,CM,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,CW,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,GL,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,OR,U.S. Senate,,,LAIRD FETZER HAMBLIN,0
+Kane,KA1,U.S. House,2,DEM,NATHANIEL E WOODWARD,122
+Kane,KA2,U.S. House,2,DEM,NATHANIEL E WOODWARD,187
+Kane,KA3,U.S. House,2,DEM,NATHANIEL E WOODWARD,206
+Kane,KA4,U.S. House,2,DEM,NATHANIEL E WOODWARD,256
+Kane,AL,U.S. House,2,DEM,NATHANIEL E WOODWARD,9
+Kane,BU,U.S. House,2,DEM,NATHANIEL E WOODWARD,0
+Kane,BW,U.S. House,2,DEM,NATHANIEL E WOODWARD,64
+Kane,CM,U.S. House,2,DEM,NATHANIEL E WOODWARD,33
+Kane,CW,U.S. House,2,DEM,NATHANIEL E WOODWARD,19
+Kane,GL,U.S. House,2,DEM,NATHANIEL E WOODWARD,19
+Kane,OR,U.S. House,2,DEM,NATHANIEL E WOODWARD,27
+Kane,KA1,U.S. House,2,CON,CASSIE EASLEY,24
+Kane,KA2,U.S. House,2,CON,CASSIE EASLEY,34
+Kane,KA3,U.S. House,2,CON,CASSIE EASLEY,36
+Kane,KA4,U.S. House,2,CON,CASSIE EASLEY,38
+Kane,AL,U.S. House,2,CON,CASSIE EASLEY,4
+Kane,BU,U.S. House,2,CON,CASSIE EASLEY,0
+Kane,BW,U.S. House,2,CON,CASSIE EASLEY,13
+Kane,CM,U.S. House,2,CON,CASSIE EASLEY,9
+Kane,CW,U.S. House,2,CON,CASSIE EASLEY,8
+Kane,GL,U.S. House,2,CON,CASSIE EASLEY,18
+Kane,OR,U.S. House,2,CON,CASSIE EASLEY,24
+Kane,KA1,U.S. House,2,REP,CELESTE MALOY,418
+Kane,KA2,U.S. House,2,REP,CELESTE MALOY,505
+Kane,KA3,U.S. House,2,REP,CELESTE MALOY,561
+Kane,KA4,U.S. House,2,REP,CELESTE MALOY,541
+Kane,AL,U.S. House,2,REP,CELESTE MALOY,94
+Kane,BU,U.S. House,2,REP,CELESTE MALOY,0
+Kane,BW,U.S. House,2,REP,CELESTE MALOY,123
+Kane,CM,U.S. House,2,REP,CELESTE MALOY,209
+Kane,CW,U.S. House,2,REP,CELESTE MALOY,63
+Kane,GL,U.S. House,2,REP,CELESTE MALOY,187
+Kane,OR,U.S. House,2,REP,CELESTE MALOY,341
+Kane,KA1,U.S. House,2,,TYLER MURSET,9
+Kane,KA2,U.S. House,2,,TYLER MURSET,10
+Kane,KA3,U.S. House,2,,TYLER MURSET,16
+Kane,KA4,U.S. House,2,,TYLER MURSET,26
+Kane,AL,U.S. House,2,,TYLER MURSET,3
+Kane,BU,U.S. House,2,,TYLER MURSET,0
+Kane,BW,U.S. House,2,,TYLER MURSET,13
+Kane,CM,U.S. House,2,,TYLER MURSET,5
+Kane,CW,U.S. House,2,,TYLER MURSET,1
+Kane,GL,U.S. House,2,,TYLER MURSET,2
+Kane,OR,U.S. House,2,,TYLER MURSET,13
+Kane,KA1,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,347
+Kane,KA2,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,427
+Kane,KA3,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,508
+Kane,KA4,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,510
+Kane,AL,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,65
+Kane,BU,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,0
+Kane,BW,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,128
+Kane,CM,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,196
+Kane,CW,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,55
+Kane,GL,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,135
+Kane,OR,Governor,,REP,SPENCER J. COX DEIDRE M. HENDERSON,250
+Kane,KA1,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,9
+Kane,KA2,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,8
+Kane,KA3,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,14
+Kane,KA4,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,9
+Kane,AL,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,2
+Kane,BU,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,0
+Kane,BW,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,2
+Kane,CM,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,3
+Kane,CW,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,1
+Kane,GL,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,2
+Kane,OR,Governor,,IAP,TOMMY WILLIAMS ARCHIE A. WILLIAMS III,13
+Kane,KA1,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,115
+Kane,KA2,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,176
+Kane,KA3,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,181
+Kane,KA4,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,225
+Kane,AL,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,9
+Kane,BU,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,0
+Kane,BW,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,62
+Kane,CM,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,26
+Kane,CW,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,22
+Kane,GL,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,18
+Kane,OR,Governor,,DEM,BRIAN SMITH KING REBEKAH CUMMINGS,24
+Kane,KA1,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,15
+Kane,KA2,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,16
+Kane,KA3,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,16
+Kane,KA4,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,20
+Kane,AL,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,1
+Kane,BU,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,0
+Kane,BW,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,11
+Kane,CM,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,3
+Kane,CW,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,5
+Kane,GL,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,3
+Kane,OR,Governor,,LIB,J. ROBERT LATHAM BARRY EVAN SHORT,16
+Kane,KA1,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,1
+Kane,KA2,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,3
+Kane,KA3,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,2
+Kane,KA4,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,1
+Kane,AL,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,0
+Kane,BU,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,0
+Kane,BW,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,1
+Kane,CM,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,0
+Kane,CW,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,1
+Kane,GL,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,0
+Kane,OR,Governor,,,TOM TOMENY WILLIAM LANSING TAYLOR,1
+Kane,KA1,Governor,,,PHIL LYMAN NATALIE CLAWSON,94
+Kane,KA2,Governor,,,PHIL LYMAN NATALIE CLAWSON,127
+Kane,KA3,Governor,,,PHIL LYMAN NATALIE CLAWSON,125
+Kane,KA4,Governor,,,PHIL LYMAN NATALIE CLAWSON,108
+Kane,AL,Governor,,,PHIL LYMAN NATALIE CLAWSON,37
+Kane,BU,Governor,,,PHIL LYMAN NATALIE CLAWSON,0
+Kane,BW,Governor,,,PHIL LYMAN NATALIE CLAWSON,10
+Kane,CM,Governor,,,PHIL LYMAN NATALIE CLAWSON,35
+Kane,CW,Governor,,,PHIL LYMAN NATALIE CLAWSON,12
+Kane,GL,Governor,,,PHIL LYMAN NATALIE CLAWSON,65
+Kane,OR,Governor,,,PHIL LYMAN NATALIE CLAWSON,104
+Kane,KA1,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,KA2,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,KA3,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,KA4,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,AL,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,BU,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,BW,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,CM,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,CW,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,GL,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,OR,Governor,,,CHARLIE TAUTUAA SYLVIA MIERA FISK,0
+Kane,KA1,Attorney General,,REP,DEREK BROWN,421
+Kane,KA2,Attorney General,,REP,DEREK BROWN,517
+Kane,KA3,Attorney General,,REP,DEREK BROWN,588
+Kane,KA4,Attorney General,,REP,DEREK BROWN,550
+Kane,AL,Attorney General,,REP,DEREK BROWN,97
+Kane,BU,Attorney General,,REP,DEREK BROWN,0
+Kane,BW,Attorney General,,REP,DEREK BROWN,136
+Kane,CM,Attorney General,,REP,DEREK BROWN,203
+Kane,CW,Attorney General,,REP,DEREK BROWN,71
+Kane,GL,Attorney General,,REP,DEREK BROWN,192
+Kane,OR,Attorney General,,REP,DEREK BROWN,335
+Kane,KA1,Attorney General,,DEM,RUDY J BAUTISTA,119
+Kane,KA2,Attorney General,,DEM,RUDY J BAUTISTA,188
+Kane,KA3,Attorney General,,DEM,RUDY J BAUTISTA,184
+Kane,KA4,Attorney General,,DEM,RUDY J BAUTISTA,244
+Kane,AL,Attorney General,,DEM,RUDY J BAUTISTA,8
+Kane,BU,Attorney General,,DEM,RUDY J BAUTISTA,0
+Kane,BW,Attorney General,,DEM,RUDY J BAUTISTA,55
+Kane,CM,Attorney General,,DEM,RUDY J BAUTISTA,31
+Kane,CW,Attorney General,,DEM,RUDY J BAUTISTA,19
+Kane,GL,Attorney General,,DEM,RUDY J BAUTISTA,20
+Kane,OR,Attorney General,,DEM,RUDY J BAUTISTA,29
+Kane,KA1,Attorney General,,LIB,W. ANDREW MCCULLOUGH,8
+Kane,KA2,Attorney General,,LIB,W. ANDREW MCCULLOUGH,16
+Kane,KA3,Attorney General,,LIB,W. ANDREW MCCULLOUGH,18
+Kane,KA4,Attorney General,,LIB,W. ANDREW MCCULLOUGH,21
+Kane,AL,Attorney General,,LIB,W. ANDREW MCCULLOUGH,2
+Kane,BU,Attorney General,,LIB,W. ANDREW MCCULLOUGH,0
+Kane,BW,Attorney General,,LIB,W. ANDREW MCCULLOUGH,11
+Kane,CM,Attorney General,,LIB,W. ANDREW MCCULLOUGH,8
+Kane,CW,Attorney General,,LIB,W. ANDREW MCCULLOUGH,3
+Kane,GL,Attorney General,,LIB,W. ANDREW MCCULLOUGH,3
+Kane,OR,Attorney General,,LIB,W. ANDREW MCCULLOUGH,8
+Kane,KA1,Attorney General,,,AUSTIN HEPWORTH,8
+Kane,KA2,Attorney General,,,AUSTIN HEPWORTH,10
+Kane,KA3,Attorney General,,,AUSTIN HEPWORTH,10
+Kane,KA4,Attorney General,,,AUSTIN HEPWORTH,21
+Kane,AL,Attorney General,,,AUSTIN HEPWORTH,3
+Kane,BU,Attorney General,,,AUSTIN HEPWORTH,0
+Kane,BW,Attorney General,,,AUSTIN HEPWORTH,2
+Kane,CM,Attorney General,,,AUSTIN HEPWORTH,10
+Kane,CW,Attorney General,,,AUSTIN HEPWORTH,1
+Kane,GL,Attorney General,,,AUSTIN HEPWORTH,13
+Kane,OR,Attorney General,,,AUSTIN HEPWORTH,26
+Kane,KA1,Attorney General,,UUP,MICHELLE QUIST,16
+Kane,KA2,Attorney General,,UUP,MICHELLE QUIST,26
+Kane,KA3,Attorney General,,UUP,MICHELLE QUIST,30
+Kane,KA4,Attorney General,,UUP,MICHELLE QUIST,35
+Kane,AL,Attorney General,,UUP,MICHELLE QUIST,3
+Kane,BU,Attorney General,,UUP,MICHELLE QUIST,0
+Kane,BW,Attorney General,,UUP,MICHELLE QUIST,10
+Kane,CM,Attorney General,,UUP,MICHELLE QUIST,4
+Kane,CW,Attorney General,,UUP,MICHELLE QUIST,2
+Kane,GL,Attorney General,,UUP,MICHELLE QUIST,3
+Kane,OR,Attorney General,,UUP,MICHELLE QUIST,5
+Kane,KA1,State Auditor,,REP,TINA CANNON,417
+Kane,KA2,State Auditor,,REP,TINA CANNON,514
+Kane,KA3,State Auditor,,REP,TINA CANNON,573
+Kane,KA4,State Auditor,,REP,TINA CANNON,552
+Kane,AL,State Auditor,,REP,TINA CANNON,97
+Kane,BU,State Auditor,,REP,TINA CANNON,0
+Kane,BW,State Auditor,,REP,TINA CANNON,138
+Kane,CM,State Auditor,,REP,TINA CANNON,212
+Kane,CW,State Auditor,,REP,TINA CANNON,71
+Kane,GL,State Auditor,,REP,TINA CANNON,201
+Kane,OR,State Auditor,,REP,TINA CANNON,351
+Kane,KA1,State Auditor,,CON,JEFFREY L. OSTLER,12
+Kane,KA2,State Auditor,,CON,JEFFREY L. OSTLER,25
+Kane,KA3,State Auditor,,CON,JEFFREY L. OSTLER,18
+Kane,KA4,State Auditor,,CON,JEFFREY L. OSTLER,34
+Kane,AL,State Auditor,,CON,JEFFREY L. OSTLER,7
+Kane,BU,State Auditor,,CON,JEFFREY L. OSTLER,0
+Kane,BW,State Auditor,,CON,JEFFREY L. OSTLER,8
+Kane,CM,State Auditor,,CON,JEFFREY L. OSTLER,6
+Kane,CW,State Auditor,,CON,JEFFREY L. OSTLER,3
+Kane,GL,State Auditor,,CON,JEFFREY L. OSTLER,5
+Kane,OR,State Auditor,,CON,JEFFREY L. OSTLER,14
+Kane,KA1,State Auditor,,DEM,CATHERINE VOUTAZ,125
+Kane,KA2,State Auditor,,DEM,CATHERINE VOUTAZ,185
+Kane,KA3,State Auditor,,DEM,CATHERINE VOUTAZ,210
+Kane,KA4,State Auditor,,DEM,CATHERINE VOUTAZ,260
+Kane,AL,State Auditor,,DEM,CATHERINE VOUTAZ,9
+Kane,BU,State Auditor,,DEM,CATHERINE VOUTAZ,0
+Kane,BW,State Auditor,,DEM,CATHERINE VOUTAZ,66
+Kane,CM,State Auditor,,DEM,CATHERINE VOUTAZ,34
+Kane,CW,State Auditor,,DEM,CATHERINE VOUTAZ,22
+Kane,GL,State Auditor,,DEM,CATHERINE VOUTAZ,18
+Kane,OR,State Auditor,,DEM,CATHERINE VOUTAZ,33
+Kane,KA1,State Treasurer,,Utah Forward,MILES POMEROY,17
+Kane,KA2,State Treasurer,,Utah Forward,MILES POMEROY,20
+Kane,KA3,State Treasurer,,Utah Forward,MILES POMEROY,22
+Kane,KA4,State Treasurer,,Utah Forward,MILES POMEROY,34
+Kane,AL,State Treasurer,,Utah Forward,MILES POMEROY,5
+Kane,BU,State Treasurer,,Utah Forward,MILES POMEROY,0
+Kane,BW,State Treasurer,,Utah Forward,MILES POMEROY,7
+Kane,CM,State Treasurer,,Utah Forward,MILES POMEROY,4
+Kane,CW,State Treasurer,,Utah Forward,MILES POMEROY,1
+Kane,GL,State Treasurer,,Utah Forward,MILES POMEROY,1
+Kane,OR,State Treasurer,,Utah Forward,MILES POMEROY,14
+Kane,KA1,State Treasurer,,REP,MARLO M. OAKS,427
+Kane,KA2,State Treasurer,,REP,MARLO M. OAKS,520
+Kane,KA3,State Treasurer,,REP,MARLO M. OAKS,583
+Kane,KA4,State Treasurer,,REP,MARLO M. OAKS,563
+Kane,AL,State Treasurer,,REP,MARLO M. OAKS,101
+Kane,BU,State Treasurer,,REP,MARLO M. OAKS,0
+Kane,BW,State Treasurer,,REP,MARLO M. OAKS,140
+Kane,CM,State Treasurer,,REP,MARLO M. OAKS,213
+Kane,CW,State Treasurer,,REP,MARLO M. OAKS,74
+Kane,GL,State Treasurer,,REP,MARLO M. OAKS,201
+Kane,OR,State Treasurer,,REP,MARLO M. OAKS,356
+Kane,KA1,State Treasurer,,DEM,NEIL A HANSEN,111
+Kane,KA2,State Treasurer,,DEM,NEIL A HANSEN,183
+Kane,KA3,State Treasurer,,DEM,NEIL A HANSEN,193
+Kane,KA4,State Treasurer,,DEM,NEIL A HANSEN,244
+Kane,AL,State Treasurer,,DEM,NEIL A HANSEN,6
+Kane,BU,State Treasurer,,DEM,NEIL A HANSEN,0
+Kane,BW,State Treasurer,,DEM,NEIL A HANSEN,63
+Kane,CM,State Treasurer,,DEM,NEIL A HANSEN,34
+Kane,CW,State Treasurer,,DEM,NEIL A HANSEN,21
+Kane,GL,State Treasurer,,DEM,NEIL A HANSEN,22
+Kane,OR,State Treasurer,,DEM,NEIL A HANSEN,29
+Kane,KA1,State Senate,26,,ORAN STAINBROOK,13
+Kane,KA2,State Senate,26,,ORAN STAINBROOK,22
+Kane,KA3,State Senate,26,,ORAN STAINBROOK,15
+Kane,KA4,State Senate,26,,ORAN STAINBROOK,31
+Kane,BU,State Senate,26,,ORAN STAINBROOK,0
+Kane,BW,State Senate,26,,ORAN STAINBROOK,8
+Kane,CW,State Senate,26,,ORAN STAINBROOK,0
+Kane,KA1,State Senate,26,DEM,CORBIN DAVID FROST,124
+Kane,KA2,State Senate,26,DEM,CORBIN DAVID FROST,199
+Kane,KA3,State Senate,26,DEM,CORBIN DAVID FROST,193
+Kane,KA4,State Senate,26,DEM,CORBIN DAVID FROST,272
+Kane,BU,State Senate,26,DEM,CORBIN DAVID FROST,0
+Kane,BW,State Senate,26,DEM,CORBIN DAVID FROST,64
+Kane,CW,State Senate,26,DEM,CORBIN DAVID FROST,26
+Kane,KA1,State Senate,26,REP,DAVID HINKINS,415
+Kane,KA2,State Senate,26,REP,DAVID HINKINS,498
+Kane,KA3,State Senate,26,REP,DAVID HINKINS,566
+Kane,KA4,State Senate,26,REP,DAVID HINKINS,539
+Kane,BU,State Senate,26,REP,DAVID HINKINS,0
+Kane,BW,State Senate,26,REP,DAVID HINKINS,137
+Kane,CW,State Senate,26,REP,DAVID HINKINS,69
+Kane,KA3,State Senate,27,REP,DERRIN R OWENS,7
+Kane,AL,State Senate,27,REP,DERRIN R OWENS,100
+Kane,CM,State Senate,27,REP,DERRIN R OWENS,216
+Kane,GL,State Senate,27,REP,DERRIN R OWENS,200
+Kane,OR,State Senate,27,REP,DERRIN R OWENS,360
+Kane,KA1,State House,69,REP,LOGAN JAMES MONSON,416
+Kane,KA2,State House,69,REP,LOGAN JAMES MONSON,500
+Kane,KA3,State House,69,REP,LOGAN JAMES MONSON,574
+Kane,KA4,State House,69,REP,LOGAN JAMES MONSON,542
+Kane,AL,State House,69,REP,LOGAN JAMES MONSON,107
+Kane,BU,State House,69,REP,LOGAN JAMES MONSON,0
+Kane,BW,State House,69,REP,LOGAN JAMES MONSON,136
+Kane,CM,State House,69,REP,LOGAN JAMES MONSON,217
+Kane,CW,State House,69,REP,LOGAN JAMES MONSON,71
+Kane,GL,State House,69,REP,LOGAN JAMES MONSON,194
+Kane,OR,State House,69,REP,LOGAN JAMES MONSON,365
+Kane,KA1,State House,69,DEM,DAVINA SMITH,150
+Kane,KA2,State House,69,DEM,DAVINA SMITH,239
+Kane,KA3,State House,69,DEM,DAVINA SMITH,239
+Kane,KA4,State House,69,DEM,DAVINA SMITH,316
+Kane,AL,State House,69,DEM,DAVINA SMITH,9
+Kane,BU,State House,69,DEM,DAVINA SMITH,0
+Kane,BW,State House,69,DEM,DAVINA SMITH,72
+Kane,CM,State House,69,DEM,DAVINA SMITH,36
+Kane,CW,State House,69,DEM,DAVINA SMITH,26
+Kane,GL,State House,69,DEM,DAVINA SMITH,29
+Kane,OR,State House,69,DEM,DAVINA SMITH,34
+Kane,KA1,State School Board (Multi-County),15,REP,JOANN BRINTON,442
+Kane,KA2,State School Board (Multi-County),15,REP,JOANN BRINTON,556
+Kane,KA3,State School Board (Multi-County),15,REP,JOANN BRINTON,625
+Kane,KA4,State School Board (Multi-County),15,REP,JOANN BRINTON,627
+Kane,AL,State School Board (Multi-County),15,REP,JOANN BRINTON,97
+Kane,BU,State School Board (Multi-County),15,REP,JOANN BRINTON,0
+Kane,BW,State School Board (Multi-County),15,REP,JOANN BRINTON,154
+Kane,CM,State School Board (Multi-County),15,REP,JOANN BRINTON,216
+Kane,CW,State School Board (Multi-County),15,REP,JOANN BRINTON,82
+Kane,GL,State School Board (Multi-County),15,REP,JOANN BRINTON,202
+Kane,OR,State School Board (Multi-County),15,REP,JOANN BRINTON,354
+Kane,KA1,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,457
+Kane,KA2,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,593
+Kane,KA3,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,640
+Kane,KA4,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,647
+Kane,AL,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,79
+Kane,BU,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,0
+Kane,BW,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,156
+Kane,CM,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,209
+Kane,CW,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,80
+Kane,GL,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,167
+Kane,OR,Kane County Commissioner Seat C,,REP,REP GWEN BROWN,298
+Kane,KA1,Kane County Assessor,,REP,REP J. RYAN MADDUX,452
+Kane,KA2,Kane County Assessor,,REP,REP J. RYAN MADDUX,566
+Kane,KA3,Kane County Assessor,,REP,REP J. RYAN MADDUX,659
+Kane,KA4,Kane County Assessor,,REP,REP J. RYAN MADDUX,625
+Kane,AL,Kane County Assessor,,REP,REP J. RYAN MADDUX,97
+Kane,BU,Kane County Assessor,,REP,REP J. RYAN MADDUX,0
+Kane,BW,Kane County Assessor,,REP,REP J. RYAN MADDUX,158
+Kane,CM,Kane County Assessor,,REP,REP J. RYAN MADDUX,215
+Kane,CW,Kane County Assessor,,REP,REP J. RYAN MADDUX,79
+Kane,GL,Kane County Assessor,,REP,REP J. RYAN MADDUX,205
+Kane,OR,Kane County Assessor,,REP,REP J. RYAN MADDUX,358
+Kane,KA1,Kane County Recorder,,REP,REP ISIS SMITH,443
+Kane,KA2,Kane County Recorder,,REP,REP ISIS SMITH,561
+Kane,KA3,Kane County Recorder,,REP,REP ISIS SMITH,645
+Kane,KA4,Kane County Recorder,,REP,REP ISIS SMITH,616
+Kane,AL,Kane County Recorder,,REP,REP ISIS SMITH,97
+Kane,BU,Kane County Recorder,,REP,REP ISIS SMITH,0
+Kane,BW,Kane County Recorder,,REP,REP ISIS SMITH,156
+Kane,CM,Kane County Recorder,,REP,REP ISIS SMITH,213
+Kane,CW,Kane County Recorder,,REP,REP ISIS SMITH,78
+Kane,GL,Kane County Recorder,,REP,REP ISIS SMITH,200
+Kane,OR,Kane County Recorder,,REP,REP ISIS SMITH,342
+Kane,KA1,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,445
+Kane,KA2,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,562
+Kane,KA3,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,646
+Kane,KA4,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,637
+Kane,AL,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,95
+Kane,BU,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,0
+Kane,BW,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,158
+Kane,CM,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,213
+Kane,CW,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,80
+Kane,GL,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,203
+Kane,OR,Kane County Treasurer,,REP,REP KEIREN CHATTERLEY,343
+Kane,KA2,Kane County School Board District,1,,JOHN C REESE,311
+Kane,BU,Kane County School Board District,1,,JOHN C REESE,0
+Kane,CW,Kane County School Board District,1,,JOHN C REESE,44
+Kane,KA2,Kane County School Board District,1,,MITCHELL GLAZIER,350
+Kane,BU,Kane County School Board District,1,,MITCHELL GLAZIER,0
+Kane,CW,Kane County School Board District,1,,MITCHELL GLAZIER,19
+Kane,KA3,Kane County School Board District,2,,DANNY LITTLE,644
+Kane,KA4,Kane County School Board District,3,,Write-ins,43
+Kane,KA4,Kane County School Board District,3,,Write-ins,64
+Kane,KA4,Kane County School Board District,3,,Write-ins,324
+Kane,KA4,Kane County School Board District,3,,Write-ins,0
+Kane,KA1,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,386
+Kane,KA2,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,492
+Kane,KA3,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,536
+Kane,KA4,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,549
+Kane,AL,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,84
+Kane,BU,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,0
+Kane,BW,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,137
+Kane,CM,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,174
+Kane,CW,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,70
+Kane,GL,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,161
+Kane,OR,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,YES,296
+Kane,KA1,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,70
+Kane,KA2,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,107
+Kane,KA3,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,115
+Kane,KA4,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,120
+Kane,AL,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,16
+Kane,BU,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,0
+Kane,BW,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,37
+Kane,CM,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,22
+Kane,CW,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,12
+Kane,GL,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,35
+Kane,OR,Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah?,,,NO,50
+Kane,KA1,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,376
+Kane,KA2,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,497
+Kane,KA3,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,520
+Kane,KA4,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,545
+Kane,AL,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,84
+Kane,BU,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,0
+Kane,BW,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,134
+Kane,CM,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,175
+Kane,CW,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,70
+Kane,GL,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,159
+Kane,OR,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,YES,294
+Kane,KA1,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,75
+Kane,KA2,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,97
+Kane,KA3,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,117
+Kane,KA4,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,118
+Kane,AL,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,16
+Kane,BU,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,0
+Kane,BW,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,37
+Kane,CM,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,19
+Kane,CW,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,12
+Kane,GL,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,35
+Kane,OR,Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah?,,,NO,47
+Kane,OR,RONALD L. READ Judicial Retention,,,YES,273
+Kane,OR,RONALD L. READ Judicial Retention,,,NO,39
+Kane,KA1,Constitutional Amendment B,,,FOR,369
+Kane,KA2,Constitutional Amendment B,,,FOR,475
+Kane,KA3,Constitutional Amendment B,,,FOR,540
+Kane,KA4,Constitutional Amendment B,,,FOR,541
+Kane,AL,Constitutional Amendment B,,,FOR,63
+Kane,BU,Constitutional Amendment B,,,FOR,0
+Kane,BW,Constitutional Amendment B,,,FOR,147
+Kane,CM,Constitutional Amendment B,,,FOR,134
+Kane,CW,Constitutional Amendment B,,,FOR,65
+Kane,GL,Constitutional Amendment B,,,FOR,148
+Kane,OR,Constitutional Amendment B,,,FOR,265
+Kane,KA1,Constitutional Amendment B,,,AGAINST,170
+Kane,KA2,Constitutional Amendment B,,,AGAINST,242
+Kane,KA3,Constitutional Amendment B,,,AGAINST,230
+Kane,KA4,Constitutional Amendment B,,,AGAINST,270
+Kane,AL,Constitutional Amendment B,,,AGAINST,45
+Kane,BU,Constitutional Amendment B,,,AGAINST,0
+Kane,BW,Constitutional Amendment B,,,AGAINST,57
+Kane,CM,Constitutional Amendment B,,,AGAINST,104
+Kane,CW,Constitutional Amendment B,,,AGAINST,30
+Kane,GL,Constitutional Amendment B,,,AGAINST,68
+Kane,OR,Constitutional Amendment B,,,AGAINST,120
+Kane,KA1,Constitutional Amendment C,,,FOR,492
+Kane,KA2,Constitutional Amendment C,,,FOR,624
+Kane,KA3,Constitutional Amendment C,,,FOR,686
+Kane,KA4,Constitutional Amendment C,,,FOR,712
+Kane,AL,Constitutional Amendment C,,,FOR,100
+Kane,BU,Constitutional Amendment C,,,FOR,0
+Kane,BW,Constitutional Amendment C,,,FOR,184
+Kane,CM,Constitutional Amendment C,,,FOR,217
+Kane,CW,Constitutional Amendment C,,,FOR,90
+Kane,GL,Constitutional Amendment C,,,FOR,185
+Kane,OR,Constitutional Amendment C,,,FOR,351
+Kane,KA1,Constitutional Amendment C,,,AGAINST,66
+Kane,KA2,Constitutional Amendment C,,,AGAINST,107
+Kane,KA3,Constitutional Amendment C,,,AGAINST,102
+Kane,KA4,Constitutional Amendment C,,,AGAINST,109
+Kane,AL,Constitutional Amendment C,,,AGAINST,9
+Kane,BU,Constitutional Amendment C,,,AGAINST,0
+Kane,BW,Constitutional Amendment C,,,AGAINST,24
+Kane,CM,Constitutional Amendment C,,,AGAINST,28
+Kane,CW,Constitutional Amendment C,,,AGAINST,7
+Kane,GL,Constitutional Amendment C,,,AGAINST,28
+Kane,OR,Constitutional Amendment C,,,AGAINST,41
