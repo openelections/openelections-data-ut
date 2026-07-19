@@ -1483,297 +1483,223 @@ Weber,WHV008,U.S. Senate,,Mitt Romney,REP,13
 Weber,WHV008,U.S. Senate,,Mike Kennedy,REP,15
 Weber,WHV008,U.S. Senate,,Over Votes,REP,0
 Weber,WHV008,U.S. Senate,,Under Votes,REP,0
-Weber,FRW001,Registered Voters,,,,484
 Weber,FRW001,Registered Voters,,,DEM,29
-Weber,FRW001,Ballots Cast,,,,302
 Weber,FRW001,Ballots Cast,,,DEM,17
 Weber,FRW001,U.S. House,1,Lee Castillo,DEM,8
 Weber,FRW001,U.S. House,1,Kurt Weiland,DEM,8
 Weber,FRW001,U.S. House,1,Over Votes,DEM,0
 Weber,FRW001,U.S. House,1,Under Votes,DEM,1
-Weber,FRW002,Registered Voters,,,,538
 Weber,FRW002,Registered Voters,,,DEM,66
-Weber,FRW002,Ballots Cast,,,,252
 Weber,FRW002,Ballots Cast,,,DEM,35
 Weber,FRW002,U.S. House,1,Lee Castillo,DEM,20
 Weber,FRW002,U.S. House,1,Kurt Weiland,DEM,14
 Weber,FRW002,U.S. House,1,Over Votes,DEM,0
 Weber,FRW002,U.S. House,1,Under Votes,DEM,1
-Weber,FRW003,Registered Voters,,,,574
 Weber,FRW003,Registered Voters,,,DEM,56
-Weber,FRW003,Ballots Cast,,,,310
 Weber,FRW003,Ballots Cast,,,DEM,23
 Weber,FRW003,U.S. House,1,Lee Castillo,DEM,10
 Weber,FRW003,U.S. House,1,Kurt Weiland,DEM,13
 Weber,FRW003,U.S. House,1,Over Votes,DEM,0
 Weber,FRW003,U.S. House,1,Under Votes,DEM,0
-Weber,FRW004,Registered Voters,,,,612
 Weber,FRW004,Registered Voters,,,DEM,57
-Weber,FRW004,Ballots Cast,,,,254
 Weber,FRW004,Ballots Cast,,,DEM,18
 Weber,FRW004,U.S. House,1,Lee Castillo,DEM,11
 Weber,FRW004,U.S. House,1,Kurt Weiland,DEM,7
 Weber,FRW004,U.S. House,1,Over Votes,DEM,0
 Weber,FRW004,U.S. House,1,Under Votes,DEM,0
-Weber,HPR003,Registered Voters,,,,644
 Weber,HPR003,Registered Voters,,,DEM,55
-Weber,HPR003,Ballots Cast,,,,277
 Weber,HPR003,Ballots Cast,,,DEM,25
 Weber,HPR003,U.S. House,1,Lee Castillo,DEM,15
 Weber,HPR003,U.S. House,1,Kurt Weiland,DEM,10
 Weber,HPR003,U.S. House,1,Over Votes,DEM,0
 Weber,HPR003,U.S. House,1,Under Votes,DEM,0
-Weber,HSV001,Registered Voters,,,,466
 Weber,HSV001,Registered Voters,,,DEM,65
-Weber,HSV001,Ballots Cast,,,,252
 Weber,HSV001,Ballots Cast,,,DEM,16
 Weber,HSV001,U.S. House,1,Lee Castillo,DEM,13
 Weber,HSV001,U.S. House,1,Kurt Weiland,DEM,3
 Weber,HSV001,U.S. House,1,Over Votes,DEM,0
 Weber,HSV001,U.S. House,1,Under Votes,DEM,0
-Weber,HSV004,Registered Voters,,,,563
 Weber,HSV004,Registered Voters,,,DEM,89
-Weber,HSV004,Ballots Cast,,,,285
 Weber,HSV004,Ballots Cast,,,DEM,31
 Weber,HSV004,U.S. House,1,Lee Castillo,DEM,18
 Weber,HSV004,U.S. House,1,Kurt Weiland,DEM,13
 Weber,HSV004,U.S. House,1,Over Votes,DEM,0
 Weber,HSV004,U.S. House,1,Under Votes,DEM,0
-Weber,NOG001,Registered Voters,,,,357
 Weber,NOG001,Registered Voters,,,DEM,59
-Weber,NOG001,Ballots Cast,,,,153
 Weber,NOG001,Ballots Cast,,,DEM,21
 Weber,NOG001,U.S. House,1,Lee Castillo,DEM,16
 Weber,NOG001,U.S. House,1,Kurt Weiland,DEM,4
 Weber,NOG001,U.S. House,1,Over Votes,DEM,0
 Weber,NOG001,U.S. House,1,Under Votes,DEM,1
-Weber,NOG002,Registered Voters,,,,374
 Weber,NOG002,Registered Voters,,,DEM,73
-Weber,NOG002,Ballots Cast,,,,192
 Weber,NOG002,Ballots Cast,,,DEM,15
 Weber,NOG002,U.S. House,1,Lee Castillo,DEM,10
 Weber,NOG002,U.S. House,1,Kurt Weiland,DEM,5
 Weber,NOG002,U.S. House,1,Over Votes,DEM,0
 Weber,NOG002,U.S. House,1,Under Votes,DEM,0
-Weber,NOG003,Registered Voters,,,,461
 Weber,NOG003,Registered Voters,,,DEM,53
-Weber,NOG003,Ballots Cast,,,,289
 Weber,NOG003,Ballots Cast,,,DEM,20
 Weber,NOG003,U.S. House,1,Lee Castillo,DEM,7
 Weber,NOG003,U.S. House,1,Kurt Weiland,DEM,13
 Weber,NOG003,U.S. House,1,Over Votes,DEM,0
 Weber,NOG003,U.S. House,1,Under Votes,DEM,0
-Weber,NOG004,Registered Voters,,,,321
 Weber,NOG004,Registered Voters,,,DEM,27
-Weber,NOG004,Ballots Cast,,,,217
 Weber,NOG004,Ballots Cast,,,DEM,17
 Weber,NOG004,U.S. House,1,Lee Castillo,DEM,11
 Weber,NOG004,U.S. House,1,Kurt Weiland,DEM,6
 Weber,NOG004,U.S. House,1,Over Votes,DEM,0
 Weber,NOG004,U.S. House,1,Under Votes,DEM,0
-Weber,NOG005,Registered Voters,,,,503
 Weber,NOG005,Registered Voters,,,DEM,44
-Weber,NOG005,Ballots Cast,,,,345
 Weber,NOG005,Ballots Cast,,,DEM,23
 Weber,NOG005,U.S. House,1,Lee Castillo,DEM,11
 Weber,NOG005,U.S. House,1,Kurt Weiland,DEM,12
 Weber,NOG005,U.S. House,1,Over Votes,DEM,0
 Weber,NOG005,U.S. House,1,Under Votes,DEM,0
-Weber,NOG006,Registered Voters,,,,355
 Weber,NOG006,Registered Voters,,,DEM,66
-Weber,NOG006,Ballots Cast,,,,196
 Weber,NOG006,Ballots Cast,,,DEM,23
 Weber,NOG006,U.S. House,1,Lee Castillo,DEM,8
 Weber,NOG006,U.S. House,1,Kurt Weiland,DEM,15
 Weber,NOG006,U.S. House,1,Over Votes,DEM,0
 Weber,NOG006,U.S. House,1,Under Votes,DEM,0
-Weber,NOG007,Registered Voters,,,,385
 Weber,NOG007,Registered Voters,,,DEM,55
-Weber,NOG007,Ballots Cast,,,,227
 Weber,NOG007,Ballots Cast,,,DEM,19
 Weber,NOG007,U.S. House,1,Lee Castillo,DEM,8
 Weber,NOG007,U.S. House,1,Kurt Weiland,DEM,11
 Weber,NOG007,U.S. House,1,Over Votes,DEM,0
 Weber,NOG007,U.S. House,1,Under Votes,DEM,0
-Weber,NOG008,Registered Voters,,,,529
 Weber,NOG008,Registered Voters,,,DEM,67
-Weber,NOG008,Ballots Cast,,,,321
 Weber,NOG008,Ballots Cast,,,DEM,25
 Weber,NOG008,U.S. House,1,Lee Castillo,DEM,10
 Weber,NOG008,U.S. House,1,Kurt Weiland,DEM,15
 Weber,NOG008,U.S. House,1,Over Votes,DEM,0
 Weber,NOG008,U.S. House,1,Under Votes,DEM,0
-Weber,NOG009,Registered Voters,,,,467
 Weber,NOG009,Registered Voters,,,DEM,59
-Weber,NOG009,Ballots Cast,,,,251
 Weber,NOG009,Ballots Cast,,,DEM,27
 Weber,NOG009,U.S. House,1,Lee Castillo,DEM,16
 Weber,NOG009,U.S. House,1,Kurt Weiland,DEM,10
 Weber,NOG009,U.S. House,1,Over Votes,DEM,0
 Weber,NOG009,U.S. House,1,Under Votes,DEM,1
-Weber,NOG011,Registered Voters,,,,477
 Weber,NOG011,Registered Voters,,,DEM,70
-Weber,NOG011,Ballots Cast,,,,284
 Weber,NOG011,Ballots Cast,,,DEM,24
 Weber,NOG011,U.S. House,1,Lee Castillo,DEM,12
 Weber,NOG011,U.S. House,1,Kurt Weiland,DEM,11
 Weber,NOG011,U.S. House,1,Over Votes,DEM,0
 Weber,NOG011,U.S. House,1,Under Votes,DEM,1
-Weber,NOG012,Registered Voters,,,,511
 Weber,NOG012,Registered Voters,,,DEM,69
-Weber,NOG012,Ballots Cast,,,,303
 Weber,NOG012,Ballots Cast,,,DEM,29
 Weber,NOG012,U.S. House,1,Lee Castillo,DEM,13
 Weber,NOG012,U.S. House,1,Kurt Weiland,DEM,16
 Weber,NOG012,U.S. House,1,Over Votes,DEM,0
 Weber,NOG012,U.S. House,1,Under Votes,DEM,0
-Weber,NOG013,Registered Voters,,,,522
 Weber,NOG013,Registered Voters,,,DEM,112
-Weber,NOG013,Ballots Cast,,,,283
 Weber,NOG013,Ballots Cast,,,DEM,38
 Weber,NOG013,U.S. House,1,Lee Castillo,DEM,16
 Weber,NOG013,U.S. House,1,Kurt Weiland,DEM,22
 Weber,NOG013,U.S. House,1,Over Votes,DEM,0
 Weber,NOG013,U.S. House,1,Under Votes,DEM,0
-Weber,OGD001,Registered Voters,,,,303
 Weber,OGD001,Registered Voters,,,DEM,133
-Weber,OGD001,Ballots Cast,,,,97
 Weber,OGD001,Ballots Cast,,,DEM,33
 Weber,OGD001,U.S. House,1,Lee Castillo,DEM,24
 Weber,OGD001,U.S. House,1,Kurt Weiland,DEM,9
 Weber,OGD001,U.S. House,1,Over Votes,DEM,0
 Weber,OGD001,U.S. House,1,Under Votes,DEM,0
-Weber,OGD002,Registered Voters,,,,505
 Weber,OGD002,Registered Voters,,,DEM,172
-Weber,OGD002,Ballots Cast,,,,192
 Weber,OGD002,Ballots Cast,,,DEM,37
 Weber,OGD002,U.S. House,1,Lee Castillo,DEM,27
 Weber,OGD002,U.S. House,1,Kurt Weiland,DEM,10
 Weber,OGD002,U.S. House,1,Over Votes,DEM,0
 Weber,OGD002,U.S. House,1,Under Votes,DEM,0
-Weber,OGD003,Registered Voters,,,,326
 Weber,OGD003,Registered Voters,,,DEM,104
-Weber,OGD003,Ballots Cast,,,,133
 Weber,OGD003,Ballots Cast,,,DEM,37
 Weber,OGD003,U.S. House,1,Lee Castillo,DEM,21
 Weber,OGD003,U.S. House,1,Kurt Weiland,DEM,16
 Weber,OGD003,U.S. House,1,Over Votes,DEM,0
 Weber,OGD003,U.S. House,1,Under Votes,DEM,0
-Weber,OGD004,Registered Voters,,,,343
 Weber,OGD004,Registered Voters,,,DEM,152
-Weber,OGD004,Ballots Cast,,,,132
 Weber,OGD004,Ballots Cast,,,DEM,47
 Weber,OGD004,U.S. House,1,Lee Castillo,DEM,22
 Weber,OGD004,U.S. House,1,Kurt Weiland,DEM,25
 Weber,OGD004,U.S. House,1,Over Votes,DEM,0
 Weber,OGD004,U.S. House,1,Under Votes,DEM,0
-Weber,OGD005,Registered Voters,,,,336
 Weber,OGD005,Registered Voters,,,DEM,115
-Weber,OGD005,Ballots Cast,,,,137
 Weber,OGD005,Ballots Cast,,,DEM,25
 Weber,OGD005,U.S. House,1,Lee Castillo,DEM,15
 Weber,OGD005,U.S. House,1,Kurt Weiland,DEM,10
 Weber,OGD005,U.S. House,1,Over Votes,DEM,0
 Weber,OGD005,U.S. House,1,Under Votes,DEM,0
-Weber,OGD006,Registered Voters,,,,458
 Weber,OGD006,Registered Voters,,,DEM,63
-Weber,OGD006,Ballots Cast,,,,152
 Weber,OGD006,Ballots Cast,,,DEM,18
 Weber,OGD006,U.S. House,1,Lee Castillo,DEM,9
 Weber,OGD006,U.S. House,1,Kurt Weiland,DEM,9
 Weber,OGD006,U.S. House,1,Over Votes,DEM,0
 Weber,OGD006,U.S. House,1,Under Votes,DEM,0
-Weber,OGD007,Registered Voters,,,,390
 Weber,OGD007,Registered Voters,,,DEM,72
-Weber,OGD007,Ballots Cast,,,,116
 Weber,OGD007,Ballots Cast,,,DEM,31
 Weber,OGD007,U.S. House,1,Lee Castillo,DEM,13
 Weber,OGD007,U.S. House,1,Kurt Weiland,DEM,18
 Weber,OGD007,U.S. House,1,Over Votes,DEM,0
 Weber,OGD007,U.S. House,1,Under Votes,DEM,0
-Weber,OGD008,Registered Voters,,,,635
 Weber,OGD008,Registered Voters,,,DEM,127
-Weber,OGD008,Ballots Cast,,,,175
 Weber,OGD008,Ballots Cast,,,DEM,38
 Weber,OGD008,U.S. House,1,Lee Castillo,DEM,18
 Weber,OGD008,U.S. House,1,Kurt Weiland,DEM,19
 Weber,OGD008,U.S. House,1,Over Votes,DEM,0
 Weber,OGD008,U.S. House,1,Under Votes,DEM,1
-Weber,OGD009,Registered Voters,,,,563
 Weber,OGD009,Registered Voters,,,DEM,101
-Weber,OGD009,Ballots Cast,,,,219
 Weber,OGD009,Ballots Cast,,,DEM,45
 Weber,OGD009,U.S. House,1,Lee Castillo,DEM,36
 Weber,OGD009,U.S. House,1,Kurt Weiland,DEM,9
 Weber,OGD009,U.S. House,1,Over Votes,DEM,0
 Weber,OGD009,U.S. House,1,Under Votes,DEM,0
-Weber,OGD010,Registered Voters,,,,638
 Weber,OGD010,Registered Voters,,,DEM,111
-Weber,OGD010,Ballots Cast,,,,171
 Weber,OGD010,Ballots Cast,,,DEM,32
 Weber,OGD010,U.S. House,1,Lee Castillo,DEM,15
 Weber,OGD010,U.S. House,1,Kurt Weiland,DEM,16
 Weber,OGD010,U.S. House,1,Over Votes,DEM,0
 Weber,OGD010,U.S. House,1,Under Votes,DEM,1
-Weber,OGD011,Registered Voters,,,,565
 Weber,OGD011,Registered Voters,,,DEM,91
-Weber,OGD011,Ballots Cast,,,,179
 Weber,OGD011,Ballots Cast,,,DEM,32
 Weber,OGD011,U.S. House,1,Lee Castillo,DEM,18
 Weber,OGD011,U.S. House,1,Kurt Weiland,DEM,13
 Weber,OGD011,U.S. House,1,Over Votes,DEM,0
 Weber,OGD011,U.S. House,1,Under Votes,DEM,1
-Weber,OGD012,Registered Voters,,,,439
 Weber,OGD012,Registered Voters,,,DEM,63
-Weber,OGD012,Ballots Cast,,,,156
 Weber,OGD012,Ballots Cast,,,DEM,25
 Weber,OGD012,U.S. House,1,Lee Castillo,DEM,13
 Weber,OGD012,U.S. House,1,Kurt Weiland,DEM,11
 Weber,OGD012,U.S. House,1,Over Votes,DEM,0
 Weber,OGD012,U.S. House,1,Under Votes,DEM,1
-Weber,OGD013,Registered Voters,,,,310
 Weber,OGD013,Registered Voters,,,DEM,126
-Weber,OGD013,Ballots Cast,,,,144
 Weber,OGD013,Ballots Cast,,,DEM,45
 Weber,OGD013,U.S. House,1,Lee Castillo,DEM,24
 Weber,OGD013,U.S. House,1,Kurt Weiland,DEM,21
 Weber,OGD013,U.S. House,1,Over Votes,DEM,0
 Weber,OGD013,U.S. House,1,Under Votes,DEM,0
-Weber,OGD014,Registered Voters,,,,737
 Weber,OGD014,Registered Voters,,,DEM,152
-Weber,OGD014,Ballots Cast,,,,228
 Weber,OGD014,Ballots Cast,,,DEM,61
 Weber,OGD014,U.S. House,1,Lee Castillo,DEM,36
 Weber,OGD014,U.S. House,1,Kurt Weiland,DEM,25
 Weber,OGD014,U.S. House,1,Over Votes,DEM,0
 Weber,OGD014,U.S. House,1,Under Votes,DEM,0
-Weber,OGD015,Registered Voters,,,,306
 Weber,OGD015,Registered Voters,,,DEM,157
-Weber,OGD015,Ballots Cast,,,,117
 Weber,OGD015,Ballots Cast,,,DEM,47
 Weber,OGD015,U.S. House,1,Lee Castillo,DEM,29
 Weber,OGD015,U.S. House,1,Kurt Weiland,DEM,16
 Weber,OGD015,U.S. House,1,Over Votes,DEM,0
 Weber,OGD015,U.S. House,1,Under Votes,DEM,2
-Weber,OGD016,Registered Voters,,,,241
 Weber,OGD016,Registered Voters,,,DEM,137
-Weber,OGD016,Ballots Cast,,,,72
 Weber,OGD016,Ballots Cast,,,DEM,31
 Weber,OGD016,U.S. House,1,Lee Castillo,DEM,17
 Weber,OGD016,U.S. House,1,Kurt Weiland,DEM,14
 Weber,OGD016,U.S. House,1,Over Votes,DEM,0
 Weber,OGD016,U.S. House,1,Under Votes,DEM,0
-Weber,OGD017,Registered Voters,,,,307
 Weber,OGD017,Registered Voters,,,DEM,145
-Weber,OGD017,Ballots Cast,,,,99
 Weber,OGD017,Ballots Cast,,,DEM,21
 Weber,OGD017,U.S. House,1,Lee Castillo,DEM,17
 Weber,OGD017,U.S. House,1,Kurt Weiland,DEM,4
 Weber,OGD017,U.S. House,1,Over Votes,DEM,0
 Weber,OGD017,U.S. House,1,Under Votes,DEM,0
-Weber,OGD018,Registered Voters,,,,347
 Weber,OGD018,Registered Voters,,,DEM,139
-Weber,OGD018,Ballots Cast,,,,138
 Weber,OGD018,Ballots Cast,,,DEM,34
 Weber,OGD018,U.S. House,1,Lee Castillo,DEM,19
 Weber,OGD018,U.S. House,1,Kurt Weiland,DEM,15
@@ -1787,625 +1713,469 @@ Weber,OGD020,U.S. House,1,Lee Castillo,DEM,12
 Weber,OGD020,U.S. House,1,Kurt Weiland,DEM,5
 Weber,OGD020,U.S. House,1,Over Votes,DEM,0
 Weber,OGD020,U.S. House,1,Under Votes,DEM,0
-Weber,OGD021,Registered Voters,,,,467
 Weber,OGD021,Registered Voters,,,DEM,90
-Weber,OGD021,Ballots Cast,,,,163
 Weber,OGD021,Ballots Cast,,,DEM,30
 Weber,OGD021,U.S. House,1,Lee Castillo,DEM,21
 Weber,OGD021,U.S. House,1,Kurt Weiland,DEM,9
 Weber,OGD021,U.S. House,1,Over Votes,DEM,0
 Weber,OGD021,U.S. House,1,Under Votes,DEM,0
-Weber,OGD022,Registered Voters,,,,585
 Weber,OGD022,Registered Voters,,,DEM,138
-Weber,OGD022,Ballots Cast,,,,130
 Weber,OGD022,Ballots Cast,,,DEM,38
 Weber,OGD022,U.S. House,1,Lee Castillo,DEM,26
 Weber,OGD022,U.S. House,1,Kurt Weiland,DEM,12
 Weber,OGD022,U.S. House,1,Over Votes,DEM,0
 Weber,OGD022,U.S. House,1,Under Votes,DEM,0
-Weber,OGD023,Registered Voters,,,,685
 Weber,OGD023,Registered Voters,,,DEM,131
-Weber,OGD023,Ballots Cast,,,,184
 Weber,OGD023,Ballots Cast,,,DEM,40
 Weber,OGD023,U.S. House,1,Lee Castillo,DEM,19
 Weber,OGD023,U.S. House,1,Kurt Weiland,DEM,21
 Weber,OGD023,U.S. House,1,Over Votes,DEM,0
 Weber,OGD023,U.S. House,1,Under Votes,DEM,0
-Weber,OGD024,Registered Voters,,,,665
 Weber,OGD024,Registered Voters,,,DEM,117
-Weber,OGD024,Ballots Cast,,,,233
 Weber,OGD024,Ballots Cast,,,DEM,44
 Weber,OGD024,U.S. House,1,Lee Castillo,DEM,28
 Weber,OGD024,U.S. House,1,Kurt Weiland,DEM,15
 Weber,OGD024,U.S. House,1,Over Votes,DEM,0
 Weber,OGD024,U.S. House,1,Under Votes,DEM,1
-Weber,OGD025,Registered Voters,,,,735
 Weber,OGD025,Registered Voters,,,DEM,144
-Weber,OGD025,Ballots Cast,,,,235
 Weber,OGD025,Ballots Cast,,,DEM,62
 Weber,OGD025,U.S. House,1,Lee Castillo,DEM,34
 Weber,OGD025,U.S. House,1,Kurt Weiland,DEM,25
 Weber,OGD025,U.S. House,1,Over Votes,DEM,0
 Weber,OGD025,U.S. House,1,Under Votes,DEM,3
-Weber,OGD026,Registered Voters,,,,220
 Weber,OGD026,Registered Voters,,,DEM,104
-Weber,OGD026,Ballots Cast,,,,98
 Weber,OGD026,Ballots Cast,,,DEM,39
 Weber,OGD026,U.S. House,1,Lee Castillo,DEM,24
 Weber,OGD026,U.S. House,1,Kurt Weiland,DEM,15
 Weber,OGD026,U.S. House,1,Over Votes,DEM,0
 Weber,OGD026,U.S. House,1,Under Votes,DEM,0
-Weber,OGD027,Registered Voters,,,,226
 Weber,OGD027,Registered Voters,,,DEM,115
-Weber,OGD027,Ballots Cast,,,,85
 Weber,OGD027,Ballots Cast,,,DEM,37
 Weber,OGD027,U.S. House,1,Lee Castillo,DEM,22
 Weber,OGD027,U.S. House,1,Kurt Weiland,DEM,13
 Weber,OGD027,U.S. House,1,Over Votes,DEM,0
 Weber,OGD027,U.S. House,1,Under Votes,DEM,2
-Weber,OGD028,Registered Voters,,,,242
 Weber,OGD028,Registered Voters,,,DEM,113
-Weber,OGD028,Ballots Cast,,,,83
 Weber,OGD028,Ballots Cast,,,DEM,29
 Weber,OGD028,U.S. House,1,Lee Castillo,DEM,18
 Weber,OGD028,U.S. House,1,Kurt Weiland,DEM,11
 Weber,OGD028,U.S. House,1,Over Votes,DEM,0
 Weber,OGD028,U.S. House,1,Under Votes,DEM,0
-Weber,OGD029,Registered Voters,,,,228
 Weber,OGD029,Registered Voters,,,DEM,122
-Weber,OGD029,Ballots Cast,,,,95
 Weber,OGD029,Ballots Cast,,,DEM,47
 Weber,OGD029,U.S. House,1,Lee Castillo,DEM,27
 Weber,OGD029,U.S. House,1,Kurt Weiland,DEM,20
 Weber,OGD029,U.S. House,1,Over Votes,DEM,0
 Weber,OGD029,U.S. House,1,Under Votes,DEM,0
-Weber,OGD030,Registered Voters,,,,226
 Weber,OGD030,Registered Voters,,,DEM,119
-Weber,OGD030,Ballots Cast,,,,83
 Weber,OGD030,Ballots Cast,,,DEM,37
 Weber,OGD030,U.S. House,1,Lee Castillo,DEM,25
 Weber,OGD030,U.S. House,1,Kurt Weiland,DEM,12
 Weber,OGD030,U.S. House,1,Over Votes,DEM,0
 Weber,OGD030,U.S. House,1,Under Votes,DEM,0
-Weber,OGD031,Registered Voters,,,,231
 Weber,OGD031,Registered Voters,,,DEM,157
-Weber,OGD031,Ballots Cast,,,,73
 Weber,OGD031,Ballots Cast,,,DEM,38
 Weber,OGD031,U.S. House,1,Lee Castillo,DEM,27
 Weber,OGD031,U.S. House,1,Kurt Weiland,DEM,11
 Weber,OGD031,U.S. House,1,Over Votes,DEM,0
 Weber,OGD031,U.S. House,1,Under Votes,DEM,0
-Weber,OGD032,Registered Voters,,,,281
 Weber,OGD032,Registered Voters,,,DEM,119
-Weber,OGD032,Ballots Cast,,,,112
 Weber,OGD032,Ballots Cast,,,DEM,34
 Weber,OGD032,U.S. House,1,Lee Castillo,DEM,22
 Weber,OGD032,U.S. House,1,Kurt Weiland,DEM,12
 Weber,OGD032,U.S. House,1,Over Votes,DEM,0
 Weber,OGD032,U.S. House,1,Under Votes,DEM,0
-Weber,OGD034,Registered Voters,,,,238
 Weber,OGD034,Registered Voters,,,DEM,89
-Weber,OGD034,Ballots Cast,,,,103
 Weber,OGD034,Ballots Cast,,,DEM,26
 Weber,OGD034,U.S. House,1,Lee Castillo,DEM,17
 Weber,OGD034,U.S. House,1,Kurt Weiland,DEM,9
 Weber,OGD034,U.S. House,1,Over Votes,DEM,0
 Weber,OGD034,U.S. House,1,Under Votes,DEM,0
-Weber,OGD035,Registered Voters,,,,291
 Weber,OGD035,Registered Voters,,,DEM,98
-Weber,OGD035,Ballots Cast,,,,129
 Weber,OGD035,Ballots Cast,,,DEM,36
 Weber,OGD035,U.S. House,1,Lee Castillo,DEM,20
 Weber,OGD035,U.S. House,1,Kurt Weiland,DEM,16
 Weber,OGD035,U.S. House,1,Over Votes,DEM,0
 Weber,OGD035,U.S. House,1,Under Votes,DEM,0
-Weber,OGD036,Registered Voters,,,,387
 Weber,OGD036,Registered Voters,,,DEM,104
-Weber,OGD036,Ballots Cast,,,,183
 Weber,OGD036,Ballots Cast,,,DEM,37
 Weber,OGD036,U.S. House,1,Lee Castillo,DEM,19
 Weber,OGD036,U.S. House,1,Kurt Weiland,DEM,17
 Weber,OGD036,U.S. House,1,Over Votes,DEM,0
 Weber,OGD036,U.S. House,1,Under Votes,DEM,1
-Weber,OGD037,Registered Voters,,,,280
 Weber,OGD037,Registered Voters,,,DEM,89
-Weber,OGD037,Ballots Cast,,,,158
 Weber,OGD037,Ballots Cast,,,DEM,35
 Weber,OGD037,U.S. House,1,Lee Castillo,DEM,21
 Weber,OGD037,U.S. House,1,Kurt Weiland,DEM,14
 Weber,OGD037,U.S. House,1,Over Votes,DEM,0
 Weber,OGD037,U.S. House,1,Under Votes,DEM,0
-Weber,OGD038,Registered Voters,,,,397
 Weber,OGD038,Registered Voters,,,DEM,147
-Weber,OGD038,Ballots Cast,,,,203
 Weber,OGD038,Ballots Cast,,,DEM,46
 Weber,OGD038,U.S. House,1,Lee Castillo,DEM,25
 Weber,OGD038,U.S. House,1,Kurt Weiland,DEM,21
 Weber,OGD038,U.S. House,1,Over Votes,DEM,0
 Weber,OGD038,U.S. House,1,Under Votes,DEM,0
-Weber,OGD039,Registered Voters,,,,359
 Weber,OGD039,Registered Voters,,,DEM,101
-Weber,OGD039,Ballots Cast,,,,206
 Weber,OGD039,Ballots Cast,,,DEM,45
 Weber,OGD039,U.S. House,1,Lee Castillo,DEM,32
 Weber,OGD039,U.S. House,1,Kurt Weiland,DEM,13
 Weber,OGD039,U.S. House,1,Over Votes,DEM,0
 Weber,OGD039,U.S. House,1,Under Votes,DEM,0
-Weber,OGD040,Registered Voters,,,,344
 Weber,OGD040,Registered Voters,,,DEM,84
-Weber,OGD040,Ballots Cast,,,,139
 Weber,OGD040,Ballots Cast,,,DEM,24
 Weber,OGD040,U.S. House,1,Lee Castillo,DEM,18
 Weber,OGD040,U.S. House,1,Kurt Weiland,DEM,5
 Weber,OGD040,U.S. House,1,Over Votes,DEM,0
 Weber,OGD040,U.S. House,1,Under Votes,DEM,1
-Weber,OGD041,Registered Voters,,,,220
 Weber,OGD041,Registered Voters,,,DEM,46
-Weber,OGD041,Ballots Cast,,,,111
 Weber,OGD041,Ballots Cast,,,DEM,16
 Weber,OGD041,U.S. House,1,Lee Castillo,DEM,13
 Weber,OGD041,U.S. House,1,Kurt Weiland,DEM,3
 Weber,OGD041,U.S. House,1,Over Votes,DEM,0
 Weber,OGD041,U.S. House,1,Under Votes,DEM,0
-Weber,OGD042,Registered Voters,,,,343
 Weber,OGD042,Registered Voters,,,DEM,75
-Weber,OGD042,Ballots Cast,,,,198
 Weber,OGD042,Ballots Cast,,,DEM,28
 Weber,OGD042,U.S. House,1,Lee Castillo,DEM,20
 Weber,OGD042,U.S. House,1,Kurt Weiland,DEM,8
 Weber,OGD042,U.S. House,1,Over Votes,DEM,0
 Weber,OGD042,U.S. House,1,Under Votes,DEM,0
-Weber,OGD043,Registered Voters,,,,427
 Weber,OGD043,Registered Voters,,,DEM,94
-Weber,OGD043,Ballots Cast,,,,269
 Weber,OGD043,Ballots Cast,,,DEM,55
 Weber,OGD043,U.S. House,1,Lee Castillo,DEM,26
 Weber,OGD043,U.S. House,1,Kurt Weiland,DEM,29
 Weber,OGD043,U.S. House,1,Over Votes,DEM,0
 Weber,OGD043,U.S. House,1,Under Votes,DEM,0
-Weber,OGD044,Registered Voters,,,,438
 Weber,OGD044,Registered Voters,,,DEM,83
-Weber,OGD044,Ballots Cast,,,,275
 Weber,OGD044,Ballots Cast,,,DEM,43
 Weber,OGD044,U.S. House,1,Lee Castillo,DEM,19
 Weber,OGD044,U.S. House,1,Kurt Weiland,DEM,24
 Weber,OGD044,U.S. House,1,Over Votes,DEM,0
 Weber,OGD044,U.S. House,1,Under Votes,DEM,0
-Weber,OGD045,Registered Voters,,,,399
 Weber,OGD045,Registered Voters,,,DEM,67
-Weber,OGD045,Ballots Cast,,,,243
 Weber,OGD045,Ballots Cast,,,DEM,36
 Weber,OGD045,U.S. House,1,Lee Castillo,DEM,24
 Weber,OGD045,U.S. House,1,Kurt Weiland,DEM,12
 Weber,OGD045,U.S. House,1,Over Votes,DEM,0
 Weber,OGD045,U.S. House,1,Under Votes,DEM,0
-Weber,PLC001,Registered Voters,,,,949
 Weber,PLC001,Registered Voters,,,DEM,45
-Weber,PLC001,Ballots Cast,,,,380
 Weber,PLC001,Ballots Cast,,,DEM,20
 Weber,PLC001,U.S. House,1,Lee Castillo,DEM,12
 Weber,PLC001,U.S. House,1,Kurt Weiland,DEM,7
 Weber,PLC001,U.S. House,1,Over Votes,DEM,0
 Weber,PLC001,U.S. House,1,Under Votes,DEM,1
-Weber,PLC004,Registered Voters,,,,848
 Weber,PLC004,Registered Voters,,,DEM,50
-Weber,PLC004,Ballots Cast,,,,297
 Weber,PLC004,Ballots Cast,,,DEM,16
 Weber,PLC004,U.S. House,1,Lee Castillo,DEM,8
 Weber,PLC004,U.S. House,1,Kurt Weiland,DEM,8
 Weber,PLC004,U.S. House,1,Over Votes,DEM,0
 Weber,PLC004,U.S. House,1,Under Votes,DEM,0
-Weber,PLV001,Registered Voters,,,,541
 Weber,PLV001,Registered Voters,,,DEM,52
-Weber,PLV001,Ballots Cast,,,,324
 Weber,PLV001,Ballots Cast,,,DEM,21
 Weber,PLV001,U.S. House,1,Lee Castillo,DEM,10
 Weber,PLV001,U.S. House,1,Kurt Weiland,DEM,11
 Weber,PLV001,U.S. House,1,Over Votes,DEM,0
 Weber,PLV001,U.S. House,1,Under Votes,DEM,0
-Weber,PLV002,Registered Voters,,,,548
 Weber,PLV002,Registered Voters,,,DEM,48
-Weber,PLV002,Ballots Cast,,,,339
 Weber,PLV002,Ballots Cast,,,DEM,20
 Weber,PLV002,U.S. House,1,Lee Castillo,DEM,9
 Weber,PLV002,U.S. House,1,Kurt Weiland,DEM,11
 Weber,PLV002,U.S. House,1,Over Votes,DEM,0
 Weber,PLV002,U.S. House,1,Under Votes,DEM,0
-Weber,PLV003,Registered Voters,,,,523
 Weber,PLV003,Registered Voters,,,DEM,45
-Weber,PLV003,Ballots Cast,,,,357
 Weber,PLV003,Ballots Cast,,,DEM,22
 Weber,PLV003,U.S. House,1,Lee Castillo,DEM,9
 Weber,PLV003,U.S. House,1,Kurt Weiland,DEM,13
 Weber,PLV003,U.S. House,1,Over Votes,DEM,0
 Weber,PLV003,U.S. House,1,Under Votes,DEM,0
-Weber,PLV004,Registered Voters,,,,456
 Weber,PLV004,Registered Voters,,,DEM,78
-Weber,PLV004,Ballots Cast,,,,273
 Weber,PLV004,Ballots Cast,,,DEM,31
 Weber,PLV004,U.S. House,1,Lee Castillo,DEM,15
 Weber,PLV004,U.S. House,1,Kurt Weiland,DEM,16
 Weber,PLV004,U.S. House,1,Over Votes,DEM,0
 Weber,PLV004,U.S. House,1,Under Votes,DEM,0
-Weber,PLV005,Registered Voters,,,,788
 Weber,PLV005,Registered Voters,,,DEM,56
-Weber,PLV005,Ballots Cast,,,,426
 Weber,PLV005,Ballots Cast,,,DEM,20
 Weber,PLV005,U.S. House,1,Lee Castillo,DEM,11
 Weber,PLV005,U.S. House,1,Kurt Weiland,DEM,9
 Weber,PLV005,U.S. House,1,Over Votes,DEM,0
 Weber,PLV005,U.S. House,1,Under Votes,DEM,0
-Weber,RIV001,Registered Voters,,,,470
 Weber,RIV001,Registered Voters,,,DEM,87
-Weber,RIV001,Ballots Cast,,,,225
 Weber,RIV001,Ballots Cast,,,DEM,35
 Weber,RIV001,U.S. House,1,Lee Castillo,DEM,22
 Weber,RIV001,U.S. House,1,Kurt Weiland,DEM,13
 Weber,RIV001,U.S. House,1,Over Votes,DEM,0
 Weber,RIV001,U.S. House,1,Under Votes,DEM,0
-Weber,RIV002,Registered Voters,,,,351
 Weber,RIV002,Registered Voters,,,DEM,81
-Weber,RIV002,Ballots Cast,,,,168
 Weber,RIV002,Ballots Cast,,,DEM,33
 Weber,RIV002,U.S. House,1,Lee Castillo,DEM,24
 Weber,RIV002,U.S. House,1,Kurt Weiland,DEM,9
 Weber,RIV002,U.S. House,1,Over Votes,DEM,0
 Weber,RIV002,U.S. House,1,Under Votes,DEM,0
-Weber,RIV003,Registered Voters,,,,385
 Weber,RIV003,Registered Voters,,,DEM,81
-Weber,RIV003,Ballots Cast,,,,212
 Weber,RIV003,Ballots Cast,,,DEM,36
 Weber,RIV003,U.S. House,1,Lee Castillo,DEM,10
 Weber,RIV003,U.S. House,1,Kurt Weiland,DEM,25
 Weber,RIV003,U.S. House,1,Over Votes,DEM,0
 Weber,RIV003,U.S. House,1,Under Votes,DEM,1
-Weber,RIV004,Registered Voters,,,,293
 Weber,RIV004,Registered Voters,,,DEM,76
-Weber,RIV004,Ballots Cast,,,,143
 Weber,RIV004,Ballots Cast,,,DEM,20
 Weber,RIV004,U.S. House,1,Lee Castillo,DEM,8
 Weber,RIV004,U.S. House,1,Kurt Weiland,DEM,12
 Weber,RIV004,U.S. House,1,Over Votes,DEM,0
 Weber,RIV004,U.S. House,1,Under Votes,DEM,0
-Weber,RIV005,Registered Voters,,,,342
 Weber,RIV005,Registered Voters,,,DEM,66
-Weber,RIV005,Ballots Cast,,,,185
 Weber,RIV005,Ballots Cast,,,DEM,24
 Weber,RIV005,U.S. House,1,Lee Castillo,DEM,11
 Weber,RIV005,U.S. House,1,Kurt Weiland,DEM,13
 Weber,RIV005,U.S. House,1,Over Votes,DEM,0
 Weber,RIV005,U.S. House,1,Under Votes,DEM,0
-Weber,ROY001,Registered Voters,,,,496
 Weber,ROY001,Registered Voters,,,DEM,126
-Weber,ROY001,Ballots Cast,,,,189
 Weber,ROY001,Ballots Cast,,,DEM,25
 Weber,ROY001,U.S. House,1,Lee Castillo,DEM,17
 Weber,ROY001,U.S. House,1,Kurt Weiland,DEM,8
 Weber,ROY001,U.S. House,1,Over Votes,DEM,0
 Weber,ROY001,U.S. House,1,Under Votes,DEM,0
-Weber,ROY002,Registered Voters,,,,514
 Weber,ROY002,Registered Voters,,,DEM,102
-Weber,ROY002,Ballots Cast,,,,241
 Weber,ROY002,Ballots Cast,,,DEM,27
 Weber,ROY002,U.S. House,1,Lee Castillo,DEM,17
 Weber,ROY002,U.S. House,1,Kurt Weiland,DEM,10
 Weber,ROY002,U.S. House,1,Over Votes,DEM,0
 Weber,ROY002,U.S. House,1,Under Votes,DEM,0
-Weber,ROY003,Registered Voters,,,,387
 Weber,ROY003,Registered Voters,,,DEM,83
-Weber,ROY003,Ballots Cast,,,,169
 Weber,ROY003,Ballots Cast,,,DEM,30
 Weber,ROY003,U.S. House,1,Lee Castillo,DEM,15
 Weber,ROY003,U.S. House,1,Kurt Weiland,DEM,15
 Weber,ROY003,U.S. House,1,Over Votes,DEM,0
 Weber,ROY003,U.S. House,1,Under Votes,DEM,0
-Weber,ROY004,Registered Voters,,,,434
 Weber,ROY004,Registered Voters,,,DEM,82
-Weber,ROY004,Ballots Cast,,,,218
 Weber,ROY004,Ballots Cast,,,DEM,28
 Weber,ROY004,U.S. House,1,Lee Castillo,DEM,17
 Weber,ROY004,U.S. House,1,Kurt Weiland,DEM,11
 Weber,ROY004,U.S. House,1,Over Votes,DEM,0
 Weber,ROY004,U.S. House,1,Under Votes,DEM,0
-Weber,ROY005,Registered Voters,,,,423
 Weber,ROY005,Registered Voters,,,DEM,98
-Weber,ROY005,Ballots Cast,,,,150
 Weber,ROY005,Ballots Cast,,,DEM,25
 Weber,ROY005,U.S. House,1,Lee Castillo,DEM,12
 Weber,ROY005,U.S. House,1,Kurt Weiland,DEM,13
 Weber,ROY005,U.S. House,1,Over Votes,DEM,0
 Weber,ROY005,U.S. House,1,Under Votes,DEM,0
-Weber,ROY006,Registered Voters,,,,427
 Weber,ROY006,Registered Voters,,,DEM,106
-Weber,ROY006,Ballots Cast,,,,161
 Weber,ROY006,Ballots Cast,,,DEM,27
 Weber,ROY006,U.S. House,1,Lee Castillo,DEM,17
 Weber,ROY006,U.S. House,1,Kurt Weiland,DEM,10
 Weber,ROY006,U.S. House,1,Over Votes,DEM,0
 Weber,ROY006,U.S. House,1,Under Votes,DEM,0
-Weber,ROY007,Registered Voters,,,,413
 Weber,ROY007,Registered Voters,,,DEM,74
-Weber,ROY007,Ballots Cast,,,,171
 Weber,ROY007,Ballots Cast,,,DEM,22
 Weber,ROY007,U.S. House,1,Lee Castillo,DEM,16
 Weber,ROY007,U.S. House,1,Kurt Weiland,DEM,6
 Weber,ROY007,U.S. House,1,Over Votes,DEM,0
 Weber,ROY007,U.S. House,1,Under Votes,DEM,0
-Weber,ROY008,Registered Voters,,,,398
 Weber,ROY008,Registered Voters,,,DEM,97
-Weber,ROY008,Ballots Cast,,,,145
 Weber,ROY008,Ballots Cast,,,DEM,37
 Weber,ROY008,U.S. House,1,Lee Castillo,DEM,23
 Weber,ROY008,U.S. House,1,Kurt Weiland,DEM,14
 Weber,ROY008,U.S. House,1,Over Votes,DEM,0
 Weber,ROY008,U.S. House,1,Under Votes,DEM,0
-Weber,ROY009,Registered Voters,,,,380
 Weber,ROY009,Registered Voters,,,DEM,89
-Weber,ROY009,Ballots Cast,,,,173
 Weber,ROY009,Ballots Cast,,,DEM,32
 Weber,ROY009,U.S. House,1,Lee Castillo,DEM,13
 Weber,ROY009,U.S. House,1,Kurt Weiland,DEM,19
 Weber,ROY009,U.S. House,1,Over Votes,DEM,0
 Weber,ROY009,U.S. House,1,Under Votes,DEM,0
-Weber,ROY010,Registered Voters,,,,410
 Weber,ROY010,Registered Voters,,,DEM,118
-Weber,ROY010,Ballots Cast,,,,169
 Weber,ROY010,Ballots Cast,,,DEM,41
 Weber,ROY010,U.S. House,1,Lee Castillo,DEM,26
 Weber,ROY010,U.S. House,1,Kurt Weiland,DEM,15
 Weber,ROY010,U.S. House,1,Over Votes,DEM,0
 Weber,ROY010,U.S. House,1,Under Votes,DEM,0
-Weber,ROY011,Registered Voters,,,,358
 Weber,ROY011,Registered Voters,,,DEM,84
-Weber,ROY011,Ballots Cast,,,,209
 Weber,ROY011,Ballots Cast,,,DEM,28
 Weber,ROY011,U.S. House,1,Lee Castillo,DEM,15
 Weber,ROY011,U.S. House,1,Kurt Weiland,DEM,13
 Weber,ROY011,U.S. House,1,Over Votes,DEM,0
 Weber,ROY011,U.S. House,1,Under Votes,DEM,0
-Weber,ROY013,Registered Voters,,,,358
 Weber,ROY013,Registered Voters,,,DEM,74
-Weber,ROY013,Ballots Cast,,,,220
 Weber,ROY013,Ballots Cast,,,DEM,27
 Weber,ROY013,U.S. House,1,Lee Castillo,DEM,13
 Weber,ROY013,U.S. House,1,Kurt Weiland,DEM,14
 Weber,ROY013,U.S. House,1,Over Votes,DEM,0
 Weber,ROY013,U.S. House,1,Under Votes,DEM,0
-Weber,ROY014,Registered Voters,,,,444
 Weber,ROY014,Registered Voters,,,DEM,106
-Weber,ROY014,Ballots Cast,,,,243
 Weber,ROY014,Ballots Cast,,,DEM,35
 Weber,ROY014,U.S. House,1,Lee Castillo,DEM,20
 Weber,ROY014,U.S. House,1,Kurt Weiland,DEM,15
 Weber,ROY014,U.S. House,1,Over Votes,DEM,0
 Weber,ROY014,U.S. House,1,Under Votes,DEM,0
-Weber,ROY015,Registered Voters,,,,290
 Weber,ROY015,Registered Voters,,,DEM,58
-Weber,ROY015,Ballots Cast,,,,139
 Weber,ROY015,Ballots Cast,,,DEM,23
 Weber,ROY015,U.S. House,1,Lee Castillo,DEM,8
 Weber,ROY015,U.S. House,1,Kurt Weiland,DEM,15
 Weber,ROY015,U.S. House,1,Over Votes,DEM,0
 Weber,ROY015,U.S. House,1,Under Votes,DEM,0
-Weber,ROY016,Registered Voters,,,,283
 Weber,ROY016,Registered Voters,,,DEM,53
-Weber,ROY016,Ballots Cast,,,,136
 Weber,ROY016,Ballots Cast,,,DEM,20
 Weber,ROY016,U.S. House,1,Lee Castillo,DEM,13
 Weber,ROY016,U.S. House,1,Kurt Weiland,DEM,7
 Weber,ROY016,U.S. House,1,Over Votes,DEM,0
 Weber,ROY016,U.S. House,1,Under Votes,DEM,0
-Weber,ROY017,Registered Voters,,,,371
 Weber,ROY017,Registered Voters,,,DEM,76
-Weber,ROY017,Ballots Cast,,,,182
 Weber,ROY017,Ballots Cast,,,DEM,28
 Weber,ROY017,U.S. House,1,Lee Castillo,DEM,17
 Weber,ROY017,U.S. House,1,Kurt Weiland,DEM,11
 Weber,ROY017,U.S. House,1,Over Votes,DEM,0
 Weber,ROY017,U.S. House,1,Under Votes,DEM,0
-Weber,ROY018,Registered Voters,,,,377
 Weber,ROY018,Registered Voters,,,DEM,88
-Weber,ROY018,Ballots Cast,,,,206
 Weber,ROY018,Ballots Cast,,,DEM,41
 Weber,ROY018,U.S. House,1,Lee Castillo,DEM,18
 Weber,ROY018,U.S. House,1,Kurt Weiland,DEM,23
 Weber,ROY018,U.S. House,1,Over Votes,DEM,0
 Weber,ROY018,U.S. House,1,Under Votes,DEM,0
-Weber,ROY019,Registered Voters,,,,425
 Weber,ROY019,Registered Voters,,,DEM,75
-Weber,ROY019,Ballots Cast,,,,223
 Weber,ROY019,Ballots Cast,,,DEM,20
 Weber,ROY019,U.S. House,1,Lee Castillo,DEM,13
 Weber,ROY019,U.S. House,1,Kurt Weiland,DEM,7
 Weber,ROY019,U.S. House,1,Over Votes,DEM,0
 Weber,ROY019,U.S. House,1,Under Votes,DEM,0
-Weber,SOG001,Registered Voters,,,,154
 Weber,SOG001,Registered Voters,,,DEM,54
-Weber,SOG001,Ballots Cast,,,,71
 Weber,SOG001,Ballots Cast,,,DEM,22
 Weber,SOG001,U.S. House,1,Lee Castillo,DEM,14
 Weber,SOG001,U.S. House,1,Kurt Weiland,DEM,8
 Weber,SOG001,U.S. House,1,Over Votes,DEM,0
 Weber,SOG001,U.S. House,1,Under Votes,DEM,0
-Weber,SOG002,Registered Voters,,,,229
 Weber,SOG002,Registered Voters,,,DEM,58
-Weber,SOG002,Ballots Cast,,,,97
 Weber,SOG002,Ballots Cast,,,DEM,20
 Weber,SOG002,U.S. House,1,Lee Castillo,DEM,13
 Weber,SOG002,U.S. House,1,Kurt Weiland,DEM,6
 Weber,SOG002,U.S. House,1,Over Votes,DEM,0
 Weber,SOG002,U.S. House,1,Under Votes,DEM,1
-Weber,SOG003,Registered Voters,,,,284
 Weber,SOG003,Registered Voters,,,DEM,71
-Weber,SOG003,Ballots Cast,,,,133
 Weber,SOG003,Ballots Cast,,,DEM,18
 Weber,SOG003,U.S. House,1,Lee Castillo,DEM,11
 Weber,SOG003,U.S. House,1,Kurt Weiland,DEM,7
 Weber,SOG003,U.S. House,1,Over Votes,DEM,0
 Weber,SOG003,U.S. House,1,Under Votes,DEM,0
-Weber,SOG005,Registered Voters,,,,365
 Weber,SOG005,Registered Voters,,,DEM,95
-Weber,SOG005,Ballots Cast,,,,197
 Weber,SOG005,Ballots Cast,,,DEM,26
 Weber,SOG005,U.S. House,1,Lee Castillo,DEM,10
 Weber,SOG005,U.S. House,1,Kurt Weiland,DEM,16
 Weber,SOG005,U.S. House,1,Over Votes,DEM,0
 Weber,SOG005,U.S. House,1,Under Votes,DEM,0
-Weber,SOG007,Registered Voters,,,,395
 Weber,SOG007,Registered Voters,,,DEM,78
-Weber,SOG007,Ballots Cast,,,,188
 Weber,SOG007,Ballots Cast,,,DEM,24
 Weber,SOG007,U.S. House,1,Lee Castillo,DEM,18
 Weber,SOG007,U.S. House,1,Kurt Weiland,DEM,6
 Weber,SOG007,U.S. House,1,Over Votes,DEM,0
 Weber,SOG007,U.S. House,1,Under Votes,DEM,0
-Weber,SOG008,Registered Voters,,,,445
 Weber,SOG008,Registered Voters,,,DEM,118
-Weber,SOG008,Ballots Cast,,,,253
 Weber,SOG008,Ballots Cast,,,DEM,59
 Weber,SOG008,U.S. House,1,Lee Castillo,DEM,31
 Weber,SOG008,U.S. House,1,Kurt Weiland,DEM,27
 Weber,SOG008,U.S. House,1,Over Votes,DEM,0
 Weber,SOG008,U.S. House,1,Under Votes,DEM,1
-Weber,SOG009,Registered Voters,,,,309
 Weber,SOG009,Registered Voters,,,DEM,76
-Weber,SOG009,Ballots Cast,,,,116
 Weber,SOG009,Ballots Cast,,,DEM,23
 Weber,SOG009,U.S. House,1,Lee Castillo,DEM,16
 Weber,SOG009,U.S. House,1,Kurt Weiland,DEM,7
 Weber,SOG009,U.S. House,1,Over Votes,DEM,0
 Weber,SOG009,U.S. House,1,Under Votes,DEM,0
-Weber,SOG010,Registered Voters,,,,466
 Weber,SOG010,Registered Voters,,,DEM,112
-Weber,SOG010,Ballots Cast,,,,266
 Weber,SOG010,Ballots Cast,,,DEM,54
 Weber,SOG010,U.S. House,1,Lee Castillo,DEM,32
 Weber,SOG010,U.S. House,1,Kurt Weiland,DEM,22
 Weber,SOG010,U.S. House,1,Over Votes,DEM,0
 Weber,SOG010,U.S. House,1,Under Votes,DEM,0
-Weber,SOG011,Registered Voters,,,,501
 Weber,SOG011,Registered Voters,,,DEM,105
-Weber,SOG011,Ballots Cast,,,,296
 Weber,SOG011,Ballots Cast,,,DEM,45
 Weber,SOG011,U.S. House,1,Lee Castillo,DEM,23
 Weber,SOG011,U.S. House,1,Kurt Weiland,DEM,22
 Weber,SOG011,U.S. House,1,Over Votes,DEM,0
 Weber,SOG011,U.S. House,1,Under Votes,DEM,0
-Weber,SOG012,Registered Voters,,,,399
 Weber,SOG012,Registered Voters,,,DEM,96
-Weber,SOG012,Ballots Cast,,,,187
 Weber,SOG012,Ballots Cast,,,DEM,35
 Weber,SOG012,U.S. House,1,Lee Castillo,DEM,27
 Weber,SOG012,U.S. House,1,Kurt Weiland,DEM,8
 Weber,SOG012,U.S. House,1,Over Votes,DEM,0
 Weber,SOG012,U.S. House,1,Under Votes,DEM,0
-Weber,VLY001,Registered Voters,,,,497
 Weber,VLY001,Registered Voters,,,DEM,77
-Weber,VLY001,Ballots Cast,,,,243
 Weber,VLY001,Ballots Cast,,,DEM,16
 Weber,VLY001,U.S. House,1,Lee Castillo,DEM,7
 Weber,VLY001,U.S. House,1,Kurt Weiland,DEM,9
 Weber,VLY001,U.S. House,1,Over Votes,DEM,0
 Weber,VLY001,U.S. House,1,Under Votes,DEM,0
-Weber,VLY002,Registered Voters,,,,647
 Weber,VLY002,Registered Voters,,,DEM,115
-Weber,VLY002,Ballots Cast,,,,324
 Weber,VLY002,Ballots Cast,,,DEM,38
 Weber,VLY002,U.S. House,1,Lee Castillo,DEM,26
 Weber,VLY002,U.S. House,1,Kurt Weiland,DEM,12
 Weber,VLY002,U.S. House,1,Over Votes,DEM,0
 Weber,VLY002,U.S. House,1,Under Votes,DEM,0
-Weber,VLY003,Registered Voters,,,,479
 Weber,VLY003,Registered Voters,,,DEM,71
-Weber,VLY003,Ballots Cast,,,,273
 Weber,VLY003,Ballots Cast,,,DEM,25
 Weber,VLY003,U.S. House,1,Lee Castillo,DEM,10
 Weber,VLY003,U.S. House,1,Kurt Weiland,DEM,14
 Weber,VLY003,U.S. House,1,Over Votes,DEM,0
 Weber,VLY003,U.S. House,1,Under Votes,DEM,1
-Weber,WAT001,Registered Voters,,,,287
 Weber,WAT001,Registered Voters,,,DEM,57
-Weber,WAT001,Ballots Cast,,,,140
 Weber,WAT001,Ballots Cast,,,DEM,26
 Weber,WAT001,U.S. House,1,Lee Castillo,DEM,16
 Weber,WAT001,U.S. House,1,Kurt Weiland,DEM,10
 Weber,WAT001,U.S. House,1,Over Votes,DEM,0
 Weber,WAT001,U.S. House,1,Under Votes,DEM,0
-Weber,WAT002,Registered Voters,,,,308
 Weber,WAT002,Registered Voters,,,DEM,82
-Weber,WAT002,Ballots Cast,,,,128
 Weber,WAT002,Ballots Cast,,,DEM,15
 Weber,WAT002,U.S. House,1,Lee Castillo,DEM,4
 Weber,WAT002,U.S. House,1,Kurt Weiland,DEM,11
 Weber,WAT002,U.S. House,1,Over Votes,DEM,0
 Weber,WAT002,U.S. House,1,Under Votes,DEM,0
-Weber,WAT003,Registered Voters,,,,224
 Weber,WAT003,Registered Voters,,,DEM,68
-Weber,WAT003,Ballots Cast,,,,103
 Weber,WAT003,Ballots Cast,,,DEM,17
 Weber,WAT003,U.S. House,1,Lee Castillo,DEM,10
 Weber,WAT003,U.S. House,1,Kurt Weiland,DEM,7
 Weber,WAT003,U.S. House,1,Over Votes,DEM,0
 Weber,WAT003,U.S. House,1,Under Votes,DEM,0
-Weber,WAT004,Registered Voters,,,,302
 Weber,WAT004,Registered Voters,,,DEM,89
-Weber,WAT004,Ballots Cast,,,,146
 Weber,WAT004,Ballots Cast,,,DEM,34
 Weber,WAT004,U.S. House,1,Lee Castillo,DEM,12
 Weber,WAT004,U.S. House,1,Kurt Weiland,DEM,22
 Weber,WAT004,U.S. House,1,Over Votes,DEM,0
 Weber,WAT004,U.S. House,1,Under Votes,DEM,0
-Weber,WAT005,Registered Voters,,,,323
 Weber,WAT005,Registered Voters,,,DEM,49
-Weber,WAT005,Ballots Cast,,,,179
 Weber,WAT005,Ballots Cast,,,DEM,21
 Weber,WAT005,U.S. House,1,Lee Castillo,DEM,11
 Weber,WAT005,U.S. House,1,Kurt Weiland,DEM,10
 Weber,WAT005,U.S. House,1,Over Votes,DEM,0
 Weber,WAT005,U.S. House,1,Under Votes,DEM,0
-Weber,WAT006,Registered Voters,,,,462
 Weber,WAT006,Registered Voters,,,DEM,86
-Weber,WAT006,Ballots Cast,,,,295
 Weber,WAT006,Ballots Cast,,,DEM,42
 Weber,WAT006,U.S. House,1,Lee Castillo,DEM,22
 Weber,WAT006,U.S. House,1,Kurt Weiland,DEM,20
 Weber,WAT006,U.S. House,1,Over Votes,DEM,0
 Weber,WAT006,U.S. House,1,Under Votes,DEM,0
-Weber,WCU001,Registered Voters,,,,463
 Weber,WCU001,Registered Voters,,,DEM,81
-Weber,WCU001,Ballots Cast,,,,249
 Weber,WCU001,Ballots Cast,,,DEM,32
 Weber,WCU001,U.S. House,1,Lee Castillo,DEM,16
 Weber,WCU001,U.S. House,1,Kurt Weiland,DEM,16
 Weber,WCU001,U.S. House,1,Over Votes,DEM,0
 Weber,WCU001,U.S. House,1,Under Votes,DEM,0
-Weber,WCU002,Registered Voters,,,,538
 Weber,WCU002,Registered Voters,,,DEM,55
-Weber,WCU002,Ballots Cast,,,,318
 Weber,WCU002,Ballots Cast,,,DEM,23
 Weber,WCU002,U.S. House,1,Lee Castillo,DEM,17
 Weber,WCU002,U.S. House,1,Kurt Weiland,DEM,6
 Weber,WCU002,U.S. House,1,Over Votes,DEM,0
 Weber,WCU002,U.S. House,1,Under Votes,DEM,0
-Weber,WHV001,Registered Voters,,,,1141
 Weber,WHV001,Registered Voters,,,DEM,87
-Weber,WHV001,Ballots Cast,,,,411
 Weber,WHV001,Ballots Cast,,,DEM,24
 Weber,WHV001,U.S. House,1,Lee Castillo,DEM,15
 Weber,WHV001,U.S. House,1,Kurt Weiland,DEM,9
 Weber,WHV001,U.S. House,1,Over Votes,DEM,0
 Weber,WHV001,U.S. House,1,Under Votes,DEM,0
-Weber,WHV003,Registered Voters,,,,832
 Weber,WHV003,Registered Voters,,,DEM,91
-Weber,WHV003,Ballots Cast,,,,222
 Weber,WHV003,Ballots Cast,,,DEM,39
 Weber,WHV003,U.S. House,1,Lee Castillo,DEM,15
 Weber,WHV003,U.S. House,1,Kurt Weiland,DEM,23
 Weber,WHV003,U.S. House,1,Over Votes,DEM,0
 Weber,WHV003,U.S. House,1,Under Votes,DEM,1
-Weber,WHV004,Registered Voters,,,,1110
 Weber,WHV004,Registered Voters,,,DEM,103
-Weber,WHV004,Ballots Cast,,,,326
 Weber,WHV004,Ballots Cast,,,DEM,32
 Weber,WHV004,U.S. House,1,Lee Castillo,DEM,20
 Weber,WHV004,U.S. House,1,Kurt Weiland,DEM,11
