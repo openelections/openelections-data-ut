@@ -90,97 +90,97 @@ Cache,WELLSVILLE 01,Registered Voters,,,,548,,
 Cache,WELLSVILLE 02,Registered Voters,,,,782,,
 Cache,WELLSVILLE 03,Registered Voters,,,,594,,
 Cache,WELLSVILLE 04,Registered Voters,,,,796,,
-Cache,LOGAN 01,,,,,339,277,62
-Cache,LOGAN 01-CSD,,,,,191,174,17
-Cache,LOGAN 02,,,,,603,514,89
-Cache,LOGAN 03,,,,,670,605,65
-Cache,LOGAN 04,,,,,641,577,64
-Cache,LOGAN 05,,,,,859,778,81
-Cache,LOGAN 06,,,,,602,536,66
-Cache,LOGAN 07,,,,,337,299,38
-Cache,LOGAN 08,,,,,306,260,46
-Cache,LOGAN 09,,,,,475,416,59
-Cache,LOGAN 10,,,,,398,331,67
-Cache,LOGAN 11,,,,,396,339,57
-Cache,LOGAN 12,,,,,288,195,93
-Cache,LOGAN 13,,,,,757,733,24
-Cache,LOGAN 14,,,,,531,496,35
-Cache,LOGAN 15,,,,,442,358,84
-Cache,LOGAN 16,,,,,596,531,65
-Cache,LOGAN 17,,,,,639,546,93
-Cache,LOGAN 18,,,,,472,319,153
-Cache,LOGAN 19,,,,,494,415,79
-Cache,LOGAN 20,,,,,739,694,45
-Cache,LOGAN 21,,,,,511,489,22
-Cache,LOGAN 22,,,,,924,896,28
-Cache,LOGAN 23,,,,,425,288,137
-Cache,LOGAN 24,,,,,336,307,29
-Cache,LOGAN 25,,,,,696,605,91
-Cache,LOGAN 26,,,,,601,559,42
-Cache,LOGAN 27-17C,,,,,3,3,0
-Cache,LOGAN 27-CSD,,,,,125,118,7
-Cache,LOGAN 27,,,,,707,605,102
-Cache,LOGAN 28,,,,,267,200,67
-Cache,LOGAN 29,,,,,850,824,26
-Cache,LOGAN 29-CSD,,,,,4,3,1
-Cache,LOGAN 30,,,,,1018,878,140
-Cache,LOGAN 31,,,,,585,500,85
-Cache,LOGAN 32,,,,,354,321,33
-Cache,LOGAN 33,,,,,652,599,53
-Cache,LOGAN 33-5,,,,,168,159,9
-Cache,LOGAN 33-CSD,,,,,52,50,2
-Cache,AMALGA,,,,,263,255,8
-Cache,BENSON,,,,,382,359,23
-Cache,CLARKSTON,,,,,407,396,11
-Cache,CORNISH,,,,,147,140,7
-Cache,COVE,,,,,317,302,15
-Cache,COLLEGE YOUNG,,,,,488,465,23
-Cache,HYDE PARK 01,,,,,1640,1578,62
-Cache,HYDE PARK 02,,,,,1320,1264,56
-Cache,HYRUM 01,,,,,821,767,54
-Cache,HYRUM 02,,,,,427,404,23
-Cache,HYRUM 03,,,,,1003,940,63
-Cache,HYRUM 04,,,,,1066,1013,53
-Cache,HYRUM 05,,,,,949,861,88
-Cache,LEWISTON 01,,,,,548,523,25
-Cache,LEWISTON 02,,,,,356,346,10
-Cache,MENDON 01,,,,,134,126,8
-Cache,MENDON 02,,,,,1283,1233,50
-Cache,MILLVILLE 17,,,,,138,129,9
-Cache,MILLVILLE 25,,,,,1079,1025,54
-Cache,NEWTON,,,,,590,566,24
-Cache,NIBLEY 01,,,,,1416,1306,110
-Cache,NIBLEY 03,,,,,1136,1102,34
-Cache,NIBLEY 17,,,,,823,779,44
-Cache,NIBLEY 25,,,,,24,24,0
-Cache,NORTH LOGAN 01,,,,,1162,999,163
-Cache,NORTH LOGAN 02,,,,,746,701,45
-Cache,NORTH LOGAN 03,,,,,782,744,38
-Cache,NORTH LOGAN 04,,,,,1098,1049,49
-Cache,NORTH LOGAN 05,,,,,781,755,26
-Cache,NORTH LOGAN 06,,,,,849,816,33
-Cache,PARADISE,,,,,1076,1010,66
-Cache,PROVIDENCE 01,,,,,922,893,29
-Cache,PROVIDENCE 02,,,,,1070,1023,47
-Cache,PROVIDENCE 03,,,,,967,900,67
-Cache,PROVIDENCE 04,,,,,767,717,50
-Cache,PROVIDENCE 05,,,,,779,736,43
-Cache,RICHMOND 01,,,,,753,713,40
-Cache,RICHMOND 02,,,,,749,718,31
-Cache,RIVER HEIGHTS 01,,,,,469,451,18
-Cache,RIVER HEIGHTS 02,,,,,723,694,29
-Cache,SMITHFIELD 01,,,,,878,829,49
-Cache,SMITHFIELD 02,,,,,840,803,37
-Cache,SMITHFIELD 03,,,,,1026,955,71
-Cache,SMITHFIELD 04,,,,,1026,967,59
-Cache,SMITHFIELD 05,,,,,1016,925,91
-Cache,SMITHFIELD 06,,,,,825,766,59
-Cache,SMITHFIELD 07,,,,,995,949,46
-Cache,TRENTON,,,,,255,239,16
-Cache,WELLSVILLE 01,,,,,521,490,31
-Cache,WELLSVILLE 02,,,,,735,697,38
-Cache,WELLSVILLE 03,,,,,538,499,39
-Cache,WELLSVILLE 04,,,,,747,701,46
+Cache,LOGAN 01,Ballots Cast,,,,339,277,62
+Cache,LOGAN 01-CSD,Ballots Cast,,,,191,174,17
+Cache,LOGAN 02,Ballots Cast,,,,603,514,89
+Cache,LOGAN 03,Ballots Cast,,,,670,605,65
+Cache,LOGAN 04,Ballots Cast,,,,641,577,64
+Cache,LOGAN 05,Ballots Cast,,,,859,778,81
+Cache,LOGAN 06,Ballots Cast,,,,602,536,66
+Cache,LOGAN 07,Ballots Cast,,,,337,299,38
+Cache,LOGAN 08,Ballots Cast,,,,306,260,46
+Cache,LOGAN 09,Ballots Cast,,,,475,416,59
+Cache,LOGAN 10,Ballots Cast,,,,398,331,67
+Cache,LOGAN 11,Ballots Cast,,,,396,339,57
+Cache,LOGAN 12,Ballots Cast,,,,288,195,93
+Cache,LOGAN 13,Ballots Cast,,,,757,733,24
+Cache,LOGAN 14,Ballots Cast,,,,531,496,35
+Cache,LOGAN 15,Ballots Cast,,,,442,358,84
+Cache,LOGAN 16,Ballots Cast,,,,596,531,65
+Cache,LOGAN 17,Ballots Cast,,,,639,546,93
+Cache,LOGAN 18,Ballots Cast,,,,472,319,153
+Cache,LOGAN 19,Ballots Cast,,,,494,415,79
+Cache,LOGAN 20,Ballots Cast,,,,739,694,45
+Cache,LOGAN 21,Ballots Cast,,,,511,489,22
+Cache,LOGAN 22,Ballots Cast,,,,924,896,28
+Cache,LOGAN 23,Ballots Cast,,,,425,288,137
+Cache,LOGAN 24,Ballots Cast,,,,336,307,29
+Cache,LOGAN 25,Ballots Cast,,,,696,605,91
+Cache,LOGAN 26,Ballots Cast,,,,601,559,42
+Cache,LOGAN 27-17C,Ballots Cast,,,,3,3,0
+Cache,LOGAN 27-CSD,Ballots Cast,,,,125,118,7
+Cache,LOGAN 27,Ballots Cast,,,,707,605,102
+Cache,LOGAN 28,Ballots Cast,,,,267,200,67
+Cache,LOGAN 29,Ballots Cast,,,,850,824,26
+Cache,LOGAN 29-CSD,Ballots Cast,,,,4,3,1
+Cache,LOGAN 30,Ballots Cast,,,,1018,878,140
+Cache,LOGAN 31,Ballots Cast,,,,585,500,85
+Cache,LOGAN 32,Ballots Cast,,,,354,321,33
+Cache,LOGAN 33,Ballots Cast,,,,652,599,53
+Cache,LOGAN 33-5,Ballots Cast,,,,168,159,9
+Cache,LOGAN 33-CSD,Ballots Cast,,,,52,50,2
+Cache,AMALGA,Ballots Cast,,,,263,255,8
+Cache,BENSON,Ballots Cast,,,,382,359,23
+Cache,CLARKSTON,Ballots Cast,,,,407,396,11
+Cache,CORNISH,Ballots Cast,,,,147,140,7
+Cache,COVE,Ballots Cast,,,,317,302,15
+Cache,COLLEGE YOUNG,Ballots Cast,,,,488,465,23
+Cache,HYDE PARK 01,Ballots Cast,,,,1640,1578,62
+Cache,HYDE PARK 02,Ballots Cast,,,,1320,1264,56
+Cache,HYRUM 01,Ballots Cast,,,,821,767,54
+Cache,HYRUM 02,Ballots Cast,,,,427,404,23
+Cache,HYRUM 03,Ballots Cast,,,,1003,940,63
+Cache,HYRUM 04,Ballots Cast,,,,1066,1013,53
+Cache,HYRUM 05,Ballots Cast,,,,949,861,88
+Cache,LEWISTON 01,Ballots Cast,,,,548,523,25
+Cache,LEWISTON 02,Ballots Cast,,,,356,346,10
+Cache,MENDON 01,Ballots Cast,,,,134,126,8
+Cache,MENDON 02,Ballots Cast,,,,1283,1233,50
+Cache,MILLVILLE 17,Ballots Cast,,,,138,129,9
+Cache,MILLVILLE 25,Ballots Cast,,,,1079,1025,54
+Cache,NEWTON,Ballots Cast,,,,590,566,24
+Cache,NIBLEY 01,Ballots Cast,,,,1416,1306,110
+Cache,NIBLEY 03,Ballots Cast,,,,1136,1102,34
+Cache,NIBLEY 17,Ballots Cast,,,,823,779,44
+Cache,NIBLEY 25,Ballots Cast,,,,24,24,0
+Cache,NORTH LOGAN 01,Ballots Cast,,,,1162,999,163
+Cache,NORTH LOGAN 02,Ballots Cast,,,,746,701,45
+Cache,NORTH LOGAN 03,Ballots Cast,,,,782,744,38
+Cache,NORTH LOGAN 04,Ballots Cast,,,,1098,1049,49
+Cache,NORTH LOGAN 05,Ballots Cast,,,,781,755,26
+Cache,NORTH LOGAN 06,Ballots Cast,,,,849,816,33
+Cache,PARADISE,Ballots Cast,,,,1076,1010,66
+Cache,PROVIDENCE 01,Ballots Cast,,,,922,893,29
+Cache,PROVIDENCE 02,Ballots Cast,,,,1070,1023,47
+Cache,PROVIDENCE 03,Ballots Cast,,,,967,900,67
+Cache,PROVIDENCE 04,Ballots Cast,,,,767,717,50
+Cache,PROVIDENCE 05,Ballots Cast,,,,779,736,43
+Cache,RICHMOND 01,Ballots Cast,,,,753,713,40
+Cache,RICHMOND 02,Ballots Cast,,,,749,718,31
+Cache,RIVER HEIGHTS 01,Ballots Cast,,,,469,451,18
+Cache,RIVER HEIGHTS 02,Ballots Cast,,,,723,694,29
+Cache,SMITHFIELD 01,Ballots Cast,,,,878,829,49
+Cache,SMITHFIELD 02,Ballots Cast,,,,840,803,37
+Cache,SMITHFIELD 03,Ballots Cast,,,,1026,955,71
+Cache,SMITHFIELD 04,Ballots Cast,,,,1026,967,59
+Cache,SMITHFIELD 05,Ballots Cast,,,,1016,925,91
+Cache,SMITHFIELD 06,Ballots Cast,,,,825,766,59
+Cache,SMITHFIELD 07,Ballots Cast,,,,995,949,46
+Cache,TRENTON,Ballots Cast,,,,255,239,16
+Cache,WELLSVILLE 01,Ballots Cast,,,,521,490,31
+Cache,WELLSVILLE 02,Ballots Cast,,,,735,697,38
+Cache,WELLSVILLE 03,Ballots Cast,,,,538,499,39
+Cache,WELLSVILLE 04,Ballots Cast,,,,747,701,46
 Cache,AMALGA,Ballots Cast - Blank,,,,0,,
 Cache,AMALGA,President,,,"BROCK PIERCE, KARLA BALLARD",0,,
 Cache,AMALGA,President,,,"KANYE WEST, MICHELLE TIDBALL",1,,

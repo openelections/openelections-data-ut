@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes
-SEVIER,Annabella 1,,,,REGISTERED VOTERS - TOTAL,542
-SEVIER,Annabella 1,,,,BALLOTS CAST - TOTAL,369
+SEVIER,Annabella 1,REGISTERED VOTERS - TOTAL,,,,542
+SEVIER,Annabella 1,BALLOTS CAST - TOTAL,,,,369
 SEVIER,Annabella 1,U.S. Senate,,,EVAN MCMULLIN,48
 SEVIER,Annabella 1,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,7
 SEVIER,Annabella 1,U.S. Senate,,REP,MIKE LEE,309
@@ -30,8 +30,8 @@ SEVIER,Annabella 1,Brody L. Keisel Judicial Retention,,,YES,293
 SEVIER,Annabella 1,Brody L. Keisel Judicial Retention,,,NO,46
 SEVIER,Annabella 1,Constitutional Amendment A,,,FOR,120
 SEVIER,Annabella 1,Constitutional Amendment A,,,AGAINST,210
-SEVIER,Aurora 2,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,702
-SEVIER,Aurora 2,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,468
+SEVIER,Aurora 2,REGISTERED VOTERS - TOTAL,,,,702
+SEVIER,Aurora 2,BALLOTS CAST - TOTAL,,,,468
 SEVIER,Aurora 2,U.S. Senate,,,EVAN MCMULLIN,46
 SEVIER,Aurora 2,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
 SEVIER,Aurora 2,U.S. Senate,,REP,MIKE LEE,403
@@ -61,8 +61,8 @@ SEVIER,Aurora 2,Brody L. Keisel Judicial Retention,,,YES,391
 SEVIER,Aurora 2,Brody L. Keisel Judicial Retention,,,NO,52
 SEVIER,Aurora 2,Constitutional Amendment A,,,FOR,135
 SEVIER,Aurora 2,Constitutional Amendment A,,,AGAINST,284
-SEVIER,Central Valley 4,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,470
-SEVIER,Central Valley 4,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,333
+SEVIER,Central Valley 4,REGISTERED VOTERS - TOTAL,,,,470
+SEVIER,Central Valley 4,BALLOTS CAST - TOTAL,,,,333
 SEVIER,Central Valley 4,U.S. Senate,,,EVAN MCMULLIN,45
 SEVIER,Central Valley 4,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,6
 SEVIER,Central Valley 4,U.S. Senate,,REP,MIKE LEE,278
@@ -92,8 +92,8 @@ SEVIER,Central Valley 4,Brody L. Keisel Judicial Retention,,,YES,264
 SEVIER,Central Valley 4,Brody L. Keisel Judicial Retention,,,NO,45
 SEVIER,Central Valley 4,Constitutional Amendment A,,,FOR,85
 SEVIER,Central Valley 4,Constitutional Amendment A,,,AGAINST,216
-SEVIER,Elsinore 5,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,674
-SEVIER,Elsinore 5,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,426
+SEVIER,Elsinore 5,REGISTERED VOTERS - TOTAL,,,,674
+SEVIER,Elsinore 5,BALLOTS CAST - TOTAL,,,,426
 SEVIER,Elsinore 5,U.S. Senate,,,EVAN MCMULLIN,63
 SEVIER,Elsinore 5,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,13
 SEVIER,Elsinore 5,U.S. Senate,,REP,MIKE LEE,339
@@ -123,8 +123,8 @@ SEVIER,Elsinore 5,Brody L. Keisel Judicial Retention,,,YES,347
 SEVIER,Elsinore 5,Brody L. Keisel Judicial Retention,,,NO,51
 SEVIER,Elsinore 5,Constitutional Amendment A,,,FOR,113
 SEVIER,Elsinore 5,Constitutional Amendment A,,,AGAINST,273
-SEVIER,Glenwood 6,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,418
-SEVIER,Glenwood 6,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,328
+SEVIER,Glenwood 6,REGISTERED VOTERS - TOTAL,,,,418
+SEVIER,Glenwood 6,BALLOTS CAST - TOTAL,,,,328
 SEVIER,Glenwood 6,U.S. Senate,,,EVAN MCMULLIN,33
 SEVIER,Glenwood 6,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
 SEVIER,Glenwood 6,U.S. Senate,,REP,MIKE LEE,285
@@ -154,8 +154,8 @@ SEVIER,Glenwood 6,Brody L. Keisel Judicial Retention,,,YES,248
 SEVIER,Glenwood 6,Brody L. Keisel Judicial Retention,,,NO,48
 SEVIER,Glenwood 6,Constitutional Amendment A,,,FOR,113
 SEVIER,Glenwood 6,Constitutional Amendment A,,,AGAINST,186
-SEVIER,Joseph 7,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,354
-SEVIER,Joseph 7,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,251
+SEVIER,Joseph 7,REGISTERED VOTERS - TOTAL,,,,354
+SEVIER,Joseph 7,BALLOTS CAST - TOTAL,,,,251
 SEVIER,Joseph 7,U.S. Senate,,,EVAN MCMULLIN,22
 SEVIER,Joseph 7,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
 SEVIER,Joseph 7,U.S. Senate,,REP,MIKE LEE,222
@@ -186,8 +186,8 @@ SEVIER,Joseph 7,Brody L. Keisel Judicial Retention,,,YES,192
 SEVIER,Joseph 7,Brody L. Keisel Judicial Retention,,,NO,31
 SEVIER,Joseph 7,Constitutional Amendment A,,,FOR,75
 SEVIER,Joseph 7,Constitutional Amendment A,,,AGAINST,161
-SEVIER,Monroe 8,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,1033
-SEVIER,Monroe 8,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,723
+SEVIER,Monroe 8,REGISTERED VOTERS - TOTAL,,,,1033
+SEVIER,Monroe 8,BALLOTS CAST - TOTAL,,,,723
 SEVIER,Monroe 8,U.S. Senate,,,EVAN MCMULLIN,102
 SEVIER,Monroe 8,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,10
 SEVIER,Monroe 8,U.S. Senate,,REP,MIKE LEE,596
@@ -218,8 +218,8 @@ SEVIER,Monroe 8,Brody L. Keisel Judicial Retention,,,YES,560
 SEVIER,Monroe 8,Brody L. Keisel Judicial Retention,,,NO,104
 SEVIER,Monroe 8,Constitutional Amendment A,,,FOR,241
 SEVIER,Monroe 8,Constitutional Amendment A,,,AGAINST,432
-SEVIER,Monroe 9,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,856
-SEVIER,Monroe 9,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,601
+SEVIER,Monroe 9,REGISTERED VOTERS - TOTAL,,,,856
+SEVIER,Monroe 9,BALLOTS CAST - TOTAL,,,,601
 SEVIER,Monroe 9,U.S. Senate,,,EVAN MCMULLIN,108
 SEVIER,Monroe 9,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
 SEVIER,Monroe 9,U.S. Senate,,REP,MIKE LEE,478
@@ -250,8 +250,8 @@ SEVIER,Monroe 9,Brody L. Keisel Judicial Retention,,,YES,460
 SEVIER,Monroe 9,Brody L. Keisel Judicial Retention,,,NO,74
 SEVIER,Monroe 9,Constitutional Amendment A,,,FOR,179
 SEVIER,Monroe 9,Constitutional Amendment A,,,AGAINST,346
-SEVIER,Redmond 10,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,493
-SEVIER,Redmond 10,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,318
+SEVIER,Redmond 10,REGISTERED VOTERS - TOTAL,,,,493
+SEVIER,Redmond 10,BALLOTS CAST - TOTAL,,,,318
 SEVIER,Redmond 10,U.S. Senate,,,EVAN MCMULLIN,34
 SEVIER,Redmond 10,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
 SEVIER,Redmond 10,U.S. Senate,,REP,MIKE LEE,281
@@ -281,8 +281,8 @@ SEVIER,Redmond 10,Brody L. Keisel Judicial Retention,,,YES,262
 SEVIER,Redmond 10,Brody L. Keisel Judicial Retention,,,NO,27
 SEVIER,Redmond 10,Constitutional Amendment A,,,FOR,89
 SEVIER,Redmond 10,Constitutional Amendment A,,,AGAINST,202
-SEVIER,Richfield 11,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,521
-SEVIER,Richfield 11,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,333
+SEVIER,Richfield 11,REGISTERED VOTERS - TOTAL,,,,521
+SEVIER,Richfield 11,BALLOTS CAST - TOTAL,,,,333
 SEVIER,Richfield 11,U.S. Senate,,,EVAN MCMULLIN,52
 SEVIER,Richfield 11,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,8
 SEVIER,Richfield 11,U.S. Senate,,REP,MIKE LEE,267
@@ -313,8 +313,8 @@ SEVIER,Richfield 11,Brody L. Keisel Judicial Retention,,,YES,268
 SEVIER,Richfield 11,Brody L. Keisel Judicial Retention,,,NO,40
 SEVIER,Richfield 11,Constitutional Amendment A,,,FOR,126
 SEVIER,Richfield 11,Constitutional Amendment A,,,AGAINST,182
-SEVIER,Richfield 12,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,435
-SEVIER,Richfield 12,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,317
+SEVIER,Richfield 12,REGISTERED VOTERS - TOTAL,,,,435
+SEVIER,Richfield 12,BALLOTS CAST - TOTAL,,,,317
 SEVIER,Richfield 12,U.S. Senate,,,EVAN MCMULLIN,64
 SEVIER,Richfield 12,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
 SEVIER,Richfield 12,U.S. Senate,,REP,MIKE LEE,241
@@ -345,8 +345,8 @@ SEVIER,Richfield 12,Brody L. Keisel Judicial Retention,,,YES,255
 SEVIER,Richfield 12,Brody L. Keisel Judicial Retention,,,NO,36
 SEVIER,Richfield 12,Constitutional Amendment A,,,FOR,125
 SEVIER,Richfield 12,Constitutional Amendment A,,,AGAINST,173
-SEVIER,Richfield 13,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,498
-SEVIER,Richfield 13,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,336
+SEVIER,Richfield 13,REGISTERED VOTERS - TOTAL,,,,498
+SEVIER,Richfield 13,BALLOTS CAST - TOTAL,,,,336
 SEVIER,Richfield 13,U.S. Senate,,,EVAN MCMULLIN,56
 SEVIER,Richfield 13,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,7
 SEVIER,Richfield 13,U.S. Senate,,REP,MIKE LEE,269
@@ -377,8 +377,8 @@ SEVIER,Richfield 13,Brody L. Keisel Judicial Retention,,,YES,288
 SEVIER,Richfield 13,Brody L. Keisel Judicial Retention,,,NO,21
 SEVIER,Richfield 13,Constitutional Amendment A,,,FOR,128
 SEVIER,Richfield 13,Constitutional Amendment A,,,AGAINST,198
-SEVIER,Salina 14,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,387
-SEVIER,Salina 14,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,245
+SEVIER,Salina 14,REGISTERED VOTERS - TOTAL,,,,387
+SEVIER,Salina 14,BALLOTS CAST - TOTAL,,,,245
 SEVIER,Salina 14,U.S. Senate,,,EVAN MCMULLIN,31
 SEVIER,Salina 14,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
 SEVIER,Salina 14,U.S. Senate,,REP,MIKE LEE,206
@@ -408,8 +408,8 @@ SEVIER,Salina 14,Brody L. Keisel Judicial Retention,,,YES,189
 SEVIER,Salina 14,Brody L. Keisel Judicial Retention,,,NO,41
 SEVIER,Salina 14,Constitutional Amendment A,,,FOR,72
 SEVIER,Salina 14,Constitutional Amendment A,,,AGAINST,160
-SEVIER,Salina 15,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,541
-SEVIER,Salina 15,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,293
+SEVIER,Salina 15,REGISTERED VOTERS - TOTAL,,,,541
+SEVIER,Salina 15,BALLOTS CAST - TOTAL,,,,293
 SEVIER,Salina 15,U.S. Senate,,,EVAN MCMULLIN,37
 SEVIER,Salina 15,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
 SEVIER,Salina 15,U.S. Senate,,REP,MIKE LEE,251
@@ -439,8 +439,8 @@ SEVIER,Salina 15,Brody L. Keisel Judicial Retention,,,YES,240
 SEVIER,Salina 15,Brody L. Keisel Judicial Retention,,,NO,31
 SEVIER,Salina 15,Constitutional Amendment A,,,FOR,104
 SEVIER,Salina 15,Constitutional Amendment A,,,AGAINST,159
-SEVIER,Sigurd 16,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,239
-SEVIER,Sigurd 16,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,155
+SEVIER,Sigurd 16,REGISTERED VOTERS - TOTAL,,,,239
+SEVIER,Sigurd 16,BALLOTS CAST - TOTAL,,,,155
 SEVIER,Sigurd 16,U.S. Senate,,,EVAN MCMULLIN,24
 SEVIER,Sigurd 16,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
 SEVIER,Sigurd 16,U.S. Senate,,REP,MIKE LEE,124
@@ -470,8 +470,8 @@ SEVIER,Sigurd 16,Brody L. Keisel Judicial Retention,,,YES,115
 SEVIER,Sigurd 16,Brody L. Keisel Judicial Retention,,,NO,22
 SEVIER,Sigurd 16,Constitutional Amendment A,,,FOR,32
 SEVIER,Sigurd 16,Constitutional Amendment A,,,AGAINST,114
-SEVIER,Koosharem 17,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,179
-SEVIER,Koosharem 17,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,118
+SEVIER,Koosharem 17,REGISTERED VOTERS - TOTAL,,,,179
+SEVIER,Koosharem 17,BALLOTS CAST - TOTAL,,,,118
 SEVIER,Koosharem 17,U.S. Senate,,,EVAN MCMULLIN,10
 SEVIER,Koosharem 17,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
 SEVIER,Koosharem 17,U.S. Senate,,REP,MIKE LEE,106
@@ -501,8 +501,8 @@ SEVIER,Koosharem 17,Brody L. Keisel Judicial Retention,,,YES,97
 SEVIER,Koosharem 17,Brody L. Keisel Judicial Retention,,,NO,13
 SEVIER,Koosharem 17,Constitutional Amendment A,,,FOR,37
 SEVIER,Koosharem 17,Constitutional Amendment A,,,AGAINST,78
-SEVIER,Venice 18,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,231
-SEVIER,Venice 18,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,169
+SEVIER,Venice 18,REGISTERED VOTERS - TOTAL,,,,231
+SEVIER,Venice 18,BALLOTS CAST - TOTAL,,,,169
 SEVIER,Venice 18,U.S. Senate,,,EVAN MCMULLIN,16
 SEVIER,Venice 18,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,4
 SEVIER,Venice 18,U.S. Senate,,REP,MIKE LEE,146
@@ -532,8 +532,8 @@ SEVIER,Venice 18,Brody L. Keisel Judicial Retention,,,YES,143
 SEVIER,Venice 18,Brody L. Keisel Judicial Retention,,,NO,20
 SEVIER,Venice 18,Constitutional Amendment A,,,FOR,64
 SEVIER,Venice 18,Constitutional Amendment A,,,AGAINST,95
-SEVIER,Richfield 20,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,472
-SEVIER,Richfield 20,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,296
+SEVIER,Richfield 20,REGISTERED VOTERS - TOTAL,,,,472
+SEVIER,Richfield 20,BALLOTS CAST - TOTAL,,,,296
 SEVIER,Richfield 20,U.S. Senate,,,EVAN MCMULLIN,59
 SEVIER,Richfield 20,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,10
 SEVIER,Richfield 20,U.S. Senate,,REP,MIKE LEE,215
@@ -564,8 +564,8 @@ SEVIER,Richfield 20,Brody L. Keisel Judicial Retention,,,YES,223
 SEVIER,Richfield 20,Brody L. Keisel Judicial Retention,,,NO,47
 SEVIER,Richfield 20,Constitutional Amendment A,,,FOR,99
 SEVIER,Richfield 20,Constitutional Amendment A,,,AGAINST,175
-SEVIER,Richfield 21,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,432
-SEVIER,Richfield 21,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,274
+SEVIER,Richfield 21,REGISTERED VOTERS - TOTAL,,,,432
+SEVIER,Richfield 21,BALLOTS CAST - TOTAL,,,,274
 SEVIER,Richfield 21,U.S. Senate,,,EVAN MCMULLIN,50
 SEVIER,Richfield 21,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
 SEVIER,Richfield 21,U.S. Senate,,REP,MIKE LEE,218
@@ -596,8 +596,8 @@ SEVIER,Richfield 21,Brody L. Keisel Judicial Retention,,,YES,226
 SEVIER,Richfield 21,Brody L. Keisel Judicial Retention,,,NO,32
 SEVIER,Richfield 21,Constitutional Amendment A,,,FOR,112
 SEVIER,Richfield 21,Constitutional Amendment A,,,AGAINST,147
-SEVIER,Richfield 22,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,447
-SEVIER,Richfield 22,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,348
+SEVIER,Richfield 22,REGISTERED VOTERS - TOTAL,,,,447
+SEVIER,Richfield 22,BALLOTS CAST - TOTAL,,,,348
 SEVIER,Richfield 22,U.S. Senate,,,EVAN MCMULLIN,63
 SEVIER,Richfield 22,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
 SEVIER,Richfield 22,U.S. Senate,,REP,MIKE LEE,280
@@ -628,8 +628,8 @@ SEVIER,Richfield 22,Brody L. Keisel Judicial Retention,,,YES,289
 SEVIER,Richfield 22,Brody L. Keisel Judicial Retention,,,NO,30
 SEVIER,Richfield 22,Constitutional Amendment A,,,FOR,152
 SEVIER,Richfield 22,Constitutional Amendment A,,,AGAINST,151
-SEVIER,Richfield 23,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,604
-SEVIER,Richfield 23,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,429
+SEVIER,Richfield 23,REGISTERED VOTERS - TOTAL,,,,604
+SEVIER,Richfield 23,BALLOTS CAST - TOTAL,,,,429
 SEVIER,Richfield 23,U.S. Senate,,,EVAN MCMULLIN,69
 SEVIER,Richfield 23,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,12
 SEVIER,Richfield 23,U.S. Senate,,REP,MIKE LEE,339
@@ -660,8 +660,8 @@ SEVIER,Richfield 23,Brody L. Keisel Judicial Retention,,,YES,349
 SEVIER,Richfield 23,Brody L. Keisel Judicial Retention,,,NO,42
 SEVIER,Richfield 23,Constitutional Amendment A,,,FOR,171
 SEVIER,Richfield 23,Constitutional Amendment A,,,AGAINST,228
-SEVIER,Richfield 24,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,666
-SEVIER,Richfield 24,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,431
+SEVIER,Richfield 24,REGISTERED VOTERS - TOTAL,,,,666
+SEVIER,Richfield 24,BALLOTS CAST - TOTAL,,,,431
 SEVIER,Richfield 24,U.S. Senate,,,EVAN MCMULLIN,70
 SEVIER,Richfield 24,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,9
 SEVIER,Richfield 24,U.S. Senate,,REP,MIKE LEE,346
@@ -692,8 +692,8 @@ SEVIER,Richfield 24,Brody L. Keisel Judicial Retention,,,YES,348
 SEVIER,Richfield 24,Brody L. Keisel Judicial Retention,,,NO,52
 SEVIER,Richfield 24,Constitutional Amendment A,,,FOR,161
 SEVIER,Richfield 24,Constitutional Amendment A,,,AGAINST,228
-SEVIER,Salina 25,Constitutional Amendment A,,,REGISTERED VOTERS - TOTAL,421
-SEVIER,Salina 25,Constitutional Amendment A,,,BALLOTS CAST - TOTAL,270
+SEVIER,Salina 25,REGISTERED VOTERS - TOTAL,,,,421
+SEVIER,Salina 25,BALLOTS CAST - TOTAL,,,,270
 SEVIER,Salina 25,U.S. Senate,,,EVAN MCMULLIN,50
 SEVIER,Salina 25,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
 SEVIER,Salina 25,U.S. Senate,,REP,MIKE LEE,212

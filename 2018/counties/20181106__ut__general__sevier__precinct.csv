@@ -574,9 +574,9 @@ Carl R. Albrecht,State House,70,Republican,Sevier,Richfield 23.2,62
 Robert Greenberg,State House,70,Democrat,Sevier,Richfield 23.2,7
 Phil Lyman,State House,73,Republican,Sevier,Richfield 23.2,0
 Marsha M Holland,State House,73,UNA,Sevier,Richfield 23.2,0
-,Registered Voters,,,,Richfield 24,571
-,Ballots Cast,,,,Richfield 24,353
-,Blank Ballots Cast,,,,Richfield 24,1
+,Registered Voters,,,Sevier,Richfield 24,571
+,Ballots Cast,,,Sevier,Richfield 24,353
+,Blank Ballots Cast,,,Sevier,Richfield 24,1
 ,Straight Party,,Constitution,Sevier,Richfield 24,0
 ,Straight Party,,United Utah Party,Sevier,Richfield 24,1
 ,Straight Party,,Libertarian,Sevier,Richfield 24,0
@@ -597,9 +597,9 @@ Carl R. Albrecht,State House,70,Republican,Sevier,Richfield 24,293
 Robert Greenberg,State House,70,Democrat,Sevier,Richfield 24,50
 Phil Lyman,State House,73,Republican,Sevier,Richfield 24,0
 Marsha M Holland,State House,73,UNA,Sevier,Richfield 24,0
-,Registered Voters,,,,Richfield 24.2,22
-,Ballots Cast,,,,Richfield 24.2,16
-,Blank Ballots Cast,,,,Richfield 24.2,0
+,Registered Voters,,,Sevier,Richfield 24.2,22
+,Ballots Cast,,,Sevier,Richfield 24.2,16
+,Blank Ballots Cast,,,Sevier,Richfield 24.2,0
 ,Straight Party,,Constitution,Sevier,Richfield 24.2,0
 ,Straight Party,,United Utah Party,Sevier,Richfield 24.2,0
 ,Straight Party,,Libertarian,Sevier,Richfield 24.2,0
@@ -620,9 +620,9 @@ Carl R. Albrecht,State House,70,Republican,Sevier,Richfield 24.2,16
 Robert Greenberg,State House,70,Democrat,Sevier,Richfield 24.2,0
 Phil Lyman,State House,73,Republican,Sevier,Richfield 24.2,0
 Marsha M Holland,State House,73,UNA,Sevier,Richfield 24.2,0
-,Registered Voters,,,,Salina 25,415
-,Ballots Cast,,,,Salina 25,265
-,Blank Ballots Cast,,,,Salina 25,1
+,Registered Voters,,,Sevier,Salina 25,415
+,Ballots Cast,,,Sevier,Salina 25,265
+,Blank Ballots Cast,,,Sevier,Salina 25,1
 ,Straight Party,,Constitution,Sevier,Salina 25,0
 ,Straight Party,,United Utah Party,Sevier,Salina 25,1
 ,Straight Party,,Libertarian,Sevier,Salina 25,0
@@ -643,9 +643,9 @@ Carl R. Albrecht,State House,70,Republican,Sevier,Salina 25,229
 Robert Greenberg,State House,70,Democrat,Sevier,Salina 25,26
 Phil Lyman,State House,73,Republican,Sevier,Salina 25,0
 Marsha M Holland,State House,73,UNA,Sevier,Salina 25,0
-,Registered Voters,,,,TOTALS,11384
-,Ballots Cast,,,,TOTALS,7450
-,Blank Ballots Cast,,,,TOTALS,8
+,Registered Voters,,,Sevier,TOTALS,11384
+,Ballots Cast,,,Sevier,TOTALS,7450
+,Blank Ballots Cast,,,Sevier,TOTALS,8
 ,Straight Party,,Constitution,Sevier,TOTALS,13
 ,Straight Party,,United Utah Party,Sevier,TOTALS,10
 ,Straight Party,,Libertarian,Sevier,TOTALS,19

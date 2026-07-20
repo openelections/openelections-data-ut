@@ -1,11 +1,11 @@
 county,precinct,office,district,party,candidate,votes
-WAYNE,Fremont,,,,REGISTERED VOTERS-TOTAL,180
-WAYNE,Fremont,,,,BALLOTS CAST-TOTAL,150
-WAYNE,Fremont,,,,PAPER BALLOTS CAST-TOTAL,150
-WAYNE,Fremont,,,,CARDS CAST-TOTAL,0
-WAYNE,Fremont,,,,BALLOTS CAST-BLANK,0
-WAYNE,Fremont,,,,PAPER BALLOTS CAST-BLANK,0
-WAYNE,Fremont,,,,CARDS CAST-BLANK,0
+WAYNE,Fremont,REGISTERED VOTERS-TOTAL,,,,180
+WAYNE,Fremont,BALLOTS CAST-TOTAL,,,,150
+WAYNE,Fremont,PAPER BALLOTS CAST-TOTAL,,,,150
+WAYNE,Fremont,CARDS CAST-TOTAL,,,,0
+WAYNE,Fremont,BALLOTS CAST-BLANK,,,,0
+WAYNE,Fremont,PAPER BALLOTS CAST-BLANK,,,,0
+WAYNE,Fremont,CARDS CAST-BLANK,,,,0
 WAYNE,Fremont,U.S. Senate,,,EVAN MCMULLIN,26
 WAYNE,Fremont,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,2
 WAYNE,Fremont,U.S. Senate,,REP,MIKE LEE,117
@@ -88,13 +88,13 @@ WAYNE,Fremont,Constitutional Amendment A,,,TOTAL VOTES CAST,132
 WAYNE,Fremont,Constitutional Amendment A,,,OVERVOTES,0
 WAYNE,Fremont,Constitutional Amendment A,,,UNDERVOTES,18
 WAYNE,Fremont,Constitutional Amendment A,,,CONTEST TOTALS,150
-WAYNE,Loa Inside/Outside,,,,REGISTERED VOTERS-TOTAL,405
-WAYNE,Loa Inside/Outside,,,,BALLOTS CAST-TOTAL,317
-WAYNE,Loa Inside/Outside,,,,PAPER BALLOTS CAST-TOTAL,312
-WAYNE,Loa Inside/Outside,,,,CARDS CAST-TOTAL,0
-WAYNE,Loa Inside/Outside,,,,BALLOTS CAST-BLANK,0
-WAYNE,Loa Inside/Outside,,,,PAPER BALLOTS CAST-BLANK,0
-WAYNE,Loa Inside/Outside,,,,CARDS CAST-BLANK,0
+WAYNE,Loa Inside/Outside,REGISTERED VOTERS-TOTAL,,,,405
+WAYNE,Loa Inside/Outside,BALLOTS CAST-TOTAL,,,,317
+WAYNE,Loa Inside/Outside,PAPER BALLOTS CAST-TOTAL,,,,312
+WAYNE,Loa Inside/Outside,CARDS CAST-TOTAL,,,,0
+WAYNE,Loa Inside/Outside,BALLOTS CAST-BLANK,,,,0
+WAYNE,Loa Inside/Outside,PAPER BALLOTS CAST-BLANK,,,,0
+WAYNE,Loa Inside/Outside,CARDS CAST-BLANK,,,,0
 WAYNE,Loa Inside/Outside,U.S. Senate,,,EVAN MCMULLIN,37
 WAYNE,Loa Inside/Outside,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
 WAYNE,Loa Inside/Outside,U.S. Senate,,REP,MIKE LEE,273
@@ -183,12 +183,12 @@ WAYNE,Loa Inside/Outside,Constitutional Amendment A,,,TOTAL VOTES CAST,288
 WAYNE,Loa Inside/Outside,Constitutional Amendment A,,,OVERVOTES,0
 WAYNE,Loa Inside/Outside,Constitutional Amendment A,,,UNDERVOTES,29
 WAYNE,Loa Inside/Outside,Constitutional Amendment A,,,CONTEST TOTALS,317
-WAYNE,Lyman Inside/Outside,,,,REGISTERED VOTERS-TOTAL,206
-WAYNE,Lyman Inside/Outside,,,,BALLOTS CAST-TOTAL,165
-WAYNE,Lyman Inside/Outside,,,,PAPER BALLOTS CAST-TOTAL,163
-WAYNE,Lyman Inside/Outside,,,,CARDS CAST-TOTAL,0
-WAYNE,Lyman Inside/Outside,,,,BALLOTS CAST-BLANK,0
-WAYNE,Lyman Inside/Outside,,,,PAPER BALLOTS CAST-BLANK,0
+WAYNE,Lyman Inside/Outside,REGISTERED VOTERS-TOTAL,,,,206
+WAYNE,Lyman Inside/Outside,BALLOTS CAST-TOTAL,,,,165
+WAYNE,Lyman Inside/Outside,PAPER BALLOTS CAST-TOTAL,,,,163
+WAYNE,Lyman Inside/Outside,CARDS CAST-TOTAL,,,,0
+WAYNE,Lyman Inside/Outside,BALLOTS CAST-BLANK,,,,0
+WAYNE,Lyman Inside/Outside,PAPER BALLOTS CAST-BLANK,,,,0
 WAYNE,Lyman Inside/Outside,U.S. Senate,,,EVAN MCMULLIN,18
 WAYNE,Lyman Inside/Outside,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,1
 WAYNE,Lyman Inside/Outside,U.S. Senate,,REP,MIKE LEE,143
@@ -271,13 +271,13 @@ WAYNE,Lyman Inside/Outside,Constitutional Amendment A,,,TOTAL VOTES CAST,145
 WAYNE,Lyman Inside/Outside,Constitutional Amendment A,,,OVERVOTES,0
 WAYNE,Lyman Inside/Outside,Constitutional Amendment A,,,UNDERVOTES,20
 WAYNE,Lyman Inside/Outside,Constitutional Amendment A,,,CONTEST TOTALS,165
-WAYNE,Bicknell Inside/Outside,,,,REGISTERED VOTERS-TOTAL,302
-WAYNE,Bicknell Inside/Outside,,,,BALLOTS CAST-TOTAL,257
-WAYNE,Bicknell Inside/Outside,,,,PAPER BALLOTS CAST-TOTAL,256
-WAYNE,Bicknell Inside/Outside,,,,CARDS CAST-TOTAL,0
-WAYNE,Bicknell Inside/Outside,,,,BALLOTS CAST-BLANK,0
-WAYNE,Bicknell Inside/Outside,,,,PAPER BALLOTS CAST-BLANK,0
-WAYNE,Bicknell Inside/Outside,,,,CARDS CAST-BLANK,0
+WAYNE,Bicknell Inside/Outside,REGISTERED VOTERS-TOTAL,,,,302
+WAYNE,Bicknell Inside/Outside,BALLOTS CAST-TOTAL,,,,257
+WAYNE,Bicknell Inside/Outside,PAPER BALLOTS CAST-TOTAL,,,,256
+WAYNE,Bicknell Inside/Outside,CARDS CAST-TOTAL,,,,0
+WAYNE,Bicknell Inside/Outside,BALLOTS CAST-BLANK,,,,0
+WAYNE,Bicknell Inside/Outside,PAPER BALLOTS CAST-BLANK,,,,0
+WAYNE,Bicknell Inside/Outside,CARDS CAST-BLANK,,,,0
 WAYNE,Bicknell Inside/Outside,U.S. Senate,,,EVAN MCMULLIN,61
 WAYNE,Bicknell Inside/Outside,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,6
 WAYNE,Bicknell Inside/Outside,U.S. Senate,,REP,MIKE LEE,184
@@ -358,13 +358,13 @@ WAYNE,Bicknell Inside/Outside,Constitutional Amendment A,,,TOTAL VOTES CAST,216
 WAYNE,Bicknell Inside/Outside,Constitutional Amendment A,,,OVERVOTES,1
 WAYNE,Bicknell Inside/Outside,Constitutional Amendment A,,,UNDERVOTES,40
 WAYNE,Bicknell Inside/Outside,Constitutional Amendment A,,,CONTEST TOTALS,257
-WAYNE,Teasdale,,,,REGISTERED VOTERS-TOTAL,250
-WAYNE,Teasdale,,,,BALLOTS CAST-TOTAL,232
-WAYNE,Teasdale,,,,PAPER BALLOTS CAST-TOTAL,225
-WAYNE,Teasdale,,,,CARDS CAST-TOTAL,0
-WAYNE,Teasdale,,,,BALLOTS CAST-BLANK,0
-WAYNE,Teasdale,,,,PAPER BALLOTS CAST-BLANK,0
-WAYNE,Teasdale,,,,CARDS CAST-BLANK,0
+WAYNE,Teasdale,REGISTERED VOTERS-TOTAL,,,,250
+WAYNE,Teasdale,BALLOTS CAST-TOTAL,,,,232
+WAYNE,Teasdale,PAPER BALLOTS CAST-TOTAL,,,,225
+WAYNE,Teasdale,CARDS CAST-TOTAL,,,,0
+WAYNE,Teasdale,BALLOTS CAST-BLANK,,,,0
+WAYNE,Teasdale,PAPER BALLOTS CAST-BLANK,,,,0
+WAYNE,Teasdale,CARDS CAST-BLANK,,,,0
 WAYNE,Teasdale,U.S. Senate,,,EVAN MCMULLIN,90
 WAYNE,Teasdale,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,3
 WAYNE,Teasdale,U.S. Senate,,REP,MIKE LEE,130
@@ -446,13 +446,13 @@ WAYNE,Teasdale,Constitutional Amendment A,,,TOTAL VOTES CAST,199
 WAYNE,Teasdale,Constitutional Amendment A,,,OVERVOTES,0
 WAYNE,Teasdale,Constitutional Amendment A,,,UNDERVOTES,33
 WAYNE,Teasdale,Constitutional Amendment A,,,CONTEST TOTALS,232
-WAYNE,Torrey Inside/Outside,,,,REGISTERED VOTERS-TOTAL,320
-WAYNE,Torrey Inside/Outside,,,,BALLOTS CAST-TOTAL,286
-WAYNE,Torrey Inside/Outside,,,,PAPER BALLOTS CAST-TOTAL,278
-WAYNE,Torrey Inside/Outside,,,,CARDS CAST-TOTAL,0
-WAYNE,Torrey Inside/Outside,,,,BALLOTS CAST-BLANK,0
-WAYNE,Torrey Inside/Outside,,,,PAPER BALLOTS CAST-BLANK,0
-WAYNE,Torrey Inside/Outside,,,,CARDS CAST-BLANK,0
+WAYNE,Torrey Inside/Outside,REGISTERED VOTERS-TOTAL,,,,320
+WAYNE,Torrey Inside/Outside,BALLOTS CAST-TOTAL,,,,286
+WAYNE,Torrey Inside/Outside,PAPER BALLOTS CAST-TOTAL,,,,278
+WAYNE,Torrey Inside/Outside,CARDS CAST-TOTAL,,,,0
+WAYNE,Torrey Inside/Outside,BALLOTS CAST-BLANK,,,,0
+WAYNE,Torrey Inside/Outside,PAPER BALLOTS CAST-BLANK,,,,0
+WAYNE,Torrey Inside/Outside,CARDS CAST-BLANK,,,,0
 WAYNE,Torrey Inside/Outside,U.S. Senate,,,EVAN MCMULLIN,161
 WAYNE,Torrey Inside/Outside,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,8
 WAYNE,Torrey Inside/Outside,U.S. Senate,,REP,MIKE LEE,107
@@ -535,13 +535,13 @@ WAYNE,Torrey Inside/Outside,Constitutional Amendment A,,,TOTAL VOTES CAST,258
 WAYNE,Torrey Inside/Outside,Constitutional Amendment A,,,OVERVOTES,0
 WAYNE,Torrey Inside/Outside,Constitutional Amendment A,,,UNDERVOTES,28
 WAYNE,Torrey Inside/Outside,Constitutional Amendment A,,,CONTEST TOTALS,286
-WAYNE,Hanksville Inside/Outside,,,,REGISTERED VOTERS-TOTAL,169
-WAYNE,Hanksville Inside/Outside,,,,BALLOTS CAST-TOTAL,134
-WAYNE,Hanksville Inside/Outside,,,,PAPER BALLOTS CAST-TOTAL,131
-WAYNE,Hanksville Inside/Outside,,,,CARDS CAST-TOTAL,0
-WAYNE,Hanksville Inside/Outside,,,,BALLOTS CAST-BLANK,0
-WAYNE,Hanksville Inside/Outside,,,,PAPER BALLOTS CAST-BLANK,0
-WAYNE,Hanksville Inside/Outside,,,,CARDS CAST-BLANK,0
+WAYNE,Hanksville Inside/Outside,REGISTERED VOTERS-TOTAL,,,,169
+WAYNE,Hanksville Inside/Outside,BALLOTS CAST-TOTAL,,,,134
+WAYNE,Hanksville Inside/Outside,PAPER BALLOTS CAST-TOTAL,,,,131
+WAYNE,Hanksville Inside/Outside,CARDS CAST-TOTAL,,,,0
+WAYNE,Hanksville Inside/Outside,BALLOTS CAST-BLANK,,,,0
+WAYNE,Hanksville Inside/Outside,PAPER BALLOTS CAST-BLANK,,,,0
+WAYNE,Hanksville Inside/Outside,CARDS CAST-BLANK,,,,0
 WAYNE,Hanksville Inside/Outside,U.S. Senate,,,EVAN MCMULLIN,22
 WAYNE,Hanksville Inside/Outside,U.S. Senate,,LIB,JAMES ARTHUR HANSEN,5
 WAYNE,Hanksville Inside/Outside,U.S. Senate,,REP,MIKE LEE,102

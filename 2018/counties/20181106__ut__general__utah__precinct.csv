@@ -1,748 +1,748 @@
 county,precinct,office,district,party,candidate,votes
-Utah,AF01,,,,Ballots,1102
-Utah,AF01:UN,,,,Ballots,88
-Utah,AF01S,,,,Ballots,0
-Utah,AF02,,,,Ballots,586
-Utah,AF03,,,,Ballots,814
-Utah,AF03:UN,,,,Ballots,0
-Utah,AF04,,,,Ballots,659
-Utah,AF05,,,,Ballots,611
-Utah,AF06,,,,Ballots,856
-Utah,AF06:UN,,,,Ballots,0
-Utah,AF06S,,,,Ballots,145
-Utah,AF07,,,,Ballots,1068
-Utah,AF08,,,,Ballots,914
-Utah,AF08:UN,,,,Ballots,0
-Utah,AF09,,,,Ballots,690
-Utah,AF10,,,,Ballots,796
-Utah,AF10:UN,,,,Ballots,37
-Utah,AF10S,,,,Ballots,84
-Utah,AF10S:UN,,,,Ballots,3
-Utah,AF11,,,,Ballots,607
-Utah,AF11:UN,,,,Ballots,0
-Utah,AF12,,,,Ballots,631
-Utah,AF12:UN,,,,Ballots,5
-Utah,AF13,,,,Ballots,460
-Utah,AF13:UN,,,,Ballots,29
-Utah,AF14,,,,Ballots,24
-Utah,AF14:UN,,,,Ballots,10
-Utah,AL01,,,,Ballots,693
-Utah,AL01:UN,,,,Ballots,2
-Utah,AF01,,,,Registered,1573
-Utah,AF01:UN,,,,Registered,11
-Utah,AF01S,,,,Registered,0
-Utah,AF02,,,,Registered,846
-Utah,AF03,,,,Registered,1088
-Utah,AF03:UN,,,,Registered,0
-Utah,AF04,,,,Registered,985
-Utah,AF05,,,,Registered,855
-Utah,AF06,,,,Registered,1210
-Utah,AF06:UN,,,,Registered,4
-Utah,AF06S,,,,Registered,193
-Utah,AF07,,,,Registered,1471
-Utah,AF08,,,,Registered,1211
-Utah,AF08:UN,,,,Registered,0
-Utah,AF09,,,,Registered,922
-Utah,AF10,,,,Registered,1189
-Utah,AF10:UN,,,,Registered,21
-Utah,AF10S,,,,Registered,115
-Utah,AF10S:UN,,,,Registered,5
-Utah,AF11,,,,Registered,868
-Utah,AF11:UN,,,,Registered,0
-Utah,AF12,,,,Registered,963
-Utah,AF12:UN,,,,Registered,5
-Utah,AF13,,,,Registered,625
-Utah,AF13:UN,,,,Registered,48
-Utah,AF14,,,,Registered,33
-Utah,AF14:UN,,,,Registered,18
-Utah,AL01,,,,Registered,985
-Utah,AL01:UN,,,,Registered,3
-Utah,AL02,,,,Registered,1002
-Utah,AL02:UN,,,,Registered,0
-Utah,AL03,,,,Registered,1145
-Utah,AL04,,,,Registered,1221
-Utah,AL05,,,,Registered,866
-Utah,AL06,,,,Registered,950
-Utah,CF01,,,,Registered,239
-Utah,CH01,,,,Registered,788
-Utah,CH02,,,,Registered,1031
-Utah,CH02:UN,,,,Registered,0
-Utah,CH03,,,,Registered,1151
-Utah,CH04,,,,Registered,1200
-Utah,CH05,,,,Registered,1021
-Utah,DR01,,,,Registered,1359
-Utah,EM01,,,,Registered,1416
-Utah,EM02,,,,Registered,1635
-Utah,EM03,,,,Registered,1670
-Utah,EM04,,,,Registered,1539
-Utah,EM05,,,,Registered,1571
-Utah,EM06,,,,Registered,1687
-Utah,EM07,,,,Registered,1190
-Utah,EM08,,,,Registered,1620
-Utah,EM09,,,,Registered,196
-Utah,ER01,,,,Registered,1292
-Utah,ER01S,,,,Registered,7
-Utah,ER02,,,,Registered,704
-Utah,ER02:UN,,,,Registered,0
-Utah,FF01,,,,Registered,80
-Utah,GE01,,,,Registered,677
-Utah,GO01,,,,Registered,194
-Utah,GO02,,,,Registered,201
-Utah,HI01,,,,Registered,1078
-Utah,HI02,,,,Registered,1044
-Utah,AL02,,,,Ballots,735
-Utah,AL02:UN,,,,Ballots,3
-Utah,AL03,,,,Ballots,834
-Utah,AL04,,,,Ballots,839
-Utah,AL05,,,,Ballots,616
-Utah,AL06,,,,Ballots,697
-Utah,CF01,,,,Ballots,154
-Utah,CH01,,,,Ballots,553
-Utah,CH02,,,,Ballots,728
-Utah,CH02:UN,,,,Ballots,0
-Utah,CH03,,,,Ballots,802
-Utah,CH04,,,,Ballots,862
-Utah,CH05,,,,Ballots,752
-Utah,DR01,,,,Ballots,968
-Utah,EM01,,,,Ballots,920
-Utah,EM02,,,,Ballots,1076
-Utah,EM03,,,,Ballots,1084
-Utah,EM04,,,,Ballots,1038
-Utah,EM05,,,,Ballots,1022
-Utah,EM06,,,,Ballots,1107
-Utah,EM07,,,,Ballots,778
-Utah,EM08,,,,Ballots,1024
-Utah,EM09,,,,Ballots,120
-Utah,ER01,,,,Ballots,984
-Utah,ER01S,,,,Ballots,5
-Utah,ER02,,,,Ballots,533
-Utah,ER02:UN,,,,Ballots,0
-Utah,FF01,,,,Ballots,58
-Utah,GE01,,,,Ballots,508
-Utah,GO01,,,,Ballots,134
-Utah,GO02,,,,Ballots,142
-Utah,HI01,,,,Ballots,776
-Utah,HI02,,,,Ballots,794
-Utah,HI03,,,,Ballots,694
-Utah,HI03:UN,,,,Ballots,0
-Utah,HI04,,,,Ballots,694
-Utah,HI05,,,,Ballots,851
-Utah,HI05:UN,,,,Ballots,0
-Utah,HI06,,,,Ballots,741
-Utah,HI06:UN,,,,Ballots,4
-Utah,HI07,,,,Ballots,826
-Utah,HI08,,,,Ballots,870
-Utah,HI08:UN,,,,Ballots,0
-Utah,HI09,,,,Ballots,938
-Utah,HI09:UN,,,,Ballots,2
-Utah,HI10,,,,Ballots,216
-Utah,LE01,,,,Ballots,764
-Utah,LE01:UN,,,,Ballots,22
-Utah,LE01S,,,,Ballots,0
-Utah,LE01S:UN,,,,Ballots,1
-Utah,LE02,,,,Ballots,684
-Utah,LE03,,,,Ballots,834
-Utah,LE03:UN,,,,Ballots,24
-Utah,LE04,,,,Ballots,789
-Utah,LE04:UN,,,,Ballots,10
-Utah,LE05,,,,Ballots,796
-Utah,LE05:UN,,,,Ballots,32
-Utah,LE06,,,,Ballots,935
-Utah,LE06:UN,,,,Ballots,44
-Utah,LE06S,,,,Ballots,0
-Utah,LE07,,,,Ballots,671
-Utah,LE07:UN,,,,Ballots,0
-Utah,LE08,,,,Ballots,949
-Utah,LE08:UN,,,,Ballots,19
-Utah,LE09,,,,Ballots,601
-Utah,LE09:UN,,,,Ballots,0
-Utah,HI03,,,,Registered,923
-Utah,HI03:UN,,,,Registered,0
-Utah,HI04,,,,Registered,917
-Utah,HI05,,,,Registered,1160
-Utah,HI05:UN,,,,Registered,0
-Utah,HI06,,,,Registered,1082
-Utah,HI06:UN,,,,Registered,5
-Utah,HI07,,,,Registered,1070
-Utah,HI08,,,,Registered,1200
-Utah,HI08:UN,,,,Registered,0
-Utah,HI09,,,,Registered,1260
-Utah,HI09:UN,,,,Registered,2
-Utah,HI10,,,,Registered,309
-Utah,LE01,,,,Registered,1102
-Utah,LE01:UN,,,,Registered,4
-Utah,LE01S,,,,Registered,4
-Utah,LE01S:UN,,,,Registered,2
-Utah,LE02,,,,Registered,965
-Utah,LE03,,,,Registered,1157
-Utah,LE03:UN,,,,Registered,1
-Utah,LE04,,,,Registered,1114
-Utah,LE04:UN,,,,Registered,18
-Utah,LE05,,,,Registered,1197
-Utah,LE05:UN,,,,Registered,7
-Utah,LE06,,,,Registered,1347
-Utah,LE06:UN,,,,Registered,12
-Utah,LE06S,,,,Registered,0
-Utah,LE07,,,,Registered,901
-Utah,LE07:UN,,,,Registered,0
-Utah,LE08,,,,Registered,1344
-Utah,LE08:UN,,,,Registered,30
-Utah,LE09,,,,Registered,835
-Utah,LE09:UN,,,,Registered,0
-Utah,LE10,,,,Ballots,1159
-Utah,LE10:UN,,,,Ballots,23
-Utah,LE11,,,,Ballots,977
-Utah,LE11:UN,,,,Ballots,9
-Utah,LE12,,,,Ballots,1079
-Utah,LE12:UN,,,,Ballots,26
-Utah,LE13,,,,Ballots,179
-Utah,LE13:UN,,,,Ballots,0
-Utah,LE14,,,,Ballots,751
-Utah,LE15,,,,Ballots,778
-Utah,LE15:UN,,,,Ballots,8
-Utah,LE16,,,,Ballots,558
-Utah,LE16:UN,,,,Ballots,24
-Utah,LE17,,,,Ballots,567
-Utah,LE17:UN,,,,Ballots,20
-Utah,LE18,,,,Ballots,673
-Utah,LE18:UN,,,,Ballots,0
-Utah,LE19,,,,Ballots,1084
-Utah,LE19:UN,,,,Ballots,52
-Utah,LE20,,,,Ballots,588
-Utah,LE20:UN,,,,Ballots,0
-Utah,LE21,,,,Ballots,0
-Utah,LE22,,,,Ballots,567
-Utah,LE22:UN,,,,Ballots,2
-Utah,LE23,,,,Ballots,779
-Utah,LE23:UN,,,,Ballots,9
-Utah,LE24,,,,Ballots,809
-Utah,LE25,,,,Ballots,618
-Utah,LE26,,,,Ballots,819
-Utah,LE26:UN,,,,Ballots,17
-Utah,LI01,,,,Ballots,1218
-Utah,LI02,,,,Ballots,487
-Utah,LI03,,,,Ballots,452
-Utah,LE10,,,,Registered,1605
-Utah,LE10:UN,,,,Registered,1
-Utah,LE11,,,,Registered,1395
-Utah,LE11:UN,,,,Registered,9
-Utah,LE12,,,,Registered,1591
-Utah,LE12:UN,,,,Registered,1
-Utah,LE13,,,,Registered,218
-Utah,LE13:UN,,,,Registered,0
-Utah,LE14,,,,Registered,1167
-Utah,LE15,,,,Registered,1234
-Utah,LE15:UN,,,,Registered,4
-Utah,LE16,,,,Registered,758
-Utah,LE16:UN,,,,Registered,10
-Utah,LE17,,,,Registered,825
-Utah,LE17:UN,,,,Registered,0
-Utah,LE18,,,,Registered,1107
-Utah,LE18:UN,,,,Registered,0
-Utah,LE19,,,,Registered,1610
-Utah,LE19:UN,,,,Registered,11
-Utah,LE20,,,,Registered,920
-Utah,LE20:UN,,,,Registered,0
-Utah,LE21,,,,Registered,0
-Utah,LE22,,,,Registered,729
-Utah,LE22:UN,,,,Registered,2
-Utah,LE23,,,,Registered,1081
-Utah,LE23:UN,,,,Registered,18
-Utah,LE24,,,,Registered,1202
-Utah,LE25,,,,Registered,1044
-Utah,LE26,,,,Registered,1180
-Utah,LE26:UN,,,,Registered,26
-Utah,LI01,,,,Registered,1709
-Utah,LI02,,,,Registered,637
-Utah,LI03,,,,Registered,612
-Utah,LI04,,,,Registered,1037
-Utah,LI05,,,,Registered,1015
-Utah,LI06,,,,Registered,988
-Utah,MA01,,,,Registered,1180
-Utah,MA02,,,,Registered,1265
-Utah,MA02:UN,,,,Registered,0
-Utah,MA03,,,,Registered,1246
-Utah,MA04,,,,Registered,1044
-Utah,MA05,,,,Registered,837
-Utah,MA05:UN,,,,Registered,0
-Utah,OR01,,,,Registered,943
-Utah,OR02,,,,Registered,782
-Utah,OR03,,,,Registered,879
-Utah,OR04,,,,Registered,1136
-Utah,OR05,,,,Registered,1294
-Utah,OR06,,,,Registered,833
-Utah,OR07,,,,Registered,899
-Utah,OR08,,,,Registered,840
-Utah,OR09,,,,Registered,481
-Utah,OR10,,,,Registered,607
-Utah,OR11,,,,Registered,1056
-Utah,OR12,,,,Registered,648
-Utah,OR13,,,,Registered,1250
-Utah,OR14,,,,Registered,591
-Utah,OR15,,,,Registered,1061
-Utah,OR16,,,,Registered,843
-Utah,OR17,,,,Registered,1101
-Utah,OR18,,,,Registered,774
-Utah,OR19,,,,Registered,800
-Utah,OR20,,,,Registered,977
-Utah,OR21,,,,Registered,902
-Utah,OR22,,,,Registered,1172
-Utah,OR23,,,,Registered,942
-Utah,LI04,,,,Ballots,755
-Utah,LI05,,,,Ballots,730
-Utah,LI06,,,,Ballots,697
-Utah,MA01,,,,Ballots,872
-Utah,MA02,,,,Ballots,969
-Utah,MA02:UN,,,,Ballots,0
-Utah,MA03,,,,Ballots,958
-Utah,MA04,,,,Ballots,827
-Utah,MA05,,,,Ballots,643
-Utah,MA05:UN,,,,Ballots,0
-Utah,OR01,,,,Ballots,700
-Utah,OR02,,,,Ballots,480
-Utah,OR03,,,,Ballots,628
-Utah,OR04,,,,Ballots,680
-Utah,OR05,,,,Ballots,1012
-Utah,OR06,,,,Ballots,569
-Utah,OR07,,,,Ballots,674
-Utah,OR08,,,,Ballots,534
-Utah,OR09,,,,Ballots,320
-Utah,OR10,,,,Ballots,451
-Utah,OR11,,,,Ballots,769
-Utah,OR12,,,,Ballots,363
-Utah,OR13,,,,Ballots,575
-Utah,OR14,,,,Ballots,353
-Utah,OR15,,,,Ballots,686
-Utah,OR16,,,,Ballots,547
-Utah,OR17,,,,Ballots,698
-Utah,OR18,,,,Ballots,479
-Utah,OR19,,,,Ballots,631
-Utah,OR20,,,,Ballots,691
-Utah,OR21,,,,Ballots,651
-Utah,OR22,,,,Ballots,811
-Utah,OR23,,,,Ballots,717
-Utah,OR24,,,,Ballots,717
-Utah,OR25,,,,Ballots,448
-Utah,OR26,,,,Ballots,548
-Utah,OR27,,,,Ballots,683
-Utah,OR28,,,,Ballots,723
-Utah,OR29,,,,Ballots,913
-Utah,OR30,,,,Ballots,703
-Utah,OR31,,,,Ballots,632
-Utah,OR32,,,,Ballots,569
-Utah,OR33,,,,Ballots,44
-Utah,OR34,,,,Ballots,395
-Utah,OR35,,,,Ballots,519
-Utah,OR36,,,,Ballots,505
-Utah,OR36:UN,,,,Ballots,0
-Utah,OR37,,,,Ballots,502
-Utah,OR38,,,,Ballots,560
-Utah,OR39,,,,Ballots,261
-Utah,OR40,,,,Ballots,671
-Utah,OR41,,,,Ballots,505
-Utah,OR42,,,,Ballots,533
-Utah,OR42S,,,,Ballots,94
-Utah,OR43,,,,Ballots,730
-Utah,OR44,,,,Ballots,463
-Utah,OR45,,,,Ballots,518
-Utah,OR46,,,,Ballots,572
-Utah,OR47,,,,Ballots,723
-Utah,OR47:UN,,,,Ballots,3
-Utah,OR47S,,,,Ballots,4
-Utah,OR48,,,,Ballots,174
-Utah,OR49,,,,Ballots,527
-Utah,OR50,,,,Ballots,559
-Utah,PA01,,,,Ballots,939
-Utah,PA01:UN,,,,Ballots,78
-Utah,OR24,,,,Registered,978
-Utah,OR25,,,,Registered,644
-Utah,OR26,,,,Registered,768
-Utah,OR27,,,,Registered,1066
-Utah,OR28,,,,Registered,977
-Utah,OR29,,,,Registered,1207
-Utah,OR30,,,,Registered,921
-Utah,OR31,,,,Registered,822
-Utah,OR32,,,,Registered,742
-Utah,OR33,,,,Registered,75
-Utah,OR34,,,,Registered,664
-Utah,OR35,,,,Registered,779
-Utah,OR36,,,,Registered,696
-Utah,OR36:UN,,,,Registered,0
-Utah,OR37,,,,Registered,760
-Utah,OR38,,,,Registered,815
-Utah,OR39,,,,Registered,388
-Utah,OR40,,,,Registered,1098
-Utah,OR41,,,,Registered,704
-Utah,OR42,,,,Registered,1189
-Utah,OR42S,,,,Registered,198
-Utah,OR43,,,,Registered,1038
-Utah,OR44,,,,Registered,647
-Utah,OR45,,,,Registered,696
-Utah,OR46,,,,Registered,766
-Utah,OR47,,,,Registered,1000
-Utah,OR47:UN,,,,Registered,3
-Utah,OR47S,,,,Registered,4
-Utah,OR48,,,,Registered,214
-Utah,OR49,,,,Registered,698
-Utah,OR50,,,,Registered,746
-Utah,PA01,,,,Registered,1307
-Utah,PA01:UN,,,,Registered,107
-Utah,PA02,,,,Registered,1470
-Utah,PA03,,,,Registered,1318
-Utah,PA03:UN,,,,Registered,0
-Utah,PA04,,,,Registered,788
-Utah,PA04:UN,,,,Registered,83
-Utah,PA05,,,,Registered,644
-Utah,PA06,,,,Registered,478
-Utah,PA06:UN,,,,Registered,805
-Utah,PA07,,,,Registered,1363
-Utah,PA08,,,,Registered,883
-Utah,PG01,,,,Registered,1122
-Utah,PG01:UN,,,,Registered,0
-Utah,PG01S,,,,Registered,181
-Utah,PG02,,,,Registered,964
-Utah,PG03,,,,Registered,1343
-Utah,PG04,,,,Registered,1195
-Utah,PG05,,,,Registered,731
-Utah,PG05S,,,,Registered,102
-Utah,PG05S:UN,,,,Registered,0
-Utah,PG06,,,,Registered,1440
-Utah,PG07,,,,Registered,1027
-Utah,PG08,,,,Registered,1081
-Utah,PG08:UN,,,,Registered,0
-Utah,PG09,,,,Registered,1341
-Utah,PG10,,,,Registered,1448
-Utah,PG10:UN,,,,Registered,2
-Utah,PG11,,,,Registered,1456
-Utah,PG12,,,,Registered,1010
-Utah,PG13,,,,Registered,1144
-Utah,PG14,,,,Registered,1080
-Utah,PR01,,,,Registered,847
-Utah,PR01:UN,,,,Registered,0
-Utah,PR02,,,,Registered,813
-Utah,PA02,,,,Ballots,1017
-Utah,PA03,,,,Ballots,889
-Utah,PA03:UN,,,,Ballots,0
-Utah,PA04,,,,Ballots,586
-Utah,PA04:UN,,,,Ballots,56
-Utah,PA05,,,,Ballots,440
-Utah,PA06,,,,Ballots,282
-Utah,PA06:UN,,,,Ballots,565
-Utah,PA07,,,,Ballots,978
-Utah,PA08,,,,Ballots,636
-Utah,PG01,,,,Ballots,795
-Utah,PG01:UN,,,,Ballots,0
-Utah,PG01S,,,,Ballots,111
-Utah,PG02,,,,Ballots,543
-Utah,PG03,,,,Ballots,953
-Utah,PG04,,,,Ballots,845
-Utah,PG05,,,,Ballots,401
-Utah,PG05S,,,,Ballots,63
-Utah,PG05S:UN,,,,Ballots,2
-Utah,PG06,,,,Ballots,968
-Utah,PG07,,,,Ballots,715
-Utah,PG08,,,,Ballots,770
-Utah,PG08:UN,,,,Ballots,0
-Utah,PG09,,,,Ballots,967
-Utah,PG10,,,,Ballots,809
-Utah,PG10:UN,,,,Ballots,5
-Utah,PG11,,,,Ballots,1012
-Utah,PG12,,,,Ballots,663
-Utah,PG13,,,,Ballots,739
-Utah,PG14,,,,Ballots,742
-Utah,PR01,,,,Ballots,461
-Utah,PR01:UN,,,,Ballots,0
-Utah,PR02,,,,Ballots,495
-Utah,PR03,,,,Registered,1241
-Utah,PR04,,,,Registered,1011
-Utah,PR05,,,,Registered,877
-Utah,PR06,,,,Registered,632
-Utah,PR07,,,,Registered,1495
-Utah,PR08,,,,Registered,432
-Utah,PR09,,,,Registered,1583
-Utah,PR10,,,,Registered,1192
-Utah,PR11,,,,Registered,702
-Utah,PR12,,,,Registered,1276
-Utah,PR13,,,,Registered,952
-Utah,PR14,,,,Registered,731
-Utah,PR15,,,,Registered,1185
-Utah,PR15:UN,,,,Registered,8
-Utah,PR16,,,,Registered,902
-Utah,PR17,,,,Registered,1160
-Utah,PR18,,,,Registered,1359
-Utah,PR19,,,,Registered,801
-Utah,PR20,,,,Registered,951
-Utah,PR21,,,,Registered,809
-Utah,PR22,,,,Registered,292
-Utah,PR23,,,,Registered,1057
-Utah,PR24,,,,Registered,958
-Utah,PR25,,,,Registered,829
-Utah,PR26,,,,Registered,1347
-Utah,PR27,,,,Registered,1193
-Utah,PR28,,,,Registered,481
-Utah,PR29,,,,Registered,936
-Utah,PR30,,,,Registered,701
-Utah,PR31,,,,Registered,1171
-Utah,PR32,,,,Registered,692
-Utah,PR33,,,,Registered,665
-Utah,PR34,,,,Registered,837
-Utah,PR03,,,,Ballots,764
-Utah,PR04,,,,Ballots,560
-Utah,PR05,,,,Ballots,529
-Utah,PR06,,,,Ballots,355
-Utah,PR07,,,,Ballots,516
-Utah,PR08,,,,Ballots,182
-Utah,PR09,,,,Ballots,561
-Utah,PR10,,,,Ballots,561
-Utah,PR11,,,,Ballots,464
-Utah,PR12,,,,Ballots,565
-Utah,PR13,,,,Ballots,689
-Utah,PR14,,,,Ballots,459
-Utah,PR15,,,,Ballots,909
-Utah,PR15:UN,,,,Ballots,7
-Utah,PR16,,,,Ballots,632
-Utah,PR17,,,,Ballots,778
-Utah,PR18,,,,Ballots,894
-Utah,PR19,,,,Ballots,560
-Utah,PR20,,,,Ballots,655
-Utah,PR21,,,,Ballots,483
-Utah,PR22,,,,Ballots,171
-Utah,PR23,,,,Ballots,567
-Utah,PR24,,,,Ballots,619
-Utah,PR25,,,,Ballots,594
-Utah,PR26,,,,Ballots,718
-Utah,PR27,,,,Ballots,779
-Utah,PR28,,,,Ballots,281
-Utah,PR29,,,,Ballots,279
-Utah,PR30,,,,Ballots,503
-Utah,PR31,,,,Ballots,835
-Utah,PR32,,,,Ballots,507
-Utah,PR33,,,,Ballots,332
-Utah,PR34,,,,Ballots,280
-Utah,PR35,,,,Ballots,709
-Utah,PR36,,,,Ballots,911
-Utah,PR37,,,,Ballots,553
-Utah,PR38,,,,Ballots,356
-Utah,PR39,,,,Ballots,706
-Utah,PR40,,,,Ballots,570
-Utah,PR41,,,,Ballots,574
-Utah,PR42,,,,Ballots,645
-Utah,PR43,,,,Ballots,454
-Utah,PR44,,,,Ballots,501
-Utah,PR45,,,,Ballots,736
-Utah,SA01,,,,Ballots,149
-Utah,SA02,,,,Ballots,1359
-Utah,SA02:UN,,,,Ballots,90
-Utah,SA03,,,,Ballots,1075
-Utah,SA03:UN,,,,Ballots,0
-Utah,SA04,,,,Ballots,369
-Utah,SA04:UN,,,,Ballots,101
-Utah,SA05,,,,Ballots,153
-Utah,SF01,,,,Ballots,518
-Utah,SF02,,,,Ballots,584
-Utah,SF02:UN,,,,Ballots,85
-Utah,SF03,,,,Ballots,538
-Utah,SF04,,,,Ballots,549
-Utah,SF04:UN,,,,Ballots,36
-Utah,SF05,,,,Ballots,788
-Utah,SF06,,,,Ballots,495
-Utah,SF07,,,,Ballots,31
-Utah,SF07:UN,,,,Ballots,208
-Utah,SF07S,,,,Ballots,5
-Utah,SF08,,,,Ballots,1074
-Utah,SF08:UN,,,,Ballots,35
-Utah,SF09,,,,Ballots,1105
-Utah,PR35,,,,Registered,1112
-Utah,PR36,,,,Registered,1262
-Utah,PR37,,,,Registered,763
-Utah,PR38,,,,Registered,492
-Utah,PR39,,,,Registered,955
-Utah,PR40,,,,Registered,740
-Utah,PR41,,,,Registered,839
-Utah,PR42,,,,Registered,935
-Utah,PR43,,,,Registered,761
-Utah,PR44,,,,Registered,965
-Utah,PR45,,,,Registered,1207
-Utah,SA01,,,,Registered,208
-Utah,SA02,,,,Registered,1837
-Utah,SA02:UN,,,,Registered,115
-Utah,SA03,,,,Registered,1445
-Utah,SA03:UN,,,,Registered,0
-Utah,SA04,,,,Registered,554
-Utah,SA04:UN,,,,Registered,96
-Utah,SA05,,,,Registered,194
-Utah,SF01,,,,Registered,730
-Utah,SF02,,,,Registered,841
-Utah,SF02:UN,,,,Registered,88
-Utah,SF03,,,,Registered,843
-Utah,SF04,,,,Registered,904
-Utah,SF04:UN,,,,Registered,2
-Utah,SF05,,,,Registered,1181
-Utah,SF06,,,,Registered,683
-Utah,SF07,,,,Registered,35
-Utah,SF07:UN,,,,Registered,267
-Utah,SF07S,,,,Registered,5
-Utah,SF08,,,,Registered,1578
-Utah,SF08:UN,,,,Registered,17
-Utah,SF09,,,,Registered,1671
-Utah,SF09:UN,,,,Ballots,10
-Utah,SF10,,,,Ballots,571
-Utah,SF11,,,,Ballots,876
-Utah,SF12,,,,Ballots,672
-Utah,SF12:UN,,,,Ballots,0
-Utah,SF13,,,,Ballots,654
-Utah,SF13:UN,,,,Ballots,15
-Utah,SF14,,,,Ballots,513
-Utah,SF15,,,,Ballots,900
-Utah,SF16,,,,Ballots,971
-Utah,SF17,,,,Ballots,581
-Utah,SF17:UN,,,,Ballots,0
-Utah,SP01,,,,Ballots,799
-Utah,SP02,,,,Ballots,271
-Utah,SP02:UN,,,,Ballots,0
-Utah,SP03,,,,Ballots,47
-Utah,SP03:UN,,,,Ballots,3
-Utah,SP04,,,,Ballots,617
-Utah,SP04:UN,,,,Ballots,0
-Utah,SP05,,,,Ballots,626
-Utah,SP06,,,,Ballots,694
-Utah,SP07,,,,Ballots,985
-Utah,SP07:UN,,,,Ballots,188
-Utah,SP08,,,,Ballots,578
-Utah,SP09,,,,Ballots,946
-Utah,SP09:UN,,,,Ballots,0
-Utah,SP10,,,,Ballots,700
-Utah,SP11,,,,Ballots,675
-Utah,SP12,,,,Ballots,646
-Utah,SP13,,,,Ballots,419
-Utah,SP14,,,,Ballots,585
-Utah,SP14:UN,,,,Ballots,0
-Utah,SP15,,,,Ballots,440
-Utah,SF09:UN,,,,Registered,16
-Utah,SF10,,,,Registered,775
-Utah,SF11,,,,Registered,1240
-Utah,SF12,,,,Registered,919
-Utah,SF12:UN,,,,Registered,0
-Utah,SF13,,,,Registered,942
-Utah,SF13:UN,,,,Registered,6
-Utah,SF14,,,,Registered,759
-Utah,SF15,,,,Registered,1285
-Utah,SF16,,,,Registered,1360
-Utah,SF17,,,,Registered,840
-Utah,SF17:UN,,,,Registered,0
-Utah,SP01,,,,Registered,1183
-Utah,SP02,,,,Registered,433
-Utah,SP02:UN,,,,Registered,0
-Utah,SP03,,,,Registered,70
-Utah,SP03:UN,,,,Registered,3
-Utah,SP04,,,,Registered,885
-Utah,SP04:UN,,,,Registered,2
-Utah,SP05,,,,Registered,823
-Utah,SP06,,,,Registered,986
-Utah,SP07,,,,Registered,1293
-Utah,SP07:UN,,,,Registered,257
-Utah,SP08,,,,Registered,812
-Utah,SP09,,,,Registered,1347
-Utah,SP09:UN,,,,Registered,0
-Utah,SP10,,,,Registered,975
-Utah,SP11,,,,Registered,969
-Utah,SP12,,,,Registered,872
-Utah,SP13,,,,Registered,597
-Utah,SP14,,,,Registered,800
-Utah,SP14:UN,,,,Registered,0
-Utah,SP15,,,,Registered,642
-Utah,SP16,,,,Ballots,587
-Utah,SP17,,,,Ballots,196
-Utah,SP18,,,,Ballots,357
-Utah,SQ01,,,,Ballots,822
-Utah,SQ01:UN,,,,Ballots,105
-Utah,SQ02,,,,Ballots,1270
-Utah,SQ02:UN,,,,Ballots,7
-Utah,SQ03,,,,Ballots,751
-Utah,SQ03:UN,,,,Ballots,6
-Utah,SQ04,,,,Ballots,276
-Utah,SQ04:UN,,,,Ballots,9
-Utah,SR01,,,,Ballots,995
-Utah,SR02,,,,Ballots,758
-Utah,SR02:UN,,,,Ballots,6
-Utah,SR03,,,,Ballots,934
-Utah,SR03:UN,,,,Ballots,40
-Utah,SR04,,,,Ballots,601
-Utah,SR05,,,,Ballots,790
-Utah,SR06,,,,Ballots,1062
-Utah,SR07,,,,Ballots,902
-Utah,SR08,,,,Ballots,692
-Utah,SR08:UN,,,,Ballots,0
-Utah,SR09,,,,Ballots,969
-Utah,SR10,,,,Ballots,970
-Utah,UCBE1,,,,Ballots,0
-Utah,UCBE2,,,,Ballots,38
-Utah,UCCB1,,,,Ballots,125
-Utah,UCCF1,,,,Ballots,0
-Utah,UCCF2,,,,Ballots,0
-Utah,UCEL1,,,,Ballots,76
-Utah,UCEL2,,,,Ballots,58
-Utah,UCFF,,,,Ballots,5
-Utah,UCLS1,,,,Ballots,538
-Utah,SP16,,,,Registered,874
-Utah,SP17,,,,Registered,359
-Utah,SP18,,,,Registered,509
-Utah,SQ01,,,,Registered,1237
-Utah,SQ01:UN,,,,Registered,85
-Utah,SQ02,,,,Registered,1753
-Utah,SQ02:UN,,,,Registered,7
-Utah,SQ03,,,,Registered,1055
-Utah,SQ03:UN,,,,Registered,4
-Utah,SQ04,,,,Registered,402
-Utah,SQ04:UN,,,,Registered,8
-Utah,SR01,,,,Registered,1348
-Utah,SR02,,,,Registered,1046
-Utah,SR02:UN,,,,Registered,0
-Utah,SR03,,,,Registered,1353
-Utah,SR03:UN,,,,Registered,10
-Utah,SR04,,,,Registered,1024
-Utah,SR05,,,,Registered,1173
-Utah,SR06,,,,Registered,1630
-Utah,SR07,,,,Registered,1244
-Utah,SR08,,,,Registered,969
-Utah,SR08:UN,,,,Registered,0
-Utah,SR09,,,,Registered,1391
-Utah,SR10,,,,Registered,1506
-Utah,UCBE1,,,,Registered,2
-Utah,UCBE2,,,,Registered,55
-Utah,UCCB1,,,,Registered,171
-Utah,UCCF1,,,,Registered,0
-Utah,UCCF2,,,,Registered,0
-Utah,UCEL1,,,,Registered,97
-Utah,UCEL2,,,,Registered,84
-Utah,UCFF,,,,Registered,6
-Utah,UCLS1,,,,Registered,768
-Utah,UCLS2,,,,Ballots,218
-Utah,UCLV,,,,Ballots,0
-Utah,UCPC1,,,,Ballots,112
-Utah,UCPC2,,,,Ballots,90
-Utah,UCSL,,,,Ballots,228
-Utah,UCUL1,,,,Ballots,0
-Utah,UCUL2,,,,Ballots,0
-Utah,VI01,,,,Ballots,1228
-Utah,VI01S,,,,Ballots,45
-Utah,VI01S2,,,,Ballots,22
-Utah,VI01UL,,,,Ballots,0
-Utah,VI02,,,,Ballots,259
-Utah,WH01,,,,Ballots,644
-Utah,UCLS2,,,,Registered,334
-Utah,UCLV,,,,Registered,0
-Utah,UCPC1,,,,Registered,137
-Utah,UCPC2,,,,Registered,125
-Utah,UCSL,,,,Registered,312
-Utah,UCUL1,,,,Registered,0
-Utah,UCUL2,,,,Registered,0
-Utah,VI01,,,,Registered,1744
-Utah,VI01S,,,,Registered,51
-Utah,VI01S2,,,,Registered,33
-Utah,VI01UL,,,,Registered,0
-Utah,VI02,,,,Registered,527
-Utah,WH01,,,,Registered,863
+Utah,AF01,Ballots Cast,,,,1102
+Utah,AF01:UN,Ballots Cast,,,,88
+Utah,AF01S,Ballots Cast,,,,0
+Utah,AF02,Ballots Cast,,,,586
+Utah,AF03,Ballots Cast,,,,814
+Utah,AF03:UN,Ballots Cast,,,,0
+Utah,AF04,Ballots Cast,,,,659
+Utah,AF05,Ballots Cast,,,,611
+Utah,AF06,Ballots Cast,,,,856
+Utah,AF06:UN,Ballots Cast,,,,0
+Utah,AF06S,Ballots Cast,,,,145
+Utah,AF07,Ballots Cast,,,,1068
+Utah,AF08,Ballots Cast,,,,914
+Utah,AF08:UN,Ballots Cast,,,,0
+Utah,AF09,Ballots Cast,,,,690
+Utah,AF10,Ballots Cast,,,,796
+Utah,AF10:UN,Ballots Cast,,,,37
+Utah,AF10S,Ballots Cast,,,,84
+Utah,AF10S:UN,Ballots Cast,,,,3
+Utah,AF11,Ballots Cast,,,,607
+Utah,AF11:UN,Ballots Cast,,,,0
+Utah,AF12,Ballots Cast,,,,631
+Utah,AF12:UN,Ballots Cast,,,,5
+Utah,AF13,Ballots Cast,,,,460
+Utah,AF13:UN,Ballots Cast,,,,29
+Utah,AF14,Ballots Cast,,,,24
+Utah,AF14:UN,Ballots Cast,,,,10
+Utah,AL01,Ballots Cast,,,,693
+Utah,AL01:UN,Ballots Cast,,,,2
+Utah,AF01,Registered Voters,,,,1573
+Utah,AF01:UN,Registered Voters,,,,11
+Utah,AF01S,Registered Voters,,,,0
+Utah,AF02,Registered Voters,,,,846
+Utah,AF03,Registered Voters,,,,1088
+Utah,AF03:UN,Registered Voters,,,,0
+Utah,AF04,Registered Voters,,,,985
+Utah,AF05,Registered Voters,,,,855
+Utah,AF06,Registered Voters,,,,1210
+Utah,AF06:UN,Registered Voters,,,,4
+Utah,AF06S,Registered Voters,,,,193
+Utah,AF07,Registered Voters,,,,1471
+Utah,AF08,Registered Voters,,,,1211
+Utah,AF08:UN,Registered Voters,,,,0
+Utah,AF09,Registered Voters,,,,922
+Utah,AF10,Registered Voters,,,,1189
+Utah,AF10:UN,Registered Voters,,,,21
+Utah,AF10S,Registered Voters,,,,115
+Utah,AF10S:UN,Registered Voters,,,,5
+Utah,AF11,Registered Voters,,,,868
+Utah,AF11:UN,Registered Voters,,,,0
+Utah,AF12,Registered Voters,,,,963
+Utah,AF12:UN,Registered Voters,,,,5
+Utah,AF13,Registered Voters,,,,625
+Utah,AF13:UN,Registered Voters,,,,48
+Utah,AF14,Registered Voters,,,,33
+Utah,AF14:UN,Registered Voters,,,,18
+Utah,AL01,Registered Voters,,,,985
+Utah,AL01:UN,Registered Voters,,,,3
+Utah,AL02,Registered Voters,,,,1002
+Utah,AL02:UN,Registered Voters,,,,0
+Utah,AL03,Registered Voters,,,,1145
+Utah,AL04,Registered Voters,,,,1221
+Utah,AL05,Registered Voters,,,,866
+Utah,AL06,Registered Voters,,,,950
+Utah,CF01,Registered Voters,,,,239
+Utah,CH01,Registered Voters,,,,788
+Utah,CH02,Registered Voters,,,,1031
+Utah,CH02:UN,Registered Voters,,,,0
+Utah,CH03,Registered Voters,,,,1151
+Utah,CH04,Registered Voters,,,,1200
+Utah,CH05,Registered Voters,,,,1021
+Utah,DR01,Registered Voters,,,,1359
+Utah,EM01,Registered Voters,,,,1416
+Utah,EM02,Registered Voters,,,,1635
+Utah,EM03,Registered Voters,,,,1670
+Utah,EM04,Registered Voters,,,,1539
+Utah,EM05,Registered Voters,,,,1571
+Utah,EM06,Registered Voters,,,,1687
+Utah,EM07,Registered Voters,,,,1190
+Utah,EM08,Registered Voters,,,,1620
+Utah,EM09,Registered Voters,,,,196
+Utah,ER01,Registered Voters,,,,1292
+Utah,ER01S,Registered Voters,,,,7
+Utah,ER02,Registered Voters,,,,704
+Utah,ER02:UN,Registered Voters,,,,0
+Utah,FF01,Registered Voters,,,,80
+Utah,GE01,Registered Voters,,,,677
+Utah,GO01,Registered Voters,,,,194
+Utah,GO02,Registered Voters,,,,201
+Utah,HI01,Registered Voters,,,,1078
+Utah,HI02,Registered Voters,,,,1044
+Utah,AL02,Ballots Cast,,,,735
+Utah,AL02:UN,Ballots Cast,,,,3
+Utah,AL03,Ballots Cast,,,,834
+Utah,AL04,Ballots Cast,,,,839
+Utah,AL05,Ballots Cast,,,,616
+Utah,AL06,Ballots Cast,,,,697
+Utah,CF01,Ballots Cast,,,,154
+Utah,CH01,Ballots Cast,,,,553
+Utah,CH02,Ballots Cast,,,,728
+Utah,CH02:UN,Ballots Cast,,,,0
+Utah,CH03,Ballots Cast,,,,802
+Utah,CH04,Ballots Cast,,,,862
+Utah,CH05,Ballots Cast,,,,752
+Utah,DR01,Ballots Cast,,,,968
+Utah,EM01,Ballots Cast,,,,920
+Utah,EM02,Ballots Cast,,,,1076
+Utah,EM03,Ballots Cast,,,,1084
+Utah,EM04,Ballots Cast,,,,1038
+Utah,EM05,Ballots Cast,,,,1022
+Utah,EM06,Ballots Cast,,,,1107
+Utah,EM07,Ballots Cast,,,,778
+Utah,EM08,Ballots Cast,,,,1024
+Utah,EM09,Ballots Cast,,,,120
+Utah,ER01,Ballots Cast,,,,984
+Utah,ER01S,Ballots Cast,,,,5
+Utah,ER02,Ballots Cast,,,,533
+Utah,ER02:UN,Ballots Cast,,,,0
+Utah,FF01,Ballots Cast,,,,58
+Utah,GE01,Ballots Cast,,,,508
+Utah,GO01,Ballots Cast,,,,134
+Utah,GO02,Ballots Cast,,,,142
+Utah,HI01,Ballots Cast,,,,776
+Utah,HI02,Ballots Cast,,,,794
+Utah,HI03,Ballots Cast,,,,694
+Utah,HI03:UN,Ballots Cast,,,,0
+Utah,HI04,Ballots Cast,,,,694
+Utah,HI05,Ballots Cast,,,,851
+Utah,HI05:UN,Ballots Cast,,,,0
+Utah,HI06,Ballots Cast,,,,741
+Utah,HI06:UN,Ballots Cast,,,,4
+Utah,HI07,Ballots Cast,,,,826
+Utah,HI08,Ballots Cast,,,,870
+Utah,HI08:UN,Ballots Cast,,,,0
+Utah,HI09,Ballots Cast,,,,938
+Utah,HI09:UN,Ballots Cast,,,,2
+Utah,HI10,Ballots Cast,,,,216
+Utah,LE01,Ballots Cast,,,,764
+Utah,LE01:UN,Ballots Cast,,,,22
+Utah,LE01S,Ballots Cast,,,,0
+Utah,LE01S:UN,Ballots Cast,,,,1
+Utah,LE02,Ballots Cast,,,,684
+Utah,LE03,Ballots Cast,,,,834
+Utah,LE03:UN,Ballots Cast,,,,24
+Utah,LE04,Ballots Cast,,,,789
+Utah,LE04:UN,Ballots Cast,,,,10
+Utah,LE05,Ballots Cast,,,,796
+Utah,LE05:UN,Ballots Cast,,,,32
+Utah,LE06,Ballots Cast,,,,935
+Utah,LE06:UN,Ballots Cast,,,,44
+Utah,LE06S,Ballots Cast,,,,0
+Utah,LE07,Ballots Cast,,,,671
+Utah,LE07:UN,Ballots Cast,,,,0
+Utah,LE08,Ballots Cast,,,,949
+Utah,LE08:UN,Ballots Cast,,,,19
+Utah,LE09,Ballots Cast,,,,601
+Utah,LE09:UN,Ballots Cast,,,,0
+Utah,HI03,Registered Voters,,,,923
+Utah,HI03:UN,Registered Voters,,,,0
+Utah,HI04,Registered Voters,,,,917
+Utah,HI05,Registered Voters,,,,1160
+Utah,HI05:UN,Registered Voters,,,,0
+Utah,HI06,Registered Voters,,,,1082
+Utah,HI06:UN,Registered Voters,,,,5
+Utah,HI07,Registered Voters,,,,1070
+Utah,HI08,Registered Voters,,,,1200
+Utah,HI08:UN,Registered Voters,,,,0
+Utah,HI09,Registered Voters,,,,1260
+Utah,HI09:UN,Registered Voters,,,,2
+Utah,HI10,Registered Voters,,,,309
+Utah,LE01,Registered Voters,,,,1102
+Utah,LE01:UN,Registered Voters,,,,4
+Utah,LE01S,Registered Voters,,,,4
+Utah,LE01S:UN,Registered Voters,,,,2
+Utah,LE02,Registered Voters,,,,965
+Utah,LE03,Registered Voters,,,,1157
+Utah,LE03:UN,Registered Voters,,,,1
+Utah,LE04,Registered Voters,,,,1114
+Utah,LE04:UN,Registered Voters,,,,18
+Utah,LE05,Registered Voters,,,,1197
+Utah,LE05:UN,Registered Voters,,,,7
+Utah,LE06,Registered Voters,,,,1347
+Utah,LE06:UN,Registered Voters,,,,12
+Utah,LE06S,Registered Voters,,,,0
+Utah,LE07,Registered Voters,,,,901
+Utah,LE07:UN,Registered Voters,,,,0
+Utah,LE08,Registered Voters,,,,1344
+Utah,LE08:UN,Registered Voters,,,,30
+Utah,LE09,Registered Voters,,,,835
+Utah,LE09:UN,Registered Voters,,,,0
+Utah,LE10,Ballots Cast,,,,1159
+Utah,LE10:UN,Ballots Cast,,,,23
+Utah,LE11,Ballots Cast,,,,977
+Utah,LE11:UN,Ballots Cast,,,,9
+Utah,LE12,Ballots Cast,,,,1079
+Utah,LE12:UN,Ballots Cast,,,,26
+Utah,LE13,Ballots Cast,,,,179
+Utah,LE13:UN,Ballots Cast,,,,0
+Utah,LE14,Ballots Cast,,,,751
+Utah,LE15,Ballots Cast,,,,778
+Utah,LE15:UN,Ballots Cast,,,,8
+Utah,LE16,Ballots Cast,,,,558
+Utah,LE16:UN,Ballots Cast,,,,24
+Utah,LE17,Ballots Cast,,,,567
+Utah,LE17:UN,Ballots Cast,,,,20
+Utah,LE18,Ballots Cast,,,,673
+Utah,LE18:UN,Ballots Cast,,,,0
+Utah,LE19,Ballots Cast,,,,1084
+Utah,LE19:UN,Ballots Cast,,,,52
+Utah,LE20,Ballots Cast,,,,588
+Utah,LE20:UN,Ballots Cast,,,,0
+Utah,LE21,Ballots Cast,,,,0
+Utah,LE22,Ballots Cast,,,,567
+Utah,LE22:UN,Ballots Cast,,,,2
+Utah,LE23,Ballots Cast,,,,779
+Utah,LE23:UN,Ballots Cast,,,,9
+Utah,LE24,Ballots Cast,,,,809
+Utah,LE25,Ballots Cast,,,,618
+Utah,LE26,Ballots Cast,,,,819
+Utah,LE26:UN,Ballots Cast,,,,17
+Utah,LI01,Ballots Cast,,,,1218
+Utah,LI02,Ballots Cast,,,,487
+Utah,LI03,Ballots Cast,,,,452
+Utah,LE10,Registered Voters,,,,1605
+Utah,LE10:UN,Registered Voters,,,,1
+Utah,LE11,Registered Voters,,,,1395
+Utah,LE11:UN,Registered Voters,,,,9
+Utah,LE12,Registered Voters,,,,1591
+Utah,LE12:UN,Registered Voters,,,,1
+Utah,LE13,Registered Voters,,,,218
+Utah,LE13:UN,Registered Voters,,,,0
+Utah,LE14,Registered Voters,,,,1167
+Utah,LE15,Registered Voters,,,,1234
+Utah,LE15:UN,Registered Voters,,,,4
+Utah,LE16,Registered Voters,,,,758
+Utah,LE16:UN,Registered Voters,,,,10
+Utah,LE17,Registered Voters,,,,825
+Utah,LE17:UN,Registered Voters,,,,0
+Utah,LE18,Registered Voters,,,,1107
+Utah,LE18:UN,Registered Voters,,,,0
+Utah,LE19,Registered Voters,,,,1610
+Utah,LE19:UN,Registered Voters,,,,11
+Utah,LE20,Registered Voters,,,,920
+Utah,LE20:UN,Registered Voters,,,,0
+Utah,LE21,Registered Voters,,,,0
+Utah,LE22,Registered Voters,,,,729
+Utah,LE22:UN,Registered Voters,,,,2
+Utah,LE23,Registered Voters,,,,1081
+Utah,LE23:UN,Registered Voters,,,,18
+Utah,LE24,Registered Voters,,,,1202
+Utah,LE25,Registered Voters,,,,1044
+Utah,LE26,Registered Voters,,,,1180
+Utah,LE26:UN,Registered Voters,,,,26
+Utah,LI01,Registered Voters,,,,1709
+Utah,LI02,Registered Voters,,,,637
+Utah,LI03,Registered Voters,,,,612
+Utah,LI04,Registered Voters,,,,1037
+Utah,LI05,Registered Voters,,,,1015
+Utah,LI06,Registered Voters,,,,988
+Utah,MA01,Registered Voters,,,,1180
+Utah,MA02,Registered Voters,,,,1265
+Utah,MA02:UN,Registered Voters,,,,0
+Utah,MA03,Registered Voters,,,,1246
+Utah,MA04,Registered Voters,,,,1044
+Utah,MA05,Registered Voters,,,,837
+Utah,MA05:UN,Registered Voters,,,,0
+Utah,OR01,Registered Voters,,,,943
+Utah,OR02,Registered Voters,,,,782
+Utah,OR03,Registered Voters,,,,879
+Utah,OR04,Registered Voters,,,,1136
+Utah,OR05,Registered Voters,,,,1294
+Utah,OR06,Registered Voters,,,,833
+Utah,OR07,Registered Voters,,,,899
+Utah,OR08,Registered Voters,,,,840
+Utah,OR09,Registered Voters,,,,481
+Utah,OR10,Registered Voters,,,,607
+Utah,OR11,Registered Voters,,,,1056
+Utah,OR12,Registered Voters,,,,648
+Utah,OR13,Registered Voters,,,,1250
+Utah,OR14,Registered Voters,,,,591
+Utah,OR15,Registered Voters,,,,1061
+Utah,OR16,Registered Voters,,,,843
+Utah,OR17,Registered Voters,,,,1101
+Utah,OR18,Registered Voters,,,,774
+Utah,OR19,Registered Voters,,,,800
+Utah,OR20,Registered Voters,,,,977
+Utah,OR21,Registered Voters,,,,902
+Utah,OR22,Registered Voters,,,,1172
+Utah,OR23,Registered Voters,,,,942
+Utah,LI04,Ballots Cast,,,,755
+Utah,LI05,Ballots Cast,,,,730
+Utah,LI06,Ballots Cast,,,,697
+Utah,MA01,Ballots Cast,,,,872
+Utah,MA02,Ballots Cast,,,,969
+Utah,MA02:UN,Ballots Cast,,,,0
+Utah,MA03,Ballots Cast,,,,958
+Utah,MA04,Ballots Cast,,,,827
+Utah,MA05,Ballots Cast,,,,643
+Utah,MA05:UN,Ballots Cast,,,,0
+Utah,OR01,Ballots Cast,,,,700
+Utah,OR02,Ballots Cast,,,,480
+Utah,OR03,Ballots Cast,,,,628
+Utah,OR04,Ballots Cast,,,,680
+Utah,OR05,Ballots Cast,,,,1012
+Utah,OR06,Ballots Cast,,,,569
+Utah,OR07,Ballots Cast,,,,674
+Utah,OR08,Ballots Cast,,,,534
+Utah,OR09,Ballots Cast,,,,320
+Utah,OR10,Ballots Cast,,,,451
+Utah,OR11,Ballots Cast,,,,769
+Utah,OR12,Ballots Cast,,,,363
+Utah,OR13,Ballots Cast,,,,575
+Utah,OR14,Ballots Cast,,,,353
+Utah,OR15,Ballots Cast,,,,686
+Utah,OR16,Ballots Cast,,,,547
+Utah,OR17,Ballots Cast,,,,698
+Utah,OR18,Ballots Cast,,,,479
+Utah,OR19,Ballots Cast,,,,631
+Utah,OR20,Ballots Cast,,,,691
+Utah,OR21,Ballots Cast,,,,651
+Utah,OR22,Ballots Cast,,,,811
+Utah,OR23,Ballots Cast,,,,717
+Utah,OR24,Ballots Cast,,,,717
+Utah,OR25,Ballots Cast,,,,448
+Utah,OR26,Ballots Cast,,,,548
+Utah,OR27,Ballots Cast,,,,683
+Utah,OR28,Ballots Cast,,,,723
+Utah,OR29,Ballots Cast,,,,913
+Utah,OR30,Ballots Cast,,,,703
+Utah,OR31,Ballots Cast,,,,632
+Utah,OR32,Ballots Cast,,,,569
+Utah,OR33,Ballots Cast,,,,44
+Utah,OR34,Ballots Cast,,,,395
+Utah,OR35,Ballots Cast,,,,519
+Utah,OR36,Ballots Cast,,,,505
+Utah,OR36:UN,Ballots Cast,,,,0
+Utah,OR37,Ballots Cast,,,,502
+Utah,OR38,Ballots Cast,,,,560
+Utah,OR39,Ballots Cast,,,,261
+Utah,OR40,Ballots Cast,,,,671
+Utah,OR41,Ballots Cast,,,,505
+Utah,OR42,Ballots Cast,,,,533
+Utah,OR42S,Ballots Cast,,,,94
+Utah,OR43,Ballots Cast,,,,730
+Utah,OR44,Ballots Cast,,,,463
+Utah,OR45,Ballots Cast,,,,518
+Utah,OR46,Ballots Cast,,,,572
+Utah,OR47,Ballots Cast,,,,723
+Utah,OR47:UN,Ballots Cast,,,,3
+Utah,OR47S,Ballots Cast,,,,4
+Utah,OR48,Ballots Cast,,,,174
+Utah,OR49,Ballots Cast,,,,527
+Utah,OR50,Ballots Cast,,,,559
+Utah,PA01,Ballots Cast,,,,939
+Utah,PA01:UN,Ballots Cast,,,,78
+Utah,OR24,Registered Voters,,,,978
+Utah,OR25,Registered Voters,,,,644
+Utah,OR26,Registered Voters,,,,768
+Utah,OR27,Registered Voters,,,,1066
+Utah,OR28,Registered Voters,,,,977
+Utah,OR29,Registered Voters,,,,1207
+Utah,OR30,Registered Voters,,,,921
+Utah,OR31,Registered Voters,,,,822
+Utah,OR32,Registered Voters,,,,742
+Utah,OR33,Registered Voters,,,,75
+Utah,OR34,Registered Voters,,,,664
+Utah,OR35,Registered Voters,,,,779
+Utah,OR36,Registered Voters,,,,696
+Utah,OR36:UN,Registered Voters,,,,0
+Utah,OR37,Registered Voters,,,,760
+Utah,OR38,Registered Voters,,,,815
+Utah,OR39,Registered Voters,,,,388
+Utah,OR40,Registered Voters,,,,1098
+Utah,OR41,Registered Voters,,,,704
+Utah,OR42,Registered Voters,,,,1189
+Utah,OR42S,Registered Voters,,,,198
+Utah,OR43,Registered Voters,,,,1038
+Utah,OR44,Registered Voters,,,,647
+Utah,OR45,Registered Voters,,,,696
+Utah,OR46,Registered Voters,,,,766
+Utah,OR47,Registered Voters,,,,1000
+Utah,OR47:UN,Registered Voters,,,,3
+Utah,OR47S,Registered Voters,,,,4
+Utah,OR48,Registered Voters,,,,214
+Utah,OR49,Registered Voters,,,,698
+Utah,OR50,Registered Voters,,,,746
+Utah,PA01,Registered Voters,,,,1307
+Utah,PA01:UN,Registered Voters,,,,107
+Utah,PA02,Registered Voters,,,,1470
+Utah,PA03,Registered Voters,,,,1318
+Utah,PA03:UN,Registered Voters,,,,0
+Utah,PA04,Registered Voters,,,,788
+Utah,PA04:UN,Registered Voters,,,,83
+Utah,PA05,Registered Voters,,,,644
+Utah,PA06,Registered Voters,,,,478
+Utah,PA06:UN,Registered Voters,,,,805
+Utah,PA07,Registered Voters,,,,1363
+Utah,PA08,Registered Voters,,,,883
+Utah,PG01,Registered Voters,,,,1122
+Utah,PG01:UN,Registered Voters,,,,0
+Utah,PG01S,Registered Voters,,,,181
+Utah,PG02,Registered Voters,,,,964
+Utah,PG03,Registered Voters,,,,1343
+Utah,PG04,Registered Voters,,,,1195
+Utah,PG05,Registered Voters,,,,731
+Utah,PG05S,Registered Voters,,,,102
+Utah,PG05S:UN,Registered Voters,,,,0
+Utah,PG06,Registered Voters,,,,1440
+Utah,PG07,Registered Voters,,,,1027
+Utah,PG08,Registered Voters,,,,1081
+Utah,PG08:UN,Registered Voters,,,,0
+Utah,PG09,Registered Voters,,,,1341
+Utah,PG10,Registered Voters,,,,1448
+Utah,PG10:UN,Registered Voters,,,,2
+Utah,PG11,Registered Voters,,,,1456
+Utah,PG12,Registered Voters,,,,1010
+Utah,PG13,Registered Voters,,,,1144
+Utah,PG14,Registered Voters,,,,1080
+Utah,PR01,Registered Voters,,,,847
+Utah,PR01:UN,Registered Voters,,,,0
+Utah,PR02,Registered Voters,,,,813
+Utah,PA02,Ballots Cast,,,,1017
+Utah,PA03,Ballots Cast,,,,889
+Utah,PA03:UN,Ballots Cast,,,,0
+Utah,PA04,Ballots Cast,,,,586
+Utah,PA04:UN,Ballots Cast,,,,56
+Utah,PA05,Ballots Cast,,,,440
+Utah,PA06,Ballots Cast,,,,282
+Utah,PA06:UN,Ballots Cast,,,,565
+Utah,PA07,Ballots Cast,,,,978
+Utah,PA08,Ballots Cast,,,,636
+Utah,PG01,Ballots Cast,,,,795
+Utah,PG01:UN,Ballots Cast,,,,0
+Utah,PG01S,Ballots Cast,,,,111
+Utah,PG02,Ballots Cast,,,,543
+Utah,PG03,Ballots Cast,,,,953
+Utah,PG04,Ballots Cast,,,,845
+Utah,PG05,Ballots Cast,,,,401
+Utah,PG05S,Ballots Cast,,,,63
+Utah,PG05S:UN,Ballots Cast,,,,2
+Utah,PG06,Ballots Cast,,,,968
+Utah,PG07,Ballots Cast,,,,715
+Utah,PG08,Ballots Cast,,,,770
+Utah,PG08:UN,Ballots Cast,,,,0
+Utah,PG09,Ballots Cast,,,,967
+Utah,PG10,Ballots Cast,,,,809
+Utah,PG10:UN,Ballots Cast,,,,5
+Utah,PG11,Ballots Cast,,,,1012
+Utah,PG12,Ballots Cast,,,,663
+Utah,PG13,Ballots Cast,,,,739
+Utah,PG14,Ballots Cast,,,,742
+Utah,PR01,Ballots Cast,,,,461
+Utah,PR01:UN,Ballots Cast,,,,0
+Utah,PR02,Ballots Cast,,,,495
+Utah,PR03,Registered Voters,,,,1241
+Utah,PR04,Registered Voters,,,,1011
+Utah,PR05,Registered Voters,,,,877
+Utah,PR06,Registered Voters,,,,632
+Utah,PR07,Registered Voters,,,,1495
+Utah,PR08,Registered Voters,,,,432
+Utah,PR09,Registered Voters,,,,1583
+Utah,PR10,Registered Voters,,,,1192
+Utah,PR11,Registered Voters,,,,702
+Utah,PR12,Registered Voters,,,,1276
+Utah,PR13,Registered Voters,,,,952
+Utah,PR14,Registered Voters,,,,731
+Utah,PR15,Registered Voters,,,,1185
+Utah,PR15:UN,Registered Voters,,,,8
+Utah,PR16,Registered Voters,,,,902
+Utah,PR17,Registered Voters,,,,1160
+Utah,PR18,Registered Voters,,,,1359
+Utah,PR19,Registered Voters,,,,801
+Utah,PR20,Registered Voters,,,,951
+Utah,PR21,Registered Voters,,,,809
+Utah,PR22,Registered Voters,,,,292
+Utah,PR23,Registered Voters,,,,1057
+Utah,PR24,Registered Voters,,,,958
+Utah,PR25,Registered Voters,,,,829
+Utah,PR26,Registered Voters,,,,1347
+Utah,PR27,Registered Voters,,,,1193
+Utah,PR28,Registered Voters,,,,481
+Utah,PR29,Registered Voters,,,,936
+Utah,PR30,Registered Voters,,,,701
+Utah,PR31,Registered Voters,,,,1171
+Utah,PR32,Registered Voters,,,,692
+Utah,PR33,Registered Voters,,,,665
+Utah,PR34,Registered Voters,,,,837
+Utah,PR03,Ballots Cast,,,,764
+Utah,PR04,Ballots Cast,,,,560
+Utah,PR05,Ballots Cast,,,,529
+Utah,PR06,Ballots Cast,,,,355
+Utah,PR07,Ballots Cast,,,,516
+Utah,PR08,Ballots Cast,,,,182
+Utah,PR09,Ballots Cast,,,,561
+Utah,PR10,Ballots Cast,,,,561
+Utah,PR11,Ballots Cast,,,,464
+Utah,PR12,Ballots Cast,,,,565
+Utah,PR13,Ballots Cast,,,,689
+Utah,PR14,Ballots Cast,,,,459
+Utah,PR15,Ballots Cast,,,,909
+Utah,PR15:UN,Ballots Cast,,,,7
+Utah,PR16,Ballots Cast,,,,632
+Utah,PR17,Ballots Cast,,,,778
+Utah,PR18,Ballots Cast,,,,894
+Utah,PR19,Ballots Cast,,,,560
+Utah,PR20,Ballots Cast,,,,655
+Utah,PR21,Ballots Cast,,,,483
+Utah,PR22,Ballots Cast,,,,171
+Utah,PR23,Ballots Cast,,,,567
+Utah,PR24,Ballots Cast,,,,619
+Utah,PR25,Ballots Cast,,,,594
+Utah,PR26,Ballots Cast,,,,718
+Utah,PR27,Ballots Cast,,,,779
+Utah,PR28,Ballots Cast,,,,281
+Utah,PR29,Ballots Cast,,,,279
+Utah,PR30,Ballots Cast,,,,503
+Utah,PR31,Ballots Cast,,,,835
+Utah,PR32,Ballots Cast,,,,507
+Utah,PR33,Ballots Cast,,,,332
+Utah,PR34,Ballots Cast,,,,280
+Utah,PR35,Ballots Cast,,,,709
+Utah,PR36,Ballots Cast,,,,911
+Utah,PR37,Ballots Cast,,,,553
+Utah,PR38,Ballots Cast,,,,356
+Utah,PR39,Ballots Cast,,,,706
+Utah,PR40,Ballots Cast,,,,570
+Utah,PR41,Ballots Cast,,,,574
+Utah,PR42,Ballots Cast,,,,645
+Utah,PR43,Ballots Cast,,,,454
+Utah,PR44,Ballots Cast,,,,501
+Utah,PR45,Ballots Cast,,,,736
+Utah,SA01,Ballots Cast,,,,149
+Utah,SA02,Ballots Cast,,,,1359
+Utah,SA02:UN,Ballots Cast,,,,90
+Utah,SA03,Ballots Cast,,,,1075
+Utah,SA03:UN,Ballots Cast,,,,0
+Utah,SA04,Ballots Cast,,,,369
+Utah,SA04:UN,Ballots Cast,,,,101
+Utah,SA05,Ballots Cast,,,,153
+Utah,SF01,Ballots Cast,,,,518
+Utah,SF02,Ballots Cast,,,,584
+Utah,SF02:UN,Ballots Cast,,,,85
+Utah,SF03,Ballots Cast,,,,538
+Utah,SF04,Ballots Cast,,,,549
+Utah,SF04:UN,Ballots Cast,,,,36
+Utah,SF05,Ballots Cast,,,,788
+Utah,SF06,Ballots Cast,,,,495
+Utah,SF07,Ballots Cast,,,,31
+Utah,SF07:UN,Ballots Cast,,,,208
+Utah,SF07S,Ballots Cast,,,,5
+Utah,SF08,Ballots Cast,,,,1074
+Utah,SF08:UN,Ballots Cast,,,,35
+Utah,SF09,Ballots Cast,,,,1105
+Utah,PR35,Registered Voters,,,,1112
+Utah,PR36,Registered Voters,,,,1262
+Utah,PR37,Registered Voters,,,,763
+Utah,PR38,Registered Voters,,,,492
+Utah,PR39,Registered Voters,,,,955
+Utah,PR40,Registered Voters,,,,740
+Utah,PR41,Registered Voters,,,,839
+Utah,PR42,Registered Voters,,,,935
+Utah,PR43,Registered Voters,,,,761
+Utah,PR44,Registered Voters,,,,965
+Utah,PR45,Registered Voters,,,,1207
+Utah,SA01,Registered Voters,,,,208
+Utah,SA02,Registered Voters,,,,1837
+Utah,SA02:UN,Registered Voters,,,,115
+Utah,SA03,Registered Voters,,,,1445
+Utah,SA03:UN,Registered Voters,,,,0
+Utah,SA04,Registered Voters,,,,554
+Utah,SA04:UN,Registered Voters,,,,96
+Utah,SA05,Registered Voters,,,,194
+Utah,SF01,Registered Voters,,,,730
+Utah,SF02,Registered Voters,,,,841
+Utah,SF02:UN,Registered Voters,,,,88
+Utah,SF03,Registered Voters,,,,843
+Utah,SF04,Registered Voters,,,,904
+Utah,SF04:UN,Registered Voters,,,,2
+Utah,SF05,Registered Voters,,,,1181
+Utah,SF06,Registered Voters,,,,683
+Utah,SF07,Registered Voters,,,,35
+Utah,SF07:UN,Registered Voters,,,,267
+Utah,SF07S,Registered Voters,,,,5
+Utah,SF08,Registered Voters,,,,1578
+Utah,SF08:UN,Registered Voters,,,,17
+Utah,SF09,Registered Voters,,,,1671
+Utah,SF09:UN,Ballots Cast,,,,10
+Utah,SF10,Ballots Cast,,,,571
+Utah,SF11,Ballots Cast,,,,876
+Utah,SF12,Ballots Cast,,,,672
+Utah,SF12:UN,Ballots Cast,,,,0
+Utah,SF13,Ballots Cast,,,,654
+Utah,SF13:UN,Ballots Cast,,,,15
+Utah,SF14,Ballots Cast,,,,513
+Utah,SF15,Ballots Cast,,,,900
+Utah,SF16,Ballots Cast,,,,971
+Utah,SF17,Ballots Cast,,,,581
+Utah,SF17:UN,Ballots Cast,,,,0
+Utah,SP01,Ballots Cast,,,,799
+Utah,SP02,Ballots Cast,,,,271
+Utah,SP02:UN,Ballots Cast,,,,0
+Utah,SP03,Ballots Cast,,,,47
+Utah,SP03:UN,Ballots Cast,,,,3
+Utah,SP04,Ballots Cast,,,,617
+Utah,SP04:UN,Ballots Cast,,,,0
+Utah,SP05,Ballots Cast,,,,626
+Utah,SP06,Ballots Cast,,,,694
+Utah,SP07,Ballots Cast,,,,985
+Utah,SP07:UN,Ballots Cast,,,,188
+Utah,SP08,Ballots Cast,,,,578
+Utah,SP09,Ballots Cast,,,,946
+Utah,SP09:UN,Ballots Cast,,,,0
+Utah,SP10,Ballots Cast,,,,700
+Utah,SP11,Ballots Cast,,,,675
+Utah,SP12,Ballots Cast,,,,646
+Utah,SP13,Ballots Cast,,,,419
+Utah,SP14,Ballots Cast,,,,585
+Utah,SP14:UN,Ballots Cast,,,,0
+Utah,SP15,Ballots Cast,,,,440
+Utah,SF09:UN,Registered Voters,,,,16
+Utah,SF10,Registered Voters,,,,775
+Utah,SF11,Registered Voters,,,,1240
+Utah,SF12,Registered Voters,,,,919
+Utah,SF12:UN,Registered Voters,,,,0
+Utah,SF13,Registered Voters,,,,942
+Utah,SF13:UN,Registered Voters,,,,6
+Utah,SF14,Registered Voters,,,,759
+Utah,SF15,Registered Voters,,,,1285
+Utah,SF16,Registered Voters,,,,1360
+Utah,SF17,Registered Voters,,,,840
+Utah,SF17:UN,Registered Voters,,,,0
+Utah,SP01,Registered Voters,,,,1183
+Utah,SP02,Registered Voters,,,,433
+Utah,SP02:UN,Registered Voters,,,,0
+Utah,SP03,Registered Voters,,,,70
+Utah,SP03:UN,Registered Voters,,,,3
+Utah,SP04,Registered Voters,,,,885
+Utah,SP04:UN,Registered Voters,,,,2
+Utah,SP05,Registered Voters,,,,823
+Utah,SP06,Registered Voters,,,,986
+Utah,SP07,Registered Voters,,,,1293
+Utah,SP07:UN,Registered Voters,,,,257
+Utah,SP08,Registered Voters,,,,812
+Utah,SP09,Registered Voters,,,,1347
+Utah,SP09:UN,Registered Voters,,,,0
+Utah,SP10,Registered Voters,,,,975
+Utah,SP11,Registered Voters,,,,969
+Utah,SP12,Registered Voters,,,,872
+Utah,SP13,Registered Voters,,,,597
+Utah,SP14,Registered Voters,,,,800
+Utah,SP14:UN,Registered Voters,,,,0
+Utah,SP15,Registered Voters,,,,642
+Utah,SP16,Ballots Cast,,,,587
+Utah,SP17,Ballots Cast,,,,196
+Utah,SP18,Ballots Cast,,,,357
+Utah,SQ01,Ballots Cast,,,,822
+Utah,SQ01:UN,Ballots Cast,,,,105
+Utah,SQ02,Ballots Cast,,,,1270
+Utah,SQ02:UN,Ballots Cast,,,,7
+Utah,SQ03,Ballots Cast,,,,751
+Utah,SQ03:UN,Ballots Cast,,,,6
+Utah,SQ04,Ballots Cast,,,,276
+Utah,SQ04:UN,Ballots Cast,,,,9
+Utah,SR01,Ballots Cast,,,,995
+Utah,SR02,Ballots Cast,,,,758
+Utah,SR02:UN,Ballots Cast,,,,6
+Utah,SR03,Ballots Cast,,,,934
+Utah,SR03:UN,Ballots Cast,,,,40
+Utah,SR04,Ballots Cast,,,,601
+Utah,SR05,Ballots Cast,,,,790
+Utah,SR06,Ballots Cast,,,,1062
+Utah,SR07,Ballots Cast,,,,902
+Utah,SR08,Ballots Cast,,,,692
+Utah,SR08:UN,Ballots Cast,,,,0
+Utah,SR09,Ballots Cast,,,,969
+Utah,SR10,Ballots Cast,,,,970
+Utah,UCBE1,Ballots Cast,,,,0
+Utah,UCBE2,Ballots Cast,,,,38
+Utah,UCCB1,Ballots Cast,,,,125
+Utah,UCCF1,Ballots Cast,,,,0
+Utah,UCCF2,Ballots Cast,,,,0
+Utah,UCEL1,Ballots Cast,,,,76
+Utah,UCEL2,Ballots Cast,,,,58
+Utah,UCFF,Ballots Cast,,,,5
+Utah,UCLS1,Ballots Cast,,,,538
+Utah,SP16,Registered Voters,,,,874
+Utah,SP17,Registered Voters,,,,359
+Utah,SP18,Registered Voters,,,,509
+Utah,SQ01,Registered Voters,,,,1237
+Utah,SQ01:UN,Registered Voters,,,,85
+Utah,SQ02,Registered Voters,,,,1753
+Utah,SQ02:UN,Registered Voters,,,,7
+Utah,SQ03,Registered Voters,,,,1055
+Utah,SQ03:UN,Registered Voters,,,,4
+Utah,SQ04,Registered Voters,,,,402
+Utah,SQ04:UN,Registered Voters,,,,8
+Utah,SR01,Registered Voters,,,,1348
+Utah,SR02,Registered Voters,,,,1046
+Utah,SR02:UN,Registered Voters,,,,0
+Utah,SR03,Registered Voters,,,,1353
+Utah,SR03:UN,Registered Voters,,,,10
+Utah,SR04,Registered Voters,,,,1024
+Utah,SR05,Registered Voters,,,,1173
+Utah,SR06,Registered Voters,,,,1630
+Utah,SR07,Registered Voters,,,,1244
+Utah,SR08,Registered Voters,,,,969
+Utah,SR08:UN,Registered Voters,,,,0
+Utah,SR09,Registered Voters,,,,1391
+Utah,SR10,Registered Voters,,,,1506
+Utah,UCBE1,Registered Voters,,,,2
+Utah,UCBE2,Registered Voters,,,,55
+Utah,UCCB1,Registered Voters,,,,171
+Utah,UCCF1,Registered Voters,,,,0
+Utah,UCCF2,Registered Voters,,,,0
+Utah,UCEL1,Registered Voters,,,,97
+Utah,UCEL2,Registered Voters,,,,84
+Utah,UCFF,Registered Voters,,,,6
+Utah,UCLS1,Registered Voters,,,,768
+Utah,UCLS2,Ballots Cast,,,,218
+Utah,UCLV,Ballots Cast,,,,0
+Utah,UCPC1,Ballots Cast,,,,112
+Utah,UCPC2,Ballots Cast,,,,90
+Utah,UCSL,Ballots Cast,,,,228
+Utah,UCUL1,Ballots Cast,,,,0
+Utah,UCUL2,Ballots Cast,,,,0
+Utah,VI01,Ballots Cast,,,,1228
+Utah,VI01S,Ballots Cast,,,,45
+Utah,VI01S2,Ballots Cast,,,,22
+Utah,VI01UL,Ballots Cast,,,,0
+Utah,VI02,Ballots Cast,,,,259
+Utah,WH01,Ballots Cast,,,,644
+Utah,UCLS2,Registered Voters,,,,334
+Utah,UCLV,Registered Voters,,,,0
+Utah,UCPC1,Registered Voters,,,,137
+Utah,UCPC2,Registered Voters,,,,125
+Utah,UCSL,Registered Voters,,,,312
+Utah,UCUL1,Registered Voters,,,,0
+Utah,UCUL2,Registered Voters,,,,0
+Utah,VI01,Registered Voters,,,,1744
+Utah,VI01S,Registered Voters,,,,51
+Utah,VI01S2,Registered Voters,,,,33
+Utah,VI01UL,Registered Voters,,,,0
+Utah,VI02,Registered Voters,,,,527
+Utah,WH01,Registered Voters,,,,863
 Utah,AF01,U.S. Senate,,Con,Tim Aalders,23
 Utah,AF01:UN,U.S. Senate,,Con,Tim Aalders,2
 Utah,AF01S,U.S. Senate,,Con,Tim Aalders,0

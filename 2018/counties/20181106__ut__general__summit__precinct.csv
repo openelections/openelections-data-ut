@@ -1,106 +1,106 @@
 county,precinct,office,district,party,candidate,votes
-Summit,Bitner,,,,Registered,840
-Summit,Chalk Creek,,,,Registered,277
-Summit,Coalville,,,,Registered,667
-Summit,Deer Valley North,,,,Registered,354
-Summit,Deer Valley South,,,,Registered,817
-Summit,Francis,,,,Registered,765
-Summit,Highland Estates East,,,,Registered,755
-Summit,Henefer,,,,Registered,471
-Summit,Highland Estates West,,,,Registered,682
-Summit,Hoytsville,,,,Registered,296
-Summit,Hoytsville uninc,,,,Registered,227
-Summit,Jeremy East,,,,Registered,820
-Summit,Jeremy West,,,,Registered,579
-Summit,Kamas,,,,Registered,898
-Summit,Kimball Canyon,,,,Registered,142
-Summit,Lower Pinebrook,,,,Registered,1084
-Summit,Moose Hollow,,,,Registered,781
-Summit,North Summit North,,,,Registered,195
-Summit,Oakley,,,,Registered,841
-Summit,Old Town North,,,,Registered,440
-Summit,Old Town South,,,,Registered,265
-Summit,Park West,,,,Registered,1320
-Summit,Peoa 15:20,,,,Registered,513
-Summit,Peoa 15:25,,,,Registered,0
-Summit,Peoa 15:32,,,,Registered,0
-Summit,Pinebrook North,,,,Registered,531
-Summit,Park Meadows North,,,,Registered,810
-Summit,Park Meadows South,,,,Registered,443
-Summit,Promontory Ridge,,,,Registered,100
-Summit,Prospector,,,,Registered,366
-Summit,Quarry Mtn,,,,Registered,831
-Summit,Ranch Road South,,,,Registered,412
-Summit,Ranch Place,,,,Registered,784
-Summit,Lower Silver Creek,,,,Registered,484
-Summit,Upper Silver Creek,,,,Registered,343
-Summit,Sidewinder,,,,Registered,451
-Summit,Silver Springs,,,,Registered,705
-Summit,Snyders Mills,,,,Registered,524
-Summit,South Summit East,,,,Registered,466
-Summit,South Summit South,,,,Registered,339
-Summit,South Summit West,,,,Registered,345
-Summit,Summit Park East,,,,Registered,912
-Summit,Summit Park West,,,,Registered,324
-Summit,Thaynes Canyon,,,,Registered,468
-Summit,Upper Pinebrook,,,,Registered,380
-Summit,Wagon Wheel,,,,Registered,347
-Summit,Wanship 17:10,,,,Registered,831
-Summit,Wanship 17:2,,,,Registered,0
-Summit,Wanship 17:32,,,,Registered,0
-Summit,Weber Canyon 21:20,,,,Registered,195
-Summit,Weber Canyon 21:25,,,,Registered,0
-Summit,Bitner,,,,Ballots,649
-Summit,Chalk Creek,,,,Ballots,196
-Summit,Coalville,,,,Ballots,527
-Summit,Deer Valley North,,,,Ballots,293
-Summit,Deer Valley South,,,,Ballots,671
-Summit,Francis,,,,Ballots,592
-Summit,Highland Estates East,,,,Ballots,614
-Summit,Henefer,,,,Ballots,330
-Summit,Highland Estates West,,,,Ballots,559
-Summit,Hoytsville,,,,Ballots,263
-Summit,Hoytsville uninc,,,,Ballots,178
-Summit,Jeremy East,,,,Ballots,670
-Summit,Jeremy West,,,,Ballots,476
-Summit,Kamas,,,,Ballots,708
-Summit,Kimball Canyon,,,,Ballots,118
-Summit,Lower Pinebrook,,,,Ballots,879
-Summit,Moose Hollow,,,,Ballots,643
-Summit,North Summit North,,,,Ballots,140
-Summit,Oakley,,,,Ballots,661
-Summit,Old Town North,,,,Ballots,352
-Summit,Old Town South,,,,Ballots,230
-Summit,Park West,,,,Ballots,940
-Summit,Peoa 15:20,,,,Ballots,177
-Summit,Peoa 15:25,,,,Ballots,15
-Summit,Peoa 15:32,,,,Ballots,200
-Summit,Pinebrook North,,,,Ballots,439
-Summit,Park Meadows North,,,,Ballots,687
-Summit,Park Meadows South,,,,Ballots,362
-Summit,Promontory Ridge,,,,Ballots,74
-Summit,Prospector,,,,Ballots,271
-Summit,Quarry Mtn,,,,Ballots,701
-Summit,Ranch Road South,,,,Ballots,318
-Summit,Ranch Place,,,,Ballots,649
-Summit,Lower Silver Creek,,,,Ballots,401
-Summit,Upper Silver Creek,,,,Ballots,272
-Summit,Sidewinder,,,,Ballots,363
-Summit,Silver Springs,,,,Ballots,583
-Summit,Snyders Mills,,,,Ballots,453
-Summit,South Summit East,,,,Ballots,386
-Summit,South Summit South,,,,Ballots,299
-Summit,South Summit West,,,,Ballots,272
-Summit,Summit Park East,,,,Ballots,774
-Summit,Summit Park West,,,,Ballots,281
-Summit,Thaynes Canyon,,,,Ballots,394
-Summit,Upper Pinebrook,,,,Ballots,306
-Summit,Wagon Wheel,,,,Ballots,285
-Summit,Wanship 17:10,,,,Ballots,404
-Summit,Wanship 17:2,,,,Ballots,210
-Summit,Wanship 17:32,,,,Ballots,31
-Summit,Weber Canyon 21:20,,,,Ballots,158
-Summit,Weber Canyon 21:25,,,,Ballots,17
+Summit,Bitner,Registered Voters,,,,840
+Summit,Chalk Creek,Registered Voters,,,,277
+Summit,Coalville,Registered Voters,,,,667
+Summit,Deer Valley North,Registered Voters,,,,354
+Summit,Deer Valley South,Registered Voters,,,,817
+Summit,Francis,Registered Voters,,,,765
+Summit,Highland Estates East,Registered Voters,,,,755
+Summit,Henefer,Registered Voters,,,,471
+Summit,Highland Estates West,Registered Voters,,,,682
+Summit,Hoytsville,Registered Voters,,,,296
+Summit,Hoytsville uninc,Registered Voters,,,,227
+Summit,Jeremy East,Registered Voters,,,,820
+Summit,Jeremy West,Registered Voters,,,,579
+Summit,Kamas,Registered Voters,,,,898
+Summit,Kimball Canyon,Registered Voters,,,,142
+Summit,Lower Pinebrook,Registered Voters,,,,1084
+Summit,Moose Hollow,Registered Voters,,,,781
+Summit,North Summit North,Registered Voters,,,,195
+Summit,Oakley,Registered Voters,,,,841
+Summit,Old Town North,Registered Voters,,,,440
+Summit,Old Town South,Registered Voters,,,,265
+Summit,Park West,Registered Voters,,,,1320
+Summit,Peoa 15:20,Registered Voters,,,,513
+Summit,Peoa 15:25,Registered Voters,,,,0
+Summit,Peoa 15:32,Registered Voters,,,,0
+Summit,Pinebrook North,Registered Voters,,,,531
+Summit,Park Meadows North,Registered Voters,,,,810
+Summit,Park Meadows South,Registered Voters,,,,443
+Summit,Promontory Ridge,Registered Voters,,,,100
+Summit,Prospector,Registered Voters,,,,366
+Summit,Quarry Mtn,Registered Voters,,,,831
+Summit,Ranch Road South,Registered Voters,,,,412
+Summit,Ranch Place,Registered Voters,,,,784
+Summit,Lower Silver Creek,Registered Voters,,,,484
+Summit,Upper Silver Creek,Registered Voters,,,,343
+Summit,Sidewinder,Registered Voters,,,,451
+Summit,Silver Springs,Registered Voters,,,,705
+Summit,Snyders Mills,Registered Voters,,,,524
+Summit,South Summit East,Registered Voters,,,,466
+Summit,South Summit South,Registered Voters,,,,339
+Summit,South Summit West,Registered Voters,,,,345
+Summit,Summit Park East,Registered Voters,,,,912
+Summit,Summit Park West,Registered Voters,,,,324
+Summit,Thaynes Canyon,Registered Voters,,,,468
+Summit,Upper Pinebrook,Registered Voters,,,,380
+Summit,Wagon Wheel,Registered Voters,,,,347
+Summit,Wanship 17:10,Registered Voters,,,,831
+Summit,Wanship 17:2,Registered Voters,,,,0
+Summit,Wanship 17:32,Registered Voters,,,,0
+Summit,Weber Canyon 21:20,Registered Voters,,,,195
+Summit,Weber Canyon 21:25,Registered Voters,,,,0
+Summit,Bitner,Ballots Cast,,,,649
+Summit,Chalk Creek,Ballots Cast,,,,196
+Summit,Coalville,Ballots Cast,,,,527
+Summit,Deer Valley North,Ballots Cast,,,,293
+Summit,Deer Valley South,Ballots Cast,,,,671
+Summit,Francis,Ballots Cast,,,,592
+Summit,Highland Estates East,Ballots Cast,,,,614
+Summit,Henefer,Ballots Cast,,,,330
+Summit,Highland Estates West,Ballots Cast,,,,559
+Summit,Hoytsville,Ballots Cast,,,,263
+Summit,Hoytsville uninc,Ballots Cast,,,,178
+Summit,Jeremy East,Ballots Cast,,,,670
+Summit,Jeremy West,Ballots Cast,,,,476
+Summit,Kamas,Ballots Cast,,,,708
+Summit,Kimball Canyon,Ballots Cast,,,,118
+Summit,Lower Pinebrook,Ballots Cast,,,,879
+Summit,Moose Hollow,Ballots Cast,,,,643
+Summit,North Summit North,Ballots Cast,,,,140
+Summit,Oakley,Ballots Cast,,,,661
+Summit,Old Town North,Ballots Cast,,,,352
+Summit,Old Town South,Ballots Cast,,,,230
+Summit,Park West,Ballots Cast,,,,940
+Summit,Peoa 15:20,Ballots Cast,,,,177
+Summit,Peoa 15:25,Ballots Cast,,,,15
+Summit,Peoa 15:32,Ballots Cast,,,,200
+Summit,Pinebrook North,Ballots Cast,,,,439
+Summit,Park Meadows North,Ballots Cast,,,,687
+Summit,Park Meadows South,Ballots Cast,,,,362
+Summit,Promontory Ridge,Ballots Cast,,,,74
+Summit,Prospector,Ballots Cast,,,,271
+Summit,Quarry Mtn,Ballots Cast,,,,701
+Summit,Ranch Road South,Ballots Cast,,,,318
+Summit,Ranch Place,Ballots Cast,,,,649
+Summit,Lower Silver Creek,Ballots Cast,,,,401
+Summit,Upper Silver Creek,Ballots Cast,,,,272
+Summit,Sidewinder,Ballots Cast,,,,363
+Summit,Silver Springs,Ballots Cast,,,,583
+Summit,Snyders Mills,Ballots Cast,,,,453
+Summit,South Summit East,Ballots Cast,,,,386
+Summit,South Summit South,Ballots Cast,,,,299
+Summit,South Summit West,Ballots Cast,,,,272
+Summit,Summit Park East,Ballots Cast,,,,774
+Summit,Summit Park West,Ballots Cast,,,,281
+Summit,Thaynes Canyon,Ballots Cast,,,,394
+Summit,Upper Pinebrook,Ballots Cast,,,,306
+Summit,Wagon Wheel,Ballots Cast,,,,285
+Summit,Wanship 17:10,Ballots Cast,,,,404
+Summit,Wanship 17:2,Ballots Cast,,,,210
+Summit,Wanship 17:32,Ballots Cast,,,,31
+Summit,Weber Canyon 21:20,Ballots Cast,,,,158
+Summit,Weber Canyon 21:25,Ballots Cast,,,,17
 Summit,Bitner,U.S. Senate,,Con,Tim Aalders,9
 Summit,Chalk Creek,U.S. Senate,,Con,Tim Aalders,3
 Summit,Coalville,U.S. Senate,,Con,Tim Aalders,23
