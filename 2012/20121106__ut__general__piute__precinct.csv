@@ -1,5 +1,5 @@
 candidate,office,district,party,county,precinct,polling,absentee,provisional,early,votes
-,Registered Voters,,,Piute,Marysvale,332,332,332,332,332
+,Registered Voters,,,Piute,Marysvale,332,,,332,332
 ,Ballots Cast,,,Piute,Marysvale,186,49,23,1,259
 ,Straight Party,,CON,Piute,Marysvale,1,0,0,0,1
 ,Straight Party,,LIB,Piute,Marysvale,0,0,0,0,0
@@ -41,7 +41,7 @@ Ralph Okerlund,State Senate,24,REP,Piute,Marysvale,153,35,22,0,210
 Trestin Meacham,State Senate,24,CON,Piute,Marysvale,21,8,1,1,31
 Michael Noel,State House,,REP,Piute,Marysvale,146,35,22,1,204
 Ty Markham,State House,,JUS,Piute,Marysvale,19,6,1,0,26
-,Registered Voters,,,Piute,Junction,127,127,127,127,127
+,Registered Voters,,,Piute,Junction,127,,,127,127
 ,Ballots Cast,,,Piute,Junction,50,34,14,0,98
 ,Straight Party,,CON,Piute,Junction,0,0,0,0,0
 ,Straight Party,,LIB,Piute,Junction,1,0,0,0,1
@@ -83,7 +83,7 @@ Ralph Okerlund,State Senate,24,REP,Piute,Junction,44,29,10,0,83
 Trestin Meacham,State Senate,24,CON,Piute,Junction,5,2,1,0,8
 Michael Noel,State House,,REP,Piute,Junction,39,29,9,0,77
 Ty Markham,State House,,JUS,Piute,Junction,9,3,1,0,13
-,Registered Voters,,,Piute,Circleville 1,155,155,155,155,155
+,Registered Voters,,,Piute,Circleville 1,155,,,155,155
 ,Ballots Cast,,,Piute,Circleville 1,75,31,13,0,119
 ,Straight Party,,CON,Piute,Circleville 1,0,0,0,0,0
 ,Straight Party,,LIB,Piute,Circleville 1,0,0,0,0,0
@@ -125,7 +125,7 @@ Ralph Okerlund,State Senate,24,REP,Piute,Circleville 1,64,27,12,0,103
 Trestin Meacham,State Senate,24,CON,Piute,Circleville 1,4,2,1,0,7
 Michael Noel,State House,,REP,Piute,Circleville 1,64,26,10,0,100
 Ty Markham,State House,,JUS,Piute,Circleville 1,6,4,1,0,11
-,Registered Voters,,,Piute,Circleville 2,142,142,142,142,142
+,Registered Voters,,,Piute,Circleville 2,142,,,142,142
 ,Ballots Cast,,,Piute,Circleville 2,86,29,12,0,127
 ,Straight Party,,CON,Piute,Circleville 2,0,0,0,0,0
 ,Straight Party,,LIB,Piute,Circleville 2,0,0,0,0,0
@@ -167,7 +167,7 @@ Ralph Okerlund,State Senate,24,REP,Piute,Circleville 2,71,26,12,0,109
 Trestin Meacham,State Senate,24,CON,Piute,Circleville 2,7,2,0,0,9
 Michael Noel,State House,,REP,Piute,Circleville 2,70,24,11,0,105
 Ty Markham,State House,,JUS,Piute,Circleville 2,7,3,1,0,11
-,Registered Voters,,,Piute,Kingston,147,147,147,147,147
+,Registered Voters,,,Piute,Kingston,147,,,147,147
 ,Ballots Cast,,,Piute,Kingston,87,23,20,0,130
 ,Straight Party,,CON,Piute,Kingston,0,0,0,0,0
 ,Straight Party,,LIB,Piute,Kingston,1,0,0,0,1
@@ -209,7 +209,7 @@ Ralph Okerlund,State Senate,24,REP,Piute,Kingston,79,16,16,0,111
 Trestin Meacham,State Senate,24,CON,Piute,Kingston,3,5,1,0,9
 Michael Noel,State House,,REP,Piute,Kingston,75,15,17,0,107
 Ty Markham,State House,,JUS,Piute,Kingston,6,5,0,0,11
-,Registered Voters,,,Piute,Greenwich,73,73,73,73,73
+,Registered Voters,,,Piute,Greenwich,73,,,73,73
 ,Ballots Cast,,,Piute,Greenwich,59,0,6,0,65
 ,Straight Party,,CON,Piute,Greenwich,0,0,0,0,0
 ,Straight Party,,LIB,Piute,Greenwich,0,0,0,0,0
@@ -251,7 +251,7 @@ Ralph Okerlund,State Senate,24,REP,Piute,Greenwich,50,0,6,0,56
 Trestin Meacham,State Senate,24,CON,Piute,Greenwich,6,0,0,0,6
 Michael Noel,State House,,REP,Piute,Greenwich,45,0,6,0,51
 Ty Markham,State House,,JUS,Piute,Greenwich,10,0,0,0,10
-,Registered Voters,,,Piute,TOTAL,976,976,976,976,976
+,Registered Voters,,,Piute,TOTAL,976,,,976,976
 ,Ballots Cast,,,Piute,TOTAL,543,166,88,1,798
 ,Straight Party,,CON,Piute,TOTAL,1,0,0,0,1
 ,Straight Party,,LIB,Piute,TOTAL,2,0,0,0,2

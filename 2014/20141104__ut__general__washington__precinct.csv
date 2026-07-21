@@ -1,107 +1,107 @@
 county,precinct,office,district,candidate,party,polling,early,absentee,paper,provisional,votes
-Washington,AV51,Registered Voters,,,,365,365,365,365,365,365
-Washington,COAND,Registered Voters,,,,3,3,3,3,3,3
-Washington,COCDSR,Registered Voters,,,,108,108,108,108,108,108
-Washington,COCNBR,Registered Voters,,,,201,201,201,201,201,201
-Washington,CODAV,Registered Voters,,,,467,467,467,467,467,467
-Washington,CODIV,Registered Voters,,,,607,607,607,607,607,607
-Washington,CODXDR,Registered Voters,,,,254,254,254,254,254,254
-Washington,COGL,Registered Voters,,,,50,50,50,50,50,50
-Washington,COGUBL,Registered Voters,,,,2,2,2,2,2,2
-Washington,COHS74,Registered Voters,,,,26,26,26,26,26,26
-Washington,COHV28,Registered Voters,,,,24,24,24,24,24,24
-Washington,COHV29,Registered Voters,,,,5,5,5,5,5,5
-Washington,COLEED,Registered Voters,,,,175,175,175,175,175,175
-Washington,CONCF,Registered Voters,,,,122,122,122,122,122,122
-Washington,CONH,Registered Voters,,,,573,573,573,573,573,573
-Washington,COPINE,Registered Voters,,,,123,123,123,123,123,123
-Washington,COSN28,Registered Voters,,,,33,33,33,33,33,33
-Washington,COVE,Registered Voters,,,,257,257,257,257,257,257
-Washington,COWH,Registered Voters,,,,588,588,588,588,588,588
-Washington,EN82,Registered Voters,,,,758,758,758,758,758,758
-Washington,HIL97,Registered Voters,,,,340,340,340,340,340,340
-Washington,HU52,Registered Voters,,,,790,790,790,790,790,790
-Washington,HU53,Registered Voters,,,,834,834,834,834,834,834
-Washington,HU54,Registered Voters,,,,807,807,807,807,807,807
-Washington,HU55,Registered Voters,,,,545,545,545,545,545,545
-Washington,HU56,Registered Voters,,,,948,948,948,948,948,948
-Washington,HU57,Registered Voters,,,,1157,1157,1157,1157,1157,1157
-Washington,HU58,Registered Voters,,,,908,908,908,908,908,908
-Washington,HU59,Registered Voters,,,,726,726,726,726,726,726
-Washington,IV76,Registered Voters,,,,905,905,905,905,905,905
-Washington,IV77,Registered Voters,,,,862,862,862,862,862,862
-Washington,IV78,Registered Voters,,,,1026,1026,1026,1026,1026,1026
-Washington,IV79,Registered Voters,,,,995,995,995,995,995,995
-Washington,LA85,Registered Voters,,,,646,646,646,646,646,646
-Washington,LA86,Registered Voters,,,,601,601,601,601,601,601
-Washington,LA87,Registered Voters,,,,526,526,526,526,526,526
-Washington,LE90,Registered Voters,,,,429,429,429,429,429,429
-Washington,NH93,Registered Voters,,,,127,127,127,127,127,127
-Washington,RC94,Registered Voters,,,,167,167,167,167,167,167
-Washington,SC71,Registered Voters,,,,997,997,997,997,997,997
-Washington,SC72,Registered Voters,,,,610,610,610,610,610,610
-Washington,SC73,Registered Voters,,,,633,633,633,633,633,633
-Washington,SC74,Registered Voters,,,,1107,1107,1107,1107,1107,1107
-Washington,SG01,Registered Voters,,,,576,576,576,576,576,576
-Washington,SG02,Registered Voters,,,,552,552,552,552,552,552
-Washington,SG03,Registered Voters,,,,628,628,628,628,628,628
-Washington,SG04,Registered Voters,,,,478,478,478,478,478,478
-Washington,SG05,Registered Voters,,,,571,571,571,571,571,571
-Washington,SG06,Registered Voters,,,,743,743,743,743,743,743
-Washington,SG07,Registered Voters,,,,676,676,676,676,676,676
-Washington,SG08,Registered Voters,,,,748,748,748,748,748,748
-Washington,SG09,Registered Voters,,,,778,778,778,778,778,778
-Washington,SG10,Registered Voters,,,,423,423,423,423,423,423
-Washington,SG11,Registered Voters,,,,597,597,597,597,597,597
-Washington,SG12,Registered Voters,,,,830,830,830,830,830,830
-Washington,SG13,Registered Voters,,,,811,811,811,811,811,811
-Washington,SG14,Registered Voters,,,,1163,1163,1163,1163,1163,1163
-Washington,SG15,Registered Voters,,,,898,898,898,898,898,898
-Washington,SG16,Registered Voters,,,,717,717,717,717,717,717
-Washington,SG17,Registered Voters,,,,902,902,902,902,902,902
-Washington,SG18,Registered Voters,,,,881,881,881,881,881,881
-Washington,SG19,Registered Voters,,,,901,901,901,901,901,901
-Washington,SG20,Registered Voters,,,,1074,1074,1074,1074,1074,1074
-Washington,SG21,Registered Voters,,,,931,931,931,931,931,931
-Washington,SG22,Registered Voters,,,,956,956,956,956,956,956
-Washington,SG23,Registered Voters,,,,892,892,892,892,892,892
-Washington,SG24,Registered Voters,,,,507,507,507,507,507,507
-Washington,SG25,Registered Voters,,,,641,641,641,641,641,641
-Washington,SG26,Registered Voters,,,,718,718,718,718,718,718
-Washington,SG27,Registered Voters,,,,853,853,853,853,853,853
-Washington,SG28,Registered Voters,,,,999,999,999,999,999,999
-Washington,SG29,Registered Voters,,,,856,856,856,856,856,856
-Washington,SG30,Registered Voters,,,,1083,1083,1083,1083,1083,1083
-Washington,SG31,Registered Voters,,,,856,856,856,856,856,856
-Washington,SG32,Registered Voters,,,,896,896,896,896,896,896
-Washington,SG33,Registered Voters,,,,603,603,603,603,603,603
-Washington,SG34,Registered Voters,,,,913,913,913,913,913,913
-Washington,SG35,Registered Voters,,,,741,741,741,741,741,741
-Washington,SG36,Registered Voters,,,,808,808,808,808,808,808
-Washington,SG37,Registered Voters,,,,845,845,845,845,845,845
-Washington,SG38,Registered Voters,,,,829,829,829,829,829,829
-Washington,SG39,Registered Voters,,,,905,905,905,905,905,905
-Washington,SG40,Registered Voters,,,,749,749,749,749,749,749
-Washington,SG41,Registered Voters,,,,664,664,664,664,664,664
-Washington,SG42,Registered Voters,,,,656,656,656,656,656,656
-Washington,SG43,Registered Voters,,,,577,577,577,577,577,577
-Washington,SG44,Registered Voters,,,,314,314,314,314,314,314
-Washington,SG45,Registered Voters,,,,778,778,778,778,778,778
-Washington,SG46,Registered Voters,,,,767,767,767,767,767,767
-Washington,SP95,Registered Voters,,,,289,289,289,289,289,289
-Washington,TQ96,Registered Voters,,,,799,799,799,799,799,799
-Washington,VI89,Registered Voters,,,,275,275,275,275,275,275
-Washington,WA60,Registered Voters,,,,1056,1056,1056,1056,1056,1056
-Washington,WA61,Registered Voters,,,,914,914,914,914,914,914
-Washington,WA62,Registered Voters,,,,760,760,760,760,760,760
-Washington,WA63,Registered Voters,,,,892,892,892,892,892,892
-Washington,WA64,Registered Voters,,,,977,977,977,977,977,977
-Washington,WA65,Registered Voters,,,,1001,1001,1001,1001,1001,1001
-Washington,WA66,Registered Voters,,,,969,969,969,969,969,969
-Washington,WA67,Registered Voters,,,,1013,1013,1013,1013,1013,1013
-Washington,WA68,Registered Voters,,,,1224,1224,1224,1224,1224,1224
-Washington,WA69,Registered Voters,,,,379,379,379,379,379,379
-Washington,Total,Registered Voters,,,,67259,67259,67259,67259,67259,67259
+Washington,AV51,Registered Voters,,,,,,,,,365
+Washington,COAND,Registered Voters,,,,,,,,,3
+Washington,COCDSR,Registered Voters,,,,,,,,,108
+Washington,COCNBR,Registered Voters,,,,,,,,,201
+Washington,CODAV,Registered Voters,,,,,,,,,467
+Washington,CODIV,Registered Voters,,,,,,,,,607
+Washington,CODXDR,Registered Voters,,,,,,,,,254
+Washington,COGL,Registered Voters,,,,,,,,,50
+Washington,COGUBL,Registered Voters,,,,,,,,,2
+Washington,COHS74,Registered Voters,,,,,,,,,26
+Washington,COHV28,Registered Voters,,,,,,,,,24
+Washington,COHV29,Registered Voters,,,,,,,,,5
+Washington,COLEED,Registered Voters,,,,,,,,,175
+Washington,CONCF,Registered Voters,,,,,,,,,122
+Washington,CONH,Registered Voters,,,,,,,,,573
+Washington,COPINE,Registered Voters,,,,,,,,,123
+Washington,COSN28,Registered Voters,,,,,,,,,33
+Washington,COVE,Registered Voters,,,,,,,,,257
+Washington,COWH,Registered Voters,,,,,,,,,588
+Washington,EN82,Registered Voters,,,,,,,,,758
+Washington,HIL97,Registered Voters,,,,,,,,,340
+Washington,HU52,Registered Voters,,,,,,,,,790
+Washington,HU53,Registered Voters,,,,,,,,,834
+Washington,HU54,Registered Voters,,,,,,,,,807
+Washington,HU55,Registered Voters,,,,,,,,,545
+Washington,HU56,Registered Voters,,,,,,,,,948
+Washington,HU57,Registered Voters,,,,,,,,,1157
+Washington,HU58,Registered Voters,,,,,,,,,908
+Washington,HU59,Registered Voters,,,,,,,,,726
+Washington,IV76,Registered Voters,,,,,,,,,905
+Washington,IV77,Registered Voters,,,,,,,,,862
+Washington,IV78,Registered Voters,,,,,,,,,1026
+Washington,IV79,Registered Voters,,,,,,,,,995
+Washington,LA85,Registered Voters,,,,,,,,,646
+Washington,LA86,Registered Voters,,,,,,,,,601
+Washington,LA87,Registered Voters,,,,,,,,,526
+Washington,LE90,Registered Voters,,,,,,,,,429
+Washington,NH93,Registered Voters,,,,,,,,,127
+Washington,RC94,Registered Voters,,,,,,,,,167
+Washington,SC71,Registered Voters,,,,,,,,,997
+Washington,SC72,Registered Voters,,,,,,,,,610
+Washington,SC73,Registered Voters,,,,,,,,,633
+Washington,SC74,Registered Voters,,,,,,,,,1107
+Washington,SG01,Registered Voters,,,,,,,,,576
+Washington,SG02,Registered Voters,,,,,,,,,552
+Washington,SG03,Registered Voters,,,,,,,,,628
+Washington,SG04,Registered Voters,,,,,,,,,478
+Washington,SG05,Registered Voters,,,,,,,,,571
+Washington,SG06,Registered Voters,,,,,,,,,743
+Washington,SG07,Registered Voters,,,,,,,,,676
+Washington,SG08,Registered Voters,,,,,,,,,748
+Washington,SG09,Registered Voters,,,,,,,,,778
+Washington,SG10,Registered Voters,,,,,,,,,423
+Washington,SG11,Registered Voters,,,,,,,,,597
+Washington,SG12,Registered Voters,,,,,,,,,830
+Washington,SG13,Registered Voters,,,,,,,,,811
+Washington,SG14,Registered Voters,,,,,,,,,1163
+Washington,SG15,Registered Voters,,,,,,,,,898
+Washington,SG16,Registered Voters,,,,,,,,,717
+Washington,SG17,Registered Voters,,,,,,,,,902
+Washington,SG18,Registered Voters,,,,,,,,,881
+Washington,SG19,Registered Voters,,,,,,,,,901
+Washington,SG20,Registered Voters,,,,,,,,,1074
+Washington,SG21,Registered Voters,,,,,,,,,931
+Washington,SG22,Registered Voters,,,,,,,,,956
+Washington,SG23,Registered Voters,,,,,,,,,892
+Washington,SG24,Registered Voters,,,,,,,,,507
+Washington,SG25,Registered Voters,,,,,,,,,641
+Washington,SG26,Registered Voters,,,,,,,,,718
+Washington,SG27,Registered Voters,,,,,,,,,853
+Washington,SG28,Registered Voters,,,,,,,,,999
+Washington,SG29,Registered Voters,,,,,,,,,856
+Washington,SG30,Registered Voters,,,,,,,,,1083
+Washington,SG31,Registered Voters,,,,,,,,,856
+Washington,SG32,Registered Voters,,,,,,,,,896
+Washington,SG33,Registered Voters,,,,,,,,,603
+Washington,SG34,Registered Voters,,,,,,,,,913
+Washington,SG35,Registered Voters,,,,,,,,,741
+Washington,SG36,Registered Voters,,,,,,,,,808
+Washington,SG37,Registered Voters,,,,,,,,,845
+Washington,SG38,Registered Voters,,,,,,,,,829
+Washington,SG39,Registered Voters,,,,,,,,,905
+Washington,SG40,Registered Voters,,,,,,,,,749
+Washington,SG41,Registered Voters,,,,,,,,,664
+Washington,SG42,Registered Voters,,,,,,,,,656
+Washington,SG43,Registered Voters,,,,,,,,,577
+Washington,SG44,Registered Voters,,,,,,,,,314
+Washington,SG45,Registered Voters,,,,,,,,,778
+Washington,SG46,Registered Voters,,,,,,,,,767
+Washington,SP95,Registered Voters,,,,,,,,,289
+Washington,TQ96,Registered Voters,,,,,,,,,799
+Washington,VI89,Registered Voters,,,,,,,,,275
+Washington,WA60,Registered Voters,,,,,,,,,1056
+Washington,WA61,Registered Voters,,,,,,,,,914
+Washington,WA62,Registered Voters,,,,,,,,,760
+Washington,WA63,Registered Voters,,,,,,,,,892
+Washington,WA64,Registered Voters,,,,,,,,,977
+Washington,WA65,Registered Voters,,,,,,,,,1001
+Washington,WA66,Registered Voters,,,,,,,,,969
+Washington,WA67,Registered Voters,,,,,,,,,1013
+Washington,WA68,Registered Voters,,,,,,,,,1224
+Washington,WA69,Registered Voters,,,,,,,,,379
+Washington,Total,Registered Voters,,,,,,,,,67259
 Washington,AV51,Ballots Cast,,,,0,0,156,0,1,157
 Washington,COAND,Ballots Cast,,,,0,0,3,0,0,3
 Washington,COCDSR,Ballots Cast,,,,0,0,57,0,0,57
@@ -353,8 +353,8 @@ Washington,SC73,Straight Party,,,Independent American Party,2,0,0,0,1,3
 Washington,SC74,Straight Party,,,Independent American Party,3,0,0,0,0,3
 Washington,SG01,Straight Party,,,Independent American Party,2,0,1,0,1,4
 Washington,SG02,Straight Party,,,Independent American Party,3,0,0,0,0,3
-Washington,SG03,Straight Party,,,Independent American Party,2,1,0,0,3,7
-Washington,SG04,Straight Party,,,Independent American Party,3,0,3,0,0,7
+Washington,SG03,Straight Party,,,Independent American Party,2,1,0,1,3,7
+Washington,SG04,Straight Party,,,Independent American Party,3,0,3,0,1,7
 Washington,SG05,Straight Party,,,Independent American Party,5,0,0,0,0,5
 Washington,SG06,Straight Party,,,Independent American Party,1,0,0,0,0,1
 Washington,SG07,Straight Party,,,Independent American Party,2,0,0,0,0,2
@@ -623,7 +623,7 @@ Washington,COCDSR,Straight Party,,,Democratic Party,0,0,4,0,0,4
 Washington,COCNBR,Straight Party,,,Democratic Party,0,0,1,0,0,1
 Washington,CODAV,Straight Party,,,Democratic Party,0,0,31,0,0,31
 Washington,CODIV,Straight Party,,,Democratic Party,5,1,2,0,1,9
-Washington,CODXDR,Straight Party,,,Democratic Party,0,0,21,0,0,22
+Washington,CODXDR,Straight Party,,,Democratic Party,0,1,21,0,0,22
 Washington,COGL,Straight Party,,,Democratic Party,0,0,3,0,0,3
 Washington,COGUBL,Straight Party,,,Democratic Party,0,0,0,0,0,0
 Washington,COHS74,Straight Party,,,Democratic Party,0,0,0,0,0,0
@@ -718,7 +718,7 @@ Washington,WA65,Straight Party,,,Democratic Party,5,1,5,0,0,11
 Washington,WA66,Straight Party,,,Democratic Party,33,8,6,0,2,49
 Washington,WA67,Straight Party,,,Democratic Party,8,9,5,0,0,22
 Washington,WA68,Straight Party,,,Democratic Party,5,5,4,0,0,14
-Washington,WA69,Straight Party,,,Democratic Party,5,4,0,11,0,10
+Washington,WA69,Straight Party,,,Democratic Party,5,4,0,1,0,10
 Washington,Total,Straight Party,,,Democratic Party,1254,449,518,1,41,2263
 Washington,AV51,U.S. House,2,Shaun Mccausland,,0,0,26,0,0,26
 Washington,COAND,U.S. House,2,Shaun Mccausland,,0,0,0,0,0,0
@@ -870,7 +870,7 @@ Washington,SG01,U.S. House,2,Wayne L. Hill,,3,0,3,0,1,7
 Washington,SG02,U.S. House,2,Wayne L. Hill,,6,0,1,0,0,7
 Washington,SG03,U.S. House,2,Wayne L. Hill,,7,5,3,1,4,20
 Washington,SG04,U.S. House,2,Wayne L. Hill,,9,0,4,0,1,14
-Washington,SG05,U.S. House,2,Wayne L. Hill,,9,2,1,0,0,13
+Washington,SG05,U.S. House,2,Wayne L. Hill,,9,2,1,0,1,13
 Washington,SG06,U.S. House,2,Wayne L. Hill,,5,0,0,0,1,6
 Washington,SG07,U.S. House,2,Wayne L. Hill,,8,0,5,0,0,13
 Washington,SG08,U.S. House,2,Wayne L. Hill,,7,1,1,0,3,12
@@ -1029,115 +1029,115 @@ Washington,WA67,U.S. House,2,Chris Stewart,,205,47,67,0,14,333
 Washington,WA68,U.S. House,2,Chris Stewart,,280,48,62,0,14,404
 Washington,WA69,U.S. House,2,Chris Stewart,,78,25,35,0,10,148
 Washington,Total,U.S. House,2,Chris Stewart,,14214,2641,4915,5,586,22361
-Washington,AV51,U.S. House,2,Luz Robles,,0,0,37,0,37,0
+Washington,AV51,U.S. House,2,Luz Robles,,0,0,37,0,0,37
 Washington,COAND,U.S. House,2,Luz Robles,,0,0,0,0,0,0
-Washington,COCDSR,U.S. House,2,Luz Robles,,0,0,9,0,9,0
-Washington,COCNBR,U.S. House,2,Luz Robles,,0,0,14,0,14,0
-Washington,CODAV,U.S. House,2,Luz Robles,,0,1,80,0,81,0
-Washington,CODIV,U.S. House,2,Luz Robles,,11,3,4,0,19,1
-Washington,CODXDR,U.S. House,2,Luz Robles,,0,1,35,0,36,0
-Washington,COGL,U.S. House,2,Luz Robles,,0,0,5,0,5,0
+Washington,COCDSR,U.S. House,2,Luz Robles,,0,0,9,0,0,9
+Washington,COCNBR,U.S. House,2,Luz Robles,,0,0,14,0,0,14
+Washington,CODAV,U.S. House,2,Luz Robles,,0,1,80,0,0,81
+Washington,CODIV,U.S. House,2,Luz Robles,,11,3,4,0,1,19
+Washington,CODXDR,U.S. House,2,Luz Robles,,0,1,35,0,0,36
+Washington,COGL,U.S. House,2,Luz Robles,,0,0,5,0,0,5
 Washington,COGUBL,U.S. House,2,Luz Robles,,0,0,0,0,0,0
-Washington,COHS74,U.S. House,2,Luz Robles,,0,0,1,0,1,0
+Washington,COHS74,U.S. House,2,Luz Robles,,0,0,1,0,0,1
 Washington,COHV28,U.S. House,2,Luz Robles,,0,0,0,0,0,0
 Washington,COHV29,U.S. House,2,Luz Robles,,0,0,0,0,0,0
-Washington,COLEED,U.S. House,2,Luz Robles,,0,0,10,0,10,0
-Washington,CONCF,U.S. House,2,Luz Robles,,1,0,1,0,2,0
-Washington,CONH,U.S. House,2,Luz Robles,,29,3,9,0,41,0
-Washington,COPINE,U.S. House,2,Luz Robles,,0,0,7,0,7,0
-Washington,COSN28,U.S. House,2,Luz Robles,,0,0,10,0,10,0
-Washington,COVE,U.S. House,2,Luz Robles,,0,0,8,0,8,0
-Washington,COWH,U.S. House,2,Luz Robles,,19,12,12,0,43,0
-Washington,EN82,U.S. House,2,Luz Robles,,13,0,3,0,17,1
-Washington,HIL97,U.S. House,2,Luz Robles,,0,0,2,0,2,0
-Washington,HU52,U.S. House,2,Luz Robles,,29,4,4,0,38,1
-Washington,HU53,U.S. House,2,Luz Robles,,34,5,3,0,43,1
-Washington,HU54,U.S. House,2,Luz Robles,,20,1,13,0,34,0
-Washington,HU55,U.S. House,2,Luz Robles,,21,6,6,0,34,1
-Washington,HU56,U.S. House,2,Luz Robles,,55,21,18,0,96,2
-Washington,HU57,U.S. House,2,Luz Robles,,79,9,10,0,100,2
-Washington,HU58,U.S. House,2,Luz Robles,,20,12,5,0,37,0
-Washington,HU59,U.S. House,2,Luz Robles,,33,14,6,0,53,0
-Washington,IV76,U.S. House,2,Luz Robles,,72,22,22,0,118,2
-Washington,IV77,U.S. House,2,Luz Robles,,38,12,10,0,63,3
-Washington,IV78,U.S. House,2,Luz Robles,,130,101,42,0,278,5
-Washington,IV79,U.S. House,2,Luz Robles,,46,20,18,0,86,2
-Washington,LA85,U.S. House,2,Luz Robles,,25,1,7,0,35,2
-Washington,LA86,U.S. House,2,Luz Robles,,28,4,3,0,36,1
-Washington,LA87,U.S. House,2,Luz Robles,,22,3,3,0,30,2
-Washington,LE90,U.S. House,2,Luz Robles,,0,0,35,0,35,0
-Washington,NH93,U.S. House,2,Luz Robles,,7,2,1,0,10,0
-Washington,RC94,U.S. House,2,Luz Robles,,0,0,48,0,48,0
-Washington,SC71,U.S. House,2,Luz Robles,,19,3,0,0,22,0
-Washington,SC72,U.S. House,2,Luz Robles,,16,4,5,0,26,1
-Washington,SC73,U.S. House,2,Luz Robles,,30,8,4,0,42,0
-Washington,SC74,U.S. House,2,Luz Robles,,35,19,13,0,68,1
-Washington,SG01,U.S. House,2,Luz Robles,,28,16,9,0,56,3
-Washington,SG02,U.S. House,2,Luz Robles,,14,5,7,0,27,1
-Washington,SG03,U.S. House,2,Luz Robles,,21,1,2,0,28,4
-Washington,SG04,U.S. House,2,Luz Robles,,6,1,1,0,8,0
-Washington,SG05,U.S. House,2,Luz Robles,,13,2,5,0,20,0
-Washington,SG06,U.S. House,2,Luz Robles,,24,2,6,0,35,3
-Washington,SG07,U.S. House,2,Luz Robles,,15,8,9,0,33,1
-Washington,SG08,U.S. House,2,Luz Robles,,32,7,11,0,51,1
-Washington,SG09,U.S. House,2,Luz Robles,,33,14,10,0,59,2
-Washington,SG10,U.S. House,2,Luz Robles,,15,4,8,0,28,1
-Washington,SG11,U.S. House,2,Luz Robles,,37,7,5,0,51,2
-Washington,SG12,U.S. House,2,Luz Robles,,35,17,12,0,64,0
-Washington,SG13,U.S. House,2,Luz Robles,,43,11,11,0,70,5
-Washington,SG14,U.S. House,2,Luz Robles,,78,29,42,0,152,3
-Washington,SG15,U.S. House,2,Luz Robles,,34,14,9,0,60,3
-Washington,SG16,U.S. House,2,Luz Robles,,30,12,6,0,48,0
-Washington,SG17,U.S. House,2,Luz Robles,,32,23,15,0,71,1
-Washington,SG18,U.S. House,2,Luz Robles,,37,7,7,0,52,1
-Washington,SG19,U.S. House,2,Luz Robles,,28,10,11,0,53,4
-Washington,SG20,U.S. House,2,Luz Robles,,50,19,21,0,92,2
-Washington,SG21,U.S. House,2,Luz Robles,,44,19,18,0,83,2
-Washington,SG22,U.S. House,2,Luz Robles,,49,30,22,0,107,6
-Washington,SG23,U.S. House,2,Luz Robles,,59,16,18,0,95,2
-Washington,SG24,U.S. House,2,Luz Robles,,22,5,13,0,40,0
-Washington,SG25,U.S. House,2,Luz Robles,,37,4,5,0,47,1
-Washington,SG26,U.S. House,2,Luz Robles,,22,8,10,0,42,2
-Washington,SG27,U.S. House,2,Luz Robles,,25,5,1,0,31,0
-Washington,SG28,U.S. House,2,Luz Robles,,45,9,12,0,67,1
-Washington,SG29,U.S. House,2,Luz Robles,,25,12,16,0,53,0
-Washington,SG30,U.S. House,2,Luz Robles,,41,20,12,0,73,0
-Washington,SG31,U.S. House,2,Luz Robles,,24,5,6,0,37,2
-Washington,SG32,U.S. House,2,Luz Robles,,15,7,9,0,32,1
-Washington,SG33,U.S. House,2,Luz Robles,,29,8,4,0,42,1
-Washington,SG34,U.S. House,2,Luz Robles,,35,13,20,0,68,0
-Washington,SG35,U.S. House,2,Luz Robles,,26,12,13,0,52,1
-Washington,SG36,U.S. House,2,Luz Robles,,24,13,21,0,59,1
-Washington,SG37,U.S. House,2,Luz Robles,,28,4,7,0,39,0
-Washington,SG38,U.S. House,2,Luz Robles,,36,3,5,0,46,2
-Washington,SG39,U.S. House,2,Luz Robles,,103,8,30,0,141,0
-Washington,SG40,U.S. House,2,Luz Robles,,23,2,6,0,31,0
-Washington,SG41,U.S. House,2,Luz Robles,,61,17,13,0,92,1
-Washington,SG42,U.S. House,2,Luz Robles,,24,4,8,0,38,2
-Washington,SG43,U.S. House,2,Luz Robles,,15,2,7,0,26,2
-Washington,SG44,U.S. House,2,Luz Robles,,12,1,0,0,13,0
-Washington,SG45,U.S. House,2,Luz Robles,,22,6,7,0,37,2
-Washington,SG46,U.S. House,2,Luz Robles,,100,21,28,0,155,6
-Washington,SP95,U.S. House,2,Luz Robles,,0,0,102,0,102,0
-Washington,TQ96,U.S. House,2,Luz Robles,,54,3,6,0,65,2
-Washington,VI89,U.S. House,2,Luz Robles,,0,0,61,0,61,0
-Washington,WA60,U.S. House,2,Luz Robles,,32,12,16,0,60,0
-Washington,WA61,U.S. House,2,Luz Robles,,33,14,3,0,52,2
-Washington,WA62,U.S. House,2,Luz Robles,,21,3,0,0,24,0
-Washington,WA63,U.S. House,2,Luz Robles,,30,9,3,0,42,0
-Washington,WA64,U.S. House,2,Luz Robles,,43,12,16,0,71,0
-Washington,WA65,U.S. House,2,Luz Robles,,16,4,13,0,34,1
-Washington,WA66,U.S. House,2,Luz Robles,,63,17,22,0,104,2
-Washington,WA67,U.S. House,2,Luz Robles,,28,14,13,0,55,0
-Washington,WA68,U.S. House,2,Luz Robles,,18,11,6,0,37,2
-Washington,WA69,U.S. House,2,Luz Robles,,9,5,4,1,19,0
-Washington,Total,U.S. House,2,Luz Robles,,2730,858,1306,1,5004,109
+Washington,COLEED,U.S. House,2,Luz Robles,,0,0,10,0,0,10
+Washington,CONCF,U.S. House,2,Luz Robles,,1,0,1,0,0,2
+Washington,CONH,U.S. House,2,Luz Robles,,29,3,9,0,0,41
+Washington,COPINE,U.S. House,2,Luz Robles,,0,0,7,0,0,7
+Washington,COSN28,U.S. House,2,Luz Robles,,0,0,10,0,0,10
+Washington,COVE,U.S. House,2,Luz Robles,,0,0,8,0,0,8
+Washington,COWH,U.S. House,2,Luz Robles,,19,12,12,0,0,43
+Washington,EN82,U.S. House,2,Luz Robles,,13,0,3,0,1,17
+Washington,HIL97,U.S. House,2,Luz Robles,,0,0,2,0,0,2
+Washington,HU52,U.S. House,2,Luz Robles,,29,4,4,0,1,38
+Washington,HU53,U.S. House,2,Luz Robles,,34,5,3,0,1,43
+Washington,HU54,U.S. House,2,Luz Robles,,20,1,13,0,0,34
+Washington,HU55,U.S. House,2,Luz Robles,,21,6,6,0,1,34
+Washington,HU56,U.S. House,2,Luz Robles,,55,21,18,0,2,96
+Washington,HU57,U.S. House,2,Luz Robles,,79,9,10,0,2,100
+Washington,HU58,U.S. House,2,Luz Robles,,20,12,5,0,0,37
+Washington,HU59,U.S. House,2,Luz Robles,,33,14,6,0,0,53
+Washington,IV76,U.S. House,2,Luz Robles,,72,22,22,0,2,118
+Washington,IV77,U.S. House,2,Luz Robles,,38,12,10,0,3,63
+Washington,IV78,U.S. House,2,Luz Robles,,130,101,42,0,5,278
+Washington,IV79,U.S. House,2,Luz Robles,,46,20,18,0,2,86
+Washington,LA85,U.S. House,2,Luz Robles,,25,1,7,0,2,35
+Washington,LA86,U.S. House,2,Luz Robles,,28,4,3,0,1,36
+Washington,LA87,U.S. House,2,Luz Robles,,22,3,3,0,2,30
+Washington,LE90,U.S. House,2,Luz Robles,,0,0,35,0,0,35
+Washington,NH93,U.S. House,2,Luz Robles,,7,2,1,0,0,10
+Washington,RC94,U.S. House,2,Luz Robles,,0,0,48,0,0,48
+Washington,SC71,U.S. House,2,Luz Robles,,19,3,0,0,0,22
+Washington,SC72,U.S. House,2,Luz Robles,,16,4,5,0,1,26
+Washington,SC73,U.S. House,2,Luz Robles,,30,8,4,0,0,42
+Washington,SC74,U.S. House,2,Luz Robles,,35,19,13,0,1,68
+Washington,SG01,U.S. House,2,Luz Robles,,28,16,9,0,3,56
+Washington,SG02,U.S. House,2,Luz Robles,,14,5,7,0,1,27
+Washington,SG03,U.S. House,2,Luz Robles,,21,1,2,0,4,28
+Washington,SG04,U.S. House,2,Luz Robles,,6,1,1,0,0,8
+Washington,SG05,U.S. House,2,Luz Robles,,13,2,5,0,0,20
+Washington,SG06,U.S. House,2,Luz Robles,,24,2,6,0,3,35
+Washington,SG07,U.S. House,2,Luz Robles,,15,8,9,0,1,33
+Washington,SG08,U.S. House,2,Luz Robles,,32,7,11,0,1,51
+Washington,SG09,U.S. House,2,Luz Robles,,33,14,10,0,2,59
+Washington,SG10,U.S. House,2,Luz Robles,,15,4,8,0,1,28
+Washington,SG11,U.S. House,2,Luz Robles,,37,7,5,0,2,51
+Washington,SG12,U.S. House,2,Luz Robles,,35,17,12,0,0,64
+Washington,SG13,U.S. House,2,Luz Robles,,43,11,11,0,5,70
+Washington,SG14,U.S. House,2,Luz Robles,,78,29,42,0,3,152
+Washington,SG15,U.S. House,2,Luz Robles,,34,14,9,0,3,60
+Washington,SG16,U.S. House,2,Luz Robles,,30,12,6,0,0,48
+Washington,SG17,U.S. House,2,Luz Robles,,32,23,15,0,1,71
+Washington,SG18,U.S. House,2,Luz Robles,,37,7,7,0,1,52
+Washington,SG19,U.S. House,2,Luz Robles,,28,10,11,0,4,53
+Washington,SG20,U.S. House,2,Luz Robles,,50,19,21,0,2,92
+Washington,SG21,U.S. House,2,Luz Robles,,44,19,18,0,2,83
+Washington,SG22,U.S. House,2,Luz Robles,,49,30,22,0,6,107
+Washington,SG23,U.S. House,2,Luz Robles,,59,16,18,0,2,95
+Washington,SG24,U.S. House,2,Luz Robles,,22,5,13,0,0,40
+Washington,SG25,U.S. House,2,Luz Robles,,37,4,5,0,1,47
+Washington,SG26,U.S. House,2,Luz Robles,,22,8,10,0,2,42
+Washington,SG27,U.S. House,2,Luz Robles,,25,5,1,0,0,31
+Washington,SG28,U.S. House,2,Luz Robles,,45,9,12,0,1,67
+Washington,SG29,U.S. House,2,Luz Robles,,25,12,16,0,0,53
+Washington,SG30,U.S. House,2,Luz Robles,,41,20,12,0,0,73
+Washington,SG31,U.S. House,2,Luz Robles,,24,5,6,0,2,37
+Washington,SG32,U.S. House,2,Luz Robles,,15,7,9,0,1,32
+Washington,SG33,U.S. House,2,Luz Robles,,29,8,4,0,1,42
+Washington,SG34,U.S. House,2,Luz Robles,,35,13,20,0,0,68
+Washington,SG35,U.S. House,2,Luz Robles,,26,12,13,0,1,52
+Washington,SG36,U.S. House,2,Luz Robles,,24,13,21,0,1,59
+Washington,SG37,U.S. House,2,Luz Robles,,28,4,7,0,0,39
+Washington,SG38,U.S. House,2,Luz Robles,,36,3,5,0,2,46
+Washington,SG39,U.S. House,2,Luz Robles,,103,8,30,0,0,141
+Washington,SG40,U.S. House,2,Luz Robles,,23,2,6,0,0,31
+Washington,SG41,U.S. House,2,Luz Robles,,61,17,13,0,1,92
+Washington,SG42,U.S. House,2,Luz Robles,,24,4,8,0,2,38
+Washington,SG43,U.S. House,2,Luz Robles,,15,2,7,0,2,26
+Washington,SG44,U.S. House,2,Luz Robles,,12,1,0,0,0,13
+Washington,SG45,U.S. House,2,Luz Robles,,22,6,7,0,2,37
+Washington,SG46,U.S. House,2,Luz Robles,,100,21,28,0,6,155
+Washington,SP95,U.S. House,2,Luz Robles,,0,0,102,0,0,102
+Washington,TQ96,U.S. House,2,Luz Robles,,54,3,6,0,2,65
+Washington,VI89,U.S. House,2,Luz Robles,,0,0,61,0,0,61
+Washington,WA60,U.S. House,2,Luz Robles,,32,12,16,0,0,60
+Washington,WA61,U.S. House,2,Luz Robles,,33,14,3,0,2,52
+Washington,WA62,U.S. House,2,Luz Robles,,21,3,0,0,0,24
+Washington,WA63,U.S. House,2,Luz Robles,,30,9,3,0,0,42
+Washington,WA64,U.S. House,2,Luz Robles,,43,12,16,0,0,71
+Washington,WA65,U.S. House,2,Luz Robles,,16,4,13,0,1,34
+Washington,WA66,U.S. House,2,Luz Robles,,63,17,22,0,2,104
+Washington,WA67,U.S. House,2,Luz Robles,,28,14,13,0,0,55
+Washington,WA68,U.S. House,2,Luz Robles,,18,11,6,0,2,37
+Washington,WA69,U.S. House,2,Luz Robles,,9,5,4,1,0,19
+Washington,Total,U.S. House,2,Luz Robles,,2730,858,1306,1,109,5004
 Washington,AV51,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,COAND,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,COCDSR,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,COCNBR,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,CODAV,U.S. House,2,Bill Barron,,0,0,3,0,3,0
-Washington,CODIV,U.S. House,2,Bill Barron,,1,0,0,0,1,0
+Washington,CODAV,U.S. House,2,Bill Barron,,0,0,3,0,0,3
+Washington,CODIV,U.S. House,2,Bill Barron,,1,0,0,0,0,1
 Washington,CODXDR,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,COGL,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,COGUBL,U.S. House,2,Bill Barron,,0,0,0,0,0,0
@@ -1148,97 +1148,97 @@ Washington,COLEED,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,CONCF,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,CONH,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,COPINE,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,COSN28,U.S. House,2,Bill Barron,,0,0,1,0,1,0
+Washington,COSN28,U.S. House,2,Bill Barron,,0,0,1,0,0,1
 Washington,COVE,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,COWH,U.S. House,2,Bill Barron,,2,0,0,0,2,0
-Washington,EN82,U.S. House,2,Bill Barron,,1,0,1,0,2,0
-Washington,HIL97,U.S. House,2,Bill Barron,,0,0,1,0,1,0
-Washington,HU52,U.S. House,2,Bill Barron,,1,0,1,0,2,0
-Washington,HU53,U.S. House,2,Bill Barron,,1,1,0,0,2,0
+Washington,COWH,U.S. House,2,Bill Barron,,2,0,0,0,0,2
+Washington,EN82,U.S. House,2,Bill Barron,,1,0,1,0,0,2
+Washington,HIL97,U.S. House,2,Bill Barron,,0,0,1,0,0,1
+Washington,HU52,U.S. House,2,Bill Barron,,1,0,1,0,0,2
+Washington,HU53,U.S. House,2,Bill Barron,,1,1,0,0,0,2
 Washington,HU54,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,HU55,U.S. House,2,Bill Barron,,3,0,0,0,3,0
-Washington,HU56,U.S. House,2,Bill Barron,,2,0,0,0,2,0
-Washington,HU57,U.S. House,2,Bill Barron,,0,0,2,0,3,1
-Washington,HU58,U.S. House,2,Bill Barron,,2,0,0,0,2,0
+Washington,HU55,U.S. House,2,Bill Barron,,3,0,0,0,0,3
+Washington,HU56,U.S. House,2,Bill Barron,,2,0,0,0,0,2
+Washington,HU57,U.S. House,2,Bill Barron,,0,0,2,0,1,3
+Washington,HU58,U.S. House,2,Bill Barron,,2,0,0,0,0,2
 Washington,HU59,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,IV76,U.S. House,2,Bill Barron,,6,0,0,0,6,0
-Washington,IV77,U.S. House,2,Bill Barron,,3,0,1,0,4,0
-Washington,IV78,U.S. House,2,Bill Barron,,2,1,1,0,4,0
-Washington,IV79,U.S. House,2,Bill Barron,,4,0,0,0,4,0
-Washington,LA85,U.S. House,2,Bill Barron,,3,0,0,0,3,0
-Washington,LA86,U.S. House,2,Bill Barron,,1,0,0,0,1,0
-Washington,LA87,U.S. House,2,Bill Barron,,3,0,0,0,3,0
-Washington,LE90,U.S. House,2,Bill Barron,,0,0,3,0,3,0
-Washington,NH93,U.S. House,2,Bill Barron,,2,0,0,0,2,0
-Washington,RC94,U.S. House,2,Bill Barron,,0,0,10,0,10,0
-Washington,SC71,U.S. House,2,Bill Barron,,1,0,0,0,1,0
+Washington,IV76,U.S. House,2,Bill Barron,,6,0,0,0,0,6
+Washington,IV77,U.S. House,2,Bill Barron,,3,0,1,0,0,4
+Washington,IV78,U.S. House,2,Bill Barron,,2,1,1,0,0,4
+Washington,IV79,U.S. House,2,Bill Barron,,4,0,0,0,0,4
+Washington,LA85,U.S. House,2,Bill Barron,,3,0,0,0,0,3
+Washington,LA86,U.S. House,2,Bill Barron,,1,0,0,0,0,1
+Washington,LA87,U.S. House,2,Bill Barron,,3,0,0,0,0,3
+Washington,LE90,U.S. House,2,Bill Barron,,0,0,3,0,0,3
+Washington,NH93,U.S. House,2,Bill Barron,,2,0,0,0,0,2
+Washington,RC94,U.S. House,2,Bill Barron,,0,0,10,0,0,10
+Washington,SC71,U.S. House,2,Bill Barron,,1,0,0,0,0,1
 Washington,SC72,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SC73,U.S. House,2,Bill Barron,,2,1,0,0,3,0
-Washington,SC74,U.S. House,2,Bill Barron,,2,0,0,0,2,0
-Washington,SG01,U.S. House,2,Bill Barron,,3,0,0,0,3,0
+Washington,SC73,U.S. House,2,Bill Barron,,2,1,0,0,0,3
+Washington,SC74,U.S. House,2,Bill Barron,,2,0,0,0,0,2
+Washington,SG01,U.S. House,2,Bill Barron,,3,0,0,0,0,3
 Washington,SG02,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,SG03,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,SG04,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,SG05,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG06,U.S. House,2,Bill Barron,,3,1,1,0,5,0
-Washington,SG07,U.S. House,2,Bill Barron,,3,1,0,0,4,0
-Washington,SG08,U.S. House,2,Bill Barron,,1,0,2,0,3,0
-Washington,SG09,U.S. House,2,Bill Barron,,1,1,1,0,3,0
+Washington,SG06,U.S. House,2,Bill Barron,,3,1,1,0,0,5
+Washington,SG07,U.S. House,2,Bill Barron,,3,1,0,0,0,4
+Washington,SG08,U.S. House,2,Bill Barron,,1,0,2,0,0,3
+Washington,SG09,U.S. House,2,Bill Barron,,1,1,1,0,0,3
 Washington,SG10,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG11,U.S. House,2,Bill Barron,,1,1,0,0,2,0
-Washington,SG12,U.S. House,2,Bill Barron,,0,0,3,0,3,0
-Washington,SG13,U.S. House,2,Bill Barron,,2,0,0,0,2,0
-Washington,SG14,U.S. House,2,Bill Barron,,0,0,3,0,3,0
+Washington,SG11,U.S. House,2,Bill Barron,,1,1,0,0,0,2
+Washington,SG12,U.S. House,2,Bill Barron,,0,0,3,0,0,3
+Washington,SG13,U.S. House,2,Bill Barron,,2,0,0,0,0,2
+Washington,SG14,U.S. House,2,Bill Barron,,0,0,3,0,0,3
 Washington,SG15,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG16,U.S. House,2,Bill Barron,,1,2,2,0,5,0
-Washington,SG17,U.S. House,2,Bill Barron,,3,0,3,0,6,0
+Washington,SG16,U.S. House,2,Bill Barron,,1,2,2,0,0,5
+Washington,SG17,U.S. House,2,Bill Barron,,3,0,3,0,0,6
 Washington,SG18,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG19,U.S. House,2,Bill Barron,,1,0,0,0,1,0
+Washington,SG19,U.S. House,2,Bill Barron,,1,0,0,0,0,1
 Washington,SG20,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG21,U.S. House,2,Bill Barron,,2,0,0,0,2,0
+Washington,SG21,U.S. House,2,Bill Barron,,2,0,0,0,0,2
 Washington,SG22,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG23,U.S. House,2,Bill Barron,,3,1,1,0,5,0
+Washington,SG23,U.S. House,2,Bill Barron,,3,1,1,0,0,5
 Washington,SG24,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG25,U.S. House,2,Bill Barron,,1,0,0,0,1,0
-Washington,SG26,U.S. House,2,Bill Barron,,2,0,0,0,2,0
+Washington,SG25,U.S. House,2,Bill Barron,,1,0,0,0,0,1
+Washington,SG26,U.S. House,2,Bill Barron,,2,0,0,0,0,2
 Washington,SG27,U.S. House,2,Bill Barron,,0,0,0,0,2,2
-Washington,SG28,U.S. House,2,Bill Barron,,1,0,0,0,1,0
+Washington,SG28,U.S. House,2,Bill Barron,,1,0,0,0,0,1
 Washington,SG29,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG30,U.S. House,2,Bill Barron,,3,0,0,0,3,0
+Washington,SG30,U.S. House,2,Bill Barron,,3,0,0,0,0,3
 Washington,SG31,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG32,U.S. House,2,Bill Barron,,0,0,1,0,1,0
-Washington,SG33,U.S. House,2,Bill Barron,,1,0,0,0,1,0
+Washington,SG32,U.S. House,2,Bill Barron,,0,0,1,0,0,1
+Washington,SG33,U.S. House,2,Bill Barron,,1,0,0,0,0,1
 Washington,SG34,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG35,U.S. House,2,Bill Barron,,2,0,1,0,3,0
-Washington,SG36,U.S. House,2,Bill Barron,,0,0,2,0,2,0
-Washington,SG37,U.S. House,2,Bill Barron,,1,0,0,0,1,0
-Washington,SG38,U.S. House,2,Bill Barron,,2,0,1,0,3,0
-Washington,SG39,U.S. House,2,Bill Barron,,2,0,0,0,2,0
+Washington,SG35,U.S. House,2,Bill Barron,,2,0,1,0,0,3
+Washington,SG36,U.S. House,2,Bill Barron,,0,0,2,0,0,2
+Washington,SG37,U.S. House,2,Bill Barron,,1,0,0,0,0,1
+Washington,SG38,U.S. House,2,Bill Barron,,2,0,1,0,0,3
+Washington,SG39,U.S. House,2,Bill Barron,,2,0,0,0,0,2
 Washington,SG40,U.S. House,2,Bill Barron,,0,0,0,0,0,0
 Washington,SG41,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,SG42,U.S. House,2,Bill Barron,,1,0,0,0,1,0
-Washington,SG43,U.S. House,2,Bill Barron,,0,0,1,0,1,0
-Washington,SG44,U.S. House,2,Bill Barron,,1,0,0,0,1,0
-Washington,SG45,U.S. House,2,Bill Barron,,2,0,2,0,4,0
-Washington,SG46,U.S. House,2,Bill Barron,,0,2,0,0,2,0
-Washington,SP95,U.S. House,2,Bill Barron,,0,0,13,0,13,0
-Washington,TQ96,U.S. House,2,Bill Barron,,1,1,1,0,3,0
-Washington,VI89,U.S. House,2,Bill Barron,,0,0,2,0,2,0
-Washington,WA60,U.S. House,2,Bill Barron,,2,0,1,0,3,0
-Washington,WA61,U.S. House,2,Bill Barron,,1,1,0,0,2,0
-Washington,WA62,U.S. House,2,Bill Barron,,1,1,0,0,2,0
-Washington,WA63,U.S. House,2,Bill Barron,,1,0,0,0,1,0
-Washington,WA64,U.S. House,2,Bill Barron,,1,0,3,0,4,0
+Washington,SG42,U.S. House,2,Bill Barron,,1,0,0,0,0,1
+Washington,SG43,U.S. House,2,Bill Barron,,0,0,1,0,0,1
+Washington,SG44,U.S. House,2,Bill Barron,,1,0,0,0,0,1
+Washington,SG45,U.S. House,2,Bill Barron,,2,0,2,0,0,4
+Washington,SG46,U.S. House,2,Bill Barron,,0,2,0,0,0,2
+Washington,SP95,U.S. House,2,Bill Barron,,0,0,13,0,0,13
+Washington,TQ96,U.S. House,2,Bill Barron,,1,1,1,0,0,3
+Washington,VI89,U.S. House,2,Bill Barron,,0,0,2,0,0,2
+Washington,WA60,U.S. House,2,Bill Barron,,2,0,1,0,0,3
+Washington,WA61,U.S. House,2,Bill Barron,,1,1,0,0,0,2
+Washington,WA62,U.S. House,2,Bill Barron,,1,1,0,0,0,2
+Washington,WA63,U.S. House,2,Bill Barron,,1,0,0,0,0,1
+Washington,WA64,U.S. House,2,Bill Barron,,1,0,3,0,0,4
 Washington,WA65,U.S. House,2,Bill Barron,,0,0,0,0,0,0
-Washington,WA66,U.S. House,2,Bill Barron,,1,0,0,0,1,0
-Washington,WA67,U.S. House,2,Bill Barron,,1,0,0,0,1,0
-Washington,WA68,U.S. House,2,Bill Barron,,1,0,0,0,1,0
-Washington,WA69,U.S. House,2,Bill Barron,,1,0,0,0,1,0
-Washington,Total,U.S. House,2,Bill Barron,,96,15,68,0,182,3
+Washington,WA66,U.S. House,2,Bill Barron,,1,0,0,0,0,1
+Washington,WA67,U.S. House,2,Bill Barron,,1,0,0,0,0,1
+Washington,WA68,U.S. House,2,Bill Barron,,1,0,0,0,0,1
+Washington,WA69,U.S. House,2,Bill Barron,,1,0,0,0,0,1
+Washington,Total,U.S. House,2,Bill Barron,,96,15,68,0,3,182
 Washington,AV51,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,COAND,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,COCDSR,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,COCNBR,U.S. House,2,Write-In,,0,0,3,0,3,0
+Washington,COCNBR,U.S. House,2,Write-In,,0,0,3,0,0,3
 Washington,CODAV,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,CODIV,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,CODXDR,U.S. House,2,Write-In,,0,0,0,0,0,0
@@ -1257,12 +1257,12 @@ Washington,COWH,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,EN82,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,HIL97,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,HU52,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,HU53,U.S. House,2,Write-In,,1,0,1,0,2,0
-Washington,HU54,U.S. House,2,Write-In,,0,0,1,0,1,0
+Washington,HU53,U.S. House,2,Write-In,,1,0,1,0,0,2
+Washington,HU54,U.S. House,2,Write-In,,0,0,1,0,0,1
 Washington,HU55,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,HU56,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,HU57,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,HU58,U.S. House,2,Write-In,,1,0,0,0,1,0
+Washington,HU58,U.S. House,2,Write-In,,1,0,0,0,0,1
 Washington,HU59,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,IV76,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,IV77,U.S. House,2,Write-In,,0,0,0,0,0,0
@@ -1273,14 +1273,14 @@ Washington,LA86,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,LA87,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,LE90,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,NH93,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,RC94,U.S. House,2,Write-In,,0,0,2,0,2,0
+Washington,RC94,U.S. House,2,Write-In,,0,0,2,0,0,2
 Washington,SC71,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,SC72,U.S. House,2,Write-In,,1,0,0,0,1,0
+Washington,SC72,U.S. House,2,Write-In,,1,0,0,0,0,1
 Washington,SC73,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,SC74,U.S. House,2,Write-In,,1,0,0,0,1,0
+Washington,SC74,U.S. House,2,Write-In,,1,0,0,0,0,1
 Washington,SG01,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG02,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,SG03,U.S. House,2,Write-In,,1,0,0,0,1,0
+Washington,SG03,U.S. House,2,Write-In,,1,0,0,0,0,1
 Washington,SG04,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG05,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG06,U.S. House,2,Write-In,,0,0,0,0,0,0
@@ -1296,12 +1296,12 @@ Washington,SG15,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG16,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG17,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG18,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,SG19,U.S. House,2,Write-In,,0,0,1,0,1,0
+Washington,SG19,U.S. House,2,Write-In,,0,0,1,0,0,1
 Washington,SG20,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG21,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG22,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG23,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,SG24,U.S. House,2,Write-In,,1,0,0,0,1,0
+Washington,SG24,U.S. House,2,Write-In,,1,0,0,0,0,1
 Washington,SG25,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG26,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG27,U.S. House,2,Write-In,,0,0,0,0,0,0
@@ -1313,31 +1313,31 @@ Washington,SG32,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG33,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG34,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG35,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,SG36,U.S. House,2,Write-In,,1,0,0,0,1,0
+Washington,SG36,U.S. House,2,Write-In,,1,0,0,0,0,1
 Washington,SG37,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG38,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,SG39,U.S. House,2,Write-In,,1,0,0,0,1,0
+Washington,SG39,U.S. House,2,Write-In,,1,0,0,0,0,1
 Washington,SG40,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG41,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG42,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG43,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,SG44,U.S. House,2,Write-In,,0,0,0,0,1,1
-Washington,SG45,U.S. House,2,Write-In,,1,0,0,0,1,0
+Washington,SG45,U.S. House,2,Write-In,,1,0,0,0,0,1
 Washington,SG46,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,SP95,U.S. House,2,Write-In,,0,0,2,0,2,0
-Washington,TQ96,U.S. House,2,Write-In,,2,0,0,0,2,0
-Washington,VI89,U.S. House,2,Write-In,,0,0,1,0,1,0
+Washington,SP95,U.S. House,2,Write-In,,0,0,2,0,0,2
+Washington,TQ96,U.S. House,2,Write-In,,2,0,0,0,0,2
+Washington,VI89,U.S. House,2,Write-In,,0,0,1,0,0,1
 Washington,WA60,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,WA61,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,WA62,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,WA63,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,WA64,U.S. House,2,Write-In,,1,0,0,0,1,0
+Washington,WA64,U.S. House,2,Write-In,,1,0,0,0,0,1
 Washington,WA65,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,WA66,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,WA67,U.S. House,2,Write-In,,2,0,0,0,2,0
+Washington,WA67,U.S. House,2,Write-In,,2,0,0,0,0,2
 Washington,WA68,U.S. House,2,Write-In,,0,0,0,0,0,0
 Washington,WA69,U.S. House,2,Write-In,,0,0,0,0,0,0
-Washington,Total,U.S. House,2,Write-In,,14,0,11,0,26,1
+Washington,Total,U.S. House,2,Write-In,,14,0,11,0,1,26
 Washington,AV51,Attorney General,,W. Andrew Mccullough,,0,0,7,0,0,7
 Washington,COAND,Attorney General,,W. Andrew Mccullough,,0,0,0,0,0,0
 Washington,COCDSR,Attorney General,,W. Andrew Mccullough,,0,0,0,0,0,0
@@ -1759,7 +1759,7 @@ Washington,CODIV,Attorney General,,Leslie D. Curtis,,9,0,0,0,0,9
 Washington,CODXDR,Attorney General,,Leslie D. Curtis,,0,0,9,0,0,9
 Washington,COGL,Attorney General,,Leslie D. Curtis,,0,0,1,0,0,1
 Washington,COGUBL,Attorney General,,Leslie D. Curtis,,0,0,0,0,0,0
-Washington,COHS74,Attorney General,,Leslie D. Curtis,,0,0,1,0,0,2
+Washington,COHS74,Attorney General,,Leslie D. Curtis,,0,0,1,0,1,2
 Washington,COHV28,Attorney General,,Leslie D. Curtis,,0,0,1,0,0,1
 Washington,COHV29,Attorney General,,Leslie D. Curtis,,0,0,0,0,0,0
 Washington,COLEED,Attorney General,,Leslie D. Curtis,,0,0,2,0,0,2
@@ -1789,7 +1789,7 @@ Washington,LA87,Attorney General,,Leslie D. Curtis,,5,0,0,0,0,5
 Washington,LE90,Attorney General,,Leslie D. Curtis,,0,0,9,0,0,9
 Washington,NH93,Attorney General,,Leslie D. Curtis,,2,0,0,0,0,2
 Washington,RC94,Attorney General,,Leslie D. Curtis,,0,0,4,0,0,4
-Washington,SC71,Attorney General,,Leslie D. Curtis,,5,0,1,0,2,9
+Washington,SC71,Attorney General,,Leslie D. Curtis,,5,0,1,1,2,9
 Washington,SC72,Attorney General,,Leslie D. Curtis,,9,0,2,0,1,12
 Washington,SC73,Attorney General,,Leslie D. Curtis,,5,0,3,0,0,8
 Washington,SC74,Attorney General,,Leslie D. Curtis,,11,2,0,0,0,13
@@ -1797,7 +1797,7 @@ Washington,SG01,Attorney General,,Leslie D. Curtis,,5,1,2,0,1,9
 Washington,SG02,Attorney General,,Leslie D. Curtis,,3,1,0,0,0,4
 Washington,SG03,Attorney General,,Leslie D. Curtis,,5,2,6,1,3,17
 Washington,SG04,Attorney General,,Leslie D. Curtis,,9,0,3,0,1,13
-Washington,SG05,Attorney General,,Leslie D. Curtis,,11,2,3,0,0,17
+Washington,SG05,Attorney General,,Leslie D. Curtis,,11,2,3,0,1,17
 Washington,SG06,Attorney General,,Leslie D. Curtis,,8,0,2,0,0,10
 Washington,SG07,Attorney General,,Leslie D. Curtis,,11,0,4,0,0,15
 Washington,SG08,Attorney General,,Leslie D. Curtis,,8,1,3,0,1,13
@@ -1915,7 +1915,7 @@ Washington,SG35,State House,62,JON STANARD,,127,27,41,0,9,204
 Washington,SG36,State House,62,JON STANARD,,101,30,105,0,9,245
 Washington,SG37,State House,62,JON STANARD,,166,4,66,0,11,247
 Washington,SG38,State House,62,JON STANARD,,104,14,24,0,9,151
-Washington,SG40,State House,62,JON STANARD,,164,14,49,0,71,234
+Washington,SG40,State House,62,JON STANARD,,164,14,49,0,7,234
 Washington,SG42,State House,62,JON STANARD,,147,29,44,0,4,224
 Washington,SG43,State House,62,JON STANARD,,122,24,42,0,2,190
 Washington,SG45,State House,62,JON STANARD,,181,19,26,0,22,248
@@ -2067,6 +2067,7 @@ Washington,SG20,State House,75,CHERYL FAE HAWKER,,49,18,22,0,3,92
 Washington,SG21,State House,75,CHERYL FAE HAWKER,,42,18,15,0,2,77
 Washington,SG32,State House,75,CHERYL FAE HAWKER,,11,7,11,0,1,30
 Washington,SG33,State House,75,CHERYL FAE HAWKER,,26,5,7,0,1,39
+Washington,Total,State House,75,CHERYL FAE HAWKER,,503,165,326,0,29,1023
 Washington,COAND,State House,75,NIHLA W. JUDD,,0,0,0,0,0,0
 Washington,COCNBR,State House,75,NIHLA W. JUDD,,0,0,26,0,0,26
 Washington,CODAV,State House,75,NIHLA W. JUDD,,0,1,51,0,0,52
@@ -2080,9 +2081,9 @@ Washington,COVE,State House,75,NIHLA W. JUDD,,0,1,53,0,0,54
 Washington,COWH,State House,75,NIHLA W. JUDD,,109,23,18,0,8,158
 Washington,EN82,State House,75,NIHLA W. JUDD,,45,1,0,0,1,47
 Washington,SG02,State House,75,NIHLA W. JUDD,,22,2,2,0,1,27
-Washington,SG03,State House,75,NIHLA W. JUDD,,49,3,4,21,5,63
+Washington,SG03,State House,75,NIHLA W. JUDD,,49,3,4,2,5,63
 Washington,SG04,State House,75,NIHLA W. JUDD,,35,0,6,0,3,44
-Washington,SG05,State House,75,NIHLA W. JUDD,,44,10,17,0,11,72
+Washington,SG05,State House,75,NIHLA W. JUDD,,44,10,17,0,1,72
 Washington,SG06,State House,75,NIHLA W. JUDD,,42,3,5,0,5,55
 Washington,SG07,State House,75,NIHLA W. JUDD,,29,2,6,0,3,40
 Washington,SG08,State House,75,NIHLA W. JUDD,,36,2,6,0,4,48
@@ -2097,6 +2098,7 @@ Washington,SG20,State House,75,NIHLA W. JUDD,,46,9,15,0,2,72
 Washington,SG21,State House,75,NIHLA W. JUDD,,39,11,6,0,2,58
 Washington,SG32,State House,75,NIHLA W. JUDD,,38,8,8,0,3,57
 Washington,SG33,State House,75,NIHLA W. JUDD,,24,4,6,0,1,35
+Washington,Total,State House,75,NIHLA W. JUDD,,908,132,336,2,66,1444
 Washington,COAND,State House,75,DON L. IPSON,,0,0,3,0,0,3
 Washington,COCNBR,State House,75,DON L. IPSON,,0,0,75,0,0,75
 Washington,CODAV,State House,75,DON L. IPSON,,0,2,145,0,0,147

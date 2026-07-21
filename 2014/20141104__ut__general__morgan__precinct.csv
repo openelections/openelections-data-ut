@@ -1,12 +1,12 @@
 county,precinct,office,district,candidate,party,election_day,absentee,provisional,early_voting,paper,votes
-Morgan,Mountain Green 1.1,Registered Voters,,,,1076,1076,1076,1076,1076,1076
-Morgan,Peterson 2.2,Registered Voters,,,,1228,1228,1228,1228,1228,1228
-Morgan,Canyon Creek 3.3,Registered Voters,,,,529,529,529,529,529,529
-Morgan,City 4.4,Registered Voters,,,,1055,1055,1055,1055,1055,1055
-Morgan,No Morgan 5.5,Registered Voters,,,,1028,1028,1028,1028,1028,1028
-Morgan,CC State Senate 6.3,Registered Voters,,,,355,355,355,355,355,355
-Morgan,Croydon 7.5,Registered Voters,,,,79,79,79,79,79,79
-Morgan,Total,Registered Voters,,,,5350,5350,5350,5350,5350,5350
+Morgan,Mountain Green 1.1,Registered Voters,,,,,,,,1076,1076
+Morgan,Peterson 2.2,Registered Voters,,,,,,,,1228,1228
+Morgan,Canyon Creek 3.3,Registered Voters,,,,,,,,529,529
+Morgan,City 4.4,Registered Voters,,,,,,,,1055,1055
+Morgan,No Morgan 5.5,Registered Voters,,,,,,,,1028,1028
+Morgan,CC State Senate 6.3,Registered Voters,,,,,,,,355,355
+Morgan,Croydon 7.5,Registered Voters,,,,,,,,79,79
+Morgan,Total,Registered Voters,,,,,,,,5350,5350
 Morgan,Mountain Green 1.1,Ballots Cast,,,,439,50,0,47,0,536
 Morgan,Peterson 2.2,Ballots Cast,,,,490,78,0,79,0,647
 Morgan,Canyon Creek 3.3,Ballots Cast,,,,215,32,0,46,0,293

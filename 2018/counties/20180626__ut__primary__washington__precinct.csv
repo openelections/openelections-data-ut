@@ -8,7 +8,7 @@ Washington,CODIV,Registered Voters,,,,620,620,620,620,620,620,620,620
 Washington,CODXDR,Registered Voters,,,,298,298,298,298,298,298,298,298
 Washington,COGL,Registered Voters,,,,55,55,55,55,55,55,55,55
 Washington,COGUBL,Registered Voters,,,,2,2,2,2,2,2,2,2
-Washington,COHS74,Registered Voters,,,,37,27,27,27,27,27,27,27
+Washington,COHS74,Registered Voters,,,,27,27,27,27,27,27,27,27
 Washington,COHV28,Registered Voters,,,,26,26,26,26,26,26,26,26
 Washington,COHV29,Registered Voters,,,,7,7,7,7,7,7,7,7
 Washington,COLEED,Registered Voters,,,,190,190,190,190,190,190,190,190
@@ -17,7 +17,7 @@ Washington,CONH,Registered Voters,,,,610,610,610,610,610,610,610,610
 Washington,COPINE,Registered Voters,,,,143,143,143,143,143,143,143,143
 Washington,COSN28,Registered Voters,,,,29,29,29,29,29,29,29,29
 Washington,COVE,Registered Voters,,,,225,225,225,225,225,225,225,225
-Washington,COWH,Registered Voters,,,,537,587,587,587,587,587,587,587
+Washington,COWH,Registered Voters,,,,587,587,587,587,587,587,587,587
 Washington,EN82,Registered Voters,,,,881,881,881,881,881,881,881,881
 Washington,HIL97,Registered Voters,,,,354,354,354,354,354,354,354,354
 Washington,HU52,Registered Voters,,,,739,739,739,739,739,739,739,739
@@ -60,21 +60,21 @@ Washington,SG13,Registered Voters,,,,710,710,710,710,710,710,710,710
 Washington,SG14,Registered Voters,,,,505,505,505,505,505,505,505,505
 Washington,SG15,Registered Voters,,,,811,811,811,811,811,811,811,811
 Washington,SG16,Registered Voters,,,,706,706,706,706,706,706,706,706
-Washington,SG17,Registered Voters,,,,987,987,937,987,987,987,937,987
+Washington,SG17,Registered Voters,,,,987,987,987,987,987,987,987,987
 Washington,SG18,Registered Voters,,,,827,827,827,827,827,827,827,827
 Washington,SG19,Registered Voters,,,,929,929,929,929,929,929,929,929
 Washington,SG20,Registered Voters,,,,912,912,912,912,912,912,912,912
 Washington,SG21,Registered Voters,,,,941,941,941,941,941,941,941,941
 Washington,SG22,Registered Voters,,,,635,635,635,635,635,635,635,635
-Washington,SG23,Registered Voters,,,,886,886,886,886,836,886,886,886
-Washington,SG24,Registered Voters,,,,435,485,485,485,485,485,485,485
+Washington,SG23,Registered Voters,,,,886,886,886,886,886,886,886,886
+Washington,SG24,Registered Voters,,,,485,485,485,485,485,485,485,485
 Washington,SG25,Registered Voters,,,,586,586,586,586,586,586,586,586
 Washington,SG26,Registered Voters,,,,730,730,730,730,730,730,730,730
 Washington,SG27,Registered Voters,,,,874,874,874,874,874,874,874,874
-Washington,SG28,Registered Voters,,,,1018,1018,1018,1018,1918,1018,1018,1018
+Washington,SG28,Registered Voters,,,,1018,1018,1018,1018,1018,1018,1018,1018
 Washington,SG29,Registered Voters,,,,861,861,861,861,861,861,861,861
 Washington,SG30,Registered Voters,,,,1102,1102,1102,1102,1102,1102,1102,1102
-Washington,SG31,Registered Voters,,,,855,855,855,855,855,855,55,855
+Washington,SG31,Registered Voters,,,,855,855,855,855,855,855,855,855
 Washington,SG32,Registered Voters,,,,826,826,826,826,826,826,826,826
 Washington,SG33,Registered Voters,,,,568,568,568,568,568,568,568,568
 Washington,SG34,Registered Voters,,,,1003,1003,1003,1003,1003,1003,1003,1003
@@ -83,7 +83,7 @@ Washington,SG36,Registered Voters,,,,864,864,864,864,864,864,864,864
 Washington,SG37,Registered Voters,,,,756,756,756,756,756,756,756,756
 Washington,SG38,Registered Voters,,,,870,870,870,870,870,870,870,870
 Washington,SG39,Registered Voters,,,,1140,1140,1140,1140,1140,1140,1140,1140
-Washington,SG40,Registered Voters,,,,758,758,758,758,758,758,738,758
+Washington,SG40,Registered Voters,,,,758,758,758,758,758,758,758,758
 Washington,SG41,Registered Voters,,,,684,684,684,684,684,684,684,684
 Washington,SG42,Registered Voters,,,,785,785,785,785,785,785,785,785
 Washington,SG43,Registered Voters,,,,740,740,740,740,740,740,740,740
@@ -374,7 +374,7 @@ Washington,LA85,U.S. Senate,,Mike Kennedy,,7,0,0,1,82,0,0,90
 Washington,LA86,U.S. Senate,,Mike Kennedy,,5,0,0,1,75,0,0,81
 Washington,LA87,U.S. Senate,,Mike Kennedy,,6,0,0,0,71,0,0,77
 Washington,LE90,U.S. Senate,,Mike Kennedy,,0,1,0,0,114,1,0,116
-Washington,NH93,U.S. Senate,,Mike Kennedy,,0,0,20,0,0,0,0,20
+Washington,NH93,U.S. Senate,,Mike Kennedy,,0,0,0,0,20,0,0,20
 Washington,RC94,U.S. Senate,,Mike Kennedy,,0,0,0,0,10,0,0,10
 Washington,SC71,U.S. Senate,,Mike Kennedy,,66,1,0,6,17,1,0,91
 Washington,SC72,U.S. Senate,,Mike Kennedy,,51,0,0,8,13,0,0,72
@@ -595,7 +595,7 @@ Washington,IV78,State House,71,Brad Last,,,,,,,,,
 Washington,IV79,State House,71,Brad Last,,,,,,,,,
 Washington,IV80,State House,71,Brad Last,,,,,,,,,
 Washington,LA85,State House,71,Brad Last,,4,0,0,1,131,0,0,136
-Washington,LA86,State House,71,Brad Last,,3,1,0,,106,0,0,110
+Washington,LA86,State House,71,Brad Last,,3,1,0,0,106,0,0,110
 Washington,LA87,State House,71,Brad Last,,6,0,0,0,108,0,0,114
 Washington,LE90,State House,71,Brad Last,,0,1,0,0,165,1,0,167
 Washington,NH93,State House,71,Brad Last,,0,0,0,0,41,0,0,41
@@ -671,3 +671,227 @@ Washington,WA71,State House,71,Brad Last,,,,,,,,,
 Washington,WA72,State House,71,Brad Last,,,,,,,,,
 Washington,WA73,State House,71,Brad Last,,,,,,,,,
 Washington,Total,State House,71,Brad Last,,815,55,0,101,1822,37,0,2830
+Washington,AV51,County Commission,A,Gil Almquist,,0,0,0,0,58,0,0,58
+Washington,AV51,County Commission,A,Allen J Davis,,0,0,0,0,42,0,0,42
+Washington,COAND,County Commission,A,Gil Almquist,,0,0,0,0,0,0,0,0
+Washington,COAND,County Commission,A,Allen J Davis,,0,0,0,0,0,0,0,0
+Washington,COCDSR,County Commission,A,Gil Almquist,,3,1,0,0,21,0,0,25
+Washington,COCDSR,County Commission,A,Allen J Davis,,0,0,0,0,18,0,0,18
+Washington,COCNBR,County Commission,A,Gil Almquist,,0,0,0,0,37,1,0,38
+Washington,COCNBR,County Commission,A,Allen J Davis,,0,2,0,0,60,1,0,63
+Washington,CODAV,County Commission,A,Gil Almquist,,0,1,0,2,77,2,0,82
+Washington,CODAV,County Commission,A,Allen J Davis,,0,4,0,1,110,1,0,116
+Washington,CODIV,County Commission,A,Gil Almquist,,2,47,0,1,15,0,0,65
+Washington,CODIV,County Commission,A,Allen J Davis,,1,54,0,2,21,2,0,80
+Washington,CODXDR,County Commission,A,Gil Almquist,,0,1,0,0,48,0,0,49
+Washington,CODXDR,County Commission,A,Allen J Davis,,0,0,0,0,63,2,0,65
+Washington,COGL,County Commission,A,Gil Almquist,,0,0,0,0,9,0,0,9
+Washington,COGL,County Commission,A,Allen J Davis,,0,0,0,0,13,0,0,13
+Washington,COGUBL,County Commission,A,Gil Almquist,,0,0,0,0,2,0,0,2
+Washington,COGUBL,County Commission,A,Allen J Davis,,0,0,0,0,0,0,0,0
+Washington,COHS74,County Commission,A,Gil Almquist,,0,0,0,0,6,0,0,6
+Washington,COHS74,County Commission,A,Allen J Davis,,0,0,0,0,2,0,0,2
+Washington,COHV28,County Commission,A,Gil Almquist,,0,0,0,0,6,0,0,6
+Washington,COHV28,County Commission,A,Allen J Davis,,0,0,0,0,3,0,0,3
+Washington,COHV29,County Commission,A,Gil Almquist,,0,0,0,0,0,0,0,0
+Washington,COHV29,County Commission,A,Allen J Davis,,0,0,0,0,3,0,0,3
+Washington,COLEED,County Commission,A,Gil Almquist,,0,0,0,0,36,0,0,36
+Washington,COLEED,County Commission,A,Allen J Davis,,0,0,0,0,29,0,0,29
+Washington,CONCF,County Commission,A,Gil Almquist,,0,0,0,0,23,0,0,23
+Washington,CONCF,County Commission,A,Allen J Davis,,0,1,0,0,13,0,0,14
+Washington,CONH,County Commission,A,Gil Almquist,,0,0,0,0,92,0,0,92
+Washington,CONH,County Commission,A,Allen J Davis,,1,0,0,2,121,0,0,124
+Washington,COPINE,County Commission,A,Gil Almquist,,0,0,0,0,45,0,0,45
+Washington,COPINE,County Commission,A,Allen J Davis,,0,0,0,0,41,0,0,41
+Washington,COSN28,County Commission,A,Gil Almquist,,0,0,0,0,3,0,0,3
+Washington,COSN28,County Commission,A,Allen J Davis,,0,0,0,0,2,0,0,2
+Washington,COVE,County Commission,A,Gil Almquist,,0,0,0,0,29,0,0,29
+Washington,COVE,County Commission,A,Allen J Davis,,0,0,0,0,76,0,0,76
+Washington,COWH,County Commission,A,Gil Almquist,,0,37,0,3,8,1,0,49
+Washington,COWH,County Commission,A,Allen J Davis,,0,138,0,15,42,4,0,199
+Washington,EN82,County Commission,A,Gil Almquist,,1,2,0,0,159,0,0,162
+Washington,EN82,County Commission,A,Allen J Davis,,0,1,0,0,112,2,0,115
+Washington,HIL97,County Commission,A,Gil Almquist,,0,0,0,0,20,0,0,20
+Washington,HIL97,County Commission,A,Allen J Davis,,0,0,0,0,28,0,0,28
+Washington,HU52,County Commission,A,Gil Almquist,,103,0,0,6,42,1,0,152
+Washington,HU52,County Commission,A,Allen J Davis,,37,0,0,11,6,2,0,56
+Washington,HU53,County Commission,A,Gil Almquist,,91,0,0,9,26,0,0,126
+Washington,HU53,County Commission,A,Allen J Davis,,48,0,0,4,21,0,0,73
+Washington,HU54,County Commission,A,Gil Almquist,,75,0,0,16,64,2,0,157
+Washington,HU54,County Commission,A,Allen J Davis,,38,0,0,6,26,0,0,70
+Washington,HU55,County Commission,A,Gil Almquist,,43,1,0,0,14,0,0,58
+Washington,HU55,County Commission,A,Allen J Davis,,30,0,0,2,9,0,0,41
+Washington,HU56,County Commission,A,Gil Almquist,,86,0,0,6,72,3,0,167
+Washington,HU56,County Commission,A,Allen J Davis,,29,0,0,3,44,1,0,77
+Washington,HU57,County Commission,A,Gil Almquist,,48,1,0,3,29,7,0,88
+Washington,HU57,County Commission,A,Allen J Davis,,28,0,0,5,19,4,0,56
+Washington,HU58,County Commission,A,Gil Almquist,,85,4,0,11,42,0,0,142
+Washington,HU58,County Commission,A,Allen J Davis,,62,0,0,8,23,0,0,93
+Washington,HU59,County Commission,A,Gil Almquist,,39,0,0,6,33,1,0,79
+Washington,HU59,County Commission,A,Allen J Davis,,22,0,0,3,19,1,0,45
+Washington,HU60,County Commission,A,Gil Almquist,,65,0,0,9,55,2,0,131
+Washington,HU60,County Commission,A,Allen J Davis,,41,2,0,5,42,4,0,94
+Washington,IV76,County Commission,A,Gil Almquist,,0,62,0,7,28,2,0,99
+Washington,IV76,County Commission,A,Allen J Davis,,0,24,0,8,17,2,0,51
+Washington,IV77,County Commission,A,Gil Almquist,,2,46,0,8,36,3,0,95
+Washington,IV77,County Commission,A,Allen J Davis,,5,40,0,4,39,2,0,90
+Washington,IV78,County Commission,A,Gil Almquist,,1,53,0,9,46,3,0,112
+Washington,IV78,County Commission,A,Allen J Davis,,1,39,0,5,55,1,0,101
+Washington,IV79,County Commission,A,Gil Almquist,,4,77,0,17,37,2,0,137
+Washington,IV79,County Commission,A,Allen J Davis,,1,49,0,12,20,1,0,83
+Washington,IV80,County Commission,A,Gil Almquist,,4,71,0,17,45,1,0,138
+Washington,IV80,County Commission,A,Allen J Davis,,3,50,0,5,20,3,0,81
+Washington,LA85,County Commission,A,Gil Almquist,,3,0,0,1,106,0,0,110
+Washington,LA85,County Commission,A,Allen J Davis,,5,0,0,0,66,0,0,71
+Washington,LA86,County Commission,A,Gil Almquist,,3,1,0,0,103,0,0,107
+Washington,LA86,County Commission,A,Allen J Davis,,3,1,0,1,55,0,0,60
+Washington,LA87,County Commission,A,Gil Almquist,,5,0,0,0,88,0,0,93
+Washington,LA87,County Commission,A,Allen J Davis,,3,0,0,0,61,0,0,64
+Washington,LE90,County Commission,A,Gil Almquist,,0,1,0,0,129,1,0,131
+Washington,LE90,County Commission,A,Allen J Davis,,0,0,0,0,92,0,0,92
+Washington,NH93,County Commission,A,Gil Almquist,,0,0,0,0,30,0,0,30
+Washington,NH93,County Commission,A,Allen J Davis,,0,0,0,0,25,0,0,25
+Washington,RC94,County Commission,A,Gil Almquist,,0,0,0,0,16,0,0,16
+Washington,RC94,County Commission,A,Allen J Davis,,0,0,0,0,14,0,0,14
+Washington,SC71,County Commission,A,Gil Almquist,,109,5,0,19,42,1,0,176
+Washington,SC71,County Commission,A,Allen J Davis,,39,0,0,3,16,2,0,60
+Washington,SC72,County Commission,A,Gil Almquist,,68,0,0,12,26,2,0,108
+Washington,SC72,County Commission,A,Allen J Davis,,32,0,0,6,7,0,0,45
+Washington,SC73,County Commission,A,Gil Almquist,,103,0,0,19,31,0,0,153
+Washington,SC73,County Commission,A,Allen J Davis,,43,0,0,6,19,1,0,69
+Washington,SC74,County Commission,A,Gil Almquist,,109,0,0,36,41,2,0,188
+Washington,SC74,County Commission,A,Allen J Davis,,51,0,0,12,28,1,0,92
+Washington,SG01,County Commission,A,Gil Almquist,,21,12,0,4,19,2,0,58
+Washington,SG01,County Commission,A,Allen J Davis,,21,12,0,5,12,1,0,51
+Washington,SG02,County Commission,A,Gil Almquist,,4,33,0,6,29,6,0,78
+Washington,SG02,County Commission,A,Allen J Davis,,0,25,0,1,26,2,0,54
+Washington,SG03,County Commission,A,Gil Almquist,,4,61,0,8,35,4,0,112
+Washington,SG03,County Commission,A,Allen J Davis,,0,34,0,4,15,3,0,56
+Washington,SG04,County Commission,A,Gil Almquist,,45,2,0,8,21,2,0,78
+Washington,SG04,County Commission,A,Allen J Davis,,23,0,0,2,9,0,0,34
+Washington,SG05,County Commission,A,Gil Almquist,,1,53,0,11,50,1,0,116
+Washington,SG05,County Commission,A,Allen J Davis,,0,15,0,2,21,1,0,39
+Washington,SG06,County Commission,A,Gil Almquist,,1,58,0,10,13,2,0,84
+Washington,SG06,County Commission,A,Allen J Davis,,1,20,0,3,7,3,0,34
+Washington,SG07,County Commission,A,Gil Almquist,,1,60,0,14,37,5,0,117
+Washington,SG07,County Commission,A,Allen J Davis,,0,26,0,1,14,3,0,44
+Washington,SG08,County Commission,A,Gil Almquist,,77,5,0,6,32,2,0,122
+Washington,SG08,County Commission,A,Allen J Davis,,27,4,0,0,24,1,0,56
+Washington,SG09,County Commission,A,Gil Almquist,,58,5,0,15,80,0,0,158
+Washington,SG09,County Commission,A,Allen J Davis,,36,2,0,11,28,0,0,77
+Washington,SG10,County Commission,A,Gil Almquist,,55,1,0,12,20,2,0,90
+Washington,SG10,County Commission,A,Allen J Davis,,14,1,0,5,12,1,0,33
+Washington,SG11,County Commission,A,Gil Almquist,,62,4,0,3,31,0,0,100
+Washington,SG11,County Commission,A,Allen J Davis,,22,5,0,4,14,5,0,50
+Washington,SG12,County Commission,A,Gil Almquist,,47,0,0,8,44,5,0,104
+Washington,SG12,County Commission,A,Allen J Davis,,21,0,0,5,22,1,0,49
+Washington,SG13,County Commission,A,Gil Almquist,,32,1,0,3,30,0,0,66
+Washington,SG13,County Commission,A,Allen J Davis,,13,3,0,3,15,0,0,34
+Washington,SG14,County Commission,A,Gil Almquist,,5,35,0,4,28,0,0,72
+Washington,SG14,County Commission,A,Allen J Davis,,3,16,0,4,15,0,0,38
+Washington,SG15,County Commission,A,Gil Almquist,,15,63,0,17,18,4,0,117
+Washington,SG15,County Commission,A,Allen J Davis,,2,30,0,2,28,1,0,63
+Washington,SG16,County Commission,A,Gil Almquist,,52,0,0,9,47,2,0,110
+Washington,SG16,County Commission,A,Allen J Davis,,41,0,0,8,14,0,0,63
+Washington,SG17,County Commission,A,Gil Almquist,,94,4,0,26,100,0,0,224
+Washington,SG17,County Commission,A,Allen J Davis,,29,1,0,3,39,0,0,72
+Washington,SG18,County Commission,A,Gil Almquist,,7,80,0,10,49,3,0,149
+Washington,SG18,County Commission,A,Allen J Davis,,1,31,0,4,18,0,0,54
+Washington,SG19,County Commission,A,Gil Almquist,,7,94,0,10,36,4,0,151
+Washington,SG19,County Commission,A,Allen J Davis,,3,23,0,0,9,0,0,35
+Washington,SG20,County Commission,A,Gil Almquist,,85,2,0,8,48,1,0,144
+Washington,SG20,County Commission,A,Allen J Davis,,29,3,0,6,27,2,0,67
+Washington,SG21,County Commission,A,Gil Almquist,,101,2,0,20,45,2,0,170
+Washington,SG21,County Commission,A,Allen J Davis,,25,2,0,6,26,1,0,60
+Washington,SG22,County Commission,A,Gil Almquist,,7,55,0,9,60,1,0,132
+Washington,SG22,County Commission,A,Allen J Davis,,7,32,0,1,19,0,0,59
+Washington,SG23,County Commission,A,Gil Almquist,,22,69,0,15,44,1,0,151
+Washington,SG23,County Commission,A,Allen J Davis,,9,40,0,2,22,1,0,74
+Washington,SG24,County Commission,A,Gil Almquist,,2,61,0,4,33,2,0,102
+Washington,SG24,County Commission,A,Allen J Davis,,3,36,0,0,8,0,0,47
+Washington,SG25,County Commission,A,Gil Almquist,,101,1,0,11,30,5,0,148
+Washington,SG25,County Commission,A,Allen J Davis,,26,1,0,4,7,2,0,40
+Washington,SG26,County Commission,A,Gil Almquist,,77,0,0,15,60,2,0,154
+Washington,SG26,County Commission,A,Allen J Davis,,36,1,0,3,15,2,0,57
+Washington,SG27,County Commission,A,Gil Almquist,,124,6,0,36,29,6,0,201
+Washington,SG27,County Commission,A,Allen J Davis,,17,1,0,0,6,0,0,24
+Washington,SG28,County Commission,A,Gil Almquist,,184,5,0,17,61,3,0,270
+Washington,SG28,County Commission,A,Allen J Davis,,28,0,0,3,12,2,0,45
+Washington,SG29,County Commission,A,Gil Almquist,,113,6,0,23,51,18,0,211
+Washington,SG29,County Commission,A,Allen J Davis,,21,1,0,5,24,4,0,55
+Washington,SG30,County Commission,A,Gil Almquist,,179,6,0,45,107,0,0,337
+Washington,SG30,County Commission,A,Allen J Davis,,35,0,0,6,23,1,0,65
+Washington,SG31,County Commission,A,Gil Almquist,,125,2,0,28,68,1,0,224
+Washington,SG31,County Commission,A,Allen J Davis,,35,0,0,8,21,1,0,65
+Washington,SG32,County Commission,A,Gil Almquist,,82,3,0,11,72,4,0,172
+Washington,SG32,County Commission,A,Allen J Davis,,26,0,0,9,27,1,0,63
+Washington,SG33,County Commission,A,Gil Almquist,,77,2,0,10,79,2,0,170
+Washington,SG33,County Commission,A,Allen J Davis,,11,1,0,3,19,0,0,34
+Washington,SG34,County Commission,A,Gil Almquist,,76,8,0,19,75,2,0,180
+Washington,SG34,County Commission,A,Allen J Davis,,17,3,0,10,37,4,0,71
+Washington,SG35,County Commission,A,Gil Almquist,,40,15,0,7,30,3,0,95
+Washington,SG35,County Commission,A,Allen J Davis,,32,2,0,1,18,1,0,54
+Washington,SG36,County Commission,A,Gil Almquist,,6,55,0,2,87,1,0,151
+Washington,SG36,County Commission,A,Allen J Davis,,2,37,0,4,45,2,0,90
+Washington,SG37,County Commission,A,Gil Almquist,,1,63,0,2,48,3,0,117
+Washington,SG37,County Commission,A,Allen J Davis,,1,38,0,2,21,1,0,63
+Washington,SG38,County Commission,A,Gil Almquist,,0,29,0,10,26,6,0,71
+Washington,SG38,County Commission,A,Allen J Davis,,0,26,0,4,14,1,0,45
+Washington,SG39,County Commission,A,Gil Almquist,,8,144,0,17,81,4,0,254
+Washington,SG39,County Commission,A,Allen J Davis,,0,65,0,6,36,0,0,107
+Washington,SG40,County Commission,A,Gil Almquist,,2,92,0,7,40,0,0,141
+Washington,SG40,County Commission,A,Allen J Davis,,2,30,0,6,13,0,0,51
+Washington,SG41,County Commission,A,Gil Almquist,,0,86,0,6,73,2,0,167
+Washington,SG41,County Commission,A,Allen J Davis,,0,38,0,1,21,2,0,62
+Washington,SG42,County Commission,A,Gil Almquist,,66,1,0,15,58,3,0,143
+Washington,SG42,County Commission,A,Allen J Davis,,33,0,0,6,25,2,0,66
+Washington,SG43,County Commission,A,Gil Almquist,,66,25,0,6,43,5,0,145
+Washington,SG43,County Commission,A,Allen J Davis,,26,11,0,9,11,2,0,59
+Washington,SG44,County Commission,A,Gil Almquist,,59,23,0,12,42,8,0,144
+Washington,SG44,County Commission,A,Allen J Davis,,40,17,0,0,17,3,0,77
+Washington,SG45,County Commission,A,Gil Almquist,,4,102,0,8,43,1,0,158
+Washington,SG45,County Commission,A,Allen J Davis,,0,59,0,2,8,0,0,69
+Washington,SG46,County Commission,A,Gil Almquist,,1,167,0,20,130,6,0,324
+Washington,SG46,County Commission,A,Allen J Davis,,1,54,0,7,46,0,0,108
+Washington,SG47,County Commission,A,Gil Almquist,,3,68,0,25,53,2,0,151
+Washington,SG47,County Commission,A,Allen J Davis,,1,22,0,5,27,2,0,57
+Washington,SG48,County Commission,A,Gil Almquist,,0,52,0,1,43,5,0,101
+Washington,SG48,County Commission,A,Allen J Davis,,0,12,0,1,13,1,0,27
+Washington,SG49,County Commission,A,Gil Almquist,,0,52,0,7,22,0,0,81
+Washington,SG49,County Commission,A,Allen J Davis,,0,33,0,3,13,0,0,49
+Washington,SP95,County Commission,A,Gil Almquist,,0,1,0,0,49,0,0,50
+Washington,SP95,County Commission,A,Allen J Davis,,1,0,0,0,28,0,0,29
+Washington,TQ96,County Commission,A,Gil Almquist,,0,2,0,1,184,0,0,187
+Washington,TQ96,County Commission,A,Allen J Davis,,3,1,0,0,140,0,0,144
+Washington,VI89,County Commission,A,Gil Almquist,,0,0,0,0,83,0,0,83
+Washington,VI89,County Commission,A,Allen J Davis,,1,0,0,0,26,0,0,27
+Washington,WA60,County Commission,A,Gil Almquist,,0,86,0,24,53,2,0,165
+Washington,WA60,County Commission,A,Allen J Davis,,0,43,0,10,25,2,0,80
+Washington,WA61,County Commission,A,Gil Almquist,,0,50,0,14,21,1,0,86
+Washington,WA61,County Commission,A,Allen J Davis,,0,37,0,5,19,1,0,62
+Washington,WA62,County Commission,A,Gil Almquist,,0,81,0,10,22,3,0,116
+Washington,WA62,County Commission,A,Allen J Davis,,2,48,0,9,10,1,0,70
+Washington,WA63,County Commission,A,Gil Almquist,,0,56,0,9,28,4,0,97
+Washington,WA63,County Commission,A,Allen J Davis,,1,23,0,4,8,2,0,38
+Washington,WA64,County Commission,A,Gil Almquist,,1,86,0,15,31,2,0,135
+Washington,WA64,County Commission,A,Allen J Davis,,0,70,0,8,31,1,0,110
+Washington,WA65,County Commission,A,Gil Almquist,,52,9,0,7,22,1,0,91
+Washington,WA65,County Commission,A,Allen J Davis,,27,0,0,2,11,2,0,42
+Washington,WA66,County Commission,A,Gil Almquist,,7,45,0,9,34,2,0,97
+Washington,WA66,County Commission,A,Allen J Davis,,7,25,0,4,19,3,0,58
+Washington,WA67,County Commission,A,Gil Almquist,,19,66,0,12,43,1,0,141
+Washington,WA67,County Commission,A,Allen J Davis,,11,64,0,6,19,0,0,100
+Washington,WA68,County Commission,A,Gil Almquist,,91,8,0,11,43,6,0,159
+Washington,WA68,County Commission,A,Allen J Davis,,40,3,0,2,25,3,0,73
+Washington,WA69,County Commission,A,Gil Almquist,,32,17,0,8,55,4,0,116
+Washington,WA69,County Commission,A,Allen J Davis,,28,5,0,14,25,4,0,76
+Washington,WA70,County Commission,A,Gil Almquist,,9,43,0,9,28,2,0,91
+Washington,WA70,County Commission,A,Allen J Davis,,7,23,0,6,23,0,0,59
+Washington,WA71,County Commission,A,Gil Almquist,,0,64,0,13,68,5,0,150
+Washington,WA71,County Commission,A,Allen J Davis,,0,36,0,14,41,1,0,92
+Washington,WA72,County Commission,A,Gil Almquist,,63,1,0,7,23,4,0,98
+Washington,WA72,County Commission,A,Allen J Davis,,30,1,0,1,6,0,0,38
+Washington,WA73,County Commission,A,Gil Almquist,,68,3,0,5,28,0,0,104
+Washington,WA73,County Commission,A,Allen J Davis,,34,5,0,2,15,1,0,57
+Washington,Total,County Commission,A,Gil Almquist,,3593,2802,0,971,5090,217,0,12673
+Washington,Total,County Commission,A,Allen J Davis,,1435,1602,0,406,2976,118,0,6537

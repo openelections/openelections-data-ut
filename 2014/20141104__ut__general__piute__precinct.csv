@@ -1,5 +1,5 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,early_voting,votes
-,Registered Voters,,,Piute,Marysvale 1-1,229,229,229,229,229
+,Registered Voters,,,Piute,Marysvale 1-1,,,,,229
 ,Ballots Cast,,,Piute,Marysvale 1-1,108,24,0,23,155
 ,Straight Party,,LIB,Piute,Marysvale 1-1,0,0,0,0,0
 ,Straight Party,,IAP,Piute,Marysvale 1-1,1,0,0,0,1
@@ -17,7 +17,7 @@ Charles A. Stormont,Attorney General,,DEM,Piute,Marysvale 1-1,14,1,0,2,17
 Sean D Reyes,Attorney General,,REP,Piute,Marysvale 1-1,83,22,0,20,125
 Leslie D Curtis,Attorney General,,IAP,Piute,Marysvale 1-1,1,0,0,1,2
 Michael Noel,State House,73,REP,Piute,Marysvale 1-1,86,24,0,19,129
-,Registered Voters,,,Piute,Marysvale 1-2,90,90,90,90,90
+,Registered Voters,,,Piute,Marysvale 1-2,,,,,90
 ,Ballots Cast,,,Piute,Marysvale 1-2,37,2,0,8,47
 ,Straight Party,,LIB,Piute,Marysvale 1-2,0,0,0,0,0
 ,Straight Party,,IAP,Piute,Marysvale 1-2,0,0,0,0,0
@@ -35,7 +35,7 @@ Charles A. Stormont,Attorney General,,DEM,Piute,Marysvale 1-2,4,0,0,1,5
 Sean D Reyes,Attorney General,,REP,Piute,Marysvale 1-2,27,2,0,7,36
 Leslie D Curtis,Attorney General,,IAP,Piute,Marysvale 1-2,0,0,0,0,0
 Michael Noel,State House,73,REP,Piute,Marysvale 1-2,30,2,0,7,39
-,Registered Voters,,,Piute,Junction 2,112,112,112,112,112
+,Registered Voters,,,Piute,Junction 2,,,,,112
 ,Ballots Cast,,,Piute,Junction 2,47,14,0,20,81
 ,Straight Party,,LIB,Piute,Junction 2,1,0,0,0,1
 ,Straight Party,,IAP,Piute,Junction 2,1,0,0,0,1
@@ -53,7 +53,7 @@ Charles A. Stormont,Attorney General,,DEM,Piute,Junction 2,2,2,0,3,7
 Sean D Reyes,Attorney General,,REP,Piute,Junction 2,34,7,0,13,54
 Leslie D Curtis,Attorney General,,IAP,Piute,Junction 2,2,0,0,0,2
 Michael Noel,State House,73,REP,Piute,Junction 2,38,10,0,17,65
-,Registered Voters,,,Piute,Circleville 3-1,154,154,154,154,154
+,Registered Voters,,,Piute,Circleville 3-1,,,,,154
 ,Ballots Cast,,,Piute,Circleville 3-1,76,13,0,39,128
 ,Straight Party,,LIB,Piute,Circleville 3-1,0,0,0,0,0
 ,Straight Party,,IAP,Piute,Circleville 3-1,0,0,0,0,0
@@ -71,7 +71,7 @@ Charles A. Stormont,Attorney General,,DEM,Piute,Circleville 3-1,6,0,0,2,8
 Sean D Reyes,Attorney General,,REP,Piute,Circleville 3-1,53,12,0,30,95
 Leslie D Curtis,Attorney General,,IAP,Piute,Circleville 3-1,3,0,0,1,4
 Michael Noel,State House,73,REP,Piute,Circleville 3-1,61,12,0,29,102
-,Registered Voters,,,Piute,Circleville 3-2,134,134,134,134,134
+,Registered Voters,,,Piute,Circleville 3-2,,,,,134
 ,Ballots Cast,,,Piute,Circleville 3-2,72,11,0,10,93
 ,Straight Party,,LIB,Piute,Circleville 3-2,0,0,0,0,0
 ,Straight Party,,IAP,Piute,Circleville 3-2,1,0,0,0,1
@@ -89,7 +89,7 @@ Charles A. Stormont,Attorney General,,DEM,Piute,Circleville 3-2,1,1,0,0,2
 Sean D Reyes,Attorney General,,REP,Piute,Circleville 3-2,60,8,0,8,76
 Leslie D Curtis,Attorney General,,IAP,Piute,Circleville 3-2,1,0,0,0,1
 Michael Noel,State House,73,REP,Piute,Circleville 3-2,63,8,0,9,80
-,Registered Voters,,,Piute,Kingston 4,134,134,134,134,134
+,Registered Voters,,,Piute,Kingston 4,,,,,134
 ,Ballots Cast,,,Piute,Kingston 4,84,10,0,9,103
 ,Straight Party,,LIB,Piute,Kingston 4,0,0,0,0,0
 ,Straight Party,,IAP,Piute,Kingston 4,0,0,0,0,0
@@ -107,7 +107,7 @@ Charles A. Stormont,Attorney General,,DEM,Piute,Kingston 4,5,0,0,2,7
 Sean D Reyes,Attorney General,,REP,Piute,Kingston 4,66,8,0,5,79
 Leslie D Curtis,Attorney General,,IAP,Piute,Kingston 4,2,0,0,1,3
 Michael Noel,State House,73,REP,Piute,Kingston 4,70,9,0,4,83
-,Registered Voters,,,Piute,Greenwich 5,65,65,65,65,65
+,Registered Voters,,,Piute,Greenwich 5,,,,,65
 ,Ballots Cast,,,Piute,Greenwich 5,43,0,0,1,44
 ,Straight Party,,LIB,Piute,Greenwich 5,0,0,0,0,0
 ,Straight Party,,IAP,Piute,Greenwich 5,0,0,0,0,0
@@ -125,7 +125,7 @@ Charles A. Stormont,Attorney General,,DEM,Piute,Greenwich 5,1,0,0,0,1
 Sean D Reyes,Attorney General,,REP,Piute,Greenwich 5,37,0,0,1,38
 Leslie D Curtis,Attorney General,,IAP,Piute,Greenwich 5,2,0,0,0,2
 Michael Noel,State House,73,REP,Piute,Greenwich 5,34,0,0,1,35
-,Registered Voters,,,Piute,TOTAL,918,918,918,918,918
+,Registered Voters,,,Piute,TOTAL,,,,,918
 ,Ballots Cast,,,Piute,TOTAL,467,74,0,110,651
 ,Straight Party,,LIB,Piute,TOTAL,1,0,0,0,1
 ,Straight Party,,IAP,Piute,TOTAL,3,0,0,0,3
