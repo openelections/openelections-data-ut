@@ -1,9 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-San Juan,,Straight party,,Libertarian,,3
-San Juan,,Straight party,,Independent American,,61
-San Juan,,Straight party,,Republican,,476
-San Juan,,Straight party,,Constitution,,12
-San Juan,,Straight party,,Democratic,,859
+San Juan,Total,Straight party,,Libertarian,,3
+San Juan,Total,Straight party,,Independent American,,61
+San Juan,Total,Straight party,,Republican,,476
+San Juan,Total,Straight party,,Constitution,,12
+San Juan,Total,Straight party,,Democratic,,859
 San Juan,Bluff,US Congressional,3,,Ben J. Mates,15
 San Juan,M. Creek,US Congressional,3,,Ben J. Mates,5
 San Juan,Aneth,US Congressional,3,,Ben J. Mates,6
