@@ -24375,74 +24375,74 @@ Davis,WP01:,Constitutional Amendment B,,1,,For,1
 Davis,WP01:,Constitutional Amendment B,,1,,Against,9
 Davis,WP01:,Constitutional Amendment C,,1,,For,9
 Davis,WP01:,Constitutional Amendment C,,1,,Against,1
-Davis,WP01:,Registered Voters,,,,,212
-Davis,WP01:,Ballots Cast,,,,,188
-Davis,WP01:,President,,1,REP,Donald J. TRUMP / JD VANCE,151
-Davis,WP01:,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,34
-Davis,WP01:,President,,1,LBT,Chase OLIVER / Mike ter MAAT,0
-Davis,WP01:,President,,1,CON,Joel SKOUSEN / Rik COMBS,2
-Davis,WP01:,President,,1,GRN,Jill STEIN / Rudolph WARE,0
-Davis,WP01:,President,,1,,Cornel Ronald WEST / Melinda ABDULLAH,0
-Davis,WP01:,President,,1,,"Lucifer ""JUSTIN CASE"" EVERYLOVE",0
-Davis,WP01:,President,,1,,Claudia de la CRUZ / Karina Alexandra GARCIA,0
-Davis,WP01:,President,,1,,Write-In,1
-Davis,WP01:,U.S. Senate,,1,REP,John CURTIS,136
-Davis,WP01:,U.S. Senate,,1,DEM,Caroline GLEICH,28
-Davis,WP01:,U.S. Senate,,1,IAP,Carleton E. BOWEN,12
-Davis,WP01:,U.S. Senate,,1,,Write-In,0
-Davis,WP01:,U.S. House,1,1,REP,Blake D. MOORE,143
-Davis,WP01:,U.S. House,1,1,DEM,Bill CAMPBELL,26
-Davis,WP01:,U.S. House,1,1,LBT,Daniel R. COTTAM,6
-Davis,WP01:,Governor,,1,REP,Spencer J. COX / Deidre M. HENDERSON,124
-Davis,WP01:,Governor,,1,DEM,Brian SMITH KING / Rebekah CUMMINGS,22
-Davis,WP01:,Governor,,1,LBT,J. Robert LATHAM / Barry Evan SHORT,8
-Davis,WP01:,Governor,,1,IAP,Tommy WILLIAMS / Archie A. WILLIAMS III,1
-Davis,WP01:,Governor,,1,,Tom TOMENY / William LANSING TAYLOR,1
-Davis,WP01:,Governor,,1,,Write-In,24
-Davis,WP01:,Attorney General,,1,REP,Derek BROWN,133
-Davis,WP01:,Attorney General,,1,DEM,Rudy J. BAUTISTA,26
-Davis,WP01:,Attorney General,,1,LBT,W. Andrew McCULLOUGH,6
-Davis,WP01:,Attorney General,,1,UUP,Michelle QUIST,2
-Davis,WP01:,Attorney General,,1,,Austin HEPWORTH,11
-Davis,WP01:,State Auditor,,1,REP,Tina CANNON,129
-Davis,WP01:,State Auditor,,1,DEM,Catherine VOUTAZ,28
-Davis,WP01:,State Auditor,,1,CON,Jeffrey L. OSTLER,14
-Davis,WP01:,State Treasurer,,1,REP,Marlo M. OAKS,133
-Davis,WP01:,State Treasurer,,1,DEM,Neil A. HANSEN,33
-Davis,WP01:,State Treasurer,,1,UFP,Miles POMEROY,6
-Davis,WP01:,State Senate,4,1,REP,Calvin Ray MUSSELMAN,144
-Davis,WP01:,State House,12,1,REP,Mike SCHULTZ,129
-Davis,WP01:,State House,12,1,DEM,Sharon HILTON,49
-Davis,WP01:,State School Board,3,1,REP,Rod HALL,127
-Davis,WP01:,State School Board,3,1,UFP,Laura JOHNSON,38
-Davis,WP01:,County Commissioner,,1,REP,John CROFTS,129
-Davis,WP01:,County Commissioner,,1,,Michael J. LAMBERT,41
-Davis,WP01:,County Assessor,,1,REP,Andy HANSEN,149
-Davis,WP01:,County Recorder,,1,REP,Kelly A SILVESTER,144
-Davis,WP01:,County Surveyor,,1,REP,Max B ELLIOT,153
-Davis,WP01:,County Treasurer,,1,REP,Matt BRADY,145
-Davis,WP01:,Retain Supreme Court Justice-Matthew B. DURRANT,,1,,Yes,127
-Davis,WP01:,Retain Supreme Court Justice-Matthew B. DURRANT,,1,,No,26
-Davis,WP01:,Retain Appeals Court Judge-Ryan D. TENNEY,,1,,Yes,126
-Davis,WP01:,Retain Appeals Court Judge-Ryan D. TENNEY,,1,,No,24
-Davis,WP01:,Retain 2nd District Court Judge-Joseph M. BEAN,,1,,Yes,114
-Davis,WP01:,Retain 2nd District Court Judge-Joseph M. BEAN,,1,,No,35
-Davis,WP01:,Retain 2nd District Court Judge-Ronald G. RUSSELL,,1,,Yes,120
-Davis,WP01:,Retain 2nd District Court Judge-Ronald G. RUSSELL,,1,,No,27
-Davis,WP01:,Retain 2nd District Court Judge-Christina Patricia ORTEGA,,1,,Yes,112
-Davis,WP01:,Retain 2nd District Court Judge-Christina Patricia ORTEGA,,1,,No,35
-Davis,WP01:,Retain 2nd District Court Judge-Craig HALL,,1,,Yes,112
-Davis,WP01:,Retain 2nd District Court Judge-Craig HALL,,1,,No,35
-Davis,WP01:,Retain 2nd District Court Judge-Michael Dario DIREDA,,1,,Yes,117
-Davis,WP01:,Retain 2nd District Court Judge-Michael Dario DIREDA,,1,,No,29
-Davis,WP01:,Retain 2nd Juvenile District Court Judge-Tasha WILLIAMS,,1,,Yes,120
-Davis,WP01:,Retain 2nd Juvenile District Court Judge-Tasha WILLIAMS,,1,,No,28
-Davis,WP01:,Retain Clinton Justice Court Judge-Catherine J. HOSKINS,,1,,Yes,114
-Davis,WP01:,Retain Clinton Justice Court Judge-Catherine J. HOSKINS,,1,,No,33
-Davis,WP01:,Constitutional Amendment B,,1,,For,108
-Davis,WP01:,Constitutional Amendment B,,1,,Against,61
-Davis,WP01:,Constitutional Amendment C,,1,,For,151
-Davis,WP01:,Constitutional Amendment C,,1,,Against,23
+Davis,WP01:IHN-,Registered Voters,,,,,212
+Davis,WP01:IHN-,Ballots Cast,,,,,188
+Davis,WP01:IHN-,President,,1,REP,Donald J. TRUMP / JD VANCE,151
+Davis,WP01:IHN-,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,34
+Davis,WP01:IHN-,President,,1,LBT,Chase OLIVER / Mike ter MAAT,0
+Davis,WP01:IHN-,President,,1,CON,Joel SKOUSEN / Rik COMBS,2
+Davis,WP01:IHN-,President,,1,GRN,Jill STEIN / Rudolph WARE,0
+Davis,WP01:IHN-,President,,1,,Cornel Ronald WEST / Melinda ABDULLAH,0
+Davis,WP01:IHN-,President,,1,,"Lucifer ""JUSTIN CASE"" EVERYLOVE",0
+Davis,WP01:IHN-,President,,1,,Claudia de la CRUZ / Karina Alexandra GARCIA,0
+Davis,WP01:IHN-,President,,1,,Write-In,1
+Davis,WP01:IHN-,U.S. Senate,,1,REP,John CURTIS,136
+Davis,WP01:IHN-,U.S. Senate,,1,DEM,Caroline GLEICH,28
+Davis,WP01:IHN-,U.S. Senate,,1,IAP,Carleton E. BOWEN,12
+Davis,WP01:IHN-,U.S. Senate,,1,,Write-In,0
+Davis,WP01:IHN-,U.S. House,1,1,REP,Blake D. MOORE,143
+Davis,WP01:IHN-,U.S. House,1,1,DEM,Bill CAMPBELL,26
+Davis,WP01:IHN-,U.S. House,1,1,LBT,Daniel R. COTTAM,6
+Davis,WP01:IHN-,Governor,,1,REP,Spencer J. COX / Deidre M. HENDERSON,124
+Davis,WP01:IHN-,Governor,,1,DEM,Brian SMITH KING / Rebekah CUMMINGS,22
+Davis,WP01:IHN-,Governor,,1,LBT,J. Robert LATHAM / Barry Evan SHORT,8
+Davis,WP01:IHN-,Governor,,1,IAP,Tommy WILLIAMS / Archie A. WILLIAMS III,1
+Davis,WP01:IHN-,Governor,,1,,Tom TOMENY / William LANSING TAYLOR,1
+Davis,WP01:IHN-,Governor,,1,,Write-In,24
+Davis,WP01:IHN-,Attorney General,,1,REP,Derek BROWN,133
+Davis,WP01:IHN-,Attorney General,,1,DEM,Rudy J. BAUTISTA,26
+Davis,WP01:IHN-,Attorney General,,1,LBT,W. Andrew McCULLOUGH,6
+Davis,WP01:IHN-,Attorney General,,1,UUP,Michelle QUIST,2
+Davis,WP01:IHN-,Attorney General,,1,,Austin HEPWORTH,11
+Davis,WP01:IHN-,State Auditor,,1,REP,Tina CANNON,129
+Davis,WP01:IHN-,State Auditor,,1,DEM,Catherine VOUTAZ,28
+Davis,WP01:IHN-,State Auditor,,1,CON,Jeffrey L. OSTLER,14
+Davis,WP01:IHN-,State Treasurer,,1,REP,Marlo M. OAKS,133
+Davis,WP01:IHN-,State Treasurer,,1,DEM,Neil A. HANSEN,33
+Davis,WP01:IHN-,State Treasurer,,1,UFP,Miles POMEROY,6
+Davis,WP01:IHN-,State Senate,4,1,REP,Calvin Ray MUSSELMAN,144
+Davis,WP01:IHN-,State House,12,1,REP,Mike SCHULTZ,129
+Davis,WP01:IHN-,State House,12,1,DEM,Sharon HILTON,49
+Davis,WP01:IHN-,State School Board,3,1,REP,Rod HALL,127
+Davis,WP01:IHN-,State School Board,3,1,UFP,Laura JOHNSON,38
+Davis,WP01:IHN-,County Commissioner,,1,REP,John CROFTS,129
+Davis,WP01:IHN-,County Commissioner,,1,,Michael J. LAMBERT,41
+Davis,WP01:IHN-,County Assessor,,1,REP,Andy HANSEN,149
+Davis,WP01:IHN-,County Recorder,,1,REP,Kelly A SILVESTER,144
+Davis,WP01:IHN-,County Surveyor,,1,REP,Max B ELLIOT,153
+Davis,WP01:IHN-,County Treasurer,,1,REP,Matt BRADY,145
+Davis,WP01:IHN-,Retain Supreme Court Justice-Matthew B. DURRANT,,1,,Yes,127
+Davis,WP01:IHN-,Retain Supreme Court Justice-Matthew B. DURRANT,,1,,No,26
+Davis,WP01:IHN-,Retain Appeals Court Judge-Ryan D. TENNEY,,1,,Yes,126
+Davis,WP01:IHN-,Retain Appeals Court Judge-Ryan D. TENNEY,,1,,No,24
+Davis,WP01:IHN-,Retain 2nd District Court Judge-Joseph M. BEAN,,1,,Yes,114
+Davis,WP01:IHN-,Retain 2nd District Court Judge-Joseph M. BEAN,,1,,No,35
+Davis,WP01:IHN-,Retain 2nd District Court Judge-Ronald G. RUSSELL,,1,,Yes,120
+Davis,WP01:IHN-,Retain 2nd District Court Judge-Ronald G. RUSSELL,,1,,No,27
+Davis,WP01:IHN-,Retain 2nd District Court Judge-Christina Patricia ORTEGA,,1,,Yes,112
+Davis,WP01:IHN-,Retain 2nd District Court Judge-Christina Patricia ORTEGA,,1,,No,35
+Davis,WP01:IHN-,Retain 2nd District Court Judge-Craig HALL,,1,,Yes,112
+Davis,WP01:IHN-,Retain 2nd District Court Judge-Craig HALL,,1,,No,35
+Davis,WP01:IHN-,Retain 2nd District Court Judge-Michael Dario DIREDA,,1,,Yes,117
+Davis,WP01:IHN-,Retain 2nd District Court Judge-Michael Dario DIREDA,,1,,No,29
+Davis,WP01:IHN-,Retain 2nd Juvenile District Court Judge-Tasha WILLIAMS,,1,,Yes,120
+Davis,WP01:IHN-,Retain 2nd Juvenile District Court Judge-Tasha WILLIAMS,,1,,No,28
+Davis,WP01:IHN-,Retain Clinton Justice Court Judge-Catherine J. HOSKINS,,1,,Yes,114
+Davis,WP01:IHN-,Retain Clinton Justice Court Judge-Catherine J. HOSKINS,,1,,No,33
+Davis,WP01:IHN-,Constitutional Amendment B,,1,,For,108
+Davis,WP01:IHN-,Constitutional Amendment B,,1,,Against,61
+Davis,WP01:IHN-,Constitutional Amendment C,,1,,For,151
+Davis,WP01:IHN-,Constitutional Amendment C,,1,,Against,23
 Davis,WP02:IHN-,Registered Voters,,,,,348
 Davis,WP02:IHN-,Ballots Cast,,,,,308
 Davis,WP02:IHN-,President,,1,REP,Donald J. TRUMP / JD VANCE,226

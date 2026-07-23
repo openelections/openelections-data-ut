@@ -147,34 +147,34 @@ def process_county_data(county_data, county_name):
         county_name = county_name[:-7]
     
     results = []
-    
+
     # Iterate through ballot items (contests)
     for contest in county_data.get('ballotItems', []):
         contest_name = contest.get('name', '')
         contest_type = contest.get('contestType', 'Candidate')
-        
+
         office, district = parse_office_district(contest_name, contest_type)
-        
+
         # Iterate through ballot options (candidates or choices)
         for option in contest.get('ballotOptions', []):
             candidate_name = option.get('name', '')
             political_party = option.get('politicalParty', '')
-            
+
             candidate, party = parse_candidate_party(candidate_name, political_party)
-            
+
             # Iterate through precinct results
             for precinct_result in option.get('precinctResults', []):
                 precinct_name = precinct_result.get('name', '')
                 vote_count = precinct_result.get('voteCount', 0)
-                
+
                 # Skip if precinct name is empty or vote count is None
                 if not precinct_name:
                     continue
-                
+
                 # Handle empty vote counts
                 if vote_count is None or vote_count == '':
                     vote_count = ''
-                
+
                 results.append({
                     'county': county_name,
                     'precinct': precinct_name,
@@ -184,8 +184,46 @@ def process_county_data(county_data, county_name):
                     'candidate': candidate,
                     'votes': vote_count
                 })
-    
-    return results
+
+    # A single contest may list multiple certified write-in candidates as
+    # separate ballot options. parse_candidate_party collapses all of them to
+    # the single label "Write-ins", which would otherwise emit one row per
+    # write-in candidate per precinct -- duplicate rows that differ only in
+    # votes. Aggregate those rows by summing their votes per precinct/contest so
+    # each precinct has a single "Write-ins" total.
+    return _aggregate_write_ins(results)
+
+
+def _to_int(value):
+    """Coerce a vote value to int for summing; blanks/non-numeric become 0."""
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return 0
+
+
+def _aggregate_write_ins(results):
+    """
+    Merge rows whose non-vote columns match and whose candidate is "Write-ins",
+    summing their votes. Other rows are passed through unchanged so genuine
+    duplicates are still surfaced by downstream tests.
+    """
+    merged = []
+    write_in_index = {}
+    for row in results:
+        if row['candidate'] == 'Write-ins':
+            key = (row['county'], row['precinct'], row['office'],
+                   row['district'], row['party'], row['candidate'])
+            pos = write_in_index.get(key)
+            if pos is not None:
+                merged[pos]['votes'] = _to_int(merged[pos]['votes']) + _to_int(row['votes'])
+            else:
+                write_in_index[key] = len(merged)
+                row['votes'] = _to_int(row['votes'])
+                merged.append(row)
+        else:
+            merged.append(row)
+    return merged
 
 
 def process_json_file(json_file_path, output_csv_path, county_filter=None):
