@@ -1,0 +1,901 @@
+county,precinct,office,district,party,candidate,votes
+Cache,3AMA:I,Ballots Cast,,,,72
+Cache,3AMA:I,Ballots Cast Blank,,,,0
+Cache,3AMA:I,County Attorney,,REP,Dane Murray,24
+Cache,3AMA:I,County Attorney,,REP,J. Brett Chambers,46
+Cache,3AMA:I,County Attorney,,REP,Over Votes,0
+Cache,3AMA:I,County Attorney,,REP,Under Votes,2
+Cache,3AMA:I,U.S. House,2,REP,Blake D. Moore,41
+Cache,3AMA:I,U.S. House,2,REP,Karianne Lisonbee,31
+Cache,3AMA:I,U.S. House,2,REP,Over Votes,0
+Cache,3AMA:I,U.S. House,2,REP,Under Votes,0
+Cache,3BEN:U,Ballots Cast,,,,101
+Cache,3BEN:U,Ballots Cast Blank,,,,0
+Cache,3BEN:U,County Attorney,,REP,Dane Murray,51
+Cache,3BEN:U,County Attorney,,REP,J. Brett Chambers,49
+Cache,3BEN:U,County Attorney,,REP,Over Votes,0
+Cache,3BEN:U,County Attorney,,REP,Under Votes,1
+Cache,3BEN:U,U.S. House,2,REP,Blake D. Moore,57
+Cache,3BEN:U,U.S. House,2,REP,Karianne Lisonbee,44
+Cache,3BEN:U,U.S. House,2,REP,Over Votes,0
+Cache,3BEN:U,U.S. House,2,REP,Under Votes,0
+Cache,3CLK:I,Ballots Cast,,,,113
+Cache,3CLK:I,Ballots Cast Blank,,,,0
+Cache,3CLK:I,County Attorney,,REP,Dane Murray,41
+Cache,3CLK:I,County Attorney,,REP,J. Brett Chambers,69
+Cache,3CLK:I,County Attorney,,REP,Over Votes,0
+Cache,3CLK:I,County Attorney,,REP,Under Votes,3
+Cache,3CLK:I,U.S. House,2,REP,Blake D. Moore,71
+Cache,3CLK:I,U.S. House,2,REP,Karianne Lisonbee,42
+Cache,3CLK:I,U.S. House,2,REP,Over Votes,0
+Cache,3CLK:I,U.S. House,2,REP,Under Votes,0
+Cache,3COR:I,Ballots Cast,,,,37
+Cache,3COR:I,Ballots Cast Blank,,,,0
+Cache,3COR:I,County Attorney,,REP,Dane Murray,10
+Cache,3COR:I,County Attorney,,REP,J. Brett Chambers,27
+Cache,3COR:I,County Attorney,,REP,Over Votes,0
+Cache,3COR:I,County Attorney,,REP,Under Votes,0
+Cache,3COR:I,U.S. House,2,REP,Blake D. Moore,21
+Cache,3COR:I,U.S. House,2,REP,Karianne Lisonbee,16
+Cache,3COR:I,U.S. House,2,REP,Over Votes,0
+Cache,3COR:I,U.S. House,2,REP,Under Votes,0
+Cache,3COV:U,Ballots Cast,,,,106
+Cache,3COV:U,Ballots Cast Blank,,,,0
+Cache,3COV:U,County Attorney,,REP,Dane Murray,50
+Cache,3COV:U,County Attorney,,REP,J. Brett Chambers,55
+Cache,3COV:U,County Attorney,,REP,Over Votes,0
+Cache,3COV:U,County Attorney,,REP,Under Votes,1
+Cache,3COV:U,U.S. House,2,REP,Blake D. Moore,65
+Cache,3COV:U,U.S. House,2,REP,Karianne Lisonbee,41
+Cache,3COV:U,U.S. House,2,REP,Over Votes,0
+Cache,3COV:U,U.S. House,2,REP,Under Votes,0
+Cache,3CY:U,Ballots Cast,,,,164
+Cache,3CY:U,Ballots Cast Blank,,,,0
+Cache,3CY:U,County Attorney,,REP,Dane Murray,55
+Cache,3CY:U,County Attorney,,REP,J. Brett Chambers,105
+Cache,3CY:U,County Attorney,,REP,Over Votes,0
+Cache,3CY:U,County Attorney,,REP,Under Votes,4
+Cache,3CY:U,U.S. House,2,REP,Blake D. Moore,96
+Cache,3CY:U,U.S. House,2,REP,Karianne Lisonbee,68
+Cache,3CY:U,U.S. House,2,REP,Over Votes,0
+Cache,3CY:U,U.S. House,2,REP,Under Votes,0
+Cache,3HYD1:I,Ballots Cast,,,,283
+Cache,3HYD1:I,Ballots Cast Blank,,,,0
+Cache,3HYD1:I,County Attorney,,REP,Dane Murray,142
+Cache,3HYD1:I,County Attorney,,REP,J. Brett Chambers,135
+Cache,3HYD1:I,County Attorney,,REP,Over Votes,0
+Cache,3HYD1:I,County Attorney,,REP,Under Votes,6
+Cache,3HYD1:I,U.S. House,2,REP,Blake D. Moore,188
+Cache,3HYD1:I,U.S. House,2,REP,Karianne Lisonbee,93
+Cache,3HYD1:I,U.S. House,2,REP,Over Votes,0
+Cache,3HYD1:I,U.S. House,2,REP,Under Votes,2
+Cache,3HYD2:I,Ballots Cast,,,,314
+Cache,3HYD2:I,Ballots Cast Blank,,,,0
+Cache,3HYD2:I,County Attorney,,REP,Dane Murray,146
+Cache,3HYD2:I,County Attorney,,REP,J. Brett Chambers,167
+Cache,3HYD2:I,County Attorney,,REP,Over Votes,0
+Cache,3HYD2:I,County Attorney,,REP,Under Votes,1
+Cache,3HYD2:I,U.S. House,2,REP,Blake D. Moore,173
+Cache,3HYD2:I,U.S. House,2,REP,Karianne Lisonbee,135
+Cache,3HYD2:I,U.S. House,2,REP,Over Votes,0
+Cache,3HYD2:I,U.S. House,2,REP,Under Votes,6
+Cache,3HYD3:I,Ballots Cast,,,,335
+Cache,3HYD3:I,Ballots Cast Blank,,,,0
+Cache,3HYD3:I,County Attorney,,REP,Dane Murray,124
+Cache,3HYD3:I,County Attorney,,REP,J. Brett Chambers,208
+Cache,3HYD3:I,County Attorney,,REP,Over Votes,0
+Cache,3HYD3:I,County Attorney,,REP,Under Votes,3
+Cache,3HYD3:I,U.S. House,2,REP,Blake D. Moore,211
+Cache,3HYD3:I,U.S. House,2,REP,Karianne Lisonbee,121
+Cache,3HYD3:I,U.S. House,2,REP,Over Votes,0
+Cache,3HYD3:I,U.S. House,2,REP,Under Votes,3
+Cache,3HYR1:I,Ballots Cast,,,,151
+Cache,3HYR1:I,Ballots Cast Blank,,,,0
+Cache,3HYR1:I,County Attorney,,REP,Dane Murray,74
+Cache,3HYR1:I,County Attorney,,REP,J. Brett Chambers,72
+Cache,3HYR1:I,County Attorney,,REP,Over Votes,0
+Cache,3HYR1:I,County Attorney,,REP,Under Votes,5
+Cache,3HYR1:I,U.S. House,2,REP,Blake D. Moore,79
+Cache,3HYR1:I,U.S. House,2,REP,Karianne Lisonbee,70
+Cache,3HYR1:I,U.S. House,2,REP,Over Votes,0
+Cache,3HYR1:I,U.S. House,2,REP,Under Votes,2
+Cache,3HYR2:I,Ballots Cast,,,,209
+Cache,3HYR2:I,Ballots Cast Blank,,,,0
+Cache,3HYR2:I,County Attorney,,REP,Dane Murray,117
+Cache,3HYR2:I,County Attorney,,REP,J. Brett Chambers,90
+Cache,3HYR2:I,County Attorney,,REP,Over Votes,0
+Cache,3HYR2:I,County Attorney,,REP,Under Votes,2
+Cache,3HYR2:I,U.S. House,2,REP,Blake D. Moore,116
+Cache,3HYR2:I,U.S. House,2,REP,Karianne Lisonbee,93
+Cache,3HYR2:I,U.S. House,2,REP,Over Votes,0
+Cache,3HYR2:I,U.S. House,2,REP,Under Votes,0
+Cache,3HYR3:I,Ballots Cast,,,,223
+Cache,3HYR3:I,Ballots Cast Blank,,,,0
+Cache,3HYR3:I,County Attorney,,REP,Dane Murray,85
+Cache,3HYR3:I,County Attorney,,REP,J. Brett Chambers,136
+Cache,3HYR3:I,County Attorney,,REP,Over Votes,0
+Cache,3HYR3:I,County Attorney,,REP,Under Votes,2
+Cache,3HYR3:I,U.S. House,2,REP,Blake D. Moore,129
+Cache,3HYR3:I,U.S. House,2,REP,Karianne Lisonbee,93
+Cache,3HYR3:I,U.S. House,2,REP,Over Votes,0
+Cache,3HYR3:I,U.S. House,2,REP,Under Votes,1
+Cache,3HYR4:I,Ballots Cast,,,,320
+Cache,3HYR4:I,Ballots Cast Blank,,,,0
+Cache,3HYR4:I,County Attorney,,REP,Dane Murray,128
+Cache,3HYR4:I,County Attorney,,REP,J. Brett Chambers,185
+Cache,3HYR4:I,County Attorney,,REP,Over Votes,0
+Cache,3HYR4:I,County Attorney,,REP,Under Votes,7
+Cache,3HYR4:I,U.S. House,2,REP,Blake D. Moore,170
+Cache,3HYR4:I,U.S. House,2,REP,Karianne Lisonbee,149
+Cache,3HYR4:I,U.S. House,2,REP,Over Votes,0
+Cache,3HYR4:I,U.S. House,2,REP,Under Votes,1
+Cache,3HYR5:I,Ballots Cast,,,,343
+Cache,3HYR5:I,Ballots Cast Blank,,,,0
+Cache,3HYR5:I,County Attorney,,REP,Dane Murray,153
+Cache,3HYR5:I,County Attorney,,REP,J. Brett Chambers,187
+Cache,3HYR5:I,County Attorney,,REP,Over Votes,0
+Cache,3HYR5:I,County Attorney,,REP,Under Votes,3
+Cache,3HYR5:I,U.S. House,2,REP,Blake D. Moore,199
+Cache,3HYR5:I,U.S. House,2,REP,Karianne Lisonbee,139
+Cache,3HYR5:I,U.S. House,2,REP,Over Votes,1
+Cache,3HYR5:I,U.S. House,2,REP,Under Votes,4
+Cache,3HYR5:U,Ballots Cast,,,,68
+Cache,3HYR5:U,Ballots Cast Blank,,,,0
+Cache,3HYR5:U,County Attorney,,REP,Dane Murray,24
+Cache,3HYR5:U,County Attorney,,REP,J. Brett Chambers,44
+Cache,3HYR5:U,County Attorney,,REP,Over Votes,0
+Cache,3HYR5:U,County Attorney,,REP,Under Votes,0
+Cache,3HYR5:U,U.S. House,2,REP,Blake D. Moore,43
+Cache,3HYR5:U,U.S. House,2,REP,Karianne Lisonbee,25
+Cache,3HYR5:U,U.S. House,2,REP,Over Votes,0
+Cache,3HYR5:U,U.S. House,2,REP,Under Votes,0
+Cache,3LEW1:I,Ballots Cast,,,,274
+Cache,3LEW1:I,Ballots Cast Blank,,,,0
+Cache,3LEW1:I,County Attorney,,REP,Dane Murray,155
+Cache,3LEW1:I,County Attorney,,REP,J. Brett Chambers,114
+Cache,3LEW1:I,County Attorney,,REP,Over Votes,0
+Cache,3LEW1:I,County Attorney,,REP,Under Votes,5
+Cache,3LEW1:I,U.S. House,2,REP,Blake D. Moore,156
+Cache,3LEW1:I,U.S. House,2,REP,Karianne Lisonbee,117
+Cache,3LEW1:I,U.S. House,2,REP,Over Votes,0
+Cache,3LEW1:I,U.S. House,2,REP,Under Votes,1
+Cache,3LEW1:U,Ballots Cast,,,,20
+Cache,3LEW1:U,Ballots Cast Blank,,,,0
+Cache,3LEW1:U,County Attorney,,REP,Dane Murray,8
+Cache,3LEW1:U,County Attorney,,REP,J. Brett Chambers,12
+Cache,3LEW1:U,County Attorney,,REP,Over Votes,0
+Cache,3LEW1:U,County Attorney,,REP,Under Votes,0
+Cache,3LEW1:U,U.S. House,2,REP,Blake D. Moore,11
+Cache,3LEW1:U,U.S. House,2,REP,Karianne Lisonbee,9
+Cache,3LEW1:U,U.S. House,2,REP,Over Votes,0
+Cache,3LEW1:U,U.S. House,2,REP,Under Votes,0
+Cache,3LG01:I,Ballots Cast,,,,156
+Cache,3LG01:I,Ballots Cast Blank,,,,0
+Cache,3LG01:I,County Attorney,,REP,Dane Murray,55
+Cache,3LG01:I,County Attorney,,REP,J. Brett Chambers,99
+Cache,3LG01:I,County Attorney,,REP,Over Votes,0
+Cache,3LG01:I,County Attorney,,REP,Under Votes,2
+Cache,3LG01:I,U.S. House,2,REP,Blake D. Moore,83
+Cache,3LG01:I,U.S. House,2,REP,Karianne Lisonbee,73
+Cache,3LG01:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG01:I,U.S. House,2,REP,Under Votes,0
+Cache,3LG02:I,Ballots Cast,,,,78
+Cache,3LG02:I,Ballots Cast Blank,,,,0
+Cache,3LG02:I,County Attorney,,REP,Dane Murray,36
+Cache,3LG02:I,County Attorney,,REP,J. Brett Chambers,41
+Cache,3LG02:I,County Attorney,,REP,Over Votes,0
+Cache,3LG02:I,County Attorney,,REP,Under Votes,1
+Cache,3LG02:I,U.S. House,2,REP,Blake D. Moore,33
+Cache,3LG02:I,U.S. House,2,REP,Karianne Lisonbee,43
+Cache,3LG02:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG02:I,U.S. House,2,REP,Under Votes,2
+Cache,3LG03:I,Ballots Cast,,,,86
+Cache,3LG03:I,Ballots Cast Blank,,,,0
+Cache,3LG03:I,County Attorney,,REP,Dane Murray,26
+Cache,3LG03:I,County Attorney,,REP,J. Brett Chambers,59
+Cache,3LG03:I,County Attorney,,REP,Over Votes,0
+Cache,3LG03:I,County Attorney,,REP,Under Votes,1
+Cache,3LG03:I,U.S. House,2,REP,Blake D. Moore,42
+Cache,3LG03:I,U.S. House,2,REP,Karianne Lisonbee,44
+Cache,3LG03:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG03:I,U.S. House,2,REP,Under Votes,0
+Cache,3LG04:I,Ballots Cast,,,,157
+Cache,3LG04:I,Ballots Cast Blank,,,,0
+Cache,3LG04:I,County Attorney,,REP,Dane Murray,47
+Cache,3LG04:I,County Attorney,,REP,J. Brett Chambers,106
+Cache,3LG04:I,County Attorney,,REP,Over Votes,0
+Cache,3LG04:I,County Attorney,,REP,Under Votes,4
+Cache,3LG04:I,U.S. House,2,REP,Blake D. Moore,96
+Cache,3LG04:I,U.S. House,2,REP,Karianne Lisonbee,60
+Cache,3LG04:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG04:I,U.S. House,2,REP,Under Votes,1
+Cache,3LG05:I,Ballots Cast,,,,40
+Cache,3LG05:I,Ballots Cast Blank,,,,0
+Cache,3LG05:I,County Attorney,,REP,Dane Murray,18
+Cache,3LG05:I,County Attorney,,REP,J. Brett Chambers,22
+Cache,3LG05:I,County Attorney,,REP,Over Votes,0
+Cache,3LG05:I,County Attorney,,REP,Under Votes,0
+Cache,3LG05:I,U.S. House,2,REP,Blake D. Moore,29
+Cache,3LG05:I,U.S. House,2,REP,Karianne Lisonbee,11
+Cache,3LG05:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG05:I,U.S. House,2,REP,Under Votes,0
+Cache,3LG06:I,Ballots Cast,,,,35
+Cache,3LG06:I,Ballots Cast Blank,,,,0
+Cache,3LG06:I,County Attorney,,REP,Dane Murray,10
+Cache,3LG06:I,County Attorney,,REP,J. Brett Chambers,25
+Cache,3LG06:I,County Attorney,,REP,Over Votes,0
+Cache,3LG06:I,County Attorney,,REP,Under Votes,0
+Cache,3LG06:I,U.S. House,2,REP,Blake D. Moore,26
+Cache,3LG06:I,U.S. House,2,REP,Karianne Lisonbee,9
+Cache,3LG06:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG06:I,U.S. House,2,REP,Under Votes,0
+Cache,3LG07:I,Ballots Cast,,,,164
+Cache,3LG07:I,Ballots Cast Blank,,,,0
+Cache,3LG07:I,County Attorney,,REP,Dane Murray,70
+Cache,3LG07:I,County Attorney,,REP,J. Brett Chambers,91
+Cache,3LG07:I,County Attorney,,REP,Over Votes,0
+Cache,3LG07:I,County Attorney,,REP,Under Votes,3
+Cache,3LG07:I,U.S. House,2,REP,Blake D. Moore,114
+Cache,3LG07:I,U.S. House,2,REP,Karianne Lisonbee,48
+Cache,3LG07:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG07:I,U.S. House,2,REP,Under Votes,2
+Cache,3LG08:I,Ballots Cast,,,,194
+Cache,3LG08:I,Ballots Cast Blank,,,,0
+Cache,3LG08:I,County Attorney,,REP,Dane Murray,97
+Cache,3LG08:I,County Attorney,,REP,J. Brett Chambers,96
+Cache,3LG08:I,County Attorney,,REP,Over Votes,0
+Cache,3LG08:I,County Attorney,,REP,Under Votes,1
+Cache,3LG08:I,U.S. House,2,REP,Blake D. Moore,110
+Cache,3LG08:I,U.S. House,2,REP,Karianne Lisonbee,79
+Cache,3LG08:I,U.S. House,2,REP,Over Votes,1
+Cache,3LG08:I,U.S. House,2,REP,Under Votes,4
+Cache,3LG09:I,Ballots Cast,,,,155
+Cache,3LG09:I,Ballots Cast Blank,,,,0
+Cache,3LG09:I,County Attorney,,REP,Dane Murray,71
+Cache,3LG09:I,County Attorney,,REP,J. Brett Chambers,81
+Cache,3LG09:I,County Attorney,,REP,Over Votes,0
+Cache,3LG09:I,County Attorney,,REP,Under Votes,3
+Cache,3LG09:I,U.S. House,2,REP,Blake D. Moore,98
+Cache,3LG09:I,U.S. House,2,REP,Karianne Lisonbee,54
+Cache,3LG09:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG09:I,U.S. House,2,REP,Under Votes,3
+Cache,3LG10:I,Ballots Cast,,,,75
+Cache,3LG10:I,Ballots Cast Blank,,,,0
+Cache,3LG10:I,County Attorney,,REP,Dane Murray,21
+Cache,3LG10:I,County Attorney,,REP,J. Brett Chambers,54
+Cache,3LG10:I,County Attorney,,REP,Over Votes,0
+Cache,3LG10:I,County Attorney,,REP,Under Votes,0
+Cache,3LG10:I,U.S. House,2,REP,Blake D. Moore,55
+Cache,3LG10:I,U.S. House,2,REP,Karianne Lisonbee,20
+Cache,3LG10:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG10:I,U.S. House,2,REP,Under Votes,0
+Cache,3LG11:I,Ballots Cast,,,,148
+Cache,3LG11:I,Ballots Cast Blank,,,,0
+Cache,3LG11:I,County Attorney,,REP,Dane Murray,52
+Cache,3LG11:I,County Attorney,,REP,J. Brett Chambers,94
+Cache,3LG11:I,County Attorney,,REP,Over Votes,0
+Cache,3LG11:I,County Attorney,,REP,Under Votes,2
+Cache,3LG11:I,U.S. House,2,REP,Blake D. Moore,103
+Cache,3LG11:I,U.S. House,2,REP,Karianne Lisonbee,43
+Cache,3LG11:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG11:I,U.S. House,2,REP,Under Votes,2
+Cache,3LG12:I,Ballots Cast,,,,142
+Cache,3LG12:I,Ballots Cast Blank,,,,0
+Cache,3LG12:I,County Attorney,,REP,Dane Murray,53
+Cache,3LG12:I,County Attorney,,REP,J. Brett Chambers,86
+Cache,3LG12:I,County Attorney,,REP,Over Votes,0
+Cache,3LG12:I,County Attorney,,REP,Under Votes,3
+Cache,3LG12:I,U.S. House,2,REP,Blake D. Moore,72
+Cache,3LG12:I,U.S. House,2,REP,Karianne Lisonbee,67
+Cache,3LG12:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG12:I,U.S. House,2,REP,Under Votes,3
+Cache,3LG13:I,Ballots Cast,,,,48
+Cache,3LG13:I,Ballots Cast Blank,,,,1
+Cache,3LG13:I,County Attorney,,REP,Dane Murray,14
+Cache,3LG13:I,County Attorney,,REP,J. Brett Chambers,31
+Cache,3LG13:I,County Attorney,,REP,Over Votes,0
+Cache,3LG13:I,County Attorney,,REP,Under Votes,3
+Cache,3LG13:I,U.S. House,2,REP,Blake D. Moore,31
+Cache,3LG13:I,U.S. House,2,REP,Karianne Lisonbee,15
+Cache,3LG13:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG13:I,U.S. House,2,REP,Under Votes,2
+Cache,3LG14:I,Ballots Cast,,,,66
+Cache,3LG14:I,Ballots Cast Blank,,,,0
+Cache,3LG14:I,County Attorney,,REP,Dane Murray,21
+Cache,3LG14:I,County Attorney,,REP,J. Brett Chambers,45
+Cache,3LG14:I,County Attorney,,REP,Over Votes,0
+Cache,3LG14:I,County Attorney,,REP,Under Votes,0
+Cache,3LG14:I,U.S. House,2,REP,Blake D. Moore,46
+Cache,3LG14:I,U.S. House,2,REP,Karianne Lisonbee,20
+Cache,3LG14:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG14:I,U.S. House,2,REP,Under Votes,0
+Cache,3LG15:I,Ballots Cast,,,,85
+Cache,3LG15:I,Ballots Cast Blank,,,,0
+Cache,3LG15:I,County Attorney,,REP,Dane Murray,37
+Cache,3LG15:I,County Attorney,,REP,J. Brett Chambers,45
+Cache,3LG15:I,County Attorney,,REP,Over Votes,0
+Cache,3LG15:I,County Attorney,,REP,Under Votes,3
+Cache,3LG15:I,U.S. House,2,REP,Blake D. Moore,44
+Cache,3LG15:I,U.S. House,2,REP,Karianne Lisonbee,39
+Cache,3LG15:I,U.S. House,2,REP,Over Votes,1
+Cache,3LG15:I,U.S. House,2,REP,Under Votes,1
+Cache,3LG16:I,Ballots Cast,,,,137
+Cache,3LG16:I,Ballots Cast Blank,,,,0
+Cache,3LG16:I,County Attorney,,REP,Dane Murray,53
+Cache,3LG16:I,County Attorney,,REP,J. Brett Chambers,84
+Cache,3LG16:I,County Attorney,,REP,Over Votes,0
+Cache,3LG16:I,County Attorney,,REP,Under Votes,0
+Cache,3LG16:I,U.S. House,2,REP,Blake D. Moore,78
+Cache,3LG16:I,U.S. House,2,REP,Karianne Lisonbee,57
+Cache,3LG16:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG16:I,U.S. House,2,REP,Under Votes,2
+Cache,3LG17:I,Ballots Cast,,,,89
+Cache,3LG17:I,Ballots Cast Blank,,,,0
+Cache,3LG17:I,County Attorney,,REP,Dane Murray,37
+Cache,3LG17:I,County Attorney,,REP,J. Brett Chambers,52
+Cache,3LG17:I,County Attorney,,REP,Over Votes,0
+Cache,3LG17:I,County Attorney,,REP,Under Votes,0
+Cache,3LG17:I,U.S. House,2,REP,Blake D. Moore,42
+Cache,3LG17:I,U.S. House,2,REP,Karianne Lisonbee,47
+Cache,3LG17:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG17:I,U.S. House,2,REP,Under Votes,0
+Cache,3LG18:IA,Ballots Cast,,,,155
+Cache,3LG18:IA,Ballots Cast Blank,,,,0
+Cache,3LG18:IA,County Attorney,,REP,Dane Murray,63
+Cache,3LG18:IA,County Attorney,,REP,J. Brett Chambers,87
+Cache,3LG18:IA,County Attorney,,REP,Over Votes,0
+Cache,3LG18:IA,County Attorney,,REP,Under Votes,5
+Cache,3LG18:IA,U.S. House,2,REP,Blake D. Moore,96
+Cache,3LG18:IA,U.S. House,2,REP,Karianne Lisonbee,59
+Cache,3LG18:IA,U.S. House,2,REP,Over Votes,0
+Cache,3LG18:IA,U.S. House,2,REP,Under Votes,0
+Cache,3LG19:I,Ballots Cast,,,,107
+Cache,3LG19:I,Ballots Cast Blank,,,,0
+Cache,3LG19:I,County Attorney,,REP,Dane Murray,43
+Cache,3LG19:I,County Attorney,,REP,J. Brett Chambers,63
+Cache,3LG19:I,County Attorney,,REP,Over Votes,0
+Cache,3LG19:I,County Attorney,,REP,Under Votes,1
+Cache,3LG19:I,U.S. House,2,REP,Blake D. Moore,68
+Cache,3LG19:I,U.S. House,2,REP,Karianne Lisonbee,38
+Cache,3LG19:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG19:I,U.S. House,2,REP,Under Votes,1
+Cache,3LG20:I,Ballots Cast,,,,241
+Cache,3LG20:I,Ballots Cast Blank,,,,1
+Cache,3LG20:I,County Attorney,,REP,Dane Murray,62
+Cache,3LG20:I,County Attorney,,REP,J. Brett Chambers,176
+Cache,3LG20:I,County Attorney,,REP,Over Votes,1
+Cache,3LG20:I,County Attorney,,REP,Under Votes,2
+Cache,3LG20:I,U.S. House,2,REP,Blake D. Moore,157
+Cache,3LG20:I,U.S. House,2,REP,Karianne Lisonbee,79
+Cache,3LG20:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG20:I,U.S. House,2,REP,Under Votes,5
+Cache,3LG21:IA,Ballots Cast,,,,223
+Cache,3LG21:IA,Ballots Cast Blank,,,,0
+Cache,3LG21:IA,County Attorney,,REP,Dane Murray,43
+Cache,3LG21:IA,County Attorney,,REP,J. Brett Chambers,175
+Cache,3LG21:IA,County Attorney,,REP,Over Votes,0
+Cache,3LG21:IA,County Attorney,,REP,Under Votes,5
+Cache,3LG21:IA,U.S. House,2,REP,Blake D. Moore,152
+Cache,3LG21:IA,U.S. House,2,REP,Karianne Lisonbee,67
+Cache,3LG21:IA,U.S. House,2,REP,Over Votes,0
+Cache,3LG21:IA,U.S. House,2,REP,Under Votes,4
+Cache,3LG22:CSD,Ballots Cast,,,,22
+Cache,3LG22:CSD,Ballots Cast Blank,,,,0
+Cache,3LG22:CSD,County Attorney,,REP,Dane Murray,8
+Cache,3LG22:CSD,County Attorney,,REP,J. Brett Chambers,14
+Cache,3LG22:CSD,County Attorney,,REP,Over Votes,0
+Cache,3LG22:CSD,County Attorney,,REP,Under Votes,0
+Cache,3LG22:CSD,U.S. House,2,REP,Blake D. Moore,12
+Cache,3LG22:CSD,U.S. House,2,REP,Karianne Lisonbee,10
+Cache,3LG22:CSD,U.S. House,2,REP,Over Votes,0
+Cache,3LG22:CSD,U.S. House,2,REP,Under Votes,0
+Cache,3LG22:I,Ballots Cast,,,,87
+Cache,3LG22:I,Ballots Cast Blank,,,,0
+Cache,3LG22:I,County Attorney,,REP,Dane Murray,43
+Cache,3LG22:I,County Attorney,,REP,J. Brett Chambers,40
+Cache,3LG22:I,County Attorney,,REP,Over Votes,0
+Cache,3LG22:I,County Attorney,,REP,Under Votes,4
+Cache,3LG22:I,U.S. House,2,REP,Blake D. Moore,46
+Cache,3LG22:I,U.S. House,2,REP,Karianne Lisonbee,41
+Cache,3LG22:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG22:I,U.S. House,2,REP,Under Votes,0
+Cache,3LG23:I,Ballots Cast,,,,111
+Cache,3LG23:I,Ballots Cast Blank,,,,0
+Cache,3LG23:I,County Attorney,,REP,Dane Murray,45
+Cache,3LG23:I,County Attorney,,REP,J. Brett Chambers,66
+Cache,3LG23:I,County Attorney,,REP,Over Votes,0
+Cache,3LG23:I,County Attorney,,REP,Under Votes,0
+Cache,3LG23:I,U.S. House,2,REP,Blake D. Moore,65
+Cache,3LG23:I,U.S. House,2,REP,Karianne Lisonbee,46
+Cache,3LG23:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG23:I,U.S. House,2,REP,Under Votes,0
+Cache,3LG24:CSD2,Ballots Cast,,,,28
+Cache,3LG24:CSD2,Ballots Cast Blank,,,,0
+Cache,3LG24:CSD2,County Attorney,,REP,Dane Murray,13
+Cache,3LG24:CSD2,County Attorney,,REP,J. Brett Chambers,15
+Cache,3LG24:CSD2,County Attorney,,REP,Over Votes,0
+Cache,3LG24:CSD2,County Attorney,,REP,Under Votes,0
+Cache,3LG24:CSD2,U.S. House,2,REP,Blake D. Moore,19
+Cache,3LG24:CSD2,U.S. House,2,REP,Karianne Lisonbee,9
+Cache,3LG24:CSD2,U.S. House,2,REP,Over Votes,0
+Cache,3LG24:CSD2,U.S. House,2,REP,Under Votes,0
+Cache,3LG24:I,Ballots Cast,,,,111
+Cache,3LG24:I,Ballots Cast Blank,,,,0
+Cache,3LG24:I,County Attorney,,REP,Dane Murray,52
+Cache,3LG24:I,County Attorney,,REP,J. Brett Chambers,59
+Cache,3LG24:I,County Attorney,,REP,Over Votes,0
+Cache,3LG24:I,County Attorney,,REP,Under Votes,0
+Cache,3LG24:I,U.S. House,2,REP,Blake D. Moore,53
+Cache,3LG24:I,U.S. House,2,REP,Karianne Lisonbee,58
+Cache,3LG24:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG24:I,U.S. House,2,REP,Under Votes,0
+Cache,3LG25:I,Ballots Cast,,,,39
+Cache,3LG25:I,Ballots Cast Blank,,,,1
+Cache,3LG25:I,County Attorney,,REP,Dane Murray,13
+Cache,3LG25:I,County Attorney,,REP,J. Brett Chambers,25
+Cache,3LG25:I,County Attorney,,REP,Over Votes,0
+Cache,3LG25:I,County Attorney,,REP,Under Votes,1
+Cache,3LG25:I,U.S. House,2,REP,Blake D. Moore,24
+Cache,3LG25:I,U.S. House,2,REP,Karianne Lisonbee,14
+Cache,3LG25:I,U.S. House,2,REP,Over Votes,0
+Cache,3LG25:I,U.S. House,2,REP,Under Votes,1
+Cache,3MEN:I,Ballots Cast,,,,268
+Cache,3MEN:I,Ballots Cast Blank,,,,0
+Cache,3MEN:I,County Attorney,,REP,Dane Murray,135
+Cache,3MEN:I,County Attorney,,REP,J. Brett Chambers,126
+Cache,3MEN:I,County Attorney,,REP,Over Votes,0
+Cache,3MEN:I,County Attorney,,REP,Under Votes,7
+Cache,3MEN:I,U.S. House,2,REP,Blake D. Moore,160
+Cache,3MEN:I,U.S. House,2,REP,Karianne Lisonbee,107
+Cache,3MEN:I,U.S. House,2,REP,Over Votes,0
+Cache,3MEN:I,U.S. House,2,REP,Under Votes,1
+Cache,3MEN:U,Ballots Cast,,,,202
+Cache,3MEN:U,Ballots Cast Blank,,,,0
+Cache,3MEN:U,County Attorney,,REP,Dane Murray,73
+Cache,3MEN:U,County Attorney,,REP,J. Brett Chambers,125
+Cache,3MEN:U,County Attorney,,REP,Over Votes,0
+Cache,3MEN:U,County Attorney,,REP,Under Votes,4
+Cache,3MEN:U,U.S. House,2,REP,Blake D. Moore,116
+Cache,3MEN:U,U.S. House,2,REP,Karianne Lisonbee,86
+Cache,3MEN:U,U.S. House,2,REP,Over Votes,0
+Cache,3MEN:U,U.S. House,2,REP,Under Votes,0
+Cache,3MIL1:I,Ballots Cast,,,,338
+Cache,3MIL1:I,Ballots Cast Blank,,,,0
+Cache,3MIL1:I,County Attorney,,REP,Dane Murray,102
+Cache,3MIL1:I,County Attorney,,REP,J. Brett Chambers,230
+Cache,3MIL1:I,County Attorney,,REP,Over Votes,0
+Cache,3MIL1:I,County Attorney,,REP,Under Votes,6
+Cache,3MIL1:I,U.S. House,2,REP,Blake D. Moore,211
+Cache,3MIL1:I,U.S. House,2,REP,Karianne Lisonbee,124
+Cache,3MIL1:I,U.S. House,2,REP,Over Votes,0
+Cache,3MIL1:I,U.S. House,2,REP,Under Votes,3
+Cache,3MIL2:I,Ballots Cast,,,,26
+Cache,3MIL2:I,Ballots Cast Blank,,,,0
+Cache,3MIL2:I,County Attorney,,REP,Dane Murray,11
+Cache,3MIL2:I,County Attorney,,REP,J. Brett Chambers,14
+Cache,3MIL2:I,County Attorney,,REP,Over Votes,0
+Cache,3MIL2:I,County Attorney,,REP,Under Votes,1
+Cache,3MIL2:I,U.S. House,2,REP,Blake D. Moore,17
+Cache,3MIL2:I,U.S. House,2,REP,Karianne Lisonbee,9
+Cache,3MIL2:I,U.S. House,2,REP,Over Votes,0
+Cache,3MIL2:I,U.S. House,2,REP,Under Votes,0
+Cache,3MIL2:U,Ballots Cast,,,,20
+Cache,3MIL2:U,Ballots Cast Blank,,,,0
+Cache,3MIL2:U,County Attorney,,REP,Dane Murray,8
+Cache,3MIL2:U,County Attorney,,REP,J. Brett Chambers,12
+Cache,3MIL2:U,County Attorney,,REP,Over Votes,0
+Cache,3MIL2:U,County Attorney,,REP,Under Votes,0
+Cache,3MIL2:U,U.S. House,2,REP,Blake D. Moore,12
+Cache,3MIL2:U,U.S. House,2,REP,Karianne Lisonbee,8
+Cache,3MIL2:U,U.S. House,2,REP,Over Votes,0
+Cache,3MIL2:U,U.S. House,2,REP,Under Votes,0
+Cache,3NEW:I,Ballots Cast,,,,134
+Cache,3NEW:I,Ballots Cast Blank,,,,0
+Cache,3NEW:I,County Attorney,,REP,Dane Murray,55
+Cache,3NEW:I,County Attorney,,REP,J. Brett Chambers,78
+Cache,3NEW:I,County Attorney,,REP,Over Votes,0
+Cache,3NEW:I,County Attorney,,REP,Under Votes,1
+Cache,3NEW:I,U.S. House,2,REP,Blake D. Moore,78
+Cache,3NEW:I,U.S. House,2,REP,Karianne Lisonbee,56
+Cache,3NEW:I,U.S. House,2,REP,Over Votes,0
+Cache,3NEW:I,U.S. House,2,REP,Under Votes,0
+Cache,3NEW:U,Ballots Cast,,,,34
+Cache,3NEW:U,Ballots Cast Blank,,,,0
+Cache,3NEW:U,County Attorney,,REP,Dane Murray,23
+Cache,3NEW:U,County Attorney,,REP,J. Brett Chambers,11
+Cache,3NEW:U,County Attorney,,REP,Over Votes,0
+Cache,3NEW:U,County Attorney,,REP,Under Votes,0
+Cache,3NEW:U,U.S. House,2,REP,Blake D. Moore,13
+Cache,3NEW:U,U.S. House,2,REP,Karianne Lisonbee,21
+Cache,3NEW:U,U.S. House,2,REP,Over Votes,0
+Cache,3NEW:U,U.S. House,2,REP,Under Votes,0
+Cache,3NIB1:IA,Ballots Cast,,,,126
+Cache,3NIB1:IA,Ballots Cast Blank,,,,0
+Cache,3NIB1:IA,County Attorney,,REP,Dane Murray,50
+Cache,3NIB1:IA,County Attorney,,REP,J. Brett Chambers,76
+Cache,3NIB1:IA,County Attorney,,REP,Over Votes,0
+Cache,3NIB1:IA,County Attorney,,REP,Under Votes,0
+Cache,3NIB1:IA,U.S. House,2,REP,Blake D. Moore,59
+Cache,3NIB1:IA,U.S. House,2,REP,Karianne Lisonbee,66
+Cache,3NIB1:IA,U.S. House,2,REP,Over Votes,0
+Cache,3NIB1:IA,U.S. House,2,REP,Under Votes,1
+Cache,3NIB2:I,Ballots Cast,,,,257
+Cache,3NIB2:I,Ballots Cast Blank,,,,0
+Cache,3NIB2:I,County Attorney,,REP,Dane Murray,126
+Cache,3NIB2:I,County Attorney,,REP,J. Brett Chambers,125
+Cache,3NIB2:I,County Attorney,,REP,Over Votes,0
+Cache,3NIB2:I,County Attorney,,REP,Under Votes,6
+Cache,3NIB2:I,U.S. House,2,REP,Blake D. Moore,138
+Cache,3NIB2:I,U.S. House,2,REP,Karianne Lisonbee,117
+Cache,3NIB2:I,U.S. House,2,REP,Over Votes,0
+Cache,3NIB2:I,U.S. House,2,REP,Under Votes,2
+Cache,3NIB3:I,Ballots Cast,,,,174
+Cache,3NIB3:I,Ballots Cast Blank,,,,0
+Cache,3NIB3:I,County Attorney,,REP,Dane Murray,87
+Cache,3NIB3:I,County Attorney,,REP,J. Brett Chambers,84
+Cache,3NIB3:I,County Attorney,,REP,Over Votes,0
+Cache,3NIB3:I,County Attorney,,REP,Under Votes,3
+Cache,3NIB3:I,U.S. House,2,REP,Blake D. Moore,93
+Cache,3NIB3:I,U.S. House,2,REP,Karianne Lisonbee,81
+Cache,3NIB3:I,U.S. House,2,REP,Over Votes,0
+Cache,3NIB3:I,U.S. House,2,REP,Under Votes,0
+Cache,3NIB4:I,Ballots Cast,,,,284
+Cache,3NIB4:I,Ballots Cast Blank,,,,0
+Cache,3NIB4:I,County Attorney,,REP,Dane Murray,87
+Cache,3NIB4:I,County Attorney,,REP,J. Brett Chambers,195
+Cache,3NIB4:I,County Attorney,,REP,Over Votes,0
+Cache,3NIB4:I,County Attorney,,REP,Under Votes,2
+Cache,3NIB4:I,U.S. House,2,REP,Blake D. Moore,154
+Cache,3NIB4:I,U.S. House,2,REP,Karianne Lisonbee,126
+Cache,3NIB4:I,U.S. House,2,REP,Over Votes,0
+Cache,3NIB4:I,U.S. House,2,REP,Under Votes,4
+Cache,3NIB4:U,Ballots Cast,,,,19
+Cache,3NIB4:U,Ballots Cast Blank,,,,0
+Cache,3NIB4:U,County Attorney,,REP,Dane Murray,3
+Cache,3NIB4:U,County Attorney,,REP,J. Brett Chambers,16
+Cache,3NIB4:U,County Attorney,,REP,Over Votes,0
+Cache,3NIB4:U,County Attorney,,REP,Under Votes,0
+Cache,3NIB4:U,U.S. House,2,REP,Blake D. Moore,11
+Cache,3NIB4:U,U.S. House,2,REP,Karianne Lisonbee,8
+Cache,3NIB4:U,U.S. House,2,REP,Over Votes,0
+Cache,3NIB4:U,U.S. House,2,REP,Under Votes,0
+Cache,3NLG1:I,Ballots Cast,,,,189
+Cache,3NLG1:I,Ballots Cast Blank,,,,0
+Cache,3NLG1:I,County Attorney,,REP,Dane Murray,74
+Cache,3NLG1:I,County Attorney,,REP,J. Brett Chambers,112
+Cache,3NLG1:I,County Attorney,,REP,Over Votes,0
+Cache,3NLG1:I,County Attorney,,REP,Under Votes,3
+Cache,3NLG1:I,U.S. House,2,REP,Blake D. Moore,118
+Cache,3NLG1:I,U.S. House,2,REP,Karianne Lisonbee,65
+Cache,3NLG1:I,U.S. House,2,REP,Over Votes,0
+Cache,3NLG1:I,U.S. House,2,REP,Under Votes,6
+Cache,3NLG2:I,Ballots Cast,,,,215
+Cache,3NLG2:I,Ballots Cast Blank,,,,0
+Cache,3NLG2:I,County Attorney,,REP,Dane Murray,106
+Cache,3NLG2:I,County Attorney,,REP,J. Brett Chambers,105
+Cache,3NLG2:I,County Attorney,,REP,Over Votes,0
+Cache,3NLG2:I,County Attorney,,REP,Under Votes,4
+Cache,3NLG2:I,U.S. House,2,REP,Blake D. Moore,141
+Cache,3NLG2:I,U.S. House,2,REP,Karianne Lisonbee,72
+Cache,3NLG2:I,U.S. House,2,REP,Over Votes,0
+Cache,3NLG2:I,U.S. House,2,REP,Under Votes,2
+Cache,3NLG3:I,Ballots Cast,,,,202
+Cache,3NLG3:I,Ballots Cast Blank,,,,0
+Cache,3NLG3:I,County Attorney,,REP,Dane Murray,91
+Cache,3NLG3:I,County Attorney,,REP,J. Brett Chambers,101
+Cache,3NLG3:I,County Attorney,,REP,Over Votes,0
+Cache,3NLG3:I,County Attorney,,REP,Under Votes,10
+Cache,3NLG3:I,U.S. House,2,REP,Blake D. Moore,130
+Cache,3NLG3:I,U.S. House,2,REP,Karianne Lisonbee,70
+Cache,3NLG3:I,U.S. House,2,REP,Over Votes,0
+Cache,3NLG3:I,U.S. House,2,REP,Under Votes,2
+Cache,3NLG4:I,Ballots Cast,,,,261
+Cache,3NLG4:I,Ballots Cast Blank,,,,1
+Cache,3NLG4:I,County Attorney,,REP,Dane Murray,112
+Cache,3NLG4:I,County Attorney,,REP,J. Brett Chambers,143
+Cache,3NLG4:I,County Attorney,,REP,Over Votes,0
+Cache,3NLG4:I,County Attorney,,REP,Under Votes,6
+Cache,3NLG4:I,U.S. House,2,REP,Blake D. Moore,158
+Cache,3NLG4:I,U.S. House,2,REP,Karianne Lisonbee,101
+Cache,3NLG4:I,U.S. House,2,REP,Over Votes,1
+Cache,3NLG4:I,U.S. House,2,REP,Under Votes,1
+Cache,3NLG5:I,Ballots Cast,,,,266
+Cache,3NLG5:I,Ballots Cast Blank,,,,0
+Cache,3NLG5:I,County Attorney,,REP,Dane Murray,104
+Cache,3NLG5:I,County Attorney,,REP,J. Brett Chambers,158
+Cache,3NLG5:I,County Attorney,,REP,Over Votes,0
+Cache,3NLG5:I,County Attorney,,REP,Under Votes,4
+Cache,3NLG5:I,U.S. House,2,REP,Blake D. Moore,164
+Cache,3NLG5:I,U.S. House,2,REP,Karianne Lisonbee,100
+Cache,3NLG5:I,U.S. House,2,REP,Over Votes,0
+Cache,3NLG5:I,U.S. House,2,REP,Under Votes,2
+Cache,3NLG6:I,Ballots Cast,,,,210
+Cache,3NLG6:I,Ballots Cast Blank,,,,0
+Cache,3NLG6:I,County Attorney,,REP,Dane Murray,57
+Cache,3NLG6:I,County Attorney,,REP,J. Brett Chambers,147
+Cache,3NLG6:I,County Attorney,,REP,Over Votes,0
+Cache,3NLG6:I,County Attorney,,REP,Under Votes,6
+Cache,3NLG6:I,U.S. House,2,REP,Blake D. Moore,123
+Cache,3NLG6:I,U.S. House,2,REP,Karianne Lisonbee,85
+Cache,3NLG6:I,U.S. House,2,REP,Over Votes,0
+Cache,3NLG6:I,U.S. House,2,REP,Under Votes,2
+Cache,3PAR:I,Ballots Cast,,,,180
+Cache,3PAR:I,Ballots Cast Blank,,,,0
+Cache,3PAR:I,County Attorney,,REP,Dane Murray,74
+Cache,3PAR:I,County Attorney,,REP,J. Brett Chambers,104
+Cache,3PAR:I,County Attorney,,REP,Over Votes,0
+Cache,3PAR:I,County Attorney,,REP,Under Votes,2
+Cache,3PAR:I,U.S. House,2,REP,Blake D. Moore,103
+Cache,3PAR:I,U.S. House,2,REP,Karianne Lisonbee,77
+Cache,3PAR:I,U.S. House,2,REP,Over Votes,0
+Cache,3PAR:I,U.S. House,2,REP,Under Votes,0
+Cache,3PAR:U,Ballots Cast,,,,149
+Cache,3PAR:U,Ballots Cast Blank,,,,0
+Cache,3PAR:U,County Attorney,,REP,Dane Murray,58
+Cache,3PAR:U,County Attorney,,REP,J. Brett Chambers,90
+Cache,3PAR:U,County Attorney,,REP,Over Votes,0
+Cache,3PAR:U,County Attorney,,REP,Under Votes,1
+Cache,3PAR:U,U.S. House,2,REP,Blake D. Moore,83
+Cache,3PAR:U,U.S. House,2,REP,Karianne Lisonbee,65
+Cache,3PAR:U,U.S. House,2,REP,Over Votes,0
+Cache,3PAR:U,U.S. House,2,REP,Under Votes,1
+Cache,3PET:U,Ballots Cast,,,,49
+Cache,3PET:U,Ballots Cast Blank,,,,0
+Cache,3PET:U,County Attorney,,REP,Dane Murray,9
+Cache,3PET:U,County Attorney,,REP,J. Brett Chambers,40
+Cache,3PET:U,County Attorney,,REP,Over Votes,0
+Cache,3PET:U,County Attorney,,REP,Under Votes,0
+Cache,3PET:U,U.S. House,2,REP,Blake D. Moore,24
+Cache,3PET:U,U.S. House,2,REP,Karianne Lisonbee,25
+Cache,3PET:U,U.S. House,2,REP,Over Votes,0
+Cache,3PET:U,U.S. House,2,REP,Under Votes,0
+Cache,3PRO1:IA,Ballots Cast,,,,142
+Cache,3PRO1:IA,Ballots Cast Blank,,,,0
+Cache,3PRO1:IA,County Attorney,,REP,Dane Murray,51
+Cache,3PRO1:IA,County Attorney,,REP,J. Brett Chambers,90
+Cache,3PRO1:IA,County Attorney,,REP,Over Votes,0
+Cache,3PRO1:IA,County Attorney,,REP,Under Votes,1
+Cache,3PRO1:IA,U.S. House,2,REP,Blake D. Moore,89
+Cache,3PRO1:IA,U.S. House,2,REP,Karianne Lisonbee,52
+Cache,3PRO1:IA,U.S. House,2,REP,Over Votes,0
+Cache,3PRO1:IA,U.S. House,2,REP,Under Votes,1
+Cache,3PRO2:IA,Ballots Cast,,,,304
+Cache,3PRO2:IA,Ballots Cast Blank,,,,0
+Cache,3PRO2:IA,County Attorney,,REP,Dane Murray,86
+Cache,3PRO2:IA,County Attorney,,REP,J. Brett Chambers,212
+Cache,3PRO2:IA,County Attorney,,REP,Over Votes,0
+Cache,3PRO2:IA,County Attorney,,REP,Under Votes,6
+Cache,3PRO2:IA,U.S. House,2,REP,Blake D. Moore,198
+Cache,3PRO2:IA,U.S. House,2,REP,Karianne Lisonbee,105
+Cache,3PRO2:IA,U.S. House,2,REP,Over Votes,0
+Cache,3PRO2:IA,U.S. House,2,REP,Under Votes,1
+Cache,3PRO3:I,Ballots Cast,,,,276
+Cache,3PRO3:I,Ballots Cast Blank,,,,0
+Cache,3PRO3:I,County Attorney,,REP,Dane Murray,87
+Cache,3PRO3:I,County Attorney,,REP,J. Brett Chambers,184
+Cache,3PRO3:I,County Attorney,,REP,Over Votes,0
+Cache,3PRO3:I,County Attorney,,REP,Under Votes,5
+Cache,3PRO3:I,U.S. House,2,REP,Blake D. Moore,157
+Cache,3PRO3:I,U.S. House,2,REP,Karianne Lisonbee,119
+Cache,3PRO3:I,U.S. House,2,REP,Over Votes,0
+Cache,3PRO3:I,U.S. House,2,REP,Under Votes,0
+Cache,3PRO4:I,Ballots Cast,,,,186
+Cache,3PRO4:I,Ballots Cast Blank,,,,0
+Cache,3PRO4:I,County Attorney,,REP,Dane Murray,59
+Cache,3PRO4:I,County Attorney,,REP,J. Brett Chambers,125
+Cache,3PRO4:I,County Attorney,,REP,Over Votes,0
+Cache,3PRO4:I,County Attorney,,REP,Under Votes,2
+Cache,3PRO4:I,U.S. House,2,REP,Blake D. Moore,128
+Cache,3PRO4:I,U.S. House,2,REP,Karianne Lisonbee,57
+Cache,3PRO4:I,U.S. House,2,REP,Over Votes,1
+Cache,3PRO4:I,U.S. House,2,REP,Under Votes,0
+Cache,3PRO5:I,Ballots Cast,,,,186
+Cache,3PRO5:I,Ballots Cast Blank,,,,0
+Cache,3PRO5:I,County Attorney,,REP,Dane Murray,69
+Cache,3PRO5:I,County Attorney,,REP,J. Brett Chambers,112
+Cache,3PRO5:I,County Attorney,,REP,Over Votes,0
+Cache,3PRO5:I,County Attorney,,REP,Under Votes,5
+Cache,3PRO5:I,U.S. House,2,REP,Blake D. Moore,106
+Cache,3PRO5:I,U.S. House,2,REP,Karianne Lisonbee,76
+Cache,3PRO5:I,U.S. House,2,REP,Over Votes,0
+Cache,3PRO5:I,U.S. House,2,REP,Under Votes,4
+Cache,3PRO6:I,Ballots Cast,,,,212
+Cache,3PRO6:I,Ballots Cast Blank,,,,0
+Cache,3PRO6:I,County Attorney,,REP,Dane Murray,77
+Cache,3PRO6:I,County Attorney,,REP,J. Brett Chambers,129
+Cache,3PRO6:I,County Attorney,,REP,Over Votes,0
+Cache,3PRO6:I,County Attorney,,REP,Under Votes,6
+Cache,3PRO6:I,U.S. House,2,REP,Blake D. Moore,126
+Cache,3PRO6:I,U.S. House,2,REP,Karianne Lisonbee,86
+Cache,3PRO6:I,U.S. House,2,REP,Over Votes,0
+Cache,3PRO6:I,U.S. House,2,REP,Under Votes,0
+Cache,3RCH1:I,Ballots Cast,,,,200
+Cache,3RCH1:I,Ballots Cast Blank,,,,0
+Cache,3RCH1:I,County Attorney,,REP,Dane Murray,89
+Cache,3RCH1:I,County Attorney,,REP,J. Brett Chambers,110
+Cache,3RCH1:I,County Attorney,,REP,Over Votes,0
+Cache,3RCH1:I,County Attorney,,REP,Under Votes,1
+Cache,3RCH1:I,U.S. House,2,REP,Blake D. Moore,106
+Cache,3RCH1:I,U.S. House,2,REP,Karianne Lisonbee,92
+Cache,3RCH1:I,U.S. House,2,REP,Over Votes,0
+Cache,3RCH1:I,U.S. House,2,REP,Under Votes,2
+Cache,3RCH1:U,Ballots Cast,,,,34
+Cache,3RCH1:U,Ballots Cast Blank,,,,0
+Cache,3RCH1:U,County Attorney,,REP,Dane Murray,22
+Cache,3RCH1:U,County Attorney,,REP,J. Brett Chambers,12
+Cache,3RCH1:U,County Attorney,,REP,Over Votes,0
+Cache,3RCH1:U,County Attorney,,REP,Under Votes,0
+Cache,3RCH1:U,U.S. House,2,REP,Blake D. Moore,13
+Cache,3RCH1:U,U.S. House,2,REP,Karianne Lisonbee,21
+Cache,3RCH1:U,U.S. House,2,REP,Over Votes,0
+Cache,3RCH1:U,U.S. House,2,REP,Under Votes,0
+Cache,3RCH2:I,Ballots Cast,,,,217
+Cache,3RCH2:I,Ballots Cast Blank,,,,0
+Cache,3RCH2:I,County Attorney,,REP,Dane Murray,137
+Cache,3RCH2:I,County Attorney,,REP,J. Brett Chambers,76
+Cache,3RCH2:I,County Attorney,,REP,Over Votes,0
+Cache,3RCH2:I,County Attorney,,REP,Under Votes,4
+Cache,3RCH2:I,U.S. House,2,REP,Blake D. Moore,105
+Cache,3RCH2:I,U.S. House,2,REP,Karianne Lisonbee,111
+Cache,3RCH2:I,U.S. House,2,REP,Over Votes,1
+Cache,3RCH2:I,U.S. House,2,REP,Under Votes,0
+Cache,3RVH1:I,Ballots Cast,,,,241
+Cache,3RVH1:I,Ballots Cast Blank,,,,0
+Cache,3RVH1:I,County Attorney,,REP,Dane Murray,84
+Cache,3RVH1:I,County Attorney,,REP,J. Brett Chambers,152
+Cache,3RVH1:I,County Attorney,,REP,Over Votes,0
+Cache,3RVH1:I,County Attorney,,REP,Under Votes,5
+Cache,3RVH1:I,U.S. House,2,REP,Blake D. Moore,170
+Cache,3RVH1:I,U.S. House,2,REP,Karianne Lisonbee,69
+Cache,3RVH1:I,U.S. House,2,REP,Over Votes,0
+Cache,3RVH1:I,U.S. House,2,REP,Under Votes,2
+Cache,3RVH2:I,Ballots Cast,,,,65
+Cache,3RVH2:I,Ballots Cast Blank,,,,0
+Cache,3RVH2:I,County Attorney,,REP,Dane Murray,16
+Cache,3RVH2:I,County Attorney,,REP,J. Brett Chambers,48
+Cache,3RVH2:I,County Attorney,,REP,Over Votes,0
+Cache,3RVH2:I,County Attorney,,REP,Under Votes,1
+Cache,3RVH2:I,U.S. House,2,REP,Blake D. Moore,44
+Cache,3RVH2:I,U.S. House,2,REP,Karianne Lisonbee,21
+Cache,3RVH2:I,U.S. House,2,REP,Over Votes,0
+Cache,3RVH2:I,U.S. House,2,REP,Under Votes,0
+Cache,3SMI1:I,Ballots Cast,,,,225
+Cache,3SMI1:I,Ballots Cast Blank,,,,0
+Cache,3SMI1:I,County Attorney,,REP,Dane Murray,104
+Cache,3SMI1:I,County Attorney,,REP,J. Brett Chambers,120
+Cache,3SMI1:I,County Attorney,,REP,Over Votes,0
+Cache,3SMI1:I,County Attorney,,REP,Under Votes,1
+Cache,3SMI1:I,U.S. House,2,REP,Blake D. Moore,124
+Cache,3SMI1:I,U.S. House,2,REP,Karianne Lisonbee,99
+Cache,3SMI1:I,U.S. House,2,REP,Over Votes,0
+Cache,3SMI1:I,U.S. House,2,REP,Under Votes,2
+Cache,3SMI2:I,Ballots Cast,,,,348
+Cache,3SMI2:I,Ballots Cast Blank,,,,0
+Cache,3SMI2:I,County Attorney,,REP,Dane Murray,155
+Cache,3SMI2:I,County Attorney,,REP,J. Brett Chambers,191
+Cache,3SMI2:I,County Attorney,,REP,Over Votes,0
+Cache,3SMI2:I,County Attorney,,REP,Under Votes,2
+Cache,3SMI2:I,U.S. House,2,REP,Blake D. Moore,213
+Cache,3SMI2:I,U.S. House,2,REP,Karianne Lisonbee,134
+Cache,3SMI2:I,U.S. House,2,REP,Over Votes,0
+Cache,3SMI2:I,U.S. House,2,REP,Under Votes,1
+Cache,3SMI3:I,Ballots Cast,,,,241
+Cache,3SMI3:I,Ballots Cast Blank,,,,0
+Cache,3SMI3:I,County Attorney,,REP,Dane Murray,98
+Cache,3SMI3:I,County Attorney,,REP,J. Brett Chambers,143
+Cache,3SMI3:I,County Attorney,,REP,Over Votes,0
+Cache,3SMI3:I,County Attorney,,REP,Under Votes,0
+Cache,3SMI3:I,U.S. House,2,REP,Blake D. Moore,141
+Cache,3SMI3:I,U.S. House,2,REP,Karianne Lisonbee,100
+Cache,3SMI3:I,U.S. House,2,REP,Over Votes,0
+Cache,3SMI3:I,U.S. House,2,REP,Under Votes,0
+Cache,3SMI4:I,Ballots Cast,,,,194
+Cache,3SMI4:I,Ballots Cast Blank,,,,0
+Cache,3SMI4:I,County Attorney,,REP,Dane Murray,92
+Cache,3SMI4:I,County Attorney,,REP,J. Brett Chambers,102
+Cache,3SMI4:I,County Attorney,,REP,Over Votes,0
+Cache,3SMI4:I,County Attorney,,REP,Under Votes,0
+Cache,3SMI4:I,U.S. House,2,REP,Blake D. Moore,113
+Cache,3SMI4:I,U.S. House,2,REP,Karianne Lisonbee,79
+Cache,3SMI4:I,U.S. House,2,REP,Over Votes,0
+Cache,3SMI4:I,U.S. House,2,REP,Under Votes,2
+Cache,3SMI5:I,Ballots Cast,,,,183
+Cache,3SMI5:I,Ballots Cast Blank,,,,0
+Cache,3SMI5:I,County Attorney,,REP,Dane Murray,93
+Cache,3SMI5:I,County Attorney,,REP,J. Brett Chambers,89
+Cache,3SMI5:I,County Attorney,,REP,Over Votes,0
+Cache,3SMI5:I,County Attorney,,REP,Under Votes,1
+Cache,3SMI5:I,U.S. House,2,REP,Blake D. Moore,121
+Cache,3SMI5:I,U.S. House,2,REP,Karianne Lisonbee,61
+Cache,3SMI5:I,U.S. House,2,REP,Over Votes,0
+Cache,3SMI5:I,U.S. House,2,REP,Under Votes,1
+Cache,3SMI6:I,Ballots Cast,,,,177
+Cache,3SMI6:I,Ballots Cast Blank,,,,0
+Cache,3SMI6:I,County Attorney,,REP,Dane Murray,72
+Cache,3SMI6:I,County Attorney,,REP,J. Brett Chambers,101
+Cache,3SMI6:I,County Attorney,,REP,Over Votes,0
+Cache,3SMI6:I,County Attorney,,REP,Under Votes,4
+Cache,3SMI6:I,U.S. House,2,REP,Blake D. Moore,116
+Cache,3SMI6:I,U.S. House,2,REP,Karianne Lisonbee,61
+Cache,3SMI6:I,U.S. House,2,REP,Over Votes,0
+Cache,3SMI6:I,U.S. House,2,REP,Under Votes,0
+Cache,3SMI7:I,Ballots Cast,,,,311
+Cache,3SMI7:I,Ballots Cast Blank,,,,0
+Cache,3SMI7:I,County Attorney,,REP,Dane Murray,144
+Cache,3SMI7:I,County Attorney,,REP,J. Brett Chambers,166
+Cache,3SMI7:I,County Attorney,,REP,Over Votes,0
+Cache,3SMI7:I,County Attorney,,REP,Under Votes,1
+Cache,3SMI7:I,U.S. House,2,REP,Blake D. Moore,178
+Cache,3SMI7:I,U.S. House,2,REP,Karianne Lisonbee,132
+Cache,3SMI7:I,U.S. House,2,REP,Over Votes,0
+Cache,3SMI7:I,U.S. House,2,REP,Under Votes,1
+Cache,3SMI7:U,Ballots Cast,,,,99
+Cache,3SMI7:U,Ballots Cast Blank,,,,0
+Cache,3SMI7:U,County Attorney,,REP,Dane Murray,44
+Cache,3SMI7:U,County Attorney,,REP,J. Brett Chambers,54
+Cache,3SMI7:U,County Attorney,,REP,Over Votes,0
+Cache,3SMI7:U,County Attorney,,REP,Under Votes,1
+Cache,3SMI7:U,U.S. House,2,REP,Blake D. Moore,60
+Cache,3SMI7:U,U.S. House,2,REP,Karianne Lisonbee,39
+Cache,3SMI7:U,U.S. House,2,REP,Over Votes,0
+Cache,3SMI7:U,U.S. House,2,REP,Under Votes,0
+Cache,3SMI8:I,Ballots Cast,,,,129
+Cache,3SMI8:I,Ballots Cast Blank,,,,0
+Cache,3SMI8:I,County Attorney,,REP,Dane Murray,63
+Cache,3SMI8:I,County Attorney,,REP,J. Brett Chambers,63
+Cache,3SMI8:I,County Attorney,,REP,Over Votes,0
+Cache,3SMI8:I,County Attorney,,REP,Under Votes,3
+Cache,3SMI8:I,U.S. House,2,REP,Blake D. Moore,73
+Cache,3SMI8:I,U.S. House,2,REP,Karianne Lisonbee,54
+Cache,3SMI8:I,U.S. House,2,REP,Over Votes,0
+Cache,3SMI8:I,U.S. House,2,REP,Under Votes,2
+Cache,3TRE:I,Ballots Cast,,,,63
+Cache,3TRE:I,Ballots Cast Blank,,,,1
+Cache,3TRE:I,County Attorney,,REP,Dane Murray,19
+Cache,3TRE:I,County Attorney,,REP,J. Brett Chambers,42
+Cache,3TRE:I,County Attorney,,REP,Over Votes,0
+Cache,3TRE:I,County Attorney,,REP,Under Votes,2
+Cache,3TRE:I,U.S. House,2,REP,Blake D. Moore,37
+Cache,3TRE:I,U.S. House,2,REP,Karianne Lisonbee,25
+Cache,3TRE:I,U.S. House,2,REP,Over Votes,0
+Cache,3TRE:I,U.S. House,2,REP,Under Votes,1
+Cache,3WEL1:I,Ballots Cast,,,,214
+Cache,3WEL1:I,Ballots Cast Blank,,,,0
+Cache,3WEL1:I,County Attorney,,REP,Dane Murray,91
+Cache,3WEL1:I,County Attorney,,REP,J. Brett Chambers,118
+Cache,3WEL1:I,County Attorney,,REP,Over Votes,0
+Cache,3WEL1:I,County Attorney,,REP,Under Votes,5
+Cache,3WEL1:I,U.S. House,2,REP,Blake D. Moore,117
+Cache,3WEL1:I,U.S. House,2,REP,Karianne Lisonbee,97
+Cache,3WEL1:I,U.S. House,2,REP,Over Votes,0
+Cache,3WEL1:I,U.S. House,2,REP,Under Votes,0
+Cache,3WEL1:U,Ballots Cast,,,,149
+Cache,3WEL1:U,Ballots Cast Blank,,,,0
+Cache,3WEL1:U,County Attorney,,REP,Dane Murray,77
+Cache,3WEL1:U,County Attorney,,REP,J. Brett Chambers,70
+Cache,3WEL1:U,County Attorney,,REP,Over Votes,0
+Cache,3WEL1:U,County Attorney,,REP,Under Votes,2
+Cache,3WEL1:U,U.S. House,2,REP,Blake D. Moore,97
+Cache,3WEL1:U,U.S. House,2,REP,Karianne Lisonbee,52
+Cache,3WEL1:U,U.S. House,2,REP,Over Votes,0
+Cache,3WEL1:U,U.S. House,2,REP,Under Votes,0
+Cache,3WEL2:I,Ballots Cast,,,,229
+Cache,3WEL2:I,Ballots Cast Blank,,,,0
+Cache,3WEL2:I,County Attorney,,REP,Dane Murray,127
+Cache,3WEL2:I,County Attorney,,REP,J. Brett Chambers,99
+Cache,3WEL2:I,County Attorney,,REP,Over Votes,0
+Cache,3WEL2:I,County Attorney,,REP,Under Votes,3
+Cache,3WEL2:I,U.S. House,2,REP,Blake D. Moore,127
+Cache,3WEL2:I,U.S. House,2,REP,Karianne Lisonbee,100
+Cache,3WEL2:I,U.S. House,2,REP,Over Votes,0
+Cache,3WEL2:I,U.S. House,2,REP,Under Votes,2
+Cache,3WEL3:I,Ballots Cast,,,,191
+Cache,3WEL3:I,Ballots Cast Blank,,,,0
+Cache,3WEL3:I,County Attorney,,REP,Dane Murray,103
+Cache,3WEL3:I,County Attorney,,REP,J. Brett Chambers,85
+Cache,3WEL3:I,County Attorney,,REP,Over Votes,0
+Cache,3WEL3:I,County Attorney,,REP,Under Votes,3
+Cache,3WEL3:I,U.S. House,2,REP,Blake D. Moore,102
+Cache,3WEL3:I,U.S. House,2,REP,Karianne Lisonbee,87
+Cache,3WEL3:I,U.S. House,2,REP,Over Votes,0
+Cache,3WEL3:I,U.S. House,2,REP,Under Votes,2

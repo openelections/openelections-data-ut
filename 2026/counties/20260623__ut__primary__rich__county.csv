@@ -1,0 +1,16 @@
+county,office,district,party,candidate,votes
+Rich,Ballots Cast,,,,888
+Rich,Ballots Cast,,REP,,888
+Rich,Ballots Cast Blank,,,,0
+Rich,Registered Voters,,,,1250
+Rich,Registered Voters,,REP,,1250
+Rich,Rich County Commissioner Seat A,,REP,Bill Cox,367
+Rich,Rich County Commissioner Seat A,,REP,Heathe Weston,75
+Rich,Rich County Commissioner Seat A,,REP,John Simeon Bell,108
+Rich,Rich County Commissioner Seat A,,REP,Mark Smoot,336
+Rich,Rich County Commissioner Seat A,,REP,Over Votes,2
+Rich,Rich County Commissioner Seat A,,REP,Under Votes,0
+Rich,U.S. House,2,REP,Blake D. Moore,565
+Rich,U.S. House,2,REP,Karianne Lisonbee,306
+Rich,U.S. House,2,REP,Over Votes,0
+Rich,U.S. House,2,REP,Under Votes,17

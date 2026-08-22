@@ -1,0 +1,55 @@
+county,precinct,office,district,party,candidate,votes
+Piute,Circleville,Ballots Cast,,,,120
+Piute,Circleville,Ballots Cast,,REP,,120
+Piute,Circleville,Ballots Cast Blank,,,,0
+Piute,Circleville,Registered Voters,,,,280
+Piute,Circleville,Registered Voters,,REP,,280
+Piute,Circleville,U.S. House,3,REP,Celeste Maloy,98
+Piute,Circleville,U.S. House,3,REP,Over Votes,0
+Piute,Circleville,U.S. House,3,REP,Phil Lyman,22
+Piute,Circleville,U.S. House,3,REP,Under Votes,0
+Piute,Federal,Ballots Cast,,,,0
+Piute,Federal,Ballots Cast,,REP,,0
+Piute,Federal,Ballots Cast Blank,,,,0
+Piute,Federal,Registered Voters,,,,0
+Piute,Federal,Registered Voters,,REP,,0
+Piute,Federal,U.S. House,3,REP,Celeste Maloy,0
+Piute,Federal,U.S. House,3,REP,Over Votes,0
+Piute,Federal,U.S. House,3,REP,Phil Lyman,0
+Piute,Federal,U.S. House,3,REP,Under Votes,0
+Piute,Greenwich,Ballots Cast,,,,26
+Piute,Greenwich,Ballots Cast,,REP,,26
+Piute,Greenwich,Ballots Cast Blank,,,,0
+Piute,Greenwich,Registered Voters,,,,71
+Piute,Greenwich,Registered Voters,,REP,,71
+Piute,Greenwich,U.S. House,3,REP,Celeste Maloy,20
+Piute,Greenwich,U.S. House,3,REP,Over Votes,0
+Piute,Greenwich,U.S. House,3,REP,Phil Lyman,6
+Piute,Greenwich,U.S. House,3,REP,Under Votes,0
+Piute,Junction,Ballots Cast,,,,52
+Piute,Junction,Ballots Cast,,REP,,52
+Piute,Junction,Ballots Cast Blank,,,,0
+Piute,Junction,Registered Voters,,,,115
+Piute,Junction,Registered Voters,,REP,,115
+Piute,Junction,U.S. House,3,REP,Celeste Maloy,49
+Piute,Junction,U.S. House,3,REP,Over Votes,0
+Piute,Junction,U.S. House,3,REP,Phil Lyman,3
+Piute,Junction,U.S. House,3,REP,Under Votes,0
+Piute,Kingston,Ballots Cast,,,,56
+Piute,Kingston,Ballots Cast,,REP,,56
+Piute,Kingston,Ballots Cast Blank,,,,1
+Piute,Kingston,Registered Voters,,,,138
+Piute,Kingston,Registered Voters,,REP,,138
+Piute,Kingston,U.S. House,3,REP,Celeste Maloy,43
+Piute,Kingston,U.S. House,3,REP,Over Votes,0
+Piute,Kingston,U.S. House,3,REP,Phil Lyman,12
+Piute,Kingston,U.S. House,3,REP,Under Votes,1
+Piute,Marysvale,Ballots Cast,,,,114
+Piute,Marysvale,Ballots Cast,,REP,,114
+Piute,Marysvale,Ballots Cast Blank,,,,0
+Piute,Marysvale,Registered Voters,,,,298
+Piute,Marysvale,Registered Voters,,REP,,298
+Piute,Marysvale,U.S. House,3,REP,Celeste Maloy,86
+Piute,Marysvale,U.S. House,3,REP,Over Votes,0
+Piute,Marysvale,U.S. House,3,REP,Phil Lyman,28
+Piute,Marysvale,U.S. House,3,REP,Under Votes,0

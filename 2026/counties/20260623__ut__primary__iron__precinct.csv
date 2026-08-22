@@ -1,0 +1,393 @@
+county,precinct,office,district,party,candidate,votes
+Iron,113PK,Ballots Cast,,REP,,280
+Iron,113PK,County Commissioner A,,REP,Bruce McDonald,143
+Iron,113PK,County Commissioner A,,REP,Mike Bleak,133
+Iron,113PK,Registered Voters,,REP,,787
+Iron,113PK,State School Board,14,REP,Linda Hanks,145
+Iron,113PK,State School Board,14,REP,Nichole Beecher Isom,121
+Iron,113PK,U.S. House,3,REP,Celeste Maloy,170
+Iron,113PK,U.S. House,3,REP,Phil Lyman,107
+Iron,11BH,Ballots Cast,,REP,,20
+Iron,11BH,County Commissioner A,,REP,Bruce McDonald,5
+Iron,11BH,County Commissioner A,,REP,Mike Bleak,13
+Iron,11BH,Registered Voters,,REP,,67
+Iron,11BH,State School Board,14,REP,Linda Hanks,13
+Iron,11BH,State School Board,14,REP,Nichole Beecher Isom,5
+Iron,11BH,U.S. House,3,REP,Celeste Maloy,15
+Iron,11BH,U.S. House,3,REP,Phil Lyman,5
+Iron,11BRYL,Ballots Cast,,REP,,192
+Iron,11BRYL,County Commissioner A,,REP,Bruce McDonald,114
+Iron,11BRYL,County Commissioner A,,REP,Mike Bleak,72
+Iron,11BRYL,Registered Voters,,REP,,534
+Iron,11BRYL,U.S. House,3,REP,Celeste Maloy,118
+Iron,11BRYL,U.S. House,3,REP,Phil Lyman,74
+Iron,11CC 1,Ballots Cast,,REP,,67
+Iron,11CC 1,County Commissioner A,,REP,Bruce McDonald,35
+Iron,11CC 1,County Commissioner A,,REP,Mike Bleak,31
+Iron,11CC 1,Registered Voters,,REP,,252
+Iron,11CC 1,State School Board,14,REP,Linda Hanks,40
+Iron,11CC 1,State School Board,14,REP,Nichole Beecher Isom,26
+Iron,11CC 1,U.S. House,3,REP,Celeste Maloy,43
+Iron,11CC 1,U.S. House,3,REP,Phil Lyman,23
+Iron,11CC 10,Ballots Cast,,REP,,118
+Iron,11CC 10,County Commissioner A,,REP,Bruce McDonald,42
+Iron,11CC 10,County Commissioner A,,REP,Mike Bleak,74
+Iron,11CC 10,Registered Voters,,REP,,368
+Iron,11CC 10,State School Board,14,REP,Linda Hanks,77
+Iron,11CC 10,State School Board,14,REP,Nichole Beecher Isom,36
+Iron,11CC 10,U.S. House,3,REP,Celeste Maloy,87
+Iron,11CC 10,U.S. House,3,REP,Phil Lyman,26
+Iron,11CC 11,Ballots Cast,,REP,,66
+Iron,11CC 11,County Commissioner A,,REP,Bruce McDonald,44
+Iron,11CC 11,County Commissioner A,,REP,Mike Bleak,22
+Iron,11CC 11,Registered Voters,,REP,,263
+Iron,11CC 11,State School Board,14,REP,Linda Hanks,31
+Iron,11CC 11,State School Board,14,REP,Nichole Beecher Isom,22
+Iron,11CC 11,U.S. House,3,REP,Celeste Maloy,45
+Iron,11CC 11,U.S. House,3,REP,Phil Lyman,21
+Iron,11CC 12,Ballots Cast,,REP,,57
+Iron,11CC 12,County Commissioner A,,REP,Bruce McDonald,39
+Iron,11CC 12,County Commissioner A,,REP,Mike Bleak,18
+Iron,11CC 12,Registered Voters,,REP,,274
+Iron,11CC 12,State School Board,14,REP,Linda Hanks,32
+Iron,11CC 12,State School Board,14,REP,Nichole Beecher Isom,25
+Iron,11CC 12,U.S. House,3,REP,Celeste Maloy,34
+Iron,11CC 12,U.S. House,3,REP,Phil Lyman,23
+Iron,11CC 13,Ballots Cast,,REP,,91
+Iron,11CC 13,County Commissioner A,,REP,Bruce McDonald,34
+Iron,11CC 13,County Commissioner A,,REP,Mike Bleak,56
+Iron,11CC 13,Registered Voters,,REP,,257
+Iron,11CC 13,State School Board,14,REP,Linda Hanks,50
+Iron,11CC 13,State School Board,14,REP,Nichole Beecher Isom,36
+Iron,11CC 13,U.S. House,3,REP,Celeste Maloy,69
+Iron,11CC 13,U.S. House,3,REP,Phil Lyman,17
+Iron,11CC 14,Ballots Cast,,REP,,147
+Iron,11CC 14,County Commissioner A,,REP,Bruce McDonald,67
+Iron,11CC 14,County Commissioner A,,REP,Mike Bleak,80
+Iron,11CC 14,Registered Voters,,REP,,305
+Iron,11CC 14,State School Board,14,REP,Linda Hanks,91
+Iron,11CC 14,State School Board,14,REP,Nichole Beecher Isom,51
+Iron,11CC 14,U.S. House,3,REP,Celeste Maloy,119
+Iron,11CC 14,U.S. House,3,REP,Phil Lyman,28
+Iron,11CC 15,Ballots Cast,,REP,,127
+Iron,11CC 15,County Commissioner A,,REP,Bruce McDonald,54
+Iron,11CC 15,County Commissioner A,,REP,Mike Bleak,68
+Iron,11CC 15,Registered Voters,,REP,,318
+Iron,11CC 15,State School Board,14,REP,Linda Hanks,74
+Iron,11CC 15,State School Board,14,REP,Nichole Beecher Isom,48
+Iron,11CC 15,U.S. House,3,REP,Celeste Maloy,89
+Iron,11CC 15,U.S. House,3,REP,Phil Lyman,36
+Iron,11CC 16,Ballots Cast,,REP,,104
+Iron,11CC 16,County Commissioner A,,REP,Bruce McDonald,44
+Iron,11CC 16,County Commissioner A,,REP,Mike Bleak,59
+Iron,11CC 16,Registered Voters,,REP,,518
+Iron,11CC 16,State School Board,14,REP,Linda Hanks,50
+Iron,11CC 16,State School Board,14,REP,Nichole Beecher Isom,51
+Iron,11CC 16,U.S. House,3,REP,Celeste Maloy,73
+Iron,11CC 16,U.S. House,3,REP,Phil Lyman,31
+Iron,11CC 17,Ballots Cast,,REP,,86
+Iron,11CC 17,County Commissioner A,,REP,Bruce McDonald,41
+Iron,11CC 17,County Commissioner A,,REP,Mike Bleak,43
+Iron,11CC 17,Registered Voters,,REP,,244
+Iron,11CC 17,State School Board,14,REP,Linda Hanks,50
+Iron,11CC 17,State School Board,14,REP,Nichole Beecher Isom,32
+Iron,11CC 17,U.S. House,3,REP,Celeste Maloy,67
+Iron,11CC 17,U.S. House,3,REP,Phil Lyman,18
+Iron,11CC 18,Ballots Cast,,REP,,286
+Iron,11CC 18,County Commissioner A,,REP,Bruce McDonald,136
+Iron,11CC 18,County Commissioner A,,REP,Mike Bleak,145
+Iron,11CC 18,Registered Voters,,REP,,866
+Iron,11CC 18,State School Board,14,REP,Linda Hanks,145
+Iron,11CC 18,State School Board,14,REP,Nichole Beecher Isom,125
+Iron,11CC 18,U.S. House,3,REP,Celeste Maloy,190
+Iron,11CC 18,U.S. House,3,REP,Phil Lyman,89
+Iron,11CC 19,Ballots Cast,,REP,,191
+Iron,11CC 19,County Commissioner A,,REP,Bruce McDonald,78
+Iron,11CC 19,County Commissioner A,,REP,Mike Bleak,113
+Iron,11CC 19,Registered Voters,,REP,,387
+Iron,11CC 19,State School Board,14,REP,Linda Hanks,112
+Iron,11CC 19,State School Board,14,REP,Nichole Beecher Isom,71
+Iron,11CC 19,U.S. House,3,REP,Celeste Maloy,139
+Iron,11CC 19,U.S. House,3,REP,Phil Lyman,50
+Iron,11CC 2,Ballots Cast,,REP,,171
+Iron,11CC 2,County Commissioner A,,REP,Bruce McDonald,62
+Iron,11CC 2,County Commissioner A,,REP,Mike Bleak,105
+Iron,11CC 2,Registered Voters,,REP,,390
+Iron,11CC 2,State School Board,14,REP,Linda Hanks,87
+Iron,11CC 2,State School Board,14,REP,Nichole Beecher Isom,70
+Iron,11CC 2,U.S. House,3,REP,Celeste Maloy,133
+Iron,11CC 2,U.S. House,3,REP,Phil Lyman,36
+Iron,11CC 20,Ballots Cast,,REP,,219
+Iron,11CC 20,County Commissioner A,,REP,Bruce McDonald,123
+Iron,11CC 20,County Commissioner A,,REP,Mike Bleak,88
+Iron,11CC 20,Registered Voters,,REP,,521
+Iron,11CC 20,State School Board,14,REP,Linda Hanks,99
+Iron,11CC 20,State School Board,14,REP,Nichole Beecher Isom,110
+Iron,11CC 20,U.S. House,3,REP,Celeste Maloy,109
+Iron,11CC 20,U.S. House,3,REP,Phil Lyman,110
+Iron,11CC 21,Ballots Cast,,REP,,103
+Iron,11CC 21,County Commissioner A,,REP,Bruce McDonald,49
+Iron,11CC 21,County Commissioner A,,REP,Mike Bleak,54
+Iron,11CC 21,Registered Voters,,REP,,251
+Iron,11CC 21,State School Board,14,REP,Linda Hanks,46
+Iron,11CC 21,State School Board,14,REP,Nichole Beecher Isom,50
+Iron,11CC 21,U.S. House,3,REP,Celeste Maloy,73
+Iron,11CC 21,U.S. House,3,REP,Phil Lyman,30
+Iron,11CC 22,Ballots Cast,,REP,,159
+Iron,11CC 22,County Commissioner A,,REP,Bruce McDonald,79
+Iron,11CC 22,County Commissioner A,,REP,Mike Bleak,77
+Iron,11CC 22,Registered Voters,,REP,,379
+Iron,11CC 22,State School Board,14,REP,Linda Hanks,84
+Iron,11CC 22,State School Board,14,REP,Nichole Beecher Isom,70
+Iron,11CC 22,U.S. House,3,REP,Celeste Maloy,126
+Iron,11CC 22,U.S. House,3,REP,Phil Lyman,33
+Iron,11CC 23,Ballots Cast,,REP,,64
+Iron,11CC 23,County Commissioner A,,REP,Bruce McDonald,38
+Iron,11CC 23,County Commissioner A,,REP,Mike Bleak,25
+Iron,11CC 23,Registered Voters,,REP,,184
+Iron,11CC 23,State School Board,14,REP,Linda Hanks,33
+Iron,11CC 23,State School Board,14,REP,Nichole Beecher Isom,29
+Iron,11CC 23,U.S. House,3,REP,Celeste Maloy,34
+Iron,11CC 23,U.S. House,3,REP,Phil Lyman,27
+Iron,11CC 24,Ballots Cast,,REP,,381
+Iron,11CC 24,County Commissioner A,,REP,Bruce McDonald,130
+Iron,11CC 24,County Commissioner A,,REP,Mike Bleak,242
+Iron,11CC 24,Registered Voters,,REP,,859
+Iron,11CC 24,State School Board,14,REP,Linda Hanks,207
+Iron,11CC 24,State School Board,14,REP,Nichole Beecher Isom,154
+Iron,11CC 24,U.S. House,3,REP,Celeste Maloy,277
+Iron,11CC 24,U.S. House,3,REP,Phil Lyman,99
+Iron,11CC 25,Ballots Cast,,REP,,346
+Iron,11CC 25,County Commissioner A,,REP,Bruce McDonald,189
+Iron,11CC 25,County Commissioner A,,REP,Mike Bleak,147
+Iron,11CC 25,Registered Voters,,REP,,945
+Iron,11CC 25,State School Board,14,REP,Linda Hanks,176
+Iron,11CC 25,State School Board,14,REP,Nichole Beecher Isom,144
+Iron,11CC 25,U.S. House,3,REP,Celeste Maloy,224
+Iron,11CC 25,U.S. House,3,REP,Phil Lyman,113
+Iron,11CC 26,Ballots Cast,,REP,,119
+Iron,11CC 26,County Commissioner A,,REP,Bruce McDonald,47
+Iron,11CC 26,County Commissioner A,,REP,Mike Bleak,68
+Iron,11CC 26,Registered Voters,,REP,,269
+Iron,11CC 26,State School Board,14,REP,Linda Hanks,67
+Iron,11CC 26,State School Board,14,REP,Nichole Beecher Isom,45
+Iron,11CC 26,U.S. House,3,REP,Celeste Maloy,77
+Iron,11CC 26,U.S. House,3,REP,Phil Lyman,39
+Iron,11CC 27,Ballots Cast,,REP,,329
+Iron,11CC 27,County Commissioner A,,REP,Bruce McDonald,162
+Iron,11CC 27,County Commissioner A,,REP,Mike Bleak,155
+Iron,11CC 27,Registered Voters,,REP,,847
+Iron,11CC 27,State School Board,14,REP,Linda Hanks,175
+Iron,11CC 27,State School Board,14,REP,Nichole Beecher Isom,131
+Iron,11CC 27,U.S. House,3,REP,Celeste Maloy,209
+Iron,11CC 27,U.S. House,3,REP,Phil Lyman,118
+Iron,11CC 28,Ballots Cast,,REP,,136
+Iron,11CC 28,County Commissioner A,,REP,Bruce McDonald,60
+Iron,11CC 28,County Commissioner A,,REP,Mike Bleak,72
+Iron,11CC 28,Registered Voters,,REP,,362
+Iron,11CC 28,State School Board,14,REP,Linda Hanks,65
+Iron,11CC 28,State School Board,14,REP,Nichole Beecher Isom,59
+Iron,11CC 28,U.S. House,3,REP,Celeste Maloy,95
+Iron,11CC 28,U.S. House,3,REP,Phil Lyman,39
+Iron,11CC 29,Ballots Cast,,REP,,260
+Iron,11CC 29,County Commissioner A,,REP,Bruce McDonald,151
+Iron,11CC 29,County Commissioner A,,REP,Mike Bleak,108
+Iron,11CC 29,Registered Voters,,REP,,533
+Iron,11CC 29,State School Board,14,REP,Linda Hanks,138
+Iron,11CC 29,State School Board,14,REP,Nichole Beecher Isom,101
+Iron,11CC 29,U.S. House,3,REP,Celeste Maloy,183
+Iron,11CC 29,U.S. House,3,REP,Phil Lyman,73
+Iron,11CC 3,Ballots Cast,,REP,,170
+Iron,11CC 3,County Commissioner A,,REP,Bruce McDonald,92
+Iron,11CC 3,County Commissioner A,,REP,Mike Bleak,77
+Iron,11CC 3,Registered Voters,,REP,,407
+Iron,11CC 3,State School Board,14,REP,Linda Hanks,93
+Iron,11CC 3,State School Board,14,REP,Nichole Beecher Isom,74
+Iron,11CC 3,U.S. House,3,REP,Celeste Maloy,114
+Iron,11CC 3,U.S. House,3,REP,Phil Lyman,55
+Iron,11CC 4,Ballots Cast,,REP,,90
+Iron,11CC 4,County Commissioner A,,REP,Bruce McDonald,56
+Iron,11CC 4,County Commissioner A,,REP,Mike Bleak,33
+Iron,11CC 4,Registered Voters,,REP,,293
+Iron,11CC 4,State School Board,14,REP,Linda Hanks,38
+Iron,11CC 4,State School Board,14,REP,Nichole Beecher Isom,47
+Iron,11CC 4,U.S. House,3,REP,Celeste Maloy,51
+Iron,11CC 4,U.S. House,3,REP,Phil Lyman,37
+Iron,11CC 5,Ballots Cast,,REP,,98
+Iron,11CC 5,County Commissioner A,,REP,Bruce McDonald,53
+Iron,11CC 5,County Commissioner A,,REP,Mike Bleak,43
+Iron,11CC 5,Registered Voters,,REP,,352
+Iron,11CC 5,State School Board,14,REP,Linda Hanks,47
+Iron,11CC 5,State School Board,14,REP,Nichole Beecher Isom,45
+Iron,11CC 5,U.S. House,3,REP,Celeste Maloy,51
+Iron,11CC 5,U.S. House,3,REP,Phil Lyman,47
+Iron,11CC 6,Ballots Cast,,REP,,82
+Iron,11CC 6,County Commissioner A,,REP,Bruce McDonald,44
+Iron,11CC 6,County Commissioner A,,REP,Mike Bleak,38
+Iron,11CC 6,Registered Voters,,REP,,291
+Iron,11CC 6,State School Board,14,REP,Linda Hanks,49
+Iron,11CC 6,State School Board,14,REP,Nichole Beecher Isom,30
+Iron,11CC 6,U.S. House,3,REP,Celeste Maloy,63
+Iron,11CC 6,U.S. House,3,REP,Phil Lyman,19
+Iron,11CC 7,Ballots Cast,,REP,,69
+Iron,11CC 7,County Commissioner A,,REP,Bruce McDonald,33
+Iron,11CC 7,County Commissioner A,,REP,Mike Bleak,35
+Iron,11CC 7,Registered Voters,,REP,,250
+Iron,11CC 7,State School Board,14,REP,Linda Hanks,27
+Iron,11CC 7,State School Board,14,REP,Nichole Beecher Isom,38
+Iron,11CC 7,U.S. House,3,REP,Celeste Maloy,47
+Iron,11CC 7,U.S. House,3,REP,Phil Lyman,21
+Iron,11CC 8,Ballots Cast,,REP,,103
+Iron,11CC 8,County Commissioner A,,REP,Bruce McDonald,42
+Iron,11CC 8,County Commissioner A,,REP,Mike Bleak,61
+Iron,11CC 8,Registered Voters,,REP,,356
+Iron,11CC 8,State School Board,14,REP,Linda Hanks,58
+Iron,11CC 8,State School Board,14,REP,Nichole Beecher Isom,41
+Iron,11CC 8,U.S. House,3,REP,Celeste Maloy,78
+Iron,11CC 8,U.S. House,3,REP,Phil Lyman,25
+Iron,11CC 9,Ballots Cast,,REP,,140
+Iron,11CC 9,County Commissioner A,,REP,Bruce McDonald,75
+Iron,11CC 9,County Commissioner A,,REP,Mike Bleak,60
+Iron,11CC 9,Registered Voters,,REP,,418
+Iron,11CC 9,State School Board,14,REP,Linda Hanks,86
+Iron,11CC 9,State School Board,14,REP,Nichole Beecher Isom,46
+Iron,11CC 9,U.S. House,3,REP,Celeste Maloy,102
+Iron,11CC 9,U.S. House,3,REP,Phil Lyman,37
+Iron,11CH,Ballots Cast,,REP,,136
+Iron,11CH,County Commissioner A,,REP,Bruce McDonald,62
+Iron,11CH,County Commissioner A,,REP,Mike Bleak,68
+Iron,11CH,Registered Voters,,REP,,259
+Iron,11CH,State School Board,14,REP,Linda Hanks,81
+Iron,11CH,State School Board,14,REP,Nichole Beecher Isom,45
+Iron,11CH,U.S. House,3,REP,Celeste Maloy,102
+Iron,11CH,U.S. House,3,REP,Phil Lyman,34
+Iron,11CV,Ballots Cast,,REP,,200
+Iron,11CV,County Commissioner A,,REP,Bruce McDonald,121
+Iron,11CV,County Commissioner A,,REP,Mike Bleak,71
+Iron,11CV,Registered Voters,,REP,,633
+Iron,11CV,State School Board,14,REP,Linda Hanks,83
+Iron,11CV,State School Board,14,REP,Nichole Beecher Isom,103
+Iron,11CV,U.S. House,3,REP,Celeste Maloy,109
+Iron,11CV,U.S. House,3,REP,Phil Lyman,88
+Iron,11ENO 1,Ballots Cast,,REP,,190
+Iron,11ENO 1,County Commissioner A,,REP,Bruce McDonald,62
+Iron,11ENO 1,County Commissioner A,,REP,Mike Bleak,124
+Iron,11ENO 1,Registered Voters,,REP,,557
+Iron,11ENO 1,State School Board,14,REP,Linda Hanks,90
+Iron,11ENO 1,State School Board,14,REP,Nichole Beecher Isom,91
+Iron,11ENO 1,U.S. House,3,REP,Celeste Maloy,140
+Iron,11ENO 1,U.S. House,3,REP,Phil Lyman,50
+Iron,11ENO 2,Ballots Cast,,REP,,183
+Iron,11ENO 2,County Commissioner A,,REP,Bruce McDonald,79
+Iron,11ENO 2,County Commissioner A,,REP,Mike Bleak,98
+Iron,11ENO 2,Registered Voters,,REP,,493
+Iron,11ENO 2,State School Board,14,REP,Linda Hanks,92
+Iron,11ENO 2,State School Board,14,REP,Nichole Beecher Isom,74
+Iron,11ENO 2,U.S. House,3,REP,Celeste Maloy,118
+Iron,11ENO 2,U.S. House,3,REP,Phil Lyman,62
+Iron,11ENO 3,Ballots Cast,,REP,,197
+Iron,11ENO 3,County Commissioner A,,REP,Bruce McDonald,98
+Iron,11ENO 3,County Commissioner A,,REP,Mike Bleak,87
+Iron,11ENO 3,Registered Voters,,REP,,602
+Iron,11ENO 3,State School Board,14,REP,Linda Hanks,100
+Iron,11ENO 3,State School Board,14,REP,Nichole Beecher Isom,82
+Iron,11ENO 3,U.S. House,3,REP,Celeste Maloy,132
+Iron,11ENO 3,U.S. House,3,REP,Phil Lyman,64
+Iron,11ENO 4,Ballots Cast,,REP,,172
+Iron,11ENO 4,County Commissioner A,,REP,Bruce McDonald,80
+Iron,11ENO 4,County Commissioner A,,REP,Mike Bleak,88
+Iron,11ENO 4,Registered Voters,,REP,,506
+Iron,11ENO 4,State School Board,14,REP,Linda Hanks,82
+Iron,11ENO 4,State School Board,14,REP,Nichole Beecher Isom,80
+Iron,11ENO 4,U.S. House,3,REP,Celeste Maloy,101
+Iron,11ENO 4,U.S. House,3,REP,Phil Lyman,71
+Iron,11ENO 5,Ballots Cast,,REP,,165
+Iron,11ENO 5,County Commissioner A,,REP,Bruce McDonald,77
+Iron,11ENO 5,County Commissioner A,,REP,Mike Bleak,84
+Iron,11ENO 5,Registered Voters,,REP,,500
+Iron,11ENO 5,State School Board,14,REP,Linda Hanks,78
+Iron,11ENO 5,State School Board,14,REP,Nichole Beecher Isom,84
+Iron,11ENO 5,U.S. House,3,REP,Celeste Maloy,106
+Iron,11ENO 5,U.S. House,3,REP,Phil Lyman,56
+Iron,11ENO 6,Ballots Cast,,REP,,229
+Iron,11ENO 6,County Commissioner A,,REP,Bruce McDonald,104
+Iron,11ENO 6,County Commissioner A,,REP,Mike Bleak,121
+Iron,11ENO 6,Registered Voters,,REP,,650
+Iron,11ENO 6,State School Board,14,REP,Linda Hanks,117
+Iron,11ENO 6,State School Board,14,REP,Nichole Beecher Isom,106
+Iron,11ENO 6,U.S. House,3,REP,Celeste Maloy,153
+Iron,11ENO 6,U.S. House,3,REP,Phil Lyman,76
+Iron,11Federal,Ballots Cast,,REP,,0
+Iron,11Federal,Registered Voters,,REP,,0
+Iron,11Federal,U.S. House,3,REP,Celeste Maloy,0
+Iron,11Federal,U.S. House,3,REP,Phil Lyman,0
+Iron,11KAN,Ballots Cast,,REP,,202
+Iron,11KAN,County Commissioner A,,REP,Bruce McDonald,102
+Iron,11KAN,County Commissioner A,,REP,Mike Bleak,95
+Iron,11KAN,Registered Voters,,REP,,421
+Iron,11KAN,U.S. House,3,REP,Celeste Maloy,134
+Iron,11KAN,U.S. House,3,REP,Phil Lyman,67
+Iron,11MIDV,Ballots Cast,,REP,,193
+Iron,11MIDV,County Commissioner A,,REP,Bruce McDonald,108
+Iron,11MIDV,County Commissioner A,,REP,Mike Bleak,80
+Iron,11MIDV,Registered Voters,,REP,,565
+Iron,11MIDV,State School Board,14,REP,Linda Hanks,96
+Iron,11MIDV,State School Board,14,REP,Nichole Beecher Isom,81
+Iron,11MIDV,U.S. House,3,REP,Celeste Maloy,115
+Iron,11MIDV,U.S. House,3,REP,Phil Lyman,76
+Iron,11PARE,Ballots Cast,,REP,,260
+Iron,11PARE,County Commissioner A,,REP,Bruce McDonald,90
+Iron,11PARE,County Commissioner A,,REP,Mike Bleak,160
+Iron,11PARE,Registered Voters,,REP,,580
+Iron,11PARE,State School Board,14,REP,Linda Hanks,173
+Iron,11PARE,State School Board,14,REP,Nichole Beecher Isom,73
+Iron,11PARE,U.S. House,3,REP,Celeste Maloy,197
+Iron,11PARE,U.S. House,3,REP,Phil Lyman,60
+Iron,11PARG,Ballots Cast,,REP,,151
+Iron,11PARG,County Commissioner A,,REP,Bruce McDonald,52
+Iron,11PARG,County Commissioner A,,REP,Mike Bleak,95
+Iron,11PARG,Registered Voters,,REP,,312
+Iron,11PARG,State School Board,14,REP,Linda Hanks,88
+Iron,11PARG,State School Board,14,REP,Nichole Beecher Isom,49
+Iron,11PARG,U.S. House,3,REP,Celeste Maloy,100
+Iron,11PARG,U.S. House,3,REP,Phil Lyman,51
+Iron,11PARN,Ballots Cast,,REP,,212
+Iron,11PARN,County Commissioner A,,REP,Bruce McDonald,80
+Iron,11PARN,County Commissioner A,,REP,Mike Bleak,117
+Iron,11PARN,Registered Voters,,REP,,488
+Iron,11PARN,State School Board,14,REP,Linda Hanks,153
+Iron,11PARN,State School Board,14,REP,Nichole Beecher Isom,44
+Iron,11PARN,U.S. House,3,REP,Celeste Maloy,162
+Iron,11PARN,U.S. House,3,REP,Phil Lyman,49
+Iron,11PARS,Ballots Cast,,REP,,172
+Iron,11PARS,County Commissioner A,,REP,Bruce McDonald,71
+Iron,11PARS,County Commissioner A,,REP,Mike Bleak,99
+Iron,11PARS,Registered Voters,,REP,,428
+Iron,11PARS,State School Board,14,REP,Linda Hanks,102
+Iron,11PARS,State School Board,14,REP,Nichole Beecher Isom,61
+Iron,11PARS,U.S. House,3,REP,Celeste Maloy,125
+Iron,11PARS,U.S. House,3,REP,Phil Lyman,47
+Iron,11PARV,Ballots Cast,,REP,,69
+Iron,11PARV,County Commissioner A,,REP,Bruce McDonald,34
+Iron,11PARV,County Commissioner A,,REP,Mike Bleak,34
+Iron,11PARV,Registered Voters,,REP,,183
+Iron,11PARV,State School Board,14,REP,Linda Hanks,38
+Iron,11PARV,State School Board,14,REP,Nichole Beecher Isom,28
+Iron,11PARV,U.S. House,3,REP,Celeste Maloy,50
+Iron,11PARV,U.S. House,3,REP,Phil Lyman,19
+Iron,11SUM,Ballots Cast,,REP,,83
+Iron,11SUM,County Commissioner A,,REP,Bruce McDonald,30
+Iron,11SUM,County Commissioner A,,REP,Mike Bleak,52
+Iron,11SUM,Registered Voters,,REP,,184
+Iron,11SUM,State School Board,14,REP,Linda Hanks,47
+Iron,11SUM,State School Board,14,REP,Nichole Beecher Isom,35
+Iron,11SUM,U.S. House,3,REP,Celeste Maloy,61
+Iron,11SUM,U.S. House,3,REP,Phil Lyman,22
+Iron,11WSTV,Ballots Cast,,REP,,258
+Iron,11WSTV,County Commissioner A,,REP,Bruce McDonald,131
+Iron,11WSTV,County Commissioner A,,REP,Mike Bleak,125
+Iron,11WSTV,Registered Voters,,REP,,671
+Iron,11WSTV,State School Board,14,REP,Linda Hanks,147
+Iron,11WSTV,State School Board,14,REP,Nichole Beecher Isom,99
+Iron,11WSTV,U.S. House,3,REP,Celeste Maloy,157
+Iron,11WSTV,U.S. House,3,REP,Phil Lyman,101
