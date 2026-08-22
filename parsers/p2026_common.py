@@ -310,10 +310,18 @@ def ocr_pdf(pdf_path, county, dpi=150):
     return pages
 
 
+# Counties whose source PDFs have an embedded text layer that is garbled
+# (a broken ToUnicode map: letters render correctly on screen but extract as
+# wrong characters, e.g. "County" -> "couniy", "JOE" -> "JEO", "7" -> "1").  The
+# visual rendering is fine, so OCR on the rasterized pages gives clean text --
+# force OCR for these even though pdftotext finds plenty of (garbled) chars.
+FORCE_OCR_COUNTIES = {"sevier"}
+
+
 def extract(pdf_path, county):
     """Extract per-page lines from a PDF, choosing pdftotext or PaddleOCR.
     Returns (pages, is_ocr) where pages is a list of lists of line dicts."""
-    if needs_ocr(pdf_path):
+    if county in FORCE_OCR_COUNTIES or needs_ocr(pdf_path):
         return ocr_pdf(pdf_path, county), True
     return pdftotext_layout(pdf_path), False
 

@@ -54,6 +54,13 @@ _STAT_LABEL_RES = [
     (re.compile(r"^BALLOTS\s*CAST\b"), C.BALLOTS_CAST),
 ]
 
+# Counties whose precinct PDFs report only the per-party statistics breakdown
+# (e.g. "Registered Voters - Republican") with no separate "Total" line, while
+# the county summary carries a Total row.  In a single-party primary the Total
+# equals the party value, so the party stats row is mirrored as a total
+# (party='') row -- this lets the precinct sums reconcile against the summary.
+STATS_TOTAL_FROM_PARTY = {"sevier"}
+
 
 def _lev(a, b):
     """Levenshtein distance between two short uppercase tokens."""
@@ -210,9 +217,21 @@ _SKIP_PREFIXES = (
     "SUMMARY RESULTS", "STATISTICS", "CANDIDATE", "REGISTERED VOTERS",
     "BALLOTS CAST", "VOTERS CAST", "ELECTION SUMMARY", "FULL ELECTION",
     "CANVASS", "SPARE", "LECTION SUMMARY", "ECTION SUMMARY",
+    # Page footer "RECEIVED <date>" — the leading "R" is often cropped by OCR
+    # to "ECEIVED"/"ECEIV"; skip both forms so it isn't read as a contest header.
+    "RECEIV", "ECEIV",
 )
 _SKIP_EXACT = {"TOTAL", "TOTAL.", "STATISTICS", "CANDIDATE", "TOTAL VOTE %",
                "VOTE %", "TOTALS", "OFFICIAL RESULTS", "OFFICAL ELECTION RESULTS"}
+
+# Date line in a page footer, e.g. "JUL 0 1 2026" / "JULY 01, 2026" / "JUNE 23, 2026".
+# A month name/abbrev followed by a day number; never a real contest or candidate
+# line (candidate rows carry a trailing vote count after a full name, not a
+# bare month+day).  Catches the date half of the "RECEIVED <date>" footer.
+_DATE_RE = re.compile(
+    r"^(JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|"
+    r"NOVEMBER|DECEMBER|JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)\s+\d{1,2}\b",
+    re.IGNORECASE)
 
 
 def _is_contest_totals_fuzzy(up):
@@ -261,6 +280,8 @@ def _is_skip(text):
     if _is_col_header(up):
         return True
     if up.startswith(_SKIP_PREFIXES):
+        return True
+    if _DATE_RE.match(up):
         return True
     return _is_contest_totals_fuzzy(up)
 
@@ -476,6 +497,11 @@ def _parse_rows(county, pdf_path, precinct_mode=False):
                 # Skip zero-value nonpartisan registration noise
                 if sp == "NP" and C.to_int(svotes) == 0:
                     continue
+                # Some precinct PDFs report only the party breakdown (e.g.
+                # "Registered Voters - Republican") with no "Total" line; in a
+                # single-party primary Total == the party value, so mirror it.
+                if precinct_mode and county in STATS_TOTAL_FROM_PARTY and sp:
+                    rows.append(C.meta_row(display, label, "", svotes, precinct=precinct))
                 rows.append(C.meta_row(display, label, sp, svotes, precinct=precinct))
                 continue
             if _is_skip(t):

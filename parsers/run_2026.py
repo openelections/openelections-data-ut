@@ -58,7 +58,7 @@ def run_summary(county):
     C.write_csv(rows, ccsv, precinct=False)
     issues = C.sanity_check(ccsv, precinct=False)
     n = len(rows)
-    ocr = " (OCR)" if C.needs_ocr(src) else ""
+    ocr = " (OCR)" if (C.needs_ocr(src) or county in C.FORCE_OCR_COUNTIES) else ""
     if issues:
         print(f"[{county}] summary{ocr}: {n} rows, {len(issues)} ISSUES:")
         for iss in issues[:20]:
@@ -87,7 +87,7 @@ def run_precinct(county):
     C.write_csv(rows, pcsv, precinct=True)
     issues = C.sanity_check(pcsv, precinct=True)
     n = len(rows)
-    ocr = " (OCR)" if C.needs_ocr(src) else ""
+    ocr = " (OCR)" if (C.needs_ocr(src) or county in C.FORCE_OCR_COUNTIES) else ""
     if issues:
         print(f"[{county}] precinct{ocr}: {n} rows, {len(issues)} ISSUES:")
         for iss in issues[:25]:
