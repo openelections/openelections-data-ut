@@ -1,0 +1,1520 @@
+county,precinct,office,district,party,candidate,votes
+Cache,AMA:I,Registered Voters,,,,186
+Cache,AMA:I,Ballots Cast,,,,84
+Cache,AMA:U1,Registered Voters,,,,0
+Cache,AMA:U1,Ballots Cast,,,,0
+Cache,AMA:U2,Registered Voters,,,,0
+Cache,AMA:U2,Ballots Cast,,,,0
+Cache,AMA:U3,Registered Voters,,,,9
+Cache,AMA:U3,Ballots Cast,,,,3
+Cache,BEN:U,Registered Voters,,,,277
+Cache,BEN:U,Ballots Cast,,,,124
+Cache,CLK:I,Registered Voters,,,,309
+Cache,CLK:I,Ballots Cast,,,,105
+Cache,CLK:U1,Registered Voters,,,,32
+Cache,CLK:U1,Ballots Cast,,,,14
+Cache,CLK:U2,Registered Voters,,,,0
+Cache,CLK:U2,Ballots Cast,,,,0
+Cache,COR:I,Registered Voters,,,,94
+Cache,COR:I,Ballots Cast,,,,41
+Cache,COR:U,Registered Voters,,,,14
+Cache,COR:U,Ballots Cast,,,,10
+Cache,COV:U,Registered Voters,,,,222
+Cache,COV:U,Ballots Cast,,,,118
+Cache,COV:U2,Registered Voters,,,,39
+Cache,COV:U2,Ballots Cast,,,,10
+Cache,CY:U,Registered Voters,,,,370
+Cache,CY:U,Ballots Cast,,,,177
+Cache,HYD01:I,Registered Voters,,,,653
+Cache,HYD01:I,Ballots Cast,,,,379
+Cache,HYD01:U,Registered Voters,,,,0
+Cache,HYD01:U,Ballots Cast,,,,0
+Cache,HYD02:I,Registered Voters,,,,654
+Cache,HYD02:I,Ballots Cast,,,,347
+Cache,HYD02:U1,Registered Voters,,,,48
+Cache,HYD02:U1,Ballots Cast,,,,19
+Cache,HYD02:U2,Registered Voters,,,,0
+Cache,HYD02:U2,Ballots Cast,,,,0
+Cache,HYD03:I,Registered Voters,,,,762
+Cache,HYD03:I,Ballots Cast,,,,339
+Cache,HYD03:U,Registered Voters,,,,0
+Cache,HYD03:U,Ballots Cast,,,,0
+Cache,HYR01:I,Registered Voters,,,,421
+Cache,HYR01:I,Ballots Cast,,,,196
+Cache,HYR01:U,Registered Voters,,,,100
+Cache,HYR01:U,Ballots Cast,,,,43
+Cache,HYR02:I,Registered Voters,,,,420
+Cache,HYR02:I,Ballots Cast,,,,195
+Cache,HYR02:U1,Registered Voters,,,,11
+Cache,HYR02:U1,Ballots Cast,,,,5
+Cache,HYR02:U2,Registered Voters,,,,0
+Cache,HYR02:U2,Ballots Cast,,,,0
+Cache,HYR03:I,Registered Voters,,,,565
+Cache,HYR03:I,Ballots Cast,,,,218
+Cache,HYR03:U,Registered Voters,,,,14
+Cache,HYR03:U,Ballots Cast,,,,3
+Cache,HYR04:I,Registered Voters,,,,748
+Cache,HYR04:I,Ballots Cast,,,,329
+Cache,HYR04:U1,Registered Voters,,,,2
+Cache,HYR04:U1,Ballots Cast,,,,0
+Cache,HYR04:U2,Registered Voters,,,,60
+Cache,HYR04:U2,Ballots Cast,,,,21
+Cache,HYR04:U3,Registered Voters,,,,0
+Cache,HYR04:U3,Ballots Cast,,,,0
+Cache,HYR05:I,Registered Voters,,,,721
+Cache,HYR05:I,Ballots Cast,,,,281
+Cache,HYR05:U1,Registered Voters,,,,16
+Cache,HYR05:U1,Ballots Cast,,,,11
+Cache,HYR05:U2,Registered Voters,,,,0
+Cache,LEW00:I,Registered Voters,,,,0
+Cache,LEW00:I,Ballots Cast,,,,0
+Cache,LEW01:I,Registered Voters,,,,700
+Cache,LEW01:I,Ballots Cast,,,,338
+Cache,LEW01:U1,Registered Voters,,,,0
+Cache,LEW01:U1,Ballots Cast,,,,0
+Cache,LEW01:U2,Registered Voters,,,,0
+Cache,LEW01:U2,Ballots Cast,,,,0
+Cache,LEW01:U3,Registered Voters,,,,0
+Cache,LEW01:U3,Ballots Cast,,,,0
+Cache,LEW01:U4,Registered Voters,,,,0
+Cache,LEW01:U4,Ballots Cast,,,,0
+Cache,LOG01:I,Registered Voters,,,,520
+Cache,LOG01:I,Ballots Cast,,,,200
+Cache,LOG02:I,Registered Voters,,,,377
+Cache,LOG02:I,Ballots Cast,,,,124
+Cache,LOG03:I,Registered Voters,,,,253
+Cache,LOG03:I,Ballots Cast,,,,114
+Cache,LOG04:I,Registered Voters,,,,475
+Cache,LOG04:I,Ballots Cast,,,,225
+Cache,LOG05:I,Registered Voters,,,,413
+Cache,LOG05:I,Ballots Cast,,,,65
+Cache,LOG06:I,Registered Voters,,,,250
+Cache,LOG06:I,Ballots Cast,,,,78
+Cache,LOG07:I,Registered Voters,,,,331
+Cache,LOG07:I,Ballots Cast,,,,204
+Cache,LOG08:I,Registered Voters,,,,343
+Cache,LOG08:I,Ballots Cast,,,,214
+Cache,LOG09:I,Registered Voters,,,,427
+Cache,LOG09:I,Ballots Cast,,,,198
+Cache,LOG10:I,Registered Voters,,,,264
+Cache,LOG10:I,Ballots Cast,,,,100
+Cache,LOG11:I,Registered Voters,,,,280
+Cache,LOG11:I,Ballots Cast,,,,185
+Cache,LOG12:I,Registered Voters,,,,444
+Cache,LOG12:I,Ballots Cast,,,,191
+Cache,LOG13:I,Registered Voters,,,,238
+Cache,LOG13:I,Ballots Cast,,,,75
+Cache,LOG13:U,Registered Voters,,,,0
+Cache,LOG13:U,Ballots Cast,,,,0
+Cache,LOG14:I,Registered Voters,,,,360
+Cache,LOG14:I,Ballots Cast,,,,111
+Cache,LOG14:U1,Registered Voters,,,,0
+Cache,LOG14:U1,Ballots Cast,,,,0
+Cache,LOG14:U2,Registered Voters,,,,0
+Cache,LOG14:U2,Ballots Cast,,,,0
+Cache,LOG14:U3,Registered Voters,,,,0
+Cache,LOG14:U3,Ballots Cast,,,,0
+Cache,LOG15:I,Registered Voters,,,,218
+Cache,LOG15:I,Ballots Cast,,,,78
+Cache,LOG16:I,Registered Voters,,,,439
+Cache,LOG16:I,Ballots Cast,,,,166
+Cache,LOG17:I,Registered Voters,,,,318
+Cache,LOG17:I,Ballots Cast,,,,132
+Cache,LOG18:CSD,Registered Voters,,,,78
+Cache,LOG18:CSD,Ballots Cast,,,,17
+Cache,LOG18:IA,Registered Voters,,,,430
+Cache,LOG18:IA,Ballots Cast,,,,207
+Cache,LOG18:IB,Registered Voters,,,,0
+Cache,LOG18:IB,Ballots Cast,,,,0
+Cache,LOG19:I,Registered Voters,,,,321
+Cache,LOG19:I,Ballots Cast,,,,144
+Cache,LOG20:I,Registered Voters,,,,522
+Cache,LOG20:I,Ballots Cast,,,,278
+Cache,LOG21:CSD,Registered Voters,,,,1
+Cache,LOG21:CSD,Ballots Cast,,,,1
+Cache,LOG21:IA,Registered Voters,,,,528
+Cache,LOG21:IA,Ballots Cast,,,,291
+Cache,LOG21:IB,Registered Voters,,,,0
+Cache,LOG21:IB,Ballots Cast,,,,0
+Cache,LOG21:IC,Registered Voters,,,,0
+Cache,LOG21:IC,Ballots Cast,,,,0
+Cache,LOG22:CSD,Registered Voters,,,,30
+Cache,LOG22:CSD,Ballots Cast,,,,13
+Cache,LOG22:I,Registered Voters,,,,247
+Cache,LOG22:I,Ballots Cast,,,,96
+Cache,LOG23:I,Registered Voters,,,,365
+Cache,LOG23:I,Ballots Cast,,,,134
+Cache,LOG24:17C1,Registered Voters,,,,0
+Cache,LOG24:17C2,Registered Voters,,,,2
+Cache,LOG24:17C2,Ballots Cast,,,,2
+Cache,LOG24:CSD1,Registered Voters,,,,0
+Cache,LOG24:CSD1,Ballots Cast,,,,0
+Cache,LOG24:CSD2,Registered Voters,,,,83
+Cache,LOG24:CSD2,Ballots Cast,,,,25
+Cache,LOG24:CSD3,Registered Voters,,,,50
+Cache,LOG24:CSD3,Ballots Cast,,,,12
+Cache,LOG24:I,Registered Voters,,,,397
+Cache,LOG24:I,Ballots Cast,,,,116
+Cache,LOG24:U,Registered Voters,,,,0
+Cache,LOG24:U,Ballots Cast,,,,0
+Cache,LOG25:I,Registered Voters,,,,192
+Cache,LOG25:I,Ballots Cast,,,,66
+Cache,MEN01:U,Registered Voters,,,,99
+Cache,MEN01:U,Ballots Cast,,,,34
+Cache,MEN02:I,Registered Voters,,,,605
+Cache,MEN02:I,Ballots Cast,,,,283
+Cache,MEN02:U,Registered Voters,,,,441
+Cache,MEN02:U,Ballots Cast,,,,185
+Cache,MIL01:I,Registered Voters,,,,756
+Cache,MIL01:I,Ballots Cast,,,,375
+Cache,MIL01:U,Registered Voters,,,,0
+Cache,MIL01:U,Ballots Cast,,,,0
+Cache,MIL02:I,Registered Voters,,,,57
+Cache,MIL02:I,Ballots Cast,,,,22
+Cache,MIL02:U1,Registered Voters,,,,44
+Cache,MIL02:U1,Ballots Cast,,,,25
+Cache,MIL02:U2,Registered Voters,,,,0
+Cache,MIL02:U2,Ballots Cast,,,,0
+Cache,NEW:I,Registered Voters,,,,348
+Cache,NEW:I,Ballots Cast,,,,175
+Cache,NEW:U,Registered Voters,,,,81
+Cache,NEW:U,Ballots Cast,,,,26
+Cache,NEW:U2,Registered Voters,,,,11
+Cache,NEW:U2,Ballots Cast,,,,4
+Cache,NIB01:IA,Registered Voters,,,,458
+Cache,NIB01:IA,Ballots Cast,,,,148
+Cache,NIB01:IB,Registered Voters,,,,0
+Cache,NIB01:IB,Ballots Cast,,,,0
+Cache,NIB01:U1,Registered Voters,,,,2
+Cache,NIB01:U1,Ballots Cast,,,,2
+Cache,NIB01:U2,Registered Voters,,,,4
+Cache,NIB01:U2,Ballots Cast,,,,1
+Cache,NIB01:U3,Registered Voters,,,,17
+Cache,NIB01:U3,Ballots Cast,,,,10
+Cache,NIB02:I,Registered Voters,,,,721
+Cache,NIB02:I,Ballots Cast,,,,265
+Cache,NIB03:I,Registered Voters,,,,427
+Cache,NIB03:I,Ballots Cast,,,,187
+Cache,NIB04:I,Registered Voters,,,,709
+Cache,NIB04:I,Ballots Cast,,,,353
+Cache,NIB04:U,Registered Voters,,,,40
+Cache,NIB04:U,Ballots Cast,,,,23
+Cache,NLG01:I,Registered Voters,,,,489
+Cache,NLG01:I,Ballots Cast,,,,203
+Cache,NLG02:I,Registered Voters,,,,547
+Cache,NLG02:I,Ballots Cast,,,,266
+Cache,NLG03:I,Registered Voters,,,,564
+Cache,NLG03:I,Ballots Cast,,,,274
+Cache,NLG03:U,Registered Voters,,,,9
+Cache,NLG03:U,Ballots Cast,,,,5
+Cache,NLG04:I,Registered Voters,,,,759
+Cache,NLG04:I,Ballots Cast,,,,350
+Cache,NLG04:U,Registered Voters,,,,29
+Cache,NLG04:U,Ballots Cast,,,,10
+Cache,NLG05:I,Registered Voters,,,,541
+Cache,NLG05:I,Ballots Cast,,,,385
+Cache,NLG06:I,Registered Voters,,,,520
+Cache,NLG06:I,Ballots Cast,,,,293
+Cache,PAR:I,Registered Voters,,,,436
+Cache,PAR:I,Ballots Cast,,,,212
+Cache,PAR:U,Registered Voters,,,,404
+Cache,PAR:U,Ballots Cast,,,,179
+Cache,PRO01:IA,Registered Voters,,,,322
+Cache,PRO01:IA,Ballots Cast,,,,152
+Cache,PRO01:IB,Registered Voters,,,,0
+Cache,PRO01:IB,Ballots Cast,,,,0
+Cache,PRO01:IC,Registered Voters,,,,0
+Cache,PRO02:IA,Registered Voters,,,,649
+Cache,PRO02:IA,Ballots Cast,,,,351
+Cache,PRO02:IB,Registered Voters,,,,0
+Cache,PRO02:IB,Ballots Cast,,,,0
+Cache,PRO03:I,Registered Voters,,,,647
+Cache,PRO03:I,Ballots Cast,,,,312
+Cache,PRO03:U1,Registered Voters,,,,2
+Cache,PRO03:U1,Ballots Cast,,,,2
+Cache,PRO03:U2,Registered Voters,,,,1
+Cache,PRO03:U2,Ballots Cast,,,,0
+Cache,PRO03:U3,Registered Voters,,,,2
+Cache,PRO03:U3,Ballots Cast,,,,0
+Cache,PRO04:I,Registered Voters,,,,469
+Cache,PRO04:I,Ballots Cast,,,,245
+Cache,PRO04:U,Registered Voters,,,,0
+Cache,PRO04:U,Ballots Cast,,,,0
+Cache,PRO05:I,Registered Voters,,,,517
+Cache,PRO05:I,Ballots Cast,,,,219
+Cache,PRO06:I,Registered Voters,,,,514
+Cache,PRO06:I,Ballots Cast,,,,234
+Cache,RCH01:I,Registered Voters,,,,502
+Cache,RCH01:I,Ballots Cast,,,,213
+Cache,RCH01:U1,Registered Voters,,,,2
+Cache,RCH01:U1,Ballots Cast,,,,2
+Cache,RCH01:U2,Registered Voters,,,,3
+Cache,RCH01:U2,Ballots Cast,,,,1
+Cache,RCH01:U3,Registered Voters,,,,42
+Cache,RCH01:U3,Ballots Cast,,,,21
+Cache,RCH02:I,Registered Voters,,,,485
+Cache,RCH02:I,Ballots Cast,,,,259
+Cache,RCH02:U1,Registered Voters,,,,18
+Cache,RCH02:U1,Ballots Cast,,,,9
+Cache,RCH02:U2,Registered Voters,,,,47
+Cache,RCH02:U2,Ballots Cast,,,,24
+Cache,RCH03:I,Registered Voters,,,,0
+Cache,RCH03:I,Ballots Cast,,,,0
+Cache,RVH01:I,Registered Voters,,,,540
+Cache,RVH01:I,Ballots Cast,,,,269
+Cache,RVH01:U,Registered Voters,,,,2
+Cache,RVH01:U,Ballots Cast,,,,2
+Cache,RVH02:I,Registered Voters,,,,165
+Cache,RVH02:I,Ballots Cast,,,,89
+Cache,RVH02:U1,Registered Voters,,,,2
+Cache,RVH02:U1,Ballots Cast,,,,1
+Cache,RVH02:U2,Registered Voters,,,,0
+Cache,RVH02:U2,Ballots Cast,,,,0
+Cache,RVH02:U3,Registered Voters,,,,6
+Cache,RVH02:U3,Ballots Cast,,,,3
+Cache,SMI01:I,Registered Voters,,,,589
+Cache,SMI01:I,Ballots Cast,,,,259
+Cache,SMI01:U1,Registered Voters,,,,46
+Cache,SMI01:U1,Ballots Cast,,,,20
+Cache,SMI01:U2,Registered Voters,,,,0
+Cache,SMI01:U2,Ballots Cast,,,,0
+Cache,SMI02:I,Registered Voters,,,,800
+Cache,SMI02:I,Ballots Cast,,,,406
+Cache,SMI02:U,Registered Voters,,,,12
+Cache,SMI02:U,Ballots Cast,,,,8
+Cache,SMI03:I,Registered Voters,,,,531
+Cache,SMI03:I,Ballots Cast,,,,240
+Cache,SMI03:U,Registered Voters,,,,2
+Cache,SMI03:U,Ballots Cast,,,,2
+Cache,SMI04:I,Registered Voters,,,,473
+Cache,SMI04:I,Ballots Cast,,,,217
+Cache,SMI04:U,Registered Voters,,,,5
+Cache,SMI04:U,Ballots Cast,,,,5
+Cache,SMI05:I,Registered Voters,,,,563
+Cache,SMI05:I,Ballots Cast,,,,203
+Cache,SMI05:U,Registered Voters,,,,15
+Cache,SMI05:U,Ballots Cast,,,,7
+Cache,SMI06:I,Registered Voters,,,,478
+Cache,SMI06:I,Ballots Cast,,,,203
+Cache,SMI06:U,Registered Voters,,,,69
+Cache,SMI06:U,Ballots Cast,,,,25
+Cache,SMI07:I,Registered Voters,,,,611
+Cache,SMI07:I,Ballots Cast,,,,281
+Cache,SMI07:U,Registered Voters,,,,134
+Cache,SMI07:U,Ballots Cast,,,,64
+Cache,SMI08:I,Registered Voters,,,,357
+Cache,SMI08:I,Ballots Cast,,,,153
+Cache,TRE:I,Registered Voters,,,,191
+Cache,TRE:I,Ballots Cast,,,,91
+Cache,UNINHC:1,Registered Voters,,,,0
+Cache,UNINHC:1,Ballots Cast,,,,0
+Cache,UNINHC:2,Registered Voters,,,,0
+Cache,UNINHC:2,Ballots Cast,,,,0
+Cache,WEL01:I,Registered Voters,,,,621
+Cache,WEL01:I,Ballots Cast,,,,243
+Cache,WEL01:U1,Registered Voters,,,,147
+Cache,WEL01:U1,Ballots Cast,,,,75
+Cache,WEL01:U2,Registered Voters,,,,0
+Cache,WEL01:U2,Ballots Cast,,,,0
+Cache,WEL01:U3,Registered Voters,,,,3
+Cache,WEL01:U3,Ballots Cast,,,,2
+Cache,WEL02:I,Registered Voters,,,,485
+Cache,WEL02:I,Ballots Cast,,,,225
+Cache,WEL02:U,Registered Voters,,,,24
+Cache,WEL02:U,Ballots Cast,,,,18
+Cache,WEL03:I,Registered Voters,,,,452
+Cache,WEL03:I,Ballots Cast,,,,195
+Cache,WEL03:U,Registered Voters,,,,175
+Cache,WEL03:U,Ballots Cast,,,,77
+Cache,AMA:I,U.S. Senate,,REP,Becky Edwards,19
+Cache,AMA:I,U.S. Senate,,REP,Ally Isom,10
+Cache,AMA:I,U.S. Senate,,REP,Mike Lee,55
+Cache,AMA:U1,U.S. Senate,,REP,Becky Edwards,0
+Cache,AMA:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,AMA:U1,U.S. Senate,,REP,Mike Lee,0
+Cache,AMA:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,AMA:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,AMA:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,AMA:U3,U.S. Senate,,REP,Becky Edwards,0
+Cache,AMA:U3,U.S. Senate,,REP,Ally Isom,0
+Cache,AMA:U3,U.S. Senate,,REP,Mike Lee,3
+Cache,BEN:U,U.S. Senate,,REP,Becky Edwards,19
+Cache,BEN:U,U.S. Senate,,REP,Ally Isom,7
+Cache,BEN:U,U.S. Senate,,REP,Mike Lee,98
+Cache,CLK:I,U.S. Senate,,REP,Becky Edwards,16
+Cache,CLK:I,U.S. Senate,,REP,Ally Isom,8
+Cache,CLK:I,U.S. Senate,,REP,Mike Lee,81
+Cache,CLK:U1,U.S. Senate,,REP,Becky Edwards,2
+Cache,CLK:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,CLK:U1,U.S. Senate,,REP,Mike Lee,12
+Cache,CLK:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,CLK:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,CLK:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,COR:I,U.S. Senate,,REP,Becky Edwards,8
+Cache,COR:I,U.S. Senate,,REP,Ally Isom,4
+Cache,COR:I,U.S. Senate,,REP,Mike Lee,29
+Cache,COR:U,U.S. Senate,,REP,Becky Edwards,1
+Cache,COR:U,U.S. Senate,,REP,Ally Isom,0
+Cache,COR:U,U.S. Senate,,REP,Mike Lee,9
+Cache,COV:U,U.S. Senate,,REP,Becky Edwards,22
+Cache,COV:U,U.S. Senate,,REP,Ally Isom,12
+Cache,COV:U,U.S. Senate,,REP,Mike Lee,84
+Cache,COV:U2,U.S. Senate,,REP,Becky Edwards,2
+Cache,COV:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,COV:U2,U.S. Senate,,REP,Mike Lee,8
+Cache,CY:U,U.S. Senate,,REP,Becky Edwards,41
+Cache,CY:U,U.S. Senate,,REP,Ally Isom,17
+Cache,CY:U,U.S. Senate,,REP,Mike Lee,118
+Cache,HYD01:I,U.S. Senate,,REP,Becky Edwards,107
+Cache,HYD01:I,U.S. Senate,,REP,Ally Isom,39
+Cache,HYD01:I,U.S. Senate,,REP,Mike Lee,230
+Cache,HYD01:U,U.S. Senate,,REP,Becky Edwards,0
+Cache,HYD01:U,U.S. Senate,,REP,Ally Isom,0
+Cache,HYD01:U,U.S. Senate,,REP,Mike Lee,0
+Cache,HYD02:I,U.S. Senate,,REP,Becky Edwards,111
+Cache,HYD02:I,U.S. Senate,,REP,Ally Isom,35
+Cache,HYD02:I,U.S. Senate,,REP,Mike Lee,200
+Cache,HYD02:U1,U.S. Senate,,REP,Becky Edwards,7
+Cache,HYD02:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,HYD02:U1,U.S. Senate,,REP,Mike Lee,12
+Cache,HYD02:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,HYD02:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,HYD02:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,HYD03:I,U.S. Senate,,REP,Becky Edwards,92
+Cache,HYD03:I,U.S. Senate,,REP,Ally Isom,31
+Cache,HYD03:I,U.S. Senate,,REP,Mike Lee,215
+Cache,HYD03:U,U.S. Senate,,REP,Becky Edwards,0
+Cache,HYD03:U,U.S. Senate,,REP,Ally Isom,0
+Cache,HYD03:U,U.S. Senate,,REP,Mike Lee,0
+Cache,HYR01:I,U.S. Senate,,REP,Becky Edwards,30
+Cache,HYR01:I,U.S. Senate,,REP,Ally Isom,23
+Cache,HYR01:I,U.S. Senate,,REP,Mike Lee,143
+Cache,HYR01:U,U.S. Senate,,REP,Becky Edwards,5
+Cache,HYR01:U,U.S. Senate,,REP,Ally Isom,7
+Cache,HYR01:U,U.S. Senate,,REP,Mike Lee,31
+Cache,HYR02:I,U.S. Senate,,REP,Becky Edwards,34
+Cache,HYR02:I,U.S. Senate,,REP,Ally Isom,24
+Cache,HYR02:I,U.S. Senate,,REP,Mike Lee,136
+Cache,HYR02:U1,U.S. Senate,,REP,Becky Edwards,0
+Cache,HYR02:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,HYR02:U1,U.S. Senate,,REP,Mike Lee,5
+Cache,HYR02:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,HYR02:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,HYR02:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,HYR03:I,U.S. Senate,,REP,Becky Edwards,33
+Cache,HYR03:I,U.S. Senate,,REP,Ally Isom,27
+Cache,HYR03:I,U.S. Senate,,REP,Mike Lee,156
+Cache,HYR03:U,U.S. Senate,,REP,Becky Edwards,2
+Cache,HYR03:U,U.S. Senate,,REP,Ally Isom,0
+Cache,HYR03:U,U.S. Senate,,REP,Mike Lee,0
+Cache,HYR04:I,U.S. Senate,,REP,Becky Edwards,60
+Cache,HYR04:I,U.S. Senate,,REP,Ally Isom,30
+Cache,HYR04:I,U.S. Senate,,REP,Mike Lee,239
+Cache,HYR04:U1,U.S. Senate,,REP,Becky Edwards,0
+Cache,HYR04:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,HYR04:U1,U.S. Senate,,REP,Mike Lee,0
+Cache,HYR04:U2,U.S. Senate,,REP,Becky Edwards,1
+Cache,HYR04:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,HYR04:U2,U.S. Senate,,REP,Mike Lee,20
+Cache,HYR04:U3,U.S. Senate,,REP,Becky Edwards,0
+Cache,HYR04:U3,U.S. Senate,,REP,Ally Isom,0
+Cache,HYR04:U3,U.S. Senate,,REP,Mike Lee,0
+Cache,HYR05:I,U.S. Senate,,REP,Becky Edwards,65
+Cache,HYR05:I,U.S. Senate,,REP,Ally Isom,55
+Cache,HYR05:I,U.S. Senate,,REP,Mike Lee,161
+Cache,HYR05:U1,U.S. Senate,,REP,Becky Edwards,2
+Cache,HYR05:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,HYR05:U1,U.S. Senate,,REP,Mike Lee,9
+Cache,HYR05:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,HYR05:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,HYR05:U2,U.S. Senate,,REP,Mike Lee,1
+Cache,LEW00:I,U.S. Senate,,REP,Becky Edwards,0
+Cache,LEW00:I,U.S. Senate,,REP,Ally Isom,0
+Cache,LEW00:I,U.S. Senate,,REP,Mike Lee,0
+Cache,LEW01:I,U.S. Senate,,REP,Becky Edwards,45
+Cache,LEW01:I,U.S. Senate,,REP,Ally Isom,28
+Cache,LEW01:I,U.S. Senate,,REP,Mike Lee,265
+Cache,LEW01:U1,U.S. Senate,,REP,Becky Edwards,0
+Cache,LEW01:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,LEW01:U1,U.S. Senate,,REP,Mike Lee,0
+Cache,LEW01:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,LEW01:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,LEW01:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,LEW01:U3,U.S. Senate,,REP,Becky Edwards,0
+Cache,LEW01:U3,U.S. Senate,,REP,Ally Isom,0
+Cache,LEW01:U3,U.S. Senate,,REP,Mike Lee,0
+Cache,LEW01:U4,U.S. Senate,,REP,Becky Edwards,0
+Cache,LEW01:U4,U.S. Senate,,REP,Ally Isom,0
+Cache,LEW01:U4,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG01:I,U.S. Senate,,REP,Becky Edwards,79
+Cache,LOG01:I,U.S. Senate,,REP,Ally Isom,17
+Cache,LOG01:I,U.S. Senate,,REP,Mike Lee,103
+Cache,LOG02:I,U.S. Senate,,REP,Becky Edwards,46
+Cache,LOG02:I,U.S. Senate,,REP,Ally Isom,17
+Cache,LOG02:I,U.S. Senate,,REP,Mike Lee,61
+Cache,LOG03:I,U.S. Senate,,REP,Becky Edwards,34
+Cache,LOG03:I,U.S. Senate,,REP,Ally Isom,14
+Cache,LOG03:I,U.S. Senate,,REP,Mike Lee,66
+Cache,LOG04:I,U.S. Senate,,REP,Becky Edwards,66
+Cache,LOG04:I,U.S. Senate,,REP,Ally Isom,15
+Cache,LOG04:I,U.S. Senate,,REP,Mike Lee,144
+Cache,LOG05:I,U.S. Senate,,REP,Becky Edwards,34
+Cache,LOG05:I,U.S. Senate,,REP,Ally Isom,13
+Cache,LOG05:I,U.S. Senate,,REP,Mike Lee,18
+Cache,LOG06:I,U.S. Senate,,REP,Becky Edwards,35
+Cache,LOG06:I,U.S. Senate,,REP,Ally Isom,11
+Cache,LOG06:I,U.S. Senate,,REP,Mike Lee,31
+Cache,LOG07:I,U.S. Senate,,REP,Becky Edwards,92
+Cache,LOG07:I,U.S. Senate,,REP,Ally Isom,16
+Cache,LOG07:I,U.S. Senate,,REP,Mike Lee,96
+Cache,LOG08:I,U.S. Senate,,REP,Becky Edwards,86
+Cache,LOG08:I,U.S. Senate,,REP,Ally Isom,21
+Cache,LOG08:I,U.S. Senate,,REP,Mike Lee,107
+Cache,LOG09:I,U.S. Senate,,REP,Becky Edwards,49
+Cache,LOG09:I,U.S. Senate,,REP,Ally Isom,22
+Cache,LOG09:I,U.S. Senate,,REP,Mike Lee,127
+Cache,LOG10:I,U.S. Senate,,REP,Becky Edwards,47
+Cache,LOG10:I,U.S. Senate,,REP,Ally Isom,8
+Cache,LOG10:I,U.S. Senate,,REP,Mike Lee,45
+Cache,LOG11:I,U.S. Senate,,REP,Becky Edwards,61
+Cache,LOG11:I,U.S. Senate,,REP,Ally Isom,37
+Cache,LOG11:I,U.S. Senate,,REP,Mike Lee,87
+Cache,LOG12:I,U.S. Senate,,REP,Becky Edwards,55
+Cache,LOG12:I,U.S. Senate,,REP,Ally Isom,25
+Cache,LOG12:I,U.S. Senate,,REP,Mike Lee,110
+Cache,LOG13:I,U.S. Senate,,REP,Becky Edwards,29
+Cache,LOG13:I,U.S. Senate,,REP,Ally Isom,8
+Cache,LOG13:I,U.S. Senate,,REP,Mike Lee,38
+Cache,LOG13:U,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG13:U,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG13:U,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG14:I,U.S. Senate,,REP,Becky Edwards,51
+Cache,LOG14:I,U.S. Senate,,REP,Ally Isom,11
+Cache,LOG14:I,U.S. Senate,,REP,Mike Lee,49
+Cache,LOG14:U1,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG14:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG14:U1,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG14:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG14:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG14:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG14:U3,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG14:U3,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG14:U3,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG15:I,U.S. Senate,,REP,Becky Edwards,14
+Cache,LOG15:I,U.S. Senate,,REP,Ally Isom,9
+Cache,LOG15:I,U.S. Senate,,REP,Mike Lee,55
+Cache,LOG16:I,U.S. Senate,,REP,Becky Edwards,48
+Cache,LOG16:I,U.S. Senate,,REP,Ally Isom,15
+Cache,LOG16:I,U.S. Senate,,REP,Mike Lee,103
+Cache,LOG17:I,U.S. Senate,,REP,Becky Edwards,43
+Cache,LOG17:I,U.S. Senate,,REP,Ally Isom,14
+Cache,LOG17:I,U.S. Senate,,REP,Mike Lee,75
+Cache,LOG18:CSD,U.S. Senate,,REP,Becky Edwards,6
+Cache,LOG18:CSD,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG18:CSD,U.S. Senate,,REP,Mike Lee,11
+Cache,LOG18:IA,U.S. Senate,,REP,Becky Edwards,80
+Cache,LOG18:IA,U.S. Senate,,REP,Ally Isom,26
+Cache,LOG18:IA,U.S. Senate,,REP,Mike Lee,99
+Cache,LOG18:IB,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG18:IB,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG18:IB,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG19:I,U.S. Senate,,REP,Becky Edwards,61
+Cache,LOG19:I,U.S. Senate,,REP,Ally Isom,13
+Cache,LOG19:I,U.S. Senate,,REP,Mike Lee,68
+Cache,LOG20:I,U.S. Senate,,REP,Becky Edwards,75
+Cache,LOG20:I,U.S. Senate,,REP,Ally Isom,38
+Cache,LOG20:I,U.S. Senate,,REP,Mike Lee,163
+Cache,LOG21:CSD,U.S. Senate,,REP,Becky Edwards,1
+Cache,LOG21:CSD,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG21:CSD,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG21:IA,U.S. Senate,,REP,Becky Edwards,84
+Cache,LOG21:IA,U.S. Senate,,REP,Ally Isom,36
+Cache,LOG21:IA,U.S. Senate,,REP,Mike Lee,170
+Cache,LOG21:IB,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG21:IB,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG21:IB,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG21:IC,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG21:IC,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG21:IC,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG22:CSD,U.S. Senate,,REP,Becky Edwards,4
+Cache,LOG22:CSD,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG22:CSD,U.S. Senate,,REP,Mike Lee,9
+Cache,LOG22:I,U.S. Senate,,REP,Becky Edwards,28
+Cache,LOG22:I,U.S. Senate,,REP,Ally Isom,12
+Cache,LOG22:I,U.S. Senate,,REP,Mike Lee,56
+Cache,LOG23:I,U.S. Senate,,REP,Becky Edwards,29
+Cache,LOG23:I,U.S. Senate,,REP,Ally Isom,18
+Cache,LOG23:I,U.S. Senate,,REP,Mike Lee,87
+Cache,LOG24:17C1,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG24:17C1,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG24:17C1,U.S. Senate,,REP,Mike Lee,1
+Cache,LOG24:17C2,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG24:17C2,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG24:17C2,U.S. Senate,,REP,Mike Lee,2
+Cache,LOG24:CSD1,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG24:CSD1,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG24:CSD1,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG24:CSD2,U.S. Senate,,REP,Becky Edwards,4
+Cache,LOG24:CSD2,U.S. Senate,,REP,Ally Isom,4
+Cache,LOG24:CSD2,U.S. Senate,,REP,Mike Lee,17
+Cache,LOG24:CSD3,U.S. Senate,,REP,Becky Edwards,3
+Cache,LOG24:CSD3,U.S. Senate,,REP,Ally Isom,3
+Cache,LOG24:CSD3,U.S. Senate,,REP,Mike Lee,6
+Cache,LOG24:I,U.S. Senate,,REP,Becky Edwards,33
+Cache,LOG24:I,U.S. Senate,,REP,Ally Isom,20
+Cache,LOG24:I,U.S. Senate,,REP,Mike Lee,63
+Cache,LOG24:U,U.S. Senate,,REP,Becky Edwards,0
+Cache,LOG24:U,U.S. Senate,,REP,Ally Isom,0
+Cache,LOG24:U,U.S. Senate,,REP,Mike Lee,0
+Cache,LOG25:I,U.S. Senate,,REP,Becky Edwards,19
+Cache,LOG25:I,U.S. Senate,,REP,Ally Isom,9
+Cache,LOG25:I,U.S. Senate,,REP,Mike Lee,38
+Cache,MEN01:U,U.S. Senate,,REP,Becky Edwards,6
+Cache,MEN01:U,U.S. Senate,,REP,Ally Isom,4
+Cache,MEN01:U,U.S. Senate,,REP,Mike Lee,24
+Cache,MEN02:I,U.S. Senate,,REP,Becky Edwards,69
+Cache,MEN02:I,U.S. Senate,,REP,Ally Isom,26
+Cache,MEN02:I,U.S. Senate,,REP,Mike Lee,188
+Cache,MEN02:U,U.S. Senate,,REP,Becky Edwards,31
+Cache,MEN02:U,U.S. Senate,,REP,Ally Isom,21
+Cache,MEN02:U,U.S. Senate,,REP,Mike Lee,133
+Cache,MIL01:I,U.S. Senate,,REP,Becky Edwards,71
+Cache,MIL01:I,U.S. Senate,,REP,Ally Isom,44
+Cache,MIL01:I,U.S. Senate,,REP,Mike Lee,259
+Cache,MIL01:U,U.S. Senate,,REP,Becky Edwards,0
+Cache,MIL01:U,U.S. Senate,,REP,Ally Isom,0
+Cache,MIL01:U,U.S. Senate,,REP,Mike Lee,0
+Cache,MIL02:I,U.S. Senate,,REP,Becky Edwards,3
+Cache,MIL02:I,U.S. Senate,,REP,Ally Isom,1
+Cache,MIL02:I,U.S. Senate,,REP,Mike Lee,18
+Cache,MIL02:U1,U.S. Senate,,REP,Becky Edwards,4
+Cache,MIL02:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,MIL02:U1,U.S. Senate,,REP,Mike Lee,20
+Cache,MIL02:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,MIL02:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,MIL02:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,NEW:I,U.S. Senate,,REP,Becky Edwards,35
+Cache,NEW:I,U.S. Senate,,REP,Ally Isom,10
+Cache,NEW:I,U.S. Senate,,REP,Mike Lee,130
+Cache,NEW:U,U.S. Senate,,REP,Becky Edwards,2
+Cache,NEW:U,U.S. Senate,,REP,Ally Isom,3
+Cache,NEW:U,U.S. Senate,,REP,Mike Lee,21
+Cache,NEW:U2,U.S. Senate,,REP,Becky Edwards,1
+Cache,NEW:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,NEW:U2,U.S. Senate,,REP,Mike Lee,3
+Cache,NIB01:IA,U.S. Senate,,REP,Becky Edwards,37
+Cache,NIB01:IA,U.S. Senate,,REP,Ally Isom,10
+Cache,NIB01:IA,U.S. Senate,,REP,Mike Lee,101
+Cache,NIB01:IB,U.S. Senate,,REP,Becky Edwards,0
+Cache,NIB01:IB,U.S. Senate,,REP,Ally Isom,0
+Cache,NIB01:IB,U.S. Senate,,REP,Mike Lee,0
+Cache,NIB01:U1,U.S. Senate,,REP,Becky Edwards,0
+Cache,NIB01:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,NIB01:U1,U.S. Senate,,REP,Mike Lee,2
+Cache,NIB01:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,NIB01:U2,U.S. Senate,,REP,Ally Isom,1
+Cache,NIB01:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,NIB01:U3,U.S. Senate,,REP,Becky Edwards,2
+Cache,NIB01:U3,U.S. Senate,,REP,Ally Isom,1
+Cache,NIB01:U3,U.S. Senate,,REP,Mike Lee,6
+Cache,NIB02:I,U.S. Senate,,REP,Becky Edwards,71
+Cache,NIB02:I,U.S. Senate,,REP,Ally Isom,24
+Cache,NIB02:I,U.S. Senate,,REP,Mike Lee,169
+Cache,NIB03:I,U.S. Senate,,REP,Becky Edwards,38
+Cache,NIB03:I,U.S. Senate,,REP,Ally Isom,25
+Cache,NIB03:I,U.S. Senate,,REP,Mike Lee,120
+Cache,NIB04:I,U.S. Senate,,REP,Becky Edwards,68
+Cache,NIB04:I,U.S. Senate,,REP,Ally Isom,33
+Cache,NIB04:I,U.S. Senate,,REP,Mike Lee,252
+Cache,NIB04:U,U.S. Senate,,REP,Becky Edwards,8
+Cache,NIB04:U,U.S. Senate,,REP,Ally Isom,2
+Cache,NIB04:U,U.S. Senate,,REP,Mike Lee,13
+Cache,NLG01:I,U.S. Senate,,REP,Becky Edwards,64
+Cache,NLG01:I,U.S. Senate,,REP,Ally Isom,16
+Cache,NLG01:I,U.S. Senate,,REP,Mike Lee,122
+Cache,NLG02:I,U.S. Senate,,REP,Becky Edwards,86
+Cache,NLG02:I,U.S. Senate,,REP,Ally Isom,20
+Cache,NLG02:I,U.S. Senate,,REP,Mike Lee,160
+Cache,NLG03:I,U.S. Senate,,REP,Becky Edwards,68
+Cache,NLG03:I,U.S. Senate,,REP,Ally Isom,30
+Cache,NLG03:I,U.S. Senate,,REP,Mike Lee,174
+Cache,NLG03:U,U.S. Senate,,REP,Becky Edwards,0
+Cache,NLG03:U,U.S. Senate,,REP,Ally Isom,1
+Cache,NLG03:U,U.S. Senate,,REP,Mike Lee,4
+Cache,NLG04:I,U.S. Senate,,REP,Becky Edwards,97
+Cache,NLG04:I,U.S. Senate,,REP,Ally Isom,48
+Cache,NLG04:I,U.S. Senate,,REP,Mike Lee,204
+Cache,NLG04:U,U.S. Senate,,REP,Becky Edwards,2
+Cache,NLG04:U,U.S. Senate,,REP,Ally Isom,0
+Cache,NLG04:U,U.S. Senate,,REP,Mike Lee,8
+Cache,NLG05:I,U.S. Senate,,REP,Becky Edwards,117
+Cache,NLG05:I,U.S. Senate,,REP,Ally Isom,44
+Cache,NLG05:I,U.S. Senate,,REP,Mike Lee,224
+Cache,NLG06:I,U.S. Senate,,REP,Becky Edwards,86
+Cache,NLG06:I,U.S. Senate,,REP,Ally Isom,32
+Cache,NLG06:I,U.S. Senate,,REP,Mike Lee,170
+Cache,PAR:I,U.S. Senate,,REP,Becky Edwards,31
+Cache,PAR:I,U.S. Senate,,REP,Ally Isom,13
+Cache,PAR:I,U.S. Senate,,REP,Mike Lee,166
+Cache,PAR:U,U.S. Senate,,REP,Becky Edwards,23
+Cache,PAR:U,U.S. Senate,,REP,Ally Isom,16
+Cache,PAR:U,U.S. Senate,,REP,Mike Lee,139
+Cache,PRO01:IA,U.S. Senate,,REP,Becky Edwards,32
+Cache,PRO01:IA,U.S. Senate,,REP,Ally Isom,17
+Cache,PRO01:IA,U.S. Senate,,REP,Mike Lee,102
+Cache,PRO01:IB,U.S. Senate,,REP,Becky Edwards,0
+Cache,PRO01:IB,U.S. Senate,,REP,Ally Isom,0
+Cache,PRO01:IB,U.S. Senate,,REP,Mike Lee,0
+Cache,PRO01:IC,U.S. Senate,,REP,Becky Edwards,1
+Cache,PRO01:IC,U.S. Senate,,REP,Ally Isom,0
+Cache,PRO01:IC,U.S. Senate,,REP,Mike Lee,0
+Cache,PRO02:IA,U.S. Senate,,REP,Becky Edwards,86
+Cache,PRO02:IA,U.S. Senate,,REP,Ally Isom,31
+Cache,PRO02:IA,U.S. Senate,,REP,Mike Lee,233
+Cache,PRO02:IB,U.S. Senate,,REP,Becky Edwards,0
+Cache,PRO02:IB,U.S. Senate,,REP,Ally Isom,0
+Cache,PRO02:IB,U.S. Senate,,REP,Mike Lee,0
+Cache,PRO03:I,U.S. Senate,,REP,Becky Edwards,89
+Cache,PRO03:I,U.S. Senate,,REP,Ally Isom,35
+Cache,PRO03:I,U.S. Senate,,REP,Mike Lee,188
+Cache,PRO03:U1,U.S. Senate,,REP,Becky Edwards,0
+Cache,PRO03:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,PRO03:U1,U.S. Senate,,REP,Mike Lee,2
+Cache,PRO03:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,PRO03:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,PRO03:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,PRO03:U3,U.S. Senate,,REP,Becky Edwards,0
+Cache,PRO03:U3,U.S. Senate,,REP,Ally Isom,0
+Cache,PRO03:U3,U.S. Senate,,REP,Mike Lee,0
+Cache,PRO04:I,U.S. Senate,,REP,Becky Edwards,70
+Cache,PRO04:I,U.S. Senate,,REP,Ally Isom,29
+Cache,PRO04:I,U.S. Senate,,REP,Mike Lee,144
+Cache,PRO04:U,U.S. Senate,,REP,Becky Edwards,0
+Cache,PRO04:U,U.S. Senate,,REP,Ally Isom,0
+Cache,PRO04:U,U.S. Senate,,REP,Mike Lee,0
+Cache,PRO05:I,U.S. Senate,,REP,Becky Edwards,58
+Cache,PRO05:I,U.S. Senate,,REP,Ally Isom,15
+Cache,PRO05:I,U.S. Senate,,REP,Mike Lee,145
+Cache,PRO06:I,U.S. Senate,,REP,Becky Edwards,63
+Cache,PRO06:I,U.S. Senate,,REP,Ally Isom,13
+Cache,PRO06:I,U.S. Senate,,REP,Mike Lee,158
+Cache,RCH01:I,U.S. Senate,,REP,Becky Edwards,36
+Cache,RCH01:I,U.S. Senate,,REP,Ally Isom,29
+Cache,RCH01:I,U.S. Senate,,REP,Mike Lee,148
+Cache,RCH01:U1,U.S. Senate,,REP,Becky Edwards,0
+Cache,RCH01:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,RCH01:U1,U.S. Senate,,REP,Mike Lee,2
+Cache,RCH01:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,RCH01:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,RCH01:U2,U.S. Senate,,REP,Mike Lee,1
+Cache,RCH01:U3,U.S. Senate,,REP,Becky Edwards,5
+Cache,RCH01:U3,U.S. Senate,,REP,Ally Isom,2
+Cache,RCH01:U3,U.S. Senate,,REP,Mike Lee,14
+Cache,RCH02:I,U.S. Senate,,REP,Becky Edwards,36
+Cache,RCH02:I,U.S. Senate,,REP,Ally Isom,28
+Cache,RCH02:I,U.S. Senate,,REP,Mike Lee,195
+Cache,RCH02:U1,U.S. Senate,,REP,Becky Edwards,2
+Cache,RCH02:U1,U.S. Senate,,REP,Ally Isom,3
+Cache,RCH02:U1,U.S. Senate,,REP,Mike Lee,4
+Cache,RCH02:U2,U.S. Senate,,REP,Becky Edwards,5
+Cache,RCH02:U2,U.S. Senate,,REP,Ally Isom,3
+Cache,RCH02:U2,U.S. Senate,,REP,Mike Lee,16
+Cache,RCH03:I,U.S. Senate,,REP,Becky Edwards,0
+Cache,RCH03:I,U.S. Senate,,REP,Ally Isom,0
+Cache,RCH03:I,U.S. Senate,,REP,Mike Lee,0
+Cache,RVH01:I,U.S. Senate,,REP,Becky Edwards,107
+Cache,RVH01:I,U.S. Senate,,REP,Ally Isom,24
+Cache,RVH01:I,U.S. Senate,,REP,Mike Lee,136
+Cache,RVH01:U,U.S. Senate,,REP,Becky Edwards,0
+Cache,RVH01:U,U.S. Senate,,REP,Ally Isom,0
+Cache,RVH01:U,U.S. Senate,,REP,Mike Lee,2
+Cache,RVH02:I,U.S. Senate,,REP,Becky Edwards,22
+Cache,RVH02:I,U.S. Senate,,REP,Ally Isom,9
+Cache,RVH02:I,U.S. Senate,,REP,Mike Lee,58
+Cache,RVH02:U1,U.S. Senate,,REP,Becky Edwards,1
+Cache,RVH02:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,RVH02:U1,U.S. Senate,,REP,Mike Lee,0
+Cache,RVH02:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,RVH02:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,RVH02:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,RVH02:U3,U.S. Senate,,REP,Becky Edwards,0
+Cache,RVH02:U3,U.S. Senate,,REP,Ally Isom,1
+Cache,RVH02:U3,U.S. Senate,,REP,Mike Lee,2
+Cache,SMI01:I,U.S. Senate,,REP,Becky Edwards,59
+Cache,SMI01:I,U.S. Senate,,REP,Ally Isom,30
+Cache,SMI01:I,U.S. Senate,,REP,Mike Lee,169
+Cache,SMI01:U1,U.S. Senate,,REP,Becky Edwards,2
+Cache,SMI01:U1,U.S. Senate,,REP,Ally Isom,0
+Cache,SMI01:U1,U.S. Senate,,REP,Mike Lee,18
+Cache,SMI01:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,SMI01:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,SMI01:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,SMI02:I,U.S. Senate,,REP,Becky Edwards,107
+Cache,SMI02:I,U.S. Senate,,REP,Ally Isom,27
+Cache,SMI02:I,U.S. Senate,,REP,Mike Lee,271
+Cache,SMI02:U,U.S. Senate,,REP,Becky Edwards,0
+Cache,SMI02:U,U.S. Senate,,REP,Ally Isom,0
+Cache,SMI02:U,U.S. Senate,,REP,Mike Lee,8
+Cache,SMI03:I,U.S. Senate,,REP,Becky Edwards,71
+Cache,SMI03:I,U.S. Senate,,REP,Ally Isom,18
+Cache,SMI03:I,U.S. Senate,,REP,Mike Lee,151
+Cache,SMI03:U,U.S. Senate,,REP,Becky Edwards,0
+Cache,SMI03:U,U.S. Senate,,REP,Ally Isom,0
+Cache,SMI03:U,U.S. Senate,,REP,Mike Lee,2
+Cache,SMI04:I,U.S. Senate,,REP,Becky Edwards,59
+Cache,SMI04:I,U.S. Senate,,REP,Ally Isom,17
+Cache,SMI04:I,U.S. Senate,,REP,Mike Lee,141
+Cache,SMI04:U,U.S. Senate,,REP,Becky Edwards,4
+Cache,SMI04:U,U.S. Senate,,REP,Ally Isom,0
+Cache,SMI04:U,U.S. Senate,,REP,Mike Lee,1
+Cache,SMI05:I,U.S. Senate,,REP,Becky Edwards,52
+Cache,SMI05:I,U.S. Senate,,REP,Ally Isom,19
+Cache,SMI05:I,U.S. Senate,,REP,Mike Lee,132
+Cache,SMI05:U,U.S. Senate,,REP,Becky Edwards,3
+Cache,SMI05:U,U.S. Senate,,REP,Ally Isom,1
+Cache,SMI05:U,U.S. Senate,,REP,Mike Lee,3
+Cache,SMI06:I,U.S. Senate,,REP,Becky Edwards,60
+Cache,SMI06:I,U.S. Senate,,REP,Ally Isom,27
+Cache,SMI06:I,U.S. Senate,,REP,Mike Lee,115
+Cache,SMI06:U,U.S. Senate,,REP,Becky Edwards,4
+Cache,SMI06:U,U.S. Senate,,REP,Ally Isom,1
+Cache,SMI06:U,U.S. Senate,,REP,Mike Lee,20
+Cache,SMI07:I,U.S. Senate,,REP,Becky Edwards,50
+Cache,SMI07:I,U.S. Senate,,REP,Ally Isom,27
+Cache,SMI07:I,U.S. Senate,,REP,Mike Lee,202
+Cache,SMI07:U,U.S. Senate,,REP,Becky Edwards,10
+Cache,SMI07:U,U.S. Senate,,REP,Ally Isom,5
+Cache,SMI07:U,U.S. Senate,,REP,Mike Lee,49
+Cache,SMI08:I,U.S. Senate,,REP,Becky Edwards,34
+Cache,SMI08:I,U.S. Senate,,REP,Ally Isom,16
+Cache,SMI08:I,U.S. Senate,,REP,Mike Lee,103
+Cache,TRE:I,U.S. Senate,,REP,Becky Edwards,16
+Cache,TRE:I,U.S. Senate,,REP,Ally Isom,10
+Cache,TRE:I,U.S. Senate,,REP,Mike Lee,65
+Cache,WEL01:I,U.S. Senate,,REP,Becky Edwards,32
+Cache,WEL01:I,U.S. Senate,,REP,Ally Isom,29
+Cache,WEL01:I,U.S. Senate,,REP,Mike Lee,181
+Cache,WEL01:U1,U.S. Senate,,REP,Becky Edwards,13
+Cache,WEL01:U1,U.S. Senate,,REP,Ally Isom,6
+Cache,WEL01:U1,U.S. Senate,,REP,Mike Lee,55
+Cache,WEL01:U2,U.S. Senate,,REP,Becky Edwards,0
+Cache,WEL01:U2,U.S. Senate,,REP,Ally Isom,0
+Cache,WEL01:U2,U.S. Senate,,REP,Mike Lee,0
+Cache,WEL01:U3,U.S. Senate,,REP,Becky Edwards,0
+Cache,WEL01:U3,U.S. Senate,,REP,Ally Isom,0
+Cache,WEL01:U3,U.S. Senate,,REP,Mike Lee,2
+Cache,WEL02:I,U.S. Senate,,REP,Becky Edwards,59
+Cache,WEL02:I,U.S. Senate,,REP,Ally Isom,29
+Cache,WEL02:I,U.S. Senate,,REP,Mike Lee,137
+Cache,WEL02:U,U.S. Senate,,REP,Becky Edwards,4
+Cache,WEL02:U,U.S. Senate,,REP,Ally Isom,0
+Cache,WEL02:U,U.S. Senate,,REP,Mike Lee,14
+Cache,WEL03:I,U.S. Senate,,REP,Becky Edwards,34
+Cache,WEL03:I,U.S. Senate,,REP,Ally Isom,11
+Cache,WEL03:I,U.S. Senate,,REP,Mike Lee,150
+Cache,WEL03:U,U.S. Senate,,REP,Becky Edwards,14
+Cache,WEL03:U,U.S. Senate,,REP,Ally Isom,13
+Cache,WEL03:U,U.S. Senate,,REP,Mike Lee,50
+Cache,UNINHC:1,U.S. Senate,,REP,Becky Edwards,0
+Cache,UNINHC:1,U.S. Senate,,REP,Ally Isom,0
+Cache,UNINHC:1,U.S. Senate,,REP,Mike Lee,0
+Cache,UNINHC:2,U.S. Senate,,REP,Becky Edwards,0
+Cache,UNINHC:2,U.S. Senate,,REP,Ally Isom,0
+Cache,UNINHC:2,U.S. Senate,,REP,Mike Lee,0
+Cache,AMA:I,U.S. House,1,REP,Blake D. Moore,38
+Cache,AMA:I,U.S. House,1,REP,Tina Cannon,11
+Cache,AMA:I,U.S. House,1,REP,Andrew Badger,35
+Cache,AMA:U1,U.S. House,1,REP,Blake D. Moore,0
+Cache,AMA:U1,U.S. House,1,REP,Tina Cannon,0
+Cache,AMA:U1,U.S. House,1,REP,Andrew Badger,0
+Cache,AMA:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,AMA:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,AMA:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,AMA:U3,U.S. House,1,REP,Blake D. Moore,1
+Cache,AMA:U3,U.S. House,1,REP,Tina Cannon,0
+Cache,AMA:U3,U.S. House,1,REP,Andrew Badger,2
+Cache,BEN:U,U.S. House,1,REP,Blake D. Moore,57
+Cache,BEN:U,U.S. House,1,REP,Tina Cannon,3
+Cache,BEN:U,U.S. House,1,REP,Andrew Badger,64
+Cache,CLK:I,U.S. House,1,REP,Blake D. Moore,61
+Cache,CLK:I,U.S. House,1,REP,Tina Cannon,3
+Cache,CLK:I,U.S. House,1,REP,Andrew Badger,40
+Cache,CLK:U1,U.S. House,1,REP,Blake D. Moore,3
+Cache,CLK:U1,U.S. House,1,REP,Tina Cannon,0
+Cache,CLK:U1,U.S. House,1,REP,Andrew Badger,10
+Cache,CLK:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,CLK:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,CLK:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,COR:I,U.S. House,1,REP,Blake D. Moore,22
+Cache,COR:I,U.S. House,1,REP,Tina Cannon,3
+Cache,COR:I,U.S. House,1,REP,Andrew Badger,16
+Cache,COR:U,U.S. House,1,REP,Blake D. Moore,9
+Cache,COR:U,U.S. House,1,REP,Tina Cannon,0
+Cache,COR:U,U.S. House,1,REP,Andrew Badger,1
+Cache,COV:U,U.S. House,1,REP,Blake D. Moore,51
+Cache,COV:U,U.S. House,1,REP,Tina Cannon,11
+Cache,COV:U,U.S. House,1,REP,Andrew Badger,54
+Cache,COV:U2,U.S. House,1,REP,Blake D. Moore,1
+Cache,COV:U2,U.S. House,1,REP,Tina Cannon,6
+Cache,COV:U2,U.S. House,1,REP,Andrew Badger,3
+Cache,CY:U,U.S. House,1,REP,Blake D. Moore,94
+Cache,CY:U,U.S. House,1,REP,Tina Cannon,20
+Cache,CY:U,U.S. House,1,REP,Andrew Badger,62
+Cache,HYD01:I,U.S. House,1,REP,Blake D. Moore,237
+Cache,HYD01:I,U.S. House,1,REP,Tina Cannon,45
+Cache,HYD01:I,U.S. House,1,REP,Andrew Badger,85
+Cache,HYD01:U,U.S. House,1,REP,Blake D. Moore,0
+Cache,HYD01:U,U.S. House,1,REP,Tina Cannon,0
+Cache,HYD01:U,U.S. House,1,REP,Andrew Badger,0
+Cache,HYD02:I,U.S. House,1,REP,Blake D. Moore,197
+Cache,HYD02:I,U.S. House,1,REP,Tina Cannon,39
+Cache,HYD02:I,U.S. House,1,REP,Andrew Badger,105
+Cache,HYD02:U1,U.S. House,1,REP,Blake D. Moore,5
+Cache,HYD02:U1,U.S. House,1,REP,Tina Cannon,2
+Cache,HYD02:U1,U.S. House,1,REP,Andrew Badger,12
+Cache,HYD02:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,HYD02:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,HYD02:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,HYD03:I,U.S. House,1,REP,Blake D. Moore,193
+Cache,HYD03:I,U.S. House,1,REP,Tina Cannon,35
+Cache,HYD03:I,U.S. House,1,REP,Andrew Badger,110
+Cache,HYD03:U,U.S. House,1,REP,Blake D. Moore,0
+Cache,HYD03:U,U.S. House,1,REP,Tina Cannon,0
+Cache,HYD03:U,U.S. House,1,REP,Andrew Badger,0
+Cache,HYR01:I,U.S. House,1,REP,Blake D. Moore,97
+Cache,HYR01:I,U.S. House,1,REP,Tina Cannon,17
+Cache,HYR01:I,U.S. House,1,REP,Andrew Badger,81
+Cache,HYR01:U,U.S. House,1,REP,Blake D. Moore,21
+Cache,HYR01:U,U.S. House,1,REP,Tina Cannon,6
+Cache,HYR01:U,U.S. House,1,REP,Andrew Badger,12
+Cache,HYR02:I,U.S. House,1,REP,Blake D. Moore,106
+Cache,HYR02:I,U.S. House,1,REP,Tina Cannon,18
+Cache,HYR02:I,U.S. House,1,REP,Andrew Badger,71
+Cache,HYR02:U1,U.S. House,1,REP,Blake D. Moore,2
+Cache,HYR02:U1,U.S. House,1,REP,Tina Cannon,0
+Cache,HYR02:U1,U.S. House,1,REP,Andrew Badger,3
+Cache,HYR02:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,HYR02:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,HYR02:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,HYR03:I,U.S. House,1,REP,Blake D. Moore,97
+Cache,HYR03:I,U.S. House,1,REP,Tina Cannon,16
+Cache,HYR03:I,U.S. House,1,REP,Andrew Badger,105
+Cache,HYR03:U,U.S. House,1,REP,Blake D. Moore,3
+Cache,HYR03:U,U.S. House,1,REP,Tina Cannon,0
+Cache,HYR03:U,U.S. House,1,REP,Andrew Badger,0
+Cache,HYR04:I,U.S. House,1,REP,Blake D. Moore,161
+Cache,HYR04:I,U.S. House,1,REP,Tina Cannon,32
+Cache,HYR04:I,U.S. House,1,REP,Andrew Badger,132
+Cache,HYR04:U1,U.S. House,1,REP,Blake D. Moore,0
+Cache,HYR04:U1,U.S. House,1,REP,Tina Cannon,0
+Cache,HYR04:U1,U.S. House,1,REP,Andrew Badger,0
+Cache,HYR04:U2,U.S. House,1,REP,Blake D. Moore,8
+Cache,HYR04:U2,U.S. House,1,REP,Tina Cannon,2
+Cache,HYR04:U2,U.S. House,1,REP,Andrew Badger,11
+Cache,HYR04:U3,U.S. House,1,REP,Blake D. Moore,0
+Cache,HYR04:U3,U.S. House,1,REP,Tina Cannon,0
+Cache,HYR04:U3,U.S. House,1,REP,Andrew Badger,0
+Cache,HYR05:I,U.S. House,1,REP,Blake D. Moore,142
+Cache,HYR05:I,U.S. House,1,REP,Tina Cannon,21
+Cache,HYR05:I,U.S. House,1,REP,Andrew Badger,115
+Cache,HYR05:U1,U.S. House,1,REP,Blake D. Moore,2
+Cache,HYR05:U1,U.S. House,1,REP,Tina Cannon,0
+Cache,HYR05:U1,U.S. House,1,REP,Andrew Badger,9
+Cache,HYR05:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,HYR05:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,HYR05:U2,U.S. House,1,REP,Andrew Badger,1
+Cache,LEW00:I,U.S. House,1,REP,Blake D. Moore,0
+Cache,LEW00:I,U.S. House,1,REP,Tina Cannon,0
+Cache,LEW00:I,U.S. House,1,REP,Andrew Badger,0
+Cache,LEW01:I,U.S. House,1,REP,Blake D. Moore,180
+Cache,LEW01:I,U.S. House,1,REP,Tina Cannon,19
+Cache,LEW01:I,U.S. House,1,REP,Andrew Badger,137
+Cache,LEW01:U1,U.S. House,1,REP,Blake D. Moore,0
+Cache,LEW01:U1,U.S. House,1,REP,Tina Cannon,0
+Cache,LEW01:U1,U.S. House,1,REP,Andrew Badger,0
+Cache,LEW01:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,LEW01:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,LEW01:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,LEW01:U3,U.S. House,1,REP,Blake D. Moore,0
+Cache,LEW01:U3,U.S. House,1,REP,Tina Cannon,0
+Cache,LEW01:U3,U.S. House,1,REP,Andrew Badger,0
+Cache,LEW01:U4,U.S. House,1,REP,Blake D. Moore,0
+Cache,LEW01:U4,U.S. House,1,REP,Tina Cannon,0
+Cache,LEW01:U4,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG01:I,U.S. House,1,REP,Blake D. Moore,113
+Cache,LOG01:I,U.S. House,1,REP,Tina Cannon,39
+Cache,LOG01:I,U.S. House,1,REP,Andrew Badger,47
+Cache,LOG02:I,U.S. House,1,REP,Blake D. Moore,58
+Cache,LOG02:I,U.S. House,1,REP,Tina Cannon,17
+Cache,LOG02:I,U.S. House,1,REP,Andrew Badger,44
+Cache,LOG03:I,U.S. House,1,REP,Blake D. Moore,58
+Cache,LOG03:I,U.S. House,1,REP,Tina Cannon,23
+Cache,LOG03:I,U.S. House,1,REP,Andrew Badger,33
+Cache,LOG04:I,U.S. House,1,REP,Blake D. Moore,129
+Cache,LOG04:I,U.S. House,1,REP,Tina Cannon,27
+Cache,LOG04:I,U.S. House,1,REP,Andrew Badger,64
+Cache,LOG05:I,U.S. House,1,REP,Blake D. Moore,36
+Cache,LOG05:I,U.S. House,1,REP,Tina Cannon,13
+Cache,LOG05:I,U.S. House,1,REP,Andrew Badger,15
+Cache,LOG06:I,U.S. House,1,REP,Blake D. Moore,51
+Cache,LOG06:I,U.S. House,1,REP,Tina Cannon,11
+Cache,LOG06:I,U.S. House,1,REP,Andrew Badger,15
+Cache,LOG07:I,U.S. House,1,REP,Blake D. Moore,149
+Cache,LOG07:I,U.S. House,1,REP,Tina Cannon,17
+Cache,LOG07:I,U.S. House,1,REP,Andrew Badger,33
+Cache,LOG08:I,U.S. House,1,REP,Blake D. Moore,119
+Cache,LOG08:I,U.S. House,1,REP,Tina Cannon,30
+Cache,LOG08:I,U.S. House,1,REP,Andrew Badger,64
+Cache,LOG09:I,U.S. House,1,REP,Blake D. Moore,104
+Cache,LOG09:I,U.S. House,1,REP,Tina Cannon,36
+Cache,LOG09:I,U.S. House,1,REP,Andrew Badger,53
+Cache,LOG10:I,U.S. House,1,REP,Blake D. Moore,65
+Cache,LOG10:I,U.S. House,1,REP,Tina Cannon,15
+Cache,LOG10:I,U.S. House,1,REP,Andrew Badger,17
+Cache,LOG11:I,U.S. House,1,REP,Blake D. Moore,127
+Cache,LOG11:I,U.S. House,1,REP,Tina Cannon,15
+Cache,LOG11:I,U.S. House,1,REP,Andrew Badger,38
+Cache,LOG12:I,U.S. House,1,REP,Blake D. Moore,106
+Cache,LOG12:I,U.S. House,1,REP,Tina Cannon,30
+Cache,LOG12:I,U.S. House,1,REP,Andrew Badger,51
+Cache,LOG13:I,U.S. House,1,REP,Blake D. Moore,54
+Cache,LOG13:I,U.S. House,1,REP,Tina Cannon,8
+Cache,LOG13:I,U.S. House,1,REP,Andrew Badger,13
+Cache,LOG13:U,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG13:U,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG13:U,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG14:I,U.S. House,1,REP,Blake D. Moore,62
+Cache,LOG14:I,U.S. House,1,REP,Tina Cannon,18
+Cache,LOG14:I,U.S. House,1,REP,Andrew Badger,27
+Cache,LOG14:U1,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG14:U1,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG14:U1,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG14:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG14:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG14:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG14:U3,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG14:U3,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG14:U3,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG15:I,U.S. House,1,REP,Blake D. Moore,47
+Cache,LOG15:I,U.S. House,1,REP,Tina Cannon,9
+Cache,LOG15:I,U.S. House,1,REP,Andrew Badger,21
+Cache,LOG16:I,U.S. House,1,REP,Blake D. Moore,107
+Cache,LOG16:I,U.S. House,1,REP,Tina Cannon,15
+Cache,LOG16:I,U.S. House,1,REP,Andrew Badger,37
+Cache,LOG17:I,U.S. House,1,REP,Blake D. Moore,86
+Cache,LOG17:I,U.S. House,1,REP,Tina Cannon,16
+Cache,LOG17:I,U.S. House,1,REP,Andrew Badger,28
+Cache,LOG18:CSD,U.S. House,1,REP,Blake D. Moore,5
+Cache,LOG18:CSD,U.S. House,1,REP,Tina Cannon,2
+Cache,LOG18:CSD,U.S. House,1,REP,Andrew Badger,10
+Cache,LOG18:IA,U.S. House,1,REP,Blake D. Moore,112
+Cache,LOG18:IA,U.S. House,1,REP,Tina Cannon,27
+Cache,LOG18:IA,U.S. House,1,REP,Andrew Badger,66
+Cache,LOG18:IB,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG18:IB,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG18:IB,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG19:I,U.S. House,1,REP,Blake D. Moore,88
+Cache,LOG19:I,U.S. House,1,REP,Tina Cannon,22
+Cache,LOG19:I,U.S. House,1,REP,Andrew Badger,29
+Cache,LOG20:I,U.S. House,1,REP,Blake D. Moore,183
+Cache,LOG20:I,U.S. House,1,REP,Tina Cannon,40
+Cache,LOG20:I,U.S. House,1,REP,Andrew Badger,49
+Cache,LOG21:CSD,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG21:CSD,U.S. House,1,REP,Tina Cannon,1
+Cache,LOG21:CSD,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG21:IA,U.S. House,1,REP,Blake D. Moore,175
+Cache,LOG21:IA,U.S. House,1,REP,Tina Cannon,48
+Cache,LOG21:IA,U.S. House,1,REP,Andrew Badger,66
+Cache,LOG21:IB,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG21:IB,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG21:IB,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG21:IC,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG21:IC,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG21:IC,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG22:CSD,U.S. House,1,REP,Blake D. Moore,11
+Cache,LOG22:CSD,U.S. House,1,REP,Tina Cannon,1
+Cache,LOG22:CSD,U.S. House,1,REP,Andrew Badger,1
+Cache,LOG22:I,U.S. House,1,REP,Blake D. Moore,44
+Cache,LOG22:I,U.S. House,1,REP,Tina Cannon,19
+Cache,LOG22:I,U.S. House,1,REP,Andrew Badger,33
+Cache,LOG23:I,U.S. House,1,REP,Blake D. Moore,68
+Cache,LOG23:I,U.S. House,1,REP,Tina Cannon,15
+Cache,LOG23:I,U.S. House,1,REP,Andrew Badger,48
+Cache,LOG24:17C1,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG24:17C1,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG24:17C1,U.S. House,1,REP,Andrew Badger,1
+Cache,LOG24:17C2,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG24:17C2,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG24:17C2,U.S. House,1,REP,Andrew Badger,2
+Cache,LOG24:CSD1,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG24:CSD1,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG24:CSD1,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG24:CSD2,U.S. House,1,REP,Blake D. Moore,12
+Cache,LOG24:CSD2,U.S. House,1,REP,Tina Cannon,2
+Cache,LOG24:CSD2,U.S. House,1,REP,Andrew Badger,11
+Cache,LOG24:CSD3,U.S. House,1,REP,Blake D. Moore,8
+Cache,LOG24:CSD3,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG24:CSD3,U.S. House,1,REP,Andrew Badger,4
+Cache,LOG24:I,U.S. House,1,REP,Blake D. Moore,56
+Cache,LOG24:I,U.S. House,1,REP,Tina Cannon,26
+Cache,LOG24:I,U.S. House,1,REP,Andrew Badger,32
+Cache,LOG24:U,U.S. House,1,REP,Blake D. Moore,0
+Cache,LOG24:U,U.S. House,1,REP,Tina Cannon,0
+Cache,LOG24:U,U.S. House,1,REP,Andrew Badger,0
+Cache,LOG25:I,U.S. House,1,REP,Blake D. Moore,37
+Cache,LOG25:I,U.S. House,1,REP,Tina Cannon,13
+Cache,LOG25:I,U.S. House,1,REP,Andrew Badger,16
+Cache,MEN01:U,U.S. House,1,REP,Blake D. Moore,14
+Cache,MEN01:U,U.S. House,1,REP,Tina Cannon,3
+Cache,MEN01:U,U.S. House,1,REP,Andrew Badger,17
+Cache,MEN02:I,U.S. House,1,REP,Blake D. Moore,168
+Cache,MEN02:I,U.S. House,1,REP,Tina Cannon,36
+Cache,MEN02:I,U.S. House,1,REP,Andrew Badger,76
+Cache,MEN02:U,U.S. House,1,REP,Blake D. Moore,84
+Cache,MEN02:U,U.S. House,1,REP,Tina Cannon,13
+Cache,MEN02:U,U.S. House,1,REP,Andrew Badger,87
+Cache,MIL01:I,U.S. House,1,REP,Blake D. Moore,213
+Cache,MIL01:I,U.S. House,1,REP,Tina Cannon,33
+Cache,MIL01:I,U.S. House,1,REP,Andrew Badger,126
+Cache,MIL01:U,U.S. House,1,REP,Blake D. Moore,0
+Cache,MIL01:U,U.S. House,1,REP,Tina Cannon,0
+Cache,MIL01:U,U.S. House,1,REP,Andrew Badger,0
+Cache,MIL02:I,U.S. House,1,REP,Blake D. Moore,13
+Cache,MIL02:I,U.S. House,1,REP,Tina Cannon,2
+Cache,MIL02:I,U.S. House,1,REP,Andrew Badger,7
+Cache,MIL02:U1,U.S. House,1,REP,Blake D. Moore,11
+Cache,MIL02:U1,U.S. House,1,REP,Tina Cannon,4
+Cache,MIL02:U1,U.S. House,1,REP,Andrew Badger,10
+Cache,MIL02:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,MIL02:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,MIL02:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,NEW:I,U.S. House,1,REP,Blake D. Moore,74
+Cache,NEW:I,U.S. House,1,REP,Tina Cannon,27
+Cache,NEW:I,U.S. House,1,REP,Andrew Badger,74
+Cache,NEW:U,U.S. House,1,REP,Blake D. Moore,9
+Cache,NEW:U,U.S. House,1,REP,Tina Cannon,3
+Cache,NEW:U,U.S. House,1,REP,Andrew Badger,14
+Cache,NEW:U2,U.S. House,1,REP,Blake D. Moore,2
+Cache,NEW:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,NEW:U2,U.S. House,1,REP,Andrew Badger,2
+Cache,NIB01:IA,U.S. House,1,REP,Blake D. Moore,68
+Cache,NIB01:IA,U.S. House,1,REP,Tina Cannon,15
+Cache,NIB01:IA,U.S. House,1,REP,Andrew Badger,63
+Cache,NIB01:IB,U.S. House,1,REP,Blake D. Moore,0
+Cache,NIB01:IB,U.S. House,1,REP,Tina Cannon,0
+Cache,NIB01:IB,U.S. House,1,REP,Andrew Badger,0
+Cache,NIB01:U1,U.S. House,1,REP,Blake D. Moore,0
+Cache,NIB01:U1,U.S. House,1,REP,Tina Cannon,0
+Cache,NIB01:U1,U.S. House,1,REP,Andrew Badger,2
+Cache,NIB01:U2,U.S. House,1,REP,Blake D. Moore,1
+Cache,NIB01:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,NIB01:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,NIB01:U3,U.S. House,1,REP,Blake D. Moore,4
+Cache,NIB01:U3,U.S. House,1,REP,Tina Cannon,2
+Cache,NIB01:U3,U.S. House,1,REP,Andrew Badger,3
+Cache,NIB02:I,U.S. House,1,REP,Blake D. Moore,131
+Cache,NIB02:I,U.S. House,1,REP,Tina Cannon,29
+Cache,NIB02:I,U.S. House,1,REP,Andrew Badger,99
+Cache,NIB03:I,U.S. House,1,REP,Blake D. Moore,89
+Cache,NIB03:I,U.S. House,1,REP,Tina Cannon,16
+Cache,NIB03:I,U.S. House,1,REP,Andrew Badger,79
+Cache,NIB04:I,U.S. House,1,REP,Blake D. Moore,202
+Cache,NIB04:I,U.S. House,1,REP,Tina Cannon,44
+Cache,NIB04:I,U.S. House,1,REP,Andrew Badger,102
+Cache,NIB04:U,U.S. House,1,REP,Blake D. Moore,18
+Cache,NIB04:U,U.S. House,1,REP,Tina Cannon,2
+Cache,NIB04:U,U.S. House,1,REP,Andrew Badger,3
+Cache,NLG01:I,U.S. House,1,REP,Blake D. Moore,120
+Cache,NLG01:I,U.S. House,1,REP,Tina Cannon,35
+Cache,NLG01:I,U.S. House,1,REP,Andrew Badger,45
+Cache,NLG02:I,U.S. House,1,REP,Blake D. Moore,163
+Cache,NLG02:I,U.S. House,1,REP,Tina Cannon,46
+Cache,NLG02:I,U.S. House,1,REP,Andrew Badger,53
+Cache,NLG03:I,U.S. House,1,REP,Blake D. Moore,166
+Cache,NLG03:I,U.S. House,1,REP,Tina Cannon,26
+Cache,NLG03:I,U.S. House,1,REP,Andrew Badger,78
+Cache,NLG03:U,U.S. House,1,REP,Blake D. Moore,3
+Cache,NLG03:U,U.S. House,1,REP,Tina Cannon,2
+Cache,NLG03:U,U.S. House,1,REP,Andrew Badger,0
+Cache,NLG04:I,U.S. House,1,REP,Blake D. Moore,202
+Cache,NLG04:I,U.S. House,1,REP,Tina Cannon,50
+Cache,NLG04:I,U.S. House,1,REP,Andrew Badger,92
+Cache,NLG04:U,U.S. House,1,REP,Blake D. Moore,7
+Cache,NLG04:U,U.S. House,1,REP,Tina Cannon,0
+Cache,NLG04:U,U.S. House,1,REP,Andrew Badger,3
+Cache,NLG05:I,U.S. House,1,REP,Blake D. Moore,235
+Cache,NLG05:I,U.S. House,1,REP,Tina Cannon,58
+Cache,NLG05:I,U.S. House,1,REP,Andrew Badger,85
+Cache,NLG06:I,U.S. House,1,REP,Blake D. Moore,135
+Cache,NLG06:I,U.S. House,1,REP,Tina Cannon,57
+Cache,NLG06:I,U.S. House,1,REP,Andrew Badger,92
+Cache,PAR:I,U.S. House,1,REP,Blake D. Moore,104
+Cache,PAR:I,U.S. House,1,REP,Tina Cannon,20
+Cache,PAR:I,U.S. House,1,REP,Andrew Badger,86
+Cache,PAR:U,U.S. House,1,REP,Blake D. Moore,74
+Cache,PAR:U,U.S. House,1,REP,Tina Cannon,22
+Cache,PAR:U,U.S. House,1,REP,Andrew Badger,83
+Cache,PRO01:IA,U.S. House,1,REP,Blake D. Moore,75
+Cache,PRO01:IA,U.S. House,1,REP,Tina Cannon,20
+Cache,PRO01:IA,U.S. House,1,REP,Andrew Badger,56
+Cache,PRO01:IB,U.S. House,1,REP,Blake D. Moore,0
+Cache,PRO01:IB,U.S. House,1,REP,Tina Cannon,0
+Cache,PRO01:IB,U.S. House,1,REP,Andrew Badger,0
+Cache,PRO01:IC,U.S. House,1,REP,Blake D. Moore,1
+Cache,PRO01:IC,U.S. House,1,REP,Tina Cannon,0
+Cache,PRO01:IC,U.S. House,1,REP,Andrew Badger,0
+Cache,PRO02:IA,U.S. House,1,REP,Blake D. Moore,194
+Cache,PRO02:IA,U.S. House,1,REP,Tina Cannon,42
+Cache,PRO02:IA,U.S. House,1,REP,Andrew Badger,109
+Cache,PRO02:IB,U.S. House,1,REP,Blake D. Moore,0
+Cache,PRO02:IB,U.S. House,1,REP,Tina Cannon,0
+Cache,PRO02:IB,U.S. House,1,REP,Andrew Badger,0
+Cache,PRO03:I,U.S. House,1,REP,Blake D. Moore,194
+Cache,PRO03:I,U.S. House,1,REP,Tina Cannon,29
+Cache,PRO03:I,U.S. House,1,REP,Andrew Badger,83
+Cache,PRO03:U1,U.S. House,1,REP,Blake D. Moore,0
+Cache,PRO03:U1,U.S. House,1,REP,Tina Cannon,0
+Cache,PRO03:U1,U.S. House,1,REP,Andrew Badger,2
+Cache,PRO03:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,PRO03:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,PRO03:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,PRO03:U3,U.S. House,1,REP,Blake D. Moore,0
+Cache,PRO03:U3,U.S. House,1,REP,Tina Cannon,0
+Cache,PRO03:U3,U.S. House,1,REP,Andrew Badger,0
+Cache,PRO04:I,U.S. House,1,REP,Blake D. Moore,151
+Cache,PRO04:I,U.S. House,1,REP,Tina Cannon,27
+Cache,PRO04:I,U.S. House,1,REP,Andrew Badger,60
+Cache,PRO04:U,U.S. House,1,REP,Blake D. Moore,0
+Cache,PRO04:U,U.S. House,1,REP,Tina Cannon,0
+Cache,PRO04:U,U.S. House,1,REP,Andrew Badger,0
+Cache,PRO05:I,U.S. House,1,REP,Blake D. Moore,114
+Cache,PRO05:I,U.S. House,1,REP,Tina Cannon,29
+Cache,PRO05:I,U.S. House,1,REP,Andrew Badger,74
+Cache,PRO06:I,U.S. House,1,REP,Blake D. Moore,126
+Cache,PRO06:I,U.S. House,1,REP,Tina Cannon,25
+Cache,PRO06:I,U.S. House,1,REP,Andrew Badger,76
+Cache,RCH01:I,U.S. House,1,REP,Blake D. Moore,115
+Cache,RCH01:I,U.S. House,1,REP,Tina Cannon,25
+Cache,RCH01:I,U.S. House,1,REP,Andrew Badger,69
+Cache,RCH01:U1,U.S. House,1,REP,Blake D. Moore,0
+Cache,RCH01:U1,U.S. House,1,REP,Tina Cannon,0
+Cache,RCH01:U1,U.S. House,1,REP,Andrew Badger,2
+Cache,RCH01:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,RCH01:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,RCH01:U2,U.S. House,1,REP,Andrew Badger,1
+Cache,RCH01:U3,U.S. House,1,REP,Blake D. Moore,11
+Cache,RCH01:U3,U.S. House,1,REP,Tina Cannon,2
+Cache,RCH01:U3,U.S. House,1,REP,Andrew Badger,8
+Cache,RCH02:I,U.S. House,1,REP,Blake D. Moore,128
+Cache,RCH02:I,U.S. House,1,REP,Tina Cannon,23
+Cache,RCH02:I,U.S. House,1,REP,Andrew Badger,108
+Cache,RCH02:U1,U.S. House,1,REP,Blake D. Moore,3
+Cache,RCH02:U1,U.S. House,1,REP,Tina Cannon,4
+Cache,RCH02:U1,U.S. House,1,REP,Andrew Badger,2
+Cache,RCH02:U2,U.S. House,1,REP,Blake D. Moore,13
+Cache,RCH02:U2,U.S. House,1,REP,Tina Cannon,2
+Cache,RCH02:U2,U.S. House,1,REP,Andrew Badger,9
+Cache,RCH03:I,U.S. House,1,REP,Blake D. Moore,0
+Cache,RCH03:I,U.S. House,1,REP,Tina Cannon,0
+Cache,RCH03:I,U.S. House,1,REP,Andrew Badger,0
+Cache,RVH01:I,U.S. House,1,REP,Blake D. Moore,180
+Cache,RVH01:I,U.S. House,1,REP,Tina Cannon,29
+Cache,RVH01:I,U.S. House,1,REP,Andrew Badger,55
+Cache,RVH01:U,U.S. House,1,REP,Blake D. Moore,2
+Cache,RVH01:U,U.S. House,1,REP,Tina Cannon,0
+Cache,RVH01:U,U.S. House,1,REP,Andrew Badger,0
+Cache,RVH02:I,U.S. House,1,REP,Blake D. Moore,49
+Cache,RVH02:I,U.S. House,1,REP,Tina Cannon,9
+Cache,RVH02:I,U.S. House,1,REP,Andrew Badger,29
+Cache,RVH02:U1,U.S. House,1,REP,Blake D. Moore,0
+Cache,RVH02:U1,U.S. House,1,REP,Tina Cannon,1
+Cache,RVH02:U1,U.S. House,1,REP,Andrew Badger,0
+Cache,RVH02:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,RVH02:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,RVH02:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,RVH02:U3,U.S. House,1,REP,Blake D. Moore,0
+Cache,RVH02:U3,U.S. House,1,REP,Tina Cannon,1
+Cache,RVH02:U3,U.S. House,1,REP,Andrew Badger,2
+Cache,SMI01:I,U.S. House,1,REP,Blake D. Moore,143
+Cache,SMI01:I,U.S. House,1,REP,Tina Cannon,22
+Cache,SMI01:I,U.S. House,1,REP,Andrew Badger,89
+Cache,SMI01:U1,U.S. House,1,REP,Blake D. Moore,15
+Cache,SMI01:U1,U.S. House,1,REP,Tina Cannon,1
+Cache,SMI01:U1,U.S. House,1,REP,Andrew Badger,4
+Cache,SMI01:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,SMI01:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,SMI01:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,SMI02:I,U.S. House,1,REP,Blake D. Moore,232
+Cache,SMI02:I,U.S. House,1,REP,Tina Cannon,49
+Cache,SMI02:I,U.S. House,1,REP,Andrew Badger,121
+Cache,SMI02:U,U.S. House,1,REP,Blake D. Moore,4
+Cache,SMI02:U,U.S. House,1,REP,Tina Cannon,0
+Cache,SMI02:U,U.S. House,1,REP,Andrew Badger,4
+Cache,SMI03:I,U.S. House,1,REP,Blake D. Moore,128
+Cache,SMI03:I,U.S. House,1,REP,Tina Cannon,31
+Cache,SMI03:I,U.S. House,1,REP,Andrew Badger,79
+Cache,SMI03:U,U.S. House,1,REP,Blake D. Moore,2
+Cache,SMI03:U,U.S. House,1,REP,Tina Cannon,0
+Cache,SMI03:U,U.S. House,1,REP,Andrew Badger,0
+Cache,SMI04:I,U.S. House,1,REP,Blake D. Moore,116
+Cache,SMI04:I,U.S. House,1,REP,Tina Cannon,14
+Cache,SMI04:I,U.S. House,1,REP,Andrew Badger,84
+Cache,SMI04:U,U.S. House,1,REP,Blake D. Moore,2
+Cache,SMI04:U,U.S. House,1,REP,Tina Cannon,2
+Cache,SMI04:U,U.S. House,1,REP,Andrew Badger,1
+Cache,SMI05:I,U.S. House,1,REP,Blake D. Moore,97
+Cache,SMI05:I,U.S. House,1,REP,Tina Cannon,19
+Cache,SMI05:I,U.S. House,1,REP,Andrew Badger,84
+Cache,SMI05:U,U.S. House,1,REP,Blake D. Moore,3
+Cache,SMI05:U,U.S. House,1,REP,Tina Cannon,2
+Cache,SMI05:U,U.S. House,1,REP,Andrew Badger,2
+Cache,SMI06:I,U.S. House,1,REP,Blake D. Moore,101
+Cache,SMI06:I,U.S. House,1,REP,Tina Cannon,26
+Cache,SMI06:I,U.S. House,1,REP,Andrew Badger,74
+Cache,SMI06:U,U.S. House,1,REP,Blake D. Moore,12
+Cache,SMI06:U,U.S. House,1,REP,Tina Cannon,3
+Cache,SMI06:U,U.S. House,1,REP,Andrew Badger,10
+Cache,SMI07:I,U.S. House,1,REP,Blake D. Moore,137
+Cache,SMI07:I,U.S. House,1,REP,Tina Cannon,32
+Cache,SMI07:I,U.S. House,1,REP,Andrew Badger,106
+Cache,SMI07:U,U.S. House,1,REP,Blake D. Moore,30
+Cache,SMI07:U,U.S. House,1,REP,Tina Cannon,12
+Cache,SMI07:U,U.S. House,1,REP,Andrew Badger,22
+Cache,SMI08:I,U.S. House,1,REP,Blake D. Moore,88
+Cache,SMI08:I,U.S. House,1,REP,Tina Cannon,8
+Cache,SMI08:I,U.S. House,1,REP,Andrew Badger,54
+Cache,TRE:I,U.S. House,1,REP,Blake D. Moore,41
+Cache,TRE:I,U.S. House,1,REP,Tina Cannon,10
+Cache,TRE:I,U.S. House,1,REP,Andrew Badger,38
+Cache,WEL01:I,U.S. House,1,REP,Blake D. Moore,126
+Cache,WEL01:I,U.S. House,1,REP,Tina Cannon,28
+Cache,WEL01:I,U.S. House,1,REP,Andrew Badger,87
+Cache,WEL01:U1,U.S. House,1,REP,Blake D. Moore,43
+Cache,WEL01:U1,U.S. House,1,REP,Tina Cannon,6
+Cache,WEL01:U1,U.S. House,1,REP,Andrew Badger,25
+Cache,WEL01:U2,U.S. House,1,REP,Blake D. Moore,0
+Cache,WEL01:U2,U.S. House,1,REP,Tina Cannon,0
+Cache,WEL01:U2,U.S. House,1,REP,Andrew Badger,0
+Cache,WEL01:U3,U.S. House,1,REP,Blake D. Moore,1
+Cache,WEL01:U3,U.S. House,1,REP,Tina Cannon,0
+Cache,WEL01:U3,U.S. House,1,REP,Andrew Badger,1
+Cache,WEL02:I,U.S. House,1,REP,Blake D. Moore,129
+Cache,WEL02:I,U.S. House,1,REP,Tina Cannon,29
+Cache,WEL02:I,U.S. House,1,REP,Andrew Badger,65
+Cache,WEL02:U,U.S. House,1,REP,Blake D. Moore,3
+Cache,WEL02:U,U.S. House,1,REP,Tina Cannon,2
+Cache,WEL02:U,U.S. House,1,REP,Andrew Badger,13
+Cache,WEL03:I,U.S. House,1,REP,Blake D. Moore,89
+Cache,WEL03:I,U.S. House,1,REP,Tina Cannon,12
+Cache,WEL03:I,U.S. House,1,REP,Andrew Badger,94
+Cache,WEL03:U,U.S. House,1,REP,Blake D. Moore,47
+Cache,WEL03:U,U.S. House,1,REP,Tina Cannon,9
+Cache,WEL03:U,U.S. House,1,REP,Andrew Badger,19
+Cache,UNINHC:1,U.S. House,1,REP,Blake D. Moore,0
+Cache,UNINHC:1,U.S. House,1,REP,Tina Cannon,0
+Cache,UNINHC:1,U.S. House,1,REP,Andrew Badger,0
+Cache,UNINHC:2,U.S. House,1,REP,Blake D. Moore,0
+Cache,UNINHC:2,U.S. House,1,REP,Tina Cannon,0
+Cache,UNINHC:2,U.S. House,1,REP,Andrew Badger,0
+Cache,AMA:I,State House,2,REP,Mike Petersen,36
+Cache,AMA:I,State House,2,REP,Val K. Potter,48
+Cache,AMA:U1,State House,2,REP,Mike Petersen,0
+Cache,AMA:U1,State House,2,REP,Val K. Potter,0
+Cache,AMA:U2,State House,2,REP,Mike Petersen,0
+Cache,AMA:U2,State House,2,REP,Val K. Potter,0
+Cache,AMA:U3,State House,2,REP,Mike Petersen,1
+Cache,AMA:U3,State House,2,REP,Val K. Potter,2
+Cache,BEN:U,State House,2,REP,Mike Petersen,65
+Cache,BEN:U,State House,2,REP,Val K. Potter,59
+Cache,COV:U2,State House,2,REP,Mike Petersen,6
+Cache,COV:U2,State House,2,REP,Val K. Potter,4
+Cache,CY:U,County Council Southeast,,REP,Ladd Kennington,77
+Cache,CY:U,County Council Southeast,,REP,Kathryn A. Beus,91
+Cache,HYD01:I,State House,2,REP,Mike Petersen,183
+Cache,HYD01:I,State House,2,REP,Val K. Potter,187
+Cache,HYD01:U,State House,2,REP,Mike Petersen,0
+Cache,HYD01:U,State House,2,REP,Val K. Potter,0
+Cache,HYD02:I,State House,2,REP,Mike Petersen,133
+Cache,HYD02:I,State House,2,REP,Val K. Potter,210
+Cache,HYD02:U1,State House,2,REP,Mike Petersen,16
+Cache,HYD02:U1,State House,2,REP,Val K. Potter,3
+Cache,HYD02:U2,State House,2,REP,Mike Petersen,0
+Cache,HYD02:U2,State House,2,REP,Val K. Potter,0
+Cache,HYD03:I,State House,2,REP,Mike Petersen,189
+Cache,HYD03:I,State House,2,REP,Val K. Potter,144
+Cache,HYD03:U,State House,2,REP,Mike Petersen,0
+Cache,HYD03:U,State House,2,REP,Val K. Potter,0
+Cache,LEW01:I,State House,2,REP,Mike Petersen,257
+Cache,LEW01:I,State House,2,REP,Val K. Potter,79
+Cache,LEW01:U1,State House,2,REP,Mike Petersen,0
+Cache,LEW01:U1,State House,2,REP,Val K. Potter,0
+Cache,LEW01:U2,State House,2,REP,Mike Petersen,0
+Cache,LEW01:U2,State House,2,REP,Val K. Potter,0
+Cache,LEW01:U3,State House,2,REP,Mike Petersen,0
+Cache,LEW01:U3,State House,2,REP,Val K. Potter,0
+Cache,LEW01:U4,State House,2,REP,Mike Petersen,0
+Cache,LEW01:U4,State House,2,REP,Val K. Potter,0
+Cache,LOG01:I,State House,2,REP,Mike Petersen,104
+Cache,LOG01:I,State House,2,REP,Val K. Potter,87
+Cache,LOG02:I,State House,2,REP,Mike Petersen,71
+Cache,LOG02:I,State House,2,REP,Val K. Potter,50
+Cache,LOG09:I,State House,2,REP,Mike Petersen,116
+Cache,LOG09:I,State House,2,REP,Val K. Potter,79
+Cache,MEN01:U,State House,2,REP,Mike Petersen,20
+Cache,MEN01:U,State House,2,REP,Val K. Potter,13
+Cache,MIL01:I,County Council Southeast,,REP,Ladd Kennington,191
+Cache,MIL01:I,County Council Southeast,,REP,Kathryn A. Beus,174
+Cache,MIL02:I,County Council Southeast,,REP,Ladd Kennington,12
+Cache,MIL02:I,County Council Southeast,,REP,Kathryn A. Beus,10
+Cache,MIL02:U1,County Council Southeast,,REP,Ladd Kennington,11
+Cache,MIL02:U1,County Council Southeast,,REP,Kathryn A. Beus,13
+Cache,MIL02:U2,County Council Southeast,,REP,Ladd Kennington,0
+Cache,MIL02:U2,County Council Southeast,,REP,Kathryn A. Beus,0
+Cache,NEW:U2,State House,2,REP,Mike Petersen,2
+Cache,NEW:U2,State House,2,REP,Val K. Potter,2
+Cache,NIB01:IA,County Council Southeast,,REP,Ladd Kennington,75
+Cache,NIB01:IA,County Council Southeast,,REP,Kathryn A. Beus,66
+Cache,NIB01:IB,County Council Southeast,,REP,Ladd Kennington,0
+Cache,NIB01:IB,County Council Southeast,,REP,Kathryn A. Beus,0
+Cache,NIB01:U1,County Council Southeast,,REP,Ladd Kennington,0
+Cache,NIB01:U1,County Council Southeast,,REP,Kathryn A. Beus,2
+Cache,NIB01:U2,County Council Southeast,,REP,Ladd Kennington,0
+Cache,NIB01:U2,County Council Southeast,,REP,Kathryn A. Beus,1
+Cache,NIB01:U3,County Council Southeast,,REP,Ladd Kennington,4
+Cache,NIB01:U3,County Council Southeast,,REP,Kathryn A. Beus,6
+Cache,NIB02:I,County Council Southeast,,REP,Ladd Kennington,84
+Cache,NIB02:I,County Council Southeast,,REP,Kathryn A. Beus,175
+Cache,NIB03:I,County Council Southeast,,REP,Ladd Kennington,71
+Cache,NIB03:I,County Council Southeast,,REP,Kathryn A. Beus,112
+Cache,NIB04:I,County Council Southeast,,REP,Ladd Kennington,120
+Cache,NIB04:I,County Council Southeast,,REP,Kathryn A. Beus,226
+Cache,NIB04:U,County Council Southeast,,REP,Ladd Kennington,8
+Cache,NIB04:U,County Council Southeast,,REP,Kathryn A. Beus,15
+Cache,NLG01:I,State House,2,REP,Mike Petersen,107
+Cache,NLG01:I,State House,2,REP,Val K. Potter,92
+Cache,NLG02:I,State House,2,REP,Mike Petersen,104
+Cache,NLG02:I,State House,2,REP,Val K. Potter,154
+Cache,NLG03:I,State House,2,REP,Mike Petersen,119
+Cache,NLG03:I,State House,2,REP,Val K. Potter,154
+Cache,NLG03:U,State House,2,REP,Mike Petersen,2
+Cache,NLG03:U,State House,2,REP,Val K. Potter,3
+Cache,NLG04:I,State House,2,REP,Mike Petersen,136
+Cache,NLG04:I,State House,2,REP,Val K. Potter,208
+Cache,NLG04:U,State House,2,REP,Mike Petersen,5
+Cache,NLG04:U,State House,2,REP,Val K. Potter,5
+Cache,NLG05:I,State House,2,REP,Mike Petersen,185
+Cache,NLG05:I,State House,2,REP,Val K. Potter,194
+Cache,NLG06:I,State House,2,REP,Mike Petersen,178
+Cache,NLG06:I,State House,2,REP,Val K. Potter,112
+Cache,PRO01:IA,County Council Southeast,,REP,Ladd Kennington,73
+Cache,PRO01:IA,County Council Southeast,,REP,Kathryn A. Beus,69
+Cache,PRO01:IB,County Council Southeast,,REP,Ladd Kennington,0
+Cache,PRO01:IB,County Council Southeast,,REP,Kathryn A. Beus,0
+Cache,PRO01:IC,County Council Southeast,,REP,Ladd Kennington,0
+Cache,PRO01:IC,County Council Southeast,,REP,Kathryn A. Beus,1
+Cache,PRO02:IA,County Council Southeast,,REP,Ladd Kennington,176
+Cache,PRO02:IA,County Council Southeast,,REP,Kathryn A. Beus,163
+Cache,PRO02:IB,County Council Southeast,,REP,Ladd Kennington,0
+Cache,PRO02:IB,County Council Southeast,,REP,Kathryn A. Beus,0
+Cache,PRO03:I,County Council Southeast,,REP,Ladd Kennington,126
+Cache,PRO03:I,County Council Southeast,,REP,Kathryn A. Beus,171
+Cache,PRO03:U1,County Council Southeast,,REP,Ladd Kennington,0
+Cache,PRO03:U1,County Council Southeast,,REP,Kathryn A. Beus,2
+Cache,PRO03:U2,County Council Southeast,,REP,Ladd Kennington,0
+Cache,PRO03:U2,County Council Southeast,,REP,Kathryn A. Beus,0
+Cache,PRO03:U3,County Council Southeast,,REP,Ladd Kennington,0
+Cache,PRO03:U3,County Council Southeast,,REP,Kathryn A. Beus,0
+Cache,PRO04:I,County Council Southeast,,REP,Ladd Kennington,153
+Cache,PRO04:I,County Council Southeast,,REP,Kathryn A. Beus,84
+Cache,PRO05:I,County Council Southeast,,REP,Ladd Kennington,90
+Cache,PRO05:I,County Council Southeast,,REP,Kathryn A. Beus,121
+Cache,PRO06:I,County Council Southeast,,REP,Ladd Kennington,117
+Cache,PRO06:I,County Council Southeast,,REP,Kathryn A. Beus,103
+Cache,RCH01:U1,State House,2,REP,Mike Petersen,2
+Cache,RCH01:U1,State House,2,REP,Val K. Potter,0
+Cache,RCH02:U1,State House,2,REP,Mike Petersen,4
+Cache,RCH02:U1,State House,2,REP,Val K. Potter,5
+Cache,RCH03:I,State House,2,REP,Mike Petersen,0
+Cache,RCH03:I,State House,2,REP,Val K. Potter,0
+Cache,RVH01:I,County Council Southeast,,REP,Ladd Kennington,100
+Cache,RVH01:I,County Council Southeast,,REP,Kathryn A. Beus,163
+Cache,RVH01:U,County Council Southeast,,REP,Ladd Kennington,2
+Cache,RVH01:U,County Council Southeast,,REP,Kathryn A. Beus,0
+Cache,RVH02:I,County Council Southeast,,REP,Ladd Kennington,32
+Cache,RVH02:I,County Council Southeast,,REP,Kathryn A. Beus,51
+Cache,RVH02:U1,County Council Southeast,,REP,Ladd Kennington,0
+Cache,RVH02:U1,County Council Southeast,,REP,Kathryn A. Beus,1
+Cache,RVH02:U2,County Council Southeast,,REP,Ladd Kennington,0
+Cache,RVH02:U2,County Council Southeast,,REP,Kathryn A. Beus,0
+Cache,RVH02:U3,County Council Southeast,,REP,Ladd Kennington,0
+Cache,RVH02:U3,County Council Southeast,,REP,Kathryn A. Beus,3
+Cache,SMI01:I,State House,2,REP,Mike Petersen,140
+Cache,SMI01:I,State House,2,REP,Val K. Potter,116
+Cache,SMI01:U1,State House,2,REP,Mike Petersen,12
+Cache,SMI01:U1,State House,2,REP,Val K. Potter,8
+Cache,SMI01:U2,State House,2,REP,Mike Petersen,0
+Cache,SMI01:U2,State House,2,REP,Val K. Potter,0
+Cache,SMI02:I,State House,2,REP,Mike Petersen,240
+Cache,SMI02:I,State House,2,REP,Val K. Potter,161
+Cache,SMI02:U,State House,2,REP,Mike Petersen,6
+Cache,SMI02:U,State House,2,REP,Val K. Potter,2
+Cache,SMI03:I,State House,2,REP,Mike Petersen,127
+Cache,SMI03:I,State House,2,REP,Val K. Potter,111
+Cache,SMI03:U,State House,2,REP,Mike Petersen,2
+Cache,SMI03:U,State House,2,REP,Val K. Potter,0
+Cache,SMI04:I,State House,2,REP,Mike Petersen,109
+Cache,SMI04:I,State House,2,REP,Val K. Potter,107
+Cache,SMI04:U,State House,2,REP,Mike Petersen,1
+Cache,SMI04:U,State House,2,REP,Val K. Potter,4
+Cache,SMI05:I,State House,2,REP,Mike Petersen,118
+Cache,SMI05:I,State House,2,REP,Val K. Potter,80
+Cache,SMI05:U,State House,2,REP,Mike Petersen,0
+Cache,SMI05:U,State House,2,REP,Val K. Potter,6
+Cache,SMI06:I,State House,2,REP,Mike Petersen,130
+Cache,SMI06:I,State House,2,REP,Val K. Potter,69
+Cache,SMI06:U,State House,2,REP,Mike Petersen,17
+Cache,SMI06:U,State House,2,REP,Val K. Potter,8
+Cache,SMI07:I,State House,2,REP,Mike Petersen,169
+Cache,SMI07:I,State House,2,REP,Val K. Potter,109
+Cache,SMI07:U,State House,2,REP,Mike Petersen,39
+Cache,SMI07:U,State House,2,REP,Val K. Potter,25
+Cache,SMI08:I,State House,2,REP,Mike Petersen,89
+Cache,SMI08:I,State House,2,REP,Val K. Potter,62
+Cache,TRE:I,State House,2,REP,Mike Petersen,51
+Cache,TRE:I,State House,2,REP,Val K. Potter,37
+Cache,HYD01:I,County Council Northeast,,REP,Mark R. Huff,284
+Cache,HYD01:I,County Council Northeast,,REP,Chris Booth,83
+Cache,HYD02:I,County Council Northeast,,REP,Mark R. Huff,222
+Cache,HYD02:I,County Council Northeast,,REP,Chris Booth,113
+Cache,HYD02:U1,County Council Northeast,,REP,Mark R. Huff,4
+Cache,HYD02:U1,County Council Northeast,,REP,Chris Booth,14
+Cache,HYD02:U2,County Council Northeast,,REP,Mark R. Huff,0
+Cache,HYD02:U2,County Council Northeast,,REP,Chris Booth,0
+Cache,HYD03:I,County Council Northeast,,REP,Mark R. Huff,175
+Cache,HYD03:I,County Council Northeast,,REP,Chris Booth,148
+Cache,NLG01:I,County Council Northeast,,REP,Mark R. Huff,97
+Cache,NLG01:I,County Council Northeast,,REP,Chris Booth,95
+Cache,NLG02:I,County Council Northeast,,REP,Mark R. Huff,119
+Cache,NLG02:I,County Council Northeast,,REP,Chris Booth,124
+Cache,NLG03:I,County Council Northeast,,REP,Mark R. Huff,112
+Cache,NLG03:I,County Council Northeast,,REP,Chris Booth,140
+Cache,NLG03:U,County Council Northeast,,REP,Mark R. Huff,5
+Cache,NLG03:U,County Council Northeast,,REP,Chris Booth,0
+Cache,NLG04:I,County Council Northeast,,REP,Mark R. Huff,127
+Cache,NLG04:I,County Council Northeast,,REP,Chris Booth,170
+Cache,NLG04:U,County Council Northeast,,REP,Mark R. Huff,7
+Cache,NLG04:U,County Council Northeast,,REP,Chris Booth,3
+Cache,NLG05:I,County Council Northeast,,REP,Mark R. Huff,166
+Cache,NLG05:I,County Council Northeast,,REP,Chris Booth,198
+Cache,NLG06:I,County Council Northeast,,REP,Mark R. Huff,106
+Cache,NLG06:I,County Council Northeast,,REP,Chris Booth,166
+Cache,SMI04:I,County Council Northeast,,REP,Mark R. Huff,99
+Cache,SMI04:I,County Council Northeast,,REP,Chris Booth,105
+Cache,SMI04:U,County Council Northeast,,REP,Mark R. Huff,4
+Cache,SMI04:U,County Council Northeast,,REP,Chris Booth,1
+Cache,SMI05:I,County Council Northeast,,REP,Mark R. Huff,80
+Cache,SMI05:I,County Council Northeast,,REP,Chris Booth,111
+Cache,SMI05:U,County Council Northeast,,REP,Mark R. Huff,3
+Cache,SMI05:U,County Council Northeast,,REP,Chris Booth,3
+Cache,SMI08:I,County Council Northeast,,REP,Mark R. Huff,60
+Cache,SMI08:I,County Council Northeast,,REP,Chris Booth,79

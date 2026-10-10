@@ -1,0 +1,680 @@
+county,precinct,office,district,party,candidate,votes
+Iron,Three Peaks,Registered Voters,,,,526
+Iron,Three Peaks,Ballots Cast,,,,261
+Iron,Three Peaks,U.S. Senate,,REP,BECKY EDWARDS,29
+Iron,Three Peaks,U.S. Senate,,REP,ALLY ISOM,20
+Iron,Three Peaks,U.S. Senate,,REP,MIKE LEE,208
+Iron,Three Peaks,U.S. House,2,REP,ERIN RIDER,42
+Iron,Three Peaks,U.S. House,2,REP,CHRIS STEWART,213
+Iron,Three Peaks,State Senate,28,REP,PATRICK L. LARSON,64
+Iron,Three Peaks,State Senate,28,REP,EVAN J. VICKERS,194
+Iron,Three Peaks,County Commissioner A,,REP,DESTRY GRIFFITHS,65
+Iron,Three Peaks,County Commissioner A,,REP,MICHAEL P. BLEAK,187
+Iron,Three Peaks,County Commissioner B,,REP,STEVE MILLER,112
+Iron,Three Peaks,County Commissioner B,,REP,PAUL COZZENS,148
+Iron,Brian Head,Registered Voters,,,,54
+Iron,Brian Head,Ballots Cast,,,,24
+Iron,Brian Head,U.S. Senate,,REP,BECKY EDWARDS,3
+Iron,Brian Head,U.S. Senate,,REP,ALLY ISOM,3
+Iron,Brian Head,U.S. Senate,,REP,MIKE LEE,18
+Iron,Brian Head,U.S. House,2,REP,ERIN RIDER,1
+Iron,Brian Head,U.S. House,2,REP,CHRIS STEWART,23
+Iron,Brian Head,State Senate,28,REP,PATRICK L. LARSON,6
+Iron,Brian Head,State Senate,28,REP,EVAN J. VICKERS,17
+Iron,Brian Head,County Commissioner A,,REP,DESTRY GRIFFITHS,10
+Iron,Brian Head,County Commissioner A,,REP,MICHAEL P. BLEAK,13
+Iron,Brian Head,County Commissioner B,,REP,STEVE MILLER,6
+Iron,Brian Head,County Commissioner B,,REP,PAUL COZZENS,18
+Iron,Beryl,Registered Voters,,,,443
+Iron,Beryl,Ballots Cast,,,,208
+Iron,Beryl,U.S. Senate,,REP,BECKY EDWARDS,25
+Iron,Beryl,U.S. Senate,,REP,ALLY ISOM,10
+Iron,Beryl,U.S. Senate,,REP,MIKE LEE,173
+Iron,Beryl,U.S. House,2,REP,ERIN RIDER,20
+Iron,Beryl,U.S. House,2,REP,CHRIS STEWART,185
+Iron,Beryl,State Senate,28,REP,PATRICK L. LARSON,53
+Iron,Beryl,State Senate,28,REP,EVAN J. VICKERS,153
+Iron,Beryl,County Commissioner A,,REP,DESTRY GRIFFITHS,87
+Iron,Beryl,County Commissioner A,,REP,MICHAEL P. BLEAK,110
+Iron,Beryl,County Commissioner B,,REP,STEVE MILLER,68
+Iron,Beryl,County Commissioner B,,REP,PAUL COZZENS,137
+Iron,Cedar City 1,Registered Voters,,,,269
+Iron,Cedar City 1,Ballots Cast,,,,111
+Iron,Cedar City 1,U.S. Senate,,REP,BECKY EDWARDS,12
+Iron,Cedar City 1,U.S. Senate,,REP,ALLY ISOM,16
+Iron,Cedar City 1,U.S. Senate,,REP,MIKE LEE,82
+Iron,Cedar City 1,U.S. House,2,REP,ERIN RIDER,22
+Iron,Cedar City 1,U.S. House,2,REP,CHRIS STEWART,86
+Iron,Cedar City 1,State Senate,28,REP,PATRICK L. LARSON,31
+Iron,Cedar City 1,State Senate,28,REP,EVAN J. VICKERS,79
+Iron,Cedar City 1,County Commissioner A,,REP,DESTRY GRIFFITHS,49
+Iron,Cedar City 1,County Commissioner A,,REP,MICHAEL P. BLEAK,54
+Iron,Cedar City 1,County Commissioner B,,REP,STEVE MILLER,53
+Iron,Cedar City 1,County Commissioner B,,REP,PAUL COZZENS,54
+Iron,Cedar City 2,Registered Voters,,,,364
+Iron,Cedar City 2,Ballots Cast,,,,236
+Iron,Cedar City 2,U.S. Senate,,REP,BECKY EDWARDS,35
+Iron,Cedar City 2,U.S. Senate,,REP,ALLY ISOM,32
+Iron,Cedar City 2,U.S. Senate,,REP,MIKE LEE,165
+Iron,Cedar City 2,U.S. House,2,REP,ERIN RIDER,35
+Iron,Cedar City 2,U.S. House,2,REP,CHRIS STEWART,195
+Iron,Cedar City 2,State Senate,28,REP,PATRICK L. LARSON,41
+Iron,Cedar City 2,State Senate,28,REP,EVAN J. VICKERS,193
+Iron,Cedar City 2,County Commissioner A,,REP,DESTRY GRIFFITHS,55
+Iron,Cedar City 2,County Commissioner A,,REP,MICHAEL P. BLEAK,168
+Iron,Cedar City 2,County Commissioner B,,REP,STEVE MILLER,147
+Iron,Cedar City 2,County Commissioner B,,REP,PAUL COZZENS,87
+Iron,Cedar City 3,Registered Voters,,,,403
+Iron,Cedar City 3,Ballots Cast,,,,224
+Iron,Cedar City 3,U.S. Senate,,REP,BECKY EDWARDS,32
+Iron,Cedar City 3,U.S. Senate,,REP,ALLY ISOM,25
+Iron,Cedar City 3,U.S. Senate,,REP,MIKE LEE,165
+Iron,Cedar City 3,U.S. House,2,REP,ERIN RIDER,46
+Iron,Cedar City 3,U.S. House,2,REP,CHRIS STEWART,172
+Iron,Cedar City 3,State Senate,28,REP,PATRICK L. LARSON,58
+Iron,Cedar City 3,State Senate,28,REP,EVAN J. VICKERS,165
+Iron,Cedar City 3,County Commissioner A,,REP,DESTRY GRIFFITHS,89
+Iron,Cedar City 3,County Commissioner A,,REP,MICHAEL P. BLEAK,133
+Iron,Cedar City 3,County Commissioner B,,REP,STEVE MILLER,104
+Iron,Cedar City 3,County Commissioner B,,REP,PAUL COZZENS,115
+Iron,Cedar City 4,Registered Voters,,,,313
+Iron,Cedar City 4,Ballots Cast,,,,146
+Iron,Cedar City 4,U.S. Senate,,REP,BECKY EDWARDS,26
+Iron,Cedar City 4,U.S. Senate,,REP,ALLY ISOM,15
+Iron,Cedar City 4,U.S. Senate,,REP,MIKE LEE,104
+Iron,Cedar City 4,U.S. House,2,REP,ERIN RIDER,32
+Iron,Cedar City 4,U.S. House,2,REP,CHRIS STEWART,111
+Iron,Cedar City 4,State Senate,28,REP,PATRICK L. LARSON,34
+Iron,Cedar City 4,State Senate,28,REP,EVAN J. VICKERS,110
+Iron,Cedar City 4,County Commissioner A,,REP,DESTRY GRIFFITHS,56
+Iron,Cedar City 4,County Commissioner A,,REP,MICHAEL P. BLEAK,83
+Iron,Cedar City 4,County Commissioner B,,REP,STEVE MILLER,66
+Iron,Cedar City 4,County Commissioner B,,REP,PAUL COZZENS,78
+Iron,Cedar City 5,Registered Voters,,,,336
+Iron,Cedar City 5,Ballots Cast,,,,127
+Iron,Cedar City 5,U.S. Senate,,REP,BECKY EDWARDS,10
+Iron,Cedar City 5,U.S. Senate,,REP,ALLY ISOM,18
+Iron,Cedar City 5,U.S. Senate,,REP,MIKE LEE,99
+Iron,Cedar City 5,U.S. House,2,REP,ERIN RIDER,26
+Iron,Cedar City 5,U.S. House,2,REP,CHRIS STEWART,98
+Iron,Cedar City 5,State Senate,28,REP,PATRICK L. LARSON,40
+Iron,Cedar City 5,State Senate,28,REP,EVAN J. VICKERS,82
+Iron,Cedar City 5,County Commissioner A,,REP,DESTRY GRIFFITHS,50
+Iron,Cedar City 5,County Commissioner A,,REP,MICHAEL P. BLEAK,67
+Iron,Cedar City 5,County Commissioner B,,REP,STEVE MILLER,63
+Iron,Cedar City 5,County Commissioner B,,REP,PAUL COZZENS,62
+Iron,Cedar City 6,Registered Voters,,,,303
+Iron,Cedar City 6,Ballots Cast,,,,104
+Iron,Cedar City 6,U.S. Senate,,REP,BECKY EDWARDS,22
+Iron,Cedar City 6,U.S. Senate,,REP,ALLY ISOM,19
+Iron,Cedar City 6,U.S. Senate,,REP,MIKE LEE,63
+Iron,Cedar City 6,U.S. House,2,REP,ERIN RIDER,29
+Iron,Cedar City 6,U.S. House,2,REP,CHRIS STEWART,73
+Iron,Cedar City 6,State Senate,28,REP,PATRICK L. LARSON,35
+Iron,Cedar City 6,State Senate,28,REP,EVAN J. VICKERS,67
+Iron,Cedar City 6,County Commissioner A,,REP,DESTRY GRIFFITHS,33
+Iron,Cedar City 6,County Commissioner A,,REP,MICHAEL P. BLEAK,68
+Iron,Cedar City 6,County Commissioner B,,REP,STEVE MILLER,60
+Iron,Cedar City 6,County Commissioner B,,REP,PAUL COZZENS,43
+Iron,Cedar City 7,Registered Voters,,,,496
+Iron,Cedar City 7,Ballots Cast,,,,131
+Iron,Cedar City 7,U.S. Senate,,REP,BECKY EDWARDS,18
+Iron,Cedar City 7,U.S. Senate,,REP,ALLY ISOM,8
+Iron,Cedar City 7,U.S. Senate,,REP,MIKE LEE,72
+Iron,Cedar City 7,U.S. House,2,REP,ERIN RIDER,24
+Iron,Cedar City 7,U.S. House,2,REP,CHRIS STEWART,72
+Iron,Cedar City 7,State Senate,28,REP,PATRICK L. LARSON,26
+Iron,Cedar City 7,State Senate,28,REP,EVAN J. VICKERS,70
+Iron,Cedar City 7,County Commissioner A,,REP,DESTRY GRIFFITHS,33
+Iron,Cedar City 7,County Commissioner A,,REP,MICHAEL P. BLEAK,63
+Iron,Cedar City 7,County Commissioner B,,REP,STEVE MILLER,52
+Iron,Cedar City 7,County Commissioner B,,REP,PAUL COZZENS,46
+Iron,Cedar City 7,Local School Board District 4,,,STEPHANIE HILL,51
+Iron,Cedar City 7,Local School Board District 4,,,MARY FOREMASTER,30
+Iron,Cedar City 7,Local School Board District 4,,,DALE M BRINKERHOFF,44
+Iron,Cedar City 8,Registered Voters,,,,678
+Iron,Cedar City 8,Ballots Cast,,,,181
+Iron,Cedar City 8,U.S. Senate,,REP,BECKY EDWARDS,24
+Iron,Cedar City 8,U.S. Senate,,REP,ALLY ISOM,17
+Iron,Cedar City 8,U.S. Senate,,REP,MIKE LEE,111
+Iron,Cedar City 8,U.S. House,2,REP,ERIN RIDER,16
+Iron,Cedar City 8,U.S. House,2,REP,CHRIS STEWART,133
+Iron,Cedar City 8,State Senate,28,REP,PATRICK L. LARSON,26
+Iron,Cedar City 8,State Senate,28,REP,EVAN J. VICKERS,127
+Iron,Cedar City 8,County Commissioner A,,REP,DESTRY GRIFFITHS,45
+Iron,Cedar City 8,County Commissioner A,,REP,MICHAEL P. BLEAK,109
+Iron,Cedar City 8,County Commissioner B,,REP,STEVE MILLER,63
+Iron,Cedar City 8,County Commissioner B,,REP,PAUL COZZENS,90
+Iron,Cedar City 8,Local School Board District 4,,,STEPHANIE HILL,80
+Iron,Cedar City 8,Local School Board District 4,,,MARY FOREMASTER,37
+Iron,Cedar City 8,Local School Board District 4,,,DALE M BRINKERHOFF,62
+Iron,Cedar City 9,Registered Voters,,,,242
+Iron,Cedar City 9,Ballots Cast,,,,114
+Iron,Cedar City 9,U.S. Senate,,REP,BECKY EDWARDS,15
+Iron,Cedar City 9,U.S. Senate,,REP,ALLY ISOM,16
+Iron,Cedar City 9,U.S. Senate,,REP,MIKE LEE,82
+Iron,Cedar City 9,U.S. House,2,REP,ERIN RIDER,25
+Iron,Cedar City 9,U.S. House,2,REP,CHRIS STEWART,88
+Iron,Cedar City 9,State Senate,28,REP,PATRICK L. LARSON,35
+Iron,Cedar City 9,State Senate,28,REP,EVAN J. VICKERS,78
+Iron,Cedar City 9,County Commissioner A,,REP,DESTRY GRIFFITHS,48
+Iron,Cedar City 9,County Commissioner A,,REP,MICHAEL P. BLEAK,64
+Iron,Cedar City 9,County Commissioner B,,REP,STEVE MILLER,44
+Iron,Cedar City 9,County Commissioner B,,REP,PAUL COZZENS,68
+Iron,Cedar City 10,Registered Voters,,,,666
+Iron,Cedar City 10,Ballots Cast,,,,257
+Iron,Cedar City 10,U.S. Senate,,REP,BECKY EDWARDS,49
+Iron,Cedar City 10,U.S. Senate,,REP,ALLY ISOM,29
+Iron,Cedar City 10,U.S. Senate,,REP,MIKE LEE,135
+Iron,Cedar City 10,U.S. House,2,REP,ERIN RIDER,56
+Iron,Cedar City 10,U.S. House,2,REP,CHRIS STEWART,147
+Iron,Cedar City 10,State Senate,28,REP,PATRICK L. LARSON,42
+Iron,Cedar City 10,State Senate,28,REP,EVAN J. VICKERS,171
+Iron,Cedar City 10,County Commissioner A,,REP,DESTRY GRIFFITHS,59
+Iron,Cedar City 10,County Commissioner A,,REP,MICHAEL P. BLEAK,149
+Iron,Cedar City 10,County Commissioner B,,REP,STEVE MILLER,115
+Iron,Cedar City 10,County Commissioner B,,REP,PAUL COZZENS,96
+Iron,Cedar City 10,Local School Board District 4,,,STEPHANIE HILL,105
+Iron,Cedar City 10,Local School Board District 4,,,MARY FOREMASTER,84
+Iron,Cedar City 10,Local School Board District 4,,,DALE M BRINKERHOFF,65
+Iron,Cedar City 11,Registered Voters,,,,225
+Iron,Cedar City 11,Ballots Cast,,,,66
+Iron,Cedar City 11,U.S. Senate,,REP,BECKY EDWARDS,10
+Iron,Cedar City 11,U.S. Senate,,REP,ALLY ISOM,7
+Iron,Cedar City 11,U.S. Senate,,REP,MIKE LEE,45
+Iron,Cedar City 11,U.S. House,2,REP,ERIN RIDER,11
+Iron,Cedar City 11,U.S. House,2,REP,CHRIS STEWART,49
+Iron,Cedar City 11,State Senate,28,REP,PATRICK L. LARSON,16
+Iron,Cedar City 11,State Senate,28,REP,EVAN J. VICKERS,50
+Iron,Cedar City 11,County Commissioner A,,REP,DESTRY GRIFFITHS,24
+Iron,Cedar City 11,County Commissioner A,,REP,MICHAEL P. BLEAK,40
+Iron,Cedar City 11,County Commissioner B,,REP,STEVE MILLER,32
+Iron,Cedar City 11,County Commissioner B,,REP,PAUL COZZENS,33
+Iron,Cedar City 12,Registered Voters,,,,298
+Iron,Cedar City 12,Ballots Cast,,,,77
+Iron,Cedar City 12,U.S. Senate,,REP,BECKY EDWARDS,18
+Iron,Cedar City 12,U.S. Senate,,REP,ALLY ISOM,8
+Iron,Cedar City 12,U.S. Senate,,REP,MIKE LEE,50
+Iron,Cedar City 12,U.S. House,2,REP,ERIN RIDER,25
+Iron,Cedar City 12,U.S. House,2,REP,CHRIS STEWART,52
+Iron,Cedar City 12,State Senate,28,REP,PATRICK L. LARSON,32
+Iron,Cedar City 12,State Senate,28,REP,EVAN J. VICKERS,45
+Iron,Cedar City 12,County Commissioner A,,REP,DESTRY GRIFFITHS,33
+Iron,Cedar City 12,County Commissioner A,,REP,MICHAEL P. BLEAK,44
+Iron,Cedar City 12,County Commissioner B,,REP,STEVE MILLER,44
+Iron,Cedar City 12,County Commissioner B,,REP,PAUL COZZENS,32
+Iron,Cedar City 13,Registered Voters,,,,414
+Iron,Cedar City 13,Ballots Cast,,,,158
+Iron,Cedar City 13,U.S. Senate,,REP,BECKY EDWARDS,18
+Iron,Cedar City 13,U.S. Senate,,REP,ALLY ISOM,19
+Iron,Cedar City 13,U.S. Senate,,REP,MIKE LEE,93
+Iron,Cedar City 13,U.S. House,2,REP,ERIN RIDER,31
+Iron,Cedar City 13,U.S. House,2,REP,CHRIS STEWART,97
+Iron,Cedar City 13,State Senate,28,REP,PATRICK L. LARSON,21
+Iron,Cedar City 13,State Senate,28,REP,EVAN J. VICKERS,109
+Iron,Cedar City 13,County Commissioner A,,REP,DESTRY GRIFFITHS,23
+Iron,Cedar City 13,County Commissioner A,,REP,MICHAEL P. BLEAK,105
+Iron,Cedar City 13,County Commissioner B,,REP,STEVE MILLER,56
+Iron,Cedar City 13,County Commissioner B,,REP,PAUL COZZENS,75
+Iron,Cedar City 13,Local School Board District 4,,,STEPHANIE HILL,57
+Iron,Cedar City 13,Local School Board District 4,,,MARY FOREMASTER,45
+Iron,Cedar City 13,Local School Board District 4,,,DALE M BRINKERHOFF,56
+Iron,Cedar City 14,Registered Voters,,,,446
+Iron,Cedar City 14,Ballots Cast,,,,229
+Iron,Cedar City 14,U.S. Senate,,REP,BECKY EDWARDS,33
+Iron,Cedar City 14,U.S. Senate,,REP,ALLY ISOM,27
+Iron,Cedar City 14,U.S. Senate,,REP,MIKE LEE,153
+Iron,Cedar City 14,U.S. House,2,REP,ERIN RIDER,33
+Iron,Cedar City 14,U.S. House,2,REP,CHRIS STEWART,178
+Iron,Cedar City 14,State Senate,28,REP,PATRICK L. LARSON,32
+Iron,Cedar City 14,State Senate,28,REP,EVAN J. VICKERS,178
+Iron,Cedar City 14,County Commissioner A,,REP,DESTRY GRIFFITHS,63
+Iron,Cedar City 14,County Commissioner A,,REP,MICHAEL P. BLEAK,145
+Iron,Cedar City 14,County Commissioner B,,REP,STEVE MILLER,79
+Iron,Cedar City 14,County Commissioner B,,REP,PAUL COZZENS,132
+Iron,Cedar City 14,Local School Board District 5,,,STEVE MERRILL,19
+Iron,Cedar City 14,Local School Board District 5,,,BILLY DAVIS,80
+Iron,Cedar City 14,Local School Board District 5,,,TIFFINEY CHRISTIANSEN,123
+Iron,Cedar City 15,Registered Voters,,,,507
+Iron,Cedar City 15,Ballots Cast,,,,245
+Iron,Cedar City 15,U.S. Senate,,REP,BECKY EDWARDS,37
+Iron,Cedar City 15,U.S. Senate,,REP,ALLY ISOM,21
+Iron,Cedar City 15,U.S. Senate,,REP,MIKE LEE,127
+Iron,Cedar City 15,U.S. House,2,REP,ERIN RIDER,37
+Iron,Cedar City 15,U.S. House,2,REP,CHRIS STEWART,140
+Iron,Cedar City 15,State Senate,28,REP,PATRICK L. LARSON,37
+Iron,Cedar City 15,State Senate,28,REP,EVAN J. VICKERS,151
+Iron,Cedar City 15,County Commissioner A,,REP,DESTRY GRIFFITHS,62
+Iron,Cedar City 15,County Commissioner A,,REP,MICHAEL P. BLEAK,120
+Iron,Cedar City 15,County Commissioner B,,REP,STEVE MILLER,81
+Iron,Cedar City 15,County Commissioner B,,REP,PAUL COZZENS,102
+Iron,Cedar City 15,Local School Board District 5,,,STEVE MERRILL,33
+Iron,Cedar City 15,Local School Board District 5,,,BILLY DAVIS,72
+Iron,Cedar City 15,Local School Board District 5,,,TIFFINEY CHRISTIANSEN,134
+Iron,Cedar City 16,Registered Voters,,,,364
+Iron,Cedar City 16,Ballots Cast,,,,136
+Iron,Cedar City 16,U.S. Senate,,REP,BECKY EDWARDS,18
+Iron,Cedar City 16,U.S. Senate,,REP,ALLY ISOM,26
+Iron,Cedar City 16,U.S. Senate,,REP,MIKE LEE,91
+Iron,Cedar City 16,U.S. House,2,REP,ERIN RIDER,20
+Iron,Cedar City 16,U.S. House,2,REP,CHRIS STEWART,115
+Iron,Cedar City 16,State Senate,28,REP,PATRICK L. LARSON,39
+Iron,Cedar City 16,State Senate,28,REP,EVAN J. VICKERS,93
+Iron,Cedar City 16,County Commissioner A,,REP,DESTRY GRIFFITHS,57
+Iron,Cedar City 16,County Commissioner A,,REP,MICHAEL P. BLEAK,75
+Iron,Cedar City 16,County Commissioner B,,REP,STEVE MILLER,73
+Iron,Cedar City 16,County Commissioner B,,REP,PAUL COZZENS,63
+Iron,Cedar City 17,Registered Voters,,,,460
+Iron,Cedar City 17,Ballots Cast,,,,129
+Iron,Cedar City 17,U.S. Senate,,REP,BECKY EDWARDS,19
+Iron,Cedar City 17,U.S. Senate,,REP,ALLY ISOM,15
+Iron,Cedar City 17,U.S. Senate,,REP,MIKE LEE,73
+Iron,Cedar City 17,U.S. House,2,REP,ERIN RIDER,20
+Iron,Cedar City 17,U.S. House,2,REP,CHRIS STEWART,85
+Iron,Cedar City 17,State Senate,28,REP,PATRICK L. LARSON,23
+Iron,Cedar City 17,State Senate,28,REP,EVAN J. VICKERS,83
+Iron,Cedar City 17,County Commissioner A,,REP,DESTRY GRIFFITHS,30
+Iron,Cedar City 17,County Commissioner A,,REP,MICHAEL P. BLEAK,72
+Iron,Cedar City 17,County Commissioner B,,REP,STEVE MILLER,36
+Iron,Cedar City 17,County Commissioner B,,REP,PAUL COZZENS,69
+Iron,Cedar City 17,Local School Board District 4,,,STEPHANIE HILL,52
+Iron,Cedar City 17,Local School Board District 4,,,MARY FOREMASTER,34
+Iron,Cedar City 17,Local School Board District 4,,,DALE M BRINKERHOFF,39
+Iron,Cedar City 18,Registered Voters,,,,718
+Iron,Cedar City 18,Ballots Cast,,,,281
+Iron,Cedar City 18,U.S. Senate,,REP,BECKY EDWARDS,28
+Iron,Cedar City 18,U.S. Senate,,REP,ALLY ISOM,36
+Iron,Cedar City 18,U.S. Senate,,REP,MIKE LEE,167
+Iron,Cedar City 18,U.S. House,2,REP,ERIN RIDER,42
+Iron,Cedar City 18,U.S. House,2,REP,CHRIS STEWART,181
+Iron,Cedar City 18,State Senate,28,REP,PATRICK L. LARSON,44
+Iron,Cedar City 18,State Senate,28,REP,EVAN J. VICKERS,190
+Iron,Cedar City 18,County Commissioner A,,REP,DESTRY GRIFFITHS,76
+Iron,Cedar City 18,County Commissioner A,,REP,MICHAEL P. BLEAK,143
+Iron,Cedar City 18,County Commissioner B,,REP,STEVE MILLER,108
+Iron,Cedar City 18,County Commissioner B,,REP,PAUL COZZENS,127
+Iron,Cedar City 18,Local School Board District 5,,,STEVE MERRILL,33
+Iron,Cedar City 18,Local School Board District 5,,,BILLY DAVIS,84
+Iron,Cedar City 18,Local School Board District 5,,,TIFFINEY CHRISTIANSEN,156
+Iron,Cedar City 19,Registered Voters,,,,584
+Iron,Cedar City 19,Ballots Cast,,,,303
+Iron,Cedar City 19,U.S. Senate,,REP,BECKY EDWARDS,48
+Iron,Cedar City 19,U.S. Senate,,REP,ALLY ISOM,20
+Iron,Cedar City 19,U.S. Senate,,REP,MIKE LEE,193
+Iron,Cedar City 19,U.S. House,2,REP,ERIN RIDER,47
+Iron,Cedar City 19,U.S. House,2,REP,CHRIS STEWART,205
+Iron,Cedar City 19,State Senate,28,REP,PATRICK L. LARSON,46
+Iron,Cedar City 19,State Senate,28,REP,EVAN J. VICKERS,210
+Iron,Cedar City 19,County Commissioner A,,REP,DESTRY GRIFFITHS,76
+Iron,Cedar City 19,County Commissioner A,,REP,MICHAEL P. BLEAK,166
+Iron,Cedar City 19,County Commissioner B,,REP,STEVE MILLER,135
+Iron,Cedar City 19,County Commissioner B,,REP,PAUL COZZENS,121
+Iron,Cedar City 19,Local School Board District 5,,,STEVE MERRILL,17
+Iron,Cedar City 19,Local School Board District 5,,,BILLY DAVIS,98
+Iron,Cedar City 19,Local School Board District 5,,,TIFFINEY CHRISTIANSEN,172
+Iron,Cedar City 20,Registered Voters,,,,407
+Iron,Cedar City 20,Ballots Cast,,,,211
+Iron,Cedar City 20,U.S. Senate,,REP,BECKY EDWARDS,18
+Iron,Cedar City 20,U.S. Senate,,REP,ALLY ISOM,19
+Iron,Cedar City 20,U.S. Senate,,REP,MIKE LEE,172
+Iron,Cedar City 20,U.S. House,2,REP,ERIN RIDER,31
+Iron,Cedar City 20,U.S. House,2,REP,CHRIS STEWART,175
+Iron,Cedar City 20,State Senate,28,REP,PATRICK L. LARSON,85
+Iron,Cedar City 20,State Senate,28,REP,EVAN J. VICKERS,123
+Iron,Cedar City 20,County Commissioner A,,REP,DESTRY GRIFFITHS,90
+Iron,Cedar City 20,County Commissioner A,,REP,MICHAEL P. BLEAK,114
+Iron,Cedar City 20,County Commissioner B,,REP,STEVE MILLER,107
+Iron,Cedar City 20,County Commissioner B,,REP,PAUL COZZENS,103
+Iron,Cedar City 21,Registered Voters,,,,259
+Iron,Cedar City 21,Ballots Cast,,,,132
+Iron,Cedar City 21,U.S. Senate,,REP,BECKY EDWARDS,21
+Iron,Cedar City 21,U.S. Senate,,REP,ALLY ISOM,13
+Iron,Cedar City 21,U.S. Senate,,REP,MIKE LEE,98
+Iron,Cedar City 21,U.S. House,2,REP,ERIN RIDER,36
+Iron,Cedar City 21,U.S. House,2,REP,CHRIS STEWART,93
+Iron,Cedar City 21,State Senate,28,REP,PATRICK L. LARSON,31
+Iron,Cedar City 21,State Senate,28,REP,EVAN J. VICKERS,101
+Iron,Cedar City 21,County Commissioner A,,REP,DESTRY GRIFFITHS,42
+Iron,Cedar City 21,County Commissioner A,,REP,MICHAEL P. BLEAK,87
+Iron,Cedar City 21,County Commissioner B,,REP,STEVE MILLER,72
+Iron,Cedar City 21,County Commissioner B,,REP,PAUL COZZENS,59
+Iron,Cedar City 22,Registered Voters,,,,535
+Iron,Cedar City 22,Ballots Cast,,,,245
+Iron,Cedar City 22,U.S. Senate,,REP,BECKY EDWARDS,26
+Iron,Cedar City 22,U.S. Senate,,REP,ALLY ISOM,23
+Iron,Cedar City 22,U.S. Senate,,REP,MIKE LEE,154
+Iron,Cedar City 22,U.S. House,2,REP,ERIN RIDER,30
+Iron,Cedar City 22,U.S. House,2,REP,CHRIS STEWART,164
+Iron,Cedar City 22,State Senate,28,REP,PATRICK L. LARSON,40
+Iron,Cedar City 22,State Senate,28,REP,EVAN J. VICKERS,162
+Iron,Cedar City 22,County Commissioner A,,REP,DESTRY GRIFFITHS,55
+Iron,Cedar City 22,County Commissioner A,,REP,MICHAEL P. BLEAK,142
+Iron,Cedar City 22,County Commissioner B,,REP,STEVE MILLER,79
+Iron,Cedar City 22,County Commissioner B,,REP,PAUL COZZENS,122
+Iron,Cedar City 22,Local School Board District 5,,,STEVE MERRILL,23
+Iron,Cedar City 22,Local School Board District 5,,,BILLY DAVIS,93
+Iron,Cedar City 22,Local School Board District 5,,,TIFFINEY CHRISTIANSEN,123
+Iron,Cedar City 23,Registered Voters,,,,315
+Iron,Cedar City 23,Ballots Cast,,,,96
+Iron,Cedar City 23,U.S. Senate,,REP,BECKY EDWARDS,11
+Iron,Cedar City 23,U.S. Senate,,REP,ALLY ISOM,2
+Iron,Cedar City 23,U.S. Senate,,REP,MIKE LEE,59
+Iron,Cedar City 23,U.S. House,2,REP,ERIN RIDER,14
+Iron,Cedar City 23,U.S. House,2,REP,CHRIS STEWART,58
+Iron,Cedar City 23,State Senate,28,REP,PATRICK L. LARSON,19
+Iron,Cedar City 23,State Senate,28,REP,EVAN J. VICKERS,53
+Iron,Cedar City 23,County Commissioner A,,REP,DESTRY GRIFFITHS,30
+Iron,Cedar City 23,County Commissioner A,,REP,MICHAEL P. BLEAK,41
+Iron,Cedar City 23,County Commissioner B,,REP,STEVE MILLER,26
+Iron,Cedar City 23,County Commissioner B,,REP,PAUL COZZENS,46
+Iron,Cedar City 23,Local School Board District 5,,,STEVE MERRILL,9
+Iron,Cedar City 23,Local School Board District 5,,,BILLY DAVIS,27
+Iron,Cedar City 23,Local School Board District 5,,,TIFFINEY CHRISTIANSEN,56
+Iron,Cedar City 24,Registered Voters,,,,835
+Iron,Cedar City 24,Ballots Cast,,,,415
+Iron,Cedar City 24,U.S. Senate,,REP,BECKY EDWARDS,73
+Iron,Cedar City 24,U.S. Senate,,REP,ALLY ISOM,33
+Iron,Cedar City 24,U.S. Senate,,REP,MIKE LEE,248
+Iron,Cedar City 24,U.S. House,2,REP,ERIN RIDER,50
+Iron,Cedar City 24,U.S. House,2,REP,CHRIS STEWART,293
+Iron,Cedar City 24,State Senate,28,REP,PATRICK L. LARSON,63
+Iron,Cedar City 24,State Senate,28,REP,EVAN J. VICKERS,287
+Iron,Cedar City 24,County Commissioner A,,REP,DESTRY GRIFFITHS,113
+Iron,Cedar City 24,County Commissioner A,,REP,MICHAEL P. BLEAK,222
+Iron,Cedar City 24,County Commissioner B,,REP,STEVE MILLER,152
+Iron,Cedar City 24,County Commissioner B,,REP,PAUL COZZENS,193
+Iron,Cedar City 24,Local School Board District 5,,,STEVE MERRILL,21
+Iron,Cedar City 24,Local School Board District 5,,,BILLY DAVIS,179
+Iron,Cedar City 24,Local School Board District 5,,,TIFFINEY CHRISTIANSEN,201
+Iron,Cedar City 25,Registered Voters,,,,758
+Iron,Cedar City 25,Ballots Cast,,,,333
+Iron,Cedar City 25,U.S. Senate,,REP,BECKY EDWARDS,34
+Iron,Cedar City 25,U.S. Senate,,REP,ALLY ISOM,46
+Iron,Cedar City 25,U.S. Senate,,REP,MIKE LEE,249
+Iron,Cedar City 25,U.S. House,2,REP,ERIN RIDER,55
+Iron,Cedar City 25,U.S. House,2,REP,CHRIS STEWART,265
+Iron,Cedar City 25,State Senate,28,REP,PATRICK L. LARSON,98
+Iron,Cedar City 25,State Senate,28,REP,EVAN J. VICKERS,230
+Iron,Cedar City 25,County Commissioner A,,REP,DESTRY GRIFFITHS,129
+Iron,Cedar City 25,County Commissioner A,,REP,MICHAEL P. BLEAK,182
+Iron,Cedar City 25,County Commissioner B,,REP,STEVE MILLER,166
+Iron,Cedar City 25,County Commissioner B,,REP,PAUL COZZENS,158
+Iron,Cedar City 26,Registered Voters,,,,281
+Iron,Cedar City 26,Ballots Cast,,,,168
+Iron,Cedar City 26,U.S. Senate,,REP,BECKY EDWARDS,30
+Iron,Cedar City 26,U.S. Senate,,REP,ALLY ISOM,7
+Iron,Cedar City 26,U.S. Senate,,REP,MIKE LEE,129
+Iron,Cedar City 26,U.S. House,2,REP,ERIN RIDER,24
+Iron,Cedar City 26,U.S. House,2,REP,CHRIS STEWART,140
+Iron,Cedar City 26,State Senate,28,REP,PATRICK L. LARSON,26
+Iron,Cedar City 26,State Senate,28,REP,EVAN J. VICKERS,139
+Iron,Cedar City 26,County Commissioner A,,REP,DESTRY GRIFFITHS,44
+Iron,Cedar City 26,County Commissioner A,,REP,MICHAEL P. BLEAK,119
+Iron,Cedar City 26,County Commissioner B,,REP,STEVE MILLER,92
+Iron,Cedar City 26,County Commissioner B,,REP,PAUL COZZENS,73
+Iron,Cedar City 27,Registered Voters,,,,643
+Iron,Cedar City 27,Ballots Cast,,,,323
+Iron,Cedar City 27,U.S. Senate,,REP,BECKY EDWARDS,53
+Iron,Cedar City 27,U.S. Senate,,REP,ALLY ISOM,37
+Iron,Cedar City 27,U.S. Senate,,REP,MIKE LEE,227
+Iron,Cedar City 27,U.S. House,2,REP,ERIN RIDER,62
+Iron,Cedar City 27,U.S. House,2,REP,CHRIS STEWART,253
+Iron,Cedar City 27,State Senate,28,REP,PATRICK L. LARSON,71
+Iron,Cedar City 27,State Senate,28,REP,EVAN J. VICKERS,242
+Iron,Cedar City 27,County Commissioner A,,REP,DESTRY GRIFFITHS,119
+Iron,Cedar City 27,County Commissioner A,,REP,MICHAEL P. BLEAK,189
+Iron,Cedar City 27,County Commissioner B,,REP,STEVE MILLER,135
+Iron,Cedar City 27,County Commissioner B,,REP,PAUL COZZENS,180
+Iron,Cedar City 28,Registered Voters,,,,362
+Iron,Cedar City 28,Ballots Cast,,,,178
+Iron,Cedar City 28,U.S. Senate,,REP,BECKY EDWARDS,27
+Iron,Cedar City 28,U.S. Senate,,REP,ALLY ISOM,14
+Iron,Cedar City 28,U.S. Senate,,REP,MIKE LEE,137
+Iron,Cedar City 28,U.S. House,2,REP,ERIN RIDER,30
+Iron,Cedar City 28,U.S. House,2,REP,CHRIS STEWART,143
+Iron,Cedar City 28,State Senate,28,REP,PATRICK L. LARSON,44
+Iron,Cedar City 28,State Senate,28,REP,EVAN J. VICKERS,130
+Iron,Cedar City 28,County Commissioner A,,REP,DESTRY GRIFFITHS,59
+Iron,Cedar City 28,County Commissioner A,,REP,MICHAEL P. BLEAK,110
+Iron,Cedar City 28,County Commissioner B,,REP,STEVE MILLER,96
+Iron,Cedar City 28,County Commissioner B,,REP,PAUL COZZENS,81
+Iron,Cedar City 29,Registered Voters,,,,813
+Iron,Cedar City 29,Ballots Cast,,,,383
+Iron,Cedar City 29,U.S. Senate,,REP,BECKY EDWARDS,35
+Iron,Cedar City 29,U.S. Senate,,REP,ALLY ISOM,55
+Iron,Cedar City 29,U.S. Senate,,REP,MIKE LEE,242
+Iron,Cedar City 29,U.S. House,2,REP,ERIN RIDER,49
+Iron,Cedar City 29,U.S. House,2,REP,CHRIS STEWART,277
+Iron,Cedar City 29,State Senate,28,REP,PATRICK L. LARSON,76
+Iron,Cedar City 29,State Senate,28,REP,EVAN J. VICKERS,256
+Iron,Cedar City 29,County Commissioner A,,REP,DESTRY GRIFFITHS,83
+Iron,Cedar City 29,County Commissioner A,,REP,MICHAEL P. BLEAK,247
+Iron,Cedar City 29,County Commissioner B,,REP,STEVE MILLER,135
+Iron,Cedar City 29,County Commissioner B,,REP,PAUL COZZENS,199
+Iron,Cedar City 29,Local School Board District 5,,,STEVE MERRILL,14
+Iron,Cedar City 29,Local School Board District 5,,,BILLY DAVIS,213
+Iron,Cedar City 29,Local School Board District 5,,,TIFFINEY CHRISTIANSEN,147
+Iron,Cross Hollow,Registered Voters,,,,342
+Iron,Cross Hollow,Ballots Cast,,,,182
+Iron,Cross Hollow,U.S. Senate,,REP,BECKY EDWARDS,17
+Iron,Cross Hollow,U.S. Senate,,REP,ALLY ISOM,16
+Iron,Cross Hollow,U.S. Senate,,REP,MIKE LEE,117
+Iron,Cross Hollow,U.S. House,2,REP,ERIN RIDER,33
+Iron,Cross Hollow,U.S. House,2,REP,CHRIS STEWART,108
+Iron,Cross Hollow,State Senate,28,REP,PATRICK L. LARSON,31
+Iron,Cross Hollow,State Senate,28,REP,EVAN J. VICKERS,111
+Iron,Cross Hollow,County Commissioner A,,REP,DESTRY GRIFFITHS,53
+Iron,Cross Hollow,County Commissioner A,,REP,MICHAEL P. BLEAK,91
+Iron,Cross Hollow,County Commissioner B,,REP,STEVE MILLER,64
+Iron,Cross Hollow,County Commissioner B,,REP,PAUL COZZENS,81
+Iron,Cross Hollow,Local School Board District 5,,,STEVE MERRILL,13
+Iron,Cross Hollow,Local School Board District 5,,,BILLY DAVIS,54
+Iron,Cross Hollow,Local School Board District 5,,,TIFFINEY CHRISTIANSEN,111
+Iron,Cedar Valley,Registered Voters,,,,449
+Iron,Cedar Valley,Ballots Cast,,,,201
+Iron,Cedar Valley,U.S. Senate,,REP,BECKY EDWARDS,22
+Iron,Cedar Valley,U.S. Senate,,REP,ALLY ISOM,11
+Iron,Cedar Valley,U.S. Senate,,REP,MIKE LEE,168
+Iron,Cedar Valley,U.S. House,2,REP,ERIN RIDER,42
+Iron,Cedar Valley,U.S. House,2,REP,CHRIS STEWART,154
+Iron,Cedar Valley,State Senate,28,REP,PATRICK L. LARSON,70
+Iron,Cedar Valley,State Senate,28,REP,EVAN J. VICKERS,129
+Iron,Cedar Valley,County Commissioner A,,REP,DESTRY GRIFFITHS,84
+Iron,Cedar Valley,County Commissioner A,,REP,MICHAEL P. BLEAK,108
+Iron,Cedar Valley,County Commissioner B,,REP,STEVE MILLER,79
+Iron,Cedar Valley,County Commissioner B,,REP,PAUL COZZENS,120
+Iron,Enoch 1,Registered Voters,,,,415
+Iron,Enoch 1,Ballots Cast,,,,192
+Iron,Enoch 1,U.S. Senate,,REP,BECKY EDWARDS,11
+Iron,Enoch 1,U.S. Senate,,REP,ALLY ISOM,9
+Iron,Enoch 1,U.S. Senate,,REP,MIKE LEE,170
+Iron,Enoch 1,U.S. House,2,REP,ERIN RIDER,22
+Iron,Enoch 1,U.S. House,2,REP,CHRIS STEWART,167
+Iron,Enoch 1,State Senate,28,REP,PATRICK L. LARSON,46
+Iron,Enoch 1,State Senate,28,REP,EVAN J. VICKERS,143
+Iron,Enoch 1,County Commissioner A,,REP,DESTRY GRIFFITHS,62
+Iron,Enoch 1,County Commissioner A,,REP,MICHAEL P. BLEAK,125
+Iron,Enoch 1,County Commissioner B,,REP,STEVE MILLER,65
+Iron,Enoch 1,County Commissioner B,,REP,PAUL COZZENS,120
+Iron,Enoch 2,Registered Voters,,,,476
+Iron,Enoch 2,Ballots Cast,,,,240
+Iron,Enoch 2,U.S. Senate,,REP,BECKY EDWARDS,37
+Iron,Enoch 2,U.S. Senate,,REP,ALLY ISOM,24
+Iron,Enoch 2,U.S. Senate,,REP,MIKE LEE,176
+Iron,Enoch 2,U.S. House,2,REP,ERIN RIDER,35
+Iron,Enoch 2,U.S. House,2,REP,CHRIS STEWART,199
+Iron,Enoch 2,State Senate,28,REP,PATRICK L. LARSON,54
+Iron,Enoch 2,State Senate,28,REP,EVAN J. VICKERS,183
+Iron,Enoch 2,County Commissioner A,,REP,DESTRY GRIFFITHS,85
+Iron,Enoch 2,County Commissioner A,,REP,MICHAEL P. BLEAK,146
+Iron,Enoch 2,County Commissioner B,,REP,STEVE MILLER,95
+Iron,Enoch 2,County Commissioner B,,REP,PAUL COZZENS,140
+Iron,Enoch 3,Registered Voters,,,,561
+Iron,Enoch 3,Ballots Cast,,,,252
+Iron,Enoch 3,U.S. Senate,,REP,BECKY EDWARDS,36
+Iron,Enoch 3,U.S. Senate,,REP,ALLY ISOM,16
+Iron,Enoch 3,U.S. Senate,,REP,MIKE LEE,200
+Iron,Enoch 3,U.S. House,2,REP,ERIN RIDER,37
+Iron,Enoch 3,U.S. House,2,REP,CHRIS STEWART,213
+Iron,Enoch 3,State Senate,28,REP,PATRICK L. LARSON,87
+Iron,Enoch 3,State Senate,28,REP,EVAN J. VICKERS,160
+Iron,Enoch 3,County Commissioner A,,REP,DESTRY GRIFFITHS,126
+Iron,Enoch 3,County Commissioner A,,REP,MICHAEL P. BLEAK,120
+Iron,Enoch 3,County Commissioner B,,REP,STEVE MILLER,102
+Iron,Enoch 3,County Commissioner B,,REP,PAUL COZZENS,147
+Iron,Enoch 4,Registered Voters,,,,450
+Iron,Enoch 4,Ballots Cast,,,,220
+Iron,Enoch 4,U.S. Senate,,REP,BECKY EDWARDS,26
+Iron,Enoch 4,U.S. Senate,,REP,ALLY ISOM,29
+Iron,Enoch 4,U.S. Senate,,REP,MIKE LEE,164
+Iron,Enoch 4,U.S. House,2,REP,ERIN RIDER,31
+Iron,Enoch 4,U.S. House,2,REP,CHRIS STEWART,186
+Iron,Enoch 4,State Senate,28,REP,PATRICK L. LARSON,66
+Iron,Enoch 4,State Senate,28,REP,EVAN J. VICKERS,150
+Iron,Enoch 4,County Commissioner A,,REP,DESTRY GRIFFITHS,79
+Iron,Enoch 4,County Commissioner A,,REP,MICHAEL P. BLEAK,137
+Iron,Enoch 4,County Commissioner B,,REP,STEVE MILLER,96
+Iron,Enoch 4,County Commissioner B,,REP,PAUL COZZENS,122
+Iron,Enoch 5,Registered Voters,,,,399
+Iron,Enoch 5,Ballots Cast,,,,186
+Iron,Enoch 5,U.S. Senate,,REP,BECKY EDWARDS,25
+Iron,Enoch 5,U.S. Senate,,REP,ALLY ISOM,23
+Iron,Enoch 5,U.S. Senate,,REP,MIKE LEE,137
+Iron,Enoch 5,U.S. House,2,REP,ERIN RIDER,29
+Iron,Enoch 5,U.S. House,2,REP,CHRIS STEWART,155
+Iron,Enoch 5,State Senate,28,REP,PATRICK L. LARSON,48
+Iron,Enoch 5,State Senate,28,REP,EVAN J. VICKERS,137
+Iron,Enoch 5,County Commissioner A,,REP,DESTRY GRIFFITHS,79
+Iron,Enoch 5,County Commissioner A,,REP,MICHAEL P. BLEAK,105
+Iron,Enoch 5,County Commissioner B,,REP,STEVE MILLER,85
+Iron,Enoch 5,County Commissioner B,,REP,PAUL COZZENS,100
+Iron,Enoch 6,Registered Voters,,,,493
+Iron,Enoch 6,Ballots Cast,,,,223
+Iron,Enoch 6,U.S. Senate,,REP,BECKY EDWARDS,30
+Iron,Enoch 6,U.S. Senate,,REP,ALLY ISOM,23
+Iron,Enoch 6,U.S. Senate,,REP,MIKE LEE,166
+Iron,Enoch 6,U.S. House,2,REP,ERIN RIDER,41
+Iron,Enoch 6,U.S. House,2,REP,CHRIS STEWART,180
+Iron,Enoch 6,State Senate,28,REP,PATRICK L. LARSON,79
+Iron,Enoch 6,State Senate,28,REP,EVAN J. VICKERS,143
+Iron,Enoch 6,County Commissioner A,,REP,DESTRY GRIFFITHS,81
+Iron,Enoch 6,County Commissioner A,,REP,MICHAEL P. BLEAK,137
+Iron,Enoch 6,County Commissioner B,,REP,STEVE MILLER,90
+Iron,Enoch 6,County Commissioner B,,REP,PAUL COZZENS,132
+Iron,Kanarraville,Registered Voters,,,,343
+Iron,Kanarraville,Ballots Cast,,,,168
+Iron,Kanarraville,U.S. Senate,,REP,BECKY EDWARDS,14
+Iron,Kanarraville,U.S. Senate,,REP,ALLY ISOM,9
+Iron,Kanarraville,U.S. Senate,,REP,MIKE LEE,145
+Iron,Kanarraville,U.S. House,2,REP,ERIN RIDER,26
+Iron,Kanarraville,U.S. House,2,REP,CHRIS STEWART,135
+Iron,Kanarraville,State Senate,28,REP,PATRICK L. LARSON,34
+Iron,Kanarraville,State Senate,28,REP,EVAN J. VICKERS,130
+Iron,Kanarraville,County Commissioner A,,REP,DESTRY GRIFFITHS,55
+Iron,Kanarraville,County Commissioner A,,REP,MICHAEL P. BLEAK,100
+Iron,Kanarraville,County Commissioner B,,REP,STEVE MILLER,66
+Iron,Kanarraville,County Commissioner B,,REP,PAUL COZZENS,100
+Iron,Midvalley,Registered Voters,,,,468
+Iron,Midvalley,Ballots Cast,,,,227
+Iron,Midvalley,U.S. Senate,,REP,BECKY EDWARDS,29
+Iron,Midvalley,U.S. Senate,,REP,ALLY ISOM,30
+Iron,Midvalley,U.S. Senate,,REP,MIKE LEE,165
+Iron,Midvalley,U.S. House,2,REP,ERIN RIDER,49
+Iron,Midvalley,U.S. House,2,REP,CHRIS STEWART,175
+Iron,Midvalley,State Senate,28,REP,PATRICK L. LARSON,69
+Iron,Midvalley,State Senate,28,REP,EVAN J. VICKERS,150
+Iron,Midvalley,County Commissioner A,,REP,DESTRY GRIFFITHS,82
+Iron,Midvalley,County Commissioner A,,REP,MICHAEL P. BLEAK,140
+Iron,Midvalley,County Commissioner B,,REP,STEVE MILLER,79
+Iron,Midvalley,County Commissioner B,,REP,PAUL COZZENS,146
+Iron,Parowan East,Registered Voters,,,,509
+Iron,Parowan East,Ballots Cast,,,,284
+Iron,Parowan East,U.S. Senate,,REP,BECKY EDWARDS,38
+Iron,Parowan East,U.S. Senate,,REP,ALLY ISOM,27
+Iron,Parowan East,U.S. Senate,,REP,MIKE LEE,212
+Iron,Parowan East,U.S. House,2,REP,ERIN RIDER,44
+Iron,Parowan East,U.S. House,2,REP,CHRIS STEWART,230
+Iron,Parowan East,State Senate,28,REP,PATRICK L. LARSON,46
+Iron,Parowan East,State Senate,28,REP,EVAN J. VICKERS,227
+Iron,Parowan East,County Commissioner A,,REP,DESTRY GRIFFITHS,90
+Iron,Parowan East,County Commissioner A,,REP,MICHAEL P. BLEAK,188
+Iron,Parowan East,County Commissioner B,,REP,STEVE MILLER,110
+Iron,Parowan East,County Commissioner B,,REP,PAUL COZZENS,172
+Iron,Paragonah,Registered Voters,,,,310
+Iron,Paragonah,Ballots Cast,,,,180
+Iron,Paragonah,U.S. Senate,,REP,BECKY EDWARDS,25
+Iron,Paragonah,U.S. Senate,,REP,ALLY ISOM,20
+Iron,Paragonah,U.S. Senate,,REP,MIKE LEE,134
+Iron,Paragonah,U.S. House,2,REP,ERIN RIDER,24
+Iron,Paragonah,U.S. House,2,REP,CHRIS STEWART,152
+Iron,Paragonah,State Senate,28,REP,PATRICK L. LARSON,45
+Iron,Paragonah,State Senate,28,REP,EVAN J. VICKERS,131
+Iron,Paragonah,County Commissioner A,,REP,DESTRY GRIFFITHS,62
+Iron,Paragonah,County Commissioner A,,REP,MICHAEL P. BLEAK,114
+Iron,Paragonah,County Commissioner B,,REP,STEVE MILLER,68
+Iron,Paragonah,County Commissioner B,,REP,PAUL COZZENS,109
+Iron,Parowan North,Registered Voters,,,,458
+Iron,Parowan North,Ballots Cast,,,,259
+Iron,Parowan North,U.S. Senate,,REP,BECKY EDWARDS,24
+Iron,Parowan North,U.S. Senate,,REP,ALLY ISOM,14
+Iron,Parowan North,U.S. Senate,,REP,MIKE LEE,220
+Iron,Parowan North,U.S. House,2,REP,ERIN RIDER,34
+Iron,Parowan North,U.S. House,2,REP,CHRIS STEWART,223
+Iron,Parowan North,State Senate,28,REP,PATRICK L. LARSON,48
+Iron,Parowan North,State Senate,28,REP,EVAN J. VICKERS,208
+Iron,Parowan North,County Commissioner A,,REP,DESTRY GRIFFITHS,69
+Iron,Parowan North,County Commissioner A,,REP,MICHAEL P. BLEAK,184
+Iron,Parowan North,County Commissioner B,,REP,STEVE MILLER,103
+Iron,Parowan North,County Commissioner B,,REP,PAUL COZZENS,153
+Iron,Parowan South,Registered Voters,,,,340
+Iron,Parowan South,Ballots Cast,,,,156
+Iron,Parowan South,U.S. Senate,,REP,BECKY EDWARDS,18
+Iron,Parowan South,U.S. Senate,,REP,ALLY ISOM,15
+Iron,Parowan South,U.S. Senate,,REP,MIKE LEE,122
+Iron,Parowan South,U.S. House,2,REP,ERIN RIDER,21
+Iron,Parowan South,U.S. House,2,REP,CHRIS STEWART,131
+Iron,Parowan South,State Senate,28,REP,PATRICK L. LARSON,55
+Iron,Parowan South,State Senate,28,REP,EVAN J. VICKERS,100
+Iron,Parowan South,County Commissioner A,,REP,DESTRY GRIFFITHS,64
+Iron,Parowan South,County Commissioner A,,REP,MICHAEL P. BLEAK,91
+Iron,Parowan South,County Commissioner B,,REP,STEVE MILLER,64
+Iron,Parowan South,County Commissioner B,,REP,PAUL COZZENS,89
+Iron,Parowan Valley,Registered Voters,,,,148
+Iron,Parowan Valley,Ballots Cast,,,,66
+Iron,Parowan Valley,U.S. Senate,,REP,BECKY EDWARDS,6
+Iron,Parowan Valley,U.S. Senate,,REP,ALLY ISOM,3
+Iron,Parowan Valley,U.S. Senate,,REP,MIKE LEE,56
+Iron,Parowan Valley,U.S. House,2,REP,ERIN RIDER,5
+Iron,Parowan Valley,U.S. House,2,REP,CHRIS STEWART,59
+Iron,Parowan Valley,State Senate,28,REP,PATRICK L. LARSON,14
+Iron,Parowan Valley,State Senate,28,REP,EVAN J. VICKERS,48
+Iron,Parowan Valley,County Commissioner A,,REP,DESTRY GRIFFITHS,22
+Iron,Parowan Valley,County Commissioner A,,REP,MICHAEL P. BLEAK,41
+Iron,Parowan Valley,County Commissioner B,,REP,STEVE MILLER,27
+Iron,Parowan Valley,County Commissioner B,,REP,PAUL COZZENS,38
+Iron,Summit,Registered Voters,,,,171
+Iron,Summit,Ballots Cast,,,,95
+Iron,Summit,U.S. Senate,,REP,BECKY EDWARDS,13
+Iron,Summit,U.S. Senate,,REP,ALLY ISOM,12
+Iron,Summit,U.S. Senate,,REP,MIKE LEE,70
+Iron,Summit,U.S. House,2,REP,ERIN RIDER,18
+Iron,Summit,U.S. House,2,REP,CHRIS STEWART,76
+Iron,Summit,State Senate,28,REP,PATRICK L. LARSON,23
+Iron,Summit,State Senate,28,REP,EVAN J. VICKERS,70
+Iron,Summit,County Commissioner A,,REP,DESTRY GRIFFITHS,39
+Iron,Summit,County Commissioner A,,REP,MICHAEL P. BLEAK,54
+Iron,Summit,County Commissioner B,,REP,STEVE MILLER,56
+Iron,Summit,County Commissioner B,,REP,PAUL COZZENS,39
+Iron,Westview,Registered Voters,,,,598
+Iron,Westview,Ballots Cast,,,,305
+Iron,Westview,U.S. Senate,,REP,BECKY EDWARDS,24
+Iron,Westview,U.S. Senate,,REP,ALLY ISOM,41
+Iron,Westview,U.S. Senate,,REP,MIKE LEE,238
+Iron,Westview,U.S. House,2,REP,ERIN RIDER,47
+Iron,Westview,U.S. House,2,REP,CHRIS STEWART,247
+Iron,Westview,State Senate,28,REP,PATRICK L. LARSON,80
+Iron,Westview,State Senate,28,REP,EVAN J. VICKERS,222
+Iron,Westview,County Commissioner A,,REP,DESTRY GRIFFITHS,137
+Iron,Westview,County Commissioner A,,REP,MICHAEL P. BLEAK,152
+Iron,Westview,County Commissioner B,,REP,STEVE MILLER,122
+Iron,Westview,County Commissioner B,,REP,PAUL COZZENS,181

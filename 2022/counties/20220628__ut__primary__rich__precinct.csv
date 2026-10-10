@@ -1,0 +1,71 @@
+county,precinct,office,district,party,candidate,votes
+Rich,1,U.S. Senate,,REP,Becky Edwards,28
+Rich,2,U.S. Senate,,REP,Becky Edwards,50
+Rich,3,U.S. Senate,,REP,Becky Edwards,32
+Rich,4,U.S. Senate,,REP,Becky Edwards,28
+Rich,5,U.S. Senate,,REP,Becky Edwards,17
+Rich,1,U.S. Senate,,REP,Ally Isom,9
+Rich,2,U.S. Senate,,REP,Ally Isom,13
+Rich,3,U.S. Senate,,REP,Ally Isom,16
+Rich,4,U.S. Senate,,REP,Ally Isom,15
+Rich,5,U.S. Senate,,REP,Ally Isom,7
+Rich,1,U.S. Senate,,REP,Mike Lee,162
+Rich,2,U.S. Senate,,REP,Mike Lee,157
+Rich,3,U.S. Senate,,REP,Mike Lee,144
+Rich,4,U.S. Senate,,REP,Mike Lee,90
+Rich,5,U.S. Senate,,REP,Mike Lee,96
+Rich,1,U.S. House,1,REP,Blake D. Moore,102
+Rich,2,U.S. House,1,REP,Blake D. Moore,124
+Rich,3,U.S. House,1,REP,Blake D. Moore,101
+Rich,4,U.S. House,1,REP,Blake D. Moore,67
+Rich,5,U.S. House,1,REP,Blake D. Moore,60
+Rich,1,U.S. House,1,REP,Tina Cannon,22
+Rich,2,U.S. House,1,REP,Tina Cannon,52
+Rich,3,U.S. House,1,REP,Tina Cannon,49
+Rich,4,U.S. House,1,REP,Tina Cannon,37
+Rich,5,U.S. House,1,REP,Tina Cannon,27
+Rich,1,U.S. House,1,REP,Andrew Badger,74
+Rich,2,U.S. House,1,REP,Andrew Badger,43
+Rich,3,U.S. House,1,REP,Andrew Badger,37
+Rich,4,U.S. House,1,REP,Andrew Badger,27
+Rich,5,U.S. House,1,REP,Andrew Badger,32
+Rich,1,State House,4,REP,Kera Birkeland,141
+Rich,2,State House,4,REP,Kera Birkeland,162
+Rich,3,State House,4,REP,Kera Birkeland,141
+Rich,4,State House,4,REP,Kera Birkeland,76
+Rich,5,State House,4,REP,Kera Birkeland,75
+Rich,1,State House,4,REP,Raelene Blocker,56
+Rich,2,State House,4,REP,Raelene Blocker,53
+Rich,3,State House,4,REP,Raelene Blocker,48
+Rich,4,State House,4,REP,Raelene Blocker,54
+Rich,5,State House,4,REP,Raelene Blocker,40
+Rich,1,Clerk/Auditor,,REP,Anneliesa Peart,109
+Rich,2,Clerk/Auditor,,REP,Anneliesa Peart,142
+Rich,3,Clerk/Auditor,,REP,Anneliesa Peart,99
+Rich,4,Clerk/Auditor,,REP,Anneliesa Peart,73
+Rich,5,Clerk/Auditor,,REP,Anneliesa Peart,73
+Rich,1,Clerk/Auditor,,REP,Justin O'Mealy,89
+Rich,2,Clerk/Auditor,,REP,Justin O'Mealy,77
+Rich,3,Clerk/Auditor,,REP,Justin O'Mealy,96
+Rich,4,Clerk/Auditor,,REP,Justin O'Mealy,56
+Rich,5,Clerk/Auditor,,REP,Justin O'Mealy,44
+Rich,1,Commissioner A,,REP,Geo Peart,49
+Rich,2,Commissioner A,,REP,Geo Peart,113
+Rich,3,Commissioner A,,REP,Geo Peart,89
+Rich,4,Commissioner A,,REP,Geo Peart,84
+Rich,5,Commissioner A,,REP,Geo Peart,66
+Rich,1,Commissioner A,,REP,Bill Cox,151
+Rich,2,Commissioner A,,REP,Bill Cox,110
+Rich,3,Commissioner A,,REP,Bill Cox,105
+Rich,4,Commissioner A,,REP,Bill Cox,48
+Rich,5,Commissioner A,,REP,Bill Cox,51
+Rich,1,Registered Voters,,,,313
+Rich,1,Ballots Cast,,,,202
+Rich,2,Registered Voters,,,,316
+Rich,2,Ballots Cast,,,,224
+Rich,3,Registered Voters,,,,286
+Rich,3,Ballots Cast,,,,196
+Rich,4,Registered Voters,,,,289
+Rich,4,Ballots Cast,,,,134
+Rich,5,Registered Voters,,,,268
+Rich,5,Ballots Cast,,,,120

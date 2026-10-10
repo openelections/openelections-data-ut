@@ -1,0 +1,671 @@
+county,precinct,office,district,party,candidate,votes
+Tooele,EC01,Registered Voters,,,,208
+Tooele,EC01,Ballots Cast,,,,92
+Tooele,EC01,U.S. Senate,,REP,MIKE LEE,70
+Tooele,EC01,U.S. Senate,,REP,BECKY EDWARDS,11
+Tooele,EC01,U.S. Senate,,REP,ALLY ISOM,11
+Tooele,EC01,U.S. House,2,REP,CHRIS STEWART,83
+Tooele,EC01,U.S. House,2,REP,ERIN RIDER,8
+Tooele,EC03:2,Registered Voters,,,,184
+Tooele,EC03:2,Ballots Cast,,,,77
+Tooele,EC03:2,U.S. Senate,,REP,MIKE LEE,65
+Tooele,EC03:2,U.S. Senate,,REP,ALLY ISOM,7
+Tooele,EC03:2,U.S. Senate,,REP,BECKY EDWARDS,5
+Tooele,EC03:2,U.S. House,2,REP,CHRIS STEWART,68
+Tooele,EC03:2,U.S. House,2,REP,ERIN RIDER,9
+Tooele,EC04:2,Registered Voters,,,,38
+Tooele,EC04:2,Ballots Cast,,,,19
+Tooele,EC04:2,U.S. Senate,,REP,MIKE LEE,15
+Tooele,EC04:2,U.S. Senate,,REP,BECKY EDWARDS,4
+Tooele,EC04:2,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,EC04:2,U.S. House,2,REP,CHRIS STEWART,17
+Tooele,EC04:2,U.S. House,2,REP,ERIN RIDER,2
+Tooele,LC01,Registered Voters,,,,230
+Tooele,LC01,Ballots Cast,,,,103
+Tooele,LC01,U.S. Senate,,REP,MIKE LEE,67
+Tooele,LC01,U.S. Senate,,REP,ALLY ISOM,18
+Tooele,LC01,U.S. Senate,,REP,BECKY EDWARDS,17
+Tooele,LC01,U.S. House,2,REP,CHRIS STEWART,81
+Tooele,LC01,U.S. House,2,REP,ERIN RIDER,22
+Tooele,SP01,Registered Voters,,,,416
+Tooele,SP01,Ballots Cast,,,,154
+Tooele,SP01,U.S. Senate,,REP,MIKE LEE,103
+Tooele,SP01,U.S. Senate,,REP,BECKY EDWARDS,43
+Tooele,SP01,U.S. Senate,,REP,ALLY ISOM,7
+Tooele,SP01,U.S. House,2,REP,CHRIS STEWART,116
+Tooele,SP01,U.S. House,2,REP,ERIN RIDER,37
+Tooele,SP02,Registered Voters,,,,384
+Tooele,SP02,Ballots Cast,,,,154
+Tooele,SP02,U.S. Senate,,REP,MIKE LEE,92
+Tooele,SP02,U.S. Senate,,REP,BECKY EDWARDS,50
+Tooele,SP02,U.S. Senate,,REP,ALLY ISOM,12
+Tooele,SP02,U.S. House,2,REP,CHRIS STEWART,110
+Tooele,SP02,U.S. House,2,REP,ERIN RIDER,42
+Tooele,SP09:1,Registered Voters,,,,279
+Tooele,SP09:1,Ballots Cast,,,,116
+Tooele,SP09:1,U.S. Senate,,REP,MIKE LEE,80
+Tooele,SP09:1,U.S. Senate,,REP,BECKY EDWARDS,25
+Tooele,SP09:1,U.S. Senate,,REP,ALLY ISOM,11
+Tooele,SP09:1,U.S. House,2,REP,CHRIS STEWART,84
+Tooele,SP09:1,U.S. House,2,REP,ERIN RIDER,30
+Tooele,SP09:2,Registered Voters,,,,0
+Tooele,SP09:2,Ballots Cast,,,,0
+Tooele,SP09:2,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,SP09:2,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,SP09:2,U.S. Senate,,REP,MIKE LEE,0
+Tooele,SP09:2,U.S. House,2,REP,ERIN RIDER,0
+Tooele,SP09:2,U.S. House,2,REP,CHRIS STEWART,0
+Tooele,SP09:3,Registered Voters,,,,0
+Tooele,SP09:3,Ballots Cast,,,,0
+Tooele,SP09:3,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,SP09:3,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,SP09:3,U.S. Senate,,REP,MIKE LEE,0
+Tooele,SP09:3,U.S. House,2,REP,ERIN RIDER,0
+Tooele,SP09:3,U.S. House,2,REP,CHRIS STEWART,0
+Tooele,SP10,Registered Voters,,,,240
+Tooele,SP10,Ballots Cast,,,,123
+Tooele,SP10,U.S. Senate,,REP,MIKE LEE,72
+Tooele,SP10,U.S. Senate,,REP,BECKY EDWARDS,30
+Tooele,SP10,U.S. Senate,,REP,ALLY ISOM,21
+Tooele,SP10,U.S. House,2,REP,CHRIS STEWART,88
+Tooele,SP10,U.S. House,2,REP,ERIN RIDER,31
+Tooele,ST02:3U,Registered Voters,,,,0
+Tooele,ST02:3U,Ballots Cast,,,,0
+Tooele,ST02:3U,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,ST02:3U,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,ST02:3U,U.S. Senate,,REP,MIKE LEE,0
+Tooele,ST02:3U,U.S. House,2,REP,ERIN RIDER,0
+Tooele,ST02:3U,U.S. House,2,REP,CHRIS STEWART,0
+Tooele,TC01,Registered Voters,,,,374
+Tooele,TC01,Ballots Cast,,,,197
+Tooele,TC01,U.S. Senate,,REP,MIKE LEE,122
+Tooele,TC01,U.S. Senate,,REP,BECKY EDWARDS,54
+Tooele,TC01,U.S. Senate,,REP,ALLY ISOM,21
+Tooele,TC01,U.S. House,2,REP,CHRIS STEWART,140
+Tooele,TC01,U.S. House,2,REP,ERIN RIDER,55
+Tooele,TC02,Registered Voters,,,,231
+Tooele,TC02,Ballots Cast,,,,114
+Tooele,TC02,U.S. Senate,,REP,MIKE LEE,65
+Tooele,TC02,U.S. Senate,,REP,BECKY EDWARDS,37
+Tooele,TC02,U.S. Senate,,REP,ALLY ISOM,12
+Tooele,TC02,U.S. House,2,REP,CHRIS STEWART,74
+Tooele,TC02,U.S. House,2,REP,ERIN RIDER,39
+Tooele,TC03:1,Registered Voters,,,,460
+Tooele,TC03:1,Ballots Cast,,,,211
+Tooele,TC03:1,U.S. Senate,,REP,MIKE LEE,132
+Tooele,TC03:1,U.S. Senate,,REP,BECKY EDWARDS,56
+Tooele,TC03:1,U.S. Senate,,REP,ALLY ISOM,23
+Tooele,TC03:1,U.S. House,2,REP,CHRIS STEWART,153
+Tooele,TC03:1,U.S. House,2,REP,ERIN RIDER,56
+Tooele,TC03:2U,Registered Voters,,,,12
+Tooele,TC03:2U,Ballots Cast,,,,9
+Tooele,TC03:2U,U.S. Senate,,REP,MIKE LEE,9
+Tooele,TC03:2U,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,TC03:2U,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,TC03:2U,U.S. House,2,REP,CHRIS STEWART,9
+Tooele,TC03:2U,U.S. House,2,REP,ERIN RIDER,0
+Tooele,TC04,Registered Voters,,,,368
+Tooele,TC04,Ballots Cast,,,,179
+Tooele,TC04,U.S. Senate,,REP,MIKE LEE,126
+Tooele,TC04,U.S. Senate,,REP,BECKY EDWARDS,39
+Tooele,TC04,U.S. Senate,,REP,ALLY ISOM,14
+Tooele,TC04,U.S. House,2,REP,CHRIS STEWART,144
+Tooele,TC04,U.S. House,2,REP,ERIN RIDER,35
+Tooele,TC05,Registered Voters,,,,298
+Tooele,TC05,Ballots Cast,,,,119
+Tooele,TC05,U.S. Senate,,REP,MIKE LEE,82
+Tooele,TC05,U.S. Senate,,REP,BECKY EDWARDS,27
+Tooele,TC05,U.S. Senate,,REP,ALLY ISOM,8
+Tooele,TC05,U.S. House,2,REP,CHRIS STEWART,96
+Tooele,TC05,U.S. House,2,REP,ERIN RIDER,22
+Tooele,TC06,Registered Voters,,,,329
+Tooele,TC06,Ballots Cast,,,,123
+Tooele,TC06,U.S. Senate,,REP,MIKE LEE,84
+Tooele,TC06,U.S. Senate,,REP,BECKY EDWARDS,22
+Tooele,TC06,U.S. Senate,,REP,ALLY ISOM,17
+Tooele,TC06,U.S. House,2,REP,CHRIS STEWART,93
+Tooele,TC06,U.S. House,2,REP,ERIN RIDER,29
+Tooele,TC07,Registered Voters,,,,263
+Tooele,TC07,Ballots Cast,,,,100
+Tooele,TC07,U.S. Senate,,REP,MIKE LEE,65
+Tooele,TC07,U.S. Senate,,REP,BECKY EDWARDS,27
+Tooele,TC07,U.S. Senate,,REP,ALLY ISOM,7
+Tooele,TC07,U.S. House,2,REP,CHRIS STEWART,74
+Tooele,TC07,U.S. House,2,REP,ERIN RIDER,25
+Tooele,TC08,Registered Voters,,,,305
+Tooele,TC08,Ballots Cast,,,,106
+Tooele,TC08,U.S. Senate,,REP,MIKE LEE,91
+Tooele,TC08,U.S. Senate,,REP,BECKY EDWARDS,12
+Tooele,TC08,U.S. Senate,,REP,ALLY ISOM,3
+Tooele,TC08,U.S. House,2,REP,CHRIS STEWART,91
+Tooele,TC08,U.S. House,2,REP,ERIN RIDER,15
+Tooele,TC09,Registered Voters,,,,299
+Tooele,TC09,Ballots Cast,,,,103
+Tooele,TC09,U.S. Senate,,REP,MIKE LEE,80
+Tooele,TC09,U.S. Senate,,REP,BECKY EDWARDS,19
+Tooele,TC09,U.S. Senate,,REP,ALLY ISOM,4
+Tooele,TC09,U.S. House,2,REP,CHRIS STEWART,79
+Tooele,TC09,U.S. House,2,REP,ERIN RIDER,24
+Tooele,TC10,Registered Voters,,,,316
+Tooele,TC10,Ballots Cast,,,,130
+Tooele,TC10,U.S. Senate,,REP,MIKE LEE,79
+Tooele,TC10,U.S. Senate,,REP,BECKY EDWARDS,36
+Tooele,TC10,U.S. Senate,,REP,ALLY ISOM,15
+Tooele,TC10,U.S. House,2,REP,CHRIS STEWART,93
+Tooele,TC10,U.S. House,2,REP,ERIN RIDER,37
+Tooele,TC11,Registered Voters,,,,386
+Tooele,TC11,Ballots Cast,,,,144
+Tooele,TC11,U.S. Senate,,REP,MIKE LEE,89
+Tooele,TC11,U.S. Senate,,REP,BECKY EDWARDS,39
+Tooele,TC11,U.S. Senate,,REP,ALLY ISOM,16
+Tooele,TC11,U.S. House,2,REP,CHRIS STEWART,104
+Tooele,TC11,U.S. House,2,REP,ERIN RIDER,40
+Tooele,TC12,Registered Voters,,,,332
+Tooele,TC12,Ballots Cast,,,,131
+Tooele,TC12,U.S. Senate,,REP,MIKE LEE,101
+Tooele,TC12,U.S. Senate,,REP,BECKY EDWARDS,21
+Tooele,TC12,U.S. Senate,,REP,ALLY ISOM,9
+Tooele,TC12,U.S. House,2,REP,CHRIS STEWART,115
+Tooele,TC12,U.S. House,2,REP,ERIN RIDER,16
+Tooele,TC13,Registered Voters,,,,301
+Tooele,TC13,Ballots Cast,,,,74
+Tooele,TC13,U.S. Senate,,REP,MIKE LEE,46
+Tooele,TC13,U.S. Senate,,REP,BECKY EDWARDS,19
+Tooele,TC13,U.S. Senate,,REP,ALLY ISOM,9
+Tooele,TC13,U.S. House,2,REP,CHRIS STEWART,56
+Tooele,TC13,U.S. House,2,REP,ERIN RIDER,18
+Tooele,TC14,Registered Voters,,,,326
+Tooele,TC14,Ballots Cast,,,,107
+Tooele,TC14,U.S. Senate,,REP,MIKE LEE,63
+Tooele,TC14,U.S. Senate,,REP,BECKY EDWARDS,25
+Tooele,TC14,U.S. Senate,,REP,ALLY ISOM,19
+Tooele,TC14,U.S. House,2,REP,CHRIS STEWART,83
+Tooele,TC14,U.S. House,2,REP,ERIN RIDER,24
+Tooele,TC15,Registered Voters,,,,392
+Tooele,TC15,Ballots Cast,,,,100
+Tooele,TC15,U.S. Senate,,REP,MIKE LEE,66
+Tooele,TC15,U.S. Senate,,REP,BECKY EDWARDS,23
+Tooele,TC15,U.S. Senate,,REP,ALLY ISOM,11
+Tooele,TC15,U.S. House,2,REP,CHRIS STEWART,73
+Tooele,TC15,U.S. House,2,REP,ERIN RIDER,27
+Tooele,TC16,Registered Voters,,,,358
+Tooele,TC16,Ballots Cast,,,,132
+Tooele,TC16,U.S. Senate,,REP,MIKE LEE,82
+Tooele,TC16,U.S. Senate,,REP,BECKY EDWARDS,37
+Tooele,TC16,U.S. Senate,,REP,ALLY ISOM,13
+Tooele,TC16,U.S. House,2,REP,CHRIS STEWART,97
+Tooele,TC16,U.S. House,2,REP,ERIN RIDER,34
+Tooele,TC17,Registered Voters,,,,328
+Tooele,TC17,Ballots Cast,,,,82
+Tooele,TC17,U.S. Senate,,REP,MIKE LEE,50
+Tooele,TC17,U.S. Senate,,REP,BECKY EDWARDS,23
+Tooele,TC17,U.S. Senate,,REP,ALLY ISOM,9
+Tooele,TC17,U.S. House,2,REP,CHRIS STEWART,51
+Tooele,TC17,U.S. House,2,REP,ERIN RIDER,31
+Tooele,TC18,Registered Voters,,,,333
+Tooele,TC18,Ballots Cast,,,,133
+Tooele,TC18,U.S. Senate,,REP,MIKE LEE,95
+Tooele,TC18,U.S. Senate,,REP,BECKY EDWARDS,29
+Tooele,TC18,U.S. Senate,,REP,ALLY ISOM,9
+Tooele,TC18,U.S. House,2,REP,CHRIS STEWART,102
+Tooele,TC18,U.S. House,2,REP,ERIN RIDER,31
+Tooele,TC19,Registered Voters,,,,354
+Tooele,TC19,Ballots Cast,,,,127
+Tooele,TC19,U.S. Senate,,REP,MIKE LEE,100
+Tooele,TC19,U.S. Senate,,REP,BECKY EDWARDS,25
+Tooele,TC19,U.S. Senate,,REP,ALLY ISOM,2
+Tooele,TC19,U.S. House,2,REP,CHRIS STEWART,103
+Tooele,TC19,U.S. House,2,REP,ERIN RIDER,22
+Tooele,TC20,Registered Voters,,,,414
+Tooele,TC20,Ballots Cast,,,,195
+Tooele,TC20,U.S. Senate,,REP,MIKE LEE,144
+Tooele,TC20,U.S. Senate,,REP,BECKY EDWARDS,42
+Tooele,TC20,U.S. Senate,,REP,ALLY ISOM,9
+Tooele,TC20,U.S. House,2,REP,CHRIS STEWART,164
+Tooele,TC20,U.S. House,2,REP,ERIN RIDER,31
+Tooele,TC21,Registered Voters,,,,447
+Tooele,TC21,Ballots Cast,,,,168
+Tooele,TC21,U.S. Senate,,REP,MIKE LEE,126
+Tooele,TC21,U.S. Senate,,REP,BECKY EDWARDS,32
+Tooele,TC21,U.S. Senate,,REP,ALLY ISOM,9
+Tooele,TC21,U.S. House,2,REP,CHRIS STEWART,138
+Tooele,TC21,U.S. House,2,REP,ERIN RIDER,30
+Tooele,TC22,Registered Voters,,,,331
+Tooele,TC22,Ballots Cast,,,,124
+Tooele,TC22,U.S. Senate,,REP,MIKE LEE,85
+Tooele,TC22,U.S. Senate,,REP,BECKY EDWARDS,35
+Tooele,TC22,U.S. Senate,,REP,ALLY ISOM,4
+Tooele,TC22,U.S. House,2,REP,CHRIS STEWART,97
+Tooele,TC22,U.S. House,2,REP,ERIN RIDER,26
+Tooele,DG01,Registered Voters,,,,41
+Tooele,DG01,Ballots Cast,,,,13
+Tooele,DG01,U.S. Senate,,REP,MIKE LEE,10
+Tooele,DG01,U.S. Senate,,REP,BECKY EDWARDS,2
+Tooele,DG01,U.S. Senate,,REP,ALLY ISOM,1
+Tooele,DG01,U.S. House,2,REP,CHRIS STEWART,9
+Tooele,DG01,U.S. House,2,REP,ERIN RIDER,4
+Tooele,DG01,State House,29,REP,BRIDGER BOLINDER,8
+Tooele,DG01,State House,29,REP,MARK A. HUNTSMAN,5
+Tooele,DG02,Registered Voters,,,,15
+Tooele,DG02,Ballots Cast,,,,5
+Tooele,DG02,U.S. Senate,,REP,MIKE LEE,5
+Tooele,DG02,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,DG02,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,DG02,U.S. House,2,REP,ERIN RIDER,3
+Tooele,DG02,U.S. House,2,REP,CHRIS STEWART,2
+Tooele,DG02,State House,29,REP,BRIDGER BOLINDER,4
+Tooele,DG02,State House,29,REP,MARK A. HUNTSMAN,1
+Tooele,EC02:1,Registered Voters,,,,1
+Tooele,EC02:1,Ballots Cast,,,,0
+Tooele,EC02:1,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,EC02:1,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,EC02:1,U.S. Senate,,REP,MIKE LEE,0
+Tooele,EC02:1,U.S. House,2,REP,ERIN RIDER,0
+Tooele,EC02:1,U.S. House,2,REP,CHRIS STEWART,0
+Tooele,EC02:1,State House,29,REP,MARK A. HUNTSMAN,0
+Tooele,EC02:1,State House,29,REP,BRIDGER BOLINDER,0
+Tooele,EC02:2,Registered Voters,,,,227
+Tooele,EC02:2,Ballots Cast,,,,93
+Tooele,EC02:2,U.S. Senate,,REP,MIKE LEE,75
+Tooele,EC02:2,U.S. Senate,,REP,BECKY EDWARDS,10
+Tooele,EC02:2,U.S. Senate,,REP,ALLY ISOM,8
+Tooele,EC02:2,U.S. House,2,REP,CHRIS STEWART,71
+Tooele,EC02:2,U.S. House,2,REP,ERIN RIDER,20
+Tooele,EC02:2,State House,29,REP,BRIDGER BOLINDER,75
+Tooele,EC02:2,State House,29,REP,MARK A. HUNTSMAN,17
+Tooele,EC03:1,Registered Voters,,,,69
+Tooele,EC03:1,Ballots Cast,,,,21
+Tooele,EC03:1,U.S. Senate,,REP,MIKE LEE,18
+Tooele,EC03:1,U.S. Senate,,REP,ALLY ISOM,3
+Tooele,EC03:1,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,EC03:1,U.S. House,2,REP,CHRIS STEWART,20
+Tooele,EC03:1,U.S. House,2,REP,ERIN RIDER,1
+Tooele,EC03:1,State House,29,REP,BRIDGER BOLINDER,13
+Tooele,EC03:1,State House,29,REP,MARK A. HUNTSMAN,8
+Tooele,EC04:1,Registered Voters,,,,171
+Tooele,EC04:1,Ballots Cast,,,,72
+Tooele,EC04:1,U.S. Senate,,REP,MIKE LEE,48
+Tooele,EC04:1,U.S. Senate,,REP,ALLY ISOM,16
+Tooele,EC04:1,U.S. Senate,,REP,BECKY EDWARDS,8
+Tooele,EC04:1,U.S. House,2,REP,CHRIS STEWART,57
+Tooele,EC04:1,U.S. House,2,REP,ERIN RIDER,15
+Tooele,EC04:1,State House,29,REP,BRIDGER BOLINDER,59
+Tooele,EC04:1,State House,29,REP,MARK A. HUNTSMAN,13
+Tooele,EC05,Registered Voters,,,,323
+Tooele,EC05,Ballots Cast,,,,114
+Tooele,EC05,U.S. Senate,,REP,MIKE LEE,72
+Tooele,EC05,U.S. Senate,,REP,BECKY EDWARDS,27
+Tooele,EC05,U.S. Senate,,REP,ALLY ISOM,15
+Tooele,EC05,U.S. House,2,REP,CHRIS STEWART,83
+Tooele,EC05,U.S. House,2,REP,ERIN RIDER,31
+Tooele,EC05,State House,29,REP,BRIDGER BOLINDER,85
+Tooele,EC05,State House,29,REP,MARK A. HUNTSMAN,29
+Tooele,RV01:1,Registered Voters,,,,161
+Tooele,RV01:1,Ballots Cast,,,,81
+Tooele,RV01:1,U.S. Senate,,REP,MIKE LEE,63
+Tooele,RV01:1,U.S. Senate,,REP,BECKY EDWARDS,10
+Tooele,RV01:1,U.S. Senate,,REP,ALLY ISOM,8
+Tooele,RV01:1,U.S. House,2,REP,CHRIS STEWART,67
+Tooele,RV01:1,U.S. House,2,REP,ERIN RIDER,14
+Tooele,RV01:1,State House,29,REP,BRIDGER BOLINDER,54
+Tooele,RV01:1,State House,29,REP,MARK A. HUNTSMAN,27
+Tooele,RV01:2U,Registered Voters,,,,42
+Tooele,RV01:2U,Ballots Cast,,,,18
+Tooele,RV01:2U,U.S. Senate,,REP,MIKE LEE,11
+Tooele,RV01:2U,U.S. Senate,,REP,BECKY EDWARDS,6
+Tooele,RV01:2U,U.S. Senate,,REP,ALLY ISOM,1
+Tooele,RV01:2U,U.S. House,2,REP,CHRIS STEWART,17
+Tooele,RV01:2U,U.S. House,2,REP,ERIN RIDER,1
+Tooele,RV01:2U,State House,29,REP,BRIDGER BOLINDER,10
+Tooele,RV01:2U,State House,29,REP,MARK A. HUNTSMAN,8
+Tooele,SP03:1,Registered Voters,,,,316
+Tooele,SP03:1,Ballots Cast,,,,97
+Tooele,SP03:1,U.S. Senate,,REP,MIKE LEE,55
+Tooele,SP03:1,U.S. Senate,,REP,BECKY EDWARDS,31
+Tooele,SP03:1,U.S. Senate,,REP,ALLY ISOM,11
+Tooele,SP03:1,U.S. House,2,REP,CHRIS STEWART,60
+Tooele,SP03:1,U.S. House,2,REP,ERIN RIDER,36
+Tooele,SP03:1,State House,29,REP,BRIDGER BOLINDER,66
+Tooele,SP03:1,State House,29,REP,MARK A. HUNTSMAN,31
+Tooele,SP03:2,Registered Voters,,,,94
+Tooele,SP03:2,Ballots Cast,,,,29
+Tooele,SP03:2,U.S. Senate,,REP,MIKE LEE,23
+Tooele,SP03:2,U.S. Senate,,REP,BECKY EDWARDS,6
+Tooele,SP03:2,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,SP03:2,U.S. House,2,REP,CHRIS STEWART,23
+Tooele,SP03:2,U.S. House,2,REP,ERIN RIDER,6
+Tooele,SP03:2,State House,29,REP,BRIDGER BOLINDER,21
+Tooele,SP03:2,State House,29,REP,MARK A. HUNTSMAN,8
+Tooele,SP04:1,Registered Voters,,,,349
+Tooele,SP04:1,Ballots Cast,,,,105
+Tooele,SP04:1,U.S. Senate,,REP,MIKE LEE,73
+Tooele,SP04:1,U.S. Senate,,REP,BECKY EDWARDS,19
+Tooele,SP04:1,U.S. Senate,,REP,ALLY ISOM,13
+Tooele,SP04:1,U.S. House,2,REP,CHRIS STEWART,73
+Tooele,SP04:1,U.S. House,2,REP,ERIN RIDER,32
+Tooele,SP04:1,State House,29,REP,BRIDGER BOLINDER,72
+Tooele,SP04:1,State House,29,REP,MARK A. HUNTSMAN,31
+Tooele,SP04:2,Registered Voters,,,,8
+Tooele,SP04:2,Ballots Cast,,,,2
+Tooele,SP04:2,U.S. Senate,,REP,BECKY EDWARDS,1
+Tooele,SP04:2,U.S. Senate,,REP,MIKE LEE,1
+Tooele,SP04:2,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,SP04:2,U.S. House,2,REP,ERIN RIDER,1
+Tooele,SP04:2,U.S. House,2,REP,CHRIS STEWART,1
+Tooele,SP04:2,State House,29,REP,BRIDGER BOLINDER,2
+Tooele,SP04:2,State House,29,REP,MARK A. HUNTSMAN,0
+Tooele,SP05,Registered Voters,,,,346
+Tooele,SP05,Ballots Cast,,,,149
+Tooele,SP05,U.S. Senate,,REP,MIKE LEE,85
+Tooele,SP05,U.S. Senate,,REP,BECKY EDWARDS,50
+Tooele,SP05,U.S. Senate,,REP,ALLY ISOM,11
+Tooele,SP05,U.S. House,2,REP,CHRIS STEWART,105
+Tooele,SP05,U.S. House,2,REP,ERIN RIDER,38
+Tooele,SP05,State House,29,REP,BRIDGER BOLINDER,120
+Tooele,SP05,State House,29,REP,MARK A. HUNTSMAN,28
+Tooele,SP06,Registered Voters,,,,316
+Tooele,SP06,Ballots Cast,,,,154
+Tooele,SP06,U.S. Senate,,REP,MIKE LEE,97
+Tooele,SP06,U.S. Senate,,REP,BECKY EDWARDS,42
+Tooele,SP06,U.S. Senate,,REP,ALLY ISOM,15
+Tooele,SP06,U.S. House,2,REP,CHRIS STEWART,105
+Tooele,SP06,U.S. House,2,REP,ERIN RIDER,46
+Tooele,SP06,State House,29,REP,BRIDGER BOLINDER,96
+Tooele,SP06,State House,29,REP,MARK A. HUNTSMAN,55
+Tooele,SP07,Registered Voters,,,,226
+Tooele,SP07,Ballots Cast,,,,65
+Tooele,SP07,U.S. Senate,,REP,MIKE LEE,41
+Tooele,SP07,U.S. Senate,,REP,BECKY EDWARDS,21
+Tooele,SP07,U.S. Senate,,REP,ALLY ISOM,3
+Tooele,SP07,U.S. House,2,REP,CHRIS STEWART,45
+Tooele,SP07,U.S. House,2,REP,ERIN RIDER,20
+Tooele,SP07,State House,29,REP,BRIDGER BOLINDER,46
+Tooele,SP07,State House,29,REP,MARK A. HUNTSMAN,19
+Tooele,SP08,Registered Voters,,,,399
+Tooele,SP08,Ballots Cast,,,,140
+Tooele,SP08,U.S. Senate,,REP,MIKE LEE,79
+Tooele,SP08,U.S. Senate,,REP,BECKY EDWARDS,46
+Tooele,SP08,U.S. Senate,,REP,ALLY ISOM,15
+Tooele,SP08,U.S. House,2,REP,CHRIS STEWART,87
+Tooele,SP08,U.S. House,2,REP,ERIN RIDER,52
+Tooele,SP08,State House,29,REP,BRIDGER BOLINDER,88
+Tooele,SP08,State House,29,REP,MARK A. HUNTSMAN,51
+Tooele,ST01:1,Registered Voters,,,,113
+Tooele,ST01:1,Ballots Cast,,,,56
+Tooele,ST01:1,U.S. Senate,,REP,MIKE LEE,38
+Tooele,ST01:1,U.S. Senate,,REP,BECKY EDWARDS,12
+Tooele,ST01:1,U.S. Senate,,REP,ALLY ISOM,6
+Tooele,ST01:1,U.S. House,2,REP,CHRIS STEWART,48
+Tooele,ST01:1,U.S. House,2,REP,ERIN RIDER,8
+Tooele,ST01:1,State House,29,REP,MARK A. HUNTSMAN,28
+Tooele,ST01:1,State House,29,REP,BRIDGER BOLINDER,27
+Tooele,ST01:2U,Registered Voters,,,,11
+Tooele,ST01:2U,Ballots Cast,,,,6
+Tooele,ST01:2U,U.S. Senate,,REP,MIKE LEE,4
+Tooele,ST01:2U,U.S. Senate,,REP,BECKY EDWARDS,2
+Tooele,ST01:2U,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,ST01:2U,U.S. House,2,REP,CHRIS STEWART,4
+Tooele,ST01:2U,U.S. House,2,REP,ERIN RIDER,0
+Tooele,ST01:2U,State House,29,REP,MARK A. HUNTSMAN,2
+Tooele,ST01:2U,State House,29,REP,BRIDGER BOLINDER,2
+Tooele,ST01:3U,Registered Voters,,,,16
+Tooele,ST01:3U,Ballots Cast,,,,5
+Tooele,ST01:3U,U.S. Senate,,REP,MIKE LEE,4
+Tooele,ST01:3U,U.S. Senate,,REP,ALLY ISOM,1
+Tooele,ST01:3U,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,ST01:3U,U.S. House,2,REP,CHRIS STEWART,4
+Tooele,ST01:3U,U.S. House,2,REP,ERIN RIDER,0
+Tooele,ST01:3U,State House,29,REP,MARK A. HUNTSMAN,3
+Tooele,ST01:3U,State House,29,REP,BRIDGER BOLINDER,2
+Tooele,ST02:1,Registered Voters,,,,72
+Tooele,ST02:1,Ballots Cast,,,,35
+Tooele,ST02:1,U.S. Senate,,REP,MIKE LEE,22
+Tooele,ST02:1,U.S. Senate,,REP,BECKY EDWARDS,9
+Tooele,ST02:1,U.S. Senate,,REP,ALLY ISOM,4
+Tooele,ST02:1,U.S. House,2,REP,CHRIS STEWART,29
+Tooele,ST02:1,U.S. House,2,REP,ERIN RIDER,6
+Tooele,ST02:1,State House,29,REP,BRIDGER BOLINDER,30
+Tooele,ST02:1,State House,29,REP,MARK A. HUNTSMAN,5
+Tooele,ST02:2U,Registered Voters,,,,376
+Tooele,ST02:2U,Ballots Cast,,,,125
+Tooele,ST02:2U,U.S. Senate,,REP,MIKE LEE,95
+Tooele,ST02:2U,U.S. Senate,,REP,BECKY EDWARDS,15
+Tooele,ST02:2U,U.S. Senate,,REP,ALLY ISOM,15
+Tooele,ST02:2U,U.S. House,2,REP,CHRIS STEWART,95
+Tooele,ST02:2U,U.S. House,2,REP,ERIN RIDER,28
+Tooele,ST02:2U,State House,29,REP,BRIDGER BOLINDER,95
+Tooele,ST02:2U,State House,29,REP,MARK A. HUNTSMAN,27
+Tooele,TE01,Registered Voters,,,,34
+Tooele,TE01,Ballots Cast,,,,14
+Tooele,TE01,U.S. Senate,,REP,MIKE LEE,9
+Tooele,TE01,U.S. Senate,,REP,BECKY EDWARDS,5
+Tooele,TE01,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,TE01,U.S. House,2,REP,CHRIS STEWART,13
+Tooele,TE01,U.S. House,2,REP,ERIN RIDER,1
+Tooele,TE01,State House,29,REP,BRIDGER BOLINDER,9
+Tooele,TE01,State House,29,REP,MARK A. HUNTSMAN,5
+Tooele,VR01:1,Registered Voters,,,,91
+Tooele,VR01:1,Ballots Cast,,,,42
+Tooele,VR01:1,U.S. Senate,,REP,MIKE LEE,37
+Tooele,VR01:1,U.S. Senate,,REP,BECKY EDWARDS,4
+Tooele,VR01:1,U.S. Senate,,REP,ALLY ISOM,1
+Tooele,VR01:1,U.S. House,2,REP,CHRIS STEWART,39
+Tooele,VR01:1,U.S. House,2,REP,ERIN RIDER,3
+Tooele,VR01:1,State House,29,REP,BRIDGER BOLINDER,35
+Tooele,VR01:1,State House,29,REP,MARK A. HUNTSMAN,7
+Tooele,VR01:2U,Registered Voters,,,,18
+Tooele,VR01:2U,Ballots Cast,,,,6
+Tooele,VR01:2U,U.S. Senate,,REP,MIKE LEE,4
+Tooele,VR01:2U,U.S. Senate,,REP,BECKY EDWARDS,2
+Tooele,VR01:2U,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,VR01:2U,U.S. House,2,REP,CHRIS STEWART,4
+Tooele,VR01:2U,U.S. House,2,REP,ERIN RIDER,2
+Tooele,VR01:2U,State House,29,REP,BRIDGER BOLINDER,6
+Tooele,VR01:2U,State House,29,REP,MARK A. HUNTSMAN,0
+Tooele,GV01:1,Registered Voters,,,,489
+Tooele,GV01:1,Ballots Cast,,,,218
+Tooele,GV01:1,U.S. Senate,,REP,MIKE LEE,165
+Tooele,GV01:1,U.S. Senate,,REP,ALLY ISOM,26
+Tooele,GV01:1,U.S. Senate,,REP,BECKY EDWARDS,25
+Tooele,GV01:1,U.S. House,2,REP,CHRIS STEWART,179
+Tooele,GV01:1,U.S. House,2,REP,ERIN RIDER,35
+Tooele,GV01:1,State House,29,REP,BRIDGER BOLINDER,174
+Tooele,GV01:1,State House,29,REP,MARK A. HUNTSMAN,42
+Tooele,GV01:2U,Registered Voters,,,,72
+Tooele,GV01:2U,Ballots Cast,,,,34
+Tooele,GV01:2U,U.S. Senate,,REP,MIKE LEE,26
+Tooele,GV01:2U,U.S. Senate,,REP,BECKY EDWARDS,5
+Tooele,GV01:2U,U.S. Senate,,REP,ALLY ISOM,3
+Tooele,GV01:2U,U.S. House,2,REP,CHRIS STEWART,25
+Tooele,GV01:2U,U.S. House,2,REP,ERIN RIDER,7
+Tooele,GV01:2U,State House,29,REP,BRIDGER BOLINDER,27
+Tooele,GV01:2U,State House,29,REP,MARK A. HUNTSMAN,7
+Tooele,GV01:3U,Registered Voters,,,,9
+Tooele,GV01:3U,Ballots Cast,,,,5
+Tooele,GV01:3U,U.S. Senate,,REP,MIKE LEE,3
+Tooele,GV01:3U,U.S. Senate,,REP,BECKY EDWARDS,2
+Tooele,GV01:3U,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,GV01:3U,U.S. House,2,REP,CHRIS STEWART,3
+Tooele,GV01:3U,U.S. House,2,REP,ERIN RIDER,2
+Tooele,GV01:3U,State House,29,REP,BRIDGER BOLINDER,4
+Tooele,GV01:3U,State House,29,REP,MARK A. HUNTSMAN,1
+Tooele,GV02:1,Registered Voters,,,,453
+Tooele,GV02:1,Ballots Cast,,,,191
+Tooele,GV02:1,U.S. Senate,,REP,MIKE LEE,130
+Tooele,GV02:1,U.S. Senate,,REP,BECKY EDWARDS,46
+Tooele,GV02:1,U.S. Senate,,REP,ALLY ISOM,14
+Tooele,GV02:1,U.S. House,2,REP,CHRIS STEWART,158
+Tooele,GV02:1,U.S. House,2,REP,ERIN RIDER,32
+Tooele,GV02:1,State House,29,REP,BRIDGER BOLINDER,136
+Tooele,GV02:1,State House,29,REP,MARK A. HUNTSMAN,55
+Tooele,GV02:2,Registered Voters,,,,4
+Tooele,GV02:2,Ballots Cast,,,,0
+Tooele,GV02:2,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,GV02:2,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,GV02:2,U.S. Senate,,REP,MIKE LEE,0
+Tooele,GV02:2,U.S. House,2,REP,ERIN RIDER,0
+Tooele,GV02:2,U.S. House,2,REP,CHRIS STEWART,0
+Tooele,GV02:2,State House,29,REP,MARK A. HUNTSMAN,0
+Tooele,GV02:2,State House,29,REP,BRIDGER BOLINDER,0
+Tooele,GV02:3,Registered Voters,,,,0
+Tooele,GV02:3,Ballots Cast,,,,0
+Tooele,GV02:3,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,GV02:3,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,GV02:3,U.S. Senate,,REP,MIKE LEE,0
+Tooele,GV02:3,U.S. House,2,REP,ERIN RIDER,0
+Tooele,GV02:3,U.S. House,2,REP,CHRIS STEWART,0
+Tooele,GV02:3,State House,29,REP,MARK A. HUNTSMAN,0
+Tooele,GV02:3,State House,29,REP,BRIDGER BOLINDER,0
+Tooele,GV03,Registered Voters,,,,407
+Tooele,GV03,Ballots Cast,,,,183
+Tooele,GV03,U.S. Senate,,REP,MIKE LEE,142
+Tooele,GV03,U.S. Senate,,REP,BECKY EDWARDS,30
+Tooele,GV03,U.S. Senate,,REP,ALLY ISOM,9
+Tooele,GV03,U.S. House,2,REP,CHRIS STEWART,149
+Tooele,GV03,U.S. House,2,REP,ERIN RIDER,31
+Tooele,GV03,State House,29,REP,BRIDGER BOLINDER,144
+Tooele,GV03,State House,29,REP,MARK A. HUNTSMAN,38
+Tooele,GV04:1,Registered Voters,,,,503
+Tooele,GV04:1,Ballots Cast,,,,204
+Tooele,GV04:1,U.S. Senate,,REP,MIKE LEE,154
+Tooele,GV04:1,U.S. Senate,,REP,BECKY EDWARDS,36
+Tooele,GV04:1,U.S. Senate,,REP,ALLY ISOM,13
+Tooele,GV04:1,U.S. House,2,REP,CHRIS STEWART,156
+Tooele,GV04:1,U.S. House,2,REP,ERIN RIDER,44
+Tooele,GV04:1,State House,29,REP,BRIDGER BOLINDER,171
+Tooele,GV04:1,State House,29,REP,MARK A. HUNTSMAN,32
+Tooele,GV04:2U,Registered Voters,,,,2
+Tooele,GV04:2U,Ballots Cast,,,,0
+Tooele,GV04:2U,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,GV04:2U,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,GV04:2U,U.S. Senate,,REP,MIKE LEE,0
+Tooele,GV04:2U,U.S. House,2,REP,ERIN RIDER,0
+Tooele,GV04:2U,U.S. House,2,REP,CHRIS STEWART,0
+Tooele,GV04:2U,State House,29,REP,MARK A. HUNTSMAN,0
+Tooele,GV04:2U,State House,29,REP,BRIDGER BOLINDER,0
+Tooele,GV04:3U,Registered Voters,,,,0
+Tooele,GV04:3U,Ballots Cast,,,,0
+Tooele,GV04:3U,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,GV04:3U,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,GV04:3U,U.S. Senate,,REP,MIKE LEE,0
+Tooele,GV04:3U,U.S. House,2,REP,ERIN RIDER,0
+Tooele,GV04:3U,U.S. House,2,REP,CHRIS STEWART,0
+Tooele,GV04:3U,State House,29,REP,MARK A. HUNTSMAN,0
+Tooele,GV04:3U,State House,29,REP,BRIDGER BOLINDER,0
+Tooele,GV05,Registered Voters,,,,490
+Tooele,GV05,Ballots Cast,,,,253
+Tooele,GV05,U.S. Senate,,REP,MIKE LEE,191
+Tooele,GV05,U.S. Senate,,REP,BECKY EDWARDS,44
+Tooele,GV05,U.S. Senate,,REP,ALLY ISOM,16
+Tooele,GV05,U.S. House,2,REP,CHRIS STEWART,213
+Tooele,GV05,U.S. House,2,REP,ERIN RIDER,37
+Tooele,GV05,State House,29,REP,BRIDGER BOLINDER,218
+Tooele,GV05,State House,29,REP,MARK A. HUNTSMAN,34
+Tooele,GV06,Registered Voters,,,,307
+Tooele,GV06,Ballots Cast,,,,133
+Tooele,GV06,U.S. Senate,,REP,MIKE LEE,96
+Tooele,GV06,U.S. Senate,,REP,BECKY EDWARDS,19
+Tooele,GV06,U.S. Senate,,REP,ALLY ISOM,17
+Tooele,GV06,U.S. House,2,REP,CHRIS STEWART,105
+Tooele,GV06,U.S. House,2,REP,ERIN RIDER,24
+Tooele,GV06,State House,29,REP,BRIDGER BOLINDER,116
+Tooele,GV06,State House,29,REP,MARK A. HUNTSMAN,17
+Tooele,GV07,Registered Voters,,,,499
+Tooele,GV07,Ballots Cast,,,,222
+Tooele,GV07,U.S. Senate,,REP,MIKE LEE,161
+Tooele,GV07,U.S. Senate,,REP,BECKY EDWARDS,46
+Tooele,GV07,U.S. Senate,,REP,ALLY ISOM,15
+Tooele,GV07,U.S. House,2,REP,CHRIS STEWART,194
+Tooele,GV07,U.S. House,2,REP,ERIN RIDER,28
+Tooele,GV07,State House,29,REP,BRIDGER BOLINDER,176
+Tooele,GV07,State House,29,REP,MARK A. HUNTSMAN,46
+Tooele,GV08,Registered Voters,,,,291
+Tooele,GV08,Ballots Cast,,,,92
+Tooele,GV08,U.S. Senate,,REP,MIKE LEE,61
+Tooele,GV08,U.S. Senate,,REP,BECKY EDWARDS,19
+Tooele,GV08,U.S. Senate,,REP,ALLY ISOM,11
+Tooele,GV08,U.S. House,2,REP,CHRIS STEWART,71
+Tooele,GV08,U.S. House,2,REP,ERIN RIDER,19
+Tooele,GV08,State House,29,REP,BRIDGER BOLINDER,64
+Tooele,GV08,State House,29,REP,MARK A. HUNTSMAN,28
+Tooele,GV09,Registered Voters,,,,304
+Tooele,GV09,Ballots Cast,,,,97
+Tooele,GV09,U.S. Senate,,REP,MIKE LEE,71
+Tooele,GV09,U.S. Senate,,REP,BECKY EDWARDS,22
+Tooele,GV09,U.S. Senate,,REP,ALLY ISOM,4
+Tooele,GV09,U.S. House,2,REP,CHRIS STEWART,70
+Tooele,GV09,U.S. House,2,REP,ERIN RIDER,26
+Tooele,GV09,State House,29,REP,BRIDGER BOLINDER,70
+Tooele,GV09,State House,29,REP,MARK A. HUNTSMAN,26
+Tooele,GV10,Registered Voters,,,,311
+Tooele,GV10,Ballots Cast,,,,89
+Tooele,GV10,U.S. Senate,,REP,MIKE LEE,59
+Tooele,GV10,U.S. Senate,,REP,BECKY EDWARDS,22
+Tooele,GV10,U.S. Senate,,REP,ALLY ISOM,8
+Tooele,GV10,U.S. House,2,REP,CHRIS STEWART,74
+Tooele,GV10,U.S. House,2,REP,ERIN RIDER,15
+Tooele,GV10,State House,29,REP,BRIDGER BOLINDER,75
+Tooele,GV10,State House,29,REP,MARK A. HUNTSMAN,13
+Tooele,IB01,Registered Voters,,,,21
+Tooele,IB01,Ballots Cast,,,,16
+Tooele,IB01,U.S. Senate,,REP,MIKE LEE,16
+Tooele,IB01,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,IB01,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,IB01,U.S. House,2,REP,CHRIS STEWART,15
+Tooele,IB01,U.S. House,2,REP,ERIN RIDER,1
+Tooele,IB01,State House,29,REP,BRIDGER BOLINDER,13
+Tooele,IB01,State House,29,REP,MARK A. HUNTSMAN,3
+Tooele,WE01:1,Registered Voters,,,,68
+Tooele,WE01:1,Ballots Cast,,,,27
+Tooele,WE01:1,U.S. Senate,,REP,MIKE LEE,18
+Tooele,WE01:1,U.S. Senate,,REP,BECKY EDWARDS,7
+Tooele,WE01:1,U.S. Senate,,REP,ALLY ISOM,2
+Tooele,WE01:1,U.S. House,2,REP,CHRIS STEWART,17
+Tooele,WE01:1,U.S. House,2,REP,ERIN RIDER,9
+Tooele,WE01:1,State House,29,REP,BRIDGER BOLINDER,21
+Tooele,WE01:1,State House,29,REP,MARK A. HUNTSMAN,6
+Tooele,WE01:2U,Registered Voters,,,,1
+Tooele,WE01:2U,Ballots Cast,,,,1
+Tooele,WE01:2U,U.S. Senate,,REP,MIKE LEE,1
+Tooele,WE01:2U,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,WE01:2U,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,WE01:2U,U.S. House,2,REP,CHRIS STEWART,1
+Tooele,WE01:2U,U.S. House,2,REP,ERIN RIDER,0
+Tooele,WE01:2U,State House,29,REP,BRIDGER BOLINDER,1
+Tooele,WE01:2U,State House,29,REP,MARK A. HUNTSMAN,0
+Tooele,WE01:3U,Registered Voters,,,,1
+Tooele,WE01:3U,Ballots Cast,,,,0
+Tooele,WE01:3U,U.S. Senate,,REP,BECKY EDWARDS,0
+Tooele,WE01:3U,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,WE01:3U,U.S. Senate,,REP,MIKE LEE,0
+Tooele,WE01:3U,U.S. House,2,REP,ERIN RIDER,0
+Tooele,WE01:3U,U.S. House,2,REP,CHRIS STEWART,0
+Tooele,WE01:3U,State House,29,REP,MARK A. HUNTSMAN,0
+Tooele,WE01:3U,State House,29,REP,BRIDGER BOLINDER,0
+Tooele,LP01:1,Registered Voters,,,,11
+Tooele,LP01:1,Ballots Cast,,,,5
+Tooele,LP01:1,U.S. Senate,,REP,MIKE LEE,3
+Tooele,LP01:1,U.S. Senate,,REP,BECKY EDWARDS,1
+Tooele,LP01:1,U.S. Senate,,REP,ALLY ISOM,0
+Tooele,LP01:1,U.S. House,2,REP,CHRIS STEWART,3
+Tooele,LP01:1,U.S. House,2,REP,ERIN RIDER,0
+Tooele,LP01:1,State House,29,REP,MARK A. HUNTSMAN,2
+Tooele,LP01:1,State House,29,REP,BRIDGER BOLINDER,2
+Tooele,LP01:2,Registered Voters,,,,695
+Tooele,LP01:2,Ballots Cast,,,,257
+Tooele,LP01:2,U.S. Senate,,REP,MIKE LEE,92
+Tooele,LP01:2,U.S. Senate,,REP,BECKY EDWARDS,41
+Tooele,LP01:2,U.S. Senate,,REP,ALLY ISOM,22
+Tooele,LP01:2,U.S. House,2,REP,CHRIS STEWART,103
+Tooele,LP01:2,U.S. House,2,REP,ERIN RIDER,42
+Tooele,LP01:2,State House,29,REP,BRIDGER BOLINDER,94
+Tooele,LP01:2,State House,29,REP,MARK A. HUNTSMAN,51
+Tooele,LP02,Registered Voters,,,,775
+Tooele,LP02,Ballots Cast,,,,419
+Tooele,LP02,U.S. Senate,,REP,MIKE LEE,175
+Tooele,LP02,U.S. Senate,,REP,BECKY EDWARDS,53
+Tooele,LP02,U.S. Senate,,REP,ALLY ISOM,31
+Tooele,LP02,U.S. House,2,REP,CHRIS STEWART,187
+Tooele,LP02,U.S. House,2,REP,ERIN RIDER,66
+Tooele,LP02,State House,29,REP,BRIDGER BOLINDER,173
+Tooele,LP02,State House,29,REP,MARK A. HUNTSMAN,75
